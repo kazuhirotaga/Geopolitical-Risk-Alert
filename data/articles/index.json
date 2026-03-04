@@ -1,20 +1,20 @@
 [
   {
     "date": "2026-03-04",
-    "summary": "中東情勢が極めて不安定化。アメリカ・イスラエルとイランの軍事衝突が激化し、周辺国にも波及。ウクライナ情勢への関心低下も懸念される。世界経済への影響も深刻化。",
+    "summary": "米イスラエルによるイランへの攻撃が激化し、中東全域で報復攻撃が相次ぐ。原油価格高騰や航行の安全への影響も懸念される。ウクライナ情勢への関心低下も懸念されるなど、地政学的リスクが極めて高い状況。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "none",
-      "south_asia": "none",
+      "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
+      "europe": "high",
       "africa": "none",
-      "north_america": "medium",
+      "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-03-04T10:33:13.798373"
+    "generated_at": "2026-03-04T13:01:13.508032"
   }
 ]
