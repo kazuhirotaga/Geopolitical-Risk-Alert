@@ -1,0 +1,48 @@
+name: Geopolitical Risk Collection & AI Report
+
+on:
+  schedule:
+    # 毎日 UTC 0:00 と 12:00 に実行（JST 9:00 と 21:00）
+    - cron: '0 0 * * *'
+    - cron: '0 12 * * *'
+  workflow_dispatch:  # 手動実行も可能
+
+permissions:
+  contents: write
+
+jobs:
+  collect-and-publish:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect news
+        run: python scripts/collector.py
+        env:
+          PYTHONPATH: scripts
+
+      - name: Generate AI report
+        run: python scripts/ai_writer.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PYTHONPATH: scripts
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          git diff --staged --quiet || (git commit -m "📊 Update geopolitical risk report - $(date -u '+%Y-%m-%d %H:%M UTC')" && git push)
