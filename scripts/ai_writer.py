@@ -3,12 +3,16 @@ AI執筆スクリプト
 収集したニュースデータをGemini APIで分析し、地政学リスクレポートを生成する
 """
 
+import argparse
 import google.generativeai as genai
 import json
 import os
 import logging
 from datetime import datetime
-from config import ANALYSIS_PROMPT, RISK_LEVELS, REGIONS
+from config import (
+    ANALYSIS_PROMPT, FINANCIAL_ANALYSIS_PROMPT,
+    RISK_LEVELS, REGIONS
+)
 
 # ログ設定
 logging.basicConfig(
@@ -19,20 +23,32 @@ logger = logging.getLogger(__name__)
 
 # 定数
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
-RAW_NEWS_PATH = os.path.join(DATA_DIR, "raw_news.json")
-ARTICLES_DIR = os.path.join(DATA_DIR, "articles")
 
+def get_config(news_type: str):
+    if news_type == 'financial':
+        return {
+            'input_path': os.path.join(DATA_DIR, "raw_financial_news.json"),
+            'output_dir': os.path.join(DATA_DIR, "financial"),
+            'prompt_template': FINANCIAL_ANALYSIS_PROMPT,
+            'log_prefix': "金融リスク"
+        }
+    else:
+        return {
+            'input_path': os.path.join(DATA_DIR, "raw_news.json"),
+            'output_dir': os.path.join(DATA_DIR, "articles"),
+            'prompt_template': ANALYSIS_PROMPT,
+            'log_prefix': "地政学リスク"
+        }
 
-def load_raw_news() -> list:
+def load_raw_news(file_path: str) -> list:
     """収集済みニュースデータを読み込む"""
-    if not os.path.exists(RAW_NEWS_PATH):
-        logger.error(f"ニュースデータが見つかりません: {RAW_NEWS_PATH}")
+    if not os.path.exists(file_path):
+        logger.error(f"ニュースデータが見つかりません: {file_path}")
         logger.error("先に collector.py を実行してください")
         return []
 
-    with open(RAW_NEWS_PATH, "r", encoding="utf-8") as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         return json.load(f)
-
 
 def format_news_for_prompt(news_items: list) -> str:
     """ニュースデータをプロンプト用にフォーマット"""
@@ -56,8 +72,7 @@ def format_news_for_prompt(news_items: list) -> str:
         )
     return "\n".join(formatted)
 
-
-def generate_report(news_items: list) -> dict:
+def generate_report(news_items: list, prompt_template: str) -> dict:
     """Gemini APIを使用してリスクレポートを生成"""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
@@ -70,7 +85,7 @@ def generate_report(news_items: list) -> dict:
 
     # ニュースデータをフォーマット
     news_text = format_news_for_prompt(news_items)
-    prompt = ANALYSIS_PROMPT.format(news_data=news_text)
+    prompt = prompt_template.format(news_data=news_text)
 
     logger.info("Gemini APIでリスク分析を実行中...")
 
@@ -106,9 +121,9 @@ def generate_report(news_items: list) -> dict:
         return None
 
 
-def save_report(report: dict):
+def save_report(report: dict, output_dir: str):
     """レポートをJSONファイルとして保存"""
-    os.makedirs(ARTICLES_DIR, exist_ok=True)
+    os.makedirs(output_dir, exist_ok=True)
 
     today = datetime.utcnow().strftime("%Y-%m-%d")
     report["date"] = today
@@ -119,28 +134,28 @@ def save_report(report: dict):
         for k, v in REGIONS.items()
     }
 
-    filepath = os.path.join(ARTICLES_DIR, f"{today}.json")
+    filepath = os.path.join(output_dir, f"{today}.json")
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(report, f, ensure_ascii=False, indent=2)
 
     logger.info(f"レポート保存完了: {filepath}")
 
     # latest.json も更新
-    latest_path = os.path.join(ARTICLES_DIR, "latest.json")
+    latest_path = os.path.join(output_dir, "latest.json")
     with open(latest_path, "w", encoding="utf-8") as f:
         json.dump(report, f, ensure_ascii=False, indent=2)
 
     logger.info(f"最新レポート更新: {latest_path}")
 
     # index.json を更新（記事一覧）
-    update_index(today, report)
+    update_index(today, report, output_dir)
 
     return filepath
 
 
-def update_index(date: str, report: dict):
+def update_index(date: str, report: dict, output_dir: str):
     """記事一覧インデックスを更新"""
-    index_path = os.path.join(ARTICLES_DIR, "index.json")
+    index_path = os.path.join(output_dir, "index.json")
 
     # 既存インデックスの読み込み
     index = []
@@ -174,28 +189,30 @@ def update_index(date: str, report: dict):
     logger.info(f"インデックス更新完了: {index_path}")
 
 
-def main():
+def main(news_type: str = 'geopolitical'):
     """メイン処理"""
+    config = get_config(news_type)
+    
     logger.info("=" * 60)
-    logger.info("AI執筆エージェント 起動")
+    logger.info(f"AI執筆エージェント ({config['log_prefix']}) 起動")
     logger.info("=" * 60)
 
     # ニュースデータの読み込み
-    news_items = load_raw_news()
+    news_items = load_raw_news(config['input_path'])
     if not news_items:
-        logger.warning("収集済みニュースがありません。処理を終了します。")
+        logger.warning(f"収集済みニュースがありません。処理を終了します。({config['input_path']})")
         return
 
     logger.info(f"入力ニュース数: {len(news_items)}")
 
     # レポート生成
-    report = generate_report(news_items)
+    report = generate_report(news_items, config['prompt_template'])
     if not report:
         logger.error("レポート生成に失敗しました")
         return
 
     # 保存
-    save_report(report)
+    save_report(report, config['output_dir'])
 
     logger.info("=" * 60)
     logger.info("AI執筆完了")
@@ -205,4 +222,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="AI執筆エージェント")
+    parser.add_argument("--type", choices=['geopolitical', 'financial'], default='geopolitical', help="生成するレポートの種別")
+    args = parser.parse_args()
+    
+    main(args.type)

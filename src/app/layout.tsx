@@ -28,7 +28,8 @@ export default function RootLayout({
             </a>
             <nav>
               <ul className="header-nav">
-                <li><a href="/">ダッシュボード</a></li>
+                <li><a href="/">地政学リスク</a></li>
+                <li><a href="/financial">金融リスク</a></li>
                 <li><a href="/articles">記事一覧</a></li>
               </ul>
             </nav>

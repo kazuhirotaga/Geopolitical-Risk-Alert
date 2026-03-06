@@ -3,6 +3,7 @@
 RSSフィードおよび公的機関からニュースを自動収集する
 """
 
+import argparse
 import feedparser
 import requests
 import json
@@ -12,7 +13,11 @@ import logging
 from datetime import datetime, timedelta
 from dateutil import parser as date_parser
 from bs4 import BeautifulSoup
-from config import DATA_SOURCES, GEOPOLITICAL_KEYWORDS, REGIONS
+from config import (
+    DATA_SOURCES, FINANCIAL_DATA_SOURCES,
+    GEOPOLITICAL_KEYWORDS, FINANCIAL_KEYWORDS,
+    REGIONS
+)
 
 # ログ設定
 logging.basicConfig(
@@ -23,21 +28,33 @@ logger = logging.getLogger(__name__)
 
 # 定数
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
-RAW_NEWS_PATH = os.path.join(DATA_DIR, "raw_news.json")
 MAX_AGE_HOURS = 48  # 48時間以内のニュースのみ収集
 
+def get_config(news_type: str):
+    if news_type == 'financial':
+        return {
+            'sources': FINANCIAL_DATA_SOURCES,
+            'keywords': FINANCIAL_KEYWORDS,
+            'output_path': os.path.join(DATA_DIR, "raw_financial_news.json"),
+            'log_prefix': "金融リスク"
+        }
+    else:
+        return {
+            'sources': DATA_SOURCES,
+            'keywords': GEOPOLITICAL_KEYWORDS,
+            'output_path': os.path.join(DATA_DIR, "raw_news.json"),
+            'log_prefix': "地政学リスク"
+        }
 
 def generate_id(title: str, url: str) -> str:
     """記事のユニークIDを生成"""
     content = f"{title}:{url}"
     return hashlib.md5(content.encode("utf-8")).hexdigest()[:12]
 
-
-def is_geopolitical(title: str, summary: str) -> bool:
-    """地政学関連のニュースかどうかを判定"""
+def is_relevant(title: str, summary: str, keywords: list) -> bool:
+    """指定されたキーワードに関連するニュースかどうかを判定"""
     text = (title + " " + summary).lower()
-    return any(kw.lower() in text for kw in GEOPOLITICAL_KEYWORDS)
-
+    return any(kw.lower() in text for kw in keywords)
 
 def detect_regions(title: str, summary: str) -> list:
     """ニュースに関連する地域を推定"""
@@ -49,7 +66,6 @@ def detect_regions(title: str, summary: str) -> list:
                 detected.append(region_id)
                 break
     return detected if detected else ["global"]
-
 
 def parse_date(date_str: str) -> str:
     """日付文字列をISO形式に変換"""
@@ -72,7 +88,7 @@ def is_recent(date_str: str) -> bool:
         return True  # 日付が不明な場合は含める
 
 
-def fetch_rss_feed(source: dict) -> list:
+def fetch_rss_feed(source: dict, keywords: list) -> list:
     """RSSフィードからニュースを取得"""
     articles = []
     try:
@@ -94,8 +110,8 @@ def fetch_rss_feed(source: dict) -> list:
                 soup = BeautifulSoup(summary, "html.parser")
                 summary = soup.get_text(strip=True)
 
-            # 地政学フィルタリング
-            if not is_geopolitical(title, summary):
+            # キーワードフィルタリング
+            if not is_relevant(title, summary, keywords):
                 continue
 
             # 日付チェック
@@ -115,7 +131,7 @@ def fetch_rss_feed(source: dict) -> list:
             }
             articles.append(article)
 
-        logger.info(f"  → {len(articles)}件の地政学関連記事を取得")
+        logger.info(f"  → {len(articles)}件の関連記事を取得")
 
     except requests.exceptions.RequestException as e:
         logger.warning(f"  → 取得失敗: {source['name']}: {e}")
@@ -136,36 +152,38 @@ def deduplicate(articles: list) -> list:
     return unique
 
 
-def load_existing_news() -> list:
+def load_existing_news(file_path: str) -> list:
     """既存の収集データを読み込む"""
-    if os.path.exists(RAW_NEWS_PATH):
+    if os.path.exists(file_path):
         try:
-            with open(RAW_NEWS_PATH, "r", encoding="utf-8") as f:
+            with open(file_path, "r", encoding="utf-8") as f:
                 return json.load(f)
         except (json.JSONDecodeError, IOError):
             return []
     return []
 
 
-def save_news(articles: list):
+def save_news(articles: list, file_path: str):
     """収集データを保存"""
     os.makedirs(DATA_DIR, exist_ok=True)
-    with open(RAW_NEWS_PATH, "w", encoding="utf-8") as f:
+    with open(file_path, "w", encoding="utf-8") as f:
         json.dump(articles, f, ensure_ascii=False, indent=2)
-    logger.info(f"保存完了: {RAW_NEWS_PATH} ({len(articles)}件)")
+    logger.info(f"保存完了: {file_path} ({len(articles)}件)")
 
 
-def collect_all():
+def collect_all(news_type: str = 'geopolitical'):
     """全ソースからニュースを収集"""
+    config = get_config(news_type)
+    
     logger.info("=" * 60)
-    logger.info("地政学リスク情報の収集を開始")
-    logger.info(f"対象ソース数: {len(DATA_SOURCES)}")
+    logger.info(f"{config['log_prefix']}情報の収集を開始")
+    logger.info(f"対象ソース数: {len(config['sources'])}")
     logger.info("=" * 60)
 
     all_articles = []
 
-    for source in DATA_SOURCES:
-        articles = fetch_rss_feed(source)
+    for source in config['sources']:
+        articles = fetch_rss_feed(source, config['keywords'])
         all_articles.extend(articles)
 
     # 重複排除
@@ -188,9 +206,13 @@ def collect_all():
     logger.info("=" * 60)
 
     # 保存
-    save_news(unique_articles)
+    save_news(unique_articles, config['output_path'])
     return unique_articles
 
 
 if __name__ == "__main__":
-    collect_all()
+    parser = argparse.ArgumentParser(description="ニュース収集スクリプト")
+    parser.add_argument("--type", choices=['geopolitical', 'financial'], default='geopolitical', help="収集するニュースの種別")
+    args = parser.parse_args()
+    
+    collect_all(args.type)

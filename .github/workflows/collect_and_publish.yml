@@ -29,13 +29,29 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Collect news
-        run: python scripts/collector.py
+      - name: Collect geopolitical news
+        run: python scripts/collector.py --type geopolitical
         env:
           PYTHONPATH: scripts
 
-      - name: Generate AI report
-        run: python scripts/ai_writer.py
+      - name: Generate geopolitical report
+        run: python scripts/ai_writer.py --type geopolitical
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PYTHONPATH: scripts
+
+      - name: Collect financial news
+        run: python scripts/collector.py --type financial
+        env:
+          PYTHONPATH: scripts
+
+      - name: Collect market data
+        run: python scripts/market_data_collector.py
+        env:
+          PYTHONPATH: scripts
+
+      - name: Generate financial report
+        run: python scripts/ai_writer.py --type financial
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PYTHONPATH: scripts
