@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-06",
+    "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、地域全体に影響が拡大。ウクライナ情勢も継続し、地政学的リスクは極めて高い状態。各国は対応に苦慮し、世界経済への影響も懸念される。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "medium",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "low"
+    },
+    "generated_at": "2026-03-06T01:29:21.755546"
+  },
+  {
     "date": "2026-03-05",
     "summary": "中東情勢はアメリカ・イスラエルによるイランへの軍事作戦が激化し、地域全体に混乱が拡大。エネルギー価格高騰やテロの脅威など、世界経済への影響も懸念される。ネパールでは政変後の総選挙が行われ、政治情勢の不安定化も懸念される。",
     "overall_risk_level": "critical",
