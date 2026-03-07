@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-07",
+    "summary": "アメリカとイスラエルによるイランへの軍事作戦が激化し、中東情勢が極めて不安定化。ウクライナ情勢も長期化の様相を呈し、世界経済への影響が深刻化している。米中対立も継続し、地政学的リスクは全体的に高まっている。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "none",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "none",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-03-07T01:22:06.291762"
+  },
+  {
     "date": "2026-03-06",
     "summary": "中東情勢が極めて不安定化。アメリカ・イスラエルとイランの軍事衝突が激化し、周辺地域に波及。ウクライナ情勢も依然として緊迫しており、世界的な地政学リスクが高まっている。",
     "overall_risk_level": "critical",
