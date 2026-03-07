@@ -1,19 +1,18 @@
 {
   "date": "2026-03-07",
-  "summary": "米国とイランの戦争が激化し、原油価格が急騰、インフレ懸念が高まっている。金融市場はリスクオフの動きを見せ、安全資産への逃避が加速。米国の金融政策の不確実性も高まっている。",
+  "summary": "米国とイランの戦争激化により、原油価格が急騰し、世界経済に深刻な影響を与えている。米国の雇用統計悪化も重なり、株式市場は大幅下落。暗号資産市場も不安定な動きを見せている。",
   "overall_risk_level": "critical",
   "articles": [
     {
       "title": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
       "region": "global",
       "risk_level": "critical",
-      "summary": "原油価格が過去最大の急騰。ホルムズ海峡の封鎖懸念が背景。世界経済への影響は甚大で、インフレ加速、景気後退のリスクが高まる。",
-      "analysis": "原油価格の急騰は、輸送コストの上昇を通じて、あらゆる商品の価格に影響を及ぼす。特に、エネルギー輸入依存度の高い国や地域では、インフレ圧力が深刻化する。また、企業収益の悪化や消費者の購買力低下を通じて、景気後退を招く可能性もある。地政学的リスクの高まりが、金融市場のボラティリティを増幅させている。",
+      "summary": "原油市場は、ホルムズ海峡の封鎖により湾岸諸国が生産停止を余儀なくされることを懸念し、今週35%急騰。過去最大の上げ幅を記録。",
+      "analysis": "米国とイランの戦争が激化する中、ホルムズ海峡の封鎖リスクが高まり、原油価格が記録的な上昇を見せている。これは、世界経済にインフレ圧力を高め、景気後退のリスクを増大させる。特に、エネルギー輸入依存度の高い国々への影響は深刻となるだろう。今後の戦争の行方と、ホルムズ海峡の安全確保が最重要課題となる。",
       "key_entities": [
-        "OPEC",
-        "Strait of Hormuz",
-        "Brent Crude",
-        "WTI Crude"
+        "WTI原油",
+        "ブレント原油",
+        "ホルムズ海峡"
       ],
       "sources": [
         "CNBC - Top News"
@@ -23,19 +22,36 @@
       ]
     },
     {
-      "title": "Trump says no deal with Iran to end war without 'unconditional surrender'",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "トランプ大統領がイランに無条件降伏を要求。原油価格が急騰し、ビットコインや株式市場は下落。地政学的リスクが金融市場を大きく揺さぶっている。",
-      "analysis": "トランプ大統領の強硬姿勢は、中東地域の緊張をさらに高め、原油価格のさらなる上昇を招く可能性がある。また、米国とイランの対立が長期化すれば、世界経済のサプライチェーンが混乱し、インフレ圧力が長期化する恐れがある。投資家心理が悪化し、リスク資産からの資金流出が加速する可能性も否定できない。",
+      "title": "Dow falls 450 points, posts worst week in nearly a year as oil tops $90, jobs data disappoints: Live updates",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "原油価格の急騰と米国の新規雇用者数の予想外の減少を受け、株式市場は下落。ダウ平均は450ポイント下落し、年初来最悪の週となった。",
+      "analysis": "原油価格の高騰と雇用統計の悪化が重なり、株式市場は大幅な調整局面に入った。これは、インフレ懸念の再燃と景気後退への警戒感の高まりを示唆している。FRBの利下げ期待も後退し、金融市場全体に不透明感が漂っている。投資家はリスクオフ姿勢を強め、安全資産への逃避が進む可能性がある。",
       "key_entities": [
-        "Donald Trump",
-        "Iran",
-        "Brent Crude",
-        "Bitcoin"
+        "ダウ平均",
+        "FRB",
+        "米国雇用統計"
       ],
       "sources": [
         "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin slips below $68,000 heading into the weekend as dollar posts steepest weekly gain in a year",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ドルが1年で最大の週間上昇を記録する中、ビットコインは週末に向けて68,000ドルを下回る。リスクオフ姿勢が強まり、暗号資産市場から資金が流出。",
+      "analysis": "ドルの上昇は、安全資産への需要の高まりと、FRBの利下げ期待の後退を示唆している。ビットコインは、リスク資産としての性格が強く、地政学的リスクや金融引き締め政策の影響を受けやすい。短期的な価格変動リスクが高まっており、投資家は慎重な姿勢を維持する必要がある。",
+      "key_entities": [
+        "ビットコイン",
+        "ドル",
+        "FRB"
+      ],
+      "sources": [
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -44,12 +60,31 @@
     {
       "title": "Investors brace for what's next as U.S.-Iran war stretches into second week",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "米国とイランの戦争が2週目に突入。投資家は今後の展開を警戒。戦争の長期化に対する懸念が、市場の不確実性を高めている。",
-      "analysis": "戦争の長期化は、原油価格の高止まり、サプライチェーンの混乱、地政学的リスクの増大など、様々なリスク要因を増幅させる。投資家は、リスク回避姿勢を強め、安全資産への投資を増やす傾向にある。また、企業は、投資計画の見直しや事業戦略の変更を迫られる可能性もある。",
+      "risk_level": "critical",
+      "summary": "米国とイランの戦争が2週目に突入し、投資家は今後の展開を注視。戦争の長期化に対する懸念が高まっている。",
+      "analysis": "米国とイランの戦争は、中東地域の地政学的リスクを大幅に高めている。原油価格の高騰、サプライチェーンの混乱、金融市場の不安定化など、世界経済への影響は甚大である。戦争の長期化は、更なるリスクを増大させ、投資家の不安心理を煽るだろう。",
       "key_entities": [
-        "US",
-        "Iran"
+        "米国",
+        "イラン",
+        "中東"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Trump admin announces $20 billion reinsurance program for oil tankers during Iran war",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "トランプ政権は、イラン戦争中に石油タンカーを対象とした200億ドルの再保険プログラムを発表。ホルムズ海峡のタンカー輸送は依然として停止状態。",
+      "analysis": "再保険プログラムは、ホルムズ海峡のタンカー輸送を再開させるための措置だが、戦争の激化により効果は限定的となる可能性がある。輸送コストの上昇は、原油価格の上昇をさらに加速させ、世界経済に悪影響を及ぼすだろう。",
+      "key_entities": [
+        "トランプ政権",
+        "ホルムズ海峡",
+        "石油タンカー"
       ],
       "sources": [
         "CNBC - Top News"
@@ -60,50 +95,17 @@
     },
     {
       "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
-      "region": "global",
+      "region": "middle_east",
       "risk_level": "medium",
-      "summary": "FRB高官が利下げの可能性を示唆。弱い雇用統計が利下げ観測を強めている。インフレと景気後退のバランスが難しい局面。",
-      "analysis": "FRBの利下げは、景気の下支えにはなるものの、インフレを加速させるリスクもある。また、利下げ幅やタイミングによっては、市場の混乱を招く可能性もある。FRBは、慎重な政策判断が求められる。",
+      "summary": "FRBのミラン理事は、2月の雇用喪失が更なる利下げの根拠になると発言。インフレよりも労働市場の支援を重視すべきと主張。",
+      "analysis": "ミラン理事の発言は、FRB内部で政策判断が分かれていることを示唆している。雇用統計の悪化は、景気後退への懸念を高め、FRBに利下げ圧力をかけるだろう。しかし、原油価格の高騰によるインフレ懸念も根強く、FRBは難しい政策判断を迫られることになる。",
       "key_entities": [
-        "Federal Reserve",
-        "Miran"
+        "FRB",
+        "ミラン理事",
+        "米国雇用統計"
       ],
       "sources": [
         "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Robinhood's venture fund, which gives investors access to private companies, tanks 11% on first day",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "Robinhoodのベンチャーファンドが初日に急落。リスクの高い投資に対する投資家の意欲が低下している可能性を示唆。",
-      "analysis": "ベンチャーファンドの急落は、市場全体のリスクオフムードを反映している可能性がある。特に、金利上昇や景気後退懸念が高まる中では、リスクの高い投資に対する投資家の選別が厳しくなる傾向がある。",
-      "key_entities": [
-        "Robinhood"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin drops toward $70,000 ahead of U.S. jobs data; oil price rises on Iran war",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "ビットコインが下落。米国の雇用統計発表を控え、原油価格はイラン戦争の影響で上昇。リスク資産と安全資産の動きが交錯。",
-      "analysis": "ビットコインの下落は、リスクオフムードの高まりと、米国の雇用統計発表を前にしたポジション調整が影響していると考えられる。一方、原油価格の上昇は、地政学的リスクの高まりを反映している。市場は、今後の経済指標や地政学的リスクの動向に注目している。",
-      "key_entities": [
-        "Bitcoin",
-        "Iran",
-        "US Jobs Data"
-      ],
-      "sources": [
-        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -113,11 +115,12 @@
       "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
       "region": "middle_east",
       "risk_level": "low",
-      "summary": "Palantirの株価が上昇。イラン戦争が追い風となり、AI関連の懸念を打ち消した。",
-      "analysis": "Palantirは、政府機関向けのデータ分析プラットフォームを提供しており、地政学的リスクの高まりは、同社の需要を増加させる可能性がある。ただし、戦争の長期化や拡大は、同社の事業環境に悪影響を及ぼす可能性もある。",
+      "summary": "パランティアの株価は、米国によるイラン攻撃を受け、今週15%上昇。8月以来最高の週となり、大型テクノロジー株を上回るパフォーマンス。",
+      "analysis": "パランティアは、政府機関向けのデータ分析プラットフォームを提供しており、戦争の激化により需要が増加すると予想されている。しかし、戦争の長期化は、経済全体に悪影響を及ぼす可能性があり、パランティアの業績にもマイナスの影響を与える可能性がある。",
       "key_entities": [
-        "Palantir",
-        "Iran"
+        "パランティア",
+        "米国",
+        "イラン"
       ],
       "sources": [
         "CNBC - Top News"
@@ -127,16 +130,51 @@
       ]
     },
     {
-      "title": "Find safety and income in these tax-exempt bonds as the Iran war stirs up the market",
-      "region": "middle_east",
-      "risk_level": "low",
-      "summary": "イラン戦争で市場が混乱する中、非課税債に安全性と収入を求める動き。地方債への投資機会。",
-      "analysis": "市場の不確実性が高まる中、安全資産への需要が高まっている。非課税債は、比較的安全性が高く、安定した収入が得られるため、投資家の関心を集めている。ただし、金利変動リスクや信用リスクには注意が必要。",
+      "title": "MTG flags imminent Social Security crisis — urges US to stop ‘funding foreign wars’ to save the program. Secure your inc",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "MTG議員は、社会保障制度の危機が迫っていると警告し、制度を救うために米国が「外国の戦争への資金提供」を停止するよう促している。",
+      "analysis": "社会保障制度の持続可能性に対する懸念は、以前から指摘されている。戦争による財政負担の増加は、この問題をさらに深刻化させる可能性がある。社会保障制度改革は、政治的な対立を招きやすく、実現は困難である。",
       "key_entities": [
-        "Municipal Bonds"
+        "米国社会保障制度",
+        "MTG議員"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Robinhood's venture fund, which gives investors access to private companies, tanks 11% on first day",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Robinhoodのベンチャーファンドは、ニューヨーク証券取引所でのデビュー初日に11%下落し、リスクの高い投資に対する投資家の意欲に疑問を投げかけている。",
+      "analysis": "ベンチャーファンドの下落は、市場全体のリスクオフ姿勢を反映している。特に、未公開企業への投資は、流動性が低く、リスクが高い。金利上昇や景気後退への懸念が高まる中、投資家はより安全な資産への投資を優先する傾向にある。",
+      "key_entities": [
+        "Robinhood",
+        "ベンチャーファンド"
       ],
       "sources": [
         "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Kazakhstan central bank to invest $350 million worth of gold, forex reserves into digital assets",
+      "region": "central_asia",
+      "risk_level": "medium",
+      "summary": "カザフスタン中央銀行は、3億5000万ドル相当の金と外貨準備をデジタル資産に投資する予定。",
+      "analysis": "カザフスタンの決定は、デジタル資産に対する中央銀行の関心の高まりを示唆している。しかし、デジタル資産は、価格変動が激しく、規制も未整備なため、投資リスクは高い。カザフスタン中央銀行の投資が成功するかどうかは、今後のデジタル資産市場の動向に左右される。",
+      "key_entities": [
+        "カザフスタン中央銀行",
+        "デジタル資産"
+      ],
+      "sources": [
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -146,10 +184,10 @@
   "region_risk_map": {
     "global": "critical",
     "north_america": "medium",
-    "europe": "medium",
-    "east_asia": "medium"
+    "europe": "none",
+    "east_asia": "none"
   },
-  "generated_at": "2026-03-07T01:22:25.606193",
+  "generated_at": "2026-03-07T12:52:17.694088",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T01:22:10.910358",
+  "generated_at": "2026-03-07T12:52:01.373219",
   "indices": [
     {
       "symbol": "^N225",
@@ -52,11 +52,11 @@
     {
       "symbol": "^TNX",
       "label": "米10年国債利回り",
-      "current_price": 4.133000373840332,
+      "current_price": 4.132999897003174,
       "price_formatted": "4.13",
-      "change": -0.012999534606933594,
+      "change": -0.013000011444091797,
       "change_formatted": "-0.01",
-      "change_percent": -0.3135440157740404,
+      "change_percent": -0.3135555169117329,
       "change_percent_formatted": "-0.31%",
       "trend": "down",
       "date": "2026-03-06"
@@ -76,36 +76,36 @@
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 68221.2734375,
-      "price_formatted": "68,221",
-      "change": -2619.8515625,
-      "change_formatted": "-2,620",
-      "change_percent": -3.6982071677997777,
-      "change_percent_formatted": "-3.70%",
+      "current_price": 67908.9453125,
+      "price_formatted": "67,909",
+      "change": -227.546875,
+      "change_formatted": "-228",
+      "change_percent": -0.33395742530130523,
+      "change_percent_formatted": "-0.33%",
       "trend": "down",
       "date": "2026-03-07"
     },
     {
       "symbol": "GC=F",
       "label": "金 (先物)",
-      "current_price": 5181.2998046875,
-      "price_formatted": "5,181.30",
-      "change": 116.0,
-      "change_formatted": "+116.00",
-      "change_percent": 2.290091494538032,
-      "change_percent_formatted": "+2.29%",
+      "current_price": 5146.10009765625,
+      "price_formatted": "5,146.10",
+      "change": 80.80029296875,
+      "change_formatted": "+80.80",
+      "change_percent": 1.5951729627923756,
+      "change_percent_formatted": "+1.60%",
       "trend": "up",
       "date": "2026-03-06"
     },
     {
       "symbol": "CL=F",
       "label": "原油 (WTI先物)",
-      "current_price": 91.2699966430664,
-      "price_formatted": "91.27",
-      "change": 10.259994506835938,
-      "change_formatted": "+10.26",
-      "change_percent": 12.665095958869642,
-      "change_percent_formatted": "+12.67%",
+      "current_price": 90.9000015258789,
+      "price_formatted": "90.90",
+      "change": 9.889999389648438,
+      "change_formatted": "+9.89",
+      "change_percent": 12.20836826175726,
+      "change_percent_formatted": "+12.21%",
       "trend": "up",
       "date": "2026-03-06"
     }
