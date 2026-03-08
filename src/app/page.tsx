@@ -1,4 +1,5 @@
 import { getLatestReport, REGION_NAMES, RISK_LABELS, SOURCE_TYPE_LABELS } from '@/lib/data';
+import VesselMap from '@/components/VesselMap';
 
 export default function Home() {
   const report = getLatestReport();
@@ -82,6 +83,17 @@ export default function Home() {
               );
             })}
           </div>
+        </div>
+      </section>
+
+      {/* Vessel Traffic Monitoring */}
+      <section className="vessel-monitoring-section fade-in fade-in-delay-3">
+        <h2 className="section-title">
+          <span className="icon">🚢</span>
+          ホルムズ海峡 船舶航行モニタリング
+        </h2>
+        <div className="vessel-map-wrapper">
+          <VesselMap />
         </div>
       </section>
 

@@ -293,10 +293,21 @@ a:hover {
   margin-bottom: var(--space-xs);
 }
 
-.risk-stat-card.critical .risk-stat-count { color: var(--risk-critical); }
-.risk-stat-card.high .risk-stat-count { color: var(--risk-high); }
-.risk-stat-card.medium .risk-stat-count { color: var(--risk-medium); }
-.risk-stat-card.low .risk-stat-count { color: var(--risk-low); }
+.risk-stat-card.critical .risk-stat-count {
+  color: var(--risk-critical);
+}
+
+.risk-stat-card.high .risk-stat-count {
+  color: var(--risk-high);
+}
+
+.risk-stat-card.medium .risk-stat-count {
+  color: var(--risk-medium);
+}
+
+.risk-stat-card.low .risk-stat-count {
+  color: var(--risk-low);
+}
 
 .risk-stat-label {
   font-size: 0.8rem;
@@ -328,14 +339,42 @@ a:hover {
   border-radius: 50%;
 }
 
-.risk-badge.critical { background: var(--risk-critical-bg); color: var(--risk-critical); }
-.risk-badge.critical .dot { background: var(--risk-critical); animation: pulse 2s infinite; }
-.risk-badge.high { background: var(--risk-high-bg); color: var(--risk-high); }
-.risk-badge.high .dot { background: var(--risk-high); }
-.risk-badge.medium { background: var(--risk-medium-bg); color: var(--risk-medium); }
-.risk-badge.medium .dot { background: var(--risk-medium); }
-.risk-badge.low { background: var(--risk-low-bg); color: var(--risk-low); }
-.risk-badge.low .dot { background: var(--risk-low); }
+.risk-badge.critical {
+  background: var(--risk-critical-bg);
+  color: var(--risk-critical);
+}
+
+.risk-badge.critical .dot {
+  background: var(--risk-critical);
+  animation: pulse 2s infinite;
+}
+
+.risk-badge.high {
+  background: var(--risk-high-bg);
+  color: var(--risk-high);
+}
+
+.risk-badge.high .dot {
+  background: var(--risk-high);
+}
+
+.risk-badge.medium {
+  background: var(--risk-medium-bg);
+  color: var(--risk-medium);
+}
+
+.risk-badge.medium .dot {
+  background: var(--risk-medium);
+}
+
+.risk-badge.low {
+  background: var(--risk-low-bg);
+  color: var(--risk-low);
+}
+
+.risk-badge.low .dot {
+  background: var(--risk-low);
+}
 
 /* ============================================================
    Source Type Badge
@@ -427,11 +466,25 @@ a:hover {
   color: inherit;
 }
 
-.region-card.critical { border-left: 3px solid var(--risk-critical); }
-.region-card.high { border-left: 3px solid var(--risk-high); }
-.region-card.medium { border-left: 3px solid var(--risk-medium); }
-.region-card.low { border-left: 3px solid var(--risk-low); }
-.region-card.none { border-left: 3px solid var(--risk-none); }
+.region-card.critical {
+  border-left: 3px solid var(--risk-critical);
+}
+
+.region-card.high {
+  border-left: 3px solid var(--risk-high);
+}
+
+.region-card.medium {
+  border-left: 3px solid var(--risk-medium);
+}
+
+.region-card.low {
+  border-left: 3px solid var(--risk-low);
+}
+
+.region-card.none {
+  border-left: 3px solid var(--risk-none);
+}
 
 .region-name {
   font-weight: 600;
@@ -582,23 +635,52 @@ a:hover {
    ============================================================ */
 
 @keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.4; }
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.4;
+  }
 }
 
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .fade-in {
   animation: fadeIn 0.6s ease forwards;
 }
 
-.fade-in-delay-1 { animation-delay: 0.1s; opacity: 0; }
-.fade-in-delay-2 { animation-delay: 0.2s; opacity: 0; }
-.fade-in-delay-3 { animation-delay: 0.3s; opacity: 0; }
-.fade-in-delay-4 { animation-delay: 0.4s; opacity: 0; }
+.fade-in-delay-1 {
+  animation-delay: 0.1s;
+  opacity: 0;
+}
+
+.fade-in-delay-2 {
+  animation-delay: 0.2s;
+  opacity: 0;
+}
+
+.fade-in-delay-3 {
+  animation-delay: 0.3s;
+  opacity: 0;
+}
+
+.fade-in-delay-4 {
+  animation-delay: 0.4s;
+  opacity: 0;
+}
 
 /* ============================================================
    Responsive
@@ -703,6 +785,60 @@ a:hover {
 }
 
 @keyframes shimmer {
-  0% { background-position: -200% 0; }
-  100% { background-position: 200% 0; }
+  0% {
+    background-position: -200% 0;
+  }
+
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+/* ============================================================
+   Vessel Map Component
+   ============================================================ */
+
+.vessel-map-container {
+  position: relative;
+  width: 100%;
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+  border: 1px solid var(--border-color);
+  background: var(--bg-glass);
+  backdrop-filter: blur(12px);
+  box-shadow: var(--shadow-lg);
+  margin-top: var(--space-lg);
+}
+
+.vessel-map-iframe {
+  display: block;
+  border: none;
+  filter: brightness(0.9) contrast(1.1);
+}
+
+.map-overlay-info {
+  position: absolute;
+  top: var(--space-md);
+  right: var(--space-md);
+  background: rgba(10, 14, 26, 0.8);
+  backdrop-filter: blur(8px);
+  padding: 8px 16px;
+  border-radius: 20px;
+  border: 1px solid var(--border-color);
+  z-index: 10;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.pulse-green {
+  width: 8px;
+  height: 8px;
+  background: var(--risk-low);
+  border-radius: 50%;
+  box-shadow: 0 0 10px var(--risk-low-glow);
+  animation: pulse 2s infinite;
 }
