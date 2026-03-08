@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-03-08",
+    "summary": "中東における地政学的リスクが市場を大きく揺るがす。イラン戦争の激化により原油価格が急騰し、世界経済への影響が懸念される。暗号資産市場は規制の不確実性と価格変動に直面し、リスクオフの動きが見られる。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "medium",
+      "north_america": "medium",
+      "europe": "medium",
+      "east_asia": "none",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "critical"
+    },
+    "generated_at": "2026-03-08T01:28:27.041325"
+  },
+  {
     "date": "2026-03-07",
     "summary": "米国とイランの戦争激化により、原油価格が急騰し、世界経済に深刻な影響を与えている。米国の雇用統計悪化も重なり、株式市場は大幅下落。暗号資産市場も不安定な動きを見せている。",
     "overall_risk_level": "critical",

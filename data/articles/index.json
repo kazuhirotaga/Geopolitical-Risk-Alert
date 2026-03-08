@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-08",
+    "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、世界経済への影響も懸念される。ウクライナ情勢も依然として不安定であり、東アジアでは台湾を巡る動きも活発化している。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "low",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "none",
+      "north_america": "medium",
+      "south_america": "low"
+    },
+    "generated_at": "2026-03-08T01:28:05.211993"
+  },
+  {
     "date": "2026-03-07",
     "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、世界経済への影響も懸念される。ウクライナ情勢も長期化の様相を呈しており、地政学リスクは極めて高い。",
     "overall_risk_level": "critical",
