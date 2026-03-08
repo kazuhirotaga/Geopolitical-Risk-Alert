@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T01:28:09.846163",
+  "generated_at": "2026-03-08T12:53:41.055448",
   "indices": [
     {
       "symbol": "^N225",
@@ -76,24 +76,24 @@
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 67280.296875,
-      "price_formatted": "67,280",
-      "change": -856.1953125,
-      "change_formatted": "-856",
-      "change_percent": -1.2565884814614414,
-      "change_percent_formatted": "-1.26%",
-      "trend": "down",
+      "current_price": 67327.3828125,
+      "price_formatted": "67,327",
+      "change": 54.7890625,
+      "change_formatted": "+55",
+      "change_percent": 0.0814433626620796,
+      "change_percent_formatted": "+0.08%",
+      "trend": "up",
       "date": "2026-03-08"
     },
     {
       "symbol": "GC=F",
       "label": "金 (先物)",
-      "current_price": 5146.10009765625,
-      "price_formatted": "5,146.10",
-      "change": 80.80029296875,
-      "change_formatted": "+80.80",
-      "change_percent": 1.5951729627923756,
-      "change_percent_formatted": "+1.60%",
+      "current_price": 5158.7001953125,
+      "price_formatted": "5,158.70",
+      "change": 93.400390625,
+      "change_formatted": "+93.40",
+      "change_percent": 1.84392620824864,
+      "change_percent_formatted": "+1.84%",
       "trend": "up",
       "date": "2026-03-06"
     },
