@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/react";
 
 export const metadata: Metadata = {
   title: "GeoRisk Alert | 地政学リスク情報ダッシュボード",
@@ -39,6 +40,7 @@ export default function RootLayout({
         <main className="main-container">
           {children}
         </main>
+        <Analytics />
         <footer className="footer">
           <p>GeoRisk Alert — AI駆動の地政学リスク分析プラットフォーム</p>
           <p>情報源: 各国政府機関、国際機関、主要メディアのRSSフィード</p>
