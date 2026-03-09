@@ -305,6 +305,96 @@ FINANCIAL_KEYWORDS = [
 ]
 
 # ============================================================
+# ステートメント（要人発言）設定
+# ============================================================
+
+# 発言トラッキング用ソース
+STATEMENTS_DATA_SOURCES = [
+    {
+        "name": "White House Briefing Room",
+        "url": "https://www.whitehouse.gov/briefing-room/feed/",
+        "type": "government",
+        "language": "en",
+        "region_focus": "north_america",
+    },
+    {
+        "name": "Federal Reserve - Press Releases",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "type": "government",
+        "language": "en",
+        "region_focus": "north_america",
+    },
+    {
+        "name": "European Council - Press Releases",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/rss/",
+        "type": "international_org",
+        "language": "en",
+        "region_focus": "europe",
+    },
+    {
+        "name": "Japan PM Office - Speeches",
+        "url": "https://www.kantei.go.jp/jp/r_koho/speech.xml",
+        "type": "government",
+        "language": "ja",
+        "region_focus": "east_asia",
+    },
+    {
+        "name": "Reuters - Politics",
+        "url": "https://rsshub.app/reuters/world/politics",
+        "type": "media",
+        "language": "en",
+        "region_focus": "global",
+    },
+    {
+        "name": "Axios - Politics",
+        "url": "https://api.axios.com/feed/politics/",
+        "type": "media",
+        "language": "en",
+        "region_focus": "north_america",
+    },
+]
+
+# 発言抽出用キーワード
+STATEMENTS_KEYWORDS = [
+    "said", "stated", "announced", "warned", "called for", "reiterated", "urged",
+    "speech", "remarks", "testimony", "briefing", "press conference",
+    "発言", "述べた", "表明", "発表", "指摘", "強調", "会見", "声明", "演説",
+]
+
+STATEMENTS_ANALYSIS_PROMPT = """あなたは政治・経済の要人発言を分析する専門アナリストです。
+入力されるニュース情報から、大統領、政府高官、中央銀行総裁（FRB議長など）、主要企業CEOなどの「重要な発言」を抽出し、日本語でレポートを作成してください。
+
+## 入力ニュース情報
+{news_data}
+
+## 出力形式（JSON）
+以下のJSON形式で出力してください。マークダウンの```json```タグは不要です。
+
+{{
+  "date": "YYYY-MM-DD",
+  "summary": "本日の要人発言の全体的な傾向、市場や政治への影響（150文字程度）",
+  "statements": [
+    {{
+      "speaker": "発言者の氏名（例：ジョー・バイデン）",
+      "title": "発言者の肩書き（例：米大統領）",
+      "quote": "要約された発言の核心部分。直接話法に近い形式が望ましい",
+      "context": "発言の背景や場所（例：ホワイトハウスでの記者会見、議会証言など）",
+      "analysis": "この発言が持つ意味、政治的・経済的影響の分析（200文字程度）",
+      "importance": "critical|high|medium|low",
+      "tags": ["関連トピックのタグ"],
+      "source_url": "ニュースのURL"
+    }}
+  ]
+}}
+
+## 分析ガイドライン
+- 伝聞ではなく、本人の実際の発言内容を特定して抽出してください
+- 発言の重要度（importance）を、世界情勢や市場への影響度に基づいて判定してください
+- 最大8件の発言を抽出してください
+- 発言者の肩書きは正確に記載してください
+"""
+
+# ============================================================
 # リスクレベル定義
 # ============================================================
 

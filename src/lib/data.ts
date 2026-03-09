@@ -48,8 +48,27 @@ export interface MarketData {
     indices: MarketIndex[];
 }
 
+export interface Statement {
+    speaker: string;
+    title: string;
+    quote: string;
+    context: string;
+    analysis: string;
+    importance: string;
+    tags: string[];
+    source_url: string;
+}
+
+export interface StatementReport {
+    date: string;
+    summary: string;
+    generated_at: string;
+    statements: Statement[];
+}
+
 const ARTICLES_DIR = path.join(process.cwd(), 'data', 'articles');
 const FINANCIAL_DIR = path.join(process.cwd(), 'data', 'financial');
+const STATEMENTS_DIR = path.join(process.cwd(), 'data', 'statements');
 
 export function getMarketData(): MarketData | null {
     try {
@@ -62,9 +81,13 @@ export function getMarketData(): MarketData | null {
     }
 }
 
-export function getLatestReport(type: 'articles' | 'financial' = 'articles'): DailyReport | null {
+export function getLatestReport(type: 'articles' | 'financial' | 'statements' = 'articles'): any | null {
     try {
-        const dir = type === 'financial' ? FINANCIAL_DIR : ARTICLES_DIR;
+        let dir;
+        if (type === 'financial') dir = FINANCIAL_DIR;
+        else if (type === 'statements') dir = STATEMENTS_DIR;
+        else dir = ARTICLES_DIR;
+
         const filePath = path.join(dir, 'latest.json');
         if (!fs.existsSync(filePath)) return null;
         const data = fs.readFileSync(filePath, 'utf-8');
@@ -74,9 +97,13 @@ export function getLatestReport(type: 'articles' | 'financial' = 'articles'): Da
     }
 }
 
-export function getReportByDate(date: string, type: 'articles' | 'financial' = 'articles'): DailyReport | null {
+export function getReportByDate(date: string, type: 'articles' | 'financial' | 'statements' = 'articles'): any | null {
     try {
-        const dir = type === 'financial' ? FINANCIAL_DIR : ARTICLES_DIR;
+        let dir;
+        if (type === 'financial') dir = FINANCIAL_DIR;
+        else if (type === 'statements') dir = STATEMENTS_DIR;
+        else dir = ARTICLES_DIR;
+
         const filePath = path.join(dir, `${date}.json`);
         if (!fs.existsSync(filePath)) return null;
         const data = fs.readFileSync(filePath, 'utf-8');
@@ -86,9 +113,13 @@ export function getReportByDate(date: string, type: 'articles' | 'financial' = '
     }
 }
 
-export function getIndex(type: 'articles' | 'financial' = 'articles'): IndexEntry[] {
+export function getIndex(type: 'articles' | 'financial' | 'statements' = 'articles'): IndexEntry[] {
     try {
-        const dir = type === 'financial' ? FINANCIAL_DIR : ARTICLES_DIR;
+        let dir;
+        if (type === 'financial') dir = FINANCIAL_DIR;
+        else if (type === 'statements') dir = STATEMENTS_DIR;
+        else dir = ARTICLES_DIR;
+
         const filePath = path.join(dir, 'index.json');
         if (!fs.existsSync(filePath)) return [];
         const data = fs.readFileSync(filePath, 'utf-8');

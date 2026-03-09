@@ -14,8 +14,8 @@ from datetime import datetime, timedelta
 from dateutil import parser as date_parser
 from bs4 import BeautifulSoup
 from config import (
-    DATA_SOURCES, FINANCIAL_DATA_SOURCES,
-    GEOPOLITICAL_KEYWORDS, FINANCIAL_KEYWORDS,
+    DATA_SOURCES, FINANCIAL_DATA_SOURCES, STATEMENTS_DATA_SOURCES,
+    GEOPOLITICAL_KEYWORDS, FINANCIAL_KEYWORDS, STATEMENTS_KEYWORDS,
     REGIONS
 )
 
@@ -28,7 +28,7 @@ logger = logging.getLogger(__name__)
 
 # 定数
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
-MAX_AGE_HOURS = 48  # 48時間以内のニュースのみ収集
+MAX_AGE_HOURS = 168  # 1週間以内のニュースのみ収集
 
 def get_config(news_type: str):
     if news_type == 'financial':
@@ -37,6 +37,13 @@ def get_config(news_type: str):
             'keywords': FINANCIAL_KEYWORDS,
             'output_path': os.path.join(DATA_DIR, "raw_financial_news.json"),
             'log_prefix': "金融リスク"
+        }
+    elif news_type == 'statements':
+        return {
+            'sources': STATEMENTS_DATA_SOURCES,
+            'keywords': [],  # 要人発言ソースは既に特定されているため、フィルタリングをスキップ
+            'output_path': os.path.join(DATA_DIR, "raw_statements_news.json"),
+            'log_prefix': "要人発言"
         }
     else:
         return {
@@ -94,7 +101,7 @@ def fetch_rss_feed(source: dict, keywords: list) -> list:
     try:
         logger.info(f"収集中: {source['name']} ({source['url']})")
         headers = {
-            "User-Agent": "GeopoliticalRiskAlert/1.0 (RSS Reader)"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
         }
         response = requests.get(source["url"], headers=headers, timeout=15)
         feed = feedparser.parse(response.content)
@@ -110,8 +117,8 @@ def fetch_rss_feed(source: dict, keywords: list) -> list:
                 soup = BeautifulSoup(summary, "html.parser")
                 summary = soup.get_text(strip=True)
 
-            # キーワードフィルタリング
-            if not is_relevant(title, summary, keywords):
+            # キーワードフィルタリング（キーワードリストが空でない場合のみ実行）
+            if keywords and not is_relevant(title, summary, keywords):
                 continue
 
             # 日付チェック
@@ -212,7 +219,7 @@ def collect_all(news_type: str = 'geopolitical'):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="ニュース収集スクリプト")
-    parser.add_argument("--type", choices=['geopolitical', 'financial'], default='geopolitical', help="収集するニュースの種別")
+    parser.add_argument("--type", choices=['geopolitical', 'financial', 'statements'], default='geopolitical', help="収集するニュースの種別")
     args = parser.parse_args()
     
     collect_all(args.type)

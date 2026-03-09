@@ -1,0 +1,35 @@
+{
+    "date": "2026-03-09",
+    "summary": "本日はFRBによる法的措置の終了や、トークン化証券に関する規制の明確化など、金融当局による制度整備に関する発表が目立ちました。市場の透明性向上に向けた動きが続いています。",
+    "generated_at": "2026-03-09T19:40:00Z",
+    "statements": [
+        {
+            "speaker": "FRB当局",
+            "title": "米国連邦準備制度理事会",
+            "quote": "トークン化された証券の資本処理に関する説明を明確にする。これにより金融機関のコンプライアンスを強化する。",
+            "context": "ワシントンDCでのプレスリリース",
+            "analysis": "ブロックチェーン技術を活用した資産のデジタル化（トークン化）に対し、監督当局が明確な指針を示したことは、金融機関の参入を促進する可能性があります。",
+            "importance": "medium",
+            "tags": [
+                "金融規制",
+                "トークン化",
+                "FRB"
+            ],
+            "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260305a.htm"
+        },
+        {
+            "speaker": "連邦準備制度理事会(FRB)",
+            "title": "米国中央銀行",
+            "quote": "ウェルズ・ファーゴに対する法執行措置を終了する。同行は指摘された問題の改善を完了した。",
+            "context": "公式声明",
+            "analysis": "ウェルズ・ファーゴによる長年の改善努力が認められ、大きな制約の一つが解除されました。同行の経営の自由度が高まると予想されます。",
+            "importance": "high",
+            "tags": [
+                "銀行",
+                "ウェルズ・ファーゴ",
+                "法執行"
+            ],
+            "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260305a.htm"
+        }
+    ]
+}

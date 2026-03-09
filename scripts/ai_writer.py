@@ -10,7 +10,7 @@ import os
 import logging
 from datetime import datetime
 from config import (
-    ANALYSIS_PROMPT, FINANCIAL_ANALYSIS_PROMPT,
+    ANALYSIS_PROMPT, FINANCIAL_ANALYSIS_PROMPT, STATEMENTS_ANALYSIS_PROMPT,
     RISK_LEVELS, REGIONS
 )
 
@@ -31,6 +31,13 @@ def get_config(news_type: str):
             'output_dir': os.path.join(DATA_DIR, "financial"),
             'prompt_template': FINANCIAL_ANALYSIS_PROMPT,
             'log_prefix': "金融リスク"
+        }
+    elif news_type == 'statements':
+        return {
+            'input_path': os.path.join(DATA_DIR, "raw_statements_news.json"),
+            'output_dir': os.path.join(DATA_DIR, "statements"),
+            'prompt_template': STATEMENTS_ANALYSIS_PROMPT,
+            'log_prefix': "要人発言"
         }
     else:
         return {
@@ -223,7 +230,7 @@ def main(news_type: str = 'geopolitical'):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="AI執筆エージェント")
-    parser.add_argument("--type", choices=['geopolitical', 'financial'], default='geopolitical', help="生成するレポートの種別")
+    parser.add_argument("--type", choices=['geopolitical', 'financial', 'statements'], default='geopolitical', help="生成するレポートの種別")
     args = parser.parse_args()
     
     main(args.type)
