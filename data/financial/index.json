@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-03-09",
+    "summary": "イランを巡る地政学的リスクの高まりと原油価格の高騰が、世界経済に深刻な影響を与えている。株式市場は大幅下落し、暗号資産市場も不安定な動きを見せている。G7による緊急会合が開かれる見込み。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "critical",
+      "north_america": "high",
+      "europe": "high",
+      "east_asia": "critical"
+    },
+    "generated_at": "2026-03-09T01:28:23.150021"
+  },
+  {
     "date": "2026-03-08",
     "summary": "中東情勢の緊迫化が金融市場を揺るがしており、特にイラン戦争の影響が深刻化しています。原油価格の高騰懸念や、それによるインフレ圧力、株式市場の変動など、複合的なリスクが高まっています。暗号資産市場も不安定な動きを見せています。",
     "overall_risk_level": "high",
