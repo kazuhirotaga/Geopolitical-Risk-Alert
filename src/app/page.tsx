@@ -76,7 +76,7 @@ export default function Home() {
                   <div style={{ marginTop: '8px' }}>
                     <span className={`risk-badge ${riskLevel}`}>
                       <span className="dot"></span>
-                      {RISK_LABELS[riskLevel]?.label_ja || '情報なし'}
+                      {RISK_LABELS[riskLevel as keyof typeof RISK_LABELS]?.label_ja || '情報なし'}
                     </span>
                   </div>
                 </div>

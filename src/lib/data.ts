@@ -81,6 +81,8 @@ export function getMarketData(): MarketData | null {
     }
 }
 
+export function getLatestReport(type?: 'articles' | 'financial'): DailyReport | null;
+export function getLatestReport(type: 'statements'): StatementReport | null;
 export function getLatestReport(type: 'articles' | 'financial' | 'statements' = 'articles'): any | null {
     try {
         let dir;
@@ -97,6 +99,8 @@ export function getLatestReport(type: 'articles' | 'financial' | 'statements' = 
     }
 }
 
+export function getReportByDate(date: string, type?: 'articles' | 'financial'): DailyReport | null;
+export function getReportByDate(date: string, type: 'statements'): StatementReport | null;
 export function getReportByDate(date: string, type: 'articles' | 'financial' | 'statements' = 'articles'): any | null {
     try {
         let dir;

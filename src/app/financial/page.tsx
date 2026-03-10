@@ -82,7 +82,7 @@ export default function FinancialHome() {
                                 <div className="text-sm mb-1" style={{ color: 'var(--text-muted)' }}>{index.label}</div>
                                 <div className="text-xl font-bold font-mono mb-2">{index.price_formatted}</div>
                                 <div className={`flex items-center text-sm font-semibold ${index.trend === 'up' ? 'text-green-500' :
-                                        index.trend === 'down' ? 'text-red-500' : 'text-gray-400'
+                                    index.trend === 'down' ? 'text-red-500' : 'text-gray-400'
                                     }`}>
                                     {index.trend === 'up' && <span className="mr-1">▲</span>}
                                     {index.trend === 'down' && <span className="mr-1">▼</span>}
@@ -113,7 +113,7 @@ export default function FinancialHome() {
                                     <div style={{ marginTop: '8px' }}>
                                         <span className={`risk-badge ${riskLevel}`}>
                                             <span className="dot"></span>
-                                            {RISK_LABELS[riskLevel]?.label_ja || '情報なし'}
+                                            {RISK_LABELS[riskLevel as keyof typeof RISK_LABELS]?.label_ja || '情報なし'}
                                         </span>
                                     </div>
                                 </div>
