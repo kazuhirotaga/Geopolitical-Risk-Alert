@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-03-10",
-    "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、周辺国にも影響が拡大。エネルギー価格高騰や難民発生など、世界経済や人道状況への影響も深刻化している。ウクライナ情勢も依然として不安定。",
+    "summary": "中東情勢が極めて不安定化。アメリカ・イスラエルとイランの軍事衝突が激化し、周辺国にも影響が拡大。原油価格高騰や人道危機も深刻化。ウクライナ情勢も依然として不安定であり、地政学リスクは全体的に高まっている。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
@@ -10,12 +10,12 @@
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
-      "africa": "medium",
-      "north_america": "high",
+      "europe": "medium",
+      "africa": "none",
+      "north_america": "low",
       "south_america": "none"
     },
-    "generated_at": "2026-03-10T01:22:54.347545"
+    "generated_at": "2026-03-10T13:05:30.425504"
   },
   {
     "date": "2026-03-09",
