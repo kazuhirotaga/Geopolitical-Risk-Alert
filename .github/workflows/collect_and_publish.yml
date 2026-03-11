@@ -56,6 +56,11 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PYTHONPATH: scripts
 
+      - name: Collect fuel inventory data
+        run: python scripts/fuel_data_collector.py
+        env:
+          PYTHONPATH: scripts
+
       - name: Commit and push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"

@@ -66,13 +66,39 @@ export interface StatementReport {
     statements: Statement[];
 }
 
+export interface PetroleumStockPoint {
+    date: string;
+    gasoline: number;
+    jet_fuel: number;
+    naphtha: number;
+}
+
+export interface PetroleumStocks {
+    unit: string;
+    source: string;
+    last_updated: string;
+    data: PetroleumStockPoint[];
+}
+
 const ARTICLES_DIR = path.join(process.cwd(), 'data', 'articles');
 const FINANCIAL_DIR = path.join(process.cwd(), 'data', 'financial');
 const STATEMENTS_DIR = path.join(process.cwd(), 'data', 'statements');
+const ENERGY_DIR = path.join(process.cwd(), 'data', 'energy');
 
 export function getMarketData(): MarketData | null {
     try {
         const filePath = path.join(FINANCIAL_DIR, 'market_data.json');
+        if (!fs.existsSync(filePath)) return null;
+        const data = fs.readFileSync(filePath, 'utf-8');
+        return JSON.parse(data);
+    } catch {
+        return null;
+    }
+}
+
+export function getPetroleumStocks(): PetroleumStocks | null {
+    try {
+        const filePath = path.join(ENERGY_DIR, 'petroleum_stocks.json');
         if (!fs.existsSync(filePath)) return null;
         const data = fs.readFileSync(filePath, 'utf-8');
         return JSON.parse(data);
