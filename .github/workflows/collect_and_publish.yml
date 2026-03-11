@@ -61,6 +61,12 @@ jobs:
         env:
           PYTHONPATH: scripts
 
+      - name: Collect and analyze combat logs
+        run: python scripts/combat_log_collector.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PYTHONPATH: scripts
+
       - name: Commit and push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"

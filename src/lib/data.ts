@@ -80,10 +80,31 @@ export interface PetroleumStocks {
     data: PetroleumStockPoint[];
 }
 
+export interface CombatEvent {
+    id: string;
+    timestamp: string;
+    location: string;
+    region: string;
+    title: string;
+    content: string;
+    involved_parties: string[];
+    event_type: 'bombing' | 'clash' | 'occupy' | 'retreat' | 'cyber' | 'other';
+    urgency: 'critical' | 'high' | 'medium' | 'low';
+    source_name: string;
+    source_url: string;
+}
+
+export interface CombatLog {
+    date: string;
+    summary: string;
+    events: CombatEvent[];
+}
+
 const ARTICLES_DIR = path.join(process.cwd(), 'data', 'articles');
 const FINANCIAL_DIR = path.join(process.cwd(), 'data', 'financial');
 const STATEMENTS_DIR = path.join(process.cwd(), 'data', 'statements');
 const ENERGY_DIR = path.join(process.cwd(), 'data', 'energy');
+const COMBAT_DIR = path.join(process.cwd(), 'data', 'combat');
 
 export function getMarketData(): MarketData | null {
     try {
@@ -104,6 +125,17 @@ export function getPetroleumStocks(): PetroleumStocks | null {
         return JSON.parse(data);
     } catch {
         return null;
+    }
+}
+
+export function getCombatLogs(): CombatLog[] {
+    try {
+        const filePath = path.join(COMBAT_DIR, 'logs.json');
+        if (!fs.existsSync(filePath)) return [];
+        const data = fs.readFileSync(filePath, 'utf-8');
+        return JSON.parse(data);
+    } catch {
+        return [];
     }
 }
 

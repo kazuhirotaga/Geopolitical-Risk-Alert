@@ -1,0 +1,40 @@
+[
+    {
+        "date": "2026-03-11",
+        "summary": "ウクライナ東部および中東ガザ地区での戦闘が継続中。ロシア軍によるドネツク州へのドローン攻撃が増加しており、緊張が高まっています。",
+        "events": [
+            {
+                "id": "cbt-001",
+                "timestamp": "2026-03-11T10:30:00Z",
+                "location": "ウクライナ・ドネツク州",
+                "region": "europe",
+                "title": "ロシア軍による大規模ドローン攻撃",
+                "content": "ドネツク州の住宅密集地に対し、計20機以上のイラン製ドローンによる攻撃が発生。エネルギーインフラの一部が損壊した模様。",
+                "involved_parties": [
+                    "ロシア軍",
+                    "ウクライナ軍"
+                ],
+                "event_type": "bombing",
+                "urgency": "high",
+                "source_name": "ISW",
+                "source_url": "https://understandingwar.org"
+            },
+            {
+                "id": "cbt-002",
+                "timestamp": "2026-03-11T14:15:00Z",
+                "location": "ガザ北部",
+                "region": "middle_east",
+                "title": "ハマス拠点への空爆",
+                "content": "イスラエル国防軍(IDF)がガザ北部の複数の地下トンネルを空爆。ハマスの武器庫を破壊したと発表。",
+                "involved_parties": [
+                    "イスラエル軍",
+                    "ハマス"
+                ],
+                "event_type": "bombing",
+                "urgency": "medium",
+                "source_name": "Reuters",
+                "source_url": "https://reuters.com"
+            }
+        ]
+    }
+]
