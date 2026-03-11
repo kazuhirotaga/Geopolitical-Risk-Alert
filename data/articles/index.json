@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-03-11",
-    "summary": "アメリカ・イスラエルとイランの軍事衝突が激化。ホルムズ海峡での機雷敷設疑惑や、周辺国へのミサイル攻撃など、地域紛争が拡大。世界経済への影響も懸念される。ウクライナ情勢も依然として不安定。",
+    "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、ホルムズ海峡の封鎖や周辺国への攻撃など、地域全体に深刻な影響を与えている。ウクライナ情勢も依然として不安定であり、地政学リスクは全体的に高い。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
       "southeast_asia": "medium",
-      "south_asia": "medium",
+      "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
-      "africa": "low",
+      "europe": "high",
+      "africa": "none",
       "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-03-11T01:22:37.079264"
+    "generated_at": "2026-03-11T13:05:06.382318"
   },
   {
     "date": "2026-03-10",

@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-03-11",
-    "summary": "イラン情勢の緊迫化による原油価格高騰、インフレ指標発表前の市場の不安定さ、そして暗号資産市場の規制動向が金融市場全体のリスクを高めている。Oracleの好調な業績とAI半導体への投資は一部ポジティブな兆候。",
+    "summary": "イラン情勢緊迫化による原油価格高騰とインフレ懸念、米CPI発表前の警戒感から市場は不安定。AI関連投資は活況だが、地政学的リスクが金融市場全体に影響を与えている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
-      "north_america": "medium",
-      "europe": "medium",
-      "east_asia": "none"
+      "global": "medium",
+      "north_america": "low",
+      "europe": "low",
+      "east_asia": "low",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "high"
     },
-    "generated_at": "2026-03-11T01:22:58.784192"
+    "generated_at": "2026-03-11T13:05:29.964430"
   },
   {
     "date": "2026-03-10",

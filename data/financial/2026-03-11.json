@@ -1,53 +1,18 @@
 {
   "date": "2026-03-11",
-  "summary": "イラン情勢の緊迫化による原油価格高騰、インフレ指標発表前の市場の不安定さ、そして暗号資産市場の規制動向が金融市場全体のリスクを高めている。Oracleの好調な業績とAI半導体への投資は一部ポジティブな兆候。",
+  "summary": "イラン情勢緊迫化による原油価格高騰とインフレ懸念、米CPI発表前の警戒感から市場は不安定。AI関連投資は活況だが、地政学的リスクが金融市場全体に影響を与えている。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "Oracle stock jumps 9% on earnings beat and increased guidance as cloud revenue climbs 44%",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Oracleが好調な業績を発表し、クラウド収益が44%増加。増収見通しを示し、株価は9%上昇。",
-      "analysis": "Oracleのクラウド事業の成長は、企業におけるデジタル化の進展を示唆しており、ITセクター全体にとってポジティブな兆候。ただし、市場全体のリスクを相殺するほどの影響力はない。Oracleの業績は、クラウド市場における競争激化を示唆しており、他のクラウドプロバイダーへの影響も注視する必要がある。",
-      "key_entities": [
-        "Oracle"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "AI chipmaker Cerebras namedropped by Oracle, alongside Nvidia and AMD",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "OracleがAIチップメーカーCerebrasをNvidiaやAMDと並べて言及。CerebrasのIPOに追い風となる可能性。",
-      "analysis": "Cerebrasのような新興AIチップメーカーが主要クラウドプロバイダーに採用される可能性は、AI半導体市場の競争激化を示唆する。NvidiaやAMDといった既存プレイヤーへの影響は限定的と考えられるが、CerebrasのIPOの成否は、AI半導体市場の今後の成長性を測る上で重要な指標となる。",
-      "key_entities": [
-        "Cerebras",
-        "Oracle",
-        "Nvidia",
-        "AMD"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Stock futures are little changed ahead of consumer inflation report: Live updates",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "消費者物価指数（CPI）発表を控え、株式先物は小幅な変動。S&P 500とダウ工業株30種平均は前日の取引で下落。",
-      "analysis": "CPI発表前の市場の様子見姿勢は、インフレ動向に対する市場の懸念を示唆している。CPIの結果次第では、FRBの金融政策に大きな影響を与える可能性があり、株式市場のボラティリティが高まるリスクがある。特に、予想を上回るインフレ率が発表された場合、金利引き上げ観測が強まり、株式市場は大幅な調整を余儀なくされる可能性がある。",
+      "title": "S&P 500 ticks lower as oil prices move higher again amid Iran conflict: Live updates",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "イラン情勢の悪化に伴い原油価格が上昇し、S&P500は下落。市場は不安定な動きを見せている。",
+      "analysis": "イランを巡る地政学的リスクが原油価格を押し上げ、インフレ懸念を再燃させている。株式市場は原油価格の変動に敏感に反応しており、特にエネルギー依存度の高い産業や、消費者支出に影響が出やすいセクターへの影響が懸念される。今後のイラン情勢次第では、更なる原油価格の上昇と株式市場の調整リスクが高まる可能性がある。投資家はリスク回避姿勢を強め、安全資産へのシフトが進む可能性も考慮すべき。",
       "key_entities": [
         "S&P 500",
-        "Dow Industrials",
-        "Federal Reserve"
+        "原油価格",
+        "イラン"
       ],
       "sources": [
         "CNBC - Top News"
@@ -57,13 +22,33 @@
       ]
     },
     {
-      "title": "New inflation data is set for release Wednesday. How to trade it",
+      "title": "Dow Jones set for cautious start as Gulf shipping attacks support oil prices",
       "region": "global",
       "risk_level": "medium",
-      "summary": "2月の消費者物価指数（CPI）が発表予定。トレーダーはFRBの金融政策見通しを大きく左右すると見ている。",
-      "analysis": "CPIの結果は、FRBの今後の金融政策を決定する上で重要な要素となる。市場は、インフレ抑制と景気後退リスクのバランスをFRBがどのように取るか注視している。高いインフレ率が続けば、FRBは利上げを継続せざるを得なくなり、景気後退のリスクが高まる。逆に、インフレ率が低下すれば、FRBは利上げを停止し、景気回復を支援する可能性が高まる。",
+      "summary": "湾岸地域での船舶攻撃が原油価格を押し上げ、ダウ平均株価は慎重なスタートとなる見込み。",
+      "analysis": "湾岸地域における船舶攻撃は、原油供給の不安定化を招き、原油価格の上昇圧力となっている。ダウ平均株価は、原油価格上昇によるインフレ懸念や企業収益への悪影響を織り込み、慎重な動きを見せている。地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株式市場全体のボラティリティを高める要因となる。特に、輸送コストの増加やエネルギー価格の上昇は、企業収益を圧迫する可能性があり、注意が必要。",
       "key_entities": [
-        "Federal Reserve"
+        "Dow Jones",
+        "原油価格",
+        "湾岸地域"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Nebius stock pops 10% on Nvidia $2 billion investment announcement",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "NvidiaがNebiusに20億ドル投資を発表し、AIインフラ展開で協業。Nebius株は10%上昇。",
+      "analysis": "NvidiaによるNebiusへの巨額投資は、AIインフラ市場の成長に対する期待感を示すもの。Nebius株の急騰は、投資家の関心の高さを反映している。AI関連技術への投資は、今後の成長が期待される分野であり、市場全体のセンチメントを改善する効果もある。ただし、AI市場の競争は激化しており、技術革新のスピードも速いため、投資判断には慎重な検討が必要。",
+      "key_entities": [
+        "Nebius",
+        "Nvidia",
+        "AI"
       ],
       "sources": [
         "CNBC - Top News"
@@ -73,13 +58,35 @@
       ]
     },
     {
-      "title": "Jim Cramer lays out a 'simple way' for investors to navigate the Iran war volatility",
+      "title": "CPI Inflation In Line As Rent Slows, Oil Prices Heat Up; S&P 500 Futures Steady (Live Coverage)",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "CPIインフレ率は予想通り。家賃上昇は鈍化するも原油価格が上昇。S&P500先物は安定。",
+      "analysis": "CPIインフレ率が予想通りであったことは、市場に安心感を与えている。しかし、原油価格の上昇は、今後のインフレ圧力を高める可能性があり、注意が必要。S&P500先物が安定していることは、市場が現状を冷静に評価していることを示唆する。ただし、今後の原油価格の動向や、FRBの金融政策次第では、市場のセンチメントが変化する可能性もある。",
+      "key_entities": [
+        "CPI",
+        "インフレ",
+        "原油価格",
+        "S&P 500"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "How the Iran war could impact hyperscalers' massive AI buildout in the Middle East",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "CNBCのジム・クレイマーが、イラン戦争による市場のボラティリティを乗り切るための投資戦略を解説。",
-      "analysis": "イラン情勢の緊迫化は、原油価格の高騰やサプライチェーンの混乱を引き起こし、世界経済に大きな影響を与える可能性がある。ジム・クレイマーの解説は、投資家がリスクを管理し、市場の変動に対応するための参考となる。ただし、地政学的リスクは予測が難しく、市場の変動幅が大きくなる可能性があるため、慎重な投資判断が求められる。",
+      "summary": "イラン戦争が中東におけるハイパースケーラーのAI構築に影響を与える可能性。将来の投資に疑問が生じる。",
+      "analysis": "イラン戦争は、中東地域におけるAI関連投資に不確実性をもたらしている。ハイパースケーラーは、地政学的リスクの高まりを考慮し、投資計画の見直しを迫られる可能性がある。データセンターの建設や運用における安全性の確保、サプライチェーンの混乱、人材確保の難しさなどが懸念される。中東地域への投資は、地政学的リスクを十分に考慮する必要がある。",
       "key_entities": [
-        "Jim Cramer"
+        "イラン",
+        "AI",
+        "データセンター",
+        "ハイパースケーラー"
       ],
       "sources": [
         "CNBC - Top News"
@@ -89,29 +96,34 @@
       ]
     },
     {
-      "title": "Oil retreats even after Energy Secretary wrongly claims Navy escorted tanker through Strait of Hormuz",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "エネルギー長官がホルムズ海峡でタンカーを護衛したと誤った主張をした後も原油価格は下落。IEAは緊急備蓄放出の可能性を協議。",
-      "analysis": "ホルムズ海峡の緊張は、原油供給の途絶リスクを高め、原油価格を押し上げる要因となる。IEAの緊急備蓄放出の検討は、原油価格の急騰を抑制するための措置と考えられる。ただし、地政学的リスクは依然として高く、原油価格の変動幅が大きくなる可能性がある。エネルギー政策の誤情報は市場の混乱を招くため注意が必要。",
-      "key_entities": [
-        "IEA"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "HSBC moves to 'max' overweight stocks, saying peak fear about Iran oil spike has passed",
+      "title": "Binance sues Wall Street Journal as newspaper says U.S. Dept. of Justice is investigating Iran transactions",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "HSBCはイラン情勢による原油価格高騰への懸念がピークを過ぎたと判断し、株式への投資を最大まで引き上げ。",
-      "analysis": "HSBCの判断は、イラン情勢が短期的に沈静化するとの見通しに基づいていると考えられる。しかし、地政学的リスクは依然として存在し、原油価格の急騰やサプライチェーンの混乱が再燃する可能性も否定できない。HSBCの投資判断は、市場全体のセンチメントを左右する可能性があるため、今後の動向を注視する必要がある。",
+      "summary": "BinanceがWSJを提訴。米司法省がイランとの取引を調査していると報道されたため。",
+      "analysis": "Binanceに対する米司法省の調査は、暗号資産取引所の規制強化の動きを反映している。BinanceがWSJを提訴したことは、企業イメージの保護と規制当局への対抗姿勢を示すもの。暗号資産市場は、規制の不確実性が高く、今後の規制動向が市場に大きな影響を与える可能性がある。投資家は、規制リスクを十分に考慮する必要がある。",
       "key_entities": [
-        "HSBC"
+        "Binance",
+        "Wall Street Journal",
+        "米司法省",
+        "イラン"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Weekly mortgage demand from homebuyers increased despite big interest rate volatility",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "住宅ローン金利の変動が大きいにもかかわらず、住宅購入者の需要は増加。原油価格上昇が金利上昇の要因。",
+      "analysis": "住宅ローン金利の変動が大きいにもかかわらず、住宅購入者の需要が増加していることは、住宅市場の底堅さを示すもの。しかし、原油価格の上昇が金利上昇の要因となっているため、今後の金利動向には注意が必要。金利上昇は、住宅購入者の負担を増加させ、住宅市場の冷え込みにつながる可能性がある。また、リファイナンスの減少も、住宅市場の流動性を低下させる要因となる。",
+      "key_entities": [
+        "住宅ローン金利",
+        "住宅市場",
+        "原油価格"
       ],
       "sources": [
         "CNBC - Top News"
@@ -121,48 +133,58 @@
       ]
     },
     {
-      "title": "Bitcoin climbs past $71,000 as oil shock fears continue to ease",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "原油価格ショックへの懸念が和らぎ、ビットコインが71,000ドルを超えて上昇。",
-      "analysis": "ビットコイン価格の上昇は、リスクオンセンチメントの回復を示唆している。原油価格ショックへの懸念が和らぎ、投資家がリスク資産への投資を再開したことが背景にあると考えられる。ただし、暗号資産市場はボラティリティが高く、規制動向や市場センチメントの変化によって価格が大きく変動する可能性がある。",
+      "title": "Apple Smashes India Production Records As Tim Cook Races To Dodge Trillion-Dollar China Tariffs",
+      "region": "east_asia",
+      "risk_level": "low",
+      "summary": "Appleがインドでの生産記録を更新。Tim Cook CEOは中国への関税回避を急ぐ。",
+      "analysis": "Appleのインドでの生産拡大は、中国への依存度を下げるための戦略的な動き。米中貿易摩擦の激化は、サプライチェーンの再構築を加速させている。インドは、中国に代わる新たな生産拠点として注目されており、今後の成長が期待される。ただし、インドにおける事業展開には、法規制やインフラ整備などの課題も存在する。",
       "key_entities": [
-        "Bitcoin"
+        "Apple",
+        "インド",
+        "中国",
+        "関税"
       ],
       "sources": [
-        "CoinDesk"
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Senators try to unlock stalled crypto Clarity Act with compromise on stablecoin yield",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "議員らが、停滞している暗号資産明確化法を、ステーブルコインの利回りに関する妥協案で打開しようと試みている。",
-      "analysis": "暗号資産規制の明確化は、市場の健全な発展を促進する上で重要である。ステーブルコインの利回りに関する妥協案は、規制当局と業界の間の溝を埋めるための試みと考えられる。規制の明確化が進むことで、機関投資家の参入が促進され、暗号資産市場の流動性が向上する可能性がある。",
+      "title": "Oil ticks higher to $85 as traders await possible historic reserve release",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "原油価格は85ドルに上昇。トレーダーは歴史的な備蓄放出の可能性を待つ。米イラン戦争の動向を注視。",
+      "analysis": "原油価格の上昇は、米イラン戦争の緊張の高まりを反映している。市場は、IEAによる歴史的な備蓄放出の可能性を織り込みつつあるが、地政学的リスクの高まりは、原油価格のさらなる上昇を招く可能性がある。原油価格の上昇は、インフレ圧力を高め、世界経済の成長を阻害する要因となる。投資家は、原油価格の変動に注意し、リスク管理を徹底する必要がある。",
       "key_entities": [
-        "Stablecoin"
+        "原油価格",
+        "米イラン戦争",
+        "IEA",
+        "備蓄放出"
       ],
       "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Stablecoin market hits $312 billion as banks, card networks embrace onchain dollars",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "銀行やカードネットワークがオンチェーンドルを採用するにつれて、ステーブルコイン市場は3120億ドルに達した。",
-      "analysis": "ステーブルコイン市場の拡大は、デジタル決済の普及と金融機関のデジタル資産への関心の高まりを示唆している。ステーブルコインは、従来の金融システムと暗号資産市場をつなぐ役割を果たす可能性があり、金融イノベーションを促進する上で重要な役割を果たすと考えられる。しかし、ステーブルコインのリスク管理や規制の枠組みが確立されていないため、今後の動向を注視する必要がある。",
+      "title": "Trump says U.S. will build first refinery in 50 years with investment from India's Reliance Industries",
+      "region": "south_asia",
+      "risk_level": "low",
+      "summary": "トランプ大統領、米国が50年ぶりに製油所を建設すると発表。インドReliance Industriesが出資。",
+      "analysis": "米国における製油所の建設は、エネルギー自給率の向上と雇用創出につながる可能性がある。Reliance Industriesによる投資は、米印間の経済関係の強化を示すもの。ただし、製油所の建設には、環境規制や地域住民の反対など、様々な課題が存在する。また、原油価格の変動や需要の変化も、製油所の収益性に影響を与える可能性がある。",
       "key_entities": [
-        "Stablecoin"
+        "トランプ大統領",
+        "Reliance Industries",
+        "製油所",
+        "米国",
+        "インド"
       ],
       "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -170,12 +192,15 @@
     }
   ],
   "region_risk_map": {
-    "global": "high",
-    "north_america": "medium",
-    "europe": "medium",
-    "east_asia": "none"
+    "global": "medium",
+    "north_america": "low",
+    "europe": "low",
+    "east_asia": "low",
+    "south_america": "none",
+    "africa": "none",
+    "middle_east": "high"
   },
-  "generated_at": "2026-03-11T01:22:58.784192",
+  "generated_at": "2026-03-11T13:05:29.964430",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
