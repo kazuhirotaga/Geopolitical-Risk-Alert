@@ -1,16 +1,16 @@
 [
   {
     "date": "2026-03-12",
-    "summary": "イラン戦争の激化により、原油価格高騰とサプライチェーンの混乱が深刻化。インフレ圧力が高まり、株式市場は大幅下落。米中貿易摩擦も再燃し、世界経済の不確実性が増大している。暗号資産市場はボラティリティが高いものの、規制整備の動きもみられる。",
-    "overall_risk_level": "critical",
+    "summary": "中東情勢の緊迫化による原油価格高騰が株式市場を圧迫。米国のホルムズ海峡におけるタンカー護衛見送りも不安視され、インフレ懸念が再燃。暗号資産市場はボラティリティが高く、規制動向も注視が必要。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "critical",
-      "north_america": "high",
-      "europe": "high",
-      "east_asia": "high"
+      "global": "medium",
+      "north_america": "medium",
+      "europe": "low",
+      "east_asia": "medium"
     },
-    "generated_at": "2026-03-12T01:23:09.906352"
+    "generated_at": "2026-03-12T13:05:06.356533"
   },
   {
     "date": "2026-03-11",

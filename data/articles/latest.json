@@ -1,19 +1,19 @@
 {
   "date": "2026-03-12",
-  "summary": "中東情勢が極めて不安定化。アメリカ・イスラエルとイランの軍事衝突が激化し、ホルムズ海峡封鎖、石油価格高騰、レバノンでの戦闘など、地域全体に深刻な影響。ウクライナ情勢も膠着状態が続く。",
+  "summary": "中東情勢が極めて不安定化。米イスラエルとイランの軍事衝突が激化し、ホルムズ海峡封鎖による原油価格高騰が世界経済に深刻な影響。ウクライナ情勢も膠着状態が続き、地政学的リスクは全体的に高水準。",
   "overall_risk_level": "critical",
   "articles": [
     {
-      "title": "ホルムズ海峡 事実上封鎖が続く 事態の長期化への懸念強まる",
+      "title": "ホルムズ海峡 事実上の封鎖 長期化懸念広がる",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "米イラン軍事作戦によりホルムズ海峡が事実上封鎖。イランは原油輸出阻止を宣言し、船舶攻撃も発生。事態長期化で原油価格高騰の恐れ。",
-      "analysis": "ホルムズ海峡の封鎖は、世界のエネルギー市場に壊滅的な影響を与える可能性が高い。イランの強硬姿勢とアメリカの対応によっては、さらなる軍事衝突のリスクが高まる。石油価格の高騰は、世界経済にインフレ圧力をかけ、景気後退を招く恐れがある。代替ルートの確保や備蓄放出などの対策が急務となるが、根本的な解決には至らないだろう。",
+      "summary": "米イスラエルによるイラン軍事作戦継続でホルムズ海峡が事実上封鎖。原油価格が急騰し、IEA加盟国が石油備蓄放出を決定も効果は限定的。米国の出口戦略が見えず、長期化への懸念が拡大。",
+      "analysis": "ホルムズ海峡の封鎖は、世界の原油供給に壊滅的な影響を与え、世界経済の減速を招く可能性が高い。米国の軍事作戦の目的が不明確であり、出口戦略が見えないことが、事態の長期化と更なるエスカレーションのリスクを高めている。関係各国は外交努力を強化する必要があるが、現状では打開策は見えない。",
       "key_entities": [
         "アメリカ",
         "イスラエル",
         "イラン",
-        "トランプ大統領"
+        "IEA"
       ],
       "sources": [
         "NHK World"
@@ -23,56 +23,66 @@
       ]
     },
     {
-      "title": "日米欧など石油備蓄協調放出で合意 過去最大規模 IEA",
-      "region": "middle_east",
+      "title": "米医療機器メーカーにサイバー攻撃 イラン政府と関係の集団か",
+      "region": "north_america",
       "risk_level": "high",
-      "summary": "イラン情勢による原油価格高騰を受け、IEA加盟国が過去最大規模の石油備蓄協調放出で合意。4億バレルの放出で価格抑制を図る。",
-      "analysis": "IEAによる石油備蓄の協調放出は、短期的には原油価格の高騰を抑制する効果が期待できる。しかし、根本的な解決策ではなく、イラン情勢が改善しなければ、再び価格が上昇する可能性が高い。また、備蓄放出は将来の供給リスクを高めるため、慎重な判断が求められる。ヨーロッパはロシアからのエネルギー供給に依存しているため、イラン情勢の悪化はエネルギー安全保障上の大きな脅威となる。",
+      "summary": "米大手医療機器メーカーが大規模なサイバー攻撃を受け、イラン政府と関係のあるハッカー集団が関与を表明。重要インフラへの攻撃であり、報復措置の可能性も。",
+      "analysis": "医療機器メーカーへのサイバー攻撃は、人命に関わる重大な事態に発展する可能性がある。イラン政府が関与している疑いがあることから、米イラン間の緊張がサイバー空間にも拡大していることが示唆される。米国は報復措置を検討する可能性があり、サイバー空間における対立が激化する恐れがある。",
       "key_entities": [
-        "IEA",
-        "日本",
         "アメリカ",
-        "ヨーロッパ"
+        "イラン"
       ],
       "sources": [
         "NHK World"
       ],
       "source_types": [
-        "media",
-        "international_org"
+        "media"
       ]
     },
     {
-      "title": "レバノン ヒズボラとイスラエル戦闘激化 国連安保理で緊急会合",
+      "title": "米ロの高官が協議 ロシア産原油への制裁緩和で意見交換か",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "レバノンでヒズボラとイスラエルの戦闘が激化。国連安保理で緊急会合が開かれたが、イスラエルは攻撃継続の姿勢を示している。",
-      "analysis": "レバノンにおけるヒズボラとイスラエルの戦闘激化は、地域全体の不安定化を招く恐れがある。ヒズボラはイランの支援を受けており、イスラエルとの対立はイランとイスラエルの代理戦争の様相を呈している。国連安保理が事態の沈静化に向けて動いているが、両者の溝は深く、解決は容易ではない。周辺国への影響も懸念される。",
+      "risk_level": "medium",
+      "summary": "イラン情勢による原油供給懸念の中、米ロ高官が協議。ロシア産原油への制裁緩和について意見交換された可能性。ウクライナ情勢への影響も懸念される。",
+      "analysis": "米国がロシア産原油への制裁緩和を検討している場合、ウクライナへの支援姿勢が弱まっていると解釈される可能性がある。また、ロシアへの譲歩は、国際的な制裁体制の弱体化を招き、他国への抑止力低下につながる恐れがある。ただし、原油価格高騰を抑制するための苦肉の策とも考えられ、今後の動向を注視する必要がある。",
       "key_entities": [
-        "レバノン",
-        "ヒズボラ",
-        "イスラエル",
-        "国連安保理"
+        "アメリカ",
+        "ロシア",
+        "ウクライナ"
       ],
       "sources": [
         "NHK World"
       ],
       "source_types": [
-        "media",
-        "international_org"
+        "media"
+      ]
+    },
+    {
+      "title": "ロシア ウクライナに軍事侵攻（3月12日の動き）",
+      "region": "europe",
+      "risk_level": "high",
+      "summary": "ロシアによるウクライナへの軍事侵攻が継続。各地で戦闘が続き、市民の避難が続く。和平協議の見通しは立たず、長期化の様相。",
+      "analysis": "ウクライナ情勢は依然として不安定であり、戦闘の激化や長期化による人道危機が深刻化している。ロシアとウクライナの双方が戦果を主張しているが、和平交渉の兆しは見えない。国際社会はウクライナへの支援を継続するとともに、和平に向けた外交努力を強化する必要がある。",
+      "key_entities": [
+        "ロシア",
+        "ウクライナ"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
       ]
     },
     {
       "title": "イランの小学校攻撃 “米軍 古いデータで誤って標的設定”",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "イラン南部で160人以上が死亡した小学校への攻撃で、米軍が古いデータに基づき誤って標的を設定した可能性が浮上。",
-      "analysis": "米軍によるイランの小学校への誤爆は、イラン国民の対米感情を著しく悪化させるだけでなく、国際法上の問題も生じる可能性がある。トランプ大統領がこの件について否定していることも、事態をさらに悪化させている。イランは報復措置を取る可能性があり、さらなる軍事衝突のリスクが高まる。",
+      "summary": "イランの小学校への攻撃で160人以上が死亡。米軍が古いデータに基づき誤って標的を設定した可能性が浮上。事態の深刻化は避けられない。",
+      "analysis": "小学校への誤爆は、イラン国内の反米感情を激化させ、報復攻撃を招く可能性が高い。米軍の作戦遂行能力への疑問も生じ、国際的な信頼を損なう恐れがある。米国は徹底的な調査を行い、責任の所在を明確にするとともに、再発防止策を講じる必要がある。",
       "key_entities": [
         "アメリカ",
-        "イラン",
-        "米軍",
-        "トランプ大統領"
+        "イラン"
       ],
       "sources": [
         "NHK World"
@@ -82,107 +92,91 @@
       ]
     },
     {
-      "title": "米報道“イラン ホルムズ海峡で機雷敷設開始” 事態悪化の懸念",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "イランがホルムズ海峡で機雷の敷設を開始したと報道。トランプ大統領は否定するも、海峡封鎖状態がさらに悪化する懸念。",
-      "analysis": "ホルムズ海峡への機雷敷設は、航行の自由を著しく阻害し、国際法違反の疑いも生じる。トランプ大統領が否定しているものの、報道が事実であれば、イランの挑発行為はエスカレートしていると言える。アメリカが軍事的な対抗措置を取る可能性もあり、事態は予断を許さない。",
-      "key_entities": [
-        "イラン",
-        "アメリカ",
-        "トランプ大統領"
-      ],
-      "sources": [
-        "NHK World"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Qatar PM urges resilience and unity amid Iran strikes",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "カタールの首相が、地域戦争の中で国の抵抗力と団結を強化するよう呼びかけ。",
-      "analysis": "カタールは、イランと湾岸諸国の間で微妙なバランスを保ちながら、自国の安全保障を確保しようとしている。首相の呼びかけは、国民に対し、不確実な情勢に備えるよう促すものと考えられる。カタールは、エネルギー資源の豊富な国であり、地域紛争の影響を大きく受ける可能性がある。",
-      "key_entities": [
-        "カタール"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Iran war live: Oil tankers hit in Iraq, Tehran sets 3 conditions for peace",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "イラクで石油タンカーが攻撃され炎上。イランは和平の条件として、権利の承認、戦争賠償、将来の侵略に対する保証を要求。",
-      "analysis": "イラクにおける石油タンカーへの攻撃は、イランと敵対勢力との間の緊張が激化していることを示している。イランが提示した和平条件は、アメリカやイスラエルにとって受け入れがたい内容であり、交渉の余地は少ない。事態の収束には、国際社会の仲介が不可欠だが、現状ではその見通しは立っていない。",
-      "key_entities": [
-        "イラン",
-        "イラク"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "UN Security Council adopts Gulf countries’ draft resolution",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "国連安全保障理事会は、イランに湾岸地域への攻撃停止を求めるGCC諸国の決議案を採択。",
-      "analysis": "国連安全保障理事会がGCC諸国の決議案を採択したことは、国際社会がイランの行動を強く非難していることを示している。しかし、イランがこの決議に従うかどうかは不透明であり、事態の改善につながるかは未知数である。ロシアなど、イランを擁護する国も存在するため、国際的な足並みが揃わない可能性もある。",
-      "key_entities": [
-        "国連安全保障理事会",
-        "GCC",
-        "イラン"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media",
-        "international_org"
-      ]
-    },
-    {
-      "title": "Trump says Iran war to end ‘soon’ as Israel claims no time limit",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "トランプ大統領はイラン戦争が「まもなく終わる」と発言する一方、イスラエルは時間制限はないと主張。",
-      "analysis": "トランプ大統領の発言は、国内世論を意識したものである可能性が高い。一方、イスラエルの主張は、イランの脅威が完全に排除されるまで軍事作戦を継続する意思を示している。両国の温度差は、今後の展開に不確実性をもたらしている。",
-      "key_entities": [
-        "トランプ大統領",
-        "イスラエル",
-        "イラン"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "ロシアとウクライナ 和平案協議開かれない中 双方が戦果を誇示",
-      "region": "europe",
+      "title": "北朝鮮と中国結ぶ旅客列車が運行 2020年1月以来",
+      "region": "east_asia",
       "risk_level": "medium",
-      "summary": "ロシアとウクライナが和平案をめぐる協議が開かれない中、双方が戦果を誇示し、戦闘が長期化する様相を見せている。",
-      "analysis": "ロシアとウクライナの和平交渉は依然として停滞しており、双方が軍事的な優位性を主張している状況は、紛争の長期化を示唆している。ウクライナへの軍事支援の継続や、ロシアへの経済制裁の効果など、今後の国際社会の対応が重要となる。",
+      "summary": "北朝鮮と中国を結ぶ旅客列車が運行再開。関係強化が進む中、人的往来の本格的な再開につながるかが焦点。",
+      "analysis": "北朝鮮と中国の旅客列車運行再開は、両国間の経済・政治関係の強化を示す兆候と見られる。国際的な制裁下にある北朝鮮にとって、中国との関係強化は経済的な生命線となる。ただし、北朝鮮の核・ミサイル開発問題に対する国際的な懸念は依然として高く、今後の動向を注視する必要がある。",
       "key_entities": [
-        "ロシア",
-        "ウクライナ",
-        "プーチン大統領",
-        "ゼレンスキー大統領"
+        "北朝鮮",
+        "中国"
       ],
       "sources": [
         "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "レバノン ヒズボラとイスラエル戦闘激化 国連安保理で緊急会合",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "レバノンでヒズボラとイスラエルの攻撃の応酬が激化。国連安保理で緊急会合が開かれるも、双方とも強硬姿勢を崩さず。",
+      "analysis": "ヒズボラとイスラエルの戦闘激化は、レバノン国内の不安定化を招き、周辺地域への波及も懸念される。国連安保理での議論も平行線に終わり、事態打開の糸口は見えない。国際社会は両者の自制を求めるとともに、和平に向けた外交努力を継続する必要がある。",
+      "key_entities": [
+        "ヒズボラ",
+        "イスラエル",
+        "レバノン",
+        "国連"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "米軍 韓国に配備の「THAAD」一部を中東に移転か イラン情勢で",
+      "region": "east_asia",
+      "risk_level": "medium",
+      "summary": "米軍が韓国に配備しているTHAADの一部を中東に移転か。韓国では対北朝鮮への抑止力低下を懸念する声も。",
+      "analysis": "THAADの中東移転は、北朝鮮に対する抑止力低下を招き、東アジア地域の安全保障環境に影響を与える可能性がある。韓国国内では、米国の決定に対する不満が高まることも予想される。米国は韓国との緊密な連携を維持し、北朝鮮に対する抑止力を維持するための措置を講じる必要がある。",
+      "key_entities": [
+        "アメリカ",
+        "韓国",
+        "北朝鮮"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Iran targets Gulf nations with missiles, drones as oil prices soar",
+      "region": "middle_east",
+      "risk_level": "critical",
+      "summary": "Bahrain reports an attack on fuel tanks as Saudi Arabia shoots down drones headed towards an oilfield.",
+      "analysis": "Iran's direct attacks on Gulf nations' energy infrastructure represent a significant escalation in the conflict. This increases the risk of a wider regional war and further disruption to global oil supplies. The attacks are likely intended to pressure Gulf states to reduce their support for the US-led coalition and to raise the cost of the conflict for the US and its allies.",
+      "key_entities": [
+        "Iran",
+        "Bahrain",
+        "Saudi Arabia",
+        "US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Trump admin estimates US war on Iran cost $11.3bn in first 6 days: Report",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "Lawmakers express concerns as Trump officials project $50bn more may be needed for Iran war funding.",
+      "analysis": "The high cost of the war in Iran is raising concerns among US lawmakers about the sustainability of the conflict. The projected need for additional funding suggests that the war could be prolonged and costly, both financially and in terms of human lives. This could lead to increased pressure on the Trump administration to seek a diplomatic solution to the conflict.",
+      "key_entities": [
+        "US",
+        "Iran",
+        "Trump Administration"
+      ],
+      "sources": [
+        "Al Jazeera"
       ],
       "source_types": [
         "media"
@@ -191,16 +185,16 @@
   ],
   "region_risk_map": {
     "east_asia": "medium",
-    "southeast_asia": "low",
+    "southeast_asia": "none",
     "south_asia": "none",
     "central_asia": "none",
     "middle_east": "critical",
-    "europe": "medium",
-    "africa": "low",
+    "europe": "high",
+    "africa": "none",
     "north_america": "high",
-    "south_america": "low"
+    "south_america": "none"
   },
-  "generated_at": "2026-03-12T01:22:48.016221",
+  "generated_at": "2026-03-12T13:04:41.424564",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
