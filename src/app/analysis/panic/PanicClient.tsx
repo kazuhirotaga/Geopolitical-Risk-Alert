@@ -5,22 +5,21 @@ import {
     AlertTriangle,
     Activity,
     TrendingUp,
-    Globe,
-    Zap,
-    ShoppingBag,
-    Users,
-    Wallet,
     Info,
-    MapPin
+    MapPin,
+    ShoppingBag,
+    Wallet,
+    Users,
+    Zap
 } from 'lucide-react';
 import { PanicReport, REGION_NAMES } from '@/lib/data';
 
-const STATUS_COLORS: Record<string, string> = {
-    normal: 'bg-emerald-500/20 text-emerald-400 border-emerald-500/30',
-    stable: 'bg-cyan-500/20 text-cyan-400 border-cyan-500/30',
-    unstable: 'bg-amber-500/20 text-amber-400 border-amber-500/30',
-    volatile: 'bg-orange-500/20 text-orange-400 border-orange-500/30',
-    critical: 'bg-rose-500/20 text-rose-400 border-rose-500/30 animate-pulse',
+const STATUS_LABELS: Record<string, { label: string, class: string }> = {
+    normal: { label: '正常', class: 'low' },
+    stable: { label: '安定', class: 'low' },
+    unstable: { label: '不安定', class: 'medium' },
+    volatile: { label: '変動', class: 'high' },
+    critical: { label: '危機的', class: 'critical' },
 };
 
 const CAUSE_ICONS: Record<string, React.ReactNode> = {
@@ -33,134 +32,140 @@ const CAUSE_ICONS: Record<string, React.ReactNode> = {
 export default function PanicClient({ report }: { report: PanicReport | null }) {
     if (!report) {
         return (
-            <div className="flex flex-col items-center justify-center min-h-[60vh] space-y-4">
-                <AlertTriangle className="w-12 h-12 text-amber-500" />
-                <h2 className="text-xl font-bold">データがまだありません</h2>
-                <p className="text-muted">パニック分析の初回実行を待機しています...</p>
+            <div className="hero-section">
+                <AlertTriangle className="w-12 h-12 text-risk-medium mx-auto mb-4" />
+                <h2 className="hero-title">データがまだありません</h2>
+                <p className="hero-subtitle">パニック分析の初回実行を待機しています...</p>
             </div>
         );
     }
 
     return (
-        <div className="fade-in space-y-12 pb-20">
+        <div className="fade-in">
             {/* Hero Section */}
-            <section className="relative overflow-hidden rounded-3xl bg-glass-deep border border-white/10 p-8 md:p-12 mb-12">
-                <div className="absolute top-0 right-0 -mr-20 -mt-20 w-96 h-96 bg-rose-500/10 blur-[100px] rounded-full"></div>
-                <div className="absolute bottom-0 left-0 -ml-20 -mb-20 w-96 h-96 bg-amber-500/10 blur-[100px] rounded-full"></div>
+            <section className="hero-section">
+                <div style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', padding: '4px 12px', borderRadius: '20px', backgroundColor: 'var(--risk-critical-bg)', color: 'var(--risk-critical)', fontSize: '0.75rem', fontWeight: 'bold', marginBottom: '1rem' }}>
+                    <Activity className="w-3 h-3" />
+                    LIVE SOCIAL MONITORING
+                </div>
+                <h1 className="hero-title">World Panic Index</h1>
+                <p className="hero-subtitle">
+                    AIエージェントが世界各地のSNS・ニュースから「集合的パニック」の予兆を抽出。
+                    社会秩序の緊迫度をリアルタイムに数値化。
+                </p>
 
-                <div className="relative z-10 flex flex-col md:flex-row items-center justify-between gap-8">
-                    <div className="flex-1 space-y-4 text-center md:text-left">
-                        <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-rose-500/10 border border-rose-500/20 text-rose-400 text-xs font-bold uppercase tracking-widest">
-                            <Activity className="w-3 h-3" />
-                            Live Social Monitoring
-                        </div>
-                        <h1 className="text-4xl md:text-6xl font-black tracking-tighter">
-                            World <span className="text-gradient-rose">Panic</span> Index
-                        </h1>
-                        <p className="text-lg text-secondary max-w-xl">
-                            世界各地のSNS・ニュースから「集合的パニック」の予兆を抽出。
-                            社会秩序の緊迫度をリアルタイムに数値化します。
-                        </p>
-                    </div>
-
-                    <div className="flex-shrink-0 relative">
-                        <div className="w-48 h-48 md:w-64 md:h-64 rounded-full border-8 border-glass-deep flex flex-col items-center justify-center shadow-2xl relative overflow-hidden group">
-                            <div className="absolute inset-0 bg-gradient-to-tr from-rose-500/20 to-amber-500/20 group-hover:opacity-100 opacity-50 transition-opacity"></div>
-                            <span className="text-xs uppercase font-bold text-muted mb-1 relative z-10">Global Score</span>
-                            <span className="text-6xl md:text-8xl font-black relative z-10">{report.global_panic_index}</span>
-                            <div className="mt-2 relative z-10">
-                                <TrendingUp className="w-6 h-6 text-rose-400" />
-                            </div>
-                        </div>
+                <div style={{ display: 'flex', justifyContent: 'center', marginTop: '2rem' }}>
+                    <div className="glass-card" style={{ width: '200px', height: '200px', borderRadius: '50%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', border: '4px solid var(--border-glow)', boxShadow: 'var(--shadow-glow)' }}>
+                        <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)', fontWeight: 'bold' }}>GLOBAL SCORE</span>
+                        <span style={{ fontSize: '4rem', fontWeight: '900', background: 'linear-gradient(135deg, #f43f5e, #fbbf24)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
+                            {report.global_panic_index}
+                        </span>
+                        <TrendingUp className="w-6 h-6" style={{ color: 'var(--risk-critical)' }} />
                     </div>
                 </div>
             </section>
 
             {/* Summary Card */}
-            <section className="glass-card !border-white/5 relative overflow-hidden">
-                <div className="absolute top-0 left-0 w-1 h-full bg-accent-blue"></div>
-                <div className="flex items-start gap-4">
-                    <div className="p-3 bg-accent-blue/10 rounded-xl">
-                        <Info className="w-6 h-6 text-accent-blue" />
+            <section className="summary-card" style={{ borderLeft: '4px solid var(--accent-blue)' }}>
+                <div style={{ display: 'flex', alignItems: 'flex-start', gap: '1rem' }}>
+                    <div style={{ padding: '0.5rem', backgroundColor: 'rgba(59, 130, 246, 0.1)', borderRadius: '0.5rem' }}>
+                        <Info className="w-6 h-6" style={{ color: 'var(--accent-blue)' }} />
                     </div>
                     <div>
-                        <h2 className="text-xl font-bold mb-2">パニック概況概観</h2>
-                        <p className="text-secondary leading-relaxed">{report.summary}</p>
+                        <h2 style={{ fontSize: '1.25rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>パニック概況概観</h2>
+                        <p className="summary-text">{report.summary}</p>
                     </div>
                 </div>
             </section>
 
             {/* Region View */}
-            <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <h2 className="section-title">
+                <span className="icon">🗺️</span>
+                地域別パニック状況
+            </h2>
+            <div className="world-map-grid" style={{ marginBottom: '4rem' }}>
                 {report.regions.map((reg) => {
                     const regionInfo = REGION_NAMES[reg.region];
+                    const status = STATUS_LABELS[reg.status] || { label: reg.status, class: 'none' };
+
                     return (
-                        <div key={reg.region} className="glass-card hover:border-white/20 transition-all group">
-                            <div className="flex items-center justify-between mb-6">
-                                <div className="flex items-center gap-3">
-                                    <span className="text-2xl">{regionInfo?.emoji || '🗺️'}</span>
+                        <div key={reg.region} className="region-card" style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+                            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+                                <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                                    <span style={{ fontSize: '1.5rem' }}>{regionInfo?.emoji || '🗺️'}</span>
                                     <div>
-                                        <h3 className="font-bold">{regionInfo?.name || reg.region}</h3>
-                                        <p className="text-[10px] text-muted uppercase tracking-wider">{reg.region}</p>
+                                        <div className="region-name">{regionInfo?.name || reg.region}</div>
+                                        <div className="region-name-en">{reg.region.toUpperCase()}</div>
                                     </div>
                                 </div>
-                                <div className={`px-2 py-0.5 rounded border text-[10px] font-bold uppercase ${STATUS_COLORS[reg.status]}`}>
-                                    {reg.status}
-                                </div>
+                                <span className={`risk-badge ${status.class}`}>
+                                    <span className="dot"></span>
+                                    {status.label}
+                                </span>
                             </div>
 
-                            <div className="space-y-4">
-                                <div className="flex items-end justify-between">
-                                    <span className="text-xs text-muted">Panic Intensity</span>
-                                    <span className="text-3xl font-black text-white">{reg.panic_index}</span>
+                            <div style={{ marginTop: '0.5rem' }}>
+                                <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', marginBottom: '0.5rem' }}>
+                                    <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Panic Intensity</span>
+                                    <span style={{ fontSize: '1.5rem', fontWeight: '900' }}>{reg.panic_index}</span>
                                 </div>
-                                <div className="w-full h-1.5 bg-white/5 rounded-full overflow-hidden">
+                                <div style={{ width: '100%', height: '6px', backgroundColor: 'rgba(255,255,255,0.05)', borderRadius: '3px', overflow: 'hidden' }}>
                                     <div
-                                        className={`h-full transition-all duration-1000 ${reg.panic_index > 70 ? 'bg-rose-500' : reg.panic_index > 40 ? 'bg-amber-500' : 'bg-accent-blue'
-                                            }`}
-                                        style={{ width: `${reg.panic_index}%` }}
-                                    ></div>
-                                </div>
-
-                                <div className="flex items-center gap-2 text-xs text-secondary bg-white/5 p-2 rounded-lg">
-                                    {CAUSE_ICONS[reg.main_cause] || <Activity className="w-3 h-3" />}
-                                    <span>Main Cause: <strong>{reg.main_cause}</strong></span>
+                                        style={{
+                                            width: `${reg.panic_index}%`,
+                                            height: '100%',
+                                            backgroundColor: reg.panic_index > 70 ? 'var(--risk-critical)' : reg.panic_index > 40 ? 'var(--risk-high)' : 'var(--accent-blue)',
+                                            transition: 'width 1s ease-in-out'
+                                        }}
+                                    />
                                 </div>
                             </div>
 
-                            <div className="mt-8 space-y-3">
-                                <h4 className="text-[10px] font-bold text-muted uppercase tracking-widest border-l-2 border-accent-blue pl-2">Major Incidents</h4>
-                                {reg.incidents.map((incident, idx) => (
-                                    <div key={idx} className="p-3 bg-black/30 rounded-xl border border-white/5 hover:border-white/10 transition-colors">
-                                        <div className="flex items-start justify-between gap-2 mb-2">
-                                            <h5 className="text-xs font-bold leading-tight">{incident.title}</h5>
-                                            <span className="text-[10px] text-rose-400 font-mono">#{incident.severity}</span>
+                            <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', backgroundColor: 'rgba(255,255,255,0.03)', padding: '0.5rem', borderRadius: '0.5rem', border: '1px solid var(--border-color)' }}>
+                                <strong>主な原因:</strong> {reg.main_cause}
+                            </div>
+
+                            <div style={{ marginTop: '0.5rem' }}>
+                                <div style={{ fontSize: '0.65rem', fontWeight: 'bold', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '0.5rem', borderLeft: '2px solid var(--accent-blue)', paddingLeft: '0.5rem' }}>
+                                    主要な事象
+                                </div>
+                                <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+                                    {reg.incidents.map((incident, idx) => (
+                                        <div key={idx} style={{ padding: '0.75rem', backgroundColor: 'rgba(0,0,0,0.2)', borderRadius: '0.75rem', border: '1px solid var(--border-color)' }}>
+                                            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: '0.5rem' }}>
+                                                <div style={{ fontSize: '0.8rem', fontWeight: 'bold', lineHeight: '1.2' }}>{incident.title}</div>
+                                                <span style={{ fontSize: '0.7rem', color: 'var(--risk-critical)', fontFamily: 'monospace' }}>#{incident.severity}</span>
+                                            </div>
+                                            <p style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginTop: '0.25rem', display: '-webkit-box', WebkitLineClamp: '2', WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+                                                {incident.description}
+                                            </p>
+                                            <div style={{ display: 'flex', alignItems: 'center', gap: '0.25rem', marginTop: '0.5rem', fontSize: '0.65rem', color: 'var(--accent-blue)' }}>
+                                                <MapPin className="w-2 h-2" />
+                                                {incident.location}
+                                            </div>
                                         </div>
-                                        <p className="text-[10px] text-muted line-clamp-2">{incident.description}</p>
-                                        <div className="flex items-center gap-1 mt-2 text-[8px] text-accent-blue uppercase">
-                                            <MapPin className="w-2 h-2" />
-                                            {incident.location}
-                                        </div>
-                                    </div>
-                                ))}
+                                    ))}
+                                </div>
                             </div>
                         </div>
                     );
                 })}
-            </section>
+            </div>
 
-            {/* Legend / Info */}
-            <section className="flex flex-wrap justify-center gap-8 pt-8 border-t border-white/5 text-[10px] text-muted uppercase tracking-[0.2em]">
-                <div className="flex items-center gap-2">
-                    <span className="w-2 h-2 rounded-full bg-rose-500"></span> 0-20 Stable
+            {/* Footer / Legend */}
+            <div style={{ borderTop: '1px solid var(--border-color)', paddingTop: '2rem', paddingBottom: '4rem', textAlign: 'center', opacity: 0.6 }}>
+                <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '1.5rem', fontSize: '0.7rem', textTransform: 'uppercase', letterSpacing: '0.1em' }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                        <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: 'var(--risk-low)' }}></span> 0-40 Low
+                    </div>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                        <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: 'var(--risk-medium)' }}></span> 41-70 Volatile
+                    </div>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                        <span style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: 'var(--risk-critical)' }}></span> 71-100 Panic
+                    </div>
                 </div>
-                <div className="flex items-center gap-2">
-                    <span className="w-2 h-2 rounded-full bg-amber-500"></span> 41-60 Volatile
-                </div>
-                <div className="flex items-center gap-2">
-                    <span className="w-2 h-2 rounded-full bg-emerald-500"></span> 81-100 Panic
-                </div>
-            </section>
+            </div>
         </div>
     );
 }

@@ -9,11 +9,20 @@ export const metadata = {
 };
 
 export default function PanicPage() {
+    console.log('[PanicPage] Rendering...');
     const report = getLatestReport('panic');
 
+    if (report) {
+        console.log(`[PanicPage] Data found for ${report.date}`);
+    } else {
+        console.warn('[PanicPage] No report data found!');
+    }
+
     return (
-        <main className="container mx-auto px-4 py-8">
-            <PanicClient report={report} />
+        <main className="main-container">
+            <div className="fade-in">
+                <PanicClient report={report} />
+            </div>
         </main>
     );
 }

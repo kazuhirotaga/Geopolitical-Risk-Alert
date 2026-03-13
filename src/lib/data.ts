@@ -175,10 +175,17 @@ export function getLatestReport(type: 'articles' | 'financial' | 'statements' | 
         else dir = ARTICLES_DIR;
 
         const filePath = path.join(dir, 'latest.json');
-        if (!fs.existsSync(filePath)) return null;
+        console.log(`[DataLayer] Fetching latest report for type: ${type}, path: ${filePath}`);
+
+        if (!fs.existsSync(filePath)) {
+            console.warn(`[DataLayer] File NOT found: ${filePath}`);
+            return null;
+        }
+
         const data = fs.readFileSync(filePath, 'utf-8');
         return JSON.parse(data);
-    } catch {
+    } catch (error) {
+        console.error(`[DataLayer] Error loading latest report (${type}):`, error);
         return null;
     }
 }
