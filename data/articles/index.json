@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-03-13",
-    "summary": "アメリカ・イスラエルによるイランへの軍事作戦が激化し、中東地域全体の地政学的リスクが極めて高い状況です。原油価格の高騰、サイバー攻撃、レバノンへの攻撃など、多方面に影響が拡大しています。",
+    "summary": "アメリカ・イスラエルとイランの軍事衝突が激化し、中東地域全体が不安定化。原油価格高騰、サイバー攻撃、レバノン情勢悪化など、地政学的リスクが複合的に高まっている。ウクライナ情勢も依然として深刻。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
@@ -10,12 +10,12 @@
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
+      "europe": "high",
       "africa": "medium",
       "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-03-13T23:24:58.109107"
+    "generated_at": "2026-03-13T23:37:21.710989"
   },
   {
     "date": "2026-03-12",

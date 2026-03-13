@@ -1,19 +1,18 @@
 {
   "date": "2026-03-13",
-  "summary": "イラン戦争の激化により、原油価格が急騰し、インフレ懸念が高まっています。米国の金融政策に対する不確実性も加わり、世界経済のリスクが高まっています。暗号資産市場は、地政学的リスクと規制動向に大きく左右されています。",
+  "summary": "イラン戦争の激化により、原油価格が急騰し、株式市場は下落。米国の金融政策への影響も懸念される。暗号資産市場は、地政学的リスクと規制動向に左右され、ボラティリティが高まっている。FRB議長への捜査も金融市場の不確実性を高めている。",
   "overall_risk_level": "high",
   "articles": [
     {
       "title": "Trump says U.S. 'obliterated' military targets on Iran's Kharg Island but didn't 'wipe out' oil infrastructure",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "トランプ大統領は、米軍がイランのハルグ島にある軍事目標を破壊したが、石油インフラは破壊しなかったと発表。中東情勢の緊迫化を示唆。",
-      "analysis": "米国のイランに対する軍事行動は、原油供給への懸念を高め、原油価格の急騰を招いています。ハルグ島はイランの主要な石油輸出ターミナルであり、攻撃は限定的であったものの、今後のエスカレーションのリスクを高めています。地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株式市場や新興国市場への影響が懸念されます。今後の米イラン間の対話の有無、およびホルムズ海峡の封鎖リスクが重要となります。",
+      "summary": "トランプ大統領が、イランのハルグ島にある軍事目標を破壊したと発表。ただし、石油インフラは破壊していないと述べている。",
+      "analysis": "米国のイランに対する軍事行動は、中東地域の地政学的リスクを著しく高めている。石油インフラへの直接的な攻撃は回避されたものの、今後のエスカレーションの可能性は高く、原油価格のさらなる上昇やサプライチェーンの混乱が懸念される。市場は、紛争の長期化と、それに伴う経済的影響を織り込み始めている。",
       "key_entities": [
-        "トランプ大統領",
-        "米国中央軍",
-        "イラン",
-        "ハルグ島"
+        "Trump",
+        "U.S. Central Command",
+        "Iran"
       ],
       "sources": [
         "CNBC - Top News"
@@ -26,67 +25,12 @@
       "title": "Mortgage rates surge to highest since September, hitting spring housing market",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イラン戦争の影響で債券利回りが上昇し、住宅ローン金利が9月以来の高水準に。春の住宅市場に悪影響を与える可能性。",
-      "analysis": "イラン戦争による不確実性の高まりから、安全資産である米国債への需要が低下し、債券利回りが上昇しています。住宅ローン金利の上昇は、住宅購入者の負担を増加させ、住宅市場の冷え込みを招く可能性があります。特に、金利変動に敏感な新規住宅購入者層への影響が大きくなるでしょう。今後の住宅市場の動向は、米国の景気減速リスクを測る上で重要な指標となります。",
+      "summary": "イラン戦争の影響で債券利回りが上昇し、住宅ローン金利が9月以来の高水準に達した。",
+      "analysis": "イラン戦争による不確実性の高まりが、債券市場に影響を与え、住宅ローン金利の上昇を招いている。これは、春の住宅市場に悪影響を及ぼす可能性があり、住宅関連産業の収益悪化につながる恐れがある。FRBの金融政策にも影響を与え、利上げ圧力を高める可能性がある。",
       "key_entities": [
-        "住宅ローン金利",
-        "米国債",
-        "イラン戦争"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "S&P 500 falls to new low for year on Iran oil crisis, posts third-straight losing week: Live updates",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イランの石油危機によりS&P500が年初来安値を更新。3週連続の下落。投資家は今後の展開を注視。",
-      "analysis": "イラン戦争の激化は、原油価格の高騰を通じてインフレ懸念を再燃させ、株式市場にネガティブな影響を与えています。特に、エネルギー価格上昇の影響を受けやすいセクターや、景気敏感株を中心に売りが先行しています。投資家は、今後の地政学的リスクの動向と、企業業績への影響を慎重に見極める必要があります。ボラティリティの上昇も予想され、リスク管理の重要性が高まっています。",
-      "key_entities": [
-        "S&P 500",
-        "原油価格",
-        "イラン戦争"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Oil closes above $100 for second day as market shrugs off U.S. measures to reduce prices during Iran war",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "原油価格が1バレル100ドルを超えて高止まり。米国による価格抑制策も効果薄。トランプ大統領は紛争終結が近いとは示唆せず。",
-      "analysis": "原油価格の高騰は、世界経済に広範囲な影響を及ぼします。インフレ圧力の上昇、企業収益の圧迫、消費者支出の減少などが懸念されます。米国の戦略石油備蓄放出などの価格抑制策も効果が限定的であり、市場は地政学的リスクを強く意識しています。トランプ大統領の発言は、紛争長期化の可能性を示唆しており、原油価格の高止まりが続く可能性があります。",
-      "key_entities": [
-        "原油価格",
-        "トランプ大統領",
-        "イラン戦争",
-        "戦略石油備蓄"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Trump tariffs: Refunds to companies should go to workers as bonuses, raises, Greer says",
-      "region": "north_america",
-      "risk_level": "medium",
-      "summary": "最高裁が違法と判断したトランプ政権の関税について、企業への払い戻しを労働者のボーナスや賃上げに充てるべきとの意見。",
-      "analysis": "最高裁の判断により、米国政府は企業に対して多額の関税払い戻しを行う必要があります。この資金が労働者に還元されるかどうかは、企業の経営判断に委ねられますが、労働市場の改善や賃金上昇に繋がる可能性があります。ただし、企業が払い戻し金を再投資や株主還元に充てる可能性もあり、経済効果は不確実です。",
-      "key_entities": [
-        "トランプ政権",
-        "関税",
-        "最高裁"
+        "Mortgage rates",
+        "Bond yields",
+        "Iran"
       ],
       "sources": [
         "CNBC - Top News"
@@ -99,12 +43,48 @@
       "title": "DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe",
       "region": "global",
       "risk_level": "medium",
-      "summary": "パウエルFRB議長に対する刑事捜査に関連し、司法省が裁判所の召喚状差し止め決定を不服として控訴。",
-      "analysis": "FRB議長に対する刑事捜査は、金融政策の独立性に対する疑念を生じさせ、市場の信頼を損なう可能性があります。司法省の控訴は、捜査の継続を示唆しており、今後の展開によっては金融市場に大きな影響を与える可能性があります。特に、パウエル議長の辞任や解任といった事態が発生した場合、金融政策の方向性に対する不確実性が高まり、市場の混乱を招く可能性があります。",
+      "summary": "FRBのパウエル議長が、本部改修に関する発言で捜査を受けており、司法省が裁判所の召喚状阻止決定を不服として控訴する。",
+      "analysis": "FRB議長に対する刑事捜査は、FRBの独立性と信頼性を損なう可能性があり、金融市場に不確実性をもたらす。特に、現在の不安定な経済状況下では、FRBの政策決定に対する市場の信頼が重要であり、捜査の進展によっては、市場の混乱を招く恐れがある。",
       "key_entities": [
-        "ジェローム・パウエル",
-        "FRB",
-        "司法省"
+        "Jerome Powell",
+        "Federal Reserve",
+        "DOJ"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "S&P 500 falls to new low for year on Iran oil crisis, posts third-straight losing week: Live updates",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "イランの石油危機により、S&P500が年初来安値を更新し、3週連続の下落となった。",
+      "analysis": "イラン戦争による原油価格の高騰が、企業収益の悪化懸念を高め、株式市場全体に下落圧力をかけている。特に、エネルギー多消費型産業や、サプライチェーンが混乱している企業は、大きな影響を受ける可能性がある。投資家はリスクオフ姿勢を強めており、安全資産への逃避が進むと予想される。",
+      "key_entities": [
+        "S&P 500",
+        "Iran",
+        "Oil prices"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Oil closes above $100 for second day as market shrugs off U.S. measures to reduce prices during Iran war",
+      "region": "middle_east",
+      "risk_level": "critical",
+      "summary": "原油価格が2日連続で1バレル100ドルを超えた。市場は、米国による価格抑制策を無視している。",
+      "analysis": "米国の価格抑制策の効果が限定的であることは、イラン戦争による供給不安が根強いことを示唆している。原油価格の高止まりは、インフレ圧力を高め、世界経済の成長を阻害する可能性がある。各国政府は、エネルギー政策の見直しを迫られる可能性があり、再生可能エネルギーへの投資が加速すると予想される。",
+      "key_entities": [
+        "Oil prices",
+        "Iran war",
+        "U.S. measures"
       ],
       "sources": [
         "CNBC - Top News"
@@ -117,11 +97,11 @@
       "title": "Bitcoin quickly drops 3.5% as fresh Iran escalation short-circuits crypto rally",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "イラン情勢の悪化により、ビットコインが3.5%急落。暗号資産市場の地政学的リスクへの脆弱性を示す。",
-      "analysis": "暗号資産市場は、地政学的リスクやマクロ経済の変動に敏感に反応します。イラン情勢の悪化は、リスク回避姿勢を強め、ビットコインなどの暗号資産の売りを誘発しました。ただし、ビットコインは依然として代替資産としての側面も持ち合わせており、長期的な視点ではインフレヘッジや価値の保存手段として機能する可能性があります。",
+      "summary": "イラン情勢の悪化により、ビットコインが3.5%急落した。",
+      "analysis": "地政学的リスクの高まりは、暗号資産市場にも影響を与え、ビットコインの価格変動を大きくしている。安全資産としてのビットコインの役割が期待される一方で、リスクオフの動きが強まると、売却される傾向がある。今後の地政学的動向次第で、ビットコインの価格は大きく変動する可能性がある。",
       "key_entities": [
-        "ビットコイン",
-        "イラン情勢"
+        "Bitcoin",
+        "Iran escalation"
       ],
       "sources": [
         "CoinDesk"
@@ -131,33 +111,14 @@
       ]
     },
     {
-      "title": "Circle overtakes BlackRock in tokenized Treasuries as market hits record $11 billion",
-      "region": "global",
+      "title": "Trump tariffs: Refunds to companies should go to workers as bonuses, raises, Greer says",
+      "region": "north_america",
       "risk_level": "low",
-      "summary": "トークン化された米国債市場が110億ドルに達し、CircleがBlackRockを抜いて首位に。デジタル資産市場の成長を示唆。",
-      "analysis": "トークン化された米国債市場の成長は、デジタル資産市場の成熟度が高まっていることを示しています。Circleの躍進は、ステーブルコインの信頼性と利便性が高まっていることを反映しています。今後、トークン化された資産の普及が進むことで、金融市場の効率化や新たな投資機会の創出が期待されます。",
+      "summary": "最高裁が違法と判断したトランプ政権の関税について、企業への払い戻しはボーナスや昇給として労働者に還元されるべきだと主張されている。",
+      "analysis": "過去の関税に対する払い戻しは、企業収益を押し上げる可能性があるが、労働者への還元が実現すれば、消費支出の増加につながり、経済成長を促進する可能性がある。ただし、企業の自主的な判断に委ねられる部分が大きく、効果は不透明である。",
       "key_entities": [
-        "Circle",
-        "BlackRock",
-        "トークン化された米国債"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "第4四半期のGDP成長率が0.7%に下方修正。1月のコアインフレ率は3.1%。景気減速とインフレ圧力の継続を示す。",
-      "analysis": "GDP成長率の下方修正と高止まりするインフレ率は、スタグフレーションのリスクを高めます。FRBは、インフレ抑制と景気刺激という相反する目標の間で難しい舵取りを迫られています。今後の金融政策の方向性は、市場のボラティリティに大きな影響を与える可能性があります。",
-      "key_entities": [
-        "GDP",
-        "インフレ率",
-        "FRB"
+        "Trump tariffs",
+        "Supreme Court"
       ],
       "sources": [
         "CNBC - Top News"
@@ -167,14 +128,51 @@
       ]
     },
     {
-      "title": "Bitcoin rises to one-month high of $73,800, continuing to outperform since start of Iran war",
-      "region": "middle_east",
+      "title": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
+      "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインがイラン戦争開始以降、アウトパフォームを続け、1ヶ月ぶりの高値73,800ドルに上昇。",
-      "analysis": "地政学的リスクの高まりを受け、ビットコインが安全資産としての側面を強めています。株式市場が下落する中で、ビットコインが上昇していることは、投資家のリスク回避姿勢と、代替資産への需要の高まりを示唆しています。ただし、暗号資産市場は依然としてボラティリティが高く、今後の地政学的リスクの動向や規制動向に注意が必要です。",
+      "summary": "第4四半期のGDP成長率が0.7%に下方修正され、1月のコアインフレ率は3.1%だった。",
+      "analysis": "GDP成長率の鈍化とインフレ率の高止まりは、スタグフレーションのリスクを高める。FRBは、金融引き締め政策を継続する必要がある一方で、景気後退のリスクも考慮しなければならず、政策運営が難しい状況にある。企業収益の悪化や、消費者の購買力低下が懸念される。",
       "key_entities": [
-        "ビットコイン",
-        "イラン戦争"
+        "GDP",
+        "Inflation",
+        "Federal Reserve"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Circle overtakes BlackRock in tokenized Treasuries as market hits record $11 billion",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "トークン化された米国債市場が110億ドルの記録を達成し、CircleがBlackRockを上回った。",
+      "analysis": "トークン化された米国債市場の成長は、デジタル資産の普及と、伝統的な金融市場への統合が進んでいることを示唆している。Circleのような暗号資産企業が、BlackRockのような大手資産運用会社を上回ることは、金融業界における競争環境の変化を示している。",
+      "key_entities": [
+        "Circle",
+        "BlackRock",
+        "Tokenized Treasuries"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "U.S. sanctions 6 people, 2 companies that laundered $800 million in crypto for North Korea",
+      "region": "east_asia",
+      "risk_level": "medium",
+      "summary": "米国が、北朝鮮のために8億ドルの暗号資産をマネーロンダリングした6人と2社を制裁した。",
+      "analysis": "暗号資産を利用したマネーロンダリングは、国際的な安全保障上の脅威となっている。米国の制裁は、暗号資産規制の強化を促し、業界全体のコンプライアンス体制の強化につながる可能性がある。ただし、匿名性の高い暗号資産の特性上、マネーロンダリングの完全な阻止は困難である。",
+      "key_entities": [
+        "U.S. sanctions",
+        "North Korea",
+        "Crypto laundering"
       ],
       "sources": [
         "CoinDesk"
@@ -186,12 +184,12 @@
   ],
   "region_risk_map": {
     "global": "medium",
-    "north_america": "medium",
-    "europe": "medium",
+    "north_america": "low",
+    "europe": "none",
     "east_asia": "medium",
     "middle_east": "critical"
   },
-  "generated_at": "2026-03-13T23:25:21.720965",
+  "generated_at": "2026-03-13T23:37:41.446616",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
