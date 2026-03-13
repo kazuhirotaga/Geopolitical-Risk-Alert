@@ -105,6 +105,30 @@ const FINANCIAL_DIR = path.join(process.cwd(), 'data', 'financial');
 const STATEMENTS_DIR = path.join(process.cwd(), 'data', 'statements');
 const ENERGY_DIR = path.join(process.cwd(), 'data', 'energy');
 const COMBAT_DIR = path.join(process.cwd(), 'data', 'combat');
+const PANIC_DIR = path.join(process.cwd(), 'data', 'panic');
+
+export interface PanicIncident {
+    title: string;
+    location: string;
+    severity: number;
+    description: string;
+    source: string;
+}
+
+export interface PanicRegionReport {
+    region: string;
+    panic_index: number;
+    status: 'normal' | 'stable' | 'unstable' | 'volatile' | 'critical';
+    main_cause: string;
+    incidents: PanicIncident[];
+}
+
+export interface PanicReport {
+    date: string;
+    summary: string;
+    global_panic_index: number;
+    regions: PanicRegionReport[];
+}
 
 export function getMarketData(): MarketData | null {
     try {
@@ -141,11 +165,13 @@ export function getCombatLogs(): CombatLog[] {
 
 export function getLatestReport(type?: 'articles' | 'financial'): DailyReport | null;
 export function getLatestReport(type: 'statements'): StatementReport | null;
-export function getLatestReport(type: 'articles' | 'financial' | 'statements' = 'articles'): any | null {
+export function getLatestReport(type: 'panic'): PanicReport | null;
+export function getLatestReport(type: 'articles' | 'financial' | 'statements' | 'panic' = 'articles'): any | null {
     try {
         let dir;
         if (type === 'financial') dir = FINANCIAL_DIR;
         else if (type === 'statements') dir = STATEMENTS_DIR;
+        else if (type === 'panic') dir = PANIC_DIR;
         else dir = ARTICLES_DIR;
 
         const filePath = path.join(dir, 'latest.json');

@@ -582,3 +582,69 @@ COMBAT_LOG_ANALYSIS_PROMPT = """あなたは軍事・紛争分析の専門家（
 - 最大15件の重要イベントを抽出してください
 - 誇張を避け、淡々と事実関係を記述してください
 """
+
+# ============================================================
+# パニック状況分析用設定
+# ============================================================
+
+PANIC_DATA_SOURCES = [
+    {
+        "name": "Google News - Panic & Social Unrest",
+        "url": "https://news.google.com/rss/search?q=panic+OR+unrest+OR+shortage+OR+bank+run+OR+riot+OR+protest+when:24h&hl=en-US&gl=US&ceid=US:en",
+        "type": "media",
+        "language": "en",
+        "region_focus": "global",
+    },
+    {
+        "name": "Google News - 食料不足・暴動",
+        "url": "https://news.google.com/rss/search?q=食料不足+OR+暴動+OR+取り付け騒ぎ+OR+デモ+when:24h&hl=ja&gl=JP&ceid=JP:ja",
+        "type": "media",
+        "language": "ja",
+        "region_focus": "global",
+    }
+]
+
+PANIC_ANALYSIS_PROMPT = """あなたは社会心理学と危機管理の専門アナリストです。
+世界各地で発生している「パニック」や「社会不安」に関する情報を分析し、各国のパニック状況を数値化・レポートしてください。
+対象となる事象は、食料・エネルギー不足、銀行の取り付け騒ぎ、大規模な抗議デモ、略奪、買いだめ、逃避行などです。
+
+## 入力ニュース情報
+{news_data}
+
+## 出力形式（JSON）
+以下のJSON形式で出力してください。
+
+{{
+  "date": "YYYY-MM-DD",
+  "summary": "世界全体のパニック・社会不安の概況（200文字程度）",
+  "global_panic_index": 0-100の数値（世界全体の緊迫度）,
+  "regions": [
+    {{
+      "region": "europe|north_america|east_asia|middle_east|africa|south_america|southeast_asia",
+      "panic_index": 0-100の数値,
+      "status": "normal|stable|unstable|volatile|critical(危険・パニック状態)",
+      "main_cause": "パニックの主な原因（例：食料不足、金融不安など）",
+      "incidents": [
+        {{
+          "title": "事象のタイトル",
+          "location": "地名（国名・都市名）",
+          "severity": 0-100の数値,
+          "description": "具体的なパニック状況の説明（150文字程度）",
+          "source": "情報源名"
+        }}
+      ]
+    }}
+  ]
+}}
+
+## 分析ガイドライン
+- 事実に基づき、社会心理的なパニック度を客観的に評価してください
+- 単なる「抗議」と、社会秩序が崩壊しかけている「パニック」を区別してください
+- パニック指数(0-100)の目安:
+  - 0-20: 安定（平時）
+  - 21-40: 軽微な不安（噂や小規模なデモ） 
+  - 41-60: 不安の増大（一部商品の中不足、全国的なデモ）
+  - 61-80: 警戒状態（買いだめ、銀行への列、一部暴徒化）
+  - 81-100: パニック（社会インフラのマヒ、略奪、無秩序な逃避）
+- 各地域について最大5件の重要なパニック事象を抽出してください
+"""

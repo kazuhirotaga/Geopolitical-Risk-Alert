@@ -33,6 +33,7 @@ export default function RootLayout({
                 <li><a href="/financial">金融リスク</a></li>
                 <li><a href="/analysis/fuel-stocks">エネルギー</a></li>
                 <li><a href="/analysis/combat-log">戦闘log</a></li>
+                <li><a href="/analysis/panic">パニック</a></li>
                 <li><a href="/statements">重要発言</a></li>
                 <li><a href="/articles">記事一覧</a></li>
               </ul>
