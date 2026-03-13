@@ -1,0 +1,96 @@
+{
+  "date": "2026-03-13",
+  "summary": "世界全体では、インドにおけるLPG（液化石油ガス）不足が広範囲で大規模な抗議活動を引き起こし、生活必需品に関する強い社会不安が顕在化しています。中東のイランでは、デモ隊内で爆発が発生し、当局が強硬な対応を警告するなど、政治的緊張と社会秩序の不安定化が深刻化しています。また、東南アジアのフィリピンでは水不足の懸念が報じられており、資源不足が地域的な不安要因として浮上しています。全体としては、生活必需品への不安と政治的対立が主な社会不安の原因となっています。",
+  "global_panic_index": 55,
+  "regions": [
+    {
+      "region": "middle_east",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "政治的抑圧、内部紛争、社会不安",
+      "incidents": [
+        {
+          "title": "イランでのデモ隊内爆発と革命防衛隊の強硬警告",
+          "location": "イラン（テヘランなど）",
+          "severity": 90,
+          "description": "イランのデモ隊の群衆内で大規模な爆発が発生。これに対し、革命防衛隊は「1月を上回る強力な対応」を警告し、政治的対立と治安悪化の可能性が極めて高まっている。",
+          "source": "Vietnam.vn, Yahoo!ニュース"
+        },
+        {
+          "title": "数千人規模の宗教的・政治的抗議デモ",
+          "location": "インド、ジャンムー・カシミール州、レー",
+          "severity": 65,
+          "description": "数千人が参加する宗教的・政治的な抗議デモが発生。指導者による過激な発言もあり、地域の緊張が高く、社会秩序への不安が継続している。",
+          "source": "The Economic Times"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "エネルギー不足（LPG）、生活必需品価格高騰、政治的抗議",
+      "incidents": [
+        {
+          "title": "インド全土でのLPG不足と価格高騰に対する大規模抗議デモ",
+          "location": "インド各地（デリー、タミル・ナドゥ、グジャラート、ジャールカンド、マハラシュトラなど）",
+          "severity": 80,
+          "description": "全国的なLPG不足と価格高騰に対し、与野党議員が国会内外で大規模な抗議活動を展開。家庭や飲食店の調理に深刻な影響が出ており、強い社会不安が蔓延している。",
+          "source": "The Times of India, WION, The Indian Express, ANI News, Business Today など多数"
+        },
+        {
+          "title": "燃料不足による飲食店の経営圧迫",
+          "location": "インド、アーメダバード",
+          "severity": 60,
+          "description": "LPG不足がアーメダバードの飲食店経営を圧迫。「ガスがなければ商売が成り立たない」との声が上がり、経済活動への影響から地域経済に不安が広がっている。",
+          "source": "The Indian Express"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "水資源不足の懸念",
+      "incidents": [
+        {
+          "title": "フィリピン、イロイロでの水不足の懸念",
+          "location": "フィリピン、イロイロ",
+          "severity": 40,
+          "description": "ホットシーズンに向けて、イロイロ地方で深刻な水不足が懸念されており、井戸が枯渇する可能性が指摘されている。生活必需品に関する将来的な不安が増大している。",
+          "source": "Panay News"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": [
+        {
+          "title": "セルビアの抗議デモにおける過去の「音響兵器」パニックの未解決",
+          "location": "セルビア",
+          "severity": 30,
+          "description": "1年前にセルビアの抗議デモで発生したとされる「音響兵器」によるパニックの原因が未解決のまま報じられている。現在の事象ではないが、過去の社会不安の残滓が示唆される。",
+          "source": "Balkan Insight"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": [
+        {
+          "title": "消費税率引き下げを訴えるデモ行進",
+          "location": "日本、徳島市",
+          "severity": 20,
+          "description": "消費税率引き下げを訴える決起集会とデモ行進が県内6団体により実施された。一般的な政治的抗議活動であり、社会全体にパニックをもたらすものではない。",
+          "source": "徳島新聞デジタル"
+        }
+      ]
+    }
+  ]
+}

@@ -1,16 +1,17 @@
 [
   {
     "date": "2026-03-13",
-    "summary": "イラン戦争の激化により原油価格が急騰し、インフレ懸念が高まる。米国の金融政策への影響が注視される。暗号資産市場はボラティリティが高く、規制動向も不透明。住宅ローン金利の上昇も経済の重荷となる可能性がある。",
+    "summary": "イラン戦争の激化により、原油価格が急騰し、インフレ懸念が高まっています。米国の金融政策に対する不確実性も加わり、世界経済のリスクが高まっています。暗号資産市場は、地政学的リスクと規制動向に大きく左右されています。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "medium",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "medium"
+      "east_asia": "medium",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-03-13T23:12:45.207152"
+    "generated_at": "2026-03-13T23:25:21.720965"
   },
   {
     "date": "2026-03-12",
