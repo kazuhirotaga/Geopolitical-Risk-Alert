@@ -35,11 +35,11 @@ def analyze_combat_events(articles):
         return None
 
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-2.0-flash')
 
     # ニュースデータをテキスト化
     news_text = ""
-    for i, a in enumerate(articles[:20]):  # 上位20件を対象
+    for i, a in enumerate(articles[:30]):  # 対象件数を少し増やす
         news_text += f"[{i+1}] {a['title']}\nSource: {a['source_name']}\nSummary: {a['summary']}\nURL: {a['url']}\n\n"
 
     prompt = COMBAT_LOG_ANALYSIS_PROMPT.format(news_data=news_text)
@@ -47,7 +47,7 @@ def analyze_combat_events(articles):
     try:
         response = model.generate_content(prompt)
         # JSON部分を抽出
-        content = response.text
+        content = response.text.strip()
         if "```json" in content:
             content = content.split("```json")[1].split("```")[0].strip()
         elif "```" in content:
@@ -67,7 +67,7 @@ def collect_combat_logs():
     # 1. ニュース収集
     all_articles = []
     for source in COMBAT_DATA_SOURCES:
-        articles = fetch_rss_feed(source, []) # キーワードフィルタはAI側に任せるため空
+        articles = fetch_rss_feed(source, [])
         all_articles.extend(articles)
 
     unique_articles = deduplicate(all_articles)
@@ -83,10 +83,13 @@ def collect_combat_logs():
         logger.error("レポートの生成に失敗しました")
         return
 
+    # 現在の日付を設定（レポート内が古い場合の上書き）
+    report["date"] = datetime.now().strftime("%Y-%m-%d")
+
     # 3. 保存
     os.makedirs(DATA_DIR, exist_ok=True)
     
-    # 既存ログとの統合 (過去のログを保持しつつ更新)
+    # 既存ログとの統合
     existing_data = []
     if os.path.exists(OUTPUT_PATH):
         try:
@@ -95,28 +98,43 @@ def collect_combat_logs():
         except:
             existing_data = []
 
-    # 重複排除のためのIDリスト
-    seen_ids = {e["id"] for entry in existing_data for e in entry.get("events", [])}
+    # 既存のイベントIDを収集（重複排除用）
+    seen_ids = set()
+    for day_entry in existing_data:
+        for ev in day_entry.get("events", []):
+            seen_ids.add(ev.get("id"))
     
     # 新しいイベントのみを抽出
-    new_events = [e for e in report["events"] if e["id"] not in seen_ids]
+    incoming_events = report.get("events", [])
+    new_events = [e for e in incoming_events if e.get("id") not in seen_ids]
     
-    if new_events:
-        logger.info(f"{len(new_events)} 件の新しい戦闘イベントを特定しました")
-        # レポートを日付ごとに保存する形式にする
-        # 簡易的に、既存のリストの先頭に追加
-        report["events"] = new_events # この回の新規分のみにするか、全部保持するか
-        existing_data.insert(0, report)
-        
-        # 最大30日分（または適切な数）保持
-        existing_data = existing_data[:30]
+    # 同一日のデータが既にあるかチェック
+    today_str = report["date"]
+    day_entry = next((item for item in existing_data if item["date"] == today_str), None)
 
-        with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-            json.dump(existing_data, f, ensure_ascii=False, indent=2)
-        
-        logger.info(f"保存完了: {OUTPUT_PATH}")
+    if day_entry:
+        # 同一日のエントリがある場合：サマリーを更新し、新しいイベントを追加
+        day_entry["summary"] = report["summary"]
+        if new_events:
+            day_entry["events"].extend(new_events)
+            # 時系列順（新しい順）にソート
+            day_entry["events"].sort(key=lambda x: x.get("timestamp", ""), reverse=True)
+            logger.info(f"{today_str} のエントリに {len(new_events)} 件の新しいイベントを追加しました")
+        else:
+            logger.info(f"{today_str} のサマリーを更新しました（新規イベントなし）")
     else:
-        logger.info("新しい戦闘イベントは見つかりませんでした")
+        # 新しい日のエントリの場合：先頭に追加
+        report["events"] = incoming_events # 最初は全件入れる
+        existing_data.insert(0, report)
+        logger.info(f"{today_str} の新規レポートを追加しました ({len(incoming_events)} 件のイベント)")
+
+    # 最大30日分保持
+    existing_data = existing_data[:30]
+
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(existing_data, f, ensure_ascii=False, indent=2)
+    
+    logger.info(f"保存完了: {OUTPUT_PATH}")
 
     logger.info("=" * 60)
 
