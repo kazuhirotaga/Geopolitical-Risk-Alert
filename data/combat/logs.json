@@ -1,40 +1,211 @@
 [
-    {
-        "date": "2026-03-11",
-        "summary": "ウクライナ東部および中東ガザ地区での戦闘が継続中。ロシア軍によるドネツク州へのドローン攻撃が増加しており、緊張が高まっています。",
-        "events": [
-            {
-                "id": "cbt-001",
-                "timestamp": "2026-03-11T10:30:00Z",
-                "location": "ウクライナ・ドネツク州",
-                "region": "europe",
-                "title": "ロシア軍による大規模ドローン攻撃",
-                "content": "ドネツク州の住宅密集地に対し、計20機以上のイラン製ドローンによる攻撃が発生。エネルギーインフラの一部が損壊した模様。",
-                "involved_parties": [
-                    "ロシア軍",
-                    "ウクライナ軍"
-                ],
-                "event_type": "bombing",
-                "urgency": "high",
-                "source_name": "ISW",
-                "source_url": "https://understandingwar.org"
-            },
-            {
-                "id": "cbt-002",
-                "timestamp": "2026-03-11T14:15:00Z",
-                "location": "ガザ北部",
-                "region": "middle_east",
-                "title": "ハマス拠点への空爆",
-                "content": "イスラエル国防軍(IDF)がガザ北部の複数の地下トンネルを空爆。ハマスの武器庫を破壊したと発表。",
-                "involved_parties": [
-                    "イスラエル軍",
-                    "ハマス"
-                ],
-                "event_type": "bombing",
-                "urgency": "medium",
-                "source_name": "Reuters",
-                "source_url": "https://reuters.com"
-            }
-        ]
-    }
+  {
+    "date": "2026-03-13",
+    "summary": "中東における緊張激化、特にイランを巡る軍事活動が活発化。ウクライナではAI技術の活用が進み、レバノンはイスラエルの攻撃に直面。イラクでは米軍機の墜落事故が発生し、地政学的な緊張が高まっている。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-03-13",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "米軍、作戦支援のため中東へ追加戦力派遣",
+        "content": "米海軍の強襲揚陸艦トリポリ、揚陸輸送艦ニューオーリンズ、ドック型揚陸艦サンディエゴ、第31海兵遠征部隊が、作戦「Epic Fury」を支援するため中東へ向かっている。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "deploy",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/13/pentagon-reportedly-sending-more-warships-and-marines-to-middle-east/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-03-13",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ、戦場AIデータ同盟国に公開",
+        "content": "ウクライナは、自律型ドローンシステムのAIモデルを訓練するため、国際パートナーおよび防衛企業に実際の戦闘データの宝庫へのアクセスを提供している。",
+        "involved_parties": [
+          "ウクライナ",
+          "国際パートナー",
+          "防衛企業"
+        ],
+        "event_type": "cyber",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/ukraine/2026/03/13/ukraine-opens-battlefield-ai-data-to-allies-in-world-first-move/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-03-13",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエルによる爆撃、レバノン政府は国内紛争回避に苦慮",
+        "content": "アナリストによると、レバノン軍はイスラエルによる爆撃を受けている状況下では、ヒズボラの武器を捜索できる状態にない。",
+        "involved_parties": [
+          "イスラエル",
+          "レバノン",
+          "ヒズボラ"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/13/lebanese-government-tries-to-avoid-internal-strife-amid-israeli-bombardment/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-03-13",
+        "location": "イラク西部",
+        "region": "middle_east",
+        "title": "米軍KC-135空中給油機がイラクで墜落、6名死亡",
+        "content": "米中央軍は、イラク西部に墜落した米軍KC-135空中給油機に搭乗していた6名全員が死亡したと発表した。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/13/four-us-airmen-killed-in-kc-135-crash-in-iraq/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-03-12",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "オーストラリア、イラン攻撃を受け早期警戒機を中東に展開",
+        "content": "オーストラリアの指導者たちは、同国がイスラエルと米国の戦闘作戦の当事者にはならないと述べている。",
+        "involved_parties": [
+          "オーストラリア",
+          "アメリカ",
+          "イラン",
+          "イスラエル"
+        ],
+        "event_type": "deploy",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/11/australia-deploys-early-warning-aircraft-to-the-middle-east-amid-iran-attacks/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-03-10",
+        "location": "インド、スリランカ",
+        "region": "east_asia",
+        "title": "イランの軍艦2隻がインドとスリランカに避難",
+        "content": "先週、米海軍の潜水艦によってイランの軍艦が沈没させられたことは、ニューデリーにとって外交的な恥辱となった。",
+        "involved_parties": [
+          "イラン",
+          "アメリカ",
+          "インド",
+          "スリランカ"
+        ],
+        "event_type": "retreat",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/10/two-iranian-warships-take-sanctuary-in-india-and-sri-lanka/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-03-09",
+        "location": "イギリス空軍フェアフォード基地",
+        "region": "europe",
+        "title": "アメリカ軍のB-1Bランサー爆撃機がイギリス空軍フェアフォード基地に到着、対イラン攻撃を強化",
+        "content": "英国国防省は土曜日、米軍が「特定の防衛作戦」のために英国の基地を使用し始めたことを確認した。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イギリス"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/09/us-b-1b-lancers-arrive-at-raf-fairford-as-strikes-on-iran-intensify/"
+      },
+      {
+        "id": "event-8",
+        "timestamp": "2026-03-11",
+        "location": "NATO訓練地域",
+        "region": "europe",
+        "title": "ノルウェーF-35戦闘機がNATO演習中にロシアの偵察機を捕捉",
+        "content": "NATOが「Cold Response 2026」を実施しているノルウェーのEvenesでは、戦闘機の轟音が静かな山岳地帯に響き渡った。",
+        "involved_parties": [
+          "ノルウェー",
+          "ロシア",
+          "NATO"
+        ],
+        "event_type": "clash",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/11/norwegian-f-35s-intercept-russian-spy-aircraft-during-nato-drill/"
+      },
+      {
+        "id": "event-9",
+        "timestamp": "2026-03-12",
+        "location": "トルコ",
+        "region": "europe",
+        "title": "NATOがトルコの重要防空レーダー保護のためパトリオットシステムを派遣",
+        "content": "2つ目のパトリオットシステムは、ドイツのラムシュタインにあるNATO連合空軍司令部から派遣された、とトルコ国防省が発表。",
+        "involved_parties": [
+          "NATO",
+          "トルコ"
+        ],
+        "event_type": "deploy",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/12/nato-sends-patriot-system-to-protect-key-air-defense-radar-in-turkey/"
+      },
+      {
+        "id": "event-10",
+        "timestamp": "2026-03-10",
+        "location": "インド洋",
+        "region": "middle_east",
+        "title": "米イラン、潜水艦によるイラン軍艦撃沈を巡り対立",
+        "content": "米国とイランは、先週インド洋で発生したイラン軍艦の沈没について、大きく異なる見解を示している。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/09/us-iran-spar-over-status-of-iranian-warship-sunk-by-submarine/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-11",
+    "summary": "ウクライナ東部および中東ガザ地区での戦闘が継続中。ロシア軍によるドネツク州へのドローン攻撃が増加しており、緊張が高まっています。",
+    "events": [
+      {
+        "id": "cbt-001",
+        "timestamp": "2026-03-11T10:30:00Z",
+        "location": "ウクライナ・ドネツク州",
+        "region": "europe",
+        "title": "ロシア軍による大規模ドローン攻撃",
+        "content": "ドネツク州の住宅密集地に対し、計20機以上のイラン製ドローンによる攻撃が発生。エネルギーインフラの一部が損壊した模様。",
+        "involved_parties": [
+          "ロシア軍",
+          "ウクライナ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "ISW",
+        "source_url": "https://understandingwar.org"
+      },
+      {
+        "id": "cbt-002",
+        "timestamp": "2026-03-11T14:15:00Z",
+        "location": "ガザ北部",
+        "region": "middle_east",
+        "title": "ハマス拠点への空爆",
+        "content": "イスラエル国防軍(IDF)がガザ北部の複数の地下トンネルを空爆。ハマスの武器庫を破壊したと発表。",
+        "involved_parties": [
+          "イスラエル軍",
+          "ハマス"
+        ],
+        "event_type": "bombing",
+        "urgency": "medium",
+        "source_name": "Reuters",
+        "source_url": "https://reuters.com"
+      }
+    ]
+  }
 ]
