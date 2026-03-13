@@ -9,6 +9,10 @@ import logging
 import argparse
 from datetime import datetime
 import google.generativeai as genai
+from dotenv import load_dotenv
+
+# .envファイルを読み込む（ローカル用）
+load_dotenv()
 from collector import fetch_rss_feed, deduplicate
 from config import COMBAT_DATA_SOURCES, COMBAT_LOG_ANALYSIS_PROMPT
 

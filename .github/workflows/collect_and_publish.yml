@@ -56,6 +56,14 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PYTHONPATH: scripts
 
+      - name: Collect and analyze influential statements
+        run: |
+          python scripts/collector.py --type statements
+          python scripts/ai_writer.py --type statements
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PYTHONPATH: scripts
+
       - name: Collect fuel inventory data
         run: python scripts/fuel_data_collector.py
         env:

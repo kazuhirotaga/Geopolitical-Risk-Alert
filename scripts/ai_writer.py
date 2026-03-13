@@ -9,6 +9,10 @@ import json
 import os
 import logging
 from datetime import datetime
+from dotenv import load_dotenv
+
+# .envファイルを読み込む（ローカル用）
+load_dotenv()
 from config import (
     ANALYSIS_PROMPT, FINANCIAL_ANALYSIS_PROMPT, STATEMENTS_ANALYSIS_PROMPT,
     RISK_LEVELS, REGIONS
