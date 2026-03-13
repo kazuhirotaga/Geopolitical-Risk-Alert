@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-03-13",
-    "summary": "アメリカ・イスラエルとイランの軍事衝突が激化し、中東地域全体が不安定化。原油価格高騰、サイバー攻撃、レバノン情勢悪化など、地政学的リスクが複合的に高まっている。ウクライナ情勢も依然として深刻。",
+    "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、原油価格の高騰やサイバー攻撃など、世界経済や安全保障に深刻な影響を及ぼしている。ウクライナ情勢も依然として不安定であり、地政学リスクは極めて高い。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
       "southeast_asia": "low",
-      "south_asia": "medium",
+      "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
-      "africa": "medium",
+      "europe": "medium",
+      "africa": "low",
       "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-03-13T23:37:21.710989"
+    "generated_at": "2026-03-13T23:49:31.910021"
   },
   {
     "date": "2026-03-12",

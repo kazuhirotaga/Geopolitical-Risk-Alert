@@ -1,17 +1,17 @@
 [
   {
     "date": "2026-03-13",
-    "summary": "イラン戦争の激化により、原油価格が急騰し、株式市場は下落。米国の金融政策への影響も懸念される。暗号資産市場は、地政学的リスクと規制動向に左右され、ボラティリティが高まっている。FRB議長への捜査も金融市場の不確実性を高めている。",
-    "overall_risk_level": "high",
+    "summary": "イラン戦争の激化により、原油価格が急騰し、株式市場は下落。米国の金融政策への影響も懸念される。暗号資産市場は、地政学的リスクと規制動向に左右され、ボラティリティが高まっている。米国内では、トランプ政権時代の関税還付問題が再燃し、経済政策の不確実性が増している。",
+    "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "global": "medium",
-      "north_america": "low",
-      "europe": "none",
-      "east_asia": "medium",
+      "north_america": "medium",
+      "europe": "medium",
+      "east_asia": "low",
       "middle_east": "critical"
     },
-    "generated_at": "2026-03-13T23:37:41.446616"
+    "generated_at": "2026-03-13T23:49:51.960920"
   },
   {
     "date": "2026-03-12",
