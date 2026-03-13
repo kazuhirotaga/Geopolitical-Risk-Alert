@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-13",
+    "summary": "中東情勢が極めて不安定化。アメリカ・イスラエルとイランの軍事衝突が激化し、ホルムズ海峡が事実上封鎖。原油価格高騰と世界経済への影響が深刻化。ウクライナ情勢も依然として不安定。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "none",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "low",
+      "north_america": "high",
+      "south_america": "low"
+    },
+    "generated_at": "2026-03-13T01:26:28.567193"
+  },
+  {
     "date": "2026-03-12",
     "summary": "中東情勢が極めて不安定化。米イスラエルとイランの軍事衝突が激化し、ホルムズ海峡封鎖による原油価格高騰が世界経済に深刻な影響。ウクライナ情勢も膠着状態が続き、地政学的リスクは全体的に高水準。",
     "overall_risk_level": "critical",

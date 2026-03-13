@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-03-13",
+    "summary": "中東情勢の緊迫化により、原油価格が急騰し、世界経済にスタグフレーションの懸念が生じています。米国の金融政策への期待が後退し、市場のボラティリティが高まっています。暗号資産市場は原油高の影響を受けつつも、比較的安定した動きを見せています。",
+    "overall_risk_level": "critical",
+    "article_count": 8,
+    "region_risk_map": {
+      "global": "critical",
+      "north_america": "medium",
+      "europe": "medium",
+      "east_asia": "critical"
+    },
+    "generated_at": "2026-03-13T01:26:46.258846"
+  },
+  {
     "date": "2026-03-12",
     "summary": "中東情勢の緊迫化による原油価格高騰が株式市場を圧迫。米国のホルムズ海峡におけるタンカー護衛見送りも不安視され、インフレ懸念が再燃。暗号資産市場はボラティリティが高く、規制動向も注視が必要。",
     "overall_risk_level": "high",
