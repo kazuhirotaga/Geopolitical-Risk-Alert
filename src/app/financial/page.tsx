@@ -1,4 +1,5 @@
 import { getLatestReport, getMarketData, REGION_NAMES, RISK_LABELS, SOURCE_TYPE_LABELS } from '@/lib/data';
+export const dynamic = 'force-dynamic';
 
 export const metadata = {
     title: "Financial Risk Alert | 金融リスク情報ダッシュボード",

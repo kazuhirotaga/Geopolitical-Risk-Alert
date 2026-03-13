@@ -1,4 +1,5 @@
 import { getLatestReport, REGION_NAMES, RISK_LABELS, SOURCE_TYPE_LABELS } from '@/lib/data';
+export const dynamic = 'force-dynamic';
 import VesselMap from '@/components/VesselMap';
 
 export default function Home() {

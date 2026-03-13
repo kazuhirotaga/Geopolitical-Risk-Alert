@@ -1,4 +1,5 @@
 import React from 'react';
+export const dynamic = 'force-dynamic';
 import { getLatestReport } from '@/lib/data';
 import PanicClient from './PanicClient';
 

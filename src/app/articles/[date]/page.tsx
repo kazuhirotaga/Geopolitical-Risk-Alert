@@ -1,4 +1,5 @@
 import { getReportByDate, getIndex, REGION_NAMES, RISK_LABELS, SOURCE_TYPE_LABELS } from '@/lib/data';
+export const dynamic = 'force-dynamic';
 import { notFound } from 'next/navigation';
 
 interface PageProps {

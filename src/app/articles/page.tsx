@@ -1,4 +1,5 @@
 import { getIndex, RISK_LABELS, REGION_NAMES } from '@/lib/data';
+export const dynamic = 'force-dynamic';
 
 export const metadata = {
     title: '記事一覧 | GeoRisk Alert',

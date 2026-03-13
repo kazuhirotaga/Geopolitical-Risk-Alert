@@ -1,4 +1,5 @@
 import { getLatestReport, RISK_LABELS } from '@/lib/data';
+export const dynamic = 'force-dynamic';
 
 export default function StatementsPage() {
     const report = getLatestReport('statements');
