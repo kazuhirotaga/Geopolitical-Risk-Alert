@@ -1,104 +1,18 @@
 import fs from 'fs';
 import path from 'path';
+import {
+    Article,
+    DailyReport,
+    IndexEntry,
+    MarketData,
+    PetroleumStocks,
+    CombatLog,
+    StatementReport,
+    PanicReport
+} from './types';
 
-export interface Article {
-    title: string;
-    region: string;
-    risk_level: string;
-    summary: string;
-    analysis: string;
-    key_entities: string[];
-    sources: string[];
-    source_types: string[];
-}
-
-export interface DailyReport {
-    date: string;
-    summary: string;
-    overall_risk_level: string;
-    generated_at: string;
-    articles: Article[];
-    region_risk_map: Record<string, string>;
-}
-
-export interface IndexEntry {
-    date: string;
-    summary: string;
-    overall_risk_level: string;
-    article_count: number;
-    region_risk_map: Record<string, string>;
-    generated_at: string;
-}
-
-export interface MarketIndex {
-    symbol: string;
-    label: string;
-    current_price: number;
-    price_formatted: string;
-    change: number;
-    change_formatted: string;
-    change_percent: number;
-    change_percent_formatted: string;
-    trend: 'up' | 'down' | 'flat';
-    date: string;
-}
-
-export interface MarketData {
-    generated_at: string;
-    indices: MarketIndex[];
-}
-
-export interface Statement {
-    speaker: string;
-    title: string;
-    quote: string;
-    context: string;
-    analysis: string;
-    importance: string;
-    tags: string[];
-    source_url: string;
-}
-
-export interface StatementReport {
-    date: string;
-    summary: string;
-    generated_at: string;
-    statements: Statement[];
-}
-
-export interface PetroleumStockPoint {
-    date: string;
-    gasoline: number;
-    jet_fuel: number;
-    naphtha: number;
-}
-
-export interface PetroleumStocks {
-    unit: string;
-    source: string;
-    last_updated: string;
-    data: PetroleumStockPoint[];
-}
-
-export interface CombatEvent {
-    id: string;
-    timestamp: string;
-    location: string;
-    region: string;
-    title: string;
-    content: string;
-    involved_parties: string[];
-    event_type: 'bombing' | 'clash' | 'occupy' | 'retreat' | 'cyber' | 'other';
-    urgency: 'critical' | 'high' | 'medium' | 'low';
-    source_name: string;
-    source_url: string;
-}
-
-export interface CombatLog {
-    date: string;
-    summary: string;
-    events: CombatEvent[];
-}
+export * from './types';
+export * from './constants';
 
 const ARTICLES_DIR = path.join(process.cwd(), 'data', 'articles');
 const FINANCIAL_DIR = path.join(process.cwd(), 'data', 'financial');
@@ -106,29 +20,6 @@ const STATEMENTS_DIR = path.join(process.cwd(), 'data', 'statements');
 const ENERGY_DIR = path.join(process.cwd(), 'data', 'energy');
 const COMBAT_DIR = path.join(process.cwd(), 'data', 'combat');
 const PANIC_DIR = path.join(process.cwd(), 'data', 'panic');
-
-export interface PanicIncident {
-    title: string;
-    location: string;
-    severity: number;
-    description: string;
-    source: string;
-}
-
-export interface PanicRegionReport {
-    region: string;
-    panic_index: number;
-    status: 'normal' | 'stable' | 'unstable' | 'volatile' | 'critical';
-    main_cause: string;
-    incidents: PanicIncident[];
-}
-
-export interface PanicReport {
-    date: string;
-    summary: string;
-    global_panic_index: number;
-    regions: PanicRegionReport[];
-}
 
 export function getMarketData(): MarketData | null {
     try {
@@ -223,30 +114,3 @@ export function getIndex(type: 'articles' | 'financial' | 'statements' = 'articl
         return [];
     }
 }
-
-export const REGION_NAMES: Record<string, { name: string; name_en: string; emoji: string }> = {
-    east_asia: { name: '東アジア', name_en: 'East Asia', emoji: '🌏' },
-    southeast_asia: { name: '東南アジア', name_en: 'Southeast Asia', emoji: '🌴' },
-    south_asia: { name: '南アジア', name_en: 'South Asia', emoji: '🏔️' },
-    central_asia: { name: '中央アジア', name_en: 'Central Asia', emoji: '🏜️' },
-    middle_east: { name: '中東', name_en: 'Middle East', emoji: '🕌' },
-    europe: { name: '欧州', name_en: 'Europe', emoji: '🏰' },
-    africa: { name: 'アフリカ', name_en: 'Africa', emoji: '🌍' },
-    north_america: { name: '北米', name_en: 'North America', emoji: '🗽' },
-    south_america: { name: '南米', name_en: 'South America', emoji: '🌎' },
-};
-
-export const RISK_LABELS: Record<string, { label: string; label_ja: string }> = {
-    critical: { label: 'Critical', label_ja: '危機的' },
-    high: { label: 'High', label_ja: '高リスク' },
-    medium: { label: 'Medium', label_ja: '中リスク' },
-    low: { label: 'Low', label_ja: '低リスク' },
-    none: { label: 'None', label_ja: '情報なし' },
-};
-
-export const SOURCE_TYPE_LABELS: Record<string, string> = {
-    media: 'メディア',
-    government: '政府機関',
-    research: '研究機関',
-    international_org: '国際機関',
-};

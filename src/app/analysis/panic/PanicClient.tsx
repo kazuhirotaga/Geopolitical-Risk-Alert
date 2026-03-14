@@ -12,7 +12,8 @@ import {
     Users,
     Zap
 } from 'lucide-react';
-import { PanicReport, REGION_NAMES } from '@/lib/data';
+import { PanicReport } from '@/lib/types';
+import { REGION_NAMES } from '@/lib/constants';
 
 const STATUS_LABELS: Record<string, { label: string, class: string }> = {
     normal: { label: '正常', class: 'low' },

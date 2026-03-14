@@ -13,7 +13,7 @@ import {
     ShieldCheck,
     Globe
 } from 'lucide-react';
-import { CombatLog } from '@/lib/data';
+import { CombatLog } from '@/lib/types';
 
 const EVENT_TYPE_ICONS: Record<string, React.ReactNode> = {
     bombing: <Flame className="w-4 h-4" />,

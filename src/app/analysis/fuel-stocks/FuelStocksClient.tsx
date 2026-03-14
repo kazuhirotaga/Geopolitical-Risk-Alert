@@ -12,7 +12,8 @@ import {
     ResponsiveContainer
 } from 'recharts';
 import { Droplets, Plane, Factory, Info, TrendingDown, TrendingUp, Minus } from 'lucide-react';
-import { PetroleumStocks } from '@/lib/data';
+import { PetroleumStocks } from '@/lib/types';
+import { REGION_NAMES } from '@/lib/constants';
 
 export default function FuelStocksClient({ stocks }: { stocks: PetroleumStocks }) {
     if (!stocks || !stocks.data || stocks.data.length === 0) return null;
