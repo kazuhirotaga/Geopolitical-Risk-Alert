@@ -156,6 +156,8 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--space-md);
 }
 
 .header-logo {
@@ -177,8 +179,10 @@ a:hover {
 
 .header-nav {
   display: flex;
-  gap: var(--space-lg);
+  gap: var(--space-md);
   list-style: none;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .header-nav a {

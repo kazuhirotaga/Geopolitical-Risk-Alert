@@ -33,7 +33,10 @@ export default function RootLayout({
                 <li><a href="/financial">金融リスク</a></li>
                 <li><a href="/analysis/fuel-stocks">エネルギー</a></li>
                 <li><a href="/analysis/combat-log">戦闘log</a></li>
-                <li><a href="/analysis/panic">パニック</a></li>
+                <li><a href="/analysis/panic" style={{ position: 'relative' }}>
+                  パニック
+                  <span style={{ position: 'absolute', top: '-10px', right: '-15px', fontSize: '10px', backgroundColor: 'var(--risk-critical)', color: 'white', padding: '1px 4px', borderRadius: '4px', fontWeight: 'bold' }}>NEW</span>
+                </a></li>
                 <li><a href="/statements">重要発言</a></li>
                 <li><a href="/articles">記事一覧</a></li>
               </ul>

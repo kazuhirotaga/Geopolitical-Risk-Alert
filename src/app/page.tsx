@@ -42,6 +42,12 @@ export default function Home() {
             </div>
           </div>
         ))}
+        {/* パニックダッシュボードへのリンクカード */}
+        <a href="/analysis/panic" className="risk-stat-card" style={{ borderStyle: 'dashed', borderColor: 'var(--risk-critical)', cursor: 'pointer', display: 'flex', flexDirection: 'column', justifyContent: 'center', textDecoration: 'none' }}>
+          <div className="risk-stat-label" style={{ color: 'var(--risk-critical)' }}>Panic Monitor</div>
+          <div style={{ fontSize: '1.5rem', fontWeight: 'bold', margin: '4px 0' }}>🚨 パニック監視</div>
+          <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>SNS/ニュース分析</div>
+        </a>
       </section>
 
       {/* Summary */}
