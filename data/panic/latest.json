@@ -1,137 +1,78 @@
 {
   "date": "2026-03-14",
-  "summary": "世界各地では、中東イランでデモ隊の群衆中での爆発や政府による強硬な警告が報じられ、極めて高い社会不安と緊張が続いています。南アジアのインドでは、生活必需品であるLPG不足に対する大規模かつ全国的な抗議デモが頻発し、市民生活への影響が深刻化しています。その他、欧米や東南アジアでは、局所的な物資不足の懸念や過去の社会不安の残滓が確認されるものの、全体的なパニック状況には至っていません。しかし、主要資源の供給不安と政治的対立が、一部地域で社会秩序の不安定化を招く潜在的なリスクとなっています。",
-  "global_panic_index": 55,
+  "summary": "世界各地でエネルギー供給不安が深刻化し、特にアジア太平洋地域ではLPGや燃料不足による大規模な抗議デモや生活基盤への影響が顕著です。インドでは家庭や商業施設での燃料枯渇が報じられ、伝統的な燃料への回帰も見られます。オーストラリアではガソリンスタンドの燃料切れが発生し、危機的な状況にあります。ヨーロッパの一地域では政府内で大規模デモへの懸念からパニックが報じられるなど、社会的な緊張が高まっています。",
+  "global_panic_index": 70,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "政治的抗議（潜在的）",
+      "region": "southeast_asia",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "LPG・燃料・水不足、物価高騰",
       "incidents": [
         {
-          "title": "「音波兵器」の謎未解決、セルビアの抗議デモでのパニックから1年",
-          "location": "セルビア",
-          "severity": 30,
-          "description": "1年前のセルビアでの抗議デモ中に発生したパニックの原因が未だ不明であり、社会に潜在的な不安が残っている。具体的なパニック事象ではないが、過去の不安定性が示唆される。",
-          "source": "Balkan Insight"
+          "title": "LPG shortage turns back the clock: Coal, stoves & dung cakes make comeback",
+          "location": "India",
+          "severity": 95,
+          "description": "インド全土でLPG不足が深刻化し、家庭や商業施設が現代の燃料から石炭、薪、乾燥した牛糞といった伝統的な燃料への回帰を余儀なくされており、生活基盤の機能不全を示唆しています。",
+          "source": "MillenniumPost"
+        },
+        {
+          "title": "Petrol stations run dry as the chilling reality of Australia's fuel supplies finally hits home",
+          "location": "Australia",
+          "severity": 90,
+          "description": "オーストラリアのガソリンスタンドで燃料が枯渇し、燃料供給の厳しい現実が露呈しています。市民生活への直接的な影響とパニックを引き起こす恐れがある危機的な状況です。",
+          "source": "MSN"
+        },
+        {
+          "title": "Hotels, eateries run out of gas across Hyderabad as Middle East conflict turns up the heat",
+          "location": "Hyderabad, India",
+          "severity": 85,
+          "description": "インドのハイデラバードでホテルや飲食店がガス欠に陥り、中東紛争が引き起こすエネルギー危機の影響で経済活動に深刻な支障が出始めています。",
+          "source": "MSN"
+        },
+        {
+          "title": "Congress MLAs protest gas shortage: ‘Those in every household running from pillar to post for LPG cylinders’",
+          "location": "India",
+          "severity": 80,
+          "description": "インド全土でLPG不足が深刻化し、各家庭がガソリンスタンドや配給所を奔走する事態に陥っており、日常生活への広範な混乱と住民の不安が広がっています。",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "ILOILO BRACES FOR WATER SHORTAGE, Wells could run dry during hot months",
+          "location": "Iloilo, Philippines",
+          "severity": 70,
+          "description": "フィリピンのイロイロ市が猛暑による水不足に備え、井戸が枯渇する可能性に直面しています。生活必需品の供給不安が増大し、市民の間で懸念が広がっています。",
+          "source": "Panay News"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "大規模抗議デモへの懸念",
+      "incidents": [
+        {
+          "title": "Meetings behind closed doors: What panic reigned in the top of the government before the big protest on March 15",
+          "location": "Kosovo",
+          "severity": 75,
+          "description": "3月15日の大規模デモを前に、コソボ政府高官の間で「パニックが支配した」と報じられました。これは社会的な緊張の高さと政府の強い危機感が浮き彫りになっています。",
+          "source": "KoSSev"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "特定の食料品供給不足",
-      "incidents": [
-        {
-          "title": "ムスリム系フードパントリー、ラマダン中にハラール肉不足に直面",
-          "location": "米国、イリノイ州グレンデールハイツ",
-          "severity": 20,
-          "description": "イリノイ州グレンデールハイツのムスリム系フードパントリーがラマダン期間中にハラール肉の不足に直面。特定のコミュニティにおける食料供給への懸念が生じている。",
-          "source": "Chicago Tribune"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 40,
-      "status": "stable",
-      "main_cause": "政治的抑圧と自由への渇望",
-      "incidents": [
-        {
-          "title": "香港デモ鎮圧後の「潤」（国外脱出）トレンド",
-          "location": "中国、香港",
-          "severity": 40,
-          "description": "香港での大規模な抗議デモ鎮圧後、多くの住民が「潤（run）」という流行語に象徴されるように国外への脱出を模索。過去の社会不安が行動につながったことを示唆。",
-          "source": "ｄメニューニュース"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "政治的・社会的抑圧、抗議活動中の暴力",
-      "incidents": [
-        {
-          "title": "イランでデモ隊の群衆の中で大規模な爆発が発生",
-          "location": "イラン",
-          "severity": 95,
-          "description": "イランで抗議デモの群衆の中で大規模な爆発が発生。多数の死傷者や混乱が予想され、社会全体のパニックと治安の極度な悪化を招く恐れがある。",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "イラン革命防衛隊、新たな抗議デモに「1月を上回る強力な対応」を警告",
-          "location": "イラン",
-          "severity": 80,
-          "description": "イラン革命防衛隊が新たな抗議デモに対し、過去を上回る強力な対応を警告。政府と市民の対立激化を示し、広範な社会不安と恐怖感を高めている。",
-          "source": "AFPBB News"
-        },
-        {
-          "title": "イランのラリジャニ氏、テヘランのデモ行進に参加し攻撃を否定",
-          "location": "イラン、テヘラン",
-          "severity": 60,
-          "description": "イランのラリジャニ氏がテヘランのデモ行進に参加し、特定の攻撃を否定。デモの広がりと政府への不信感の強さ、および国内の緊張感を示唆している。",
-          "source": "arabnews.jp"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "エネルギー（LPG）不足",
-      "incidents": [
-        {
-          "title": "LPG不足が議会で激論を呼び、議員らが調理器具で抗議",
-          "location": "インド (全国的な問題として議会で議論)",
-          "severity": 65,
-          "description": "インド議会でLPG不足を巡り騒然。ラフル・ガンジー氏が政府を攻撃し、議員らが調理器具を手に抗議。生活必需品不足が深刻な政治問題と化している。",
-          "source": "Business Today"
-        },
-        {
-          "title": "コングレス党MLAらがLPGボンベと薪を手にグジャラート州議会前で抗議",
-          "location": "インド、グジャラート州",
-          "severity": 60,
-          "description": "グジャラート州議会前で、コングレス党のMLAらがLPGボンベや薪を持って抗議。ガス不足が日常生活に深く影響し、住民の不安を煽っている状況が示された。",
-          "source": "The New Indian Express"
-        },
-        {
-          "title": "LPG不足抗議デモ中、コングレス党員らが「チュルハ」でチャイを調理",
-          "location": "インド、デリー",
-          "severity": 55,
-          "description": "デリーでのLPG不足抗議デモ中、コングレス党員らが昔ながらのかまど「チュルハ」でチャイを調理。ガス不足が市民生活に与える困窮ぶりを視覚的に訴え、共感を呼んだ。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "ジャールカンド州議会がLPG不足と燃料価格高騰を巡り騒然",
-          "location": "インド、ジャールカンド州",
-          "severity": 60,
-          "description": "ジャールカンド州議会がLPG不足と燃料価格の高騰を巡る抗議で騒然。複数州で同様の抗議が起こっており、全国的な問題として住民の不安が蓄積している。",
-          "source": "The New Indian Express"
-        },
-        {
-          "title": "数千人がジャンムー・カシミールとレーで宗教的スローガンを掲げて抗議",
-          "location": "インド、ジャンムー・カシミール、レー",
-          "severity": 50,
-          "description": "ジャンムー・カシミールとレーで数千人が宗教的スローガンを掲げて抗議。特定の集団間で深い不満や対立が存在することを示唆し、社会的な緊張を高めている。",
-          "source": "The Economic Times"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
       "panic_index": 25,
       "status": "stable",
-      "main_cause": "水資源不足（予測）",
+      "main_cause": "飢餓問題（長期的な社会課題）",
       "incidents": [
         {
-          "title": "イロイロ市、暑い季節の本格的な水不足に備える",
-          "location": "フィリピン、イロイロ市",
+          "title": "11Alive supporting 42nd annual Hunger Walk Run this Sunday",
+          "location": "USA (Atlanta)",
           "severity": 25,
-          "description": "フィリピンのイロイロ市が暑い時期に井戸が干上がる可能性に備え、水不足への対応を計画。現時点でのパニックではないが、将来的な主要資源不足への懸念は住民の不安を高める。",
-          "source": "Panay News"
+          "description": "米国アトランタで、食料不安に対処するためのチャリティイベントが開催される予定です。これは長期的な社会問題への取り組みであり、緊急のパニック状況ではありません。",
+          "source": "11Alive.com"
         }
       ]
     }

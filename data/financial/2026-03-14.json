@@ -1,17 +1,18 @@
 {
   "date": "2026-03-14",
-  "summary": "イラン戦争の激化により、原油価格が急騰し、インフレ懸念が高まっています。米国の金融政策への影響が懸念され、市場のボラティリティが増大しています。暗号資産市場は、地政学的リスクと規制動向に左右され、不安定な動きを見せています。",
+  "summary": "中東情勢の緊迫化により、原油価格が急騰し、インフレ懸念が高まっている。株式市場は下落し、債券利回りは上昇。暗号資産市場はボラティリティが高まっているが、一部は底堅さを見せている。金融政策への影響が懸念される。",
   "overall_risk_level": "high",
   "articles": [
     {
       "title": "Trump says U.S. 'obliterated' military targets on Iran's Kharg Island but didn't 'wipe out' oil infrastructure",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "トランプ大統領が、イランのハルグ島にある軍事目標を破壊したと発表。石油インフラは標的としなかった模様。",
-      "analysis": "米国のイランに対する軍事行動は、中東地域の地政学的リスクを著しく高めています。ハルグ島はイランの主要な石油輸出ターミナルであり、攻撃は原油供給への懸念を増大させ、原油価格のさらなる上昇を招く可能性があります。市場は、今後の米国の軍事行動とイランの報復措置に注目しており、不確実性が高まっています。地政学的リスクプレミアムの上昇は、株式市場や債券市場にも悪影響を及ぼす可能性があります。",
+      "summary": "トランプ大統領が、イランのハルグ島にある軍事目標を攻撃したと発表。石油インフラは破壊していないと述べている。",
+      "analysis": "地政学的リスクが大幅に高まり、原油価格の急騰を招いている。市場はさらなるエスカレーションを警戒しており、リスクオフの動きが強まっている。供給不安からエネルギー価格の上昇が続き、インフレ圧力を高める可能性が高い。今後の軍事行動や外交交渉の行方が、市場の安定を左右するだろう。",
       "key_entities": [
         "Donald Trump",
         "U.S. Central Command",
+        "Iran",
         "Kharg Island"
       ],
       "sources": [
@@ -25,11 +26,30 @@
       "title": "Mortgage rates surge to highest since September, hitting spring housing market",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イランでの戦争により債券利回りが上昇し、住宅ローン金利が9月以来の高水準に達し、春の住宅市場に影響。",
-      "analysis": "イラン戦争による債券利回りの上昇は、住宅ローン金利の上昇を招き、住宅市場に悪影響を与えています。金利上昇は住宅購入者の購買力を低下させ、住宅販売の減少につながる可能性があります。また、既存住宅の価格下落圧力も高まる可能性があります。FRBの金融政策への影響も懸念され、利上げペースの加速や長期化の可能性も考慮する必要があります。",
+      "summary": "イランでの戦争により債券利回りが上昇し、住宅ローン金利が9月以来の高水準に達した。",
+      "analysis": "中東情勢の悪化が、住宅市場に悪影響を及ぼしている。金利上昇は住宅購入意欲を減退させ、春の住宅市場の回復を遅らせる可能性がある。インフレ懸念の高まりから、FRBの利上げ圧力が強まる可能性もあり、住宅市場へのさらなる下押し圧力となるだろう。",
       "key_entities": [
-        "Federal Reserve",
-        "Mortgage rates"
+        "Mortgage rates",
+        "Bond yields",
+        "Iran"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Oil closes above $100 for second day as market shrugs off U.S. measures to reduce prices during Iran war",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "原油価格が100ドルを超えて推移。米国が価格抑制策を講じているものの、市場は中東情勢を注視している。",
+      "analysis": "地政学的リスクの高まりから、原油価格は高止まりしている。米国の戦略石油備蓄放出などの対策も、一時的な効果にとどまっている。イラン情勢の不安定化は、供給不安を招き、エネルギー価格の上昇を長期化させる可能性がある。これは、世界経済の成長を阻害する要因となる。",
+      "key_entities": [
+        "Oil prices",
+        "Iran",
+        "U.S. Energy Department"
       ],
       "sources": [
         "CNBC - Top News"
@@ -42,28 +62,12 @@
       "title": "S&P 500 falls to new low for year on Iran oil crisis, posts third-straight losing week: Live updates",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "S&P500はイランの石油危機で年初来安値を更新し、3週連続の下落。原油価格は上昇。",
-      "analysis": "イラン戦争による原油価格の高騰は、インフレ懸念を再燃させ、株式市場に下落圧力をかけています。特に、エネルギー消費の多い企業や、サプライチェーンに影響を受ける企業は、業績悪化のリスクが高まります。投資家はリスク回避姿勢を強めており、安全資産への資金移動が加速する可能性があります。原油価格の動向と、企業の業績見通しに注意が必要です。",
+      "summary": "S&P500が年初来安値を更新。イランの石油危機を受け、3週連続の下落となった。",
+      "analysis": "中東情勢の緊迫化が、株式市場にネガティブな影響を与えている。原油価格の上昇は、企業収益の悪化やインフレ懸念を高め、投資家のリスク回避姿勢を強めている。地政学的リスクが長期化すれば、株式市場の低迷が続く可能性もある。",
       "key_entities": [
         "S&P 500",
-        "Oil prices"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Oil closes above $100 for second day as market shrugs off U.S. measures to reduce prices during Iran war",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "原油価格は100ドルを超えて取引を終え、米国による価格抑制策の効果は限定的。トランプ大統領は紛争終結が近いとは示唆せず。",
-      "analysis": "原油価格が100ドルを超えたことは、インフレ圧力の増大を示唆しています。米国の価格抑制策が効果を発揮していないことは、供給制約の深刻さを物語っています。トランプ大統領の発言は、紛争の長期化を示唆しており、原油価格の高止まりが続く可能性があります。企業収益の圧迫や、消費者の購買力低下など、経済全体への影響が懸念されます。",
-      "key_entities": [
         "Oil prices",
-        "Donald Trump"
+        "Iran"
       ],
       "sources": [
         "CNBC - Top News"
@@ -73,35 +77,34 @@
       ]
     },
     {
-      "title": "Analysis: The U.S. is running out of ways to get oil prices down. It is up to the military.",
+      "title": "Bitcoin quickly drops 3.5% as fresh Iran escalation short-circuits crypto rally",
       "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "米国は原油価格を下げる手段を失いつつあり、軍事的な解決に頼らざるを得ない状況。ホルムズ海峡の封鎖は戦略石油備蓄の放出では解決できない。",
-      "analysis": "米国の原油価格抑制策が限界に達していることは、供給制約の深刻さを浮き彫りにしています。ホルムズ海峡の封鎖は、世界の原油供給に大きな影響を与え、価格高騰を招く可能性があります。軍事的な解決に頼らざるを得ない状況は、紛争の激化と長期化のリスクを高め、市場の不確実性を増大させます。エネルギー価格の変動は、インフレ、経済成長、金融政策に大きな影響を与えるため、注視が必要です。",
-      "key_entities": [
-        "Oil prices",
-        "Strait of Hormuz",
-        "Strategic petroleum reserves"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Flights halted at DC airports after chemical smell",
-      "region": "global",
       "risk_level": "medium",
-      "summary": "バージニア州の航空管制施設で化学物質の臭いが検出されたため、ワシントンDC地域の3つの主要空港でフライトが停止。",
-      "analysis": "空港閉鎖は、サプライチェーンの混乱や経済活動の停滞を引き起こす可能性があります。原因究明と再発防止策の徹底が求められます。テロ攻撃の可能性も否定できないため、警戒が必要です。航空関連株への影響も考慮する必要があります。",
+      "summary": "イラン情勢の悪化を受け、ビットコインが3.5%急落。暗号資産市場の上昇トレンドが一時的に中断された。",
+      "analysis": "地政学的リスクの高まりは、暗号資産市場にも影響を与えている。リスクオフの動きが強まり、ビットコインなどの主要暗号資産が売られる展開となっている。しかし、一部では安全資産としての需要も見られ、下値は限定的との見方もある。今後の地政学的リスクの動向が、暗号資産市場の方向性を左右するだろう。",
       "key_entities": [
-        "FAA",
-        "Washington-area airports"
+        "Bitcoin",
+        "Iran"
       ],
       "sources": [
-        "CNBC - Top News"
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin rises to one-month high of $73,800, continuing to outperform since start of Iran war",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "ビットコインがイラン戦争開始以降、アウトパフォームを続け、1ヶ月ぶりの高値73,800ドルに上昇。",
+      "analysis": "イラン戦争という地政学的リスクの中で、ビットコインが一時的に安全資産としての側面を見せ、株価をアウトパフォームしている。しかし、記事22にあるように、情勢悪化で急落する場面もあり、ボラティリティは高い。地政学的リスクと暗号資産市場の相関関係は複雑であり、今後の動向を注視する必要がある。",
+      "key_entities": [
+        "Bitcoin",
+        "Iran"
+      ],
+      "sources": [
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -111,8 +114,8 @@
       "title": "DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe",
       "region": "global",
       "risk_level": "medium",
-      "summary": "FRB議長のジェローム・パウエルが、FRB本社の高額な改修工事に関する発言で捜査を受けており、司法省が連邦準備制度に対する召喚状を阻止する裁判官の決定に控訴する。",
-      "analysis": "FRB議長に対する捜査は、FRBの信頼性を損なう可能性があります。司法省の控訴は、捜査の継続を示唆しており、今後の展開によっては金融市場に影響を与える可能性があります。FRBの独立性に対する懸念も高まる可能性があります。",
+      "summary": "司法省が、パウエルFRB議長の刑事捜査における召喚状を阻止する判事の決定に対して上訴する。",
+      "analysis": "FRB議長の捜査は、金融政策の独立性に対する疑念を生じさせる可能性がある。市場は、FRBの政策決定に政治的な影響が及ぶことを警戒しており、今後の捜査の進展によっては、市場の混乱を招く可能性もある。",
       "key_entities": [
         "Jerome Powell",
         "Federal Reserve",
@@ -126,17 +129,18 @@
       ]
     },
     {
-      "title": "Bitcoin quickly drops 3.5% as fresh Iran escalation short-circuits crypto rally",
-      "region": "middle_east",
+      "title": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
+      "region": "global",
       "risk_level": "medium",
-      "summary": "イラン情勢の悪化により、暗号資産市場が下落。ビットコインは3.5%急落。",
-      "analysis": "地政学的リスクの高まりは、暗号資産市場にも影響を与えています。ビットコインの下落は、リスク回避姿勢の強まりを示唆しています。暗号資産市場は、地政学的リスクに加えて、規制動向や技術的な要因にも左右されるため、ボラティリティが高い状態が続く可能性があります。",
+      "summary": "第4四半期のGDP成長率が0.7%に下方修正。1月のコアインフレ率は3.1%だった。",
+      "analysis": "GDP成長率の鈍化とインフレ率の高止まりは、スタグフレーションのリスクを高める。FRBは、インフレ抑制と景気刺激という難しい舵取りを迫られることになる。今後の金融政策の方向性について、市場の不確実性が高まる可能性がある。",
       "key_entities": [
-        "Bitcoin",
-        "Iran"
+        "GDP",
+        "Inflation",
+        "Federal Reserve"
       ],
       "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -146,8 +150,8 @@
       "title": "Circle overtakes BlackRock in tokenized Treasuries as market hits record $11 billion",
       "region": "global",
       "risk_level": "low",
-      "summary": "トークン化された米国債市場が110億ドルに達し、CircleがBlackRockを上回る。",
-      "analysis": "トークン化された米国債市場の拡大は、DeFi（分散型金融）の成長を促進する可能性があります。Circleの台頭は、ステーブルコインの重要性が高まっていることを示唆しています。規制当局は、トークン化された資産のリスク管理と、マネーロンダリング対策を強化する必要があります。",
+      "summary": "トークン化された米国債市場が110億ドルの記録を達成し、CircleがBlackRockを上回った。",
+      "analysis": "トークン化された米国債市場の成長は、デジタル資産の新たな利用方法を示唆している。機関投資家の参入が進み、市場の流動性が高まることで、金融市場の効率化に貢献する可能性がある。ただし、規制の整備が遅れているため、今後の動向を注視する必要がある。",
       "key_entities": [
         "Circle",
         "BlackRock",
@@ -161,18 +165,17 @@
       ]
     },
     {
-      "title": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
+      "title": "Nvidia's AI Woodstock, Fed Meeting, Quad Witching",
       "region": "global",
       "risk_level": "medium",
-      "summary": "第4四半期のGDP成長率は0.7%に下方修正。1月のコアインフレ率は3.1%。",
-      "analysis": "GDP成長率の下方修正と高止まりするインフレ率は、スタグフレーションのリスクを高めています。FRBは、インフレ抑制と景気後退回避という難しい舵取りを迫られています。金融引き締め政策の長期化や、景気刺激策の実施など、政策対応が注目されます。",
+      "summary": "NvidiaのAIイベント、FRB会合、クアッドウィッチングが今週予定されている。",
+      "analysis": "NvidiaのAIイベントは、AI関連銘柄への関心を高め、株式市場に影響を与える可能性がある。FRB会合では、今後の金融政策の方向性が示唆され、市場の変動要因となるだろう。クアッドウィッチングは、取引量の増加とボラティリティの上昇を招く可能性がある。",
       "key_entities": [
-        "GDP",
-        "Inflation",
+        "Nvidia",
         "Federal Reserve"
       ],
       "sources": [
-        "CNBC - Top News"
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
@@ -183,9 +186,12 @@
     "global": "high",
     "north_america": "medium",
     "europe": "medium",
-    "east_asia": "medium"
+    "east_asia": "medium",
+    "south_america": "none",
+    "africa": "none",
+    "middle_east": "critical"
   },
-  "generated_at": "2026-03-14T01:25:06.516068",
+  "generated_at": "2026-03-14T12:56:53.106897",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

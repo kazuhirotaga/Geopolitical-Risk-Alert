@@ -1,87 +1,93 @@
 {
   "date": "2026-03-14",
-  "summary": "本日、FRB関連の発表が複数ありましたが、いずれも個別の銀行に対する認可や執行措置の終了に関するもので、市場全体を左右するような重要な発言は確認できませんでした。金融機関の健全性維持に向けたFRBの継続的な取り組みが示唆されます。",
+  "summary": "本日は、FRBによる銀行関連の承認・執行措置の発表が中心。金融機関の合併・買収、および過去の不正行為に対する措置が示された。直接的な要人発言は確認できず、市場への影響は限定的と考えられる。",
   "statements": [
     {
       "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "Equity Bankの元従業員およびFirst State Bank of Dongolaの元従業員に対する執行措置を発表する。",
-      "context": "FRBによるプレスリリース",
-      "analysis": "個別の金融機関の元従業員に対する執行措置であり、金融システム全体への影響は限定的と考えられます。内部統制の重要性を示唆する事例として注目されます。",
+      "title": "アメリカ合衆国連邦準備制度理事会",
+      "quote": "Equity Bankの元従業員およびFirst State Bank of Dongolaの元従業員に対する執行措置を発表。",
+      "context": "連邦準備制度理事会による公式発表",
+      "analysis": "過去の不正行為に対する措置であり、個別の事例に関するもの。金融システム全体への影響は小さいと考えられるが、コンプライアンス遵守の重要性を示唆する。",
       "importance": "low",
       "tags": [
         "金融規制",
-        "内部統制"
+        "コンプライアンス",
+        "不正行為"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm"
     },
     {
       "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "Home BancSharesによる申請を承認する。",
-      "context": "FRBによるプレスリリース",
-      "analysis": "Home BancSharesの申請承認は、銀行業界における再編や成長戦略の一環として捉えられますが、現時点では市場全体への影響は小さいと考えられます。",
-      "importance": "low",
+      "title": "アメリカ合衆国連邦準備制度理事会",
+      "quote": "Home BancSharesによる申請を承認。",
+      "context": "連邦準備制度理事会による公式発表",
+      "analysis": "銀行の合併・買収に関連する承認であり、金融機関の再編が進んでいることを示唆する。地域経済への影響が考えられる。",
+      "importance": "medium",
       "tags": [
-        "銀行",
-        "M&A"
+        "金融機関",
+        "合併",
+        "買収"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm"
     },
     {
       "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "Associated Banc-Corpによる申請を承認する。",
-      "context": "FRBによるプレスリリース",
-      "analysis": "Associated Banc-Corpの申請承認は、銀行業界における再編や成長戦略の一環として捉えられますが、現時点では市場全体への影響は小さいと考えられます。",
-      "importance": "low",
+      "title": "アメリカ合衆国連邦準備制度理事会",
+      "quote": "Associated Banc-Corpによる申請を承認。",
+      "context": "連邦準備制度理事会による公式発表",
+      "analysis": "銀行の合併・買収に関連する承認であり、金融機関の再編が進んでいることを示唆する。地域経済への影響が考えられる。",
+      "importance": "medium",
       "tags": [
-        "銀行",
-        "M&A"
+        "金融機関",
+        "合併",
+        "買収"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260311b.htm"
     },
     {
       "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "FirstSun Capital Bancorpによる申請を承認する。",
-      "context": "FRBによるプレスリリース",
-      "analysis": "FirstSun Capital Bancorpの申請承認は、銀行業界における再編や成長戦略の一環として捉えられますが、現時点では市場全体への影響は小さいと考えられます。",
-      "importance": "low",
+      "title": "アメリカ合衆国連邦準備制度理事会",
+      "quote": "FirstSun Capital Bancorpによる申請を承認。",
+      "context": "連邦準備制度理事会による公式発表",
+      "analysis": "銀行の合併・買収に関連する承認であり、金融機関の再編が進んでいることを示唆する。地域経済への影響が考えられる。",
+      "importance": "medium",
       "tags": [
-        "銀行",
-        "M&A"
+        "金融機関",
+        "合併",
+        "買収"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260311a.htm"
     },
     {
       "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "中国工商銀行有限公司、中国工商銀行ニューヨーク支店、スタンダードチャータードPLC、およびスタンダードチャータード銀行との執行措置を終了する。",
-      "context": "FRBによるプレスリリース",
-      "analysis": "中国工商銀行およびスタンダードチャータードとの執行措置終了は、過去の違反に対する対応が完了したことを示唆します。地政学的リスクを考慮すると、今後の米中金融関係にわずかながら影響を与える可能性があります。",
+      "title": "アメリカ合衆国連邦準備制度理事会",
+      "quote": "中国工商銀行、中国工商銀行ニューヨーク支店、スタンダードチャータードPLC、およびスタンダードチャータード銀行との執行措置の終了を発表。",
+      "context": "連邦準備制度理事会による公式発表",
+      "analysis": "過去の違反行為に対する改善が認められたことを示唆する。国際的な金融機関に対する規制遵守の重要性を示唆する。",
       "importance": "medium",
       "tags": [
         "金融規制",
-        "米中関係"
+        "国際金融",
+        "コンプライアンス"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260310a.htm"
     },
     {
       "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "CBS Banc-Corpによる通知を承認する。",
-      "context": "FRBによるプレスリリース",
-      "analysis": "CBS Banc-Corpの通知承認は、銀行業界における再編や成長戦略の一環として捉えられますが、現時点では市場全体への影響は小さいと考えられます。",
-      "importance": "low",
+      "title": "アメリカ合衆国連邦準備制度理事会",
+      "quote": "CBS Banc-Corpによる通知を承認。",
+      "context": "連邦準備制度理事会による公式発表",
+      "analysis": "銀行の合併・買収に関連する承認であり、金融機関の再編が進んでいることを示唆する。地域経済への影響が考えられる。",
+      "importance": "medium",
       "tags": [
-        "銀行",
-        "M&A"
+        "金融機関",
+        "合併",
+        "買収"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260309a.htm"
     }
   ],
-  "generated_at": "2026-03-14T01:25:20.435230",
+  "generated_at": "2026-03-14T12:57:03.405208",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
