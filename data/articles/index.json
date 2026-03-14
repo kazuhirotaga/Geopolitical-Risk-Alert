@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-14",
+    "summary": "中東情勢が極めて不安定化。アメリカとイラン間の軍事衝突が激化し、ホルムズ海峡が事実上封鎖。原油価格高騰、サイバー攻撃、テロなど複合的なリスクが世界経済と安全保障に深刻な影響を与えている。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "low",
+      "north_america": "high",
+      "south_america": "none"
+    },
+    "generated_at": "2026-03-14T01:24:47.178444"
+  },
+  {
     "date": "2026-03-13",
     "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、原油価格の高騰やサイバー攻撃など、世界経済や安全保障に深刻な影響を及ぼしている。ウクライナ情勢も依然として不安定であり、地政学リスクは極めて高い。",
     "overall_risk_level": "critical",
