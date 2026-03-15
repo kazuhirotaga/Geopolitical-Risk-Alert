@@ -1,19 +1,19 @@
 {
   "date": "2026-03-15",
-  "summary": "中東情勢の緊迫化により原油価格が急騰し、インフレ懸念が高まる。株式市場は下落傾向にあり、特にS&P500は年初来安値を更新。暗号資産市場はボラティリティが高いものの、一部銘柄は原油高騰の影響を受けにくい傾向が見られる。",
+  "summary": "イラン戦争の影響が原油価格高騰とインフレを引き起こし、世界経済に深刻な影響を与えている。暗号資産市場はボラティリティが高いものの、一部で代替資産としての地位を確立しつつある。AI技術の金融市場への浸透もリスク要因。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "Iran threatens to retaliate against neighbors; Trump urges countries to assist in securing Strait of Hormuz",
+      "title": "Iran vows to kill Israel's Netanyahu as impact of war on Gulf region widens",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "イランが近隣諸国への報復を警告し、トランプ前大統領はホルムズ海峡の安全確保への協力を各国に要請。米国はイランのハルグ島への爆撃を実施したと発表。",
-      "analysis": "中東地域における地政学的リスクが極めて高い状況。原油供給の混乱が長期化する可能性があり、世界経済への影響は甚大。特に、インフレ圧力の高まり、サプライチェーンの混乱、投資家のリスク回避姿勢の強まりが懸念される。ホルムズ海峡の封鎖は、世界経済に壊滅的な打撃を与える可能性があり、軍事衝突のリスクも考慮する必要がある。",
+      "summary": "イランがイスラエルのネタニヤフ首相殺害を宣言し、湾岸地域における戦争の影響が拡大。UAEのフジャイラ港で石油積み込みが再開されたものの、情勢は不安定。",
+      "analysis": "地政学的リスクが極めて高い状況。原油価格の高騰、サプライチェーンの混乱、投資家のリスク回避姿勢の強まりが予想される。中東地域への投資は慎重な判断が必要。紛争の長期化は世界経済に深刻な影響を与える可能性があり、スタグフレーションのリスクも高まる。",
       "key_entities": [
         "イラン",
-        "米国",
-        "トランプ前大統領",
-        "ホルムズ海峡"
+        "イスラエル",
+        "ネタニヤフ",
+        "UAE"
       ],
       "sources": [
         "CNBC - Top News"
@@ -23,15 +23,14 @@
       ]
     },
     {
-      "title": "Week in review: How we navigated the Iran war-driven surge in oil that slammed stocks",
+      "title": "Price caps, taking the stairs, and short-sleeved shirts: How countries are coping with the Iran war energy shock",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イラン戦争による原油価格の高騰が株式市場を直撃。S&P500は3週連続で下落し、約1年ぶりの連敗記録となった。",
-      "analysis": "原油価格の高騰は、企業収益の悪化、消費者支出の減少、インフレ圧力の増大を通じて、株式市場に悪影響を及ぼす。特に、エネルギー消費量の多い産業や、原油価格に敏感なセクターは、大きな打撃を受ける可能性がある。中央銀行による金融引き締め政策が加速する可能性もあり、株式市場の調整がさらに進むリスクがある。",
+      "summary": "各国はエネルギー供給を維持するために価格上限の設定や石油備蓄の放出を実施。消費削減の試みも行われているが、根本的な解決には至っていない。",
+      "analysis": "エネルギー価格の高騰は、各国経済に大きな負担となっている。価格上限の設定は一時的な効果しかなく、長期的な供給不安を解消できない。エネルギー消費の削減は経済活動の停滞を招く可能性があり、政策当局は難しい舵取りを迫られている。代替エネルギーへの投資加速が急務。",
       "key_entities": [
-        "S&P500",
-        "原油価格",
-        "イラン"
+        "各国政府",
+        "エネルギー省庁"
       ],
       "sources": [
         "CNBC - Top News"
@@ -41,52 +40,33 @@
       ]
     },
     {
-      "title": "The biggest release of emergency oil stockpiles in history was announced. Why crude may keep rising",
-      "region": "global",
+      "title": "U.S. and China economic chiefs meet in Paris to clear path to Trump-Xi summit",
+      "region": "east_asia",
       "risk_level": "medium",
-      "summary": "IEAが過去最大規模の原油備蓄放出を発表したが、原油価格は17%以上上昇。供給不安が根強く、価格上昇が続く可能性。",
-      "analysis": "IEAの原油備蓄放出は、一時的な供給緩和策に過ぎず、根本的な解決にはならない。イラン戦争による供給途絶のリスクが依然として高く、原油価格の上昇圧力は強い。また、地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、原油市場への投機的な資金流入を招く可能性もある。",
+      "summary": "米中経済担当者がパリで会談し、トランプ・習近平会談への道筋をつける。しかし、米国の対イラン戦争への注力により、貿易面での大きな進展は限定的と見られる。",
+      "analysis": "米中間の緊張緩和は、世界経済にとってプラス要因。しかし、イラン戦争の影響で貿易交渉が後回しになる可能性があり、保護主義的な政策が継続されるリスクも存在する。地政学的リスクが貿易関係に影響を与える構図は、今後の世界経済の不確実性を高める。",
       "key_entities": [
-        "IEA",
-        "原油価格",
-        "イラン"
+        "米国政府",
+        "中国政府",
+        "トランプ",
+        "習近平"
       ],
       "sources": [
         "CNBC - Top News"
       ],
       "source_types": [
-        "international_org",
         "media"
       ]
     },
     {
       "title": "Mortgage rates surge to highest since September, hitting spring housing market",
-      "region": "middle_east",
+      "region": "global",
       "risk_level": "medium",
-      "summary": "イラン戦争の影響で債券利回りが上昇し、住宅ローン金利が9月以来の高水準に。春の住宅市場に打撃。",
-      "analysis": "住宅ローン金利の上昇は、住宅購入者の負担を増加させ、住宅需要を抑制する。特に、金利上昇に敏感な新規購入者層への影響が大きい。住宅市場の低迷は、建設業界や関連産業にも悪影響を及ぼし、経済全体の成長を鈍化させる可能性がある。",
+      "summary": "イラン戦争の影響で債券利回りが上昇し、住宅ローン金利が9月以来の高水準に。春の住宅市場に打撃を与えている。",
+      "analysis": "住宅ローン金利の上昇は、住宅購入意欲を減退させ、住宅市場の冷え込みを招く。建設業界への影響も懸念される。インフレ抑制のための金利引き上げは、景気後退のリスクを高める可能性があり、金融政策のバランスが重要となる。",
       "key_entities": [
-        "住宅ローン金利",
-        "債券利回り",
-        "イラン"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "S&P 500 falls to new low for year on Iran oil crisis, posts third-straight losing week: Live updates",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イランの石油危機によりS&P500は年初来安値を更新し、3週連続の下落。原油価格は上昇を続ける。",
-      "analysis": "S&P500の年初来安値更新は、投資家のリスク回避姿勢が強まっていることを示唆する。原油価格の高騰は、インフレ懸念を高め、中央銀行による金融引き締め政策を加速させる可能性がある。また、企業収益の悪化や景気後退への懸念も高まり、株式市場の調整がさらに進むリスクがある。",
-      "key_entities": [
-        "S&P500",
-        "原油価格",
-        "イラン"
+        "中央銀行",
+        "住宅ローン会社"
       ],
       "sources": [
         "CNBC - Top News"
@@ -99,14 +79,13 @@
       "title": "Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "イラン戦争開始以降、ビットコインがS&P500、ナスダック、金よりも高いパフォーマンスを記録。",
-      "analysis": "地政学的リスクの高まりは、安全資産への需要を高める。ビットコインは、伝統的な安全資産である金と同様に、リスク回避の受け皿として機能している可能性がある。ただし、ビットコインの価格変動は非常に大きく、投資には注意が必要。また、規制の動向や技術的なリスクも考慮する必要がある。",
+      "summary": "イラン戦争開始以降、ビットコインがS&P 500、ナスダック総合、金よりも高いパフォーマンスを記録。代替資産としての地位を確立しつつある。",
+      "analysis": "地政学的リスクの高まりを受け、ビットコインが安全資産としての側面を見せている。しかし、価格変動が激しく、依然として投機的な側面も強い。規制の動向や技術的なリスクも考慮する必要がある。長期的な投資対象としての評価は定まっていない。",
       "key_entities": [
         "ビットコイン",
-        "S&P500",
-        "ナスダック",
-        "金",
-        "イラン"
+        "S&P 500",
+        "ナスダック総合",
+        "金"
       ],
       "sources": [
         "CNBC - Top News"
@@ -116,33 +95,14 @@
       ]
     },
     {
-      "title": "Bitcoin holds $71,000 despite Trump warning of strikes on Iran's oil-rich Kharg Island",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "トランプ前大統領がイランのハルグ島への攻撃を警告する中、ビットコインは71,000ドルを維持。",
-      "analysis": "ビットコインが地政学的リスクの高まりにもかかわらず、比較的安定した価格を維持していることは、その分散性と独立性が評価されていることを示唆する。ただし、市場全体のセンチメントが悪化した場合、ビットコインも影響を受ける可能性がある。また、規制の動向や技術的なリスクも考慮する必要がある。",
-      "key_entities": [
-        "ビットコイン",
-        "トランプ前大統領",
-        "イラン"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Circle overtakes BlackRock in tokenized Treasuries as market hits record $11 billion",
+      "title": "AI agents are quietly rewriting prediction market trading",
       "region": "global",
-      "risk_level": "low",
-      "summary": "トークン化された米国債市場が110億ドルの記録を達成し、CircleがBlackRockを追い抜いてトップに。",
-      "analysis": "トークン化された米国債市場の成長は、デジタル資産の普及が進んでいることを示唆する。Circleのような企業が市場をリードすることで、デジタル資産の信頼性が高まり、機関投資家の参入を促す可能性がある。ただし、規制の不確実性やセキュリティリスクも考慮する必要がある。",
+      "risk_level": "medium",
+      "summary": "AIエージェントが予測市場の取引を静かに書き換えている。市場の効率化に貢献する一方、アルゴリズムの偏りや不正利用のリスクも存在する。",
+      "analysis": "AI技術の進化は、金融市場に大きな変革をもたらす可能性を秘めている。しかし、AIの判断基準が不透明であることや、システム障害のリスクも考慮する必要がある。規制当局は、AIの利用に関するガイドラインを策定し、市場の健全性を維持する必要がある。",
       "key_entities": [
-        "Circle",
-        "BlackRock",
-        "トークン化された米国債"
+        "AIエージェント",
+        "予測市場"
       ],
       "sources": [
         "CoinDesk"
@@ -155,8 +115,8 @@
       "title": "DOJ to appeal judge's block of subpoenas to Fed in Jerome Powell criminal investigation",
       "region": "global",
       "risk_level": "medium",
-      "summary": "司法省がジェローム・パウエルFRB議長に対する刑事捜査に関連する召喚状を阻止した裁判官の決定を不服として控訴する予定。",
-      "analysis": "FRB議長に対する刑事捜査は、金融市場に不確実性をもたらす可能性がある。特に、パウエル議長の任期が延長される可能性があり、金融政策の方向性に影響を与える可能性がある。また、FRBの独立性に対する信頼が損なわれるリスクもある。",
+      "summary": "司法省がジェローム・パウエルFRB議長の刑事捜査における召喚状差し止めに対する控訴を決定。議長の任期延長の可能性も。",
+      "analysis": "FRB議長に対する捜査は、金融政策の独立性に対する信頼を揺るがす可能性がある。政治的な影響力を排除し、透明性の高い捜査を行うことが重要。議長の交代は、金融市場に大きな変動をもたらす可能性があり、今後の動向を注視する必要がある。",
       "key_entities": [
         "FRB",
         "ジェローム・パウエル",
@@ -170,16 +130,47 @@
       ]
     },
     {
-      "title": "Peruvian stocks: Why they may be an unexpected winner of the AI boom, Iran war",
-      "region": "south_america",
+      "title": "Restaurant stocks are struggling to start 2026. Where to find buying opportunities",
+      "region": "global",
       "risk_level": "low",
-      "summary": "ペルー株式市場がAIブームとイラン戦争の恩恵を受け、S&P Peru Total Indexは2026年に23%上昇、過去12ヶ月で75%以上上昇。",
-      "analysis": "ペルー株式市場の上昇は、資源価格の上昇やAI関連産業の成長など、複数の要因が複合的に作用した結果と考えられる。イラン戦争による原油価格の高騰は、資源輸出国のペルーにとって有利に働く可能性がある。また、AI関連産業の成長は、ペルー経済の多角化を促進し、長期的な成長を支える可能性がある。",
+      "summary": "レストラン株は、インフレ、経済成長の鈍化、肥満治療薬の普及により苦戦。買いの機会を探る動きも。",
+      "analysis": "消費者の行動変化や経済状況の悪化は、レストラン業界に大きな影響を与えている。しかし、一部の企業は、新たなビジネスモデルや効率化によって業績を改善させている。個別企業の分析に基づいた投資判断が重要。",
       "key_entities": [
-        "ペルー",
-        "S&P Peru Total Index",
-        "AI",
-        "イラン"
+        "レストラン企業"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "OpenClaw breathes new life into this Chinese tech stock ahead of earnings",
+      "region": "east_asia",
+      "risk_level": "low",
+      "summary": "中国におけるOpenClawへの関心の高まりが、人工知能ツールへの支出意欲を刺激し、中国のテクノロジー株に新たな活気をもたらしている。",
+      "analysis": "中国市場におけるAI技術の需要拡大は、関連企業の業績を押し上げる可能性がある。しかし、規制の変更や競争の激化など、リスク要因も存在する。中国経済の動向や政策の変化に注意する必要がある。",
+      "key_entities": [
+        "中国テクノロジー企業",
+        "OpenClaw"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Top Wall Street analysts are bullish on these 3 dividend-paying energy stocks",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "ウォール街のアナリストは、Chord EnergyやEOG Resourcesなど、配当利回りの高いエネルギー株3銘柄に強気。",
+      "analysis": "原油価格の高騰は、エネルギー企業の収益を押し上げる可能性がある。配当利回りの高い銘柄は、インフレに対するヘッジとしても有効。しかし、地政学的リスクや環境規制の強化など、リスク要因も存在する。長期的なエネルギー政策の動向を注視する必要がある。",
+      "key_entities": [
+        "Chord Energy",
+        "EOG Resources"
       ],
       "sources": [
         "CNBC - Top News"
@@ -192,10 +183,10 @@
   "region_risk_map": {
     "global": "high",
     "north_america": "medium",
-    "europe": "low",
-    "east_asia": "none"
+    "europe": "medium",
+    "east_asia": "medium"
   },
-  "generated_at": "2026-03-15T01:50:31.910236",
+  "generated_at": "2026-03-15T12:57:59.386626",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

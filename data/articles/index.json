@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-03-15",
-    "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、ホルムズ海峡封鎖の脅威が高まる。ウクライナ情勢も依然として不安定であり、北朝鮮のミサイル発射実験も継続。世界各地で地政学的リスクが顕在化している。",
+    "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、人道危機が深刻化。ウクライナ情勢も依然として不安定。北朝鮮のミサイル発射や国内政治不安など、地政学的リスクが複合的に高まっている。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
       "southeast_asia": "medium",
-      "south_asia": "medium",
+      "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "medium",
-      "africa": "none",
+      "africa": "medium",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "medium"
     },
-    "generated_at": "2026-03-15T01:50:11.138629"
+    "generated_at": "2026-03-15T12:57:37.437096"
   },
   {
     "date": "2026-03-14",
