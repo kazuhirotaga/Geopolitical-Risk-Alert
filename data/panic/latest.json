@@ -1,78 +1,63 @@
 {
-  "date": "2026-03-14",
-  "summary": "世界各地でエネルギー供給不安が深刻化し、特にアジア太平洋地域ではLPGや燃料不足による大規模な抗議デモや生活基盤への影響が顕著です。インドでは家庭や商業施設での燃料枯渇が報じられ、伝統的な燃料への回帰も見られます。オーストラリアではガソリンスタンドの燃料切れが発生し、危機的な状況にあります。ヨーロッパの一地域では政府内で大規模デモへの懸念からパニックが報じられるなど、社会的な緊張が高まっています。",
-  "global_panic_index": 70,
+  "date": "2026-03-15",
+  "summary": "現在、世界的なエネルギー供給の不安定化が各地で社会不安を引き起こしています。特に、インドを中心とした南アジア地域（便宜上「東南アジア」カテゴリに分類）では、LPG不足とそれに伴う価格高騰が広範囲にわたり深刻な生活への影響をもたらし、大規模な抗議活動が多発しています。学生食堂での食事制限、レストランの閉鎖、さらにはLPGシリンダーの窃盗といった事象は、不安が具体的な生活の混乱や秩序の乱れへと移行しつつあることを示唆しています。キューバでは、食料とエネルギーの複合的な不足が政府への大規模な抗議デモに発展しており、社会の緊迫度は非常に高い状態です。ニュージーランドでも燃料不足と価格高騰が報告されるなど、エネルギー供給問題が世界各地で社会不安の主要因となっています。",
+  "global_panic_index": 55,
   "regions": [
     {
       "region": "southeast_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "LPG・燃料・水不足、物価高騰",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "エネルギー（LPG）不足、物価高騰、水不足",
       "incidents": [
         {
-          "title": "LPG shortage turns back the clock: Coal, stoves & dung cakes make comeback",
-          "location": "India",
-          "severity": 95,
-          "description": "インド全土でLPG不足が深刻化し、家庭や商業施設が現代の燃料から石炭、薪、乾燥した牛糞といった伝統的な燃料への回帰を余儀なくされており、生活基盤の機能不全を示唆しています。",
-          "source": "MillenniumPost"
-        },
-        {
-          "title": "Petrol stations run dry as the chilling reality of Australia's fuel supplies finally hits home",
-          "location": "Australia",
-          "severity": 90,
-          "description": "オーストラリアのガソリンスタンドで燃料が枯渇し、燃料供給の厳しい現実が露呈しています。市民生活への直接的な影響とパニックを引き起こす恐れがある危機的な状況です。",
+          "title": "LPG不足によるムンバイのレストラン閉鎖",
+          "location": "ムンバイ, インド",
+          "severity": 70,
+          "description": "ムンバイのレストランの20%がLPG不足により閉鎖を余儀なくされ、外食産業に深刻な打撃。都市の生活基盤に影響が出始め、経済不安と社会的な不満が高まっています。",
           "source": "MSN"
         },
         {
-          "title": "Hotels, eateries run out of gas across Hyderabad as Middle East conflict turns up the heat",
-          "location": "Hyderabad, India",
-          "severity": 85,
-          "description": "インドのハイデラバードでホテルや飲食店がガス欠に陥り、中東紛争が引き起こすエネルギー危機の影響で経済活動に深刻な支障が出始めています。",
-          "source": "MSN"
-        },
-        {
-          "title": "Congress MLAs protest gas shortage: ‘Those in every household running from pillar to post for LPG cylinders’",
-          "location": "India",
-          "severity": 80,
-          "description": "インド全土でLPG不足が深刻化し、各家庭がガソリンスタンドや配給所を奔走する事態に陥っており、日常生活への広範な混乱と住民の不安が広がっています。",
+          "title": "SPPU学生によるLPG不足抗議と食事制限",
+          "location": "SPPU, インド",
+          "severity": 65,
+          "description": "プネー大学（SPPU）でLPG不足により学生食堂のメニューがダルと米に限定され、学生が抗議活動を実施。エネルギー不足が教育機関での食生活に直接影響し、不安が拡大しています。",
           "source": "The Indian Express"
         },
         {
-          "title": "ILOILO BRACES FOR WATER SHORTAGE, Wells could run dry during hot months",
-          "location": "Iloilo, Philippines",
-          "severity": 70,
-          "description": "フィリピンのイロイロ市が猛暑による水不足に備え、井戸が枯渇する可能性に直面しています。生活必需品の供給不安が増大し、市民の間で懸念が広がっています。",
-          "source": "Panay News"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "大規模抗議デモへの懸念",
-      "incidents": [
+          "title": "ケララのITパーク食堂でガス不足、在宅勤務に移行",
+          "location": "ケララ, インド",
+          "severity": 65,
+          "description": "ケララのITパークの食堂でガス不足が発生し、従業員が再び在宅勤務に切り替える事態に。LPG不足がビジネス活動にも影響を与え、社会全体の生産性や人々の生活習慣に影響を及ぼしています。",
+          "source": "Onmanorama"
+        },
         {
-          "title": "Meetings behind closed doors: What panic reigned in the top of the government before the big protest on March 15",
-          "location": "Kosovo",
-          "severity": 75,
-          "description": "3月15日の大規模デモを前に、コソボ政府高官の間で「パニックが支配した」と報じられました。これは社会的な緊張の高さと政府の強い危機感が浮き彫りになっています。",
-          "source": "KoSSev"
+          "title": "LPGシリンダー窃盗事件の発生",
+          "location": "シーサ, インド",
+          "severity": 60,
+          "description": "シーサの家からLPGシリンダーが盗難される事件が発生。燃料不足が原因で、窃盗という形で社会秩序の乱れが生じ始めており、住民の不安を煽っています。",
+          "source": "Tribune India"
+        },
+        {
+          "title": "都市全域でのLPG不足と価格高騰に対する抗議",
+          "location": "インド各地の都市",
+          "severity": 58,
+          "description": "インドの主要都市で、LPG価格高騰と供給不足に対し大規模な抗議デモが組織的に実施されています。政府への不満が高まり、政治的緊張も増しています。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "飢餓問題（長期的な社会課題）",
+      "panic_index": 75,
+      "status": "critical",
+      "main_cause": "食料・エネルギー不足、経済制裁",
       "incidents": [
         {
-          "title": "11Alive supporting 42nd annual Hunger Walk Run this Sunday",
-          "location": "USA (Atlanta)",
-          "severity": 25,
-          "description": "米国アトランタで、食料不安に対処するためのチャリティイベントが開催される予定です。これは長期的な社会問題への取り組みであり、緊急のパニック状況ではありません。",
-          "source": "11Alive.com"
+          "title": "キューバでの食料・エネルギー不足による大規模抗議",
+          "location": "キューバ",
+          "severity": 75,
+          "description": "米国による制限が原因でキューバ全土で食料・エネルギー不足が深刻化し、大規模な抗議デモが発生。基本的な生活物資の欠乏が社会的な混乱と不安を深刻化させています。",
+          "source": "The CSR Journal"
         }
       ]
     }
