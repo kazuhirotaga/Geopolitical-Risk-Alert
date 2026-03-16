@@ -1,5 +1,206 @@
 [
   {
+    "date": "2026-03-16",
+    "summary": "アメリカ軍がイランのハルグ島を爆撃、中東地域への戦力増強が進む。レバノンではイスラエルによる爆撃が発生。ウクライナはAI開発のため戦闘データを共有。イラン戦争の影響で、NATOの装備引き上げやミサイル防衛のシフトも検討されている。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-03-14",
+        "location": "イラン、ハルグ島",
+        "region": "middle_east",
+        "title": "アメリカ軍によるイラン、ハルグ島への爆撃",
+        "content": "トランプ大統領は、アメリカ軍がイランの石油拠点であるハルグ島の全ての軍事目標を「完全に破壊した」と発表。石油関連施設への攻撃が示唆される。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/2026/03/14/us-bombs-key-iranian-island-amid-oil-concerns/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-03-13",
+        "location": "中東地域",
+        "region": "middle_east",
+        "title": "アメリカ海軍、中東地域への戦力増強",
+        "content": "アメリカ海軍は、強襲揚陸艦「USSトリポリ」、ドック型輸送揚陸艦「USSニューオーリンズ」、ドック型揚陸艦「USSサンディエゴ」、及び第31海兵遠征隊を中東地域に派遣し、「オペレーション・エピック・フューリー」を支援。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/13/pentagon-reportedly-sending-more-warships-and-marines-to-middle-east/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-03-13",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ、AI開発用戦闘データを同盟国に公開",
+        "content": "ウクライナは、自律型ドローンシステムのAIモデルを訓練するため、国際的なパートナーや防衛企業に実際の戦闘データへのアクセスを提供。",
+        "involved_parties": [
+          "ウクライナ",
+          "同盟国"
+        ],
+        "event_type": "cyber",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/ukraine/2026/03/13/ukraine-opens-battlefield-ai-data-to-allies-in-world-first-move/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-03-13",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエルによるレバノンへの爆撃",
+        "content": "アナリストによると、レバノン軍はイスラエルによる爆撃下にあるため、ヒズボラの武器を捜索できる状況にない。",
+        "involved_parties": [
+          "イスラエル",
+          "レバノン",
+          "ヒズボラ"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/13/lebanese-government-tries-to-avoid-internal-strife-amid-israeli-bombardment/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-03-13",
+        "location": "イラク西部",
+        "region": "middle_east",
+        "title": "アメリカ空軍KC-135空中給油機墜落事故",
+        "content": "アメリカ中央軍（CENTCOM）は、イラク西部に墜落したアメリカ空軍KC-135空中給油機に搭乗していた乗員6名全員の死亡を確認。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/13/four-us-airmen-killed-in-kc-135-crash-in-iraq/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-03-12",
+        "location": "トルコ",
+        "region": "europe",
+        "title": "NATO、トルコへパトリオットミサイルシステムを派遣",
+        "content": "NATOは、トルコ国内の重要な防空レーダーを保護するため、2基目のパトリオットミサイルシステムを派遣。ドイツのラムシュタインにあるNATO連合空軍司令部から。",
+        "involved_parties": [
+          "NATO",
+          "トルコ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/12/nato-sends-patriot-system-to-protect-key-air-defense-radar-in-turkey/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-03-11",
+        "location": "ノルウェー、エヴェネス",
+        "region": "europe",
+        "title": "ノルウェーF-35、NATO演習中にロシア偵察機を捕捉",
+        "content": "NATOが「コールド・レスポンス2026」を実施中のノルウェー・エヴェネスで、ノルウェー空軍のF-35戦闘機がロシアの偵察機を捕捉。",
+        "involved_parties": [
+          "ノルウェー",
+          "ロシア"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/11/norwegian-f-35s-intercept-russian-spy-aircraft-during-nato-drill/"
+      },
+      {
+        "id": "event-8",
+        "timestamp": "2026-03-11",
+        "location": "韓国",
+        "region": "east_asia",
+        "title": "イラン戦争によりアメリカのミサイル防衛が韓国からシフトする可能性",
+        "content": "アメリカ陸軍が運用するTHAADミサイルシステムの数が限られているため、イラン戦争の影響で、在韓米軍のミサイル防衛システムが他の地域にシフトする可能性が示唆される。",
+        "involved_parties": [
+          "アメリカ軍",
+          "韓国"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/11/iran-war-may-force-us-to-shift-missile-defenses-from-south-korea-seoul-says/"
+      },
+      {
+        "id": "event-9",
+        "timestamp": "2026-03-11",
+        "location": "中東地域",
+        "region": "middle_east",
+        "title": "オーストラリア、早期警戒機を中東地域に派遣",
+        "content": "オーストラリアは、イランに対する攻撃を受けて、早期警戒機を中東地域に派遣。ただし、オーストラリア政府は、イスラエルとアメリカの戦闘作戦には関与しない方針を表明。",
+        "involved_parties": [
+          "オーストラリア",
+          "アメリカ軍",
+          "イスラエル",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/11/australia-deploys-early-warning-aircraft-to-the-middle-east-amid-iran-attacks/"
+      },
+      {
+        "id": "event-10",
+        "timestamp": "2026-03-10",
+        "location": "インド、スリランカ",
+        "region": "asia_pacific",
+        "title": "イランの軍艦2隻がインドとスリランカに避難",
+        "content": "米海軍の潜水艦によってイランの軍艦が撃沈されたことが外交的な問題となり、イランの軍艦2隻がインドとスリランカに避難。",
+        "involved_parties": [
+          "イラン",
+          "アメリカ軍",
+          "インド",
+          "スリランカ"
+        ],
+        "event_type": "retreat",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/10/two-iranian-warships-take-sanctuary-in-india-and-sri-lanka/"
+      },
+      {
+        "id": "event-11",
+        "timestamp": "2026-03-09",
+        "location": "インド洋",
+        "region": "middle_east",
+        "title": "米海軍潜水艦によるイラン軍艦撃沈を巡る米イランの応酬",
+        "content": "先週インド洋で発生したイラン軍艦撃沈について、米国とイランが互いに異なる見解を発表。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/09/us-iran-spar-over-status-of-iranian-warship-sunk-by-submarine/"
+      },
+      {
+        "id": "event-12",
+        "timestamp": "2026-03-09",
+        "location": "イギリス、フェアフォード空軍基地",
+        "region": "europe",
+        "title": "アメリカ軍B-1Bランサー爆撃機、イギリス空軍フェアフォード基地に到着",
+        "content": "イギリス国防省は、アメリカ軍が「特定の防衛作戦」のためにイギリスの基地を使用し始めたことを確認。アメリカ空軍のB-1Bランサー爆撃機がフェアフォード空軍基地に到着。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イギリス"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/09/us-b-1b-lancers-arrive-at-raf-fairford-as-strikes-on-iran-intensify/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-15",
     "summary": "アメリカ軍がイランのハルグ島を爆撃し、中東地域への軍事展開を強化。ウクライナはAI開発のため戦闘データを開示。イスラエルによるレバノンへの爆撃が続く中、中東情勢は緊迫化している。",
     "events": [
