@@ -1,78 +1,129 @@
 {
   "date": "2026-03-16",
-  "summary": "世界各地でエネルギー不足に起因する社会不安が顕著に高まっている。インドではLPG不足が全国的な買いだめ、店舗閉鎖、大規模抗議に発展し、社会インフラへの深刻な影響が懸念される。キューバでは停電を巡る暴力的な暴動が発生し、社会秩序が乱れた。アメリカでは一時的な群衆パニックがあったが広範な不安には至らず。エネルギー供給の不安定さが地域的なパニックと混乱の主要な要因となっている。",
-  "global_panic_index": 75,
+  "summary": "世界各地でエネルギー供給不足が主要な社会不安要因となっており、特にインドとオセアニアでは燃料不足やLPG不足に起因するパニック買い、大規模な抗議デモ、生活への深刻な影響が報告されています。金融市場も一部地域で不安定な兆候を示し、潜在的な取り付け騒ぎへの懸念が浮上。キューバでは経済的絶望からくる反抗的な行動が見られ、全体的に社会の緊張と不安定さが増しています。",
+  "global_panic_index": 66,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "群衆パニック",
-      "incidents": [
-        {
-          "title": "米ヒューストン：カーニバルで群衆パニック発生、早期閉鎖",
-          "location": "アメリカ、ヒューストン",
-          "severity": 60,
-          "description": "「RodeoHouston」カーニバル会場で原因不明のパニックが発生し、多数の観客が安全を求めて逃走したため、イベントが早期に閉鎖された。具体的な負傷者の有無は不明だが、会場は一時騒然とした。",
-          "source": "CW39 Houston"
-        }
-      ]
-    },
-    {
-      "region": "south_america",
       "panic_index": 80,
-      "status": "volatile",
-      "main_cause": "エネルギー不足（停電）",
+      "status": "critical",
+      "main_cause": "経済苦、社会不安",
       "incidents": [
         {
-          "title": "キューバ：大規模停電巡り暴動、共産党事務所襲撃",
+          "title": "Desperation in Cuba Ignites Unusual Acts of Defiance",
           "location": "キューバ",
           "severity": 80,
-          "description": "長期にわたる大規模停電に対し、国民が各地で暴動を起こし、一部では共産党事務所が襲撃されるなどの暴力的な衝突が発生した。政府は治安部隊を投入し鎮圧に当たっており、社会秩序が著しく乱れている。",
-          "source": "MSN / Reuters"
+          "description": "深刻な経済状況と物資不足から住民の不満が募り、政府に対する異例の反抗行為が頻発している。これは広範な社会不安と秩序の乱れを示唆する。",
+          "source": "The New York Times"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "エネルギー不足（LPG）",
+      "region": "europe",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "政治的緊張、社会的分裂",
       "incidents": [
         {
-          "title": "インド全国LPG危機：買いだめ、店舗閉鎖、長蛇の列が各地で発生",
-          "location": "インド全国",
+          "title": "Police investigate 'death to the IDF' chants led by Bobby Vylan at rally",
+          "location": "英国 (想定)",
+          "severity": 50,
+          "description": "大規模な抗議集会において過激な政治的スローガンが叫ばれ、警察が捜査を行う事態となっている。これは社会の緊張と対立の激化を示しているが、直接的なパニックには至っていない。",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 68,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、物価高、金融不安",
+      "incidents": [
+        {
+          "title": "Gas crisis protest turns dramatic in Kashi: NSUI tries making gas from drain, six booked",
+          "location": "インド・カシ",
           "severity": 85,
-          "description": "インド全土で液化石油ガス（LPG）の供給不足が深刻化し、国民がパニック的に買いだめに走り、供給を求める長蛇の列が形成されている。一部の店舗は閉鎖され、生活インフラへの影響が拡大している。",
-          "source": "India.Com"
+          "description": "カシでのガス危機抗議デモが過熱し、参加者が排水溝からガスを作ろうと試みる異常な事態が発生。複数の逮捕者も出ており、生活苦からの絶望的な行動が伺える。",
+          "source": "Bhaskar English"
         },
         {
-          "title": "インド・ムンバイ：LPG不足で飲食店2割が営業停止",
-          "location": "インド、ムンバイ",
+          "title": "Long queues, lost trips: LPG, CNG shortage hits auto & cab drivers hard",
+          "location": "インド",
           "severity": 70,
-          "description": "ムンバイ市内のレストランの約20%が調理用LPGの在庫切れにより営業停止に追い込まれている。市民生活だけでなく、経済活動にも直接的な打撃を与え、不安を増大させている。",
+          "description": "インド国内でLPGやCNGの深刻な不足が発生し、タクシー運転手や一般市民の移動に大きな支障が出ている。燃料を求める長蛇の列は社会不安の表れ。",
           "source": "MSN"
         },
         {
-          "title": "インド・カルナータカ州：LPG不足で漁業に深刻な影響",
-          "location": "インド、カルナータカ州",
-          "severity": 65,
-          "description": "カルナータカ州では、漁業に使用される商業用LPGシリンダーの供給が滞り、多くの漁師が操業停止を余儀なくされている。これは地域の主要産業に大きな打撃を与えている。",
-          "source": "Deccan Herald"
+          "title": "India's IDBI set for worst day in 2 years on reports stake-sale bids scrapped",
+          "location": "インド",
+          "severity": 60,
+          "description": "インドのIDBI銀行が、株式売却の入札中止報道を受け、過去2年間で最悪の株価下落を記録。金融市場に不確実性をもたらしている。",
+          "source": "Reuters"
         },
         {
-          "title": "インド・チェンナイ：LPG不足と物価高騰に対し大規模抗議デモ",
-          "location": "インド、チェンナイ",
+          "title": "Congress holds citywide protest over price hike, LPG shortage",
+          "location": "インド",
           "severity": 55,
-          "description": "チェンナイでは、LPG不足とそれに伴う物価高騰に抗議するため、主要野党が連携して大規模なデモを実施。市民の不満が高まり、政府への圧力が強まっている。",
-          "source": "The News Mill"
+          "description": "全国的に物価高とLPG不足に対する全市規模の抗議活動が展開されている。広範な不満が募り、政治的圧力が高まっている状況。",
+          "source": "MSN"
         },
         {
-          "title": "インド・ハイデラバード：CNG/LPG不足で交通業界が抗議予告",
-          "location": "インド、ハイデラバード",
-          "severity": 50,
-          "description": "ハイデラバードのオート・タクシー運転手らが、CNGおよびLPG燃料の不足により事業に深刻な影響を受けていると訴え、大規模な抗議活動を3月16日から開始すると発表した。",
-          "source": "Oneindia"
+          "title": "Rupee averts record low on state-run banks' dollar sales; oil worries persist",
+          "location": "インド",
+          "severity": 55,
+          "description": "国営銀行によるドル売却でルピーは最安値更新を回避したが、石油価格上昇への懸念は依然として強く、通貨の不安定さが続いている。",
+          "source": "Reuters"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 53,
+      "status": "unstable",
+      "main_cause": "金融不安、公共サービスへの不満",
+      "incidents": [
+        {
+          "title": "Catholic parishioners protest ‘missing’ funds from Indonesian bank",
+          "location": "インドネシア",
+          "severity": 60,
+          "description": "インドネシアの銀行で資金が不明になったことに対し、カトリック信徒が大規模な抗議活動を実施。銀行への信頼低下は金融不安を招く可能性がある。",
+          "source": "ucanews.com"
+        },
+        {
+          "title": "Kg Papan residents protest outside Bank Negara-linked firm, submit memo",
+          "location": "マレーシア",
+          "severity": 45,
+          "description": "住民が銀行関連企業に対して抗議活動を行い、要望書を提出。具体的な詐欺や不正疑惑に対する不満が背景にある。",
+          "source": "Malaysiakini"
+        }
+      ]
+    },
+    {
+      "region": "oceania",
+      "panic_index": 78,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、パニック買い",
+      "incidents": [
+        {
+          "title": "Dozens of petrol stations around Australia run out of fuel as panic-buying continues",
+          "location": "オーストラリア",
+          "severity": 85,
+          "description": "オーストラリア各地で数十カ所のガソリンスタンドが燃料切れとなり、消費者のパニック買いが収まらない。これは生活必需品の供給網への強い懸念を示している。",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Gull stations run out of fuel as petrol hits $3 a litre mark",
+          "location": "ニュージーランド",
+          "severity": 80,
+          "description": "ニュージーランドのGullステーションで燃料が枯渇し、ガソリン価格が1リットル3ドルに達した。この状況は燃料不安と買い占めをさらに加速させる恐れがある。",
+          "source": "1News"
+        },
+        {
+          "title": "'No need to panic', fuel supplier says",
+          "location": "ニュージーランド",
+          "severity": 70,
+          "description": "燃料供給業者が「パニックになる必要はない」と声明を発表したが、これは燃料不足による市民の不安が既に高まっていることを示唆している。",
+          "source": "RNZ"
         }
       ]
     }
