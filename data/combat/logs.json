@@ -1,5 +1,124 @@
 [
   {
+    "date": "2026-03-17",
+    "summary": "アメリカとイランの緊張激化。イランがサウジアラビアのKC-135にミサイル攻撃、アメリカ軍はイランのハルグ島を爆撃。中東地域への軍事展開が活発化し、一部NATO演習参加国が装備を撤収。ウクライナはAI開発に向け戦闘データを開示。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-03-16",
+        "location": "サウジアラビア",
+        "region": "middle_east",
+        "title": "イランによるミサイル攻撃",
+        "content": "イランがサウジアラビアに駐機中のKC-135空中給油機5機にミサイル攻撃を実施。機体は損傷したが、破壊は免れた模様。",
+        "involved_parties": [
+          "イラン",
+          "サウジアラビア"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-03-14",
+        "location": "イラン、ハルグ島",
+        "region": "middle_east",
+        "title": "アメリカ軍によるハルグ島爆撃",
+        "content": "アメリカ軍がイランの石油拠点であるハルグ島に対して爆撃を実施。トランプ大統領は、島の軍事目標を「完全に破壊した」と発表。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/2026/03/14/us-bombs-key-iranian-island-amid-oil-concerns/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-03-13",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "アメリカ軍艦艇と海兵隊の中東派遣",
+        "content": "アメリカ海軍の強襲揚陸艦トリポリ、揚陸輸送艦ニューオーリンズ、ドック型揚陸艦サンディエゴ、および第31海兵遠征部隊が「オペレーション・エピックフューリー」を支援するため中東へ派遣される。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/13/pentagon-reportedly-sending-more-warships-and-marines-to-middle-east/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-03-13",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエルによるレバノンへの爆撃",
+        "content": "レバノンがイスラエルからの爆撃を受けている。レバノン軍は、国内の混乱を避けるため、ヒズボラの武器捜索を行うことが困難な状況。",
+        "involved_parties": [
+          "イスラエル",
+          "レバノン",
+          "ヒズボラ"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/13/lebanese-government-tries-to-avoid-internal-strife-amid-israeli-bombardment/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-03-11",
+        "location": "NATO演習地域",
+        "region": "europe",
+        "title": "ノルウェーF-35戦闘機によるロシア偵察機迎撃",
+        "content": "NATOのコールドレスポンス2026演習中に、ノルウェーのF-35戦闘機がロシアの偵察機を迎撃。",
+        "involved_parties": [
+          "ノルウェー軍",
+          "ロシア軍"
+        ],
+        "event_type": "clash",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/11/norwegian-f-35s-intercept-russian-spy-aircraft-during-nato-drill/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-03-13",
+        "location": "イラク西部",
+        "region": "middle_east",
+        "title": "アメリカ軍KC-135空中給油機墜落",
+        "content": "イラク西部でアメリカ軍のKC-135空中給油機が墜落。搭乗していた6名の乗組員全員が死亡したとアメリカ中央軍が発表。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/13/four-us-airmen-killed-in-kc-135-crash-in-iraq/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-03-11",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "オーストラリア、早期警戒機を中東へ派遣",
+        "content": "オーストラリアが、イランによる攻撃を受け、早期警戒機を中東へ派遣。ただし、オーストラリア政府は、イスラエルおよびアメリカ軍の戦闘作戦には参加しないと発表。",
+        "involved_parties": [
+          "オーストラリア",
+          "アメリカ軍",
+          "イラン",
+          "イスラエル"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/11/australia-deploys-early-warning-aircraft-to-the-middle-east-amid-iran-attacks/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-16",
     "summary": "アメリカとイランの緊張が高まる中、アメリカ軍はイランの主要な島を爆撃。中東地域への軍事展開が強化され、関連費用が急増。ウクライナはAI開発のため戦闘データを開放。レバノンはイスラエルからの攻撃に直面。",
     "events": [

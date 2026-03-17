@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-17",
+    "summary": "中東におけるアメリカとイランの軍事衝突が激化し、ホルムズ海峡の安全確保を巡る国際的な緊張が高まっている。ウクライナ情勢も依然として不安定であり、世界経済への影響が深刻化している。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "high",
+      "southeast_asia": "low",
+      "south_asia": "high",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "medium",
+      "africa": "medium",
+      "north_america": "high",
+      "south_america": "medium"
+    },
+    "generated_at": "2026-03-17T01:28:42.304643"
+  },
+  {
     "date": "2026-03-16",
     "summary": "中東情勢が極めて不安定化。米イラン間の軍事衝突が継続し、イスラエルもレバノン南部で地上戦を開始。エネルギー価格高騰と供給網の混乱が世界経済に影響。ウクライナ情勢も依然として深刻。",
     "overall_risk_level": "critical",
