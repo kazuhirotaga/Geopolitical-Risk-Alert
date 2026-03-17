@@ -1,122 +1,129 @@
 {
   "date": "2026-03-17",
-  "summary": "現在の世界各地のパニック・社会不安状況は、主にエネルギー（燃料、LPG）不足に起因する大規模な抗議活動やパニック買いが顕著です。特にオーストラリアやインド、タイでは、燃料供給の混乱が市民生活に直接的な影響を与え、緊迫度が増しています。カンボジアでは取り付け騒ぎが発生したものの、広範な金融パニックには至っていません。全体としては、地域ごとのエネルギー供給体制の脆弱性が社会不安を増幅させている状態です。",
-  "global_panic_index": 60,
+  "summary": "世界各地では、エネルギー不足と金融不安が社会心理的な緊張を高めています。特に南アジアではLPGやCNGの深刻な不足が広範な抗議活動や経済活動の停滞を招き、東南アジアでは銀行の取り付け騒ぎや燃料のパニック買いが発生し、住民の不安が顕在化しています。北米やヨーロッパでは特定の食料品や社会インフラの不足が見られますが、広範なパニックには至っておらず、東アジアは比較的安定した状況です。全体としては、生活必需品や金融システムへの不信感が社会不安の主要因となっています。",
+  "global_panic_index": 68,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "特定の食料品不足",
+      "region": "southeast_asia",
+      "panic_index": 80,
+      "status": "volatile",
+      "main_cause": "金融不安、エネルギー不足",
       "incidents": [
         {
-          "title": "ラマダン中のハラール肉不足",
-          "location": "米国",
-          "severity": 30,
-          "description": "米国でイスラム系フードパントリーがラマダン中にハラール肉不足に直面しています。地域住民への影響はあるものの、広範囲な食料パニックには至っていません。",
+          "title": "銀行の取り付け騒ぎと当局による沈静化",
+          "location": "Cambodia",
+          "severity": 80,
+          "description": "APD銀行で取り付け騒ぎが発生し、公衆の間に不安が広がった。規制当局は国民の不安を鎮静化するため声明を発表し、金融システムの安定を強調している。",
+          "source": "Cambodianess"
+        },
+        {
+          "title": "タイ国境での燃料パニック買いとガソリンスタンド枯渇",
+          "location": "Tak, Thailand",
+          "severity": 85,
+          "description": "タイ国境のタク地域でディーゼル燃料のパニック買いが発生し、ガソリンスタンドが枯渇。数時間にわたる車の長蛇の列が発生し、移動にも影響が出ている。",
+          "source": "Pattaya Mail"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "エネルギー不足 (LPG/CNG)",
+      "incidents": [
+        {
+          "title": "LPG不足でムンバイのレストランが閉鎖",
+          "location": "Mumbai, India",
+          "severity": 80,
+          "description": "インドのムンバイでLPG（液化石油ガス）が深刻に不足し、約20%のレストランが閉鎖に追い込まれた。主要なエネルギー源の不足が経済活動に大きな打撃を与えている。",
+          "source": "MSN"
+        },
+        {
+          "title": "都市部で深刻なLPG不足が蔓延",
+          "location": "India",
+          "severity": 85,
+          "description": "インドの各都市でLPGの深刻な不足が報告されており、日常生活や経済活動に広範な影響が出ている。政府や供給業者への不満が高まり、各地で抗議活動が行われている。",
+          "source": "Tribune India"
+        },
+        {
+          "title": "LPG/CNG不足でオート/タクシー運転手が苦境",
+          "location": "India",
+          "severity": 80,
+          "description": "LPGおよびCNGの不足により、インドのオートリキシャやタクシー運転手が長時間の燃料待ちや収入減に直面。燃料スタンド前には長蛇の列ができ、市民生活にも影響が出ている。",
+          "source": "MSN"
+        },
+        {
+          "title": "LPG不足に対する野党の抗議デモと閣僚辞任要求",
+          "location": "Delhi, India",
+          "severity": 60,
+          "description": "デリーで野党コングレス党員がLPG不足に抗議するデモを実施し、担当大臣の辞任を要求。エネルギー不足が政治問題化し、国民の不満が高まっていることを示唆している。",
+          "source": "The News Mill"
+        },
+        {
+          "title": "LPG不足に対抗し、代替燃料として石炭を配布",
+          "location": "Bhopal, India",
+          "severity": 75,
+          "description": "ボパールでMPコングレスがLPG不足に抗議し、代替燃料として石炭を店舗に配布。これはLPG不足が深刻化し、代替手段が必要とされるレベルに達していることを示している。",
+          "source": "ANI News"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "食料品不足",
+      "incidents": [
+        {
+          "title": "ラマダン中のハラール肉不足に直面するフードパントリー",
+          "location": "US",
+          "severity": 45,
+          "description": "ラマダン期間中に米国のある地域のムスリム系フードパントリーがハラール肉の不足に直面。特定のコミュニティだが、食料不安の一端が垣間見える。",
           "source": "The Union Democrat"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "労働争議、経済的懸念",
-      "incidents": [
-        {
-          "title": "ドイツ・コメルツ銀行従業員による抗議デモ",
-          "location": "ドイツ",
-          "severity": 40,
-          "description": "ドイツのコメルツ銀行従業員が株主総会の外で抗議デモを実施しました。銀行システム全体へのパニックというよりは、労働条件や企業運営に対する不満表明と見られます。",
-          "source": "IslanderNews.com"
-        },
-        {
-          "title": "英国でのフードバンク支援活動",
-          "location": "英国ロンドン",
-          "severity": 20,
-          "description": "英国でフードバンク支援のチャリティマラソンが開催されました。食料支援の必要性を示唆するものの、直接的な食料パニック状況ではありません。",
-          "source": "CornishStuff"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "エネルギー不足（LPG）",
-      "incidents": [
-        {
-          "title": "インド全土でLPG不足に対する大規模抗議デモ",
-          "location": "インド（デリー、コルカタ、パンジャブなど各地）",
-          "severity": 75,
-          "description": "インド各地で液化石油ガス（LPG）の供給不足に対し、野党議員や市民が大規模な抗議デモを実施。一部では混乱や衝突も発生しており、国民生活に深刻な影響を与えています。",
-          "source": "MSN, NDTV, The Economic Times 他"
-        },
-        {
-          "title": "インドIDBI銀行の株価急落",
-          "location": "インド",
-          "severity": 50,
-          "description": "インドのIDBI銀行が株式売却入札中止の報道を受け、過去2年で最悪の株価下落を記録。市場の動揺は大きいものの、取り付け騒ぎのような直接的な金融パニックには至っていません。",
-          "source": "Reuters"
-        },
-        {
-          "title": "融資完済後のNOC発行拒否に対する銀行内抗議",
-          "location": "インド マディヤ・プラデーシュ州",
-          "severity": 45,
-          "description": "融資を完済したにもかかわらずNOCが発行されないことに憤慨した農民とその家族が銀行内で抗議のダンスを披露。個別の事象ですが、金融機関への不満を示しています。",
-          "source": "Tribune India"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 60,
+      "panic_index": 35,
       "status": "unstable",
-      "main_cause": "エネルギー不足、金融不安",
+      "main_cause": "社会インフラ不足、労働問題",
       "incidents": [
         {
-          "title": "タイ国境付近での燃料パニック買いと供給不足",
-          "location": "タイ タク県国境付近",
-          "severity": 70,
-          "description": "タイ国境付近のガソリンスタンドで燃料が枯渇し、数時間にわたる自動車の長蛇の列が発生。パニック買いが継続し、地域住民の生活に混乱を招いています。",
-          "source": "Pattaya Mail"
+          "title": "ブリストルで学生寮不足、ケアホーム転用計画が浮上",
+          "location": "Bristol, UK",
+          "severity": 40,
+          "description": "イギリスのブリストルで学生寮の深刻な不足が発生し、一部のケアホームを学生寮に転用する計画が浮上。若年層の住居問題が社会的な懸念となっている。",
+          "source": "Bristol Live"
         },
         {
-          "title": "カンボジアAPD銀行の取り付け騒ぎと金融セクターの回復力",
-          "location": "カンボジア",
-          "severity": 65,
-          "description": "カンボジアでAPD銀行の取り付け騒ぎが発生しましたが、業界関係者は銀行部門全体が回復力と流動性を維持していると表明しており、広範な金融パニックは抑制されています。",
-          "source": "Kiripost"
+          "title": "フードバンクがマラソン支援を受ける、食料不安の兆候",
+          "location": "Hayle, UK",
+          "severity": 35,
+          "description": "イギリスのヘイル地域のフードバンクが、ロンドンマラソン出場者からの支援を受けることに。食料不安の兆候は存在するが、コミュニティによる支援の動きが見られる。",
+          "source": "CornishStuff"
         },
         {
-          "title": "インドネシアで銀行の「行方不明資金」を巡る抗議",
-          "location": "インドネシア",
-          "severity": 55,
-          "description": "インドネシアでカトリック教徒の信徒らが、銀行から「行方不明」となった資金について抗議デモを実施。金融機関への不信感が表面化しています。",
-          "source": "ucanews.com"
+          "title": "ドイツの銀行従業員が株主総会で抗議デモ",
+          "location": "Germany",
+          "severity": 30,
+          "description": "ドイツのコメルツ銀行の従業員が株主総会で抗議デモを実施。労働条件や経営方針への不満が背景にあるとみられ、広範な社会パニックとは異なる。",
+          "source": "IslanderNews.com"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 75,
-      "status": "critical",
-      "main_cause": "エネルギー不足（燃料）",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "サプライチェーンの懸念",
       "incidents": [
         {
-          "title": "オーストラリア全土で燃料不足とパニック買いが深刻化",
-          "location": "オーストラリア各地",
-          "severity": 80,
-          "description": "オーストラリアの数十か所のガソリンスタンドで燃料が枯渇し、パニック買いが続いています。広範囲にわたり燃料供給に支障が出ており、市民生活に大きな影響を及ぼしています。",
-          "source": "The Guardian, Female First, Herald Sun, MSN"
-        },
-        {
-          "title": "ニュージーランドでのガソリンスタンド燃料切れ",
-          "location": "ニュージーランド",
-          "severity": 70,
-          "description": "ニュージーランドのGullガソリンスタンドで燃料が枯渇し、ガソリン価格が1リットルあたり3ドルに達しました。燃料供給の不安定さが消費者の不安を高めています。",
-          "source": "1News"
+          "title": "AI需要によるチップウェハー不足、2030年まで継続予測",
+          "location": "Global (SK Hynix chief)",
+          "severity": 20,
+          "description": "SK Hynixの最高経営責任者が、AI需要の急増によりチップウェハーの不足が2030年まで続くと予測。将来的な技術供給の懸念を示しているが、現時点での直接的な社会パニックではない。",
+          "source": "Network World"
         }
       ]
     }

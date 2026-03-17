@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-03-17",
-    "summary": "原油価格の変動と中東情勢の緊迫化が市場の不確実性を高めています。暗号資産市場はボラティリティが高いものの、機関投資家の参入やETF需要の増加により回復傾向にあります。金利政策の動向にも注目が集まっています。",
+    "summary": "中東情勢緊迫化による原油価格高騰、連邦準備制度理事会（FRB）の政策決定、暗号資産市場の変動が金融市場に影響を与えている。特にイランを巡る地政学的リスクと、それに伴うインフレ圧力に注意が必要。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "none"
+      "east_asia": "low",
+      "south_america": "medium",
+      "africa": "none",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-03-17T01:29:03.556978"
+    "generated_at": "2026-03-17T13:24:16.176094"
   },
   {
     "date": "2026-03-16",

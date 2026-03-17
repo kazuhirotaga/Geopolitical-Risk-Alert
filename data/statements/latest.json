@@ -1,75 +1,75 @@
 {
   "date": "2026-03-17",
-  "summary": "本日、FRBは複数の銀行に対する申請承認と、過去の執行措置の終了を発表。個別の銀行に関するものが多く、市場全体への直接的な影響は限定的だが、金融機関の健全性維持への姿勢が示唆される。",
+  "summary": "本日は、米連邦準備制度理事会（FRB）による金融機関関連の承認・執行措置の発表が中心。個別の銀行に対する規制関連の動きであり、市場全体への直接的な影響は限定的と考えられる。",
   "statements": [
     {
-      "speaker": "Federal Reserve Board",
+      "speaker": "連邦準備制度理事会",
       "title": "米連邦準備制度理事会",
       "quote": "Equity Bankの元従業員およびFirst State Bank of Dongolaの元従業員に対する執行措置を発表する。",
-      "context": "FRBによる銀行関連の執行措置に関する発表",
-      "analysis": "個別の銀行従業員に対する執行措置であり、金融システム全体への影響は小さい。しかし、FRBが金融機関の不正行為に対して厳格な姿勢を維持していることを示す。",
+      "context": "FRBによる金融機関の元従業員に対する執行措置の発表",
+      "analysis": "個別の金融機関の元従業員に対する執行措置であり、金融システム全体への影響は小さい。コンプライアンス違反や不正行為に対するFRBの姿勢を示すものと解釈できる。",
       "importance": "low",
       "tags": [
         "金融規制",
-        "銀行"
+        "コンプライアンス"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm"
     },
     {
-      "speaker": "Federal Reserve Board",
+      "speaker": "連邦準備制度理事会",
       "title": "米連邦準備制度理事会",
       "quote": "Home BancSharesによる申請を承認する。",
-      "context": "FRBによる銀行関連の申請承認に関する発表",
-      "analysis": "Home BancSharesの申請承認は、同社の事業拡大を可能にする。ただし、個別の銀行に関するものであり、市場全体への影響は限定的。",
+      "context": "FRBによるHome BancSharesの申請承認の発表",
+      "analysis": "Home BancSharesの事業拡大や再編に関連する申請が承認されたものと考えられる。個別の金融機関の経営判断に関するものであり、市場全体への影響は限定的。",
       "importance": "low",
       "tags": [
-        "金融規制",
-        "銀行"
+        "金融機関",
+        "合併・買収"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm"
     },
     {
-      "speaker": "Federal Reserve Board",
+      "speaker": "連邦準備制度理事会",
       "title": "米連邦準備制度理事会",
       "quote": "Associated Banc-Corpによる申請を承認する。",
-      "context": "FRBによる銀行関連の申請承認に関する発表",
-      "analysis": "Associated Banc-Corpの申請承認は、同社の事業拡大を可能にする。ただし、個別の銀行に関するものであり、市場全体への影響は限定的。",
+      "context": "FRBによるAssociated Banc-Corpの申請承認の発表",
+      "analysis": "Associated Banc-Corpの事業拡大や再編に関連する申請が承認されたものと考えられる。個別の金融機関の経営判断に関するものであり、市場全体への影響は限定的。",
       "importance": "low",
       "tags": [
-        "金融規制",
-        "銀行"
+        "金融機関",
+        "合併・買収"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260311b.htm"
     },
     {
-      "speaker": "Federal Reserve Board",
+      "speaker": "連邦準備制度理事会",
       "title": "米連邦準備制度理事会",
       "quote": "FirstSun Capital Bancorpによる申請を承認する。",
-      "context": "FRBによる銀行関連の申請承認に関する発表",
-      "analysis": "FirstSun Capital Bancorpの申請承認は、同社の事業拡大を可能にする。ただし、個別の銀行に関するものであり、市場全体への影響は限定的。",
+      "context": "FRBによるFirstSun Capital Bancorpの申請承認の発表",
+      "analysis": "FirstSun Capital Bancorpの事業拡大や再編に関連する申請が承認されたものと考えられる。個別の金融機関の経営判断に関するものであり、市場全体への影響は限定的。",
       "importance": "low",
       "tags": [
-        "金融規制",
-        "銀行"
+        "金融機関",
+        "合併・買収"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260311a.htm"
     },
     {
-      "speaker": "Federal Reserve Board",
+      "speaker": "連邦準備制度理事会",
       "title": "米連邦準備制度理事会",
-      "quote": "中国工商銀行有限公司、中国工商銀行有限公司ニューヨーク支店、スタンダードチャータードPLC、およびスタンダードチャータード銀行との間の執行措置を終了する。",
-      "context": "FRBによる過去の執行措置の終了に関する発表",
-      "analysis": "中国工商銀行およびスタンダードチャータードに対する執行措置の終了は、これらの金融機関に対するFRBの懸念が解消されたことを示唆する。米中間の金融関係にわずかながらポジティブな影響を与える可能性がある。",
+      "quote": "中国工商銀行、中国工商銀行ニューヨーク支店、スタンダードチャータードPLC、およびスタンダードチャータード銀行との執行措置を終了する。",
+      "context": "FRBによる中国工商銀行およびスタンダードチャータードとの執行措置終了の発表",
+      "analysis": "過去のコンプライアンス問題が解決されたことを示唆する。中国工商銀行とスタンダードチャータードにとってはポジティブなニュースであり、今後の事業展開にプラスの影響を与える可能性がある。ただし、市場全体への影響は限定的。",
       "importance": "medium",
       "tags": [
         "金融規制",
-        "銀行",
-        "米中関係"
+        "中国",
+        "スタンダードチャータード"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260310a.htm"
     }
   ],
-  "generated_at": "2026-03-17T01:29:13.672023",
+  "generated_at": "2026-03-17T13:24:54.942850",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
