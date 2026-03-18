@@ -1,35 +1,101 @@
 {
   "date": "2026-03-18",
-  "summary": "世界各地ではエネルギー不足と金融不安が主要な社会不安要因となっています。特にインドではLPG・CNG不足が広範な地域で発生し、大規模な抗議デモ、ホテルの一斉休業、学生食堂の閉鎖など、市民生活と経済活動に深刻な影響を及ぼし「警戒状態」にあります。カンボジアでは銀行取り付け騒ぎの懸念が浮上し、当局が沈静化に動くなど金融セクターへの不信感が顕在化。中東の政治的緊張や欧州・アフリカでのインフラ・社会問題も散見され、全体的に社会秩序が不安定化し、各国政府の迅速な対応が求められる状況です。",
+  "summary": "世界各地でエネルギー供給不足が深刻化し、市民の社会不安とパニック行動が顕在化しています。特に欧州のガス、南アフリカのディーゼル、インドや東南アジアのLPG・燃料不足が広範な抗議デモやパニック買い、生活インフラへの影響を引き起こしています。中東では地政学的緊張が極めて高い状態を維持しており、地域紛争のリスクが社会全体を不安定化させています。全体として、生活必需品の供給不安と物価高騰、政治的緊張が複合的に作用し、多くの地域で市民の不満と警戒感が募っています。",
   "global_panic_index": 60,
   "regions": [
     {
-      "region": "middle_east",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "政治的・領土紛争に伴う抗議活動",
+      "region": "europe",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "エネルギー供給不安、健康不安",
       "incidents": [
         {
-          "title": "入植地解体反対デモ計画",
-          "location": "ウェストバンク",
-          "severity": 50,
-          "description": "イスラエルによる入植地解体に反対し、入植者らがウェストバンクで抗議デモを計画中。地域的な緊張が高まり、さらなる混乱が懸念されています。",
-          "source": "The Times of Israel"
+          "title": "ガス備蓄不足によるパニック買いへの懸念",
+          "location": "EU (欧州連合)",
+          "severity": 60,
+          "description": "EUではガス備蓄の低水準が続き、市民によるパニック買いへの懸念が表明されている。エネルギー供給の不安定さが生活への影響を及ぼす可能性が高まり、社会的な不安が増大している。",
+          "source": "E&E News by POLITICO"
+        },
+        {
+          "title": "髄膜炎B型ワクチンのパニック買いと品切れ",
+          "location": "英国 (推測)",
+          "severity": 70,
+          "description": "英国では髄膜炎B型ワクチンが健康不安によるパニック買いで薬局から品切れ状態となっている。特定の医療品への需要が急増し、供給が追いつかない状況が市民の不安を煽っている。",
+          "source": "The Times"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 70,
+      "region": "north_america",
+      "panic_index": 55,
       "status": "volatile",
-      "main_cause": "金融不安（取り付け騒ぎの懸念）",
+      "main_cause": "政治的・社会的問題に対する抗議活動の激化",
       "incidents": [
         {
-          "title": "銀行取り付け騒ぎの懸念と当局の対応",
-          "location": "カンボジア",
+          "title": "LAでの移民問題抗議デモによる騒乱",
+          "location": "米国、ロサンゼルス",
+          "severity": 55,
+          "description": "ロサンゼルスでは移民問題に関する抗議デモが「騒乱」状態に発展。国家警備隊の権限が言及されるなど、政治的対立が市民行動に波及し、一時的な社会秩序の混乱が見られる。",
+          "source": "AOL.com"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "エネルギー供給不安",
+      "incidents": [
+        {
+          "title": "日本の原油処理量が供給不足で8ヶ月ぶりの低水準",
+          "location": "日本",
+          "severity": 50,
+          "description": "日本では原油処理量が供給不足により8ヶ月ぶりの低水準に落ち込み、将来的なエネルギー供給の不安定性が懸念されている。市民の直接的なパニックは未報告だが、経済活動への影響が注目される。",
+          "source": "Quantum Commodity Intelligence"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 65,
+      "status": "critical",
+      "main_cause": "地政学的緊張、地域紛争",
+      "incidents": [
+        {
+          "title": "ヨルダン川西岸地区での入植者抗議計画",
+          "location": "ヨルダン川西岸地区",
+          "severity": 40,
+          "description": "ヨルダン川西岸地区では入植者が前哨基地解体に対する抗議デモを計画しており、地域内の政治的緊張が継続。長年の対立が表面化する形であり、中東情勢の不安定さを示す。",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "イスラエルがイラン高官殺害を主張",
+          "location": "イスラエル、イラン",
           "severity": 70,
-          "description": "カンボジアのAPD銀行で取り付け騒ぎの懸念が発生し、市民に強い不安が広がっています。金融当局は声明を発表し、公衆の信頼回復と状況沈静化に努めています。",
-          "source": "Cambodianess"
+          "description": "イスラエルがイランのトップ情報高官を殺害したと主張し、中東地域の地政学的緊張が極度に高まっている。これは大規模な紛争に発展しかねない事態であり、広範な社会不安を誘発している。",
+          "source": "Radio Free Europe/Radio Liberty"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 70,
+      "status": "critical",
+      "main_cause": "エネルギー不足",
+      "incidents": [
+        {
+          "title": "南アフリカ全土でディーゼル燃料切れ",
+          "location": "南アフリカ",
+          "severity": 75,
+          "description": "南アフリカ全土で複数のガソリンスタンドがディーゼル燃料切れとなり、交通や物流、主要産業に深刻な影響を及ぼしている。燃料不足は市民生活を直接脅かし、パニック買いのリスクを高めている。",
+          "source": "Cape Town ETC"
+        },
+        {
+          "title": "土地請求者の抗議デモ",
+          "location": "南アフリカ、ウェストバンク",
+          "severity": 35,
+          "description": "南アフリカのウェストバンクで、土地請求者が長年の約束不履行に対する抗議デモを実施。地方行政への不信感が背景にあり、地域社会の不満が表明されている。",
+          "source": "Daily Dispatch"
         }
       ]
     },
@@ -37,72 +103,50 @@
       "region": "south_asia",
       "panic_index": 65,
       "status": "volatile",
-      "main_cause": "エネルギー不足（LPG/CNG不足）",
+      "main_cause": "エネルギー（LPG）不足、物価高騰",
       "incidents": [
         {
-          "title": "LPG不足でホテルが事業停止を計画",
-          "location": "インド、ケララ",
-          "severity": 70,
-          "description": "インドのケララ州で、ホテル業界団体がLPG不足に抗議し、3月23日の一斉休業を発表しました。燃料不足が経済活動に深刻な打撃を与えています。",
-          "source": "CNBC TV18"
-        },
-        {
-          "title": "LPG不足で学生食堂・寮が食事提供困難",
-          "location": "インド",
+          "title": "インド各地でLPG不足と価格高騰に対する大規模抗議デモ",
+          "location": "インド各地",
           "severity": 65,
-          "description": "LPG不足の影響で、インド各地の学生食堂、ホステル、PG施設が食事提供困難に陥り、学生に自炊を要請。日常生活が大きく混乱しています。",
+          "description": "インド各地でLPG不足と価格高騰に対し、広範な抗議デモが発生。一部ホテルが営業停止を計画するなど、必須生活物資の供給不安が市民の不満と生活困難を深刻化させている。",
+          "source": "MSN, The News Mill 他"
+        },
+        {
+          "title": "LPG不足による食堂・寮の運営困難",
+          "location": "インド (推測)",
+          "severity": 55,
+          "description": "インドではLPG不足が原因で、学校の食堂や学生寮が運営できなくなり、学生に食事の自己調達を要求。個人の日常生活に直接的な困難をもたらし、特に学生に大きな負担を与えている。",
           "source": "MSN"
-        },
-        {
-          "title": "LPG/CNG不足が交通機関を直撃",
-          "location": "インド",
-          "severity": 65,
-          "description": "LPGとCNGの不足により、オートリキシャやタクシー運転手が長時間の列や乗車拒否に直面し、生計に深刻な影響。都市交通にも混乱が生じています。",
-          "source": "MSN"
-        },
-        {
-          "title": "LPG不足への抗議デモと石炭配布",
-          "location": "インド、ボパール",
-          "severity": 60,
-          "description": "インドのボパールでマディヤ・プラデーシュ州コングレス党がLPG不足に抗議し、商店主らに石炭を配布。政府への圧力を強め、状況の深刻さを訴えています。",
-          "source": "ET EnergyWorld"
-        },
-        {
-          "title": "LPG不足抗議デモで大臣辞任要求",
-          "location": "インド、デリー",
-          "severity": 60,
-          "description": "インドのデリーでコングレス党員らがLPG不足に抗議し、担当大臣の辞任を要求。エネルギー危機が政府への不満を募らせ、政治的緊張が高まっています。",
-          "source": "The News Mill"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "住居不足",
+      "region": "southeast_asia",
+      "panic_index": 55,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、交通インフラの機能不全",
       "incidents": [
         {
-          "title": "学生用ベッドの深刻な不足と対策計画",
-          "location": "英国、ブリストル",
-          "severity": 45,
-          "description": "英国ブリストルで学生用ベッドが「深刻に不足」しており、ケアホームへの転換計画が浮上。学生の生活環境と都市計画に影響を与えています。",
-          "source": "Bristol Live"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "過去の警察対応への不信感",
-      "incidents": [
+          "title": "タイ・チョンブリでの燃料不足抗議デモ",
+          "location": "タイ、チョンブリ",
+          "severity": 60,
+          "description": "タイのチョンブリで、燃料不足に抗議するため1000台のトラックが大規模デモを実施。経済活動の停滞を招き、燃料供給問題が市民生活と産業に与える深刻な影響を浮き彫りにしている。",
+          "source": "Thaiger"
+        },
         {
-          "title": "2020年デモでの警察による銃撃事件が未解決",
-          "location": "南アフリカ、ラマフォーサ",
-          "severity": 40,
-          "description": "2020年の抗議デモ中に警察に銃撃されたとされるラマフォーサ居住者に関する真相究明が未だ進まず。警察への不信感と社会的な緊張が継続しています。",
-          "source": "The Citizen"
+          "title": "燃料不足による全国停電デマの拡散",
+          "location": "フィリピン (推測)",
+          "severity": 50,
+          "description": "フィリピンでは燃料不足による全国的な停電に関するデマが拡散。ファクトチェックの対象となるほど市民の不安が高まっており、情報が不確かな状況下での混乱が社会不安を増幅させている。",
+          "source": "VERA Files"
+        },
+        {
+          "title": "バングラデシュでの機関車不足による列車運行制限",
+          "location": "バングラデシュ、チャットグラム",
+          "severity": 30,
+          "description": "バングラデシュのチャットグラムで機関車不足のため、祝祭日特別列車の運行が限定的となっている。交通インフラの機能不全は、多くの人々の移動に支障をきたし、軽微な混乱と不満を引き起こしている。",
+          "source": "The Daily Star"
         }
       ]
     }
