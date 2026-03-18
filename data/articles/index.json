@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-18",
+    "summary": "中東情勢が急速に悪化。イスラエルによるイラン高官暗殺を契機に、イランがイスラエルへ報復攻撃。原油価格高騰、米国の対イラン政策を巡る国内対立、同盟国との連携の綻びなど、地政学的リスクが極めて高い状況。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "high",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "medium",
+      "africa": "medium",
+      "north_america": "high",
+      "south_america": "low"
+    },
+    "generated_at": "2026-03-18T01:44:41.800043"
+  },
+  {
     "date": "2026-03-17",
     "summary": "中東情勢が極めて不安定化。イスラエルによるイラン高官殺害を受け、報復攻撃のリスクが高まる。ウクライナ侵攻も継続し、世界経済への影響が深刻化。アフガニスタン、南スーダンなど各地で紛争が頻発し、人道危機が深刻化している。",
     "overall_risk_level": "critical",

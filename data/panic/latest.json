@@ -1,129 +1,108 @@
 {
-  "date": "2026-03-17",
-  "summary": "世界各地では、エネルギー不足と金融不安が社会心理的な緊張を高めています。特に南アジアではLPGやCNGの深刻な不足が広範な抗議活動や経済活動の停滞を招き、東南アジアでは銀行の取り付け騒ぎや燃料のパニック買いが発生し、住民の不安が顕在化しています。北米やヨーロッパでは特定の食料品や社会インフラの不足が見られますが、広範なパニックには至っておらず、東アジアは比較的安定した状況です。全体としては、生活必需品や金融システムへの不信感が社会不安の主要因となっています。",
-  "global_panic_index": 68,
+  "date": "2026-03-18",
+  "summary": "世界各地ではエネルギー不足と金融不安が主要な社会不安要因となっています。特にインドではLPG・CNG不足が広範な地域で発生し、大規模な抗議デモ、ホテルの一斉休業、学生食堂の閉鎖など、市民生活と経済活動に深刻な影響を及ぼし「警戒状態」にあります。カンボジアでは銀行取り付け騒ぎの懸念が浮上し、当局が沈静化に動くなど金融セクターへの不信感が顕在化。中東の政治的緊張や欧州・アフリカでのインフラ・社会問題も散見され、全体的に社会秩序が不安定化し、各国政府の迅速な対応が求められる状況です。",
+  "global_panic_index": 60,
   "regions": [
     {
-      "region": "southeast_asia",
-      "panic_index": 80,
-      "status": "volatile",
-      "main_cause": "金融不安、エネルギー不足",
+      "region": "middle_east",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "政治的・領土紛争に伴う抗議活動",
       "incidents": [
         {
-          "title": "銀行の取り付け騒ぎと当局による沈静化",
-          "location": "Cambodia",
-          "severity": 80,
-          "description": "APD銀行で取り付け騒ぎが発生し、公衆の間に不安が広がった。規制当局は国民の不安を鎮静化するため声明を発表し、金融システムの安定を強調している。",
-          "source": "Cambodianess"
-        },
+          "title": "入植地解体反対デモ計画",
+          "location": "ウェストバンク",
+          "severity": 50,
+          "description": "イスラエルによる入植地解体に反対し、入植者らがウェストバンクで抗議デモを計画中。地域的な緊張が高まり、さらなる混乱が懸念されています。",
+          "source": "The Times of Israel"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "金融不安（取り付け騒ぎの懸念）",
+      "incidents": [
         {
-          "title": "タイ国境での燃料パニック買いとガソリンスタンド枯渇",
-          "location": "Tak, Thailand",
-          "severity": 85,
-          "description": "タイ国境のタク地域でディーゼル燃料のパニック買いが発生し、ガソリンスタンドが枯渇。数時間にわたる車の長蛇の列が発生し、移動にも影響が出ている。",
-          "source": "Pattaya Mail"
+          "title": "銀行取り付け騒ぎの懸念と当局の対応",
+          "location": "カンボジア",
+          "severity": 70,
+          "description": "カンボジアのAPD銀行で取り付け騒ぎの懸念が発生し、市民に強い不安が広がっています。金融当局は声明を発表し、公衆の信頼回復と状況沈静化に努めています。",
+          "source": "Cambodianess"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 75,
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "エネルギー不足 (LPG/CNG)",
+      "main_cause": "エネルギー不足（LPG/CNG不足）",
       "incidents": [
         {
-          "title": "LPG不足でムンバイのレストランが閉鎖",
-          "location": "Mumbai, India",
-          "severity": 80,
-          "description": "インドのムンバイでLPG（液化石油ガス）が深刻に不足し、約20%のレストランが閉鎖に追い込まれた。主要なエネルギー源の不足が経済活動に大きな打撃を与えている。",
+          "title": "LPG不足でホテルが事業停止を計画",
+          "location": "インド、ケララ",
+          "severity": 70,
+          "description": "インドのケララ州で、ホテル業界団体がLPG不足に抗議し、3月23日の一斉休業を発表しました。燃料不足が経済活動に深刻な打撃を与えています。",
+          "source": "CNBC TV18"
+        },
+        {
+          "title": "LPG不足で学生食堂・寮が食事提供困難",
+          "location": "インド",
+          "severity": 65,
+          "description": "LPG不足の影響で、インド各地の学生食堂、ホステル、PG施設が食事提供困難に陥り、学生に自炊を要請。日常生活が大きく混乱しています。",
           "source": "MSN"
         },
         {
-          "title": "都市部で深刻なLPG不足が蔓延",
-          "location": "India",
-          "severity": 85,
-          "description": "インドの各都市でLPGの深刻な不足が報告されており、日常生活や経済活動に広範な影響が出ている。政府や供給業者への不満が高まり、各地で抗議活動が行われている。",
-          "source": "Tribune India"
-        },
-        {
-          "title": "LPG/CNG不足でオート/タクシー運転手が苦境",
-          "location": "India",
-          "severity": 80,
-          "description": "LPGおよびCNGの不足により、インドのオートリキシャやタクシー運転手が長時間の燃料待ちや収入減に直面。燃料スタンド前には長蛇の列ができ、市民生活にも影響が出ている。",
+          "title": "LPG/CNG不足が交通機関を直撃",
+          "location": "インド",
+          "severity": 65,
+          "description": "LPGとCNGの不足により、オートリキシャやタクシー運転手が長時間の列や乗車拒否に直面し、生計に深刻な影響。都市交通にも混乱が生じています。",
           "source": "MSN"
         },
         {
-          "title": "LPG不足に対する野党の抗議デモと閣僚辞任要求",
-          "location": "Delhi, India",
+          "title": "LPG不足への抗議デモと石炭配布",
+          "location": "インド、ボパール",
           "severity": 60,
-          "description": "デリーで野党コングレス党員がLPG不足に抗議するデモを実施し、担当大臣の辞任を要求。エネルギー不足が政治問題化し、国民の不満が高まっていることを示唆している。",
-          "source": "The News Mill"
+          "description": "インドのボパールでマディヤ・プラデーシュ州コングレス党がLPG不足に抗議し、商店主らに石炭を配布。政府への圧力を強め、状況の深刻さを訴えています。",
+          "source": "ET EnergyWorld"
         },
         {
-          "title": "LPG不足に対抗し、代替燃料として石炭を配布",
-          "location": "Bhopal, India",
-          "severity": 75,
-          "description": "ボパールでMPコングレスがLPG不足に抗議し、代替燃料として石炭を店舗に配布。これはLPG不足が深刻化し、代替手段が必要とされるレベルに達していることを示している。",
-          "source": "ANI News"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "食料品不足",
-      "incidents": [
-        {
-          "title": "ラマダン中のハラール肉不足に直面するフードパントリー",
-          "location": "US",
-          "severity": 45,
-          "description": "ラマダン期間中に米国のある地域のムスリム系フードパントリーがハラール肉の不足に直面。特定のコミュニティだが、食料不安の一端が垣間見える。",
-          "source": "The Union Democrat"
+          "title": "LPG不足抗議デモで大臣辞任要求",
+          "location": "インド、デリー",
+          "severity": 60,
+          "description": "インドのデリーでコングレス党員らがLPG不足に抗議し、担当大臣の辞任を要求。エネルギー危機が政府への不満を募らせ、政治的緊張が高まっています。",
+          "source": "The News Mill"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 35,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "社会インフラ不足、労働問題",
+      "main_cause": "住居不足",
       "incidents": [
         {
-          "title": "ブリストルで学生寮不足、ケアホーム転用計画が浮上",
-          "location": "Bristol, UK",
-          "severity": 40,
-          "description": "イギリスのブリストルで学生寮の深刻な不足が発生し、一部のケアホームを学生寮に転用する計画が浮上。若年層の住居問題が社会的な懸念となっている。",
+          "title": "学生用ベッドの深刻な不足と対策計画",
+          "location": "英国、ブリストル",
+          "severity": 45,
+          "description": "英国ブリストルで学生用ベッドが「深刻に不足」しており、ケアホームへの転換計画が浮上。学生の生活環境と都市計画に影響を与えています。",
           "source": "Bristol Live"
-        },
-        {
-          "title": "フードバンクがマラソン支援を受ける、食料不安の兆候",
-          "location": "Hayle, UK",
-          "severity": 35,
-          "description": "イギリスのヘイル地域のフードバンクが、ロンドンマラソン出場者からの支援を受けることに。食料不安の兆候は存在するが、コミュニティによる支援の動きが見られる。",
-          "source": "CornishStuff"
-        },
-        {
-          "title": "ドイツの銀行従業員が株主総会で抗議デモ",
-          "location": "Germany",
-          "severity": 30,
-          "description": "ドイツのコメルツ銀行の従業員が株主総会で抗議デモを実施。労働条件や経営方針への不満が背景にあるとみられ、広範な社会パニックとは異なる。",
-          "source": "IslanderNews.com"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 20,
-      "status": "stable",
-      "main_cause": "サプライチェーンの懸念",
+      "region": "africa",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "過去の警察対応への不信感",
       "incidents": [
         {
-          "title": "AI需要によるチップウェハー不足、2030年まで継続予測",
-          "location": "Global (SK Hynix chief)",
-          "severity": 20,
-          "description": "SK Hynixの最高経営責任者が、AI需要の急増によりチップウェハーの不足が2030年まで続くと予測。将来的な技術供給の懸念を示しているが、現時点での直接的な社会パニックではない。",
-          "source": "Network World"
+          "title": "2020年デモでの警察による銃撃事件が未解決",
+          "location": "南アフリカ、ラマフォーサ",
+          "severity": 40,
+          "description": "2020年の抗議デモ中に警察に銃撃されたとされるラマフォーサ居住者に関する真相究明が未だ進まず。警察への不信感と社会的な緊張が継続しています。",
+          "source": "The Citizen"
         }
       ]
     }

@@ -1,5 +1,105 @@
 [
   {
+    "date": "2026-03-18",
+    "summary": "アメリカとイラン間の緊張が継続。ホルムズ海峡を巡る各国の思惑が交錯し、中東地域での軍事的緊張が高まっている。ウクライナではAI技術の軍事利用が進む一方、ヨーロッパではNATOの軍事演習が行われている。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-03-16",
+        "location": "サウジアラビア",
+        "region": "middle_east",
+        "title": "イランによるミサイル攻撃、KC-135空中給油機5機に損傷",
+        "content": "イランがサウジアラビア国内の飛行場にミサイル攻撃を実施。KC-135空中給油機5機が駐機中に損傷を受けた。航空機の破壊は免れた模様。",
+        "involved_parties": [
+          "イラン",
+          "サウジアラビア"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-03-14",
+        "location": "ハルグ島",
+        "region": "middle_east",
+        "title": "アメリカ軍、イランの主要な島を爆撃",
+        "content": "アメリカ軍がイランの石油拠点であるハルグ島に対して爆撃を実施。トランプ大統領は、島内の全ての軍事目標を「完全に破壊した」と発表。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/2026/03/14/us-bombs-key-iranian-island-amid-oil-concerns/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-03-13",
+        "location": "イラク西部",
+        "region": "middle_east",
+        "title": "アメリカ軍KC-135空中給油機がイラクで墜落、乗員6名全員死亡",
+        "content": "アメリカ中央軍（CENTCOM）は、イラク西部でKC-135空中給油機が墜落し、搭乗していた6名の乗員全員が死亡したと発表。",
+        "involved_parties": [
+          "アメリカ"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/13/four-us-airmen-killed-in-kc-135-crash-in-iraq/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-03-11",
+        "location": "Evenes, Norway",
+        "region": "europe",
+        "title": "ノルウェー軍F-35戦闘機、NATO演習中にロシアの偵察機を捕捉",
+        "content": "NATOのCold Response 2026演習中に、ノルウェー軍のF-35戦闘機がロシアの偵察機を捕捉し、迎撃した。",
+        "involved_parties": [
+          "ノルウェー",
+          "ロシア"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/11/norwegian-f-35s-intercept-russian-spy-aircraft-during-nato-drill/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-03-13",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエル軍によるレバノンへの爆撃",
+        "content": "イスラエル軍がレバノンを爆撃。レバノン政府は国内の混乱を避けようとしている。レバノン軍はイスラエルによる爆撃下でヒズボラの武器を捜索できる状況にない。",
+        "involved_parties": [
+          "イスラエル",
+          "レバノン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/13/lebanese-government-tries-to-avoid-internal-strife-amid-israeli-bombardment/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-03-16",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "インドのタンカー2隻、ホルムズ海峡を安全に通過",
+        "content": "インドがエネルギー輸入を確保するため外交的働きかけを強化した後、インドのタンカー2隻がホルムズ海峡を土曜日に安全に通過した。",
+        "involved_parties": [
+          "インド"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/16/two-india-carriers-secure-safe-passage-through-strait-of-hormuz/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-17",
     "summary": "アメリカ軍とイランの間で軍事衝突が激化。イランはサウジアラビアのKC-135タンカーをミサイル攻撃。アメリカ軍はイランの石油拠点であるハルグ島を爆撃。中東地域への戦力増強も確認。",
     "events": [

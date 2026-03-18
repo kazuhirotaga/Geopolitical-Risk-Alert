@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-03-18",
+    "summary": "中東情勢の緊迫化、米国の金融政策決定、暗号資産市場の規制動向が金融市場に影響を与えています。特に中東の地政学的リスクと原油価格の高騰が懸念されます。米国の金利政策は市場の変動要因として注視されています。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "medium",
+      "north_america": "low",
+      "europe": "low",
+      "east_asia": "low",
+      "south_america": "low",
+      "africa": "none",
+      "middle_east": "critical"
+    },
+    "generated_at": "2026-03-18T01:45:06.738996"
+  },
+  {
     "date": "2026-03-17",
     "summary": "中東情勢緊迫化による原油価格高騰、連邦準備制度理事会（FRB）の政策決定、暗号資産市場の変動が金融市場に影響を与えている。特にイランを巡る地政学的リスクと、それに伴うインフレ圧力に注意が必要。",
     "overall_risk_level": "high",
