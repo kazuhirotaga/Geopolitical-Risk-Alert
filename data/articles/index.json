@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-03-19",
-    "summary": "中東情勢が極めて不安定化。イランとイスラエルの攻撃応酬が激化し、エネルギー施設への被害も発生。ウクライナ情勢も膠着状態が続き、世界経済への影響が懸念される。米国の対応と各国の連携が重要。",
-    "overall_risk_level": "critical",
+    "summary": "中東における米国・イスラエルとイランの軍事衝突が激化し、エネルギー供給網への攻撃や民間人への被害が拡大。ウクライナ情勢も膠着状態が続く。日米首脳会談ではイラン情勢や経済安保が議題となる見込みで、地政学的リスクは全体的に高い。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "low",
-      "south_asia": "high",
+      "southeast_asia": "none",
+      "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
-      "africa": "none",
+      "europe": "high",
+      "africa": "medium",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-03-19T01:45:13.718150"
+    "generated_at": "2026-03-19T13:09:37.670397"
   },
   {
     "date": "2026-03-18",
