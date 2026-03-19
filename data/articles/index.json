@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-19",
+    "summary": "中東情勢が極めて不安定化。イランとイスラエルの攻撃応酬が激化し、エネルギー施設への被害も発生。ウクライナ情勢も膠着状態が続き、世界経済への影響が懸念される。米国の対応と各国の連携が重要。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "high",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "medium",
+      "africa": "none",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-03-19T01:45:13.718150"
+  },
+  {
     "date": "2026-03-18",
     "summary": "中東情勢が極めて不安定化。アメリカとイランの軍事衝突が激化し、イスラエルによるイラン高官暗殺も発生。ウクライナ情勢も依然として緊迫しており、世界的な食糧危機やエネルギー価格高騰のリスクが高まっている。",
     "overall_risk_level": "critical",

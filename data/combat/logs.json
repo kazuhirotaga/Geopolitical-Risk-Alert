@@ -1,5 +1,153 @@
 [
   {
+    "date": "2026-03-19",
+    "summary": "中東地域における緊張が継続。イランへの攻撃と防衛措置が相次ぎ、ホルムズ海峡の安全確保を巡る動きも活発化。ウクライナではAI技術の軍事利用が進展。トルコへのNATOによる防衛支援も強化されている。",
+    "events": [
+      {
+        "id": "event_20260316_01",
+        "timestamp": "2026-03-16",
+        "location": "サウジアラビア",
+        "region": "middle_east",
+        "title": "イランによるミサイル攻撃、サウジアラビアのKC-135タンカー5機に損害",
+        "content": "イランがミサイル攻撃を実施。サウジアラビアに駐機中のKC-135空中給油機5機が損傷を受けた。機体は破壊を免れた模様。",
+        "involved_parties": [
+          "イラン",
+          "サウジアラビア"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/"
+      },
+      {
+        "id": "event_20260314_01",
+        "timestamp": "2026-03-14",
+        "location": "イラン・ハルグ島",
+        "region": "middle_east",
+        "title": "アメリカ軍、イランの主要な島を爆撃",
+        "content": "アメリカ軍が、イランの石油拠点であるハルグ島に対し爆撃を実施。トランプ大統領は、島の全ての軍事目標を「完全に破壊した」と発表。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/2026/03/14/us-bombs-key-iranian-island-amid-oil-concerns/"
+      },
+      {
+        "id": "event_20260313_01",
+        "timestamp": "2026-03-13",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエルによるレバノンへの爆撃",
+        "content": "イスラエルがレバノンを爆撃。レバノン軍は、イスラエルの爆撃下でヒズボラの武器を捜索することが困難な状況。",
+        "involved_parties": [
+          "イスラエル",
+          "レバノン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/13/lebanese-government-tries-to-avoid-internal-strife-amid-israeli-bombardment/"
+      },
+      {
+        "id": "event_20260313_02",
+        "timestamp": "2026-03-13",
+        "location": "イラク西部",
+        "region": "middle_east",
+        "title": "アメリカ軍KC-135空中給油機がイラクで墜落、搭乗員6名全員死亡",
+        "content": "アメリカ軍のKC-135空中給油機がイラク西部で墜落。搭乗していた6名全員が死亡したとCENTCOMが発表。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/13/four-us-airmen-killed-in-kc-135-crash-in-iraq/"
+      },
+      {
+        "id": "event_20260318_01",
+        "timestamp": "2026-03-18",
+        "location": "トルコ",
+        "region": "europe",
+        "title": "トルコ、イランのミサイルに対抗するため3基目のNATOパトリオットシステムを配備",
+        "content": "トルコが、イランのミサイル攻撃に対抗するため、3基目のNATOパトリオットミサイルシステムを配備。トルコに配備されたNATOのパトリオットバッテリーの数は合計3基となる。",
+        "involved_parties": [
+          "トルコ",
+          "NATO",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/18/turkey-deploys-third-nato-patriot-system-to-repel-iranian-missiles/"
+      },
+      {
+        "id": "event_20260312_01",
+        "timestamp": "2026-03-12",
+        "location": "トルコ",
+        "region": "europe",
+        "title": "NATO、トルコの主要な防空レーダーを保護するためパトリオットシステムを派遣",
+        "content": "NATOが、トルコの重要な防空レーダーを保護するため、2基目のパトリオットミサイルシステムを派遣。ドイツ・ラムシュタインのNATO連合空軍司令部から派遣された。",
+        "involved_parties": [
+          "NATO",
+          "トルコ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/12/nato-sends-patriot-system-to-protect-key-air-defense-radar-in-turkey/"
+      },
+      {
+        "id": "event_20260316_02",
+        "timestamp": "2026-03-16",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "インドの空母2隻がホルムズ海峡を安全に通過",
+        "content": "インドのタンカー2隻が、ニューデリーがエネルギー輸入を確保するために外交的関与を強化した後、土曜日に海峡を通過。",
+        "involved_parties": [
+          "インド"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/16/two-india-carriers-secure-safe-passage-through-strait-of-hormuz/"
+      },
+      {
+        "id": "event_20260313_03",
+        "timestamp": "2026-03-13",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ、実戦AIデータを同盟国に公開",
+        "content": "ウクライナは、自律型ドローンシステムのAIモデルを訓練するため、国際的なパートナーや防衛企業に実際の戦闘データへのアクセスを提供。",
+        "involved_parties": [
+          "ウクライナ",
+          "国際的パートナー"
+        ],
+        "event_type": "cyber",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/ukraine/2026/03/13/ukraine-opens-battlefield-ai-data-to-allies-in-world-first-move/"
+      },
+      {
+        "id": "event_20260316_03",
+        "timestamp": "2026-03-16",
+        "location": "北極圏",
+        "region": "europe",
+        "title": "ノルウェーの精鋭部隊、ドローンから身を隠すため雪洞を掘る",
+        "content": "敵のドローンから身を隠すほか、ノルウェーの偵察兵は敵を偵察するために独自の無人機を試験的に使用。",
+        "involved_parties": [
+          "ノルウェー"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/16/norways-elite-arctic-soldiers-still-dig-their-own-snow-caves-to-hide-from-drones/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-18",
     "summary": "中東地域におけるイランとアメリカの軍事衝突が激化。ホルムズ海峡の封鎖を巡る緊張が高まる。ウクライナではAI技術を用いた戦闘データ共有が開始。NATOはトルコにパトリオットミサイルシステムを配備。",
     "events": [
