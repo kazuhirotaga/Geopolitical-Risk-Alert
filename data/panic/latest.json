@@ -1,100 +1,115 @@
 {
   "date": "2026-03-20",
-  "summary": "今回のニュース分析では、中東地域での地政学的緊張とエネルギーインフラへの攻撃、および南アジア（特にインド）における広範なLPG/CNG不足が、社会不安と抗議活動の主要因として浮上しています。オーストラリアの一部地域でも燃料不足がエスカレートしており、生活必需品・エネルギー供給の不安定さが特定の地域で住民の警戒心を高めています。金融システム全体に対する大規模な混乱や、社会秩序が崩壊するようなパニックは確認されていませんが、これらの地域では「不安の増大」から「警戒状態」にあると言えます。",
-  "global_panic_index": 58,
+  "summary": "世界各地で多岐にわたる社会不安が顕在化しています。中東では政治的抑圧と戦争状態下での大規模な抗議活動が続き、特にイランでは参加者への弾圧が深刻化し、社会の緊迫度が極めて高まっています。南アジアではエネルギー（LPG/ガス）不足が広範囲に及び、大規模な抗議デモが頻発し、生活に直接的な影響を及ぼしています。オーストラリアではディーゼル燃料の深刻な供給不足が発生し、広範な経済活動への懸念が高まっています。アフリカでは銀行に対する抗議デモの計画や独立記念日前夜の不安が報じられ、金融不安や社会の不安定化の兆候が見られます。キューバでは燃料不足が深刻化し、北米の一部では学生の食料不安が増大。全体として、エネルギー供給の不安定化が多くの地域で人々の生活と社会秩序に影響を及ぼしており、世界的な緊迫度は高まっていると評価されます。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "middle_east",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "地政学的紛争、エネルギー供給の不安定化、政府による情報統制",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "政治的抑圧、戦争、大規模抗議活動",
       "incidents": [
         {
-          "title": "Iran tightens blackout before protest-prone festival",
+          "title": "イランにおける継続的な抗議と政府による弾圧",
           "location": "イラン",
-          "severity": 75,
-          "description": "抗議活動が予想される祭りを前に、政府が情報統制を強化。市民の自由が制限され、社会不安が高まる兆候。",
-          "source": "MSN"
+          "severity": 90,
+          "description": "2025-2026年にかけてイランでは政府の抑圧と戦争状態にもかかわらず、社会の連続的な抗議活動が続いており、政権は19歳のレスリング選手を含むデモ参加者3名を処刑するなど、厳しい弾圧を行っている。これにより国民の間に深い絶望と怒りが広がっている。",
+          "source": "irannewsupdate.com, Republic World"
         },
         {
-          "title": "Israel: Haifa Oil Refinery Hit By Iranian Missile",
-          "location": "イスラエル、ハイファ",
-          "severity": 80,
-          "description": "イランによるミサイル攻撃で主要な石油精製施設が被弾。中東紛争の激化とエネルギー供給網への直接的な脅威が市民の不安を煽る。",
-          "source": "Radio Free Europe/Radio Liberty"
+          "title": "ヨルダン川西岸における入植者による抗議計画",
+          "location": "ヨルダン川西岸",
+          "severity": 65,
+          "description": "入植地撤去に反対する入植者たちがヨルダン川西岸で抗議デモを計画しており、地域の緊張がさらに高まる可能性を示唆している。これは地政学的不安定要因の一部であり、広範な紛争に繋がりかねない。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 65,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "エネルギー（LPG/CNG）不足、生活への影響、大規模な抗議活動",
+      "main_cause": "エネルギー不足（LPG/燃料）、物価高騰、大規模抗議デモ",
       "incidents": [
         {
-          "title": "LPG Shortage Shuts Private Eateries; Congress stages protest over gas crunch",
-          "location": "インド、ティルマラ他",
-          "severity": 70,
-          "description": "米国・イスラエルとイランの紛争がLPG不足に拍車をかけ、一部の飲食店が閉鎖。野党議員や市民がガス不足に対する大規模な抗議デモを展開している。",
-          "source": "Deccan Chronicle, The Times of India"
+          "title": "インド各地でのLPG不足と大規模抗議デモ",
+          "location": "インド（チェンナイ、ティルマラ、デリー、タミル・ナードゥ他）",
+          "severity": 78,
+          "description": "インドではLPGやガス燃料の不足が深刻化し、チェンナイ、デリー、タミル・ナードゥ州などで野党や市民団体による大規模な抗議デモが頻発。中東紛争の影響による供給不安も報じられ、飲食店閉鎖など生活への直接的な影響も出ており、社会不安が急速に高まっている。",
+          "source": "The News Mill, Deccan Chronicle, The Times of India, MSN"
         },
         {
-          "title": "Long queues, lost trips: LPG, CNG shortage hits auto & cab drivers hard",
-          "location": "インド",
-          "severity": 75,
-          "description": "LPGとCNGの深刻な不足により、タクシーやオートリキシャの運転手が長時間の列に並び、運行停止が頻発。市民生活や交通インフラに大きな影響が出ている。",
-          "source": "MSN"
-        },
-        {
-          "title": "Opposition MPs protest LPG shortage during Parliament budget session",
-          "location": "インド、デリー",
-          "severity": 65,
-          "description": "国会議事堂内でも野党議員がLPG不足に対し、大臣の辞任を要求する抗議活動を実施。全国的な社会不安と政治問題化が進行。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "DMK-led alliance protests LPG shortage in Tamil Nadu",
-          "location": "インド、タミル・ナードゥ州",
-          "severity": 65,
-          "description": "DMK主導の連立政権がタミル・ナードゥ州でLPG不足に対する抗議デモを実施。地方レベルでも広範な不満が爆発している。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "No LPG cylinder shortage in Bihar, queues outside agencies result of Congress ‘propaganda’",
-          "location": "インド、ビハール州",
+          "title": "燃料不足によるバス運行制限とEid旅行への影響",
+          "location": "バングラデシュ（推定）",
           "severity": 60,
-          "description": "州政府がLPG不足を否定し、野党のプロパガンダだと主張。国民の不安に対し情報戦が展開されており、混乱と不信感が広がる。",
-          "source": "The Hindu"
-        }
-      ]
-    },
-    {
-      "region": "oceania",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "エネルギー（燃料）不足",
-      "incidents": [
-        {
-          "title": "Crisis escalates as petrol stations across NSW run out of fuel",
-          "location": "オーストラリア、ニューサウスウェールズ州",
-          "severity": 65,
-          "description": "ニューサウスウェールズ州のガソリンスタンドで燃料が枯渇し、「危機がエスカレート」していると報じられている。買いだめや移動制限による社会混乱のリスクが高まっている。",
-          "source": "9News"
+          "description": "燃料不足が原因でバスの運行が制限され、イスラム教の祝祭であるEidの旅行に深刻な影響が出ている。これは燃料不足が人々の移動と生活に直接的な支障をきたしている状況を示しており、広範囲での不満を招いている。",
+          "source": "The Daily Star"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 45,
+      "panic_index": 60,
       "status": "unstable",
-      "main_cause": "経済的不確実性、支払い遅延",
+      "main_cause": "金融不安、政治的不安定",
       "incidents": [
         {
-          "title": "‘Uncertainty, panic’: Artists support NAC protest but concern about impact on payments",
-          "location": "南アフリカ",
-          "severity": 45,
-          "description": "経済的不確実性と支払い遅延に対する抗議活動がアーティストの間で広がっており、「不確実性、パニック」という言葉が使われている。",
+          "title": "ナイジェリア、オスン州での銀行への抗議デモ計画",
+          "location": "ナイジェリア、オスン州",
+          "severity": 65,
+          "description": "ナイジェリアのオスン州で地方自治体職員組合（NULGE）がUBA銀行支店への大規模な抗議デモを計画しており、金融システムへの不信感や取り付け騒ぎに発展する懸念が高まっている。これは社会経済的な緊張の表れである。",
+          "source": "THISDAYLIVE"
+        },
+        {
+          "title": "南アフリカで「不確実性とパニック」が伴うNAC抗議",
+          "location": "南アフリカ（推定）",
+          "severity": 60,
+          "description": "国家芸術評議会（NAC）に関連する抗議デモにおいて、「不確実性とパニック」という言葉が報じられている。アーティストが抗議を支持する一方で、支払いへの影響を懸念しており、経済的困窮が社会不安につながっていることを示唆する。",
           "source": "News24"
+        },
+        {
+          "title": "ナミビア独立記念日前夜の社会不安",
+          "location": "ナミビア、ウィントフック",
+          "severity": 55,
+          "description": "ナミビアでは独立記念日前夜に「unrest（不安、騒動）」が報じられており、表面的な統一の裏に社会的な不満や緊張が存在していることが示唆される。市民の間で先行きへの懸念が広がっている可能性がある。",
+          "source": "Windhoek Observer"
+        }
+      ]
+    },
+    {
+      "region": "oceania",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "燃料不足",
+      "incidents": [
+        {
+          "title": "オーストラリア、ニューサウスウェールズ州での大規模ディーゼル危機",
+          "location": "オーストラリア、ニューサウスウェールズ州",
+          "severity": 70,
+          "description": "オーストラリアのニューサウスウェールズ州でディーゼル燃料が深刻に不足し、100以上のガソリンスタンドで燃料が枯渇。これは物流や農業、地域経済に広範な影響を及ぼし、住民の間で移動や生活への不安が募っている。",
+          "source": "richlittleragdolls.co.nz"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "燃料不足、食料不安",
+      "incidents": [
+        {
+          "title": "キューバにおける深刻な燃料不足と市民の対応",
+          "location": "キューバ",
+          "severity": 65,
+          "description": "キューバでは深刻な燃料不足に直面しており、市民は木炭で動く車を自作するなど、生活に大きな支障をきたしている。これは国家的なインフラの脆弱さと住民の対応力の限界を示すもので、広範な社会不安を招いている。",
+          "source": "Modern Ghana"
+        },
+        {
+          "title": "学生主導フードバンクへの需要急増",
+          "location": "米国（推定）",
+          "severity": 50,
+          "description": "学生が運営するフードバンクへの需要が急増しており、特に学生層における食料不安が高まっていることを示唆している。経済的困難が学生の生活に直接影響を与え、将来への不安が増している。",
+          "source": "Stuff"
         }
       ]
     },
@@ -102,31 +117,15 @@
       "region": "europe",
       "panic_index": 30,
       "status": "stable",
-      "main_cause": "潜在的な財政不安",
-      "incidents": [
-        {
-          "title": "ROMANIAN CENTRAL BANK GOVERNOR SAYS BUDGET DEFICIT MUST BE CORRECTED OR RUN THE RISK OF LOSING PREVIOUS MONTHS' GAINS: CREDIBILITY, ACCESS TO FOREIGN MARKETS, RATINGS",
-          "location": "ルーマニア",
-          "severity": 30,
-          "description": "ルーマニア中央銀行総裁が財政赤字の是正を訴え、怠れば信用失墜のリスクがあると警告。市場の不確実性を高める可能性はあるが、現時点でのパニックは確認されていない。",
-          "source": "news.cgtn.com"
-        }
-      ]
+      "main_cause": "なし",
+      "incidents": []
     },
     {
-      "region": "east_asia",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "地政学的リスクへの金融政策対応",
-      "incidents": [
-        {
-          "title": "Taiwan central bank holds benchmark rate in the wake of Iran War",
-          "location": "台湾",
-          "severity": 30,
-          "description": "イラン戦争の影響を受けて台湾中央銀行が政策金利を据え置くと発表。地政学的なリスクに対し、経済的安定を維持する姿勢を示している。",
-          "source": "The Edge Malaysia"
-        }
-      ]
+      "region": "south_america",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
     }
   ]
 }
