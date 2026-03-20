@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-03-20",
+    "summary": "中東では、イスラエルがレバノンのヒズボラに対して地上侵攻を開始。ホルムズ海峡では、アメリカ軍のA-10攻撃機がイランの高速攻撃艇を標的に。イランはサウジアラビアに駐機中のKC-135空中給油機をミサイル攻撃。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-03-19",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエル軍、レバノンでヒズボラに対する地上侵攻",
+        "content": "イスラエル軍がレバノン領内へ地上侵攻を開始。作戦は、アメリカとイスラエルによる対イラン戦争とは別であるが、相互に影響し合う可能性あり。",
+        "involved_parties": [
+          "イスラエル軍",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/19/israel-forges-ahead-on-ground-incursion-against-hezbollah-in-lebanon/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-03-19",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "A-10攻撃機、ホルムズ海峡でイラン高速攻撃艇を攻撃",
+        "content": "アメリカ軍のA-10攻撃機が、イランの高速攻撃艇をホルムズ海峡で標的に攻撃を実施。作戦は「オペレーション・エピック・フューリー」の一環。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/a-10-warthogs-target-iranian-fast-attack-craft-in-strait-of-hormuz/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-03-19",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米軍、イランの地下ミサイル貯蔵施設を攻撃",
+        "content": "米軍がイランの地下ミサイル貯蔵施設を5,000ポンドの貫通爆弾で攻撃。この爆弾は今回の作戦で初めて実戦投入された。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/us-strikes-iranian-underground-missile-storage-with-5000-pound-penetrator/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-03-16",
+        "location": "サウジアラビア",
+        "region": "middle_east",
+        "title": "イランによるミサイル攻撃、サウジアラビアのKC-135空中給油機に損害",
+        "content": "イランによるミサイル攻撃により、サウジアラビアに駐機されていた5機のKC-135空中給油機が損傷。機体は破壊は免れた模様。",
+        "involved_parties": [
+          "イラン軍",
+          "サウジアラビア軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-03-14",
+        "location": "イラン、ハルグ島",
+        "region": "middle_east",
+        "title": "米軍、イランの主要な島を爆撃",
+        "content": "トランプ大統領によると、米軍はイランの石油拠点であるハルグ島のすべての軍事目標を「完全に破壊」したとのこと。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/2026/03/14/us-bombs-key-iranian-island-amid-oil-concerns/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-03-18",
+        "location": "トルコ",
+        "region": "europe",
+        "title": "トルコ、イランのミサイルを撃退するため、3番目のNATOパトリオットシステムを配備",
+        "content": "最新の配備により、トルコに駐留するNATOのパトリオットバッテリーの数は3つになる。",
+        "involved_parties": [
+          "トルコ軍",
+          "NATO",
+          "イラン軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/18/turkey-deploys-third-nato-patriot-system-to-repel-iranian-missiles/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-03-13",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエルによる爆撃の中、レバノン政府は内紛を避けようとする",
+        "content": "レバノン軍はイスラエルの爆撃を受けている間、ヒズボラの武器を捜索できる状況ではない。",
+        "involved_parties": [
+          "レバノン政府",
+          "イスラエル軍",
+          "ヒズボラ"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/13/lebanese-government-tries-to-avoid-internal-strife-amid-israeli-bombardment/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-19",
     "summary": "中東におけるイランとアメリカの緊張激化が継続。ホルムズ海峡の安全確保を巡り、アメリカが同盟国に協力を要請するも難航。一方、ウクライナはAIを活用したドローン開発のため、戦闘データの共有を開始。",
     "events": [

@@ -1,128 +1,130 @@
 {
-  "date": "2026-03-19",
-  "summary": "世界各地でパニックや社会不安の兆候が見られます。中東地域では地政学的緊張が高まり、エネルギー供給への脅威と政府による市民活動抑制が警戒レベルに達しています。東南アジア地域（インド、オーストラリアを含む）では、エネルギー不足の懸念や金融不安の噂、これに伴う抗議デモが顕在化し、一部で供給危機が発生しています。他の地域は比較的安定しているものの、特定の物資不足や地政学的リスクへの経済的対応が見られます。",
-  "global_panic_index": 48,
+  "date": "2026-03-20",
+  "summary": "今回のニュース分析では、中東地域での地政学的緊張とエネルギーインフラへの攻撃、および南アジア（特にインド）における広範なLPG/CNG不足が、社会不安と抗議活動の主要因として浮上しています。オーストラリアの一部地域でも燃料不足がエスカレートしており、生活必需品・エネルギー供給の不安定さが特定の地域で住民の警戒心を高めています。金融システム全体に対する大規模な混乱や、社会秩序が崩壊するようなパニックは確認されていませんが、これらの地域では「不安の増大」から「警戒状態」にあると言えます。",
+  "global_panic_index": 58,
   "regions": [
-    {
-      "region": "europe",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "特筆すべきパニック事象なし",
-      "incidents": []
-    },
-    {
-      "region": "north_america",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "社会活動に関連する特定の物資不足",
-      "incidents": [
-        {
-          "title": "抗議活動が赤い毛糸の全国的不足を誘発",
-          "location": "アメリカ合衆国 (全国)",
-          "severity": 30,
-          "description": "特定の抗議活動で着用される「赤い毛糸の帽子」の需要急増により、赤い毛糸が全国的に品薄に。生活必需品ではないが、社会運動が消費行動と供給に影響を与えている。",
-          "source": "marketplace.org"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "地政学的リスクへの経済的対応",
-      "incidents": [
-        {
-          "title": "イラン戦争勃発を受け台湾中央銀行が金利を維持",
-          "location": "台湾",
-          "severity": 25,
-          "description": "イラン戦争の影響を受け、台湾の中央銀行がベンチマーク金利を維持する決定を下した。地政学的緊張が経済・金融政策に影響を与えているが、市場のパニックは見られない。",
-          "source": "The Edge Malaysia"
-        }
-      ]
-    },
     {
       "region": "middle_east",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "地政学的緊張、エネルギー供給への直接的脅威、政府による市民活動抑制",
+      "main_cause": "地政学的紛争、エネルギー供給の不安定化、政府による情報統制",
       "incidents": [
         {
-          "title": "イランがカタールのガスハブを攻撃、トランプが警告",
-          "location": "カタール（イラン関連）",
-          "severity": 75,
-          "description": "イランがカタールのガスハブを再度攻撃したと報じられ、エネルギー供給への直接的な脅威と中東地域の地政学的緊張が急速に高まっている。国際社会への影響も懸念される。",
-          "source": "Radio Free Europe/Radio Liberty"
-        },
-        {
-          "title": "イラン政府が抗議デモ警戒で通信規制強化",
+          "title": "Iran tightens blackout before protest-prone festival",
           "location": "イラン",
-          "severity": 65,
-          "description": "イラン政府が、抗議行動が頻発しやすい祭り期間を前に通信規制（ブラックアウト）を強化。大規模な抗議デモに対する政府の強い警戒を示しており、社会不安が高まっている。",
+          "severity": 75,
+          "description": "抗議活動が予想される祭りを前に、政府が情報統制を強化。市民の自由が制限され、社会不安が高まる兆候。",
           "source": "MSN"
         },
         {
-          "title": "迎撃ミサイル不足の懸念、専門家は否定",
-          "location": "イスラエル",
-          "severity": 45,
-          "description": "迎撃ミサイルの不足に関する懸念が報じられたが、専門家は「警報を却下」している。しかし、周辺情勢を背景とした国家安全保障上の潜在的な不安要素は存在する。",
-          "source": "The Times of Israel"
+          "title": "Israel: Haifa Oil Refinery Hit By Iranian Missile",
+          "location": "イスラエル、ハイファ",
+          "severity": 80,
+          "description": "イランによるミサイル攻撃で主要な石油精製施設が被弾。中東紛争の激化とエネルギー供給網への直接的な脅威が市民の不安を煽る。",
+          "source": "Radio Free Europe/Radio Liberty"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "エネルギー（LPG/CNG）不足、生活への影響、大規模な抗議活動",
+      "incidents": [
+        {
+          "title": "LPG Shortage Shuts Private Eateries; Congress stages protest over gas crunch",
+          "location": "インド、ティルマラ他",
+          "severity": 70,
+          "description": "米国・イスラエルとイランの紛争がLPG不足に拍車をかけ、一部の飲食店が閉鎖。野党議員や市民がガス不足に対する大規模な抗議デモを展開している。",
+          "source": "Deccan Chronicle, The Times of India"
+        },
+        {
+          "title": "Long queues, lost trips: LPG, CNG shortage hits auto & cab drivers hard",
+          "location": "インド",
+          "severity": 75,
+          "description": "LPGとCNGの深刻な不足により、タクシーやオートリキシャの運転手が長時間の列に並び、運行停止が頻発。市民生活や交通インフラに大きな影響が出ている。",
+          "source": "MSN"
+        },
+        {
+          "title": "Opposition MPs protest LPG shortage during Parliament budget session",
+          "location": "インド、デリー",
+          "severity": 65,
+          "description": "国会議事堂内でも野党議員がLPG不足に対し、大臣の辞任を要求する抗議活動を実施。全国的な社会不安と政治問題化が進行。",
+          "source": "The News Mill"
+        },
+        {
+          "title": "DMK-led alliance protests LPG shortage in Tamil Nadu",
+          "location": "インド、タミル・ナードゥ州",
+          "severity": 65,
+          "description": "DMK主導の連立政権がタミル・ナードゥ州でLPG不足に対する抗議デモを実施。地方レベルでも広範な不満が爆発している。",
+          "source": "The News Mill"
+        },
+        {
+          "title": "No LPG cylinder shortage in Bihar, queues outside agencies result of Congress ‘propaganda’",
+          "location": "インド、ビハール州",
+          "severity": 60,
+          "description": "州政府がLPG不足を否定し、野党のプロパガンダだと主張。国民の不安に対し情報戦が展開されており、混乱と不信感が広がる。",
+          "source": "The Hindu"
+        }
+      ]
+    },
+    {
+      "region": "oceania",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "エネルギー（燃料）不足",
+      "incidents": [
+        {
+          "title": "Crisis escalates as petrol stations across NSW run out of fuel",
+          "location": "オーストラリア、ニューサウスウェールズ州",
+          "severity": 65,
+          "description": "ニューサウスウェールズ州のガソリンスタンドで燃料が枯渇し、「危機がエスカレート」していると報じられている。買いだめや移動制限による社会混乱のリスクが高まっている。",
+          "source": "9News"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 0,
-      "status": "normal",
-      "main_cause": "特筆すべきパニック事象なし",
-      "incidents": []
-    },
-    {
-      "region": "south_america",
-      "panic_index": 0,
-      "status": "normal",
-      "main_cause": "特筆すべきパニック事象なし",
-      "incidents": []
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、金融不安の噂、地政学的緊張による社会不安",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "経済的不確実性、支払い遅延",
       "incidents": [
         {
-          "title": "NSW州でガソリンスタンドが燃料切れ、供給危機が深刻化",
-          "location": "オーストラリア (ニューサウスウェールズ州)",
-          "severity": 70,
-          "description": "オーストラリアのニューサウスウェールズ州でガソリンスタンドが燃料切れに陥り、エネルギー供給危機が深刻化。買いだめや交通への影響が懸念され、住民の間でパニックが発生する恐れがある。",
-          "source": "9News"
-        },
+          "title": "‘Uncertainty, panic’: Artists support NAC protest but concern about impact on payments",
+          "location": "南アフリカ",
+          "severity": 45,
+          "description": "経済的不確実性と支払い遅延に対する抗議活動がアーティストの間で広がっており、「不確実性、パニック」という言葉が使われている。",
+          "source": "News24"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "潜在的な財政不安",
+      "incidents": [
         {
-          "title": "インド各地でLPG不足の噂と抗議デモ",
-          "location": "インド (ビハール州、デリー他)",
-          "severity": 65,
-          "description": "インド各地でLPGシリンダー不足の噂が広がり、一部で買いだめや代理店に行列が発生。野党が国会内外で政府に対する抗議デモを行い、エネルギー供給への国民の不安が顕在化している。",
-          "source": "The Hindu / MSN / The News Mill"
-        },
+          "title": "ROMANIAN CENTRAL BANK GOVERNOR SAYS BUDGET DEFICIT MUST BE CORRECTED OR RUN THE RISK OF LOSING PREVIOUS MONTHS' GAINS: CREDIBILITY, ACCESS TO FOREIGN MARKETS, RATINGS",
+          "location": "ルーマニア",
+          "severity": 30,
+          "description": "ルーマニア中央銀行総裁が財政赤字の是正を訴え、怠れば信用失墜のリスクがあると警告。市場の不確実性を高める可能性はあるが、現時点でのパニックは確認されていない。",
+          "source": "news.cgtn.com"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "地政学的リスクへの金融政策対応",
+      "incidents": [
         {
-          "title": "カンボジア中央銀行が金融パニックの噂を否定し対応",
-          "location": "カンボジア",
-          "severity": 50,
-          "description": "カンボジア中央銀行が、銀行資産の性急な売却を避けるよう呼びかけると共に、「パニックを煽る者」を暴くよう各銀行に指示。金融システムに対する不信の噂が一部で広まっていることを示唆している。",
-          "source": "Kiripost / Khmer Times"
-        },
-        {
-          "title": "インドのHDFC Bank会長辞任とRBIによる健全性強調",
-          "location": "インド",
-          "severity": 55,
-          "description": "インドの大手HDFC Bankの会長辞任を受け株価が下落したが、インド準備銀行(RBI)は同銀行の健全性を強調し、金融システム全体の不安拡大を防ぐ措置を講じた。取り付け騒ぎには至っていない。",
-          "source": "Reuters / CNBC / Bloomberg.com 他"
-        },
-        {
-          "title": "インド首相が野党による「パニック扇動」を非難",
-          "location": "インド",
-          "severity": 50,
-          "description": "インド首相が、政府が中東情勢などの戦争の影響を最小限に抑えようとしている中で、野党が国民の間にパニックを引き起こしていると発言。地政学的リスクへの国民の不安と政治的対立を示唆している。",
-          "source": "MSN"
+          "title": "Taiwan central bank holds benchmark rate in the wake of Iran War",
+          "location": "台湾",
+          "severity": 30,
+          "description": "イラン戦争の影響を受けて台湾中央銀行が政策金利を据え置くと発表。地政学的なリスクに対し、経済的安定を維持する姿勢を示している。",
+          "source": "The Edge Malaysia"
         }
       ]
     }
