@@ -1,18 +1,36 @@
 {
   "date": "2026-03-21",
-  "summary": "イランを巡る地政学的リスクの高まりと、それに伴う原油価格の変動が金融市場に大きな影響を与えている。株式市場は下落傾向にあり、金価格も大幅に下落。一方、暗号資産市場はボラティリティが高いものの、一部で上昇の兆しも見られる。金利上昇の可能性も市場の重石となっている。",
+  "summary": "地政学的リスク（イラン戦争）とインフレ懸念の高まりにより、株式市場は下落傾向。金利上昇、債券市場の不安定化、原油価格の高騰が複合的に影響し、市場のボラティリティが増大。暗号資産市場は規制の明確化が進む一方で、マクロ経済の圧力に晒されている。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "U.S. issues 30-day sanctions waiver for sale of Iranian oil at sea",
+      "title": "Iran war volatility is driving oil trading boom on Hyperliquid, says JPMorgan",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "米国がイラン産原油の海上取引に対する30日間の制裁免除を発行。米・イスラエル戦争開始以降のエネルギー供給圧力を緩和する目的。",
-      "analysis": "この制裁免除は、短期的には原油価格の安定に寄与する可能性がある。しかし、イランの原油輸出を間接的に支援することになり、地政学的な緊張を高めるリスクも孕んでいる。また、制裁免除期間終了後の動向が不透明であり、原油市場のボラティリティを高める要因となる可能性がある。エネルギー関連企業は、この政策変更がサプライチェーンに与える影響を注視する必要がある。",
+      "summary": "イラン戦争による市場のボラティリティ上昇が、Hyperliquidにおける原油取引の活況を招いているとJPMorganが分析。地政学的リスクが原油市場に大きな影響を与えている。",
+      "analysis": "イラン戦争の勃発は、原油供給の混乱を引き起こし、価格変動を激化させている。Hyperliquidのようなプラットフォームでの取引増加は、短期的な投機的取引の増加を示唆する。JPMorganの分析は、地政学的リスクが金融市場に直接的な影響を与えることを示しており、投資家はリスク管理を徹底する必要がある。原油価格の高騰は、インフレを加速させる可能性があり、中央銀行の金融政策にも影響を与える。",
       "key_entities": [
-        "U.S. Treasury",
-        "Scott Bessent",
-        "Iran"
+        "JPMorgan",
+        "Hyperliquid",
+        "原油市場"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
+      "region": "europe",
+      "risk_level": "high",
+      "summary": "イラン戦争の影響で、ヨーロッパの中央銀行がインフレ懸念に直面し、国債市場が混乱。債券利回りが急騰し、金融市場の不安定化を招いている。",
+      "analysis": "イラン戦争による原油価格の高騰は、ヨーロッパのインフレ圧力を高め、中央銀行の金融政策を複雑化させている。国債利回りの急騰は、投資家のリスク回避姿勢を示唆し、株式市場への資金流出を招く可能性がある。また、高インフレと金利上昇は、企業の収益を圧迫し、経済成長を鈍化させるリスクがある。ヨーロッパ経済は、地政学的リスクと金融引き締めのダブルパンチに晒されており、景気後退のリスクが高まっている。",
+      "key_entities": [
+        "ヨーロッパ中央銀行",
+        "国債市場",
+        "イラン戦争"
       ],
       "sources": [
         "CNBC - Top News"
@@ -25,11 +43,12 @@
       "title": "Stocks tumble Friday as losses mount from Iran war impact, Dow and Nasdaq near correction: Live updates",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イラン戦争の影響で株式市場が大幅に下落。ダウとナスダックは調整局面入り寸前まで下落。",
-      "analysis": "イラン戦争の勃発は、投資家のリスク回避姿勢を強め、株式市場からの資金流出を加速させている。特に、エネルギー価格の高騰はインフレ懸念を再燃させ、中央銀行の金融引き締め政策を促す可能性がある。ダウとナスダックが調整局面入りした場合、さらなる下落リスクが高まり、投資家心理の悪化を招く恐れがある。地政学的リスクが市場に与える影響を考慮し、ポートフォリオのリスク管理を徹底する必要がある。",
+      "summary": "イラン戦争の影響が拡大し、株式市場が大幅下落。ダウとナスダックは一時調整局面入り寸前まで下落し、投資家のリスク回避姿勢が強まっている。",
+      "analysis": "イラン戦争は、原油価格の高騰、サプライチェーンの混乱、地政学的緊張の高まりを通じて、株式市場にネガティブな影響を与えている。ダウとナスダックが調整局面入り寸前まで下落したことは、市場センチメントが急速に悪化していることを示唆する。投資家は、リスク資産のポジションを縮小し、安全資産へのシフトを加速させている。今後の市場動向は、イラン戦争の展開と、中央銀行の金融政策に大きく左右される。",
       "key_entities": [
-        "Dow Jones",
-        "Nasdaq"
+        "ダウ",
+        "ナスダック",
+        "イラン戦争"
       ],
       "sources": [
         "CNBC - Top News"
@@ -39,13 +58,14 @@
       ]
     },
     {
-      "title": "Gold drops nearly 10% in worst weekly rout since 2011",
+      "title": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
       "region": "global",
       "risk_level": "medium",
-      "summary": "金価格が大幅に下落。週間の下落率は2011年以来最悪。",
-      "analysis": "通常、地政学的リスクが高まると安全資産である金に資金が流入する傾向があるが、今回は大幅な下落となっている。これは、金利上昇観測の高まりや、他の資産への資金シフトが影響していると考えられる。金価格の下落は、インフレヘッジとしての金の魅力が低下していることを示唆しており、今後の金利動向や市場のセンチメントを注視する必要がある。",
+      "summary": "小型株中心のラッセル2000が調整局面入り。小型株は原油価格変動や景気減速に敏感であり、市場全体の先行指標となる可能性がある。",
+      "analysis": "ラッセル2000の調整局面入りは、市場全体のセンチメント悪化を示唆する。小型株は、大企業に比べて資金調達が難しく、景気変動の影響を受けやすい。原油価格の高騰は、輸送コストの増加を通じて小型企業の収益を圧迫する。また、景気減速は、消費者の購買意欲を低下させ、小型企業の売上を減少させる。ラッセル2000の動向は、今後の景気動向を予測する上で重要な指標となる。",
       "key_entities": [
-        "Gold"
+        "ラッセル2000",
+        "小型株"
       ],
       "sources": [
         "CNBC - Top News"
@@ -55,33 +75,52 @@
       ]
     },
     {
-      "title": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
+      "title": "Mortgage and refinance interest rates today, March 21, 2026: Jumping to a six-month high",
       "region": "global",
       "risk_level": "medium",
-      "summary": "FRBのウォーラー理事が、当面は慎重な姿勢を維持し、年後半には利下げの可能性もあると発言。",
-      "analysis": "ウォーラー理事の発言は、FRBがインフレ抑制と景気後退リスクのバランスを重視していることを示唆している。当面は高金利政策が維持される可能性が高く、企業の資金調達コストや消費者のローン金利に影響を与える。しかし、年後半には利下げの可能性も示唆されており、今後の経済指標やインフレ動向によって金融政策が左右される可能性がある。市場は、FRBの動向を注視し、金利変動リスクに備える必要がある。",
+      "summary": "住宅ローン金利が6ヶ月ぶりの高水準に上昇。金利上昇は、住宅市場の冷え込みを招き、経済成長を鈍化させる可能性がある。",
+      "analysis": "住宅ローン金利の上昇は、住宅購入者の負担を増加させ、住宅需要を減少させる。また、既存の住宅ローン借り換えのメリットを低下させ、消費者の可処分所得を減少させる。住宅市場の冷え込みは、建設業界や関連産業に悪影響を及ぼし、雇用を減少させる可能性がある。金利上昇は、インフレ抑制を目的とした金融引き締めの一環であるが、経済成長を犠牲にするリスクがある。",
       "key_entities": [
-        "Federal Reserve",
-        "Waller"
+        "住宅ローン金利",
+        "住宅市場"
       ],
       "sources": [
-        "CNBC - Top News"
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Bitcoin’s price action looks dangerously similar to the pattern that sent it crashing to $60,000",
+      "title": "The 2027 Social Security COLA Is Probably Going To Be Higher Next Year For a Troubling Reason",
       "region": "global",
-      "risk_level": "high",
-      "summary": "ビットコインの価格変動が、過去に60,000ドルまで暴落したパターンと酷似している。",
-      "analysis": "テクニカル分析に基づいた警告であり、ビットコイン市場の潜在的なリスクを示唆している。過去のパターンが繰り返される場合、大幅な価格下落が発生する可能性がある。暗号資産市場はボラティリティが高く、外部要因にも影響を受けやすいため、投資家はリスク管理を徹底する必要がある。",
+      "risk_level": "medium",
+      "summary": "2027年の社会保障費の生活費調整（COLA）が、インフレを理由に増加する可能性が高い。これは、将来の財政負担増加を示唆する。",
+      "analysis": "社会保障費のCOLA増加は、インフレが持続していることを示唆する。インフレは、消費者の購買力を低下させ、経済成長を鈍化させる。また、社会保障費の増加は、政府の財政負担を増加させ、将来の増税や歳出削減につながる可能性がある。高齢化が進む中で、社会保障制度の持続可能性を確保するためには、抜本的な改革が必要となる。",
       "key_entities": [
-        "Bitcoin"
+        "社会保障",
+        "COLA",
+        "インフレ"
       ],
       "sources": [
-        "CoinDesk"
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "OpenAIが2026年末までに従業員数を約2倍の8,000人に増やす計画。製品開発、エンジニアリング、研究、営業部門を強化する。",
+      "analysis": "OpenAIの従業員数増加は、AI市場の成長と競争激化を示唆する。OpenAIは、AI技術のリーダーとしての地位を確立するために、積極的な投資を続けている。従業員数増加は、AI技術の進歩を加速させ、経済成長に貢献する可能性がある。しかし、AI技術の普及は、雇用喪失や倫理的な問題を引き起こす可能性もあり、社会的な議論が必要となる。",
+      "key_entities": [
+        "OpenAI",
+        "AI市場"
+      ],
+      "sources": [
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -91,11 +130,12 @@
       "title": "Nasdaq winning SEC approval to move stocks onchain shows how Wall Street is taking charge of crypto tech",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ナスダックがSECの承認を得て株式のオンチェーン取引を開始。ウォール街が暗号資産技術を主導する動き。",
-      "analysis": "この動きは、伝統的な金融機関が暗号資産技術の導入を積極的に進めていることを示している。株式のオンチェーン取引は、取引の効率化や透明性の向上に繋がる可能性がある。しかし、規制上の課題やセキュリティリスクも存在するため、今後の動向を注視する必要がある。",
+      "summary": "ナスダックがSECの承認を得て株式のオンチェーン取引を開始。ウォール街が暗号資産技術の主導権を握りつつある。",
+      "analysis": "ナスダックの株式オンチェーン取引開始は、伝統的な金融機関が暗号資産技術を積極的に取り入れていることを示す。オンチェーン取引は、取引の透明性、効率性、セキュリティを向上させる可能性がある。ウォール街が暗号資産技術の主導権を握ることで、暗号資産市場の信頼性が高まり、機関投資家の参入を促進する可能性がある。しかし、規制の不確実性やセキュリティリスクも依然として存在し、慎重な対応が必要となる。",
       "key_entities": [
-        "Nasdaq",
-        "SEC"
+        "ナスダック",
+        "SEC",
+        "暗号資産"
       ],
       "sources": [
         "CoinDesk"
@@ -105,12 +145,15 @@
       ]
     },
     {
-      "title": "Senators say they've reached compromise on yield to advance crypto market bill",
-      "region": "europe",
+      "title": "Bitcoin’s price action looks dangerously similar to the pattern that sent it crashing to $60,000",
+      "region": "global",
       "risk_level": "medium",
-      "summary": "上院議員が暗号資産市場法案を進めるための利回りに関する妥協に達したと発表。",
-      "analysis": "暗号資産市場の規制に関する進展を示唆している。法案の内容次第では、暗号資産市場の成長を促進する可能性がある。しかし、規制が厳格化される場合、市場の活動を抑制する可能性もあるため、法案の内容を精査する必要がある。",
-      "key_entities": [],
+      "summary": "ビットコインの価格変動が、過去の暴落パターンと類似しているとの分析。暗号資産市場のボラティリティに対する警戒が必要。",
+      "analysis": "ビットコインの価格変動が過去の暴落パターンと類似していることは、市場のセンチメントが不安定であることを示唆する。暗号資産市場は、投機的な取引が多く、価格変動が激しい。過去のパターン分析は、将来の価格動向を予測する上で参考になるが、絶対的なものではない。投資家は、リスク管理を徹底し、慎重な投資判断を行う必要がある。",
+      "key_entities": [
+        "ビットコイン",
+        "暗号資産市場"
+      ],
       "sources": [
         "CoinDesk"
       ],
@@ -119,40 +162,16 @@
       ]
     },
     {
-      "title": "South Korea Opposition Moves to Abolish Crypto Tax Amid $110B Capital Flight",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "韓国の野党が1100億ドルの資本流出を受けて暗号資産税の廃止を推進。",
-      "analysis": "韓国における暗号資産に対する税制変更の可能性を示唆している。税制が緩和されれば、韓国の暗号資産市場への投資が促進される可能性がある。しかし、税制変更の背景にある資本流出の問題は、韓国経済に対する懸念を高める要因となる。",
-      "key_entities": [],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "The spring housing market is on, but mortgage rates just shot higher. Here's what to know.",
+      "title": "United Airlines to cut more flights as it eyes oil above $100 through 2027",
       "region": "global",
       "risk_level": "medium",
-      "summary": "住宅市場は活況だが、住宅ローン金利が上昇。買い手の優位性が薄れている。",
-      "analysis": "住宅ローン金利の上昇は、住宅購入者の負担を増やし、住宅市場の成長を抑制する可能性がある。特に、インフレや金利上昇の影響を受けやすい低所得者層にとっては、住宅取得が困難になる可能性がある。住宅市場の動向は、経済全体の景気動向に影響を与えるため、今後の金利動向や経済指標を注視する必要がある。",
-      "key_entities": [],
-      "sources": [
-        "CNBC - Top News"
+      "summary": "ユナイテッド航空が、2027年まで原油価格が1バレル100ドル以上で推移すると予想し、更なる減便を計画。原油価格高騰が航空業界に深刻な影響を与えている。",
+      "analysis": "原油価格の高騰は、航空会社の燃料費を増加させ、収益を圧迫する。ユナイテッド航空の減便計画は、燃料費増加に対応するための苦肉の策である。航空業界は、原油価格変動の影響を受けやすく、収益性が低い。原油価格の高止まりは、航空運賃の上昇を招き、旅行需要を減少させる可能性がある。航空業界は、燃料効率の向上や代替燃料の導入など、原油価格変動に対する対策を講じる必要がある。",
+      "key_entities": [
+        "ユナイテッド航空",
+        "原油価格",
+        "航空業界"
       ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Value investors see mispriced opportunities from sports to fertilizer",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "バリュー投資家が、スポーツから肥料まで、市場で過小評価されている投資機会を見出している。",
-      "analysis": "バリュー投資家は、市場の非効率性を利用して、割安な価格で株式を購入しようとする。スポーツや肥料といった特定のセクターに投資機会を見出すことは、市場の多様性を示唆している。しかし、バリュー投資は、市場の変動リスクを伴うため、投資判断は慎重に行う必要がある。",
-      "key_entities": [],
       "sources": [
         "CNBC - Top News"
       ],
@@ -164,10 +183,10 @@
   "region_risk_map": {
     "global": "high",
     "north_america": "medium",
-    "europe": "medium",
-    "east_asia": "medium"
+    "europe": "high",
+    "east_asia": "none"
   },
-  "generated_at": "2026-03-21T01:23:09.084889",
+  "generated_at": "2026-03-21T12:54:22.944827",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

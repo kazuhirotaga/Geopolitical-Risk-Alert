@@ -1,114 +1,107 @@
 {
   "date": "2026-03-21",
-  "summary": "現在の世界的なパニック・社会不安は、エネルギーや生活必需品の不足、そして金融システムへの不安が主要因となっています。特にインドやオーストラリアでは燃料やLPGの供給危機、パニック買いが顕著で、市民生活への影響が深刻化しています。中東では長期化する社会不安と戦争の影が地域全体の緊張を高め、アフリカでは金融機関への抗議や社会不安が報告されています。北米でも水不足やおむつ不足の懸念が浮上しており、全体的に警戒が必要な状況が続いています。",
-  "global_panic_index": 66,
+  "summary": "世界全体では、特にインドとオーストラリアを中心にエネルギー供給不足が顕著であり、これが直接的なパニック行動や社会不安を引き起こしています。インドではLPG不足が日常生活や食料供給に影響を及ぼし、大規模な抗議デモが頻発。オーストラリアでは燃料枯渇とパニック買いが都市機能に影響を与えています。北米では限定的な物資不足が見られる一方、中東では地域紛争が潜在的な社会不安要因となっていますが、直接的なパニックの兆候は限定的です。",
+  "global_panic_index": 60,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 48,
-      "status": "unstable",
-      "main_cause": "資源不足、物資不足",
+      "region": "east_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、食料不足、大規模な抗議デモ",
       "incidents": [
         {
-          "title": "テキサス州で水供給不足の警告",
-          "location": "Corpus Christi, USA",
-          "severity": 45,
-          "description": "テキサス州コーパスクリスティの当局が、5月までに水源が枯渇する可能性を警告。生活必需品への懸念が市民の不安を煽る可能性があります。",
-          "source": "kiiitv.com"
+          "title": "ムンバイでLPG不足により食料供給が危機に",
+          "location": "ムンバイ（インド）",
+          "severity": 90,
+          "description": "ムンバイでLPGシリンダーの深刻な不足が発生し、4日以内にパン（Pav）の供給が滞る可能性があり、市の70%の供給が危険にさらされている。エネルギー不足が市民の食生活を直接脅かす事態に発展している。",
+          "source": "MSN"
         },
         {
-          "title": "フロリダ州でおむつ不足が深刻化",
-          "location": "Marion County, USA",
-          "severity": 50,
-          "description": "フロリダ州マリオン郡で深刻なおむつ不足が発生し、支援団体が住民に協力を呼びかけています。子育て世帯に直接的な経済的・心理的負担を与えています。",
+          "title": "調理用ガス不足でインドの食文化に影響",
+          "location": "インド",
+          "severity": 80,
+          "description": "イラン紛争の影響でインド全土で調理用ガスが不足し、国民食であるドサの提供が困難になっている。生活必需品の供給不安定が人々の日常生活と文化に深刻な影響を与え、社会不安を引き起こしている。",
+          "source": "The Straits Times"
+        },
+        {
+          "title": "チェンナイで野党がLPG不足に抗議デモ",
+          "location": "チェンナイ（インド）",
+          "severity": 70,
+          "description": "インドのチェンナイでは、主要政党であるDMK、Congress、VCKが合同でLPG不足に対する大規模な抗議デモを実施。国民の不満が政治的行動へとエスカレートしており、社会の緊張が高まっている。",
+          "source": "The News Mill"
+        },
+        {
+          "title": "バレイリーで宗教的抗議が社会不安を誘発",
+          "location": "バレイリー（インド）",
+          "severity": 65,
+          "description": "バレイリーで「I Love Muhammad」を掲げる抗議活動が社会不安を引き起こし、州首相から警告が出される事態に。特定の思想を巡る対立が社会秩序の不安定化につながっている。",
+          "source": "MSN"
+        },
+        {
+          "title": "障害者がLPG不足に対し抗議デモ",
+          "location": "インド各地",
+          "severity": 60,
+          "description": "インド各地で、視覚障害者やその他の障害を持つ人々がLPGの深刻な不足に抗議。最も脆弱な立場にある人々が生活必需品の供給不安定に直面しており、社会の危機感が高まっている。",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、買いだめ、社会インフラのマヒ",
+      "incidents": [
+        {
+          "title": "シドニーで燃料枯渇と地下鉄閉鎖の危機",
+          "location": "シドニー（オーストラリア）",
+          "severity": 85,
+          "description": "シドニーではガソリンスタンドで燃料が枯渇し、週末には地下鉄の一部路線が閉鎖される可能性が浮上。市民は移動の不確実性に直面しており、都市機能の広範なマヒが懸念されている。",
+          "source": "SMH.com.au"
+        },
+        {
+          "title": "NSW州で燃料不足とパニック買いが深刻化",
+          "location": "NSW州（オーストラリア）",
+          "severity": 80,
+          "description": "ニューサウスウェールズ州で100以上の燃料スタンドが空になり、供給逼迫とパニック買いがディーゼル不足を引き起こしている。燃料供給の混乱が経済活動と市民生活に大きな影響を与えている。",
+          "source": "The Economic Times"
+        },
+        {
+          "title": "燃料危機でパニック買いと買いだめへの警告",
+          "location": "ニュージーランド（推定）",
+          "severity": 70,
+          "description": "燃料危機が進行する中、自動車協会（AA）が市民に対しパニック買いや燃料の買いだめを控えるよう強く警告。これは供給状況の悪化と市民の不安の高まりを示唆している。",
+          "source": "RNZ"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "物資不足",
+      "incidents": [
+        {
+          "title": "マリオン郡でオムツ不足、市民に支援を呼びかけ",
+          "location": "マリオン郡（米国）",
+          "severity": 45,
+          "description": "マリオン郡の早期学習連合が深刻なオムツ不足に対し、地域住民に「英雄」として協力し不足を解消するよう呼びかけている。生活必需品の一時的な不足が確認されており、市民生活に軽微な影響が出ている。",
           "source": "352today"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 80,
-      "status": "volatile",
-      "main_cause": "政治的抑圧、戦争、広範な社会不安",
-      "incidents": [
-        {
-          "title": "イランにおける継続的な社会不安と抗議活動",
-          "location": "Iran",
-          "severity": 85,
-          "description": "イランでは抑圧と戦争にもかかわらず社会全体で抗議活動が継続すると予測されており、極めて高いレベルの政治的・社会的不安定さが長期化しています。",
-          "source": "irannewsupdate.com"
-        },
-        {
-          "title": "イラン戦争懸念がインド株式市場に影響",
-          "location": "Iran (関連)",
-          "severity": 70,
-          "description": "イラン戦争の懸念がインドの株式市場に損失をもたらしており、中東地域の地政学的緊張が経済に広範な影響を与えていることを示唆します。",
-          "source": "Reuters"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 63,
+      "panic_index": 30,
       "status": "unstable",
-      "main_cause": "社会不安、金融不安",
+      "main_cause": "地域紛争",
       "incidents": [
         {
-          "title": "ナミビア独立記念日前夜の社会不安",
-          "location": "Windhoek, Namibia",
+          "title": "ウェストバンクでイラン紛争関連の死者発生",
+          "location": "ウェストバンク",
           "severity": 60,
-          "description": "ナミビアの首都ウィントフックで、独立記念日前夜に「unity and unrest」が併存していると報じられ、社会的な緊張が高まっていることがうかがえます。",
-          "source": "Windhoek Observer"
-        },
-        {
-          "title": "ナイジェリアで銀行への抗議デモ計画",
-          "location": "Osun, Nigeria",
-          "severity": 65,
-          "description": "ナイジェリアのオシュン州でUBA銀行支店に対する抗議デモが計画されており、金融機関への不満が表面化し、取り付け騒ぎなどの混乱に発展する恐れがあります。",
-          "source": "THISDAYLIVE"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、物資不足、パニック買い、金融不安",
-      "incidents": [
-        {
-          "title": "ムンバイでLPGシリンダー危機、パン不足の可能性",
-          "location": "Mumbai, India",
-          "severity": 80,
-          "description": "ムンバイでLPGシリンダーの深刻な供給不足が発生し、一部では4日以内にパンの供給が70%失われる可能性が警告されています。生活必需品への直接的脅威で、大規模なパニックを引き起こす危険性があります。",
-          "source": "MSN"
-        },
-        {
-          "title": "オーストラリアNSW州でディーゼル危機、100以上の給油所が枯渇",
-          "location": "NSW, Australia",
-          "severity": 85,
-          "description": "オーストラリアのニューサウスウェールズ州でディーゼル危機が発生し、100以上の給油所で燃料が枯渇。交通・物流への深刻な影響が懸念され、パニック買いが加速する可能性が高いです。",
-          "source": "richlittleragdolls.co.nz"
-        },
-        {
-          "title": "オーストラリアでパニック買いによる燃料不足発生",
-          "location": "Australia",
-          "severity": 75,
-          "description": "オーストラリアの燃料責任者が「パニック買い」が短期的な燃料不足を引き起こしていると指摘。消費者の間で供給不安が高まり、買いだめ行動が顕在化しています。",
-          "source": "SMH.com.au"
-        },
-        {
-          "title": "インド全土でLPG不足危機",
-          "location": "India",
-          "severity": 75,
-          "description": "インド全土でLPG不足が「危機」と報じられており、ガス会社が市場シェア獲得を狙う中でも、一般市民の生活には深刻な影響が出ています。",
-          "source": "Business Standard"
-        },
-        {
-          "title": "ハリヤーナ州政府が一部銀行の登録を即時解除",
-          "location": "Haryana, India",
-          "severity": 60,
-          "description": "インドのハリヤーナ州政府が一部銀行の登録を即時解除したと報じられ、金融システムへの信頼に揺らぎを与え、顧客の不安を煽る可能性があります。",
-          "source": "MSN"
+          "description": "ウェストバンクで女性4人が死亡。イラン戦争に関連する初のパレスチナ人犠牲者と報じられており、地域紛争が人命に影響を与え、潜在的な社会不安を高めている。",
+          "source": "The Washington Post"
         }
       ]
     }
