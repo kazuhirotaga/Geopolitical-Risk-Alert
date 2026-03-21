@@ -1,131 +1,116 @@
 {
-  "date": "2026-03-20",
-  "summary": "世界各地で多岐にわたる社会不安が顕在化しています。中東では政治的抑圧と戦争状態下での大規模な抗議活動が続き、特にイランでは参加者への弾圧が深刻化し、社会の緊迫度が極めて高まっています。南アジアではエネルギー（LPG/ガス）不足が広範囲に及び、大規模な抗議デモが頻発し、生活に直接的な影響を及ぼしています。オーストラリアではディーゼル燃料の深刻な供給不足が発生し、広範な経済活動への懸念が高まっています。アフリカでは銀行に対する抗議デモの計画や独立記念日前夜の不安が報じられ、金融不安や社会の不安定化の兆候が見られます。キューバでは燃料不足が深刻化し、北米の一部では学生の食料不安が増大。全体として、エネルギー供給の不安定化が多くの地域で人々の生活と社会秩序に影響を及ぼしており、世界的な緊迫度は高まっていると評価されます。",
-  "global_panic_index": 68,
+  "date": "2026-03-21",
+  "summary": "現在の世界的なパニック・社会不安は、エネルギーや生活必需品の不足、そして金融システムへの不安が主要因となっています。特にインドやオーストラリアでは燃料やLPGの供給危機、パニック買いが顕著で、市民生活への影響が深刻化しています。中東では長期化する社会不安と戦争の影が地域全体の緊張を高め、アフリカでは金融機関への抗議や社会不安が報告されています。北米でも水不足やおむつ不足の懸念が浮上しており、全体的に警戒が必要な状況が続いています。",
+  "global_panic_index": 66,
   "regions": [
     {
-      "region": "middle_east",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "政治的抑圧、戦争、大規模抗議活動",
+      "region": "north_america",
+      "panic_index": 48,
+      "status": "unstable",
+      "main_cause": "資源不足、物資不足",
       "incidents": [
         {
-          "title": "イランにおける継続的な抗議と政府による弾圧",
-          "location": "イラン",
-          "severity": 90,
-          "description": "2025-2026年にかけてイランでは政府の抑圧と戦争状態にもかかわらず、社会の連続的な抗議活動が続いており、政権は19歳のレスリング選手を含むデモ参加者3名を処刑するなど、厳しい弾圧を行っている。これにより国民の間に深い絶望と怒りが広がっている。",
-          "source": "irannewsupdate.com, Republic World"
+          "title": "テキサス州で水供給不足の警告",
+          "location": "Corpus Christi, USA",
+          "severity": 45,
+          "description": "テキサス州コーパスクリスティの当局が、5月までに水源が枯渇する可能性を警告。生活必需品への懸念が市民の不安を煽る可能性があります。",
+          "source": "kiiitv.com"
         },
         {
-          "title": "ヨルダン川西岸における入植者による抗議計画",
-          "location": "ヨルダン川西岸",
-          "severity": 65,
-          "description": "入植地撤去に反対する入植者たちがヨルダン川西岸で抗議デモを計画しており、地域の緊張がさらに高まる可能性を示唆している。これは地政学的不安定要因の一部であり、広範な紛争に繋がりかねない。",
-          "source": "MSN"
+          "title": "フロリダ州でおむつ不足が深刻化",
+          "location": "Marion County, USA",
+          "severity": 50,
+          "description": "フロリダ州マリオン郡で深刻なおむつ不足が発生し、支援団体が住民に協力を呼びかけています。子育て世帯に直接的な経済的・心理的負担を与えています。",
+          "source": "352today"
         }
       ]
     },
     {
-      "region": "south_asia",
-      "panic_index": 75,
+      "region": "middle_east",
+      "panic_index": 80,
       "status": "volatile",
-      "main_cause": "エネルギー不足（LPG/燃料）、物価高騰、大規模抗議デモ",
+      "main_cause": "政治的抑圧、戦争、広範な社会不安",
       "incidents": [
         {
-          "title": "インド各地でのLPG不足と大規模抗議デモ",
-          "location": "インド（チェンナイ、ティルマラ、デリー、タミル・ナードゥ他）",
-          "severity": 78,
-          "description": "インドではLPGやガス燃料の不足が深刻化し、チェンナイ、デリー、タミル・ナードゥ州などで野党や市民団体による大規模な抗議デモが頻発。中東紛争の影響による供給不安も報じられ、飲食店閉鎖など生活への直接的な影響も出ており、社会不安が急速に高まっている。",
-          "source": "The News Mill, Deccan Chronicle, The Times of India, MSN"
+          "title": "イランにおける継続的な社会不安と抗議活動",
+          "location": "Iran",
+          "severity": 85,
+          "description": "イランでは抑圧と戦争にもかかわらず社会全体で抗議活動が継続すると予測されており、極めて高いレベルの政治的・社会的不安定さが長期化しています。",
+          "source": "irannewsupdate.com"
         },
         {
-          "title": "燃料不足によるバス運行制限とEid旅行への影響",
-          "location": "バングラデシュ（推定）",
-          "severity": 60,
-          "description": "燃料不足が原因でバスの運行が制限され、イスラム教の祝祭であるEidの旅行に深刻な影響が出ている。これは燃料不足が人々の移動と生活に直接的な支障をきたしている状況を示しており、広範囲での不満を招いている。",
-          "source": "The Daily Star"
+          "title": "イラン戦争懸念がインド株式市場に影響",
+          "location": "Iran (関連)",
+          "severity": 70,
+          "description": "イラン戦争の懸念がインドの株式市場に損失をもたらしており、中東地域の地政学的緊張が経済に広範な影響を与えていることを示唆します。",
+          "source": "Reuters"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 60,
+      "panic_index": 63,
       "status": "unstable",
-      "main_cause": "金融不安、政治的不安定",
+      "main_cause": "社会不安、金融不安",
       "incidents": [
-        {
-          "title": "ナイジェリア、オスン州での銀行への抗議デモ計画",
-          "location": "ナイジェリア、オスン州",
-          "severity": 65,
-          "description": "ナイジェリアのオスン州で地方自治体職員組合（NULGE）がUBA銀行支店への大規模な抗議デモを計画しており、金融システムへの不信感や取り付け騒ぎに発展する懸念が高まっている。これは社会経済的な緊張の表れである。",
-          "source": "THISDAYLIVE"
-        },
-        {
-          "title": "南アフリカで「不確実性とパニック」が伴うNAC抗議",
-          "location": "南アフリカ（推定）",
-          "severity": 60,
-          "description": "国家芸術評議会（NAC）に関連する抗議デモにおいて、「不確実性とパニック」という言葉が報じられている。アーティストが抗議を支持する一方で、支払いへの影響を懸念しており、経済的困窮が社会不安につながっていることを示唆する。",
-          "source": "News24"
-        },
         {
           "title": "ナミビア独立記念日前夜の社会不安",
-          "location": "ナミビア、ウィントフック",
-          "severity": 55,
-          "description": "ナミビアでは独立記念日前夜に「unrest（不安、騒動）」が報じられており、表面的な統一の裏に社会的な不満や緊張が存在していることが示唆される。市民の間で先行きへの懸念が広がっている可能性がある。",
+          "location": "Windhoek, Namibia",
+          "severity": 60,
+          "description": "ナミビアの首都ウィントフックで、独立記念日前夜に「unity and unrest」が併存していると報じられ、社会的な緊張が高まっていることがうかがえます。",
           "source": "Windhoek Observer"
-        }
-      ]
-    },
-    {
-      "region": "oceania",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "燃料不足",
-      "incidents": [
-        {
-          "title": "オーストラリア、ニューサウスウェールズ州での大規模ディーゼル危機",
-          "location": "オーストラリア、ニューサウスウェールズ州",
-          "severity": 70,
-          "description": "オーストラリアのニューサウスウェールズ州でディーゼル燃料が深刻に不足し、100以上のガソリンスタンドで燃料が枯渇。これは物流や農業、地域経済に広範な影響を及ぼし、住民の間で移動や生活への不安が募っている。",
-          "source": "richlittleragdolls.co.nz"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "燃料不足、食料不安",
-      "incidents": [
-        {
-          "title": "キューバにおける深刻な燃料不足と市民の対応",
-          "location": "キューバ",
-          "severity": 65,
-          "description": "キューバでは深刻な燃料不足に直面しており、市民は木炭で動く車を自作するなど、生活に大きな支障をきたしている。これは国家的なインフラの脆弱さと住民の対応力の限界を示すもので、広範な社会不安を招いている。",
-          "source": "Modern Ghana"
         },
         {
-          "title": "学生主導フードバンクへの需要急増",
-          "location": "米国（推定）",
-          "severity": 50,
-          "description": "学生が運営するフードバンクへの需要が急増しており、特に学生層における食料不安が高まっていることを示唆している。経済的困難が学生の生活に直接影響を与え、将来への不安が増している。",
-          "source": "Stuff"
+          "title": "ナイジェリアで銀行への抗議デモ計画",
+          "location": "Osun, Nigeria",
+          "severity": 65,
+          "description": "ナイジェリアのオシュン州でUBA銀行支店に対する抗議デモが計画されており、金融機関への不満が表面化し、取り付け騒ぎなどの混乱に発展する恐れがあります。",
+          "source": "THISDAYLIVE"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "なし",
-      "incidents": []
-    },
-    {
-      "region": "south_america",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "なし",
-      "incidents": []
+      "region": "southeast_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、物資不足、パニック買い、金融不安",
+      "incidents": [
+        {
+          "title": "ムンバイでLPGシリンダー危機、パン不足の可能性",
+          "location": "Mumbai, India",
+          "severity": 80,
+          "description": "ムンバイでLPGシリンダーの深刻な供給不足が発生し、一部では4日以内にパンの供給が70%失われる可能性が警告されています。生活必需品への直接的脅威で、大規模なパニックを引き起こす危険性があります。",
+          "source": "MSN"
+        },
+        {
+          "title": "オーストラリアNSW州でディーゼル危機、100以上の給油所が枯渇",
+          "location": "NSW, Australia",
+          "severity": 85,
+          "description": "オーストラリアのニューサウスウェールズ州でディーゼル危機が発生し、100以上の給油所で燃料が枯渇。交通・物流への深刻な影響が懸念され、パニック買いが加速する可能性が高いです。",
+          "source": "richlittleragdolls.co.nz"
+        },
+        {
+          "title": "オーストラリアでパニック買いによる燃料不足発生",
+          "location": "Australia",
+          "severity": 75,
+          "description": "オーストラリアの燃料責任者が「パニック買い」が短期的な燃料不足を引き起こしていると指摘。消費者の間で供給不安が高まり、買いだめ行動が顕在化しています。",
+          "source": "SMH.com.au"
+        },
+        {
+          "title": "インド全土でLPG不足危機",
+          "location": "India",
+          "severity": 75,
+          "description": "インド全土でLPG不足が「危機」と報じられており、ガス会社が市場シェア獲得を狙う中でも、一般市民の生活には深刻な影響が出ています。",
+          "source": "Business Standard"
+        },
+        {
+          "title": "ハリヤーナ州政府が一部銀行の登録を即時解除",
+          "location": "Haryana, India",
+          "severity": 60,
+          "description": "インドのハリヤーナ州政府が一部銀行の登録を即時解除したと報じられ、金融システムへの信頼に揺らぎを与え、顧客の不安を煽る可能性があります。",
+          "source": "MSN"
+        }
+      ]
     }
   ]
 }

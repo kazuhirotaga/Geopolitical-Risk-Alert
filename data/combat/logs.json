@@ -1,5 +1,123 @@
 [
   {
+    "date": "2026-03-21",
+    "summary": "中東地域で緊張が高まる。アメリカ軍はイランのミサイル貯蔵施設を攻撃、ホルムズ海峡ではA-10攻撃機がイランの高速艇を攻撃。イスラエルはレバノンでヒズボラに対する地上侵攻を開始。ウクライナは中東5か国にドローン迎撃部隊を派遣。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-03-19",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエル軍、レバノンでヒズボラに対する地上侵攻を開始",
+        "content": "イスラエル軍がレバノンにおいて、ヒズボラに対する地上侵攻を開始。アメリカとイスラエルの対イラン戦争とは別だが、両紛争の動向は相互に影響を与えるとみられる。",
+        "involved_parties": [
+          "イスラエル軍",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/19/israel-forges-ahead-on-ground-incursion-against-hezbollah-in-lebanon/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-03-19",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ軍、イランの地下ミサイル貯蔵施設を攻撃",
+        "content": "アメリカ軍が、新型の5,000ポンド貫通爆弾を使用し、イランの地下ミサイル貯蔵施設を攻撃した。これが同爆弾の初の戦闘使用となる。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/us-strikes-iranian-underground-missile-storage-with-5000-pound-penetrator/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-03-19",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "A-10攻撃機、ホルムズ海峡でイランの高速艇を攻撃",
+        "content": "A-10攻撃機が、ホルムズ海峡において作戦行動を実施し、イランの高速攻撃艇を攻撃した。アメリカ空軍がA-10の退役を進める中での今回の派遣となった。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/a-10-warthogs-target-iranian-fast-attack-craft-in-strait-of-hormuz/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-03-20",
+        "location": "中東5か国",
+        "region": "middle_east",
+        "title": "ウクライナ、中東5か国にドローン迎撃部隊を派遣",
+        "content": "ウクライナが、中東の5か国にドローン迎撃部隊を派遣。支援の見返りとして資金と技術を要求しており、アメリカも支援を求めた国の一つであると報じられている。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "中東各国軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/20/ukraine-deploys-units-to-5-middle-east-countries-to-intercept-drones/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-03-16",
+        "location": "サウジアラビア",
+        "region": "middle_east",
+        "title": "イランのミサイル攻撃でサウジアラビアのKC-135タンカー5機が損傷",
+        "content": "イランによるミサイル攻撃により、サウジアラビアに駐機されていたKC-135空中給油機5機が損傷した。航空機は破壊を免れた。",
+        "involved_parties": [
+          "イラン軍",
+          "サウジアラビア軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-03-20",
+        "location": "スコットランド",
+        "region": "europe",
+        "title": "イギリスの原子力潜水艦基地付近でイランのスパイ容疑者2名を逮捕",
+        "content": "イギリスのスコットランドにある原子力潜水艦基地への侵入を試みたとして、イランのスパイ容疑者2名が逮捕されたと報道された。",
+        "involved_parties": [
+          "イギリス当局",
+          "イラン諜報機関"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/20/two-suspected-iranian-spies-reportedly-arrested-near-uk-submarine-base/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-03-18",
+        "location": "トルコ",
+        "region": "europe",
+        "title": "トルコ、イランのミサイルを迎撃するため3基目のNATOパトリオットシステムを配備",
+        "content": "トルコがイランのミサイル攻撃に対抗するため、3基目のNATOパトリオットミサイルシステムを配備した。これにより、トルコに配備されたNATOのパトリオットバッテリーは3基となる。",
+        "involved_parties": [
+          "トルコ軍",
+          "NATO"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/18/turkey-deploys-third-nato-patriot-system-to-repel-iranian-missiles/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-20",
     "summary": "中東地域におけるイラン関連の軍事活動が活発化。ホルムズ海峡では米軍がイランの高速艇を攻撃。イランはサウジアラビアの米軍機にミサイル攻撃。イスラエルはレバノンのヒズボラに対する地上侵攻を継続。米国はイランの地下ミサイル貯蔵施設を攻撃。トルコはイランのミサイルに対抗するため、NATOのパトリオットシステムを配備。",
     "events": [

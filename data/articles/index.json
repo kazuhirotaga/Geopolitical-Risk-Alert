@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-21",
+    "summary": "中東情勢はアメリカとイランの軍事衝突が激化し、地域全体に深刻な影響を及ぼしている。エネルギー供給の混乱、人道危機、地政学的緊張の高まりが懸念される。ウクライナ情勢も依然として不安定であり、グローバルな安全保障環境は悪化の一途を辿っている。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "high",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "medium",
+      "africa": "none",
+      "north_america": "high",
+      "south_america": "none"
+    },
+    "generated_at": "2026-03-21T01:22:46.979229"
+  },
+  {
     "date": "2026-03-20",
     "summary": "中東情勢が極めて不安定化。アメリカとイスラエルによるイランへの攻撃が継続し、イランも報復措置を表明。ホルムズ海峡の封鎖やエネルギー施設への攻撃など、地域全体に影響が拡大。ウクライナ情勢への悪影響も懸念される。",
     "overall_risk_level": "critical",
