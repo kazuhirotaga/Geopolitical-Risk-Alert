@@ -1,5 +1,106 @@
 [
   {
+    "date": "2026-03-22",
+    "summary": "中東地域で緊張が継続。アメリカはイランのミサイル施設を攻撃し、イランもサウジアラビアの米軍関連施設を攻撃。イスラエルはレバノンでヒズボラに対する地上侵攻を開始。ウクライナは中東５か国にドローン迎撃部隊を派遣。ホルムズ海峡では米軍とイラン軍が対峙。",
+    "events": [
+      {
+        "id": "CE001",
+        "timestamp": "2026-03-19",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエル、レバノンでヒズボラに対する地上侵攻開始",
+        "content": "イスラエル国防軍がレバノン領内でヒズボラに対する地上侵攻を開始。作戦の詳細は不明だが、両勢力の衝突が激化している模様。この作戦は、米イスラエル連合軍による対イラン戦争とは別個に行われている。",
+        "involved_parties": [
+          "イスラエル軍",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/19/israel-forges-ahead-on-ground-incursion-against-hezbollah-in-lebanon/"
+      },
+      {
+        "id": "CE002",
+        "timestamp": "2026-03-19",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "A-10攻撃機、ホルムズ海峡でイラン高速攻撃艇を攻撃",
+        "content": "米空軍のA-10攻撃機が、ホルムズ海峡においてイランの高速攻撃艇を標的とした作戦を実施。具体的な損害状況は不明。この作戦は「Operation Epic Fury」の一環として行われた。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/a-10-warthogs-target-iranian-fast-attack-craft-in-strait-of-hormuz/"
+      },
+      {
+        "id": "CE003",
+        "timestamp": "2026-03-19",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米軍、5,000ポンド爆弾でイランの地下ミサイル貯蔵施設を攻撃",
+        "content": "米軍が新型の地下壕破壊爆弾を使用し、イランの地下ミサイル貯蔵施設を攻撃。攻撃地点や被害の詳細は不明。この攻撃は、米イラン間の軍事衝突のエスカレーションを示す。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/us-strikes-iranian-underground-missile-storage-with-5000-pound-penetrator/"
+      },
+      {
+        "id": "CE004",
+        "timestamp": "2026-03-16",
+        "location": "サウジアラビア",
+        "region": "middle_east",
+        "title": "イランのミサイル攻撃によりサウジアラビアのKC-135空中給油機5機が損傷",
+        "content": "イランによるミサイル攻撃により、サウジアラビアに駐機中の米軍KC-135空中給油機5機が損傷。機体は破壊を免れたものの、作戦能力に影響が出る可能性が高い。",
+        "involved_parties": [
+          "イラン軍",
+          "アメリカ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/"
+      },
+      {
+        "id": "CE005",
+        "timestamp": "2026-03-20",
+        "location": "中東5か国",
+        "region": "middle_east",
+        "title": "ウクライナ、中東5か国にドローン迎撃部隊を派遣",
+        "content": "ウクライナが、中東地域の５か国にドローン迎撃部隊を派遣。派遣先や具体的な活動内容は不明。ウクライナは、この支援の見返りとして資金と技術を求めている。",
+        "involved_parties": [
+          "ウクライナ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/20/ukraine-deploys-units-to-5-middle-east-countries-to-intercept-drones/"
+      },
+      {
+        "id": "CE006",
+        "timestamp": "2026-03-20",
+        "location": "スコットランド",
+        "region": "europe",
+        "title": "イランのスパイ容疑者2名がイギリスの原子力潜水艦基地付近で逮捕",
+        "content": "イランのスパイ容疑者2名が、スコットランドにあるイギリスの原子力潜水艦基地への侵入を試み逮捕された。容疑者らの目的や背後関係は調査中。",
+        "involved_parties": [
+          "イギリス",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/20/two-suspected-iranian-spies-reportedly-arrested-near-uk-submarine-base/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-21",
     "summary": "中東地域で緊張が高まる。アメリカ軍はイランのミサイル施設を攻撃し、ホルムズ海峡ではA-10攻撃機がイランの高速艇を標的とした。イスラエルはレバノンでヒズボラに対する地上侵攻を継続。ウクライナは中東5か国にドローン迎撃部隊を派遣。",
     "events": [

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-22",
+    "summary": "中東情勢が極めて不安定化。イランとイスラエルの間で核施設を標的とした攻撃の応酬が激化し、アメリカが軍事介入を継続。ホルムズ海峡の封鎖を巡り、トランプ大統領がイランに最後通牒。エネルギー価格の高騰と供給網の混乱が世界経済に深刻な影響を与えている。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "high",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "low"
+    },
+    "generated_at": "2026-03-22T01:44:11.775049"
+  },
+  {
     "date": "2026-03-21",
     "summary": "アメリカとイスラエルによるイランへの軍事作戦が激化し、中東地域全体が不安定化。原油価格の高騰やサプライチェーンの混乱など、世界経済への影響も深刻化している。情報戦も激化し、事態の収束は見通せない。",
     "overall_risk_level": "critical",
