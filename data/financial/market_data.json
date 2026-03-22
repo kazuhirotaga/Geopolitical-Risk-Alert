@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T01:44:15.965987",
+  "generated_at": "2026-03-22T12:56:23.922147",
   "indices": [
     {
       "symbol": "^N225",
@@ -71,17 +71,17 @@
       "change_percent": 0.8206512512866306,
       "change_percent_formatted": "+0.82%",
       "trend": "up",
-      "date": "2026-03-21"
+      "date": "2026-03-22"
     },
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 68863.953125,
-      "price_formatted": "68,864",
-      "change": -1658.6328125,
-      "change_formatted": "-1,659",
-      "change_percent": -2.3519171772429734,
-      "change_percent_formatted": "-2.35%",
+      "current_price": 68584.1875,
+      "price_formatted": "68,584",
+      "change": -127.3359375,
+      "change_formatted": "-127",
+      "change_percent": -0.18531962490371032,
+      "change_percent_formatted": "-0.19%",
       "trend": "down",
       "date": "2026-03-22"
     },

@@ -1,16 +1,16 @@
 [
   {
     "date": "2026-03-22",
-    "summary": "中東情勢の緊迫化とインフレ懸念から、株式市場は4週連続で下落。特にイランとイスラエルの衝突は原油価格高騰を招き、債券市場にも影響。暗号資産市場もボラティリティが高く、リスクオフの動きが顕著。",
-    "overall_risk_level": "critical",
+    "summary": "中東情勢の緊迫化、インフレ懸念、暗号資産市場の不安定化が重なり、金融市場全体のリスクが高まっている。特に中東地域のリスクが極めて高い。AI関連投資の選別が進み、OpenAIの戦略転換が示唆するように、慎重な投資判断が求められる。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "critical",
+      "global": "high",
       "north_america": "medium",
-      "europe": "high",
-      "east_asia": "low"
+      "europe": "low",
+      "east_asia": "medium"
     },
-    "generated_at": "2026-03-22T01:44:32.078968"
+    "generated_at": "2026-03-22T12:56:42.316609"
   },
   {
     "date": "2026-03-21",

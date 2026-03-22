@@ -1,19 +1,19 @@
 {
   "date": "2026-03-22",
-  "summary": "FRBは、FOMC声明と経済予測を発表し、金融政策の現状と将来の見通しを示唆。また、銀行システムの健全性維持に向けた規制資本フレームワークの現代化提案に関する意見募集を開始。金融機関の不正行為に対する取締りも強化している。",
+  "summary": "FRBは、FOMC声明と経済予測を発表。規制資本フレームワークの近代化に関する提案も発表しており、金融政策と銀行規制の両面で積極的な姿勢を示している。市場はこれらの発表を注視し、今後の金融政策の方向性を探るだろう。",
   "statements": [
     {
       "speaker": "Federal Open Market Committee (FOMC)",
       "title": "連邦公開市場委員会",
       "quote": "FOMC声明を発表",
       "context": "2026年3月17-18日のFOMC会合後",
-      "analysis": "FOMC声明は、金融政策の方向性を示す重要な指標であり、市場参加者は声明の内容を詳細に分析し、今後の金利動向や経済見通しを予測する。具体的な声明内容が不明なため、重要度はmediumとする。",
-      "importance": "medium",
+      "analysis": "FOMC声明は、今後の金融政策の方向性を示す重要な指標となる。声明の内容次第では、株式市場や債券市場に大きな影響を与える可能性がある。特に、インフレに対するFRBの見解や、利上げのペースに関する言及は、市場参加者にとって重要な情報となる。",
+      "importance": "high",
       "tags": [
         "金融政策",
         "FOMC",
-        "金利",
-        "経済見通し"
+        "インフレ",
+        "利上げ"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm"
     },
@@ -22,49 +22,35 @@
       "title": "連邦準備制度理事会および連邦公開市場委員会",
       "quote": "3月17-18日のFOMC会合における経済予測を発表",
       "context": "2026年3月17-18日のFOMC会合後",
-      "analysis": "経済予測は、FRBが今後の経済状況をどのように見ているかを示すものであり、金融政策の判断に大きな影響を与える。インフレ率、GDP成長率、失業率などの予測値が注目される。具体的な予測値が不明なため、重要度はmediumとする。",
-      "importance": "medium",
+      "analysis": "経済予測は、FRBが今後の経済状況をどのように見ているかを示す。成長率、インフレ率、失業率などの予測は、市場参加者が将来の投資戦略を立てる上で重要な情報となる。特に、FOMCメンバーの金利見通し（ドットプロット）は、金融政策の方向性を示唆するものとして注目される。",
+      "importance": "high",
       "tags": [
         "経済予測",
         "FOMC",
-        "インフレ",
-        "GDP",
-        "失業率"
+        "成長率",
+        "インフレ率",
+        "失業率",
+        "金利"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318b.htm"
     },
     {
-      "speaker": "Agencies",
-      "title": "（連邦準備制度理事会を含む）規制当局",
-      "quote": "規制資本フレームワークの現代化と銀行システムの強靭性維持に関する提案について意見を募集",
-      "context": "発表資料",
-      "analysis": "銀行の自己資本規制は、金融システムの安定に不可欠であり、その見直しは銀行経営や金融市場に大きな影響を与える可能性がある。提案内容の詳細と市場の反応を注視する必要がある。具体的な提案内容が不明なため、重要度はmediumとする。",
+      "speaker": "Agencies (Federal Reserve Board)",
+      "title": "連邦準備制度理事会",
+      "quote": "規制資本フレームワークの近代化に関する提案について意見を募集",
+      "context": "銀行システムの強化を目的として",
+      "analysis": "規制資本フレームワークの近代化は、銀行システムの安定性を高める上で重要な取り組みである。提案内容によっては、銀行の収益性や貸出姿勢に影響を与える可能性がある。意見募集の結果を踏まえ、FRBは最終的な規制を策定することになる。",
       "importance": "medium",
       "tags": [
         "銀行規制",
-        "自己資本",
+        "資本規制",
         "金融システム",
-        "バーゼル規制"
+        "銀行"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
-    },
-    {
-      "speaker": "Federal Reserve Board",
-      "title": "連邦準備制度理事会",
-      "quote": "Ally Bankの元従業員とRegions Bankの元従業員に対する執行措置を発表",
-      "context": "発表資料",
-      "analysis": "金融機関の不正行為に対する取締りは、金融システムの健全性を維持するために重要である。個別の事例ではあるが、FRBが不正行為に対して厳格な姿勢を示していることを示唆する。重要度はlowとする。",
-      "importance": "low",
-      "tags": [
-        "不正行為",
-        "金融機関",
-        "取締り",
-        "コンプライアンス"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260320a.htm"
     }
   ],
-  "generated_at": "2026-03-22T01:44:42.574526",
+  "generated_at": "2026-03-22T12:56:51.799945",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

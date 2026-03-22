@@ -1,19 +1,111 @@
 {
   "date": "2026-03-22",
-  "summary": "中東情勢が極めて不安定化。イランとイスラエルの間で核施設を標的とした攻撃の応酬が激化し、アメリカが軍事介入を継続。ホルムズ海峡の封鎖を巡り、トランプ大統領がイランに最後通牒。エネルギー価格の高騰と供給網の混乱が世界経済に深刻な影響を与えている。",
+  "summary": "中東におけるイランとアメリカ・イスラエルの軍事衝突が激化。ホルムズ海峡封鎖の脅威、イスラエルへのミサイル攻撃、核施設への懸念など、地域全体に不安定要素が増大。ウクライナ情勢も悪化の一途を辿り、グローバルな安全保障への影響が深刻化。",
   "overall_risk_level": "critical",
   "articles": [
     {
-      "title": "イラン 核開発拠点あるとされるイスラエル南部を攻撃 応酬続く",
+      "title": "Iran war: What’s happening on day 23 of US-Israel attacks?",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "イランとイスラエルが互いの核関連施設を攻撃し、応酬が激化。事態収束の見通しは立たず、中東地域の緊張が極度に高まっている。",
-      "analysis": "イランのナタンズ核施設への攻撃と、イスラエルのディモナへのミサイル攻撃は、エスカレーションの深刻な兆候。国際原子力機関が最大限の軍事的自制を求めているにも関わらず、事態は悪化の一途を辿っている。アメリカとイスラエルの軍事作戦が継続される中、イランは報復攻撃の対象を拡大する姿勢を示しており、地域全体が不安定化する恐れがある。核施設への攻撃は、核拡散防止条約の観点からも重大な懸念事項であり、国際社会の対応が急務である。",
+      "summary": "アメリカ・イスラエルによるイラン攻撃23日目。トランプ大統領はホルムズ海峡が開かれなければイランのエネルギー施設を攻撃すると脅迫。イランは報復を誓う。",
+      "analysis": "アメリカとイスラエルの軍事作戦が長期化し、イランの報復姿勢も強まっている。トランプ大統領の強硬な発言は事態をさらにエスカレートさせる可能性があり、ホルムズ海峡の封鎖は原油価格の高騰を招き、世界経済に深刻な影響を与える。イランの核施設への攻撃も現実味を帯びており、地域全体が不安定化するリスクが高い。",
+      "key_entities": [
+        "アメリカ",
+        "イスラエル",
+        "イラン",
+        "トランプ大統領"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
+      "region": "middle_east",
+      "risk_level": "critical",
+      "summary": "イランのミサイルがイスラエルの核施設付近に着弾し、160人が負傷。イスラエルの防空システムを突破した。",
+      "analysis": "イランのミサイル攻撃がイスラエルの防空システムを突破したことは、イスラエルの安全保障に対する深刻な脅威を示す。核施設付近への着弾は、意図的な攻撃である可能性も否定できず、事態はエスカレートの一途を辿る恐れがある。イスラエルの報復措置によっては、地域全体が巻き込まれる大規模な紛争に発展する可能性も考慮する必要がある。",
       "key_entities": [
         "イラン",
-        "イスラエル",
+        "イスラエル"
+      ],
+      "sources": [
+        "BBC - World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Trump threatens to ‘obliterate’ Iran power plants unless Hormuz Strait open",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "トランプ大統領は、イランがホルムズ海峡を開放しなければ、イランの発電所を「破壊する」と脅迫。",
+      "analysis": "トランプ大統領のこの発言は、アメリカがイランの重要インフラを標的とする可能性を示唆しており、事態を著しく悪化させる恐れがある。ホルムズ海峡は世界の原油輸送の要であり、封鎖されれば世界経済に壊滅的な影響を与える。アメリカの軍事行動は、イランの報復を招き、さらなる紛争の拡大につながる可能性が高い。",
+      "key_entities": [
         "アメリカ",
-        "国際原子力機関"
+        "イラン",
+        "トランプ大統領"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "MIDDLE EAST LIVE 20 March: Energy shocks deepen as strikes hit infrastructure",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "中東危機が継続。エネルギー施設への攻撃が相次ぎ、原油価格が1バレル100ドルを超えるなど、世界経済への影響が拡大。",
+      "analysis": "中東における軍事衝突は、エネルギー供給に深刻な影響を与え、世界経済に大きな打撃を与えている。特に、カタールのラスラファンガスハブへの攻撃は、長期的な供給不安を引き起こす可能性があり、エネルギー価格の高騰は、インフレを加速させ、世界的な景気後退を招く恐れがある。",
+      "key_entities": [
+        "カタール",
+        "イラン",
+        "アメリカ",
+        "イスラエル"
+      ],
+      "sources": [
+        "国連ニュース"
+      ],
+      "source_types": [
+        "international_org"
+      ]
+    },
+    {
+      "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "ウクライナとハンガリーの間で、ロシアの爆撃で被害を受けたウクライナ西部の石油パイプラインを巡る意見対立が発生し、EU融資が脅かされている。",
+      "analysis": "ウクライナとハンガリーの対立は、EUの結束を弱める可能性があり、ウクライナへの支援にも影響を与える恐れがある。ロシアによるインフラ攻撃は、エネルギー供給を不安定化させ、ヨーロッパ全体のエネルギー安全保障を脅かしている。EUは、エネルギー供給の多様化を進める必要に迫られている。",
+      "key_entities": [
+        "ウクライナ",
+        "ハンガリー",
+        "ロシア",
+        "EU"
+      ],
+      "sources": [
+        "BBC - World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "ロシアが交換条件の提案 アメリカは拒否",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "ロシアがアメリカに対し、ウクライナへの情報提供を打ち切れば、イランへの軍事情報提供を停止するという交換条件を提案したが、アメリカは拒否。",
+      "analysis": "ロシアの提案は、イラン情勢におけるアメリカの行動を牽制し、ウクライナへの支援を弱体化させることを目的としていると考えられる。アメリカがこの提案を拒否したことは、ウクライナへの支援を継続する姿勢を示す一方で、ロシアとの関係悪化を招く可能性もある。イラン情勢とウクライナ情勢が複雑に絡み合い、国際的なパワーバランスに影響を与えている。",
+      "key_entities": [
+        "ロシア",
+        "アメリカ",
+        "イラン",
+        "ウクライナ"
       ],
       "sources": [
         "NHK World"
@@ -23,126 +115,34 @@
       ]
     },
     {
-      "title": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "トランプ大統領がホルムズ海峡の封鎖解除を求め、イランの発電所を攻撃すると脅迫。イランは、攻撃されれば地域の米エネルギーインフラを標的にすると警告。",
-      "analysis": "トランプ大統領の強硬な姿勢は、中東情勢をさらに悪化させる可能性が高い。ホルムズ海峡は世界の原油輸送の要であり、封鎖が長引けば世界経済に壊滅的な影響を与える。イランが米エネルギーインフラを標的にすると警告していることから、報復合戦に発展するリスクも高い。国際社会は、対話による解決を模索する必要があるが、現状ではその見通しは立っていない。",
-      "key_entities": [
-        "トランプ",
-        "イラン",
-        "アメリカ",
-        "ホルムズ海峡"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "EU urges members to start storing winter gas as Iran war causes price surge",
-      "region": "europe",
-      "risk_level": "high",
-      "summary": "イラン戦争の影響でガス価格が急騰。EUは、冬に向けてガス備蓄を開始するよう加盟国に要請。エネルギー供給の不安定化が懸念される。",
-      "analysis": "イラン戦争は、エネルギー市場に大きな混乱をもたらしている。特に、イランがカタールのガス施設を攻撃したことで、ヨーロッパへのガス供給が滞る可能性が高まっている。EUがガス備蓄を急ぐ背景には、ロシアへのエネルギー依存からの脱却を目指すという戦略的な意図もある。しかし、ガス価格の高騰は、ヨーロッパ経済に深刻な影響を与える可能性があり、景気後退のリスクを高める。",
-      "key_entities": [
-        "EU",
-        "イラン",
-        "カタール",
-        "ロシア"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
+      "title": "北朝鮮 “キム総書記が戦車部隊の演習視察”報道 米韓に反発か",
       "region": "east_asia",
       "risk_level": "medium",
-      "summary": "トランプ大統領がイラン戦争を擁護するために真珠湾攻撃に言及。日本国内で困惑が広がり、高市首相の沈黙に対する賛否両論が出ている。",
-      "analysis": "トランプ大統領の真珠湾攻撃に関する発言は、日米関係に微妙な影を落としている。日本国内では、過去の戦争の記憶が鮮明であり、このような発言は感情的な反発を招きやすい。高市首相がこの件に関して沈黙を守っていることは、事態の沈静化を図る意図があると考えられるが、国内からは説明責任を求める声も上がっている。日米同盟の重要性は揺るがないものの、今回の発言は、両国間の信頼関係に小さな亀裂を生じさせる可能性がある。",
+      "summary": "北朝鮮のキム・ジョンウン総書記が戦車部隊の演習を視察。米韓合同軍事演習への反発とみられる。",
+      "analysis": "北朝鮮の軍事行動は、米韓に対する牽制であり、地域の緊張を高める要因となる。北朝鮮は、イラン情勢に乗じて、核・ミサイル開発を加速させる可能性もあり、国際社会は警戒を強める必要がある。米韓は、北朝鮮に対する抑止力を維持しつつ、対話の機会を模索する必要がある。",
       "key_entities": [
-        "トランプ",
-        "高市",
-        "日本",
-        "アメリカ"
+        "北朝鮮",
+        "キム・ジョンウン",
+        "アメリカ",
+        "韓国"
       ],
       "sources": [
-        "Al Jazeera",
-        "BBC - World"
+        "NHK World"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Russia's school propaganda was highlighted by Oscar-winning film - but does it work?",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "ロシアの学校におけるプロパガンダがオスカー受賞映画で注目される。侵攻は防衛戦争であり、愛国心は絶対的な忠誠心を意味するというメッセージが明確に伝えられている。",
-      "analysis": "ロシア国内におけるプロパガンダの強化は、国民の支持を得るための重要な戦略。特に、若年層に対する影響は大きく、長期的な視点で見ると、国際社会との関係に悪影響を及ぼす可能性がある。情報操作に対する警戒が必要。",
-      "key_entities": [
-        "ロシア"
-      ],
-      "sources": [
-        "BBC - World"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "ロシアの爆撃でウクライナ西部のハブがどれほど損傷したかについて、キーウとブダペストが意見を異にする。石油の流れは中断されたまま。",
-      "analysis": "ウクライナとハンガリーの間の石油パイプラインを巡る対立は、EUの融資を脅かす可能性があり、ヨーロッパのエネルギー安全保障に対するロシアの影響力を示唆している。この問題は、EU内での結束を弱める可能性があり、ロシアに対する制裁の効果を低下させる恐れがある。",
-      "key_entities": [
-        "ウクライナ",
-        "ハンガリー",
-        "EU",
-        "ロシア"
-      ],
-      "sources": [
-        "BBC - World"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
-      "region": "north_america",
-      "risk_level": "medium",
-      "summary": "ハワイで20年ぶりの大洪水が発生し、数千人が避難。気候変動の影響が深刻化している。",
-      "analysis": "ハワイの大規模な洪水は、気候変動がもたらす脅威を改めて浮き彫りにしている。自然災害の頻発と激甚化は、経済、社会、そして人々の生活に深刻な影響を与える。気候変動対策の強化と、災害に対する備えが急務である。",
-      "key_entities": [
-        "ハワイ",
-        "アメリカ"
-      ],
-      "sources": [
-        "BBC - World",
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "‘They want to colonise us’: Brazil’s Lula warns of foreign interference",
+      "title": "Latin American presidents criticise US actions",
       "region": "south_america",
       "risk_level": "low",
-      "summary": "ブラジルのルーラ大統領が、米国によるラテンアメリカへの干渉を批判。",
-      "analysis": "ルーラ大統領の発言は、ラテンアメリカにおける反米感情の根強さを示している。米国の影響力に対する警戒感は、地域全体の政治・経済に影響を与える可能性がある。ブラジルは、地域におけるリーダーシップを発揮し、独自の外交戦略を展開していくと考えられる。",
+      "summary": "中南米の指導者たちがCELACサミットで会合し、ペトロ大統領が中東での停戦を呼びかけた。",
+      "analysis": "中南米諸国がアメリカの行動を批判し、中東問題への関与を示したことは、国際的な多極化が進んでいることを示唆する。中南米諸国は、アメリカの影響力低下を背景に、独自の外交政策を展開する傾向を強めており、国際社会における発言力を高めようとしている。",
       "key_entities": [
-        "ルーラ",
-        "ブラジル",
-        "アメリカ"
+        "中南米諸国",
+        "アメリカ",
+        "ペトロ大統領"
       ],
       "sources": [
         "Al Jazeera"
@@ -152,35 +152,34 @@
       ]
     },
     {
-      "title": "Bahrain says Patriot system intercepted drone over homes",
-      "region": "middle_east",
+      "title": "“米グリーンランド軍事行動で滑走路爆破 デンマークが計画”",
+      "region": "north_america",
+      "risk_level": "low",
+      "summary": "デンマークが、アメリカのトランプ政権がグリーンランドに対して軍事行動に踏み切った場合、空港の滑走路を爆破する計画だったと報道。",
+      "analysis": "この報道は、アメリカとデンマークの関係が一時的に緊張していたことを示唆する。グリーンランドは、戦略的に重要な位置にあり、アメリカは軍事的なプレゼンスを維持しようとしている。デンマークは、グリーンランドの自治権を尊重しつつ、アメリカとの関係を維持する必要がある。",
+      "key_entities": [
+        "アメリカ",
+        "デンマーク",
+        "グリーンランド"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "'Peace is a gradual thing': How land, cattle and identity fuel a deadly Nigerian conflict",
+      "region": "africa",
       "risk_level": "medium",
-      "summary": "バーレーンは、パトリオットシステムが住宅上空でドローンを迎撃したと発表。米軍の説明とは異なり、民間人に負傷者が出た。",
-      "analysis": "バーレーンにおけるドローン迎撃事件は、地域の緊張状態を反映している。米軍とバーレーンの説明が異なることは、情報公開の透明性に対する疑問を投げかける。民間人の負傷は、事態の深刻さを増しており、今後の対応が注目される。",
+      "summary": "ナイジェリアの高原州で、土地、家畜、アイデンティティが原因で暴力が続いている。",
+      "analysis": "ナイジェリアにおける部族間の紛争は、資源の奪い合いやアイデンティティの対立が根底にあり、長期化する傾向がある。政府の治安維持能力の欠如が、事態を悪化させており、紛争解決に向けた取り組みが急務である。紛争は、周辺地域にも影響を及ぼし、難民の発生や人道危機を引き起こす可能性がある。",
       "key_entities": [
-        "バーレーン",
-        "アメリカ"
+        "ナイジェリア"
       ],
       "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "UK says Iran missile attack on Diego Garcia failed",
-      "region": "south_asia",
-      "risk_level": "high",
-      "summary": "英国は、イランがインド洋の米英共同基地ディエゴガルシアに弾道ミサイルを発射したが失敗したと発表。",
-      "analysis": "イランによるディエゴガルシアへのミサイル攻撃は、中東紛争の地理的範囲が拡大していることを示唆している。この攻撃は失敗に終わったものの、イランが遠隔地への攻撃能力を保有していることを示しており、地域の安全保障環境に対する新たな脅威となっている。英国と米国の共同対応が求められる。",
-      "key_entities": [
-        "イラン",
-        "イギリス",
-        "アメリカ"
-      ],
-      "sources": [
-        "Al Jazeera"
+        "BBC - World"
       ],
       "source_types": [
         "media"
@@ -190,15 +189,15 @@
   "region_risk_map": {
     "east_asia": "medium",
     "southeast_asia": "none",
-    "south_asia": "high",
+    "south_asia": "none",
     "central_asia": "none",
     "middle_east": "critical",
-    "europe": "high",
+    "europe": "medium",
     "africa": "medium",
-    "north_america": "medium",
+    "north_america": "low",
     "south_america": "low"
   },
-  "generated_at": "2026-03-22T01:44:11.775049",
+  "generated_at": "2026-03-22T12:56:19.620041",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
