@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 # .envファイルを読み込む（ローカル用）
 load_dotenv()
 from config import (
-    ANALYSIS_PROMPT, FINANCIAL_ANALYSIS_PROMPT, STATEMENTS_ANALYSIS_PROMPT,
+    ANALYSIS_PROMPT, FINANCIAL_ANALYSIS_PROMPT, STATEMENTS_ANALYSIS_PROMPT, LOGISTICS_ANALYSIS_PROMPT,
     RISK_LEVELS, REGIONS
 )
 
@@ -42,6 +42,13 @@ def get_config(news_type: str):
             'output_dir': os.path.join(DATA_DIR, "statements"),
             'prompt_template': STATEMENTS_ANALYSIS_PROMPT,
             'log_prefix': "要人発言"
+        }
+    elif news_type == 'logistics':
+        return {
+            'input_path': os.path.join(DATA_DIR, "raw_logistics_news.json"),
+            'output_dir': os.path.join(DATA_DIR, "logistics"),
+            'prompt_template': LOGISTICS_ANALYSIS_PROMPT,
+            'log_prefix': "物流・サプライチェーン"
         }
     else:
         return {
@@ -234,7 +241,7 @@ def main(news_type: str = 'geopolitical'):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="AI執筆エージェント")
-    parser.add_argument("--type", choices=['geopolitical', 'financial', 'statements'], default='geopolitical', help="生成するレポートの種別")
+    parser.add_argument("--type", choices=['geopolitical', 'financial', 'statements', 'logistics'], default='geopolitical', help="生成するレポートの種別")
     args = parser.parse_args()
     
     main(args.type)

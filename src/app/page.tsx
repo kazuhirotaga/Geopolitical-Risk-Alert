@@ -42,12 +42,21 @@ export default function Home() {
             </div>
           </div>
         ))}
-        {/* パニックダッシュボードへのリンクカード */}
-        <a href="/analysis/panic" className="risk-stat-card" style={{ borderStyle: 'dashed', borderColor: 'var(--risk-critical)', cursor: 'pointer', display: 'flex', flexDirection: 'column', justifyContent: 'center', textDecoration: 'none' }}>
-          <div className="risk-stat-label" style={{ color: 'var(--risk-critical)' }}>Panic Monitor</div>
-          <div style={{ fontSize: '1.5rem', fontWeight: 'bold', margin: '4px 0' }}>🚨 パニック監視</div>
-          <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>SNS/ニュース分析</div>
-        </a>
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1rem', width: '100%', gridColumn: '1 / -1' }}>
+          {/* パニックダッシュボードへのリンクカード */}
+          <a href="/analysis/panic" className="risk-stat-card" style={{ borderStyle: 'dashed', borderColor: 'var(--risk-critical)', cursor: 'pointer', display: 'flex', flexDirection: 'column', justifyContent: 'center', textDecoration: 'none' }}>
+            <div className="risk-stat-label" style={{ color: 'var(--risk-critical)' }}>Panic Monitor</div>
+            <div style={{ fontSize: '1.5rem', fontWeight: 'bold', margin: '4px 0' }}>🚨 パニック監視</div>
+            <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>SNS/ニュース分析</div>
+          </a>
+
+          {/* 物流モニタリングへのリンクカード */}
+          <a href="/analysis/logistics" className="risk-stat-card" style={{ borderStyle: 'dashed', borderColor: 'var(--risk-high)', cursor: 'pointer', display: 'flex', flexDirection: 'column', justifyContent: 'center', textDecoration: 'none' }}>
+            <div className="risk-stat-label" style={{ color: 'var(--risk-high)' }}>Logistics Monitor</div>
+            <div style={{ fontSize: '1.5rem', fontWeight: 'bold', margin: '4px 0' }}>🚢 物流・サプライチェーン監視</div>
+            <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>主要航路・最新インシデント</div>
+          </a>
+        </div>
       </section>
 
       {/* Summary */}

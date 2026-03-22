@@ -604,6 +604,73 @@ PANIC_DATA_SOURCES = [
     }
 ]
 
+# ============================================================
+# 物流・サプライチェーン状況分析用設定
+# ============================================================
+
+LOGISTICS_DATA_SOURCES = [
+    {
+        "name": "Google News - Logistics & Supply Chain",
+        "url": "https://news.google.com/rss/search?q=supply+chain+OR+shipping+route+OR+freight+OR+port+strike+OR+cargo+when:7d&hl=en-US&gl=US&ceid=US:en",
+        "type": "media",
+        "language": "en",
+        "region_focus": "global",
+    },
+    {
+        "name": "Google News - 物流・海運・サプライチェーン",
+        "url": "https://news.google.com/rss/search?q=サプライチェーン+OR+物流+OR+海運+OR+ストライキ+OR+コンテナ+when:7d&hl=ja&gl=JP&ceid=JP:ja",
+        "type": "media",
+        "language": "ja",
+        "region_focus": "global",
+    }
+]
+
+LOGISTICS_KEYWORDS = [
+    "supply chain", "shipping", "freight", "cargo", "port", "strike", "canal", "vessel", "transit",
+    "サプライチェーン", "物流", "海運", "貨物", "港", "ストライキ", "運河", "船舶", "航行", "運賃"
+]
+
+LOGISTICS_ANALYSIS_PROMPT = """あなたは国際物流とサプライチェーン管理の専門アナリストです。
+入力されるニュースやデータを分析し、世界の物流ネットワークが直面している地政学的・経済的リスクをレポートしてください。
+対象となる事象は、主要航路（紅海、スエズ運河、パナマ運河など）の通航障害、主要港湾でのストライキ、運賃の高騰、特定資源の供給網の寸断などです。
+
+## 入力ニュース情報
+{news_data}
+
+## 出力形式（JSON）
+以下のJSON形式で出力してください。
+
+{{
+  "date": "YYYY-MM-DD",
+  "summary": "世界の物流・サプライチェーンへの影響概況（200文字程度）",
+  "overall_risk_level": "critical|high|medium|low",
+  "routes": [
+    {{
+      "route_name": "航路・チョークポイント名（例：ホルムズ海峡、スエズ運河、パナマ運河、北米西海岸港湾など）",
+      "status": "normal(通常)|congested(混雑)|restricted(制限あり)|blocked(封鎖・機能停止)",
+      "risk_level": "critical|high|medium|low",
+      "description": "現状の説明と影響（150文字程度）"
+    }}
+  ],
+  "incidents": [
+    {{
+      "title": "事象のタイトル",
+      "location": "発生場所・関係地域",
+      "severity": "critical|high|medium|low",
+      "description": "具体的な事象の説明（150文字程度）",
+      "impact": "サプライチェーンへの具体的な影響（例：アジア欧州間の輸送日数10日増）",
+      "source": "情報源名"
+    }}
+  ]
+}}
+
+## 分析ガイドライン
+- ニュース情報から、物理的な物流網への直接的・間接的な影響を示す事象を抽出してください。
+- 主要なチョークポイント（海峡、運河）の状況を重点的に評価してください。
+- "routes" には、少なくとも現状話題になっている主要な経路を最大5つまで挙げてください。
+- "incidents" には、直近の具体的な物流阻害インシデントを最大8件挙げてください。
+"""
+
 PANIC_ANALYSIS_PROMPT = """あなたは社会心理学と危機管理の専門アナリストです。
 世界各地で発生している「パニック」や「社会不安」に関する情報を分析し、各国のパニック状況を数値化・レポートしてください。
 対象となる事象は、食料・エネルギー不足、銀行の取り付け騒ぎ、大規模な抗議デモ、略奪、買いだめ、逃避行などです。

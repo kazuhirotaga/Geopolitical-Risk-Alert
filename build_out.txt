@@ -1,0 +1,38 @@
+▲ Next.js 16.1.6 (Turbopack)
+
+  Creating an optimized production build ...
+
+> Build error occurred
+Error: Turbopack build failed with 1 errors:
+./src/lib/data.ts:1:1
+Module not found: Can't resolve 'fs'
+[0m[31m[1m>[22m[39m[90m 1 |[39m [36mimport[39m fs [36mfrom[39m [32m'fs'[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 2 |[39m [36mimport[39m path [36mfrom[39m [32m'path'[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m {
+ [90m 4 |[39m     [33mArticle[39m[33m,[39m[0m
+
+
+
+Import traces:
+  Server Component:
+    ./src/lib/data.ts
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/data.ts [Client Component Browser]
+    ./src/app/analysis/logistics/LogisticsClient.tsx [Client Component Browser]
+    ./src/app/analysis/logistics/LogisticsClient.tsx [Server Component]
+    ./src/app/analysis/logistics/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/data.ts [Client Component SSR]
+    ./src/app/analysis/logistics/LogisticsClient.tsx [Client Component SSR]
+    ./src/app/analysis/logistics/LogisticsClient.tsx [Server Component]
+    ./src/app/analysis/logistics/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (./src/lib/data.ts:1:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)

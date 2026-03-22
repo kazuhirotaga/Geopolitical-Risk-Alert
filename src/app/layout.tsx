@@ -32,6 +32,7 @@ export default function RootLayout({
                 <li><a href="/">地政学リスク</a></li>
                 <li><a href="/financial">金融リスク</a></li>
                 <li><a href="/analysis/fuel-stocks">エネルギー</a></li>
+                <li><a href="/analysis/logistics">物流</a></li>
                 <li><a href="/analysis/combat-log">戦闘log</a></li>
                 <li><a href="/analysis/panic" style={{ position: 'relative' }}>
                   パニック

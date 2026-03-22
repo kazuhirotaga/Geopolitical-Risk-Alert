@@ -19,13 +19,17 @@ echo [5/6] 重要発言を収集・抽出...
 python scripts/collector.py --type statements
 python scripts/ai_writer.py --type statements
 
-echo [6/7] 戦闘log・マーケット・燃料データを更新...
+echo [6/8] 戦闘log・マーケット・燃料・物流データを更新...
 python scripts/combat_log_collector.py
 python scripts/market_data_collector.py
 python scripts/fuel_data_collector.py
+python scripts/logistics_collector.py
 
-echo [7/7] パニック状況を分析 (Gemini 2.5)...
+echo [7/8] パニック状況を分析 (Gemini 2.5)...
 python scripts/panic_collector.py
+
+echo [8/8] 物流状況を分析...
+python scripts/ai_writer.py --type logistics
 
 echo ==========================================
 echo すべての更新が完了しました。

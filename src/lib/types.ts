@@ -119,3 +119,28 @@ export interface PanicReport {
     global_panic_index: number;
     regions: PanicRegionReport[];
 }
+
+export interface LogisticsIncident {
+    title: string;
+    location: string;
+    severity: 'critical' | 'high' | 'medium' | 'low';
+    description: string;
+    impact: string;
+    source: string;
+}
+
+export interface LogisticsRouteStatus {
+    route_name: string; // e.g., "ホルムズ海峡", "スエズ運河", "パナマ運河"
+    status: 'normal' | 'congested' | 'restricted' | 'blocked';
+    risk_level: 'critical' | 'high' | 'medium' | 'low';
+    description: string;
+}
+
+export interface LogisticsReport {
+    date: string;
+    summary: string;
+    overall_risk_level: 'critical' | 'high' | 'medium' | 'low';
+    generated_at: string;
+    routes: LogisticsRouteStatus[];
+    incidents: LogisticsIncident[];
+}
