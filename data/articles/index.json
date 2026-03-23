@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-03-23",
-    "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、ホルムズ海峡封鎖の危機が高まる。ウクライナ情勢も依然として不安定であり、世界経済への影響が懸念される。米国内では政府機関の一部閉鎖が長期化し、治安にも影響が出始めている。",
+    "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化しており、エネルギー供給への影響が深刻化。ウクライナ情勢も不安定化が継続。世界経済への悪影響が懸念される。トランプ大統領はイラン攻撃を一時延期するも、緊張は依然として高い。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
       "southeast_asia": "none",
-      "south_asia": "low",
+      "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "medium",
       "africa": "high",
-      "north_america": "medium",
-      "south_america": "medium"
+      "north_america": "high",
+      "south_america": "none"
     },
-    "generated_at": "2026-03-23T01:45:25.080001"
+    "generated_at": "2026-03-23T13:12:37.674334"
   },
   {
     "date": "2026-03-22",
