@@ -1,150 +1,187 @@
 {
-  "date": "2026-03-23",
-  "summary": "世界各地でエネルギー不足が深刻化し、特にオーストラリアやインドでは燃料やLPGの供給危機が消費者のパニック買いや大規模な抗議デモを引き起こしています。アフリカでは水不足を巡る暴動が頻発し、社会秩序の混乱が見られます。中東では国際情勢を背景とした反戦デモが警察と衝突するなど、不安定な状況が続いています。北米では金融市場の不安が継続し、一部公共サービスにも脆弱性が見られます。全体として、生活必需品の供給不安と政治的・国際的な緊張が社会不安の主要因となっています。",
-  "global_panic_index": 68,
+  "date": "2026-03-24",
+  "summary": "世界各地でエネルギー不足が深刻化し、食料や生活必需品の買いだめ、高額な闇取引、そして広範な抗議デモや暴力的な衝突が顕著になっています。特に南アジアと東南アジアでは国家レベルの燃料枯渇の懸念が浮上し、アフリカやオセアニアでも生活必需品の不足による社会不安が深刻化しています。一部地域では社会秩序が不安定化し、パニックに近い状況が見られます。",
+  "global_panic_index": 70,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 45,
+      "region": "east_asia",
+      "panic_index": 40,
       "status": "unstable",
-      "main_cause": "金融市場の不安、一部公共サービスの脆弱性",
+      "main_cause": "買いだめ、生活必需品への不安",
       "incidents": [
         {
-          "title": "SVB破綻後の金融市場への監視強化",
-          "location": "US",
-          "severity": 55,
-          "description": "SVB Financial Groupの破綻後の再編が投資家の監視を集め、地域金融機関への潜在的な不安が継続。直接的な取り付け騒ぎには至っていないが、金融市場に緊張をもたらしている。",
-          "source": "AD HOC NEWS"
-        },
-        {
-          "title": "空港保安検査員の不足とICEの協力拒否",
-          "location": "US",
-          "severity": 40,
-          "description": "TSAの人員不足に対し、ICEが空港セキュリティスキャン支援を拒否する方針を示した。空港機能の潜在的な脆弱性が懸念され、旅行者の不安を誘発する可能性がる。",
-          "source": "The Hill"
-        },
-        {
-          "title": "公共施設での器物損壊事件",
-          "location": "Red Bank, New Jersey, US",
-          "severity": 30,
-          "description": "ニュージャージー州の公共施設で男性が窓ガラスを破壊し、テーザー銃で鎮圧される事件が発生。広範なパニックではないが、地域的な不満や個人の暴力行為として社会不安の一端を反映。",
-          "source": "News12 | New Jersey"
+          "title": "日本でトイレットペーパーの買いだめ再燃",
+          "location": "日本",
+          "severity": 60,
+          "description": "日本でトイレットペーパーの買いだめが再び発生し、過去のパニックを想起させる状況。供給への不安が行動に現れている。",
+          "source": "Fortune"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "エネルギー不足（LPG、燃料）、暴動、食料不足の懸念",
+      "region": "north_america",
+      "panic_index": 35,
+      "status": "unstable",
+      "main_cause": "社会・金融不安、抗議デモ",
       "incidents": [
         {
-          "title": "マニプールで暴徒が評議会議長宅を襲撃",
-          "location": "Manipur, India",
-          "severity": 80,
-          "description": "マニプール州で緊張が高まり、暴徒がKuki Zo評議会議長の住居を襲撃する事件が発生。地域の政治的・社会的な対立が暴力的衝突へとエスカレートし、社会秩序が混乱している。",
-          "source": "Devdiscourse"
-        },
-        {
-          "title": "ムンバイでLPG不足によるパン供給危機",
-          "location": "Mumbai, India",
-          "severity": 75,
-          "description": "ムンバイでLPG不足が深刻化し、4日以内にパンの供給不足に繋がる可能性が指摘されている。生活必需品である食料の供給危機は、市民の間で深刻なパニックを引き起こす恐れがある。",
-          "source": "MSN"
-        },
-        {
-          "title": "グジャラート州で燃料不足が深刻化",
-          "location": "Gujarat, India",
-          "severity": 70,
-          "description": "中東情勢の緊迫化を背景に、グジャラート州の一部ガソリンスタンドで燃料が枯渇。国際情勢が国内の生活必需品供給に直結し、広範な不安とパニック買いを誘発している。",
-          "source": "english.gujaratsamachar.com"
-        },
-        {
-          "title": "チェンマイでディーゼル不足が深刻化",
-          "location": "Chiang Mai, Thailand",
-          "severity": 65,
-          "description": "タイのチェンマイでディーゼル不足が深刻化し、ガソリンスタンドで供給が枯渇。生活や経済活動に不可欠な燃料の不足は、住民の不満と混乱を招いている。",
-          "source": "Nation Thailand"
-        },
-        {
-          "title": "ケララ州でのLPG供給不足の継続",
-          "location": "Kerala, India",
-          "severity": 65,
-          "description": "インド政府によるLPG割り当て増量にもかかわらず、ケララ州全体でLPG不足が解消されず、市民の不満と生活への影響が深刻化。政府の対策が追いつかない状況が不安を増大させている。",
-          "source": "The Hindu"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "水不足、政治的対立",
-      "incidents": [
-        {
-          "title": "ナイロビ大学で水不足による夜間暴動",
-          "location": "UoN, Kenya",
-          "severity": 75,
-          "description": "ナイロビ大学で深刻な水不足を原因とする夜間暴動が発生。生活必需品の欠乏が直接的な暴動へと発展しており、治安当局との衝突も報告され、社会秩序の混乱が見られる。",
-          "source": "standardmedia.co.ke"
-        },
-        {
-          "title": "ナイロビ大学で学生が水不足に抗議し警察と衝突",
-          "location": "UoN, Kenya",
-          "severity": 70,
-          "description": "ナイロビ大学の学生が水不足に抗議してデモを行い、警察と衝突。生活に不可欠な資源の欠乏が社会的な緊張を高め、集団行動が暴力的な事態に発展するリスクを示唆している。",
-          "source": "the-star.co.ke"
-        },
-        {
-          "title": "ナイロビ大学で学生が水危機に6時間以内の解決を要求",
-          "location": "UoN, Kenya",
-          "severity": 65,
-          "description": "ナイロビ大学の学生が水危機に対し、当局に6時間以内の解決を求める最後通告を突きつけ、メインキャンパスで抗議活動を展開。緊迫した状況が続き、大規模な騒乱に発展する可能性を秘めている。",
-          "source": "The Eastleigh Voice"
-        },
-        {
-          "title": "オスン州で労働組合が抗議デモを計画",
-          "location": "Osun, Nigeria",
-          "severity": 55,
-          "description": "オスン州の地方政府危機を巡り、労働運動が抗議デモの実施を指示。政治的対立が労働組合の行動を促し、広範な社会的不満が組織的な抗議活動へと発展する兆候が見られる。",
-          "source": "The Sun Nigeria"
-        },
-        {
-          "title": "オスン州でAPCと労働組合が暴力的な抗議デモで衝突",
-          "location": "Osun, Nigeria",
+          "title": "反ICEデモ隊が銀行ロビーに侵入し警察出動",
+          "location": "米国、プロビデンス",
           "severity": 50,
-          "description": "オスン州の地方政府危機を巡り、APCと労働組合が計画された暴力的な抗議デモについて対立。政治的な緊張が高まり、社会秩序の不安定化と衝突の可能性が懸念される。",
-          "source": "MSN"
+          "description": "反ICE抗議デモ隊が銀行ロビーに侵入し、警察が出動する事態に。デモ活動が公共施設に及び、社会不安が表面化している。",
+          "source": "Providence Business News"
+        },
+        {
+          "title": "SVB破綻後の金融市場への継続的な懸念",
+          "location": "米国",
+          "severity": 40,
+          "description": "SVB Financial Groupの破綻後、地域金融システムへの投資家からの懸念が再燃。直接的な取り付け騒ぎではないが、潜在的な金融不安が続く。",
+          "source": "AD HOC NEWS"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 35,
-      "status": "unstable",
-      "main_cause": "特定の議題に関する抗議活動",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "政情不安、抗議デモの暴力化",
       "incidents": [
         {
-          "title": "ダラム大学学生がバークレイズとの関係に抗議",
-          "location": "Durham, UK",
-          "severity": 35,
-          "description": "ダラム大学の学生が、大学とバークレイズ銀行との関係に反対する「アクションデー」抗議活動を実施。特定の企業倫理や政治的立場への学生の懸念がデモとして表明されている。",
-          "source": "palatinate.org.uk"
+          "title": "アルバニアで政権批判デモ激化、警察と衝突",
+          "location": "アルバニア",
+          "severity": 80,
+          "description": "アルバニアで汚職疑惑を巡る大規模な政権批判デモが激化し、警察と衝突。社会秩序が不安定化し、暴力的な状況に発展している。",
+          "source": "FNNプライムオンライン"
+        },
+        {
+          "title": "英国の金利混乱、過去の経済的混乱を想起",
+          "location": "英国",
+          "severity": 50,
+          "description": "英国の金融市場で金利の混乱が見られ、過去の「Truss mini-Budget」のような経済的混乱の再来への懸念が表明されている。",
+          "source": "Mortgage Strategy"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "国際情勢への不安、政治的対立",
+      "region": "africa",
+      "panic_index": 75,
+      "status": "critical",
+      "main_cause": "生活必需品不足、集団的混乱、抗議デモの暴力化",
       "incidents": [
         {
-          "title": "エルサレムで反戦デモが警察と衝突",
-          "location": "Jerusalem, Israel",
+          "title": "ケニアで女子学生が夜間に集団脱走し「パニック」",
+          "location": "ケニア、エンブ",
           "severity": 70,
-          "description": "イランへの軍事作戦に対する反戦デモがエルサレムで発生し、警察部隊とデモ隊が衝突。地域情勢の緊迫化が市民の不安を煽り、暴力的な抗議活動へと繋がっている。",
-          "source": "読売新聞オンライン"
+          "description": "ケニアの女子学生が夜間に学校から集団で脱走し、街中で発見される事態が発生。「パニック」という言葉が使われており、集団的な混乱を示唆している。",
+          "source": "MSN"
+        },
+        {
+          "title": "ケニアで燃料不足によりガソリンスタンドが枯渇",
+          "location": "ケニア",
+          "severity": 75,
+          "description": "ケニアで燃料不足が深刻化し、複数のガソリンスタンドで燃料が枯渇。市民生活に直接影響を及ぼし、パニック買いや経済活動の停滞を引き起こす恐れがある。",
+          "source": "Business Daily"
+        },
+        {
+          "title": "ケニアで水不足を巡り学生が警察と衝突",
+          "location": "ケニア、ナイロビ",
+          "severity": 85,
+          "description": "ナイロビ大学の学生が水不足に抗議し、警察と衝突する事態が発生。不可欠な生活資源の不足が暴力的なデモに発展し、社会秩序が脅かされている。",
+          "source": "the-star.co.ke"
+        },
+        {
+          "title": "ナイジェリアで計画されたデモを巡り政治勢力衝突",
+          "location": "ナイジェリア、オスン",
+          "severity": 60,
+          "description": "ナイジェリアのオスン州で、計画されたデモを巡ってAPCと労働党が衝突。政治的対立が社会不安を高め、暴力に発展する可能性がある。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 88,
+      "status": "critical",
+      "main_cause": "エネルギー不足、暴動、闇市場",
+      "incidents": [
+        {
+          "title": "インドでLPG不足深刻化、闇市場で高額取引",
+          "location": "インド、ベンガルール",
+          "severity": 90,
+          "description": "インドでLPGシリンダーの深刻な不足により、小規模飲食店が闇市場で定価の5倍もの価格で購入している。生活必需品の不足が社会の混乱と不法行為を助長している。",
+          "source": "The Hindu"
+        },
+        {
+          "title": "インド、マニプールで暴徒が評議会議長宅を襲撃",
+          "location": "インド、マニプール",
+          "severity": 95,
+          "description": "インドのマニプール州で緊張が高まり、暴徒がKuki Zo評議会議長の住居を襲撃。社会秩序が大きく乱れ、暴動に近い状況となっている。",
+          "source": "Devdiscourse"
+        },
+        {
+          "title": "バングラデシュ、3週間で石油枯渇の可能性",
+          "location": "バングラデシュ",
+          "severity": 98,
+          "description": "外交官が、バングラデシュが3週間以内に石油を使い果たす可能性があると警告。国家レベルのエネルギー危機が差し迫り、広範な社会パニックを誘発する恐れがある。",
+          "source": "newsmax.com"
+        },
+        {
+          "title": "インドでLPG不足に関する政府発表と抗議デモ",
+          "location": "インド",
+          "severity": 70,
+          "description": "インド政府はLPGシリンダーの十分な在庫があると発表する一方、市民は不足に抗議してデモを実施。政府への不信感と市民の不安が顕在化している。",
+          "source": "MSN"
+        },
+        {
+          "title": "インドの銀行で詐欺疑惑、頭取辞任で混乱",
+          "location": "インド",
+          "severity": 65,
+          "description": "インドのアドール協同組合銀行で詐欺疑惑が浮上し、頭取が辞任。銀行の信頼失墜は、地域住民の金融不安や取り付け騒ぎにつながる可能性がある。",
+          "source": "The Hindu"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "エネルギー不足",
+      "incidents": [
+        {
+          "title": "ベトナム、3週間で石油枯渇の可能性",
+          "location": "ベトナム",
+          "severity": 98,
+          "description": "外交官が、ベトナムが3週間以内に石油を使い果たす可能性があると警告。国家レベルのエネルギー危機が差し迫り、広範な社会パニックを誘発する恐れがある。",
+          "source": "newsmax.com"
+        }
+      ]
+    },
+    {
+      "region": "oceania",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "燃料不足、パニック買い",
+      "incidents": [
+        {
+          "title": "オーストラリアで166ヶ所のガソリンスタンドが燃料切れ、価格も高騰",
+          "location": "オーストラリア",
+          "severity": 90,
+          "description": "オーストラリアで166ヶ所ものガソリンスタンドで燃料が枯渇し、価格も記録的な高水準に。広範囲に及ぶ燃料不足は市民の生活と経済に深刻な影響を与えている。",
+          "source": "News.com.au"
+        },
+        {
+          "title": "ビクトリア州でディーゼル不足とパニック買い",
+          "location": "オーストラリア、ビクトリア州",
+          "severity": 85,
+          "description": "ビクトリア州でディーゼル燃料が不足し、知事が「パニック買い」を非難。燃料不足が市民の行動に影響を与え、買いだめが状況を悪化させている。",
+          "source": "Herald Sun"
+        },
+        {
+          "title": "燃料危機管理のため週休4日制検討を専門家が提唱",
+          "location": "オーストラリア",
+          "severity": 75,
+          "description": "オーストラリアの燃料危機が深刻化する中、専門家が週休4日制の導入を検討すべきだと提唱。燃料不足が社会システム全体に影響を及ぼし始めていることを示唆。",
+          "source": "9News"
         }
       ]
     }

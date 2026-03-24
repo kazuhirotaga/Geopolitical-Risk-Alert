@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-24",
+    "summary": "中東情勢が極めて不安定。アメリカとイランの対立激化、イスラエルとレバノンの緊張も高まる。ウクライナ情勢も悪化の一途。エネルギー価格高騰と世界経済への影響が懸念される。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "none",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "low",
+      "south_america": "low"
+    },
+    "generated_at": "2026-03-24T01:25:56.475637"
+  },
+  {
     "date": "2026-03-23",
     "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化しており、エネルギー供給への影響が深刻化。ウクライナ情勢も不安定化が継続。世界経済への悪影響が懸念される。トランプ大統領はイラン攻撃を一時延期するも、緊張は依然として高い。",
     "overall_risk_level": "critical",

@@ -1,5 +1,157 @@
 [
   {
+    "date": "2026-03-24",
+    "summary": "ペルシャ湾、レバノン、バーレーンなどで軍事衝突が発生。対ドローン技術開発や配備、防衛システムの構築など、将来の紛争を見据えた動きも活発化。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-03-23",
+        "location": "バーレーン",
+        "region": "middle_east",
+        "title": "パトリオットミサイルがバーレーンで爆発、多数の負傷者",
+        "content": "米国同盟国のバーレーンで、パトリオットミサイルが爆発。多数の民間人が負傷し、家屋が損壊した。米軍が運用していた可能性が指摘されている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "バーレーン市民"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/2026/03/23/patriot-missile-involved-in-bahrain-blast-likely-us-operated-analysis-finds/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-03-23",
+        "location": "トルコ、ウニエ地区",
+        "region": "europe",
+        "title": "米国製海軍ドローンがトルコ北部に漂着、爆破処理",
+        "content": "実弾を搭載した米国製のAEGIR-W型海軍ドローンがトルコ北部の海岸に漂着。トルコ軍によって爆破処理された。所属や経緯は不明。",
+        "involved_parties": [
+          "アメリカ軍",
+          "トルコ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/23/us-made-naval-drone-with-active-warhead-washes-up-in-northern-turkey-gets-blown-up/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-03-20",
+        "location": "イギリス",
+        "region": "europe",
+        "title": "英国、米国によるイランミサイル基地攻撃のための基地使用を承認",
+        "content": "英国が、船舶を標的とするイランのミサイル基地に対する米国の攻撃のために、英国内の基地の使用を承認した。当初は法的懸念から拒否していた。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イギリス軍",
+          "イラン軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/20/uk-approves-us-use-of-british-bases-to-strike-iran-missile-sites-targeting-ships/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-03-20",
+        "location": "スコットランド",
+        "region": "europe",
+        "title": "イランのスパイ容疑者2名が英国の潜水艦基地付近で逮捕",
+        "content": "イランのスパイ容疑者2名が、スコットランドにある英国の原子力潜水艦基地に侵入を試みたと報道された。逮捕の詳細は不明。",
+        "involved_parties": [
+          "イランスパイ",
+          "イギリス軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/20/two-suspected-iranian-spies-reportedly-arrested-near-uk-submarine-base/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-03-20",
+        "location": "中東5カ国",
+        "region": "middle_east",
+        "title": "ウクライナ、中東5カ国にドローン迎撃部隊を派遣",
+        "content": "ウクライナが、中東5カ国にドローン迎撃部隊を派遣。見返りとして資金や技術を求めている。米国もウクライナの支援を求めた国の一つ。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "中東各国"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/20/ukraine-deploys-units-to-5-middle-east-countries-to-intercept-drones/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-03-19",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエル、レバノンでヒズボラに対する地上侵攻を継続",
+        "content": "イスラエルがレバノンにおいてヒズボラに対する地上侵攻を継続。米国とイスラエルの対イラン戦争とは別だが、互いに影響しあうと見られている。",
+        "involved_parties": [
+          "イスラエル軍",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/19/israel-forges-ahead-on-ground-incursion-against-hezbollah-in-lebanon/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-03-19",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米国、5,000ポンドのバンカーバスター爆弾でイランの地下ミサイル貯蔵施設を攻撃",
+        "content": "米国が最新のバンカーバスター爆弾を実戦投入し、イランの地下ミサイル貯蔵施設を攻撃。具体的な被害状況は不明。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/us-strikes-iranian-underground-missile-storage-with-5000-pound-penetrator/"
+      },
+      {
+        "id": "event-8",
+        "timestamp": "2026-03-19",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "A-10攻撃機がホルムズ海峡でイランの高速攻撃艇を標的に",
+        "content": "A-10攻撃機が「Operation Epic Fury」で作戦投入され、ホルムズ海峡でイランの高速攻撃艇を標的に攻撃を実施。損害状況は不明。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/a-10-warthogs-target-iranian-fast-attack-craft-in-strait-of-hormuz/"
+      },
+      {
+        "id": "event-9",
+        "timestamp": "2026-03-18",
+        "location": "トルコ",
+        "region": "europe",
+        "title": "トルコ、イランのミサイルを迎撃するため、3基目のNATOパトリオットシステムを配備",
+        "content": "トルコがイランのミサイル攻撃に備え、NATOのパトリオットミサイルシステム3基目を配備。これにより、トルコに配備されたNATOパトリオットは合計3基となる。",
+        "involved_parties": [
+          "トルコ軍",
+          "NATO",
+          "イラン軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/18/turkey-deploys-third-nato-patriot-system-to-repel-iranian-missiles/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-23",
     "summary": "中東地域での緊張が継続し、イランとアメリカ間の武力衝突が頻発。ウクライナは中東への部隊派遣を決定。トルコ沿岸にはアメリカ製の武装ドローンが漂着。イスラエルはレバノンでヒズボラに対する地上作戦を継続。",
     "events": [
