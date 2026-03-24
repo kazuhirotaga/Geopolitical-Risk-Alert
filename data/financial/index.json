@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-03-24",
-    "summary": "中東情勢の緊迫化と原油価格の乱高下が市場を不安定化させている。米イラン間の緊張緩和の兆しが見られるものの、地政学的リスクは依然として高い。日本のインフレ鈍化も懸念材料。暗号資産市場はボラティリティが高い状態が続いている。",
+    "summary": "イラン戦争の継続と原油価格の高騰が市場を不安定化させている。暗号資産市場は回復傾向にあるものの、地政学的リスクと金利動向に左右される状況が続く。AI、サイバーセキュリティ、エネルギー分野への投資が活発化している。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "medium",
+      "global": "high",
       "north_america": "medium",
-      "europe": "low",
-      "east_asia": "medium"
+      "europe": "high",
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-03-24T01:26:16.524719"
+    "generated_at": "2026-03-24T13:16:46.479640"
   },
   {
     "date": "2026-03-23",
