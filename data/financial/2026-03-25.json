@@ -1,71 +1,34 @@
 {
   "date": "2026-03-25",
-  "summary": "中東情勢の緩和期待から株式市場は上昇。しかし、ホルムズ海峡封鎖の可能性やDHS閉鎖など、地政学的リスクは依然として高い。暗号資産市場はボラティリティが高いものの、機関投資家の参入が進み、伝統金融との融合が進んでいる。",
-  "overall_risk_level": "medium",
+  "summary": "地政学的リスクの高まりと労働市場の低迷から、景気後退の可能性が高まっている。一方、ArmのCPU市場参入やエネルギー分野におけるAIインフラ開発など、技術革新の動きも活発。暗号資産市場では、ビットコインETFへの資金流入が続く。",
+  "overall_risk_level": "high",
   "articles": [
     {
-      "title": "South Korea stocks jump 3%, leading regional gains as Trump comments signal Iran war de-escalation",
+      "title": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "地政学的リスクと労働市場の低迷により、エコノミストは景気後退のリスク評価を引き上げている。",
+      "analysis": "地政学的リスク（中東情勢の不安定化など）と労働市場の弱体化が複合的に作用し、世界経済の成長鈍化への懸念が高まっている。特に、企業収益の悪化や消費者心理の冷え込みを通じて、景気後退が現実味を帯びてくる可能性がある。投資家はリスクオフ姿勢を強め、安全資産への資金シフトが進むと予想される。今後の経済指標（雇用統計、インフレ率など）を注視する必要がある。",
+      "key_entities": [
+        "CNBC",
+        "エコノミスト"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "South Korea braces for 'worst-case scenarios' as Iran oil shock deepens",
       "region": "east_asia",
-      "risk_level": "low",
-      "summary": "トランプ大統領の発言を受け、イランとの戦争が緩和されるとの期待から、韓国株式市場が3%上昇し、アジア地域の上昇を牽引。",
-      "analysis": "トランプ大統領の交渉姿勢への転換が、地政学的リスクの低下と見なされ、韓国株式市場に好影響を与えた。しかし、交渉の進展次第では再びリスクが高まる可能性もある。東アジア地域は、中東情勢の影響を受けやすい。今後の交渉の行方を注視する必要がある。",
-      "key_entities": [
-        "トランプ大統領",
-        "韓国株式市場"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Oil drops more than 5% as Trump signals Iran talks despite Tehran denial",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "トランプ大統領がイランとの交渉を示唆したことで、原油価格が5%以上下落。ただし、イラン側はこれを否定。",
-      "analysis": "トランプ大統領の発言は原油市場に大きな影響を与えたが、イラン側の否定により、交渉の実現可能性には不確実性が残る。中東情勢は原油価格に直接影響するため、今後の動向に注意が必要。原油価格の変動は、インフレや金融政策にも影響を及ぼす可能性がある。",
-      "key_entities": [
-        "トランプ大統領",
-        "イラン",
-        "原油価格"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Stock futures rise on report that the U.S. has sent Iran a plan to end the war: Live updates",
-      "region": "middle_east",
-      "risk_level": "low",
-      "summary": "米国がイランに戦争終結計画を提示したとの報道を受け、株式先物が上昇。トレーダーは戦争終結への期待を高めている。",
-      "analysis": "報道が事実であれば、地政学的リスクの大幅な低下につながり、株式市場にプラスの影響を与える。しかし、計画の詳細やイラン側の反応は不明であり、楽観視は禁物。今後の報道に注目し、市場の反応を慎重に見極める必要がある。",
-      "key_entities": [
-        "米国",
-        "イラン",
-        "株式先物"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Kuwait says Strait of Hormuz closure is beyond catastrophic, will trigger domino effect across global economy",
-      "region": "middle_east",
       "risk_level": "critical",
-      "summary": "クウェートは、ホルムズ海峡の封鎖は壊滅的であり、世界経済にドミノ効果をもたらすと警告。",
-      "analysis": "ホルムズ海峡は世界の原油輸送の要であり、封鎖されれば原油価格が急騰し、世界経済に深刻な影響を与える。クウェートの警告は、中東情勢の緊迫化を示唆しており、地政学的リスクが非常に高いことを意味する。原油価格高騰は、インフレを加速させ、各国の金融政策に影響を与える可能性がある。",
+      "summary": "韓国首相は、中東紛争に起因する最悪の事態に備えるよう政府に警告。原油価格高騰への警戒感を示唆。",
+      "analysis": "中東情勢の緊迫化は、原油価格の高騰を通じて韓国経済に深刻な影響を与える可能性がある。韓国はエネルギー資源の輸入依存度が高いため、原油価格の上昇はインフレを加速させ、企業収益を圧迫する。サプライチェーンの混乱も懸念され、輸出主導型の韓国経済にとって大きなリスクとなる。政府はエネルギー安全保障の強化や、代替エネルギーの確保に向けた対策を講じる必要に迫られている。",
       "key_entities": [
-        "クウェート",
-        "ホルムズ海峡",
-        "原油価格"
+        "韓国政府",
+        "金民錫首相"
       ],
       "sources": [
         "CNBC - Top News"
@@ -75,35 +38,16 @@
       ]
     },
     {
-      "title": "Bitcoin jolted modestly higher on Iran ceasefire report; oil tumbles 4%",
+      "title": "Oil prices fall as Iran signals safe passage for ‘non-hostile’ ships through Strait of Hormuz",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "イランの停戦報道を受け、ビットコインは小幅上昇、原油は4%下落。",
-      "analysis": "地政学的リスクの低下が、リスク資産であるビットコインにプラスの影響を与えた。原油価格の下落は、インフレ抑制に寄与する可能性がある。ただし、暗号資産市場はボラティリティが高く、地政学的リスク以外の要因にも影響を受けるため、注意が必要。",
+      "summary": "トランプ氏がイランとの和平交渉を示唆し、ホルムズ海峡の安全確保を示唆したことで原油価格が下落。",
+      "analysis": "地政学的リスクの緩和期待から原油価格が一時的に下落しているものの、中東情勢は依然として不安定であり、予断を許さない状況が続く。ホルムズ海峡の封鎖や、サウジアラビアの石油施設への攻撃など、供給途絶のリスクは依然として高い。原油価格の変動は、インフレや金融政策に大きな影響を与えるため、今後の動向を注視する必要がある。",
       "key_entities": [
-        "ビットコイン",
-        "原油価格",
+        "ドナルド・トランプ",
         "イラン"
       ],
       "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Senate Republicans, White House nearing deal to end DHS shutdown amid TSA delays",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "上院共和党とホワイトハウスが、DHS閉鎖を終わらせるための合意に近づいている。TSAの遅延が発生。",
-      "analysis": "DHSの閉鎖は、米国の安全保障や経済活動に悪影響を及ぼす可能性がある。合意が成立すれば、これらのリスクは軽減される。TSAの遅延は、航空業界や観光業に影響を与える可能性がある。",
-      "key_entities": [
-        "DHS",
-        "TSA",
-        "米国議会"
-      ],
-      "sources": [
         "CNBC - Top News"
       ],
       "source_types": [
@@ -111,72 +55,116 @@
       ]
     },
     {
-      "title": "Circle stock plunges 20% as a new draft of the Clarity Act threatens stablecoin rewards",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "Clarity Actの新たな草案がステーブルコインの報酬を脅かすため、Circleの株価が20%急落。",
-      "analysis": "暗号資産規制の不確実性が、ステーブルコイン発行企業の株価に悪影響を与えている。Clarity Actの内容次第では、ステーブルコイン市場全体に影響が及ぶ可能性がある。規制動向を注視する必要がある。",
-      "key_entities": [
-        "Circle",
-        "ステーブルコイン",
-        "Clarity Act"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "BlackRock sees AI driving crypto’s next bull phase as altcoin interest fades",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "BlackRockは、AIが暗号資産の次の強気相場を牽引すると見ており、アルトコインへの関心は薄れている。",
-      "analysis": "AI技術の進展が、暗号資産の新たなユースケースを生み出し、機関投資家の関心を高めている。アルトコイン市場は、投機的な動きが強いため、リスクが高い。AI関連の暗号資産プロジェクトに注目が集まる可能性がある。",
-      "key_entities": [
-        "BlackRock",
-        "AI",
-        "暗号資産"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "BNY CEO says the future of crypto runs through big banks",
+      "title": "Arm just unveiled its first in-house chip. Raymond James says buy the stock",
       "region": "global",
       "risk_level": "low",
-      "summary": "BNYメロンCEOは、暗号資産の未来は大手銀行を通じて実現すると述べている。",
-      "analysis": "大手銀行が暗号資産市場への参入を本格化させることで、市場の信頼性が高まり、機関投資家の資金流入が促進される可能性がある。伝統金融と暗号資産の融合が進むことで、新たな金融サービスが生まれることが期待される。",
+      "summary": "Armが初の自社製チップを発表し、レイモンド・ジェームスが同社株の買い推奨を発表。株価はプレマーケットで13%上昇。",
+      "analysis": "ArmのCPU市場への参入は、半導体業界の競争激化を意味する。特に、AI分野における高性能チップの需要が高まる中、Armの技術力が市場で評価されるかが注目される。レイモンド・ジェームスの買い推奨は、Armの成長ポテンシャルに対する期待の表れであり、投資家の関心を集める可能性がある。ただし、競争環境の激化や技術革新のスピードを考慮すると、リスクも存在する。",
       "key_entities": [
-        "BNYメロン",
-        "暗号資産",
-        "大手銀行"
+        "Arm",
+        "レイモンド・ジェームス"
       ],
       "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Micron stock sinks for a fourth straight day despite dominant earnings report",
+      "title": "Bitcoin ETFs Draw in $2.5B in a Month, Close to Erasing YTD Losses",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Micronの収益は大幅に増加したが、株価は4日連続で下落。メモリ不足が懸念されている。",
-      "analysis": "好調な業績にもかかわらず株価が下落しているのは、メモリ不足の長期化や、今後の需要減速への懸念が背景にあると考えられる。半導体市場は景気変動の影響を受けやすく、今後の動向に注意が必要。",
+      "summary": "ビットコインETFに1ヶ月で25億ドルの資金が流入し、年初来の損失をほぼ解消。",
+      "analysis": "ビットコインETFへの資金流入は、機関投資家の暗号資産への関心の高まりを示唆する。これにより、ビットコインの価格が安定し、市場全体の信頼性が向上する可能性がある。ただし、暗号資産市場は依然としてボラティリティが高く、規制の動向や市場心理の変化によって価格が大きく変動するリスクがある。投資家はリスク管理を徹底する必要がある。",
       "key_entities": [
-        "Micron",
-        "半導体",
-        "メモリ"
+        "ビットコイン",
+        "ビットコインETF"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Private credit’s ‘zero-loss fantasy’ is coming to an end as defaults and fund exits rise",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "プライベートクレジット市場でデフォルトが増加し、投資家の資金引き揚げが続いている。",
+      "analysis": "金利上昇や景気減速の影響を受け、プライベートクレジット市場でデフォルトリスクが高まっている。特に、高レバレッジの企業や、業績が悪化している企業への融資は、デフォルトのリスクが高い。投資家の資金引き揚げは、市場の流動性を低下させ、さらなるデフォルトを招く可能性がある。金融システム全体への影響も懸念され、注意が必要である。",
+      "key_entities": [
+        "プライベートクレジット"
       ],
       "sources": [
         "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Dow Jones Futures Rise, Oil Prices Tumble On Cautious Hopes For Iran Peace Deal",
+      "region": "middle_east",
+      "risk_level": "low",
+      "summary": "イラン和平合意への慎重な期待から、ダウ先物が上昇し、原油価格が下落。",
+      "analysis": "地政学的リスクの緩和期待は、株式市場にポジティブな影響を与える一方、原油価格の下落はエネルギー関連企業の収益を圧迫する可能性がある。ただし、和平交渉の進展は不確実であり、今後の動向を注視する必要がある。市場は、地政学的リスクと経済成長のバランスを見極めようとしている。",
+      "key_entities": [
+        "ダウ",
+        "原油"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Meta boosts top executives' pay with stock options as AI race heats up",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "MetaがAI競争激化の中、経営幹部の報酬をストックオプションで増額。",
+      "analysis": "Metaの経営幹部への報酬増額は、AI分野における競争激化を反映している。優秀な人材の確保と、AI技術の開発を加速させるための戦略と見られる。ただし、ストックオプションの付与は、株主価値の希薄化につながる可能性があり、投資家の反応を注視する必要がある。",
+      "key_entities": [
+        "Meta"
+      ],
+      "sources": [
+        "Yahoo Finance",
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "SK Hynix files confidentially for U.S. listing as it rides 'unprecedented growth' in memory market",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "SKハイニックスが米国上場を秘密裏に申請。メモリ市場の成長に乗じ、生産拡大を目指す。",
+      "analysis": "SKハイニックスの米国上場は、資金調達の多様化と、グローバル市場におけるプレゼンス向上を目的としていると考えられる。メモリ市場はAI需要の拡大により成長が加速しており、SKハイニックスは競争優位性を確立しようとしている。ただし、半導体市場は景気変動の影響を受けやすく、今後の動向を注視する必要がある。",
+      "key_entities": [
+        "SKハイニックス"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin nears $72,000 as rising open interest signals growing leverage in choppy market",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ビットコインが72,000ドルに近づく。未決済建玉の増加は、不安定な市場におけるレバレッジの拡大を示唆。",
+      "analysis": "ビットコイン価格の上昇は、市場心理の改善と、機関投資家の参入による需要拡大が背景にあると考えられる。しかし、未決済建玉の増加は、レバレッジ取引の増加を示唆しており、価格変動リスクが高まっている。市場参加者は、リスク管理を徹底し、慎重な取引を心がける必要がある。",
+      "key_entities": [
+        "ビットコイン"
+      ],
+      "sources": [
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -184,15 +172,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "medium",
+    "global": "high",
     "north_america": "medium",
     "europe": "medium",
-    "east_asia": "low",
-    "south_america": "none",
-    "africa": "none",
-    "middle_east": "critical"
+    "east_asia": "critical"
   },
-  "generated_at": "2026-03-25T01:44:07.946565",
+  "generated_at": "2026-03-25T13:15:51.009384",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
