@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-03-25",
+    "summary": "中東情勢の緩和期待から株式市場は上昇。しかし、ホルムズ海峡封鎖の可能性やDHS閉鎖など、地政学的リスクは依然として高い。暗号資産市場はボラティリティが高いものの、機関投資家の参入が進み、伝統金融との融合が進んでいる。",
+    "overall_risk_level": "medium",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "medium",
+      "north_america": "medium",
+      "europe": "medium",
+      "east_asia": "low",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "critical"
+    },
+    "generated_at": "2026-03-25T01:44:07.946565"
+  },
+  {
     "date": "2026-03-24",
     "summary": "イラン戦争の継続と原油価格の高騰が市場を不安定化させている。暗号資産市場は回復傾向にあるものの、地政学的リスクと金利動向に左右される状況が続く。AI、サイバーセキュリティ、エネルギー分野への投資が活発化している。",
     "overall_risk_level": "high",

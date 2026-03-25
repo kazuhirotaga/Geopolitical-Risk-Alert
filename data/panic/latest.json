@@ -1,151 +1,151 @@
 {
-  "date": "2026-03-24",
-  "summary": "世界各地でエネルギー不足が深刻化し、燃料や調理用ガスを巡る社会不安が顕著になっています。オーストラリア、タイ、ケニアといった国々では燃料スタンドの枯渇、買いだめ、長蛇の列が発生し、一部では供給停止の警告も出ています。インドとパキスタンでもLPGやLNGの不足が報じられ、政治的抗議や国家レベルの危機が迫っています。日本ではトイレットペーパーの買いだめが再燃し、アルバニアでは大規模な暴動が発生するなど、特定の地域でパニックや社会秩序の不安定化が見られます。一方、北米では年金制度や金融市場への潜在的な不安が存在しますが、即時のパニック行動には至っていません。",
-  "global_panic_index": 72,
+  "date": "2026-03-25",
+  "summary": "世界各地でエネルギー不足に起因する社会不安とパニック行動が顕著になっています。特に南アジアのインドではLPGおよび燃料不足が広範な抗議デモや交通麻痺を引き起こし、警戒状態にあります。オーストラリアやアフリカの一部地域でも燃料不足による買いだめや供給網の混乱が深刻化。北米では金融システムへの潜在的な不安が報じられており、今後の動向が注視されます。生活必需品の供給不安定が人々の行動に大きな影響を与え始めています。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 40,
+      "panic_index": 50,
       "status": "unstable",
-      "main_cause": "金融・年金制度への将来的な不安",
+      "main_cause": "金融不安、社会保障制度への不信",
       "incidents": [
         {
-          "title": "Retirement panic as date set for Social Security to run out of cash",
-          "location": "U.S.",
-          "severity": 50,
-          "description": "米国の社会保障制度の資金枯渇時期が設定されたことで、退職後の生活に対する広範な社会不安が広がっている。具体的な混乱は起きていないが、将来への懸念が高まっている。",
+          "title": "プライベートクレジット企業の取り付け騒ぎ型パニックへの準備",
+          "location": "米国",
+          "severity": 65,
+          "description": "プライベートクレジット企業が投資家からの資金引き出し制限（ゲーティング）を準備しており、銀行の取り付け騒ぎ型パニックの発生に備えていることが報じられた。",
+          "source": "Protos | Informed crypto news"
+        },
+        {
+          "title": "社会保障資金枯渇に関する退職パニック",
+          "location": "米国",
+          "severity": 60,
+          "description": "社会保障資金が枯渇するとされる期日の設定が、退職を控えた人々を中心にパニックを引き起こしている。老後の生活設計への不安が広範囲に影響している。",
           "source": "MSN"
         },
         {
-          "title": "U.S. Private Credit Run Not a Distant Threat",
-          "location": "U.S.",
-          "severity": 30,
-          "description": "米国のプライベートクレジット市場における潜在的な取り付け騒ぎのリスクについて、専門家が警鐘を鳴らしている。現時点では表面的なパニックには至っていないが、金融システムへの警戒感が高まっている。",
+          "title": "米プライベートクレジット市場における取り付け騒ぎの脅威",
+          "location": "米国",
+          "severity": 55,
+          "description": "米国のプライベートクレジット市場における取り付け騒ぎのリスクが、もはや遠い脅威ではないと警告されており、金融市場に潜在的な不安をもたらしている。",
           "source": "서울경제신문"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 65,
+      "region": "africa",
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "買いだめによる物資不足懸念",
+      "main_cause": "エネルギー不足、集団逃避",
       "incidents": [
         {
-          "title": "The great toilet paper panic is back as Japan starts stockpiling",
-          "location": "Japan",
+          "title": "ケニアでの燃料不足深刻化と供給停止警告",
+          "location": "ケニア、ナイロビ",
+          "severity": 80,
+          "description": "ケニアのナイロビでは複数のガソリンスタンドが燃料枯渇に陥り、ディーラーからは供給停止の警告が出されている。燃料不足は市民生活と経済活動に深刻な打撃を与えている。",
+          "source": "Daily Nation / Bez Kabli"
+        },
+        {
+          "title": "Embuの女子学生集団逃避によるパニック",
+          "location": "ケニア、Embu",
+          "severity": 70,
+          "description": "EmbuのKangaru Girls学校で、夜間に多数の学生が学校から逃げ出すパニックが発生し、街中で目撃されている。集団心理による混乱が懸念される。",
+          "source": "MSN"
+        },
+        {
+          "title": "燃料不足によるガソリンスタンド枯渇と配給措置",
+          "location": "ケニア",
+          "severity": 75,
+          "description": "ケニア各地でガソリンスタンドが燃料不足により枯渇状態となり、一部地域では燃料の配給が開始されている。交通網への影響が深刻化している。",
+          "source": "standardmedia.co.ke"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、買いだめ",
+      "incidents": [
+        {
+          "title": "オーストラリア各地で広範な燃料不足とパニック買い",
+          "location": "オーストラリア（NSW州、Victoria州）",
+          "severity": 85,
+          "description": "NSW州とVictoria州で数百のガソリンスタンドが燃料不足により枯渇し、パニック買いがディーゼル不足を加速させている。価格高騰や窃盗の増加も報告されている。",
+          "source": "Fijivillage / MSN / 9News / Herald Sun / Daily Telegraph Sydney"
+        },
+        {
+          "title": "日本でトイレットペーパーの買いだめパニックが再燃",
+          "location": "日本",
           "severity": 65,
-          "description": "日本でトイレットペーパーの買いだめが再び発生しており、品薄への懸念から消費者が店舗に殺到する事態となっている。不安心理が具体的な買いだめ行動に繋がっている。",
-          "source": "Fortune"
+          "description": "日本でトイレットペーパーの買いだめ行動が再び見られ、過去の品不足パニックが再び起きるのではないかとの懸念が市民の間で広がっている。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 83,
-      "status": "critical",
-      "main_cause": "燃料不足とパニック買い",
-      "incidents": [
-        {
-          "title": "Thailand Diesel Shortage Crisis Deepens as Fuel Supplies Run Dry, Long Queues Stretch for Hours",
-          "location": "Thailand",
-          "severity": 80,
-          "description": "タイでディーゼル燃料の深刻な不足が発生し、ガソリンスタンドでは燃料が底をつき、何時間も続く長蛇の列が見られる。市民生活に大きな影響が出ている。",
-          "source": "Travel And Tour World"
-        },
-        {
-          "title": "More than 100 petrol stations run out of petrol across Victoria, energy minister says",
-          "location": "Victoria, Australia",
-          "severity": 85,
-          "description": "オーストラリアのビクトリア州で100ヶ所以上のガソリンスタンドが燃料切れとなり、供給不安から需要が急増。一部ではパニック買いも見られる。（※オーストラリアは地理的にオセアニアですが、指定されたカテゴリに最も近い「southeast_asia」に含めています。）",
-          "source": "Australian Broadcasting Corporation"
-        },
-        {
-          "title": "Over 100 fuel stations run dry across NSW: Panic buying causes diesel shortage amid supply strain",
-          "location": "New South Wales (NSW), Australia",
-          "severity": 88,
-          "description": "オーストラリアのニューサウスウェールズ州でも100ヶ所以上のガソリンスタンドが燃料不足に陥り、パニック買いがディーゼル不足を加速させている。供給網の脆弱性が露呈し、社会的な混乱が生じている。",
-          "source": "MSN"
-        },
-        {
-          "title": "Australia has less than 30 days of fuel left: what happens to the economy if it runs out?",
-          "location": "Australia",
-          "severity": 80,
-          "description": "オーストラリアが30日分の燃料しか備蓄していないとの報道があり、燃料が尽きた場合の経済への影響が懸念されている。広範な社会不安を引き起こし、対策が急務となっている。",
-          "source": "Switzer Daily"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 72,
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "エネルギー不足と政治的抗議",
+      "main_cause": "エネルギー不足",
       "incidents": [
         {
-          "title": "Pakistan To Run Out Of LNG Within 10 Days As Middle East Crisis Disrupts Hormuz Supplies",
-          "location": "Pakistan",
-          "severity": 75,
-          "description": "パキスタンが10日以内に液化天然ガス（LNG）が枯渇する見込みであり、中東情勢の緊迫化がホルムズ海峡を通る供給を妨げている。国家レベルでのエネルギー危機が迫り、社会への影響が懸念される。（※パキスタンは地理的に南アジアですが、指定されたカテゴリに最も近い「middle_east」に含めています。）",
-          "source": "timesnownews.com"
-        },
-        {
-          "title": "BRS working president KT Rama Rao flags \"severe\" LPG shortage; accuses Centre, State of misleading people",
-          "location": "India",
+          "title": "タイでディーゼル不足危機が深刻化し長蛇の列",
+          "location": "タイ",
           "severity": 70,
-          "description": "インドで深刻なLPG（調理用ガス）不足が発生しており、与野党間で責任のなすりつけ合いが起きている。市民生活に不可欠な資源の不足は、広範な社会不安と抗議活動を引き起こしている。（※インドは地理的に南アジアですが、指定されたカテゴリに最も近い「middle_east」に含めています。）",
-          "source": "ANI News"
-        },
-        {
-          "title": "BRS protests LPG shortage in Hyderabad, seeks urgent discussion in legislature",
-          "location": "Hyderabad, India",
-          "severity": 70,
-          "description": "インドのハイデラバードでBRS党がLPG不足に対する抗議デモを実施し、議会での緊急議論を求めている。生活に密着した物資の不足が、直接的な政治的行動に繋がっている。",
-          "source": "The Siasat Daily"
+          "description": "タイでディーゼル供給不足が深刻化し、ガソリンスタンドには燃料を求める長時間にわたる長蛇の列ができている。各地方が急増する需要への対応に苦慮している。",
+          "source": "Travel And Tour World"
         }
       ]
     },
     {
-      "region": "africa",
+      "region": "south_asia",
       "panic_index": 80,
       "status": "critical",
-      "main_cause": "燃料不足の深刻化",
+      "main_cause": "エネルギー不足、物価高騰に対する抗議",
       "incidents": [
         {
-          "title": "Kenya Fuel Shortage Deepens as Nairobi Pumps Run Dry, Dealers Warn of Supply Halt",
-          "location": "Nairobi, Kenya",
+          "title": "インド各地で燃料・LPG不足が大規模デモと混乱を誘発",
+          "location": "インド（デリー、ジンド、ハイデラバード、ジャイプール、ナーグプル、インドールなど）",
+          "severity": 90,
+          "description": "インドの複数都市でLPGおよび燃料不足が深刻化し、市民や政治家による大規模な抗議デモが頻発。交通麻痺やパニック買い、警察出動など社会秩序の混乱が広がっている。",
+          "source": "The News Mill / The Times of India / newsgram.com / ETV Bharat / lokmattimes.com / freepressjournal.in"
+        },
+        {
+          "title": "LPG不足によるジャイプールの交通麻痺",
+          "location": "インド、ジャイプール",
           "severity": 85,
-          "description": "ケニアのナイロビで燃料不足が深刻化し、ガソリンポンプが枯渇状態となっている。燃料販売業者は供給停止を警告しており、交通や経済活動への壊滅的な影響が懸念され、市民の間に大きな不安が広がっている。",
-          "source": "Bez Kabli"
+          "description": "LPG不足によりジャイプールの公共交通機関が混乱し、オートリキシャの燃料補給に長時間待機を強いられている。燃料が配給される異例の事態に陥っている。",
+          "source": "ETV Bharat"
         },
         {
-          "title": "Fuel shortage: Petrol stations run dry, ration as stock runs low",
-          "location": "Kenya",
-          "severity": 80,
-          "description": "ケニアでは燃料不足によりガソリンスタンドが枯渇し、残りの在庫も底をつきかけているため、配給制が実施されている。これは市民の日常生活に直接的な混乱をもたらし、社会不安を増大させている。",
-          "source": "standardmedia.co.ke"
+          "title": "ナーグプルを襲う燃料パニックと都市機能の混乱",
+          "location": "インド、ナーグプル",
+          "severity": 88,
+          "description": "ナーグプルでは24以上のガソリンスタンドが燃料枯渇し、都市は燃料パニックに包まれ、混乱により機能が麻痺している。市民の不安が深刻化している。",
+          "source": "The Times of India"
         },
         {
-          "title": "Some Vivo stations run dry as fuel shortage fears mount",
-          "location": "Kenya",
+          "title": "テルガンガナ州でLPG価格高騰・不足に対する議会抗議",
+          "location": "インド、テルガンガナ州",
           "severity": 75,
-          "description": "ケニアの一部Vivoガソリンスタンドで燃料が枯渇し、燃料不足への懸念が高まっている。現時点では広範なパニックではないものの、供給網の脆弱性に対する不安が市民の間で広がっている。",
-          "source": "Business Daily"
+          "description": "テルガンガナ州ではBRSの議員らがLPGの価格高騰と不足に対し、議会内で大規模な抗議デモを実施。生活必需品価格への不満が政治的な動きに発展している。",
+          "source": "newsgram.com / Devdiscourse / indtoday.com / munsifdaily.com"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 90,
-      "status": "critical",
-      "main_cause": "大規模な暴動と政治的不安定",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "汚職・スキャンダル（直接のパニックは低い）",
       "incidents": [
         {
-          "title": "デモ隊vs警察 花火飛び交う暴動に催涙ガスも 首相への退陣要求 アルバニア",
-          "location": "Albania",
-          "severity": 90,
-          "description": "アルバニアで大規模な抗議デモが暴動に発展し、デモ隊と警察の間で花火や催涙ガスが飛び交う激しい衝突が発生。首相の退陣を求める声が高まっており、社会秩序の不安定化が懸念される。",
-          "source": "Yahoo!ニュース"
+          "title": "エプスタイン関連調査でパリの銀行が捜索",
+          "location": "フランス、パリ",
+          "severity": 30,
+          "description": "エプスタイン事件に関連する外交官の捜査の一環として、エドモン・ド・ロスチャイルドのパリ事務所が捜索された。直接のパニック行動は起きていないが、金融界への影響が懸念される。",
+          "source": "Reuters"
         }
       ]
     }

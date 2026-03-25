@@ -1,5 +1,123 @@
 [
   {
+    "date": "2026-03-25",
+    "summary": "中東地域で緊張が高まる。イラン関連施設への攻撃、イスラエルとヒズボラの衝突が発生。中国はフィリピン艦艇への武器照準を実施、海底調査も活発化。欧米は対抗措置を講じている。",
+    "events": [
+      {
+        "id": "event-001",
+        "timestamp": "2026-03-23",
+        "location": "バーレーン",
+        "region": "middle_east",
+        "title": "パトリオットミサイルの爆発事故",
+        "content": "米軍が運用する可能性のあるパトリオットミサイルがバーレーンで爆発し、多数の民間人が負傷。住宅が損壊する被害が発生。",
+        "involved_parties": [
+          "米軍",
+          "バーレーン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/2026/03/23/patriot-missile-involved-in-bahrain-blast-likely-us-operated-analysis-finds/"
+      },
+      {
+        "id": "event-002",
+        "timestamp": "2026-03-23",
+        "location": "トルコ北部",
+        "region": "europe",
+        "title": "米国製機雷掃海用無人艇が漂着・爆破処理",
+        "content": "米国製のAEGIR-W型機雷掃海用無人艇がトルコ北部の海岸に漂着。信管が作動状態であったため、爆破処理が実施された。",
+        "involved_parties": [
+          "アメリカ",
+          "トルコ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/23/us-made-naval-drone-with-active-warhead-washes-up-in-northern-turkey-gets-blown-up/"
+      },
+      {
+        "id": "event-003",
+        "timestamp": "2026-03-20",
+        "location": "スコットランド",
+        "region": "europe",
+        "title": "イランのスパイ容疑者逮捕",
+        "content": "イギリスの原子力潜水艦基地付近で、イランのスパイ容疑者2名が逮捕されたと報道。",
+        "involved_parties": [
+          "イギリス",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/20/two-suspected-iranian-spies-reportedly-arrested-near-uk-submarine-base/"
+      },
+      {
+        "id": "event-004",
+        "timestamp": "2026-03-19",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエル軍がヒズボラに対する地上侵攻を開始",
+        "content": "イスラエルがレバノンにおいて、ヒズボラに対する地上侵攻作戦を継続。アメリカとイスラエルによるイランへの軍事作戦とは別行動だが、互いに影響しあう可能性。",
+        "involved_parties": [
+          "イスラエル",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/19/israel-forges-ahead-on-ground-incursion-against-hezbollah-in-lebanon/"
+      },
+      {
+        "id": "event-005",
+        "timestamp": "2026-03-19",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米軍が地下ミサイル貯蔵施設を攻撃",
+        "content": "アメリカ軍が新型のバンカーバスター爆弾を使用し、イランの地下ミサイル貯蔵施設を攻撃。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/us-strikes-iranian-underground-missile-storage-with-5000-pound-penetrator/"
+      },
+      {
+        "id": "event-006",
+        "timestamp": "2026-03-19",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "A-10攻撃機がイランの高速艇を攻撃",
+        "content": "アメリカ空軍のA-10攻撃機が「オペレーション・エピック・フューリー」で作戦展開し、ホルムズ海峡においてイランの高速攻撃艇を標的とした。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/a-10-warthogs-target-iranian-fast-attack-craft-in-strait-of-hormuz/"
+      },
+      {
+        "id": "event-007",
+        "timestamp": "2026-03-上旬",
+        "location": "南シナ海",
+        "region": "east_asia",
+        "title": "中国艦艇がフィリピン艦艇に武器照準",
+        "content": "3月上旬、中国のコルベット艦がフィリピンのフリゲート艦に対し、武器管制レーダーを照射する事案が発生。フィリピン当局が発表。",
+        "involved_parties": [
+          "中国",
+          "フィリピン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/24/chinese-corvette-recently-trained-its-weapons-on-philippine-frigate-officials-confirm/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-24",
     "summary": "中東地域において、アメリカとイランの緊張が継続。ホルムズ海峡でのA-10攻撃、イランのミサイル貯蔵施設への攻撃が発生。イスラエルはレバノンでヒズボラに対する地上侵攻を継続。",
     "events": [
