@@ -1,5 +1,155 @@
 [
   {
+    "date": "2026-03-26",
+    "summary": "中東地域での緊張が高まる。イランに対する攻撃と、それに対する周辺国の対応が活発化。ウクライナは中東へ部隊を派遣し、ドローン対策支援を実施。中国軍はフィリピン艦艇へ武器を照射。米軍はイランのミサイル貯蔵施設を攻撃を実施。",
+    "events": [
+      {
+        "id": "event-001",
+        "timestamp": "2026-03-19",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米軍、イランの地下ミサイル貯蔵施設を攻撃",
+        "content": "米軍は新型のバンカーバスター爆弾を使用し、イランの地下ミサイル貯蔵施設を攻撃。5000ポンドの貫通爆弾が使用された。これによりイランのミサイル能力に影響が出ることが予想される。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/us-strikes-iranian-underground-missile-storage-with-5000-pound-penetrator/"
+      },
+      {
+        "id": "event-002",
+        "timestamp": "2026-03-23",
+        "location": "バーレーン",
+        "region": "middle_east",
+        "title": "パトリオットミサイルがバーレーンで爆発、多数の負傷者",
+        "content": "バーレーンでパトリオットミサイルが爆発し、多数の市民が負傷。米国が運用している可能性が高いと分析されている。戦争開始から10日後の出来事。",
+        "involved_parties": [
+          "アメリカ軍",
+          "バーレーン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/2026/03/23/patriot-missile-involved-in-bahrain-blast-likely-us-operated-analysis-finds/"
+      },
+      {
+        "id": "event-003",
+        "timestamp": "2026-03-23",
+        "location": "トルコ北部",
+        "region": "europe",
+        "title": "米国製軍事用ドローンがトルコの海岸に漂着、爆破処理",
+        "content": "実弾を搭載したアメリカ製のAEGIR-W型海軍ドローンがトルコ北部の海岸に漂着。回収後、爆破処理された。経緯は不明。",
+        "involved_parties": [
+          "アメリカ軍",
+          "トルコ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/23/us-made-naval-drone-with-active-warhead-washes-up-in-northern-turkey-gets-blown-up/"
+      },
+      {
+        "id": "event-004",
+        "timestamp": "2026-03-24",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "イラン国内の学校への攻撃",
+        "content": "ウクライナのドローン開発者は、イラン国内の学校への攻撃は、半自律型戦争の危険性を示すと指摘。攻撃主体や詳細は不明。",
+        "involved_parties": [
+          "不明",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/24/deadly-iran-school-strike-casts-shadow-over-pentagons-ai-targeting-push/"
+      },
+      {
+        "id": "event-005",
+        "timestamp": "2026-03-24",
+        "location": "南シナ海",
+        "region": "east_asia",
+        "title": "中国コルベット艦がフィリピンのフリゲート艦に武器を照射",
+        "content": "3月初旬、中国海軍のコルベット艦がフィリピン海軍のフリゲート艦に対し、武器管制レーダーを照射。緊張を高める行為としてフィリピン側が非難。",
+        "involved_parties": [
+          "中国海軍",
+          "フィリピン海軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/24/chinese-corvette-recently-trained-its-weapons-on-philippine-frigate-officials-confirm/"
+      },
+      {
+        "id": "event-006",
+        "timestamp": "2026-03-19",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエル、レバノンのヒズボラに対する地上侵攻を開始",
+        "content": "イスラエル軍がレバノン領内のヒズボラに対して地上侵攻を開始。アメリカとイスラエルによる対イラン戦争とは別であるものの、事態の相互作用は不可避とみられる。",
+        "involved_parties": [
+          "イスラエル軍",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/19/israel-forges-ahead-on-ground-incursion-against-hezbollah-in-lebanon/"
+      },
+      {
+        "id": "event-007",
+        "timestamp": "2026-03-20",
+        "location": "中東5カ国",
+        "region": "middle_east",
+        "title": "ウクライナ、中東5カ国にドローン迎撃部隊を派遣",
+        "content": "ウクライナが中東5カ国にドローン迎撃部隊を派遣。見返りとして資金や技術を求めている。アメリカもウクライナの支援を求めた国のひとつ。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "中東各国"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/20/ukraine-deploys-units-to-5-middle-east-countries-to-intercept-drones/"
+      },
+      {
+        "id": "event-008",
+        "timestamp": "2026-03-20",
+        "location": "スコットランド",
+        "region": "europe",
+        "title": "イランのスパイ容疑者2名、英国の潜水艦基地付近で逮捕",
+        "content": "イランのスパイ容疑者2名がスコットランドにある英国の原子力潜水艦基地に侵入しようとしたとして逮捕された。",
+        "involved_parties": [
+          "英国警察",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/20/two-suspected-iranian-spies-reportedly-arrested-near-uk-submarine-base/"
+      },
+      {
+        "id": "event-009",
+        "timestamp": "2026-03-23",
+        "location": "ペルシャ湾・ホルムズ海峡",
+        "region": "middle_east",
+        "title": "アメリカとイギリスが水中ドローン対策で協力",
+        "content": "アメリカとイギリスが、港湾などの重要インフラに対する水中ドローンの脅威に対処するため協力。ホルムズ海峡の封鎖という事態も想定されている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イギリス軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/naval/2026/03/23/us-and-uk-teaming-up-to-destroy-underwater-drones/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-25",
     "summary": "中東地域における緊張が継続。イラン関連施設への攻撃、およびイランと敵対する勢力への軍事支援が確認された。中国の軍事活動も活発化している。",
     "events": [

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-26",
+    "summary": "中東におけるイランを巡る緊張が極めて高く、ホルムズ海峡の封鎖危機や米国の軍事介入の可能性が懸念される。ウクライナ情勢も依然として不安定であり、世界経済への影響が深刻化している。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "high",
+      "south_asia": "none",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "none",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-03-26T01:49:35.146581"
+  },
+  {
     "date": "2026-03-25",
     "summary": "中東情勢はアメリカとイランの対立激化により危機的な状況が継続。ウクライナ情勢もロシアの攻勢が強まり、エネルギー危機や世界遺産の破壊など影響が拡大。ベラルーシと北朝鮮の接近も新たな懸念材料。",
     "overall_risk_level": "critical",
