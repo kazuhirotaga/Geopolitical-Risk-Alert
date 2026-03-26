@@ -1,110 +1,102 @@
 {
   "date": "2026-03-26",
-  "summary": "世界各地でエネルギー不足が社会不安の主要因となっており、特にインドやオーストラリアでは燃料のパニック買いや供給停止、大規模な抗議デモに発展しています。フィリピンではエネルギー緊急事態が宣言され、欧州も中東紛争の激化により燃料枯渇の懸念に直面。ナイジェリアでは武装勢力による襲撃がパニックと学生デモを引き起こしています。全体的に、資源供給の不安定化が広範な社会心理的緊張を高めています。",
-  "global_panic_index": 60,
+  "summary": "世界各地では、主にエネルギー不足（燃料、調理用ガス）を原因とする社会不安が顕著に高まっています。特にヨーロッパでは地政学的な要因から燃料枯渇の危機が迫り、インドやオーストラリアではパニック買いや供給停止、交通麻痺が報告されています。アフリカと中東の一部地域では、暴力や政治的対立による社会秩序の不安定化が深刻化しています。全体として、複数の地域で市民生活と経済活動に直接的な影響を及ぼす状況が広がっており、警戒状態にあります。",
+  "global_panic_index": 70,
   "regions": [
     {
-      "region": "oceania",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "燃料不足、中東紛争の影響",
-      "incidents": [
-        {
-          "title": "オーストラリア全土で燃料パニック買い、500以上のスタンドが枯渇",
-          "location": "オーストラリア (NSW州、WA州など全国)",
-          "severity": 80,
-          "description": "中東紛争の激化による燃料供給不安から、オーストラリア全国でパニック買いが発生。500を超えるガソリンスタンドが燃料切れとなり、価格高騰や窃盗の増加も報告され、市民生活に混乱が生じている。",
-          "source": "News.com.au, PerthNow, MSN, Carsales, The West Australian, Fijivillage"
-        },
-        {
-          "title": "イラン、オーストラリアの燃料不足を揶揄",
-          "location": "オーストラリア/イラン (国際関係)",
-          "severity": 50,
-          "description": "オーストラリアの深刻な燃料不足が国際的な話題となり、イランのメディアが状況を揶揄する報道を行った。国内の社会不安が国際的な情報戦に利用される一例となっている。",
-          "source": "The Nightly"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "LPG・燃料不足",
-      "incidents": [
-        {
-          "title": "インド各地でLPG不足に対する大規模抗議デモが発生",
-          "location": "インド (ビシャカパトナム、メダック、マルカンギリなど全国各地)",
-          "severity": 70,
-          "description": "調理用ガス（LPG）の供給不足が深刻化し、インド各地で住民による抗議デモが頻発。野党議員も議会で抗議の声を上げ、政府に対し早急な問題解決を求める動きが拡大している。",
-          "source": "The Hindu, News.com.au, boldnewsonline.com, MSN, The Hans India, Devdiscourse, NDTV, The Statesman, english.punjabkesari.com, daijiworld.com"
-        },
-        {
-          "title": "インド、噂によりガソリンパニック買いとスタンド枯渇",
-          "location": "インド (メダック)",
-          "severity": 65,
-          "description": "燃料不足に関する噂が広範囲に蔓延し、メダック市内のガソリンスタンドでパニック買いが連鎖的に発生した。結果として、多くのスタンドが燃料切れとなり、市民の移動や生活に大きな支障をきたしている。",
-          "source": "Telangana Today"
-        },
-        {
-          "title": "ネパール、銀行と借り手の紛争で住宅競売に抗議",
-          "location": "ネパール",
-          "severity": 40,
-          "description": "銀行と借り主間の金融紛争が激化し、住宅競売に対する抗議委員会が設置された。これにより法的な措置の執行が一時的に阻止され、地域住民の間で金融に関する局所的な緊張が生じている。",
-          "source": "The Rising Nepal"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "燃料不足",
-      "incidents": [
-        {
-          "title": "フィリピン、燃料不足でエネルギー緊急事態宣言",
-          "location": "フィリピン",
-          "severity": 60,
-          "description": "国内での燃料供給の不足が深刻化し、政府が全国的なエネルギー緊急事態を宣言した。この措置は国民生活や経済活動への広範な影響が懸念され、今後の供給安定化に向けた迅速な対応が求められている。",
-          "source": "Bangkok Post"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "政府機関の武装襲撃、学生抗議",
-      "incidents": [
-        {
-          "title": "ナイジェリア、EFCC武装隊による襲撃で学生パニック、大規模抗議デモ",
-          "location": "ナイジェリア (クワラ州ポリテクニーク)",
-          "severity": 70,
-          "description": "武装したEFCC（経済金融犯罪委員会）による大学コミュニティへの突然の襲撃が、学生の間で大規模なパニックと抗議行動を引き起こした。治安部隊と市民、特に若者の間の緊張が高まっている。",
-          "source": "saharareporters.com, thenigeriaeducationnews.com"
-        }
-      ]
-    },
-    {
       "region": "europe",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "中東紛争による燃料供給不安",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "エネルギー不足、地政学的リスク",
       "incidents": [
         {
-          "title": "欧州、中東紛争悪化で数週間以内に燃料枯渇の恐れ",
+          "title": "イラン戦争によるヨーロッパ燃料枯渇の危機",
           "location": "ヨーロッパ全域",
-          "severity": 55,
-          "description": "中東紛争の激化が続く中、欧州が数週間以内に燃料供給危機に直面する可能性が指摘されている。具体的なパニック行動は見られないものの、各国政府や市民の間で深刻な懸念が広がっている。",
+          "severity": 85,
+          "description": "イラン戦争の継続により、ヨーロッパが数週間以内に燃料不足に陥る可能性があると報じられており、経済活動と市民生活への深刻な影響が懸念されています。",
           "source": "MSN"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 50,
+      "panic_index": 80,
       "status": "volatile",
-      "main_cause": "地域紛争の激化、地政学的リスク",
-      "incidents": []
+      "main_cause": "紛争、暴力、社会秩序の不安定化",
+      "incidents": [
+        {
+          "title": "ヨルダン川西岸での入植者暴力の継続",
+          "location": "ヨルダン川西岸",
+          "severity": 80,
+          "description": "国連機関の報告によると、ヨルダン川西岸ではイスラエル人入植者による住民への暴力が継続しており、地域住民の安全と生活が脅かされ、深刻な社会不安が高まっています。",
+          "source": "UNRWA"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 80,
+      "status": "volatile",
+      "main_cause": "政治的暴力、公権力による社会不安、学生デモ",
+      "incidents": [
+        {
+          "title": "ナイジェリアの大学でEFCCの襲撃と学生パニック",
+          "location": "クワラ工科大学, ナイジェリア",
+          "severity": 85,
+          "description": "経済金融犯罪委員会(EFCC)による銃を携えた襲撃が大学コミュニティでパニックを引き起こし、試験中の学生が抗議活動を開始。社会秩序の不安定化が懸念されます。",
+          "source": "saharareporters.com 他"
+        },
+        {
+          "title": "ナイジェリア、オスン州での政治的衝突の懸念",
+          "location": "オスン州, ナイジェリア",
+          "severity": 65,
+          "description": "地方政府の危機を巡り、二つの主要政党が抗議デモで衝突する可能性が報じられており、地域の社会不安が高まっています。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "エネルギー不足 (LPG, ガソリン, ディーゼル), 買いだめ、大規模な抗議デモ",
+      "incidents": [
+        {
+          "title": "オーストラリア全土で燃料不足深刻化、トラック立ち往生",
+          "location": "オーストラリア",
+          "severity": 85,
+          "description": "オーストラリアでディーゼル燃料不足が深刻化し、遠隔地の高速道路でトラックが立ち往生する危険性が指摘されています。全国で500以上のガソリンスタンドが枯渇状態に陥り、物流機能に深刻な支障が出ているため、市民の不満が高まっています。",
+          "source": "9News 他"
+        },
+        {
+          "title": "インド各地でガソリン・LPGのパニック買いと供給停止",
+          "location": "インド (ハイデラバード、メダック、全国)",
+          "severity": 80,
+          "description": "インドでは噂や実際の不足からガソリンやLPGのパニック買いが頻発。多くのガソリンスタンドで「在庫なし」の表示が掲げられ、市民の移動や経済活動に直接的な影響を及ぼし、混乱が生じています。",
+          "source": "ABP Live English 他"
+        },
+        {
+          "title": "インドで調理用ガス危機に対する大規模な抗議デモ",
+          "location": "インド (全国)",
+          "severity": 75,
+          "description": "インド全土で調理用ガス（LPG）の供給危機に対する大規模な抗議デモが頻発。市民の不満が爆発し、政府への批判が高まり社会的な緊張が増しています。",
+          "source": "Al Jazeera 他"
+        },
+        {
+          "title": "フィリピンで全国的な交通ストライキが発生",
+          "location": "バコロド, フィリピン",
+          "severity": 70,
+          "description": "フィリピンのバコロドを含む全国でジープニー運転手らが全国的な交通抗議に参加。公共交通機関が混乱し、市民の移動や経済活動に影響を与え、不便が生じています。",
+          "source": "Inquirer.net"
+        },
+        {
+          "title": "インド、LPGシリンダー価格高騰と不足への懸念",
+          "location": "インド",
+          "severity": 65,
+          "description": "インドでLPGシリンダーの価格高騰と供給不足に対する広範な懸念が市民の間で広がっており、生活費の増加と安定供給への不安から政府の対応が注目されています。",
+          "source": "Meghalaya Monitor 他"
+        }
+      ]
     }
   ]
 }

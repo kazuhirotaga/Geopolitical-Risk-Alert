@@ -1,53 +1,23 @@
 {
   "date": "2026-03-26",
-  "summary": "本日は、FRB関連の報道発表が中心。金融機関の規制強化や資本フレームワークの見直しに関するものが多く、金融システムの安定性維持に焦点が当てられている。具体的な要人発言は確認できず、政策提言や規制に関するものが中心。",
+  "summary": "本日は、FRB関連の報道発表が中心。金融機関の規制強化と監督に関する動きが見られる。直接的な要人発言は確認できず、政策変更の方向性を示唆する間接的な情報に留まる。市場への直接的な影響は限定的と考えられる。",
   "statements": [
     {
-      "speaker": "連邦準備制度理事会（FRB）",
-      "title": "政府機関",
-      "quote": "年次監査済み財務諸表を発表",
-      "context": "報道発表",
-      "analysis": "FRBの財務状況の透明性を示すもので、市場の信頼を維持する上で重要。ただし、具体的な政策変更や市場への直接的な影響は少ないと考えられる。",
-      "importance": "medium",
-      "tags": [
-        "FRB",
-        "財務諸表",
-        "透明性"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260325a.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会（FRB）",
-      "title": "政府機関",
-      "quote": "Ally Bankの元従業員およびRegions Bankの元従業員に対する執行措置を発行",
-      "context": "報道発表",
-      "analysis": "金融機関の不正行為に対するFRBの厳格な姿勢を示すもの。個別の事例であり、市場全体への影響は限定的だが、コンプライアンス遵守の重要性を再認識させる。",
+      "speaker": "該当なし",
+      "title": "該当なし",
+      "quote": "該当なし (報道発表のため、直接的な発言は含まれていません)",
+      "context": "該当なし",
+      "analysis": "FRBの報道発表は、具体的な政策変更の方向性を示唆するものの、直接的な要人発言ではないため、市場への影響は限定的です。ただし、規制強化の提案に対するコメント募集は、今後の金融政策の方向性を占う上で重要な情報源となります。",
       "importance": "low",
       "tags": [
+        "金融規制",
         "FRB",
-        "執行措置",
-        "不正行為",
-        "コンプライアンス"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260320a.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会（FRB）",
-      "title": "政府機関",
-      "quote": "規制資本フレームワークを近代化し、銀行システムの強さを維持するための提案に関する意見を募集",
-      "context": "報道発表",
-      "analysis": "銀行システムの安定性強化に向けた規制見直しの意向を示す。資本要件の変更は金融機関の経営に大きな影響を与える可能性があり、今後の詳細な提案内容と市場の反応を注視する必要がある。",
-      "importance": "high",
-      "tags": [
-        "FRB",
-        "規制資本",
-        "銀行システム",
-        "資本要件"
+        "銀行システム"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
     }
   ],
-  "generated_at": "2026-03-26T01:50:08.656199",
+  "generated_at": "2026-03-26T13:21:34.947273",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
