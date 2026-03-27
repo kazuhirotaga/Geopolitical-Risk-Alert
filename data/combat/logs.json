@@ -1,8 +1,57 @@
 [
   {
     "date": "2026-03-27",
-    "summary": "イスラエル・ヒズボラの戦闘激化、イランへの米軍攻撃、ウクライナによるバルト三国へのドローン攻撃など、複数の地域で緊張が高まっている。各国は防衛力強化や装備調達を進めている。",
+    "summary": "イスラエルとヒズボラの攻撃が激化しレバノンの戦闘地域が拡大。米国はイランに対し数百発のトマホークミサイルを使用。ウクライナのドローンがバルト三国に着弾。米軍はイランとの紛争で無人艇を初めて使用。",
     "events": [
+      {
+        "id": "1",
+        "timestamp": "2026-03-27",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエルとヒズボラの戦闘激化",
+        "content": "ヒズボラが防御線を維持するのではなく、攻撃に転じ、地形を利用して撤退。戦闘地域が拡大している。",
+        "involved_parties": [
+          "イスラエル",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
+      },
+      {
+        "id": "2",
+        "timestamp": "2026-03-27",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ軍によるトマホークミサイル攻撃",
+        "content": "アメリカ軍がイランに対し数百発のトマホークミサイルを使用。その消費ペースにペンタゴン内部で懸念が出ている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/27/us-uses-hundreds-of-tomahawk-missiles-on-iran-alarming-some-at-pentagon/"
+      },
+      {
+        "id": "3",
+        "timestamp": "2026-03-27",
+        "location": "バルト三国",
+        "region": "europe",
+        "title": "ウクライナのドローンがバルト三国に着弾",
+        "content": "ウクライナのドローンがバルト三国の全てに着弾。ロシアが意図的にリダイレクトした可能性も指摘されている。",
+        "involved_parties": [
+          "ウクライナ",
+          "ロシア？",
+          "バルト三国"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/"
+      },
       {
         "id": "EVENT_001",
         "timestamp": "2026-03-26",
@@ -37,6 +86,22 @@
         "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/03/26/pentagon-reportedly-weighs-diverting-ukraine-military-aid-to-middle-east/"
       },
       {
+        "id": "4",
+        "timestamp": "2026-03-26",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ軍が無人艇をイランとの紛争に投入",
+        "content": "アメリカ軍がイランとの紛争において無人艇を初めて使用したことを発表。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
+      },
+      {
         "id": "EVENT_003",
         "timestamp": "2026-03-24",
         "location": "南シナ海",
@@ -48,6 +113,37 @@
           "フィリピン海軍"
         ],
         "event_type": "clash",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/24/chinese-corvette-recently-trained-its-weapons-on-philippine-frigate-officials-confirm/"
+      },
+      {
+        "id": "5",
+        "timestamp": "2026-03-24",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "イランの学校への攻撃",
+        "content": "イランの学校への攻撃が発生。ウクライナのドローン開発者は、半自律型兵器の危険性を指摘。",
+        "involved_parties": [
+          "不明"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/24/deadly-iran-school-strike-casts-shadow-over-pentagons-ai-targeting-push/"
+      },
+      {
+        "id": "6",
+        "timestamp": "2026-03-24",
+        "location": "南シナ海",
+        "region": "east_asia",
+        "title": "中国艦艇がフィリピン艦艇に武器を向ける",
+        "content": "3月上旬、中国のコルベット艦がフィリピンのフリゲート艦に武器を向けた。挑発行為の一環とみられる。",
+        "involved_parties": [
+          "中国",
+          "フィリピン"
+        ],
+        "event_type": "other",
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/24/chinese-corvette-recently-trained-its-weapons-on-philippine-frigate-officials-confirm/"

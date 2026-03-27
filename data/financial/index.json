@@ -1,19 +1,16 @@
 [
   {
     "date": "2026-03-27",
-    "summary": "地政学的リスク（イラン情勢）、金融引き締め（米国債利回り上昇）、暗号資産市場の変動が複合的に作用し、市場の不確実性が高まっています。特に原油価格高騰とインフレ懸念が深刻化しており、注意が必要です。",
+    "summary": "地政学的リスク（米イラン間の緊張）の高まりと、それに伴う原油価格の高騰が株式市場に大きな影響を与え、ダウ平均は調整局面入り。テクノロジー株も大幅な下落に見舞われた。暗号資産市場も全体的に下落傾向にある。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "high",
       "europe": "medium",
-      "east_asia": "medium",
-      "south_america": "none",
-      "africa": "none",
-      "middle_east": "critical"
+      "east_asia": "low"
     },
-    "generated_at": "2026-03-27T19:01:54.537042"
+    "generated_at": "2026-03-27T21:40:57.832121"
   },
   {
     "date": "2026-03-26",
