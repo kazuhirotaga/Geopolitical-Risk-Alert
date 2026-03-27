@@ -1,5 +1,108 @@
 [
   {
+    "date": "2026-03-27",
+    "summary": "アメリカとイランの紛争において、アメリカが初めて無人ドローン艇を実戦配備。ウクライナへの軍事支援が中東へ転用される可能性。中国のコルベット艦がフィリピンのフリゲート艦に武器を照射する事件が発生。",
+    "events": [
+      {
+        "id": "EVENT_001",
+        "timestamp": "2026-03-26",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "アメリカ、イランとの紛争で無人ドローン艇を実戦配備",
+        "content": "アメリカがイランとの紛争において、無人ドローン艇を初めて実戦配備したと報じられた。具体的な作戦内容や損害状況は不明。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
+      },
+      {
+        "id": "EVENT_002",
+        "timestamp": "2026-03-26",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "ペンタゴン、ウクライナ軍事支援を中東へ転用検討",
+        "content": "ペンタゴンが、ウクライナ向けの軍事支援（NATO経由で購入した防空迎撃ミサイルなど）を中東へ転用することを検討していると報じられた。",
+        "involved_parties": [
+          "アメリカ国防総省",
+          "ウクライナ",
+          "NATO"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/03/26/pentagon-reportedly-weighs-diverting-ukraine-military-aid-to-middle-east/"
+      },
+      {
+        "id": "EVENT_003",
+        "timestamp": "2026-03-24",
+        "location": "南シナ海",
+        "region": "east_asia",
+        "title": "中国コルベット艦がフィリピンフリゲート艦に武器照射",
+        "content": "3月初旬、南シナ海において、中国のコルベット艦がフィリピンのフリゲート艦に対し武器を照射する事件が発生した。フィリピン当局は、中国による挑発行為であると非難。",
+        "involved_parties": [
+          "中国海軍",
+          "フィリピン海軍"
+        ],
+        "event_type": "clash",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/24/chinese-corvette-recently-trained-its-weapons-on-philippine-frigate-officials-confirm/"
+      },
+      {
+        "id": "EVENT_004",
+        "timestamp": "2026-03-23",
+        "location": "トルコ北部、ウニェ地区ユジェレル近郊の海岸",
+        "region": "europe",
+        "title": "アメリカ製 naval drone with active warhead がトルコで発見、爆破処理",
+        "content": "アメリカ製の兵器を搭載したnaval drone (AEGIR-W variant)がトルコ北部、ウニェ地区ユジェレル近郊の海岸で発見され爆破処理された。",
+        "involved_parties": [
+          "アメリカ軍",
+          "トルコ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/23/us-made-naval-drone-with-active-warhead-washes-up-in-northern-turkey-gets-blown-up/"
+      },
+      {
+        "id": "EVENT_005",
+        "timestamp": "2026-03-23",
+        "location": "バーレーン",
+        "region": "middle_east",
+        "title": "パトリオットミサイルがバーレーンで爆発、多数の市民が負傷",
+        "content": "アメリカが運用する可能性のあるパトリオットミサイルがバーレーンで爆発。多数の市民が負傷し、家屋が損壊した。",
+        "involved_parties": [
+          "アメリカ軍",
+          "バーレーン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/2026/03/23/patriot-missile-involved-in-bahrain-blast-likely-us-operated-analysis-finds/"
+      },
+      {
+        "id": "EVENT_006",
+        "timestamp": "2026-03-20",
+        "location": "スコットランド",
+        "region": "europe",
+        "title": "イギリスの原子力潜水艦基地付近でイランのスパイ容疑者2名逮捕",
+        "content": "イギリスの原子力潜水艦基地に侵入しようとしたイランのスパイ容疑者2名が逮捕された。",
+        "involved_parties": [
+          "イギリス",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/20/two-suspected-iranian-spies-reportedly-arrested-near-uk-submarine-base/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-26",
     "summary": "2026年3月20日から26日の間に、イラン、中国、ウクライナ周辺で緊張が高まっている。特に、イラン関連の諜報活動、中国軍によるフィリピン艦艇への武器照準、ウクライナ軍の中東への展開などが注目される。",
     "events": [
