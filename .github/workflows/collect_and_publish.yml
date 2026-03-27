@@ -2,9 +2,8 @@ name: Geopolitical Risk Collection & AI Report
 
 on:
   schedule:
-    # 毎日 UTC 0:00 と 12:00 に実行（JST 9:00 と 21:00）
-    - cron: '0 0 * * *'
-    - cron: '0 12 * * *'
+    # 3時間ごとに実行（1日8回更新）
+    - cron: '0 */3 * * *'
   workflow_dispatch:  # 手動実行も可能
 
 permissions:

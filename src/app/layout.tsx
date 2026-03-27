@@ -40,6 +40,7 @@ export default function RootLayout({
                 </a></li>
                 <li><a href="/statements">重要発言</a></li>
                 <li><a href="/articles">記事一覧</a></li>
+                <li><a href="/manual/oil-crisis">危機対策</a></li>
               </ul>
             </nav>
             <span className="header-updated">Powered by AI Agent</span>
