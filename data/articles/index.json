@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-03-27",
-    "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、人道危機が深刻化。エネルギー供給の混乱から世界経済への影響も懸念される。ウクライナ情勢も依然として不安定であり、地政学的リスクは全体的に高い。",
-    "overall_risk_level": "high",
-    "article_count": 8,
+    "summary": "中東におけるアメリカとイランの軍事衝突が激化し、世界的なエネルギー危機と食糧不安を引き起こしている。ウクライナ情勢も依然として不安定であり、地政学的リスクは全体的に高い。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
       "southeast_asia": "medium",
       "south_asia": "low",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
+      "europe": "high",
       "africa": "medium",
       "north_america": "medium",
-      "south_america": "low"
+      "south_america": "none"
     },
-    "generated_at": "2026-03-27T15:57:05.777968"
+    "generated_at": "2026-03-27T19:01:32.510064"
   },
   {
     "date": "2026-03-26",

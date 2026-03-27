@@ -1,17 +1,19 @@
 [
   {
     "date": "2026-03-27",
-    "summary": "イラン情勢緊迫化による原油価格高騰、インフレ懸念再燃、米金融政策の不確実性、AI技術の進化とサイバーセキュリティリスクなどが複合的に作用し、金融市場全体に高いリスクをもたらしている。特に中東地域のリスクが顕著。",
+    "summary": "地政学的リスク（イラン情勢）、金融引き締め（米国債利回り上昇）、暗号資産市場の変動が複合的に作用し、市場の不確実性が高まっています。特に原油価格高騰とインフレ懸念が深刻化しており、注意が必要です。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
-      "north_america": "medium",
+      "north_america": "high",
       "europe": "medium",
       "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
       "middle_east": "critical"
     },
-    "generated_at": "2026-03-27T15:57:28.681560"
+    "generated_at": "2026-03-27T19:01:54.537042"
   },
   {
     "date": "2026-03-26",
