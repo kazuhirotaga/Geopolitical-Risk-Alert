@@ -1,49 +1,79 @@
 {
   "date": "2026-03-28",
-  "summary": "世界各地で経済的な不安、特にエネルギー価格高騰とそれに伴う買いだめ・供給不足が顕著に見られます。指定されたカテゴリに「南アジア」が存在しないため、インド・ネパール・オーストラリアは「東南アジア」に分類されています。政治的な緊張や大規模デモも多発し、一部地域では衝突やテロ未遂といった深刻な事態も報告されています。物資不足への懸念と社会秩序の不安定化が広がり、全体的に不安感が増大している状況です。",
-  "global_panic_index": 70,
+  "summary": "世界各地でエネルギー不足や政治的緊張が社会不安の主要因となっています。南アジア、アフリカ、東南アジアでは燃料不足に対する大規模な抗議活動やパニック買い、一部で略奪行為が報告され、生活インフラへの影響が顕著です。欧州では金融機関へのテロ未遂が阻止されたものの、社会心理的な警戒は高まっています。全体的に不安が増大し、一部地域では警戒状態に移行していると評価されます。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 65,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "エネルギー不足、テロリスク",
+      "main_cause": "テロ未遂、政治的抗議",
       "incidents": [
         {
-          "title": "バンク・オブ・アメリカ建物へのテロ未遂阻止",
-          "location": "パリ, フランス",
+          "title": "パリの銀行ビルへのテロ未遂阻止",
+          "location": "フランス・パリ",
           "severity": 70,
-          "description": "フランス当局はパリのバンク・オブ・アメリカ建物に対する攻撃計画を阻止しました。未遂に終わったものの、金融機関を標的としたテロの脅威は社会不安を増大させています。",
-          "source": "TRT World, News4JAX, abcnews.com"
+          "description": "パリのBank of Americaビルに対する爆弾テロ未遂がフランス当局によって阻止されました。金融機関を標的とした攻撃計画は、社会の安定性への不安を高めます。",
+          "source": "TRT World, dw.com, News4JAX, WKMG, abcnews.com"
         },
         {
-          "title": "燃料価格高騰に伴うパニック買いとガソリンスタンド枯渇",
-          "location": "イギリス",
-          "severity": 60,
-          "description": "イギリス国内で燃料価格高騰への懸念からドライバーたちがガソリンを買いだめし、多くのガソリンスタンドで燃料が枯渇する事態が発生しています。市民の日常生活に直接影響を及ぼし、パニックが広がっています。",
-          "source": "The Sun"
+          "title": "インターネット遮断反対デモ計画で活動家召喚",
+          "location": "ロシア・トムスク",
+          "severity": 30,
+          "description": "インターネット遮断に対する抗議デモを計画した活動家が警察に召喚されました。これは言論の自由への制約に対する市民の不満を示しています。",
+          "source": "mezha.net"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "社会的不満、政治的抗議、移民問題",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "抗議デモ",
       "incidents": [
         {
-          "title": "ロサンゼルスでの移民抗議デモと国家警備隊出動",
-          "location": "ロサンゼルス, アメリカ",
-          "severity": 70,
-          "description": "ロサンゼルスで移民問題に関する大規模な抗議デモが発生し、状況の悪化を受けて国家警備隊が出動しました。これは社会秩序への潜在的な脅威と市民の強い不満を示しています。",
+          "title": "「No Kings」ラリーが複数の都市で開催",
+          "location": "アメリカ・アルトン、フィラデルフィア",
+          "severity": 35,
+          "description": "「No Kings」と題されたラリーがアルトンとフィラデルフィアを含む複数の都市で開催され、広範な社会的不安を反映していると報じられました。具体的な暴徒化の報告は少ないものの、市民の不満が表出しています。",
+          "source": "Alton Telegraph, CBS News"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "買いだめ行動",
+      "incidents": [
+        {
+          "title": "トイレットペーパーの買いだめ再燃",
+          "location": "日本",
+          "severity": 55,
+          "description": "日本でトイレットペーパーの買いだめが再び発生しています。これは過去のパンデミック時の記憶が引き起こすパニック行動であり、供給不安が人々の購買行動に影響を与えています。",
           "source": "AOL.com"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "政治的混乱、エネルギー不足、略奪",
+      "incidents": [
+        {
+          "title": "ネパール元首相逮捕で大規模抗議デモと衝突",
+          "location": "ネパール・カトマンズ",
+          "severity": 80,
+          "description": "ネパールのKP Sharma Oli元首相が致命的な抗議デモへの弾圧を巡り逮捕され、カトマンズで支持者と警察が衝突する大規模な抗議活動が発生し、政治的緊張が高まっています。",
+          "source": "BBC, www.christiandaily.com, msn.com, India Today, News The Truth, The Indian Express, pragativadi.com"
         },
         {
-          "title": "複数の都市での「No Kings」抗議デモ",
-          "location": "ナッシュビル、フィラデルフィア, アメリカ",
-          "severity": 40,
-          "description": "ナッシュビルとフィラデルフィアで「No Kings」と題された抗議デモが行われています。具体的な混乱は報じられていないものの、社会に対する不満が可視化されています。",
-          "source": "The Tennessean, CBS News"
+          "title": "インドでLPG不足に対する抗議と「略奪」",
+          "location": "インド・バティンダ、マンチェリアル",
+          "severity": 75,
+          "description": "インド各地でLPG（液化石油ガス）不足が深刻化し、バティンダでは男性が馬に乗ってガスボンベを「略奪」する抗議行動が発生。国会議員も不足を訴えるなど、生活必需品不足がパニックを引き起こしています。",
+          "source": "tribuneindia.com, msn.com, The Times of India, telanganatoday.com, Punjab Newsline"
         }
       ]
     },
@@ -51,64 +81,51 @@
       "region": "middle_east",
       "panic_index": 60,
       "status": "unstable",
-      "main_cause": "地域紛争、資源供給不安",
+      "main_cause": "政治的抗議、地域紛争",
       "incidents": [
         {
-          "title": "西岸地区での若者射殺と緊張状態",
-          "location": "西岸地区, パレスチナ",
-          "severity": 75,
-          "description": "イスラエル軍に射殺された若者の葬儀が西岸地区で行われ、これにより地域的な緊張がさらに高まっています。紛争の激化や報復行為への懸念が強く、社会不安が深まっています。",
-          "source": "Arab News"
+          "title": "バグダッドでハメネイ師死去後の抗議デモ",
+          "location": "イラク・バグダッド",
+          "severity": 65,
+          "description": "イラクのバグダッド・グリーンゾーン付近で、ハメネイ師の死去をきっかけとした抗議デモが発生しました。地域の政治的変動が社会不安を増幅させています。",
+          "source": "Fathom Journal"
         },
         {
-          "title": "イラン戦争による半導体原料不足の懸念",
-          "location": "イラン (影響は世界的)",
-          "severity": 50,
-          "description": "イランでの戦争が半導体生産に必要な原材料の不足を再発させる可能性が指摘されています。これは広範な産業に影響を与え、世界経済に新たなパニックを引き起こす潜在的リスクを抱えています。",
-          "source": "drive.com.au"
+          "title": "ヨルダン川西岸地区でイスラエル軍による少年射殺",
+          "location": "パレスチナ・ヨルダン川西岸地区",
+          "severity": 70,
+          "description": "ヨルダン川西岸地区でイスラエル軍により少年が射殺され、その埋葬が行われました。これは地域の恒常的な暴力と緊張状態が続くことを示しています。",
+          "source": "Arab News"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "燃料不足、パニック買い",
+      "incidents": [
+        {
+          "title": "燃料価格高騰とガソリンスタンドの枯渇、パニック買い",
+          "location": "南アフリカ",
+          "severity": 85,
+          "description": "南アフリカでは燃料価格の高騰とそれに伴うパニック買いにより、ガソリンスタンドで燃料が枯渇する事態が発生しています。これは市民生活に直接的な混乱をもたらし、警戒状態を超えたパニック状況です。",
+          "source": "msn.com, News24, The Sun"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 78,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "政治的混乱、エネルギー不足、買いだめ",
+      "main_cause": "燃料不足、大規模抗議",
       "incidents": [
         {
-          "title": "ネパール前首相逮捕後の抗議デモと警察との衝突",
-          "location": "カトマンズ, ネパール",
-          "severity": 80,
-          "description": "ネパールで前首相の逮捕を受けて大規模な抗議デモが発生し、デモ参加者と警察との間で衝突が起きています。政治的混乱が社会秩序を不安定にし、市民の安全に影響を及ぼしています。",
-          "source": "BBC, India Today, MSN"
-        },
-        {
-          "title": "インドでのLPG不足に抗議し、ガスボンベを略奪",
-          "location": "バティンダ, インド",
-          "severity": 85,
-          "description": "インドのバティンダで、LPG（液化石油ガス）の深刻な不足に抗議するため、男性が馬に乗ってガスボンベを略奪する事件が発生しました。これは物資不足と法の支配に対する深刻な挑戦であり、パニックの兆候です。",
-          "source": "Tribune India"
-        },
-        {
-          "title": "インド・デリー市議会でLPG不足を巡る抗議で議会中断",
-          "location": "デリー, インド",
+          "title": "燃料不足がフィリピン全土で抗議を誘発",
+          "location": "フィリピン・マニラ",
           "severity": 75,
-          "description": "インドのデリー市議会で、LPG不足を巡る野党議員の抗議により議会が中断しました。市民生活に直結する深刻な問題が政治の中心を麻痺させており、社会の機能不全への懸念が高まっています。",
-          "source": "The Times of India, devdiscourse.com, The New Indian Express"
-        },
-        {
-          "title": "インドでの燃料価格高騰がパニック買いを引き起こす",
-          "location": "インド",
-          "severity": 70,
-          "description": "インド国内で燃料価格の急激な高騰を受け、各地でパニック買いが発生しています。供給不足への懸念が市民を駆り立て、非合理的な行動へとつながり、混乱を招いています。",
-          "source": "MSN"
-        },
-        {
-          "title": "オーストラリアでの燃料パニック買いと政府の非難",
-          "location": "シドニー, オーストラリア",
-          "severity": 65,
-          "description": "オーストラリアで燃料のパニック買いが広がり、政府が「非オーストラリア的」と非難する声明を発表しました。これは社会不安が消費者行動に大きな影響を与えていることを示しています。",
-          "source": "Daily Telegraph Sydney, The Nightly"
+          "description": "フィリピンでは燃料不足が深刻化し、マニラを中心に全国規模の抗議活動が発生しています。生活必需品へのアクセスが脅かされることで、広範な社会不安が広がっています。",
+          "source": "Peoples Gazette Nigeria"
         }
       ]
     }
