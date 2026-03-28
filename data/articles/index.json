@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-03-28",
-    "summary": "アメリカ・イスラエルによるイランへの軍事作戦が1か月経過し、中東情勢は極めて不安定。エネルギー供給への影響が深刻化し、サイバー攻撃や周辺地域への波及も懸念される。米国内の政治的緊張も高まっている。",
+    "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、地域全体が不安定化。ウクライナ情勢も膠着状態が続く。ネパールでは政権交代と前首相の逮捕が発生し、国内情勢が不安定化している。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "medium",
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
-      "africa": "medium",
+      "europe": "high",
+      "africa": "low",
       "north_america": "high",
-      "south_america": "medium"
+      "south_america": "low"
     },
-    "generated_at": "2026-03-28T09:42:34.461177"
+    "generated_at": "2026-03-28T13:03:33.149151"
   },
   {
     "date": "2026-03-27",

@@ -1,17 +1,51 @@
 {
   "date": "2026-03-28",
-  "summary": "地政学的リスク（イラン戦争）とインフレ懸念から、株式市場は大幅な下落に見舞われ、原油価格は高騰。暗号資産市場も連動して下落し、リスクオフの動きが加速している。AI関連技術の進展がサイバーセキュリティ分野に及ぼす影響も懸念される。",
-  "overall_risk_level": "high",
+  "summary": "中東情勢の緊迫化による原油価格高騰が市場を圧迫。インフレ懸念からFRBの利上げ観測も浮上し、株式市場は大幅下落。AIモデルのリーク問題や暗号資産市場の不安定さもリスク要因として顕在化している。",
+  "overall_risk_level": "critical",
   "articles": [
+    {
+      "title": "Analysis: A new oil shock is building. The next few weeks of war will be decisive for the economy.",
+      "region": "global",
+      "risk_level": "critical",
+      "summary": "エネルギー市場は供給途絶のリスクを反映し始めている。中東戦争の激化が原油価格を押し上げ、世界経済に深刻な影響を与える可能性が高まっている。",
+      "analysis": "中東戦争による原油供給の混乱は、世界経済に深刻な影響を与える可能性が高い。特に、ホルムズ海峡の封鎖などが現実となれば、原油価格は急騰し、インフレを加速させるだろう。企業収益の悪化や消費者の購買力低下を通じて、景気後退を招くリスクも高まる。今後の数週間が経済の行方を左右する重要な局面となる。",
+      "key_entities": [
+        "OPEC",
+        "IEA",
+        "FRB"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
     {
       "title": "Dow tumbles almost 800 points and enters correction, S&P 500 posts fifth straight losing week: Live updates",
       "region": "global",
       "risk_level": "high",
-      "summary": "原油価格の上昇と米国債利回りの急騰が株式市場を圧迫し、ダウ平均は大幅下落、調整局面入り。S&P500も5週連続で下落。",
-      "analysis": "原油高はインフレ懸念を再燃させ、FRBの利上げ継続観測を強めている。米国債利回りの上昇は、企業の借入コストを増加させ、株式市場の割高感を意識させる要因となっている。地政学的リスク（イラン戦争）の長期化も不透明感を増幅させており、投資家心理は悪化している。短期的には、さらなる下落リスクも考えられる。",
+      "summary": "原油価格の上昇と米国債利回りの急騰が株式市場を圧迫し、ダウ平均は大幅下落で調整局面入り。S&P500も5週連続で下落している。",
+      "analysis": "原油価格の高騰はインフレ懸念を再燃させ、米国債利回りの上昇を招いている。これが株式市場の重石となり、特に金利上昇に弱いハイテク株を中心に売りが広がっている。市場心理は悪化しており、リスクオフの流れが強まっている。FRBの金融政策に対する不透明感も、市場の不安定さを増幅させている。",
       "key_entities": [
-        "Dow Jones",
-        "S&P 500",
+        "FRB",
+        "ダウ平均",
+        "S&P500"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "原油価格上昇によるインフレ懸念の高まりから、市場はFRBが2026年末までに利上げに転じる可能性を52%と見ている。",
+      "analysis": "市場は、FRBがインフレ抑制のために利上げに踏み切る可能性を織り込み始めている。これは、これまでFRBが示唆してきた利下げ期待を大きく覆すものであり、株式市場や債券市場に大きな影響を与える可能性がある。特に、高PERのグロース株や長期債券は、金利上昇の影響を受けやすい。",
+      "key_entities": [
         "FRB",
         "米国債"
       ],
@@ -23,15 +57,14 @@
       ]
     },
     {
-      "title": "Oil prices close at highest level since 2022 as Iran negotiations fail to ease supply fears",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "イランとの交渉決裂による供給不安から、原油価格は2022年以来の高値を記録。トランプ大統領の発言も市場を動揺させている。",
-      "analysis": "イラン情勢の緊迫化は、原油供給の途絶リスクを高め、世界経済に深刻な影響を与える可能性がある。原油価格の高騰は、インフレを加速させ、企業収益を圧迫する。また、地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株式市場や新興国市場からの資金流出を招く可能性がある。トランプ大統領の動向も市場の不確実性を高める要因となっている。",
+      "title": "Tech stocks suffer worst week in nearly a year, driven down by war worries, Meta legal woes",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "中東戦争への懸念とMetaの訴訟問題が重なり、テクノロジー株は過去1年で最悪の週となった。原油価格の上昇もテクノロジー株を圧迫している。",
+      "analysis": "テクノロジー株は、地政学的リスクと個別企業のネガティブなニュースが重なり、大幅な下落に見舞われている。特に、Metaの訴訟問題は、同社の収益見通しに対する懸念を高めている。原油価格の上昇は、サプライチェーンの混乱や輸送コストの増加を通じて、テクノロジー企業の収益を圧迫する可能性がある。",
       "key_entities": [
-        "イラン",
-        "トランプ大統領",
-        "OPEC"
+        "Meta",
+        "Micron"
       ],
       "sources": [
         "CNBC - Top News"
@@ -41,18 +74,17 @@
       ]
     },
     {
-      "title": "Economist Nouriel Roubini: Trump is likely to escalate the Iran war — risking '1970s stagflation'",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "著名エコノミストのルービニ氏は、トランプ大統領がイラン戦争をエスカレートさせる可能性を指摘し、1970年代のスタグフレーションのリスクを警告。",
-      "analysis": "ルービニ氏の警告は、イラン情勢の悪化が世界経済に及ぼす深刻な影響を示唆している。スタグフレーションとは、インフレと景気後退が同時に進行する状態であり、政策対応が非常に困難となる。原油価格の高騰はインフレを加速させ、企業収益を圧迫する。また、地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、景気後退を招く可能性がある。",
+      "title": "Anthropic’s massive 'Claude Mythos' leak sends software names — and crypto — sharply lower",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "AnthropicのAIモデル「Claude Mythos」のリークが、ソフトウェア企業と暗号資産市場に大きな影響を与え、株価が急落している。",
+      "analysis": "AnthropicのAIモデルのリークは、サイバーセキュリティリスクの増大に対する懸念を高めている。特に、高度なAIモデルが悪用された場合、既存のセキュリティ対策を突破される可能性があり、企業や個人の情報が漏洩するリスクが高まる。また、AIモデルのリークは、AI開発競争の激化を招き、知的財産権の保護がより重要になる。",
       "key_entities": [
-        "ヌリエル・ルービニ",
-        "トランプ大統領",
-        "イラン"
+        "Anthropic",
+        "Claude Mythos"
       ],
       "sources": [
-        "CNBC - Top News"
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -62,8 +94,8 @@
       "title": "Bitcoin drops to two-week low as $300 million in longs are liquidated",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコイン価格が2週間ぶりの安値に下落。3億ドルのロングポジションが清算された。",
-      "analysis": "株式市場の下落や米国債利回りの上昇など、マクロ経済の不確実性が高まる中、リスク資産であるビットコインへの投資意欲が減退している。また、レバレッジをかけたロングポジションの清算は、価格下落を加速させる要因となる。短期的には、さらなる下落リスクも考えられる。",
+      "summary": "ビットコイン価格が2週間ぶりの安値を記録し、3億ドルのロングポジションが清算された。市場の不安定性が高まっている。",
+      "analysis": "ビットコイン価格の下落は、暗号資産市場全体のセンチメント悪化を招いている。特に、レバレッジをかけた取引を行っている投資家は、価格変動の影響を受けやすく、大規模な清算が発生するリスクがある。規制の不確実性やマクロ経済の変動も、暗号資産市場の不安定さを増幅させている。",
       "key_entities": [
         "Bitcoin"
       ],
@@ -75,31 +107,13 @@
       ]
     },
     {
-      "title": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model",
+      "title": "Bitcoin miners are becoming AI companies and selling their BTC to fund the transition",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Anthropicの強力なAIモデルのテスト報道を受け、サイバーセキュリティ関連株が下落。AIがビジネスモデルを破壊するとの懸念が背景。",
-      "analysis": "AI技術の進展は、サイバーセキュリティ分野に大きな変革をもたらす可能性がある。一方で、AIを活用した高度なサイバー攻撃のリスクも高まっており、既存のセキュリティ対策の有効性が低下するとの懸念がある。サイバーセキュリティ企業は、AI技術への対応を迫られており、競争環境が激化する可能性がある。",
+      "summary": "ビットコインマイナーがAI企業への転換を進めており、その資金調達のために保有するBTCを売却している。",
+      "analysis": "ビットコインマイナーのAI企業への転換は、暗号資産市場に新たな供給圧力を加える可能性がある。特に、大規模なBTCの売却は、価格の下落を招き、市場全体のセンチメントを悪化させる可能性がある。一方で、AI技術の発展は、暗号資産市場の効率性やセキュリティを高める可能性も秘めている。",
       "key_entities": [
-        "Anthropic",
-        "サイバーセキュリティ"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Morgan Stanley enters bitcoin ETF race with market-leading low fee",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "モルガン・スタンレーが低手数料でビットコインETF市場に参入。",
-      "analysis": "大手金融機関のビットコインETF市場への参入は、暗号資産市場の成熟度を高める上で重要な意味を持つ。低手数料競争は、投資家にとってメリットとなる一方、ETF運用会社の収益性を圧迫する可能性もある。規制環境の変化や市場のボラティリティなど、リスク要因も考慮する必要がある。",
-      "key_entities": [
-        "Morgan Stanley",
-        "Bitcoin ETF"
+        "Bitcoin"
       ],
       "sources": [
         "CoinDesk"
@@ -109,50 +123,14 @@
       ]
     },
     {
-      "title": "Strategy is accelerating its crypto purchases as rivals sit on the sidelines",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Strategy社がビットコイン購入を加速。企業財務資産としてのビットコイン需要が再び集中。",
-      "analysis": "Strategy社の積極的なビットコイン購入は、暗号資産に対する強気な姿勢を示している。しかし、他の企業が様子見姿勢を維持していることから、市場全体のトレンドを反映しているとは言い切れない。企業の財務戦略としてのビットコイン採用は、規制環境や市場のボラティリティなど、リスク要因を考慮する必要がある。",
-      "key_entities": [
-        "Strategy",
-        "Bitcoin"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "TSA funding update: House GOP spikes DHS funding proposal, extending shutdown that's caused airport delays",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "米議会が国土安全保障省（DHS）の資金調達案を否決し、政府機関の一部閉鎖が長期化。空港での遅延が発生。",
-      "analysis": "政府機関の一部閉鎖は、経済活動に悪影響を及ぼす可能性がある。空港での遅延は、ビジネスや観光に支障をきたし、経済損失を招く。また、政府機関の機能不全は、国民の信頼を損ない、政治的な不安定さを増幅させる可能性がある。",
-      "key_entities": [
-        "TSA",
-        "DHS",
-        "米議会"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Iran war wipes out $100 billion from luxury stocks",
+      "title": "Yemen's Houthis launch Israel strike, the first time since the U.S.-Israel war began",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イラン戦争により、高級品関連株の時価総額が1000億ドル減少。",
-      "analysis": "中東地域の緊張の高まりは、高級品市場に大きな打撃を与えている。特に、UAEのドバイは近年、高級品市場の成長を牽引してきたが、今回の紛争は、同地域の経済に深刻な影響を与える可能性がある。高級品関連企業は、地政学的リスクへの対応を迫られている。",
+      "risk_level": "critical",
+      "summary": "イエメンのフーシ派がイスラエルへの攻撃を開始。米国とイスラエルの戦争開始以来初めてであり、紛争の深刻なエスカレーションを示す。",
+      "analysis": "フーシ派によるイスラエルへの攻撃は、中東地域の紛争をさらに複雑化させる。地域全体への波及効果は大きく、原油価格の高騰やサプライチェーンの混乱を招く可能性がある。地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株式市場や新興国市場からの資金流出を招く可能性がある。",
       "key_entities": [
-        "高級品",
-        "イラン",
-        "UAE"
+        "フーシ派",
+        "イスラエル"
       ],
       "sources": [
         "CNBC - Top News"
@@ -162,14 +140,29 @@
       ]
     },
     {
-      "title": "Sony hikes PS5 prices by up to $150 citing 'pressures' in global economy",
+      "title": "Berkshire shares suffer longest losing streak in more than 7 years",
       "region": "global",
       "risk_level": "low",
-      "summary": "ソニーがPS5の価格を最大150ドル引き上げ。世界経済の圧力、特にメモリチップ価格の高騰が理由。",
-      "analysis": "世界的なインフレ圧力とサプライチェーンの混乱が、企業の価格設定に影響を与えている。メモリチップ価格の高騰は、他の電子機器にも波及する可能性があり、消費者物価の上昇を招く可能性がある。企業は、コスト削減や価格転嫁など、インフレへの対応を迫られている。",
+      "summary": "バークシャー・ハサウェイの株価が7年以上ぶりの連敗を記録。市場全体の調整局面において、バリュー株も例外ではないことを示唆。",
+      "analysis": "バークシャー・ハサウェイの株価下落は、市場全体の調整局面において、バリュー株も安全ではないことを示唆している。同社のポートフォリオには、景気敏感株が多く含まれており、景気後退懸念の高まりが株価を押し下げている可能性がある。ただし、長期的な視点で見れば、同社の強固な財務基盤と実績は、市場の変動に対する耐性を示すだろう。",
       "key_entities": [
-        "Sony",
-        "PS5"
+        "Berkshire Hathaway"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "'Gut-wrenching': She says her poor credit cost her a promotion—why employers may check and how to improve your credit",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "個人の信用情報が昇進に影響を与える可能性がある。信用情報の重要性が高まっている。",
+      "analysis": "雇用主が採用や昇進の際に個人の信用情報を確認するケースが増えている。これは、企業が従業員の信頼性や責任感を評価する上で、信用情報が重要な指標となると考えているためである。信用情報が低い場合、昇進の機会を失うだけでなく、就職活動にも不利になる可能性がある。個人の信用情報を適切に管理し、改善することが重要である。",
+      "key_entities": [
+        "Self Financial"
       ],
       "sources": [
         "CNBC - Top News"
@@ -180,14 +173,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "high",
-    "north_america": "medium",
+    "global": "critical",
+    "north_america": "high",
     "europe": "medium",
-    "east_asia": "low",
-    "south_america": "none",
-    "africa": "none"
+    "east_asia": "medium"
   },
-  "generated_at": "2026-03-28T09:42:54.664635",
+  "generated_at": "2026-03-28T13:03:52.972319",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
