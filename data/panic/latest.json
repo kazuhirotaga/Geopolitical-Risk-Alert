@@ -1,152 +1,122 @@
 {
   "date": "2026-03-28",
-  "summary": "世界各地でエネルギー不足が深刻化し、特に燃料やLPGの供給不安からパニック買いや大規模な抗議デモが多発しています。インドでは燃料不足によるパニック買いでガソリンスタンドが在庫切れとなり、ネパールでは政治的混乱と反政府デモが続いています。ヨーロッパやオーストラリアでも燃料供給への懸念が高まり、金融市場にも潜在的な不安が見られます。社会不安が増大し、一部地域では警戒状態にあります。",
-  "global_panic_index": 60,
+  "summary": "世界各地でエネルギー不足、特に燃料やLPGの供給問題が深刻化しており、インドやオーストラリアではパニック買いや大規模な抗議デモが発生し、社会不安が高まっています。イラン戦争は欧州の燃料供給や世界の半導体サプライチェーンに深刻な影響を及ぼす懸念を強めています。ネパールでは政治的な混乱が続き、ナイジェリアでは銀行を標的としたデモが計画されるなど、地域ごとの不安定要因が複合的に世界全体の緊迫度を高めています。金融市場においても潜在的な取り付け騒ぎへの懸念が表明されています。",
+  "global_panic_index": 70,
   "regions": [
-    {
-      "region": "north_america",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "経済不安、インフラ問題",
-      "incidents": [
-        {
-          "title": "潜在的な民間信用に対する取り付け騒ぎの示唆",
-          "location": "米国",
-          "severity": 45,
-          "description": "プライベートクレジット市場において、潜在的な銀行取り付け騒ぎの兆候と金強制売却の動きが報じられており、金融市場に軽微な不安を引き起こす可能性があります。",
-          "source": "GoldBroker.com"
-        },
-        {
-          "title": "トロント市営の非営利食料品店開設",
-          "location": "カナダ、トロント",
-          "severity": 25,
-          "description": "物価高騰に対応するため、トロント市が非営利の食料品店を開設し、食料価格高騰への市民の不安に応える動きが見られます。",
-          "source": "blogTO"
-        },
-        {
-          "title": "運転手不足による交通機関の運航延長",
-          "location": "米国",
-          "severity": 35,
-          "description": "運転手不足によりPame Expressの運航が2ヶ月延長されることが決定。物流や公共交通インフラにおける潜在的な問題を示唆しています。",
-          "source": "msn.com"
-        }
-      ]
-    },
     {
       "region": "europe",
       "panic_index": 65,
       "status": "volatile",
-      "main_cause": "エネルギー不足（戦争起因）",
+      "main_cause": "エネルギー不足（イラン戦争の影響）",
       "incidents": [
         {
-          "title": "イラン戦争継続による燃料不足の深刻な懸念",
+          "title": "イラン戦争による欧州の燃料不足懸念",
           "location": "ヨーロッパ全域",
           "severity": 75,
-          "description": "イラン戦争の継続により、ヨーロッパが数週間以内に燃料不足に陥る可能性があるとの警告が報じられており、供給危機への警戒が高まっています。",
-          "source": "msn.com"
+          "description": "イラン戦争の継続により、ヨーロッパが数週間以内に深刻な燃料不足に陥る可能性が報じられ、広範な経済活動や市民生活への影響が懸念されている。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "なし",
+      "incidents": [
+        {
+          "title": "日本の反戦デモ",
+          "location": "日本",
+          "severity": 20,
+          "description": "特定の市民団体が反戦を訴えるデモを実施。社会的な意見表明であり、広範なパニックや社会秩序の崩壊には至っていない状況。",
+          "source": "しんぶん赤旗"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "戦争による供給網への影響",
-      "incidents": [
-        {
-          "title": "イラン戦争が半導体原料不足を再発させる可能性",
-          "location": "イラン（世界的影響）",
-          "severity": 60,
-          "description": "イラン戦争が継続することで、半導体製造に必要な原材料の供給不足が再発する懸念が報じられており、グローバルなサプライチェーンに影響を与える可能性があります。",
-          "source": "drive.com.au"
-        },
-        {
-          "title": "イランがオーストラリアの燃料不足を揶揄",
-          "location": "イラン（国際関係）",
-          "severity": 55,
-          "description": "イランがオーストラリアの燃料不足を揶揄する報道があり、国際的な緊張関係とエネルギー供給問題が結びついて報じられています。",
-          "source": "The Nightly"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "エネルギー不足、政治的混乱",
-      "incidents": [
-        {
-          "title": "インド：燃料のパニック買いとガソリンスタンドの在庫切れ",
-          "location": "インド、ハイデラバード",
-          "severity": 90,
-          "description": "LPG・ガソリン不足への懸念からハイデラバードで燃料のパニック買いが発生し、多くのガソリンスタンドで「在庫切れ」の表示が出され、供給インフラが麻痺状態にあります。",
-          "source": "msn.com"
-        },
-        {
-          "title": "インド：LPG不足に対する議会および住民による抗議",
-          "location": "インド、デリー、ブバネシュワール、ジャイプール",
-          "severity": 80,
-          "description": "LPG（調理用ガス）の深刻な不足と価格高騰に対し、インドの議会では混乱が起き、各地で議員や住民による抗議デモが頻発しています。一部では不法な追加料金への抗議も発生しています。",
-          "source": "msn.com, Odisha TV, ThePrint, Devdiscourse, lokmattimes.com"
-        },
-        {
-          "title": "ネパール：前首相逮捕と反政府デモ",
-          "location": "ネパール",
-          "severity": 70,
-          "description": "新政権発足後、反政府デモ参加者の殺害関与の疑いで前首相が逮捕され、政情不安が高まり、大規模な反政府デモが引き起こされています。",
-          "source": "Yahoo!ニュース, 北海道新聞デジタル, 佐賀新聞, 福井新聞社"
-        },
-        {
-          "title": "バングラデシュ：燃料不足による産業への影響",
-          "location": "バングラデシュ、チッタゴン",
-          "severity": 65,
-          "description": "チッタゴンの産業界で燃料不足が深刻化しており、生産活動への悪影響が懸念されています。これは経済活動の停滞に繋がる可能性があります。",
-          "source": "The Business Standard"
-        }
-      ]
-    },
-    {
-      "region": "oceania",
       "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "エネルギー不足",
+      "status": "critical",
+      "main_cause": "戦争、地政学的リスク",
       "incidents": [
         {
-          "title": "オーストラリア：燃料のパニック買いと首相による鎮静化",
-          "location": "オーストラリア",
-          "severity": 70,
-          "description": "燃料供給への懸念からオーストラリアでパニック買いが発生し、首相が事態の鎮静化と供給の安定を国民に呼びかけています。政府が介入するレベルの社会不安が見られます。",
-          "source": "BBC, Daily Telegraph Sydney"
+          "title": "イラン戦争による半導体・原材料不足の懸念",
+          "location": "イラン",
+          "severity": 80,
+          "description": "イランでの戦争が継続することで、半導体の原材料供給が滞り、世界的に半導体不足が再燃する可能性が指摘されている。これは経済全体に大きな打撃を与える恐れがある。",
+          "source": "drive.com.au"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 50,
+      "panic_index": 60,
       "status": "unstable",
       "main_cause": "金融不安、抗議デモ",
       "incidents": [
         {
-          "title": "ナイジェリア：銀行への抗議デモ計画への警戒呼びかけ",
-          "location": "ナイジェリア、オスン州オショグボ",
-          "severity": 50,
-          "description": "ナイジェリアの政党が、UBA銀行支店に対するNULGE（地方自治体労働組合）による抗議デモの計画に警戒を呼びかけており、金融機関への市民の不満が高まっている兆候が見られます。",
+          "title": "ナイジェリアで銀行支店への抗議デモ計画、警戒呼びかけ",
+          "location": "ナイジェリア、オスン州、オソグボ",
+          "severity": 65,
+          "description": "ナイジェリアのオスン州で、労働組合が月曜日にUBA銀行支店への抗議デモを計画しており、当局が市民に警戒を呼びかけている。金融機関が標的となる事態は社会不安の高まりを示唆する。",
           "source": "THISDAYLIVE"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 35,
-      "status": "unstable",
-      "main_cause": "地政学的不安",
+      "region": "south_america",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "エネルギー不足、買いだめ、政治的混乱",
       "incidents": [
         {
-          "title": "日本：反戦デモの発生",
-          "location": "日本",
-          "severity": 35,
-          "description": "「推しのいる世界を戦場にするな」というスローガンのもと、一部のオタク層が反戦デモを実施。地政学的な不安に対する市民の懸念が表明されていますが、社会秩序を乱すような大規模なパニックには至っていません。",
-          "source": "しんぶん赤旗"
+          "title": "インド各地でLPG・ガソリン不足によるパニック買いと抗議デモ",
+          "location": "インド（デリー、ハイデラバード、ブバネシュワルなど）",
+          "severity": 80,
+          "description": "インド各地でLPGやガソリンの不足が深刻化し、ハイデラバードではパニック買いが発生しガソリンスタンドが閉鎖される事態に。国会や地方議会ではLPG不足を巡る抗議デモが頻発し、市民生活への影響が拡大している。",
+          "source": "MSN, ThePrint, Odisha TV, Devdiscourse, The New Indian Express など"
+        },
+        {
+          "title": "ネパール元首相、抗議デモ死者関与で逮捕",
+          "location": "ネパール",
+          "severity": 75,
+          "description": "新政権発足後のネパールで、前首相が反政府デモ参加者の殺害に関与した疑いで逮捕された。これは大規模な抗議活動の激化と政治的な不安定さを示している。",
+          "source": "bdnews24.com, 朝日新聞, Yahoo!ニュース, 北海道新聞デジタル"
+        },
+        {
+          "title": "オーストラリアで燃料のパニック買い、首相が非難",
+          "location": "オーストラリア",
+          "severity": 70,
+          "description": "オーストラリアで燃料のパニック買いが広がり、首相がこれを「非オーストラリア的」だと非難する事態に発展。イランからの揶揄もあり、燃料供給への国民の不安が高まっている。",
+          "source": "Daily Telegraph Sydney, The Nightly"
+        },
+        {
+          "title": "バングラデシュの産業を襲う燃料不足",
+          "location": "バングラデシュ、チッタゴン",
+          "severity": 60,
+          "description": "バングラデシュのチッタゴン地方で深刻な燃料不足が発生し、多くの産業活動が影響を受けている。これは経済的な停滞を招き、広範な不安を引き起こす可能性がある。",
+          "source": "The Business Standard"
+        },
+        {
+          "title": "インド銀行セクターで労働争議が激化",
+          "location": "インド",
+          "severity": 55,
+          "description": "インドの銀行組合による抗議活動が勢いを増しており、従業員がWhatsAppグループを離脱するなど、賃金関連の懸念が深刻化している。金融システムの安定性に対する間接的な懸念がある。",
+          "source": "Thekanal"
         }
       ]
     }

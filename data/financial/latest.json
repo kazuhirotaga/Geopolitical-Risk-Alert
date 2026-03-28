@@ -1,20 +1,19 @@
 {
   "date": "2026-03-28",
-  "summary": "地政学的リスク（イラン戦争）とインフレ懸念から、株式市場は大幅下落。原油価格高騰がテクノロジー株を圧迫し、暗号資産市場も連動して下落。政府機関の一部閉鎖も経済活動に悪影響を及ぼしている。",
-  "overall_risk_level": "critical",
+  "summary": "地政学的リスク（イラン戦争）とインフレ懸念から、株式市場は大幅な下落に見舞われ、原油価格は高騰。暗号資産市場も連動して下落し、リスクオフの動きが強まっている。政府機関の一部閉鎖も経済活動に悪影響を及ぼす可能性。",
+  "overall_risk_level": "high",
   "articles": [
     {
       "title": "Dow tumbles almost 800 points and enters correction, S&P 500 posts fifth straight losing week: Live updates",
       "region": "global",
-      "risk_level": "critical",
-      "summary": "原油価格の上昇と米国債利回りの急騰が株式市場を圧迫し、ダウ平均は大幅下落。S&P500は5週連続のマイナス。",
-      "analysis": "原油高騰はインフレ懸念を再燃させ、FRBの金融引き締め政策の長期化観測を高めている。米国債利回りの上昇は、企業の借入コスト増加と将来の成長期待の低下につながり、株式市場の重荷となっている。特に、金利変動に敏感なテクノロジー株への影響が大きい。地政学的リスク（イラン戦争）も不確実性を高め、投資家のリスク回避姿勢を強めている。",
+      "risk_level": "high",
+      "summary": "ダウ平均が800ポイント近く下落し調整局面入り。S&P500は5週連続の下落。原油価格の上昇と米国債利回りの急騰が株式市場の重しとなっている。",
+      "analysis": "原油価格の高騰はインフレ懸念を再燃させ、FRBの金融引き締め政策の長期化観測を高めている。米国債利回りの上昇は、企業の借入コストを増加させ、株式市場のバリュエーションを低下させる。地政学的リスクとインフレリスクが複合的に作用し、市場心理を悪化させている。今後の企業業績への影響も懸念される。",
       "key_entities": [
         "Dow Jones",
         "S&P 500",
         "FRB",
-        "米国債",
-        "原油"
+        "米国債"
       ],
       "sources": [
         "CNBC - Top News"
@@ -26,14 +25,13 @@
     {
       "title": "Cramer’s game plan: Oil shock is driving this sell-off and tech won’t bottom until it ends",
       "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "ジム・クレイマー氏は、市場の売りはイラン戦争に関連する原油高騰が原因であり、テクノロジー株はそれが終わるまで底を打たないと指摘。",
-      "analysis": "著名投資家であるジム・クレイマー氏の分析は、市場心理を反映している。イラン戦争の長期化は原油価格を押し上げ、インフレを加速させる可能性が高い。テクノロジー株は、高成長期待が前提となっているため、金利上昇や景気減速に弱い。地政学的リスクとインフレリスクの複合的な影響が、テクノロジー株の低迷を招いている。",
+      "risk_level": "high",
+      "summary": "ジム・クレイマー氏は、市場の売りはイラン戦争に関連する原油価格の上昇が原因であり、テクノロジー株は戦争が終わるまで底打ちしないと指摘。",
+      "analysis": "著名アナリストの意見として、市場の現状を地政学的リスクと原油価格の高騰に起因するものと明確に示唆している。特にテクノロジー株への影響が大きいことを強調しており、投資家心理への影響は大きい。イラン戦争の長期化は、原油価格の高止まりを招き、テクノロジー株の低迷が長引く可能性を示唆している。",
       "key_entities": [
-        "ジム・クレイマー",
-        "原油",
+        "Jim Cramer",
         "テクノロジー株",
-        "イラン"
+        "原油"
       ],
       "sources": [
         "CNBC - Top News"
@@ -46,12 +44,32 @@
       "title": "Oil prices close at highest level since 2022 as Iran negotiations fail to ease supply fears",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イランとの交渉が決裂し、供給不安が高まったため、原油価格は2022年以来の高値で取引を終えた。",
-      "analysis": "原油価格の高騰は、ガソリン価格の上昇を通じて消費者の購買力を低下させ、インフレを加速させる。企業にとっては、エネルギーコストの増加が収益を圧迫する。イラン情勢の緊迫化は、原油供給の途絶リスクを高め、さらなる価格上昇を招く可能性がある。代替エネルギーへの移行が急務となるが、短期的には経済への悪影響は避けられない。",
+      "summary": "原油価格は2022年以来の高値で取引を終えた。イランとの交渉が決裂し、供給不安が強まっている。トランプ大統領はイランがホルムズ海峡を通過する10隻のタンカーを許可したと発表。",
+      "analysis": "イラン情勢の緊迫化が原油供給への懸念を高め、価格上昇を招いている。トランプ大統領の発言は一時的な鎮静効果をもたらす可能性があるが、根本的な解決には至っていない。原油価格の高騰は、インフレを加速させ、世界経済の成長を阻害するリスクを高める。",
       "key_entities": [
         "原油",
         "イラン",
-        "ドナルド・トランプ"
+        "トランプ大統領",
+        "ホルムズ海峡"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Economist Nouriel Roubini: Trump is likely to escalate the Iran war — risking '1970s stagflation'",
+      "region": "middle_east",
+      "risk_level": "critical",
+      "summary": "著名な経済学者ヌリエル・ルービニ氏は、トランプ大統領がイラン戦争をエスカレートさせる可能性があり、1970年代のスタグフレーションのリスクがあると警告。",
+      "analysis": "2008年の金融危機を予測したルービニ氏の警告は、市場に大きな影響を与える可能性がある。イラン戦争のエスカレートは、原油価格のさらなる高騰を招き、インフレと景気後退が同時に進行するスタグフレーションのリスクを高める。政策当局の対応が困難になる可能性を示唆している。",
+      "key_entities": [
+        "Nouriel Roubini",
+        "トランプ大統領",
+        "イラン",
+        "スタグフレーション"
       ],
       "sources": [
         "CNBC - Top News"
@@ -64,10 +82,26 @@
       "title": "Bitcoin drops to two-week low as $300 million in longs are liquidated",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインは、3億ドルのロングポジションが清算され、2週間ぶりの安値に下落。",
-      "analysis": "暗号資産市場は、株式市場の動向に連動する傾向が強まっている。金利上昇やリスク回避姿勢の強まりは、ビットコインなどのリスク資産への投資意欲を低下させる。レバレッジをかけた取引は、価格変動を増幅させ、市場の不安定性を高める。機関投資家の参入が進む一方で、個人投資家の動向も市場に大きな影響を与えている。",
+      "summary": "ビットコインは2週間ぶりの安値に下落。3億ドルのロングポジションが清算された。",
+      "analysis": "株式市場の低迷とリスクオフの動きが、暗号資産市場にも波及している。レバレッジをかけたロングポジションの清算は、さらなる価格下落を招く可能性がある。市場のボラティリティが高まっており、投資家は慎重な姿勢を保つ必要がある。",
       "key_entities": [
-        "ビットコイン"
+        "Bitcoin"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Investors yank $171 million from bitcoin ETFs in largest single-day outflow in three weeks",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ビットコインETFから1億7100万ドルの資金が流出。3週間で最大の1日流出額。",
+      "analysis": "ビットコインETFからの資金流出は、投資家のリスク回避姿勢を示唆している。株式市場の低迷や金利上昇などが、暗号資産市場への投資意欲を減退させている可能性がある。ETFの動向は、今後の暗号資産市場の方向性を占う上で重要な指標となる。",
+      "key_entities": [
+        "Bitcoin ETF"
       ],
       "sources": [
         "CoinDesk"
@@ -81,9 +115,9 @@
       "region": "global",
       "risk_level": "medium",
       "summary": "ビットコインマイナーがAI企業に転換し、移行資金を調達するためにBTCを売却している。",
-      "analysis": "ビットコインマイニングの収益性が低下する中、AI分野への事業転換は合理的な戦略と言える。しかし、BTCの売却は市場への供給を増やし、価格下落圧力となる可能性がある。AI分野への投資が成功するかどうかは不確実であり、マイナーの経営戦略の転換が市場に与える影響を注視する必要がある。",
+      "analysis": "ビットコインマイニングの収益性が低下する中、AI分野への事業転換は合理的な戦略と考えられる。しかし、BTCの売却は、市場への供給増加を招き、価格下落圧力となる可能性がある。AI分野への投資が成功するかどうかは不透明であり、マイナーの経営戦略が今後の暗号資産市場に影響を与える可能性がある。",
       "key_entities": [
-        "ビットコイン",
+        "Bitcoin",
         "AI"
       ],
       "sources": [
@@ -94,33 +128,14 @@
       ]
     },
     {
-      "title": "TSA funding update: House GOP spikes DHS funding proposal, extending shutdown that's caused airport delays",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "下院共和党がDHSの資金提案を拒否し、空港の遅延を引き起こしている政府機関閉鎖が延長。",
-      "analysis": "政府機関の一部閉鎖は、経済活動に悪影響を及ぼす。TSA職員の給与遅延は、士気低下や人員不足を招き、空港のセキュリティチェックの遅延につながる。サプライチェーンの混乱やビジネス渡航の減少は、経済成長を鈍化させる可能性がある。政治的な対立が経済に及ぼす影響を考慮する必要がある。",
-      "key_entities": [
-        "TSA",
-        "DHS",
-        "共和党",
-        "ドナルド・トランプ"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
       "title": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Anthropicが強力な新しいモデルをテストしているという報告を受け、サイバーセキュリティ株が下落。AIがビジネスモデルを大きく混乱させるという懸念。",
-      "analysis": "AI技術の進化は、サイバーセキュリティ業界に大きな変革をもたらす可能性がある。AIを活用した攻撃の高度化は、既存の防御システムを無効化するリスクがある。一方で、AIを活用した防御システムの開発も進んでおり、競争が激化している。サイバーセキュリティ企業は、AI技術への適応を迫られており、投資戦略の見直しが必要となる。",
+      "summary": "Anthropicが強力な新モデルをテストしているという報告を受け、サイバーセキュリティ株が下落。新しいAIがビジネスモデルを大きく混乱させるという懸念がある。",
+      "analysis": "AI技術の進化は、サイバーセキュリティ業界に大きな影響を与える可能性がある。Anthropicの新モデルが、既存のセキュリティ対策を無効化する可能性があり、投資家の懸念を高めている。サイバーセキュリティ企業は、AI技術に対応した新たなビジネスモデルを構築する必要に迫られている。",
       "key_entities": [
         "Anthropic",
-        "サイバーセキュリティ"
+        "サイバーセキュリティ株"
       ],
       "sources": [
         "CNBC - Top News"
@@ -130,35 +145,18 @@
       ]
     },
     {
-      "title": "Iran war wipes out $100 billion from luxury stocks",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イラン戦争により、高級品株から1000億ドルが消失。",
-      "analysis": "中東地域の緊張は、高級品市場に大きな影響を与えている。ドバイなどの成長市場における不確実性の高まりは、投資家のリスク回避姿勢を強めている。地政学的リスクは、高級品企業の収益に直接的な影響を与える可能性があり、投資判断に際しては慎重な検討が必要となる。",
-      "key_entities": [
-        "イラン",
-        "高級品"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Morgan Stanley enters bitcoin ETF race with market-leading low fee",
+      "title": "TSA funding update: House GOP spikes DHS funding proposal, extending shutdown that's caused airport delays",
       "region": "global",
-      "risk_level": "low",
-      "summary": "モルガン・スタンレーが市場をリードする低手数料でビットコインETF市場に参入。",
-      "analysis": "大手金融機関のビットコインETF市場への参入は、暗号資産の普及を促進する可能性がある。低手数料競争は、投資家にとって有利な条件となる一方、ETF運用会社の収益性を圧迫する可能性もある。規制当局の承認状況や市場の流動性などが、ETFの成否を左右する。",
+      "risk_level": "medium",
+      "summary": "下院共和党がDHSの資金提案を拒否し、政府機関の一部閉鎖が延長。空港での遅延が発生している。",
+      "analysis": "政府機関の一部閉鎖は、経済活動に悪影響を及ぼす可能性がある。空港での遅延は、ビジネスや観光に支障をきたし、経済損失につながる。政治的な対立が、経済に負の影響を与えるリスクを示唆している。",
       "key_entities": [
-        "モルガン・スタンレー",
-        "ビットコイン",
-        "ETF"
+        "TSA",
+        "DHS",
+        "米国議会"
       ],
       "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -167,11 +165,11 @@
     {
       "title": "Sony hikes PS5 prices by up to $150 citing 'pressures' in global economy",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "ソニーは、世界経済の「圧力」を理由にPS5の価格を最大150ドル引き上げ。",
-      "analysis": "メモリーチップ価格の高騰は、エレクトロニクス製品の価格上昇を招き、消費者の購買意欲を低下させる可能性がある。インフレ圧力の高まりは、企業の収益を圧迫し、投資判断に影響を与える。サプライチェーンの混乱や地政学的リスクも、価格上昇の要因となる。",
+      "risk_level": "low",
+      "summary": "ソニーは、世界経済の「圧力」を理由に、PS5の価格を最大150ドル引き上げた。メモリチップ価格の高騰が原因。",
+      "analysis": "メモリチップ価格の高騰は、製造コストの上昇を招き、製品価格に転嫁されている。インフレ圧力の一つの現れであり、消費者の購買意欲を減退させる可能性がある。他の家電製品にも価格上昇が波及する可能性も考慮する必要がある。",
       "key_entities": [
-        "ソニー",
+        "Sony",
         "PS5"
       ],
       "sources": [
@@ -183,12 +181,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "critical",
+    "global": "high",
     "north_america": "medium",
     "europe": "medium",
-    "east_asia": "none"
+    "east_asia": "low"
   },
-  "generated_at": "2026-03-28T04:57:42.145935",
+  "generated_at": "2026-03-28T07:05:07.565860",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
