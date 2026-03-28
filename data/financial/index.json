@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-03-28",
-    "summary": "中東情勢の緊迫化による原油価格高騰が市場を圧迫。インフレ懸念からFRBの利上げ観測も浮上し、株式市場は大幅下落。AIモデルのリーク問題や暗号資産市場の不安定さもリスク要因として顕在化している。",
+    "summary": "イラン戦争激化による原油価格高騰と、それに伴うインフレ懸念から、株式市場は大幅な下落に見舞われている。金利上昇観測も加わり、リスクオフの動きが加速。暗号資産市場も連動して下落している。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "global": "critical",
-      "north_america": "high",
+      "north_america": "medium",
       "europe": "medium",
-      "east_asia": "medium"
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-03-28T13:03:52.972319"
+    "generated_at": "2026-03-28T15:36:17.812259"
   },
   {
     "date": "2026-03-27",

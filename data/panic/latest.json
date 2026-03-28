@@ -1,188 +1,116 @@
 {
   "date": "2026-03-28",
-  "summary": "世界全体でエネルギー不足が喫緊の社会不安要因として浮上しており、特に南アジア、オセアニア、東南アジア、ヨーロッパの一部で市民生活に具体的な影響を及ぼしています。インドではLPG不足に対する略奪や政治的な混乱、オーストラリアでは燃料のパニック買いが報告されています。中東情勢はグローバルなサプライチェーン、特に半導体とエネルギー供給に深刻な懸念をもたらし、欧州では数週間以内の燃料不足が予測されるなど、一部地域では「警戒状態」から「パニック状態」への移行が危惧されます。生活必需品の供給不安が社会の安定を揺るがす主要なリスクとなっています。",
-  "global_panic_index": 68,
+  "summary": "世界全体では、エネルギー不足（燃料、LPG）に起因するパニック買いや抗議活動が顕著になっています。特に南アジアとオセアニア地域で、物資不足への懸念から買いだめや政府への抗議デモが発生し、一部では政治的混乱や衝突に発展しています。北米や欧州では、特定の社会問題に対する抗議デモが見られるものの、広範な社会秩序の崩壊には至っていません。金融市場の不安定性やサプライチェーンへの懸念も潜在的な不安要素として存在しており、全体としては地域的な緊張と一部で進行するパニック状態が混在する状況です。",
+  "global_panic_index": 55,
   "regions": [
     {
       "region": "north_america",
       "panic_index": 35,
-      "status": "stable",
-      "main_cause": "社会的不満、移民問題",
+      "status": "unstable",
+      "main_cause": "社会政策への抗議",
       "incidents": [
         {
-          "title": "LAで移民抗議デモとナショナルガードの権限維持",
-          "location": "アメリカ・ロサンゼルス",
-          "severity": 40,
-          "description": "ロサンゼルスで移民に関する抗議デモが発生し、治安維持のためにナショナルガードが関与する可能性がある状況が報じられています。社会的不安の兆候が見られます。",
+          "title": "LAでの移民関連抗議と騒動",
+          "location": "ロサンゼルス、米国",
+          "severity": 45,
+          "description": "トランプ前大統領が国家警備隊の権限を維持する中で、ロサンゼルスで移民問題に関連する抗議活動と騒動が発生しているとの報告があります。",
           "source": "AOL.com"
         },
         {
-          "title": "ナッシュビルで『No Kings』抗議デモ",
-          "location": "アメリカ・ナッシュビル",
+          "title": "「No Kings」抗議デモの開催",
+          "location": "ナッシュビル、米国",
           "severity": 30,
-          "description": "ナッシュビルで『No Kings』を掲げる抗議デモが行われています。具体的な内容は不明ですが、社会に対する不満が表明されていることを示唆します。",
+          "description": "ナッシュビルで「No Kings」と題された抗議デモが開催されており、特定の政治的・社会的主張が表明されています。",
           "source": "The Tennessean"
         },
         {
-          "title": "食料銀行を通じた地域社会への食料提供",
-          "location": "アメリカ・サウスカロライナ",
-          "severity": 20,
-          "description": "Cooper River Bridge RunがLowcountry Food Bankを通じて地域社会に食料を提供している。直接のパニックではないが、食料支援の必要性を示唆する。",
-          "source": "WCIV"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "エネルギー不足、政治的緊張",
-      "incidents": [
-        {
-          "title": "タイでガソリン不足と長蛇の列",
-          "location": "タイ",
-          "severity": 65,
-          "description": "中東戦争の影響によるガソリン不足と価格上昇を受け、タイのガソリンスタンドでは長蛇の列が見られています。市民生活に直接的な影響が出ており、不安が広がっています。",
-          "source": "facebook.com (Washington Post)"
-        },
-        {
-          "title": "ネパール元首相が抗議デモ鎮圧の責任で逮捕",
-          "location": "ネパール",
-          "severity": 45,
-          "description": "ネパール元首相KP Sharma Oliが、過去の致命的な抗議デモ鎮圧に関連して逮捕されました。これは政治的な混乱と過去の社会不安の残存を示しています。",
-          "source": "BBC"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "LPG・燃料不足、物価高騰",
-      "incidents": [
-        {
-          "title": "インド・BathindaでLPG不足に対する略奪を伴う抗議",
-          "location": "インド・Bathinda",
-          "severity": 80,
-          "description": "LPG不足に抗議するため、男性が馬に乗ってガスボンベを「略奪」する事態が発生。エネルギー不足が個人の行動を過激化させ、秩序の乱れが顕在化しています。",
-          "source": "Tribune India"
-        },
-        {
-          "title": "インド各地でLPG不足に対する議会抗議と混乱",
-          "location": "インド・デリー, ジャイプール他",
-          "severity": 75,
-          "description": "インド各地の議会（MCD Houseなど）でLPG不足に対するAAP党員の抗議デモが発生し、会議が混乱・中断する事態に。エネルギー不足が政治問題化し、社会不安を増幅させています。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "燃料高騰がパニック買いを誘発",
-          "location": "インド",
-          "severity": 70,
-          "description": "Nayara社の燃料価格引き上げが、広範囲でのパニック買いを引き起こしています。価格変動に対する市民の不安が買いだめ行動に繋がり、市場の混乱を招いています。",
-          "source": "MSN"
-        },
-        {
-          "title": "タミル・ナードゥ州の「深刻な」LPG不足に政治家が非難",
-          "location": "インド・タミル・ナードゥ州",
-          "severity": 78,
-          "description": "MK Stalinがタミル・ナードゥ州での「深刻な」LPG不足についてBJP政府を非難。複数の地域で深刻な不足が報告されており、政治的な緊張を高めています。",
-          "source": "MSN"
-        },
-        {
-          "title": "燃料不足がバングラデシュ・チッタゴン産業を圧迫",
-          "location": "バングラデシュ・チッタゴン",
-          "severity": 60,
-          "description": "チッタゴンの産業が燃料不足により深刻な影響を受けています。これは経済活動の停滞を招き、広範な雇用不安や物価上昇に繋がる可能性があり、社会不安を助長します。",
-          "source": "The Business Standard"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "地域紛争、地政学的リスク",
-      "incidents": [
-        {
-          "title": "イラン紛争がヨーロッパの燃料不足を引き起こす懸念",
-          "location": "イラン",
-          "severity": 85,
-          "description": "イランでの戦争継続により、ヨーロッパが数週間以内に燃料不足に陥る可能性があると報じられています。中東の地政学的リスクが世界的なエネルギー供給に深刻な影響を与えています。",
-          "source": "MSN"
-        },
-        {
-          "title": "イラン紛争が半導体不足を再燃させる可能性",
-          "location": "イラン",
-          "severity": 70,
-          "description": "イランでの紛争が原材料不足を引き起こし、再び半導体不足を招く可能性があると懸念されています。これは多岐にわたる産業と日常生活に影響を及ぼすグローバルな脅威です。",
-          "source": "drive.com.au"
-        },
-        {
-          "title": "中東戦争がタイのガソリン不足の一因に",
-          "location": "中東",
-          "severity": 65,
-          "description": "中東の戦争が原因で、タイのガソリン価格が高騰し不足が発生しています。地域紛争が遠く離れた国の市民生活にも直接的な影響を与え、社会不安を引き起こしています。",
-          "source": "facebook.com (Washington Post)"
+          "title": "De-ICE Hadley and Amherst Protest",
+          "location": "ハドリー、アマースト、米国",
+          "severity": 30,
+          "description": "「No Kings」デモに続いて、ハドリーとアマーストでもDe-ICEを求める抗議活動が計画されており、移民政策への反対が示唆されています。",
+          "source": "Amherst Indy"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "エネルギー供給不安",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "政治的抑圧への抗議",
       "incidents": [
         {
-          "title": "イラン戦争により数週間以内の燃料不足懸念",
-          "location": "ヨーロッパ全域",
+          "title": "インターネット遮断への抗議で活動家を召喚",
+          "location": "トムスク、ロシア",
+          "severity": 40,
+          "description": "ロシアのトムスクで、インターネット遮断に抗議するデモを組織しようとした活動家が警察に召喚されました。これは政府による表現の自由への抑圧に対する抗議を示します。",
+          "source": "mezha.net"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、政治的混乱",
+      "incidents": [
+        {
+          "title": "ネパール元首相逮捕で抗議と警察との衝突",
+          "location": "カトマンズ、ネパール",
           "severity": 80,
-          "description": "イランでの戦争が続く中、ヨーロッパが数週間以内に燃料不足に陥る可能性が指摘されています。これは広範な社会機能の麻痺と経済的混乱を引き起こす差し迫った危機です。",
+          "description": "ネパールで元首相KP・シャルマ・オリ氏が過去の抗議デモでの死者に関する容疑で逮捕され、これを受けて支持者による抗議デモが発生し、警察との衝突に発展しています。",
+          "source": "India Today"
+        },
+        {
+          "title": "LPG・ガソリンのパニック買いと品切れ",
+          "location": "ハイデラバード、インド",
+          "severity": 75,
+          "description": "LPGとガソリンの不足により、ハイデラバードでガソリンのパニック買いが発生し、多くの給油所で「在庫なし」の表示が出る事態となっています。",
           "source": "MSN"
+        },
+        {
+          "title": "LPG不足への抗議で議会が混乱",
+          "location": "デリー、インド",
+          "severity": 65,
+          "description": "インドのデリー市議会で、LPG不足に対する野党AAP議員による大規模な抗議活動が行われ、議事運営が混乱し、たびたび中断されました。",
+          "source": "The Times of India"
+        },
+        {
+          "title": "LPG不足に抗議しガスボンベを「略奪」",
+          "location": "バティンダ、インド",
+          "severity": 60,
+          "description": "インドのバティンダで、LPG不足に抗議するために馬に乗った男性が象徴的にガスボンベを「略奪」するパフォーマンスを行いました。",
+          "source": "Tribune India"
+        },
+        {
+          "title": "燃料不足が産業に打撃",
+          "location": "チッタゴン、バングラデシュ",
+          "severity": 50,
+          "description": "バングラデシュのチッタゴンで燃料不足が深刻化しており、地域の産業活動に大きな打撃を与え、経済的な不安を引き起こしています。",
+          "source": "The Business Standard"
         }
       ]
     },
     {
       "region": "oceania",
-      "panic_index": 68,
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "燃料不足、買いだめ",
+      "main_cause": "燃料不足",
       "incidents": [
         {
-          "title": "オーストラリアで燃料の「パニック買い」発生、政府が非難",
-          "location": "オーストラリア",
-          "severity": 75,
-          "description": "オーストラリアで燃料とジェリカン（燃料容器）の「非オーストラリア的」なパニック買いが発生しており、政府がこれを非難しています。これは供給不安からくる典型的な買いだめ行動です。",
+          "title": "燃料の「非オーストラリア的」パニック買いを非難",
+          "location": "シドニー、オーストラリア",
+          "severity": 70,
+          "description": "オーストラリア首相が、燃料とジェリカン（携行缶）のパニック買いを「非オーストラリア的」だと非難し、国民に冷静な行動を呼びかけています。",
           "source": "Daily Telegraph Sydney"
         },
         {
-          "title": "イランがオーストラリアの燃料不足を揶揄",
+          "title": "イランがオーストラリアの燃料不足を嘲笑",
           "location": "オーストラリア",
-          "severity": 70,
-          "description": "イランがオーストラリアの燃料不足を「マッドマックス」のようだと揶揄する報道があり、オーストラリアの燃料供給問題が国際的にも注目される深刻な状況であることを示唆しています。",
+          "severity": 60,
+          "description": "イランが、オーストラリアにおける燃料不足の状況を「マッドマックス」に例えて嘲笑しており、燃料供給への懸念が国際的に注目されています。",
           "source": "The Nightly"
         }
       ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
-    },
-    {
-      "region": "africa",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
-    },
-    {
-      "region": "south_america",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
     }
   ]
 }
