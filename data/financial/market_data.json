@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T02:34:17.872293",
+  "generated_at": "2026-03-28T04:57:26.360489",
   "indices": [
     {
       "symbol": "^N225",
@@ -76,36 +76,36 @@
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 65916.359375,
-      "price_formatted": "65,916",
-      "change": -2875.265625,
-      "change_formatted": "-2,875",
-      "change_percent": -4.179673942867319,
-      "change_percent_formatted": "-4.18%",
+      "current_price": 66240.4921875,
+      "price_formatted": "66,240",
+      "change": -2551.1328125,
+      "change_formatted": "-2,551",
+      "change_percent": -3.7084933122309587,
+      "change_percent_formatted": "-3.71%",
       "trend": "down",
       "date": "2026-03-28"
     },
     {
       "symbol": "GC=F",
       "label": "金 (先物)",
-      "current_price": 4521.2998046875,
-      "price_formatted": "4,521.30",
-      "change": 145.7998046875,
-      "change_formatted": "+145.80",
-      "change_percent": 3.332186143012227,
-      "change_percent_formatted": "+3.33%",
+      "current_price": 4492.0,
+      "price_formatted": "4,492.00",
+      "change": 116.5,
+      "change_formatted": "+116.50",
+      "change_percent": 2.6625528511027308,
+      "change_percent_formatted": "+2.66%",
       "trend": "up",
       "date": "2026-03-27"
     },
     {
       "symbol": "CL=F",
       "label": "原油 (WTI先物)",
-      "current_price": 101.18000030517578,
-      "price_formatted": "101.18",
-      "change": 6.6999969482421875,
-      "change_formatted": "+6.70",
-      "change_percent": 7.091444443466455,
-      "change_percent_formatted": "+7.09%",
+      "current_price": 99.63999938964844,
+      "price_formatted": "99.64",
+      "change": 5.159996032714844,
+      "change_formatted": "+5.16",
+      "change_percent": 5.461468934564944,
+      "change_percent_formatted": "+5.46%",
       "trend": "up",
       "date": "2026-03-27"
     }

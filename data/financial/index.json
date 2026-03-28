@@ -1,19 +1,16 @@
 [
   {
     "date": "2026-03-28",
-    "summary": "世界的に株価が下落し、原油価格が急騰。イランを巡る地政学的リスクと政府機関閉鎖が市場の不確実性を高めている。ビットコインも下落傾向にあり、リスクオフの動きが顕著。",
-    "overall_risk_level": "high",
+    "summary": "地政学的リスク（イラン戦争）とインフレ懸念から、株式市場は大幅下落。原油価格高騰がテクノロジー株を圧迫し、暗号資産市場も連動して下落。政府機関の一部閉鎖も経済活動に悪影響を及ぼしている。",
+    "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "critical",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "none",
-      "south_america": "none",
-      "africa": "none",
-      "middle_east": "critical"
+      "east_asia": "none"
     },
-    "generated_at": "2026-03-28T02:34:34.245830"
+    "generated_at": "2026-03-28T04:57:42.145935"
   },
   {
     "date": "2026-03-27",

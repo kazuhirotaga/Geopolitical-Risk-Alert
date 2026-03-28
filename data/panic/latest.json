@@ -1,137 +1,152 @@
 {
   "date": "2026-03-28",
-  "summary": "世界各地でエネルギー不足と物価高騰に起因する社会不安が顕著に増加しています。特に東南アジア、ヨーロッパ、アフリカでは燃料のパニック買い、供給不足、およびこれに対する大規模な抗議活動が多発し、一部では社会秩序の混乱が見られます。金融市場においても潜在的な不安要因が指摘されており、地域によっては政府が直接介入するほどの緊迫した状況となっています。",
-  "global_panic_index": 65,
+  "summary": "世界各地でエネルギー不足が深刻化し、特に燃料やLPGの供給不安からパニック買いや大規模な抗議デモが多発しています。インドでは燃料不足によるパニック買いでガソリンスタンドが在庫切れとなり、ネパールでは政治的混乱と反政府デモが続いています。ヨーロッパやオーストラリアでも燃料供給への懸念が高まり、金融市場にも潜在的な不安が見られます。社会不安が増大し、一部地域では警戒状態にあります。",
+  "global_panic_index": 60,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "食料価格高騰への懸念",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "経済不安、インフラ問題",
       "incidents": [
         {
-          "title": "トロント市、非営利食料品店で低価格化を推進",
-          "location": "トロント, カナダ",
+          "title": "潜在的な民間信用に対する取り付け騒ぎの示唆",
+          "location": "米国",
           "severity": 45,
-          "description": "カナダのトロント市が生活費高騰対策として、低価格の非営利食料品店を導入。市民の経済的不安への対応が見られる。",
-          "source": "blogto.com"
+          "description": "プライベートクレジット市場において、潜在的な銀行取り付け騒ぎの兆候と金強制売却の動きが報じられており、金融市場に軽微な不安を引き起こす可能性があります。",
+          "source": "GoldBroker.com"
+        },
+        {
+          "title": "トロント市営の非営利食料品店開設",
+          "location": "カナダ、トロント",
+          "severity": 25,
+          "description": "物価高騰に対応するため、トロント市が非営利の食料品店を開設し、食料価格高騰への市民の不安に応える動きが見られます。",
+          "source": "blogTO"
+        },
+        {
+          "title": "運転手不足による交通機関の運航延長",
+          "location": "米国",
+          "severity": 35,
+          "description": "運転手不足によりPame Expressの運航が2ヶ月延長されることが決定。物流や公共交通インフラにおける潜在的な問題を示唆しています。",
+          "source": "msn.com"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 75,
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "燃料供給枯渇の危機",
+      "main_cause": "エネルギー不足（戦争起因）",
       "incidents": [
         {
-          "title": "イラン戦争によりヨーロッパの燃料数週間で枯渇の可能性",
-          "location": "ヨーロッパ",
+          "title": "イラン戦争継続による燃料不足の深刻な懸念",
+          "location": "ヨーロッパ全域",
           "severity": 75,
-          "description": "イラン戦争の継続により、ヨーロッパが数週間以内に燃料不足に陥る可能性が指摘されており、エネルギー供給に対する深刻な懸念が高まっている。",
-          "source": "MSN"
+          "description": "イラン戦争の継続により、ヨーロッパが数週間以内に燃料不足に陥る可能性があるとの警告が報じられており、供給危機への警戒が高まっています。",
+          "source": "msn.com"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 40,
+      "region": "middle_east",
+      "panic_index": 60,
       "status": "unstable",
-      "main_cause": "反戦感情",
+      "main_cause": "戦争による供給網への影響",
       "incidents": [
         {
-          "title": "日本で「オタク」層が反戦デモに参加",
-          "location": "日本",
-          "severity": 40,
-          "description": "日本で「オタク」層が反戦デモに参加。特定の社会集団が政治的行動を起こしており、社会的な不安や不満が表面化している兆候が見られる。",
-          "source": "jcp.or.jp"
+          "title": "イラン戦争が半導体原料不足を再発させる可能性",
+          "location": "イラン（世界的影響）",
+          "severity": 60,
+          "description": "イラン戦争が継続することで、半導体製造に必要な原材料の供給不足が再発する懸念が報じられており、グローバルなサプライチェーンに影響を与える可能性があります。",
+          "source": "drive.com.au"
+        },
+        {
+          "title": "イランがオーストラリアの燃料不足を揶揄",
+          "location": "イラン（国際関係）",
+          "severity": 55,
+          "description": "イランがオーストラリアの燃料不足を揶揄する報道があり、国際的な緊張関係とエネルギー供給問題が結びついて報じられています。",
+          "source": "The Nightly"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "燃料・LPG不足、価格高騰",
+      "region": "south_asia",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "エネルギー不足、政治的混乱",
       "incidents": [
         {
-          "title": "タイでガソリン不足による長蛇の列が発生",
-          "location": "タイ",
-          "severity": 70,
-          "description": "中東情勢によるガソリン不足と価格高騰を受け、タイのガソリンスタンドでは長蛇の列が発生。市民生活に直接的な影響が出ており、不安が広がっている。",
-          "source": "Facebook (Washington Post)"
+          "title": "インド：燃料のパニック買いとガソリンスタンドの在庫切れ",
+          "location": "インド、ハイデラバード",
+          "severity": 90,
+          "description": "LPG・ガソリン不足への懸念からハイデラバードで燃料のパニック買いが発生し、多くのガソリンスタンドで「在庫切れ」の表示が出され、供給インフラが麻痺状態にあります。",
+          "source": "msn.com"
         },
         {
-          "title": "オーストラリアで燃料パニック買いを巡るドライバー間の衝突",
-          "location": "シドニー, オーストラリア",
+          "title": "インド：LPG不足に対する議会および住民による抗議",
+          "location": "インド、デリー、ブバネシュワール、ジャイプール",
           "severity": 80,
-          "description": "シドニーで燃料のパニック買いを巡りドライバー間で衝突が発生。供給不安が社会的な摩擦と混乱を引き起こしており、状況は緊迫している。",
-          "source": "Daily Telegraph Sydney"
+          "description": "LPG（調理用ガス）の深刻な不足と価格高騰に対し、インドの議会では混乱が起き、各地で議員や住民による抗議デモが頻発しています。一部では不法な追加料金への抗議も発生しています。",
+          "source": "msn.com, Odisha TV, ThePrint, Devdiscourse, lokmattimes.com"
         },
         {
-          "title": "インド・タミル・ナードゥ州でLPG不足に対する大規模抗議",
-          "location": "タミル・ナードゥ州, インド",
-          "severity": 70,
-          "description": "インドのタミル・ナードゥ州でLPG不足に対する大規模な抗議活動が発生。主要政党が参加し、政府への不満が公に表明され、社会的な緊張が高まっている。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "インド・ブバネシュワールでガソリンスタンドが燃料枯渇",
-          "location": "ブバネシュワール, インド",
-          "severity": 75,
-          "description": "インドのブバネシュワールで、石油会社の政策変更によりガソリンスタンドが燃料枯渇状態に。市民の交通手段や生活に深刻な影響が出ており、不安が広がっている。",
-          "source": "Asianet Newsable"
-        },
-        {
-          "title": "ネパールで前首相逮捕、政治的混乱と社会不安の兆候",
+          "title": "ネパール：前首相逮捕と反政府デモ",
           "location": "ネパール",
-          "severity": 50,
-          "description": "ネパールでオリ前首相が警察に逮捕されたとの報道。政治的な混乱が社会不安を引き起こす可能性があり、今後の情勢が注目される。",
-          "source": "jiji.com"
+          "severity": 70,
+          "description": "新政権発足後、反政府デモ参加者の殺害関与の疑いで前首相が逮捕され、政情不安が高まり、大規模な反政府デモが引き起こされています。",
+          "source": "Yahoo!ニュース, 北海道新聞デジタル, 佐賀新聞, 福井新聞社"
+        },
+        {
+          "title": "バングラデシュ：燃料不足による産業への影響",
+          "location": "バングラデシュ、チッタゴン",
+          "severity": 65,
+          "description": "チッタゴンの産業界で燃料不足が深刻化しており、生産活動への悪影響が懸念されています。これは経済活動の停滞に繋がる可能性があります。",
+          "source": "The Business Standard"
+        }
+      ]
+    },
+    {
+      "region": "oceania",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "エネルギー不足",
+      "incidents": [
+        {
+          "title": "オーストラリア：燃料のパニック買いと首相による鎮静化",
+          "location": "オーストラリア",
+          "severity": 70,
+          "description": "燃料供給への懸念からオーストラリアでパニック買いが発生し、首相が事態の鎮静化と供給の安定を国民に呼びかけています。政府が介入するレベルの社会不安が見られます。",
+          "source": "BBC, Daily Telegraph Sydney"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "燃料不足、金融不安",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "金融不安、抗議デモ",
       "incidents": [
         {
-          "title": "ナイジェリアで銀行への抗議デモ計画が警告される",
-          "location": "オスン州, ナイジェリア",
-          "severity": 60,
-          "description": "ナイジェリアのオスン州で、労働組合がUBA銀行支店への抗議デモを計画しているとの警告。金融機関への不満が高まっており、潜在的な混乱が懸念される。",
+          "title": "ナイジェリア：銀行への抗議デモ計画への警戒呼びかけ",
+          "location": "ナイジェリア、オスン州オショグボ",
+          "severity": 50,
+          "description": "ナイジェリアの政党が、UBA銀行支店に対するNULGE（地方自治体労働組合）による抗議デモの計画に警戒を呼びかけており、金融機関への市民の不満が高まっている兆候が見られます。",
           "source": "THISDAYLIVE"
-        },
-        {
-          "title": "南アフリカで深刻な燃料不足、生存対策情報が提供",
-          "location": "南アフリカ",
-          "severity": 70,
-          "description": "南アフリカで燃料不足が深刻化し、自動車運転者向けに「生き残るため」の対策情報が提供されている。国民生活に大きな影響が出ており、警戒状態にある。",
-          "source": "IOL"
         }
       ]
     },
     {
-      "region": "global",
-      "panic_index": 60,
+      "region": "east_asia",
+      "panic_index": 35,
       "status": "unstable",
-      "main_cause": "金融市場の不確実性",
+      "main_cause": "地政学的不安",
       "incidents": [
         {
-          "title": "民間信用における潜在的取り付け騒ぎと金の強制売却の懸念",
-          "location": "グローバル",
-          "severity": 60,
-          "description": "民間信用における潜在的な取り付け騒ぎと、それに伴う金の強制売却の懸念が報じられている。金融市場全体の不安定化に対する警告として受け止められている。",
-          "source": "GoldBroker.com"
-        },
-        {
-          "title": "イラン戦争が半導体不足と原材料枯渇を再発させる可能性",
-          "location": "グローバル (中東情勢起因)",
-          "severity": 50,
-          "description": "イラン戦争の継続により、原材料不足から半導体供給網に再び混乱が生じる可能性が指摘されている。これは広範な産業と経済活動に影響を及ぼす懸念がある。",
-          "source": "drive.com.au"
+          "title": "日本：反戦デモの発生",
+          "location": "日本",
+          "severity": 35,
+          "description": "「推しのいる世界を戦場にするな」というスローガンのもと、一部のオタク層が反戦デモを実施。地政学的な不安に対する市民の懸念が表明されていますが、社会秩序を乱すような大規模なパニックには至っていません。",
+          "source": "しんぶん赤旗"
         }
       ]
     }
