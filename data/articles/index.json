@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-28",
+    "summary": "米イスラエルによるイランへの軍事作戦が1か月経過し、中東地域で人道危機が深刻化。エネルギー供給の混乱も懸念される。ウクライナ情勢も依然として不安定であり、世界経済への影響が拡大している。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "medium",
+      "south_asia": "none",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "medium",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "medium"
+    },
+    "generated_at": "2026-03-28T02:34:13.142184"
+  },
+  {
     "date": "2026-03-27",
     "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、世界的なエネルギー危機と人道危機を引き起こしている。ウクライナ情勢も依然として不安定であり、地政学的リスクは極めて高い。",
     "overall_risk_level": "critical",

@@ -1,5 +1,155 @@
 [
   {
+    "date": "2026-03-28",
+    "summary": "レバノンでイスラエルとヒズボラの戦闘が激化。米国はイランに対しトマホークミサイルを大量使用。ウクライナのドローンがバルト三国に着弾。中国はフィリピン艦艇に武器を向け、米国との潜水艦戦準備として海底調査を実施。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-03-27",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエルとヒズボラの攻撃が激化",
+        "content": "ヒズボラ戦闘員が攻撃に転じ、その後、地形を利用して撤退。戦闘地域が拡大し、緊張が高まっている。",
+        "involved_parties": [
+          "イスラエル",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-03-27",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米国がイランにトマホークミサイルを大量使用",
+        "content": "米国軍がイランに対し、数百発のトマホークミサイルを使用。ペンタゴン内部で兵器の消耗ペースに対する懸念が出ている。",
+        "involved_parties": [
+          "アメリカ合衆国",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/27/us-uses-hundreds-of-tomahawk-missiles-on-iran-alarming-some-at-pentagon/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-03-27",
+        "location": "バルト三国",
+        "region": "europe",
+        "title": "ウクライナのドローンがバルト三国に着弾",
+        "content": "ウクライナのドローンが、バルト三国すべてに着弾。ロシアがドローンを意図的にリダイレクトしているか、電子戦による影響かは不明。",
+        "involved_parties": [
+          "ウクライナ",
+          "ロシア",
+          "エストニア",
+          "ラトビア",
+          "リトアニア"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-03-26",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米国が無人ドローン艇をイランとの紛争に投入",
+        "content": "米国がイランとの紛争において、無人ドローン艇を初めて使用したことを公式に認めた。",
+        "involved_parties": [
+          "アメリカ合衆国",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-03-24",
+        "location": "南シナ海",
+        "region": "east_asia",
+        "title": "中国のコルベット艦がフィリピンのフリゲート艦に武器を照準",
+        "content": "中国のコルベット艦が、フィリピンのフリゲート艦に対して武器の照準を合わせた。フィリピン当局は中国の挑発行為であると非難。",
+        "involved_parties": [
+          "中国",
+          "フィリピン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/24/chinese-corvette-recently-trained-its-weapons-on-philippine-frigate-officials-confirm/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-03-24",
+        "location": "太平洋、インド洋",
+        "region": "east_asia",
+        "title": "中国が米国との潜水艦戦準備のため海底調査",
+        "content": "中国が戦略的に重要な海域の海底地図を作成するため、多数の調査船を派遣。米国との潜水艦戦に備えている。",
+        "involved_parties": [
+          "中国",
+          "アメリカ合衆国"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/24/china-maps-ocean-floor-as-it-prepares-for-submarine-warfare-with-us/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-03-24",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "イランの学校への攻撃",
+        "content": "ウクライナのドローン開発者は、イランの学校への攻撃が半自律型戦争の危険性を示したと述べている。",
+        "involved_parties": [
+          "ウクライナ",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/24/deadly-iran-school-strike-casts-shadow-over-pentagons-ai-targeting-push/"
+      },
+      {
+        "id": "event-8",
+        "timestamp": "2026-03-23",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "ホルムズ海峡封鎖解除作戦のリスク",
+        "content": "ホルムズ海峡を封鎖解除する作戦は単純に見えるが、実際には大きなリスクを伴うとアナリストが指摘。",
+        "involved_parties": [],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/24/the-simple-maneuver-of-opening-hormuz-strait-carries-great-risks-analysts-say/"
+      },
+      {
+        "id": "event-9",
+        "timestamp": "2026-03-23",
+        "location": "不明",
+        "region": "etc",
+        "title": "米国と英国が水中ドローン破壊で協力",
+        "content": "米国と英国が、港湾や重要インフラに対する水中ドローンの脅威に対処するため、共同で取り組む。",
+        "involved_parties": [
+          "アメリカ合衆国",
+          "イギリス"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/naval/2026/03/23/us-and-uk-teaming-up-to-destroy-underwater-drones/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-27",
     "summary": "イスラエルとヒズボラの攻撃が激化しレバノンの戦闘地域が拡大。米国はイランに対し数百発のトマホークミサイルを使用。ウクライナのドローンがバルト三国に着弾。米軍はイランとの紛争で無人艇を初めて使用。",
     "events": [

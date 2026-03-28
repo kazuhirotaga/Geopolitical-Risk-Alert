@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-27T21:40:39.806617",
+  "generated_at": "2026-03-28T02:34:17.872293",
   "indices": [
     {
       "symbol": "^N225",
       "label": "日経平均株価",
-      "current_price": 53603.6484375,
-      "price_formatted": "53,603.65",
-      "change": -145.97265625,
-      "change_formatted": "-145.97",
-      "change_percent": -0.27157894935741916,
-      "change_percent_formatted": "-0.27%",
+      "current_price": 53373.0703125,
+      "price_formatted": "53,373.07",
+      "change": -230.578125,
+      "change_formatted": "-230.58",
+      "change_percent": -0.43015378938029963,
+      "change_percent_formatted": "-0.43%",
       "trend": "down",
-      "date": "2026-03-26"
+      "date": "2026-03-27"
     },
     {
       "symbol": "^DJI",
@@ -64,26 +64,26 @@
     {
       "symbol": "USDJPY=X",
       "label": "ドル円相場",
-      "current_price": 160.28599548339844,
-      "price_formatted": "160.29",
-      "change": 0.9019927978515625,
-      "change_formatted": "+0.90",
-      "change_percent": 0.5659242977045376,
-      "change_percent_formatted": "+0.57%",
+      "current_price": 159.70399475097656,
+      "price_formatted": "159.70",
+      "change": 0.3199920654296875,
+      "change_formatted": "+0.32",
+      "change_percent": 0.20076799430179246,
+      "change_percent_formatted": "+0.20%",
       "trend": "up",
       "date": "2026-03-27"
     },
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 66024.40625,
-      "price_formatted": "66,024",
-      "change": -2767.21875,
-      "change_formatted": "-2,767",
-      "change_percent": -4.022609947068411,
-      "change_percent_formatted": "-4.02%",
+      "current_price": 65916.359375,
+      "price_formatted": "65,916",
+      "change": -2875.265625,
+      "change_formatted": "-2,875",
+      "change_percent": -4.179673942867319,
+      "change_percent_formatted": "-4.18%",
       "trend": "down",
-      "date": "2026-03-27"
+      "date": "2026-03-28"
     },
     {
       "symbol": "GC=F",
