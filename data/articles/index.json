@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-03-28",
-    "summary": "中東情勢が極めて不安定化。イランを巡るアメリカ・イスラエルの軍事作戦は1ヶ月に及び、フーシ派によるイスラエルへの攻撃、イランによるサウジアラビアへの攻撃が発生。エネルギー供給への影響も深刻化し、世界経済への悪影響が懸念される。",
+    "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、フーシ派によるイスラエル攻撃や米軍基地へのイラン攻撃が発生。エネルギー供給の混乱も深刻化。ウクライナ情勢も膠着状態が続く。ネパールでは前首相が逮捕され、国内政治も不安定化。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
@@ -10,12 +10,12 @@
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
+      "europe": "medium",
       "africa": "low",
-      "north_america": "medium",
+      "north_america": "high",
       "south_america": "low"
     },
-    "generated_at": "2026-03-28T15:35:55.134512"
+    "generated_at": "2026-03-28T18:48:41.299485"
   },
   {
     "date": "2026-03-27",
