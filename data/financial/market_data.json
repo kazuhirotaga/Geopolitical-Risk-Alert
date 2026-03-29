@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T18:51:08.318298",
+  "generated_at": "2026-03-29T21:37:13.083763",
   "indices": [
     {
       "symbol": "^N225",
@@ -64,24 +64,24 @@
     {
       "symbol": "USDJPY=X",
       "label": "ドル円相場",
-      "current_price": 160.3070068359375,
-      "price_formatted": "160.31",
-      "change": 0.6030120849609375,
-      "change_formatted": "+0.60",
-      "change_percent": 0.3775810905050953,
-      "change_percent_formatted": "+0.38%",
+      "current_price": 160.1479949951172,
+      "price_formatted": "160.15",
+      "change": 0.444000244140625,
+      "change_formatted": "+0.44",
+      "change_percent": 0.2780144885122919,
+      "change_percent_formatted": "+0.28%",
       "trend": "up",
       "date": "2026-03-29"
     },
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 66370.640625,
-      "price_formatted": "66,371",
-      "change": 50.9453125,
-      "change_formatted": "+51",
-      "change_percent": 0.07681777224690865,
-      "change_percent_formatted": "+0.08%",
+      "current_price": 66628.0703125,
+      "price_formatted": "66,628",
+      "change": 308.375,
+      "change_formatted": "+308",
+      "change_percent": 0.46498253429381664,
+      "change_percent_formatted": "+0.46%",
       "trend": "up",
       "date": "2026-03-29"
     },

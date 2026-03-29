@@ -1,85 +1,121 @@
 {
   "date": "2026-03-29",
-  "summary": "世界各地で社会不安が高まっており、政治的な抗議デモが北米や欧州で広範囲にわたって発生しています。特に南アジア（便宜上、東南アジアに分類）では、致命的な抗議デモとその後の元首相逮捕、さらに深刻なエネルギー不足による人道危機が発生し、警戒状態にあります。中東やアフリカでも地域的な緊張と社会不安が継続しており、全体として不安定から警戒状態へと移行しつつある状況です。",
-  "global_panic_index": 55,
+  "summary": "世界各地で、大規模な抗議デモや社会不安が散発的に発生しています。特に米国や欧州では広範な抗議活動が確認され、一部では爆弾脅威や衝突を伴う暴力的な事態も報告されています。南アジアでは死者を伴う抗議に関連した政治家逮捕や、脆弱層に影響を与えるエネルギー不足が深刻化。誤情報の拡散による社会不安の増大も指摘されており、グローバルな社会情勢は不安定な局面を迎えています。",
+  "global_panic_index": 62,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "政治的抗議デモ、社会不安の広がり",
+      "panic_index": 60,
+      "status": "volatile",
+      "main_cause": "大規模な政治的抗議、一部暴力の発生、社会不安",
       "incidents": [
         {
-          "title": "全国的な「No Kings」抗議デモ",
-          "location": "米国各地（ルイビル、ミネアポリス、レディングなど）",
-          "severity": 65,
-          "description": "トランプ大統領に対する大規模な「No Kings」抗議デモが米国内の複数都市で数千人規模に拡大し、社会的な不満と緊張の高まりを示しています。",
-          "source": "WDRB, National Today, abc.net.au"
+          "title": "ICE抗議デモが激化、警官が負傷",
+          "location": "米国（全国）",
+          "severity": 70,
+          "description": "移民関税執行局（ICE）に対する抗議デモが激化し、警官が負傷する事態が発生。デモは一部で暴力的になり、社会秩序の不安定化を示唆しています。",
+          "source": "MSN"
         },
         {
-          "title": "「No Kings」抗議デモ中の爆破予告の可能性",
-          "location": "米国（ハワイ）",
-          "severity": 60,
-          "description": "「No Kings」抗議デモ中に爆破予告の可能性が報じられ、参加者や周辺住民の間で一時的な不安と緊張が高まりました。幸い大きな被害は報告されていません。",
+          "title": "「No Kings」抗議デモで爆弾脅威",
+          "location": "ハワイ",
+          "severity": 65,
+          "description": "反体制的な「No Kings」抗議デモ中に爆弾脅威の通報がありましたが、参加者はデモを継続。脅威そのものが参加者や周辺に心理的な不安を与えています。",
           "source": "KITV"
         },
         {
-          "title": "コミュニティフードバンクの拡張",
-          "location": "米国アラバマ州、ワシントン州",
+          "title": "米国全土で「No Kings」抗議が新たな騒動の波として噴出",
+          "location": "米国（全国）",
+          "severity": 60,
+          "description": "「No Kings」と称される大規模な抗議活動が米国各地で同時多発的に発生し、新たな社会不安の波を引き起こしています。広範な参加が報告されています。",
+          "source": "RBC-Ukraine"
+        },
+        {
+          "title": "コミュニティ・フードバンクの拡張",
+          "location": "アラバマ州、シアトル",
+          "severity": 40,
+          "description": "地域のフードバンクが支援活動を拡大していると報じられています。これは直接的なパニックではないものの、食料不安や貧困層の増加という社会不安の背景を示唆しています。",
+          "source": "WBRC, WTOC, West Seattle Blog"
+        },
+        {
+          "title": "銀行強盗の容疑者逮捕",
+          "location": "プエブロ（コロラド州）",
           "severity": 30,
-          "description": "食料不安に対応するため、複数の地域でコミュニティフードバンクの支援活動が拡大しています。これは一部地域での食料供給への懸念を示唆しています。",
-          "source": "WBRC, West Seattle Blog, fox10tv.com"
+          "description": "銀行強盗の容疑者が逮捕されました。これは個別の犯罪事象ですが、一般市民の治安に対する不安を軽微ながらも高める要因となります。",
+          "source": "WTOC"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 75,
+      "status": "critical",
+      "main_cause": "死者を伴う抗議、政治的逮捕、エネルギー不足",
+      "incidents": [
+        {
+          "title": "ネパール元首相が死者を伴う抗議の調査で逮捕",
+          "location": "ネパール",
+          "severity": 85,
+          "description": "ネパールで死者が出た抗議デモの鎮圧に関連し、元首相を含む複数の政治家が逮捕されました。これは深刻な社会混乱と政治的緊張を反映しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "インドの孤児院と老人ホームでガス不足が発生、政府に介入要請",
+          "location": "アーンドラ・プラデーシュ州（インド）",
+          "severity": 80,
+          "description": "インドの一部地域でガス不足が発生し、孤児院や老人ホームといった脆弱な施設に深刻な影響を与えています。政府への緊急介入要請が事態の切迫性を示しています。",
+          "source": "Deccan Chronicle"
+        },
+        {
+          "title": "ネパール裁判所が騒動の中での拘留を延長",
+          "location": "ネパール",
+          "severity": 70,
+          "description": "ネパールで続く社会騒動を受け、裁判所が容疑者の拘留期間を延長しました。これは騒動が長期化していることと、治安当局による対応の継続を示しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "カトマンズでの暴力的な親王制抗議から1年、騒動の再燃に注目",
+          "location": "カトマンズ（ネパール）",
+          "severity": 65,
+          "description": "1年前に発生した暴力的な親王制抗議デモが再燃する可能性が議論されています。過去の暴力が現在の政治情勢に影を落とし、国民の間に緊張感を与えています。",
+          "source": "Ratopati"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "政治的抗議デモ、エネルギー供給懸念、宗教的緊張",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "大規模な衝突、政治的抗議",
       "incidents": [
         {
-          "title": "ギリシャ・アテネでの衝突と多数の拘束",
-          "location": "ギリシャ（アテネ）",
-          "severity": 70,
-          "description": "アテネのエクサルヒア地区で早朝の騒動が発生し、114名が拘束されました。これは都市部での社会不安と警察との衝突の増加を示しています。",
+          "title": "アテネのExarchia地区での衝突で114人が拘留",
+          "location": "アテネ（ギリシャ）",
+          "severity": 75,
+          "description": "アテネのExarchia地区で早朝に発生した騒動により、大規模な衝突が発生し114人が拘留されました。これは社会秩序の不安定化と警察による厳重な対応を示しています。",
           "source": "Greek City Times"
         },
         {
-          "title": "イラン戦争に起因するジェット燃料不足の懸念",
-          "location": "英国",
+          "title": "米国と欧州全体で「No Kings」抗議デモが群衆を集める",
+          "location": "欧州（複数国）",
           "severity": 60,
-          "description": "イラン戦争の可能性を背景に、英国でジェット燃料不足への懸念が高まっています。これはエネルギー供給への不安が経済活動や生活に影響を及ぼす可能性を示しています。",
-          "source": "theaviationhub.co.uk"
-        },
-        {
-          "title": "エルサレムでの聖職者入場阻止に対するイタリアの抗議",
-          "location": "イタリア／イスラエル（エルサレム）",
-          "severity": 50,
-          "description": "イスラエル当局による聖職者の教会入場阻止に対し、イタリア政府が「宗教的自由への侵害」として抗議。地域的な宗教的緊張が外交問題に発展しています。",
-          "source": "TRT World"
+          "description": "反体制的な「No Kings」デモが米国だけでなく欧州全体でも広がりを見せ、多くの人々が参加しています。これは国境を越えた社会的な不満の表れです。",
+          "source": "Australian Broadcasting Corporation"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 55,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "宗教的緊張、地政学的紛争",
+      "main_cause": "宗教的緊張、外交問題",
       "incidents": [
         {
-          "title": "イスラエル警察による聖職者の教会入場阻止",
-          "location": "イスラエル（エルサレム）",
-          "severity": 65,
-          "description": "イスラエル警察がパームサンデーにエルサレムの聖墳墓教会へのラテン総大司教の入場を阻止。宗教的感情を刺激し、地域内の緊張を高めています。",
-          "source": "TRT World"
-        },
-        {
-          "title": "CNNクルーの拘束とジャーナリストへの暴行",
-          "location": "イスラエル",
+          "title": "イスラエル警察がパームサンデーにラテン総主教の聖墳墓教会入場を阻止",
+          "location": "エルサレム（イスラエル）",
           "severity": 60,
-          "description": "CNNの取材班がイスラエル国防軍（IDF）によって拘束され、ジャーナリストがチョークホールドを受ける事態が発生。紛争地域でのメディアへの圧力と緊張を示しています。",
-          "source": "Yahoo"
+          "description": "聖職者の聖地入場が警察によって妨げられた事件が発生し、イタリア政府が宗教の自由への侵害として非難。これは宗教間の緊張を高め、地域的な不安要因となっています。",
+          "source": "TRT World"
         }
       ]
     },
@@ -87,38 +123,30 @@
       "region": "africa",
       "panic_index": 50,
       "status": "unstable",
-      "main_cause": "政治的抗議デモ、偽情報の拡散",
+      "main_cause": "誤情報、抗議の拡大",
       "incidents": [
         {
-          "title": "アンゴラでの抗議デモのエスカレーションと偽情報",
+          "title": "アンゴラでの誤情報と抗議の拡大",
           "location": "アンゴラ",
-          "severity": 70,
-          "description": "アンゴラで偽情報が拡散され、抗議デモがエスカレートしていると報じられています。これは社会の混乱を助長し、さらなる社会不安を招く可能性があります。",
+          "severity": 65,
+          "description": "誤情報が流布された結果、アンゴラでの抗議デモが拡大していると報告されています。これは情報が社会不安を増幅させる現代的な危機管理の課題を示しています。",
           "source": "Modern Ghana"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "政治的弾圧、エネルギー不足、人道危機",
-      "incidents": [
-        {
-          "title": "ネパール元首相の逮捕と致命的なデモ",
-          "location": "ネパール",
-          "severity": 80,
-          "description": "ネパールの元首相が致命的な抗議デモの調査後に逮捕されました。デモでの死者や政府の弾圧は、国民の間に深刻な社会不安と不信感を生み出しています。",
-          "source": "MSN, pragativadi.com"
-        },
-        {
-          "title": "インドのガス不足が孤児院や高齢者施設を直撃",
-          "location": "インド（アンドラプラデーシュ州）",
-          "severity": 75,
-          "description": "インドのアンドラプラデーシュ州でガス不足が深刻化し、特に孤児院や高齢者施設が影響を受けています。これはエネルギー不足が人々の生活を脅かす人道危機に発展しています。",
-          "source": "Deccan Chronicle"
-        }
-      ]
+      "region": "east_asia",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "south_america",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
     }
   ]
 }
