@@ -1,98 +1,63 @@
 {
   "date": "2026-03-29",
-  "summary": "世界各地で多様な形態の社会不安とパニックの兆候が見られます。米国では政治的不満に基づく大規模な抗議デモが全国規模で展開され、中東では政治的混乱や紛争に関連する緊張が高まっています。特にネパールでは元首相逮捕が新たな衝突を引き起こし、インドではエネルギー不足による略奪が発生。パリでのテロ未遂事件も市民の安全に懸念を投げかけています。金融市場への潜在的な不安も存在しますが、広範なパニックには至っていません。",
-  "global_panic_index": 62,
+  "summary": "世界各地で社会不安が顕在化しています。米国では「No Kings」を掲げる大規模な反政府デモが全国的に広がり、政治的・社会的不満が高まっています。ヨーロッパではパリでテロ未遂事件が発生し、アルバニアでは全国規模の政治デモが呼びかけられています。特に東アジアでは、ネパールで元首相逮捕を巡るデモと警察の衝突が暴力化し、インドではエネルギー不足が略奪行為に発展するなど、社会秩序の不安定化が顕著です。中東では紛争と政治的混乱が継続しており、一部地域で深刻なパニックの兆候が見られます。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 60,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "政治的不満/反体制運動",
+      "main_cause": "政治的・社会的不満",
       "incidents": [
         {
-          "title": "ルイビルでの「No Kings」抗議活動",
-          "location": "米国, ルイビル",
-          "severity": 50,
-          "description": "全米規模の「No Kings」抗議活動の一環として、ルイビルの中心部で数百人が集結し、政治的不満を表明するデモを行った。",
-          "source": "wdrb.com"
-        },
-        {
-          "title": "アルトンでの「No Kings」集会",
-          "location": "米国, アルトン",
-          "severity": 55,
-          "description": "「No Kings」集会に500人が参加。この記事は、この集会が米国全体のより広範な社会不安を反映していると報じている。",
-          "source": "Alton Telegraph"
-        },
-        {
-          "title": "コロラド州での大規模な「No Kings」集会",
-          "location": "米国, コロラド州",
+          "title": "米国各地で「No Kings」全国デモ、広がる社会不安",
+          "location": "米国 (ルイビル、アルトン、ポートランド、ミネアポリス、コロラド、レディングなど)",
           "severity": 60,
-          "description": "コロラド州全体で数千人が「No Kings」集会に参加し、歓声を上げ旗を振るデモを行った。広範な政治的不満を示唆。",
-          "source": "The Colorado Sun"
-        },
-        {
-          "title": "米国全土での反トランプ「No Kings」抗議",
-          "location": "米国",
-          "severity": 60,
-          "description": "「No Kings」の日に、米国各地でトランプ氏に反対する群衆が抗議活動を行った。全国的な政治的不安が顕在化している。",
-          "source": "The Straits Times"
-        },
-        {
-          "title": "ニューヨーク、ボストンでの「No Kings」抗議活動",
-          "location": "米国, ニューヨーク、ボストン",
-          "severity": 60,
-          "description": "ワシントンD.C.でトランプ氏の風船が目撃され、ニューヨークやボストンでは数千人が「No Kings」抗議デモに参加した。",
-          "source": "Mint"
+          "description": "「No Kings」を掲げる大規模な抗議デモが全国各地で発生し、数千人が参加。広範な社会不安と既存権力への不満が背景にある。一部ではデモに関連して爆弾脅威も報告された。",
+          "source": "WDRB, Alton Telegraph, OPB 他"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "テロリズム/治安不安",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "テロの脅威、政治的混乱",
       "incidents": [
         {
-          "title": "パリのバンク・オブ・アメリカ前で爆弾攻撃未遂を阻止",
-          "location": "フランス, パリ",
-          "severity": 70,
-          "description": "パリのバンク・オブ・アメリカ支店前で爆弾攻撃が未遂に終わり、フランス当局が捜査を行っている。テロリズムの脅威が現実化している。",
-          "source": "DW.com"
+          "title": "パリで金融機関への爆弾テロ未遂が阻止される",
+          "location": "フランス、パリ",
+          "severity": 75,
+          "description": "パリのバンク・オブ・アメリカ支店前で爆弾テロ未遂事件が発生し、フランス当局が阻止した。市民の安全と金融システムへの深刻な脅威を引き起こす可能性があった。",
+          "source": "DW.com, TRT World, WKMG"
         },
         {
-          "title": "アルバニア野党、首相辞任要求の全国抗議を呼びかけ",
+          "title": "アルバニアで野党が全国規模の反政府デモを呼びかけ",
           "location": "アルバニア",
-          "severity": 60,
-          "description": "アルバニアの野党が、首相の辞任を要求する全国規模の抗議活動を呼びかけた。政治的緊張が高まっており、大規模デモに発展する可能性。",
-          "source": "Albanian Daily News"
+          "severity": 55,
+          "description": "野党勢力が首相辞任を求め、全国的な抗議デモを呼びかけている。政治的緊張が高まり、社会的な混乱を招く可能性がある。",
+          "source": "albaniandailynews.com"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "政治的弾圧/政治的緊張, エネルギー不足/生活必需品の不足",
+      "region": "east_asia",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "政治的混乱、エネルギー不足による略奪",
       "incidents": [
         {
-          "title": "ネパール元首相、致命的抗議弾圧で逮捕",
-          "location": "ネパール",
-          "severity": 65,
-          "description": "ネパールのKPシャルマ・オリ元首相が、過去の致命的な抗議デモ弾圧を巡り逮捕された。国内の政治的緊張が高まっている。",
-          "source": "bbc.com"
+          "title": "ネパール元首相逮捕でカトマンズでデモと警察衝突",
+          "location": "ネパール、カトマンズ",
+          "severity": 90,
+          "description": "致命的なデモ鎮圧に関連して元首相が逮捕されたことを受け、支持者らがカトマンズで抗議デモを行い、警察と衝突。政治的対立が暴力化している。",
+          "source": "BBC, India Today 他"
         },
         {
-          "title": "オリ元首相逮捕がカトマンズでの抗議と警察衝突を誘発",
-          "location": "ネパール, カトマンズ",
-          "severity": 75,
-          "description": "オリ元首相の逮捕がカトマンズでの抗議デモを引き起こし、支持者と警察が衝突。政治的緊張の激化と社会秩序の混乱を示唆。",
-          "source": "India Today"
-        },
-        {
-          "title": "LPG不足に抗議し、インド男性がガスボンベを「略奪」",
-          "location": "インド, バティンダ",
-          "severity": 70,
-          "description": "LPG不足に抗議するため、バティンダの男性が馬に乗ってガスボンベを「略奪」した。エネルギー不足が個人の秩序逸脱行動につながっている。",
+          "title": "インドでLPG不足に抗議しガスボンベ略奪が発生",
+          "location": "インド、バティンダ",
+          "severity": 95,
+          "description": "LPG（液化石油ガス）の深刻な不足に抗議するため、男性が馬に乗ってガスボンベを略奪する事件が発生。物資不足が社会秩序を乱す行動に繋がっている。",
           "source": "Tribune India"
         }
       ]
@@ -101,49 +66,50 @@
       "region": "middle_east",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "政治的不安定/権力移行期の混乱, 紛争/暴力",
+      "main_cause": "政治的・宗教的指導者の死、紛争と暴力",
       "incidents": [
         {
-          "title": "ハメネイ師の死後、バグダッドのグリーンゾーン付近で抗議デモ",
-          "location": "イラク, バグダッド",
-          "severity": 75,
-          "description": "ハメネイ師の死後、バグダッドのグリーンゾーン付近で抗議デモが発生し、社会不安が高まっている。権力移行期の不安定さを示唆。",
+          "title": "バグダッドで宗教指導者の死後、グリーンゾーン付近で抗議デモ",
+          "location": "イラク、バグダッド",
+          "severity": 70,
+          "description": "宗教指導者の死を受けて、バグダッドのグリーンゾーン付近で抗議デモが発生。政治的空白と社会不安の増大が懸念される。",
           "source": "Fathom Journal"
         },
         {
-          "title": "イランで数百件の組織的な抗議デモ",
-          "location": "イラン",
-          "severity": 60,
-          "description": "イラン国内で数百件の組織的な抗議デモが報告されている。体制に対する広範な不満が継続的に存在することを示す。",
-          "source": "The Guardian"
-        },
-        {
-          "title": "ウェストバンクでイスラエル軍に射殺された少年を埋葬",
-          "location": "ウェストバンク",
+          "title": "ヨルダン川西岸でイスラエル軍に射殺されたティーンエイジャーが埋葬される",
+          "location": "ヨルダン川西岸",
           "severity": 70,
-          "description": "ウェストバンクでイスラエル軍に射殺されたティーンエイジャーの葬儀が行われた。紛争地域での死者は、さらなる暴力と緊張を高める。",
+          "description": "イスラエル軍に射殺されたパレスチナ人ティーンエイジャーの埋葬が行われた。地域の緊張が高まり、さらなる暴力や報復の連鎖が懸念される。",
           "source": "Arab News"
-        },
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "情報統制（潜在的な社会不安）",
+      "incidents": [
         {
-          "title": "数百人のイスラエル人が戦争に抗議し、警察と衝突",
-          "location": "イスラエル",
-          "severity": 70,
-          "description": "数百人のイスラエル人が戦争に反対する抗議デモを行い、警察と衝突した。国内の社会的分断と緊張が激化している。",
-          "source": "The Hindu"
+          "title": "インドネシア、16歳未満のソーシャルメディア利用を厳格に禁止",
+          "location": "インドネシア",
+          "severity": 30,
+          "description": "インドネシア政府が16歳未満のソーシャルメディア利用に対する厳格な禁止措置を施行。「妥協なし」の警告が出されており、情報統制強化の動きが見られる。",
+          "source": "TRT World"
         }
       ]
     },
     {
       "region": "oceania",
-      "panic_index": 55,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "エネルギー不足/供給網の混乱",
+      "main_cause": "エネルギー不足の懸念",
       "incidents": [
         {
-          "title": "ディーゼル不足が遠隔地の鉱山に懸念",
+          "title": "オーストラリア、遠隔地の鉱山でディーゼル不足の懸念が広がる",
           "location": "オーストラリア",
-          "severity": 65,
-          "description": "国の遠隔地の鉱山でディーゼル不足が懸念されており、主要産業への影響と経済活動の停滞が懸念されている。",
+          "severity": 45,
+          "description": "オーストラリア国内の遠隔地にある鉱山で、ディーゼル燃料不足に対する懸念が広がっている。エネルギー供給への不安が経済活動に影響を与え始めている。",
           "source": "AFR"
         }
       ]

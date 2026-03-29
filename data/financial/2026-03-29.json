@@ -1,18 +1,18 @@
 {
   "date": "2026-03-29",
-  "summary": "中東情勢の緊迫化により、原油価格が急騰し、株式市場は大幅下落。インフレ懸念が再燃し、金融市場全体にリスクオフの動きが広がっている。暗号資産市場も不安定な状況が続いている。",
+  "summary": "中東情勢の緊迫化による原油価格高騰とインフレ懸念、及び暗号資産市場の規制強化と技術的課題が重なり、金融市場全体に大きなリスクをもたらしている。特に株式市場の調整が深刻化し、投資家心理が悪化している。",
   "overall_risk_level": "critical",
   "articles": [
     {
       "title": "How the big oil and gas CEOs think the Iran war supply disruption will play out",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "石油・ガス業界のCEOは、イラン戦争による供給混乱が長期化すると見ており、トランプ政権の短期的な見通しとは対照的。",
-      "analysis": "ホルムズ海峡の封鎖リスクが高まり、原油供給の途絶が現実味を帯びている。石油・ガス価格の高騰は、インフレを加速させ、世界経済に深刻な影響を与える可能性がある。エネルギー企業の収益は増加する可能性があるが、消費者にとっては大きな負担となる。地政学的リスクが金融市場に与える影響を強く示唆している。",
+      "summary": "大手石油・ガス企業CEOは、イラン戦争による供給混乱が長期化すると見ており、トランプ政権の短期的な見通しとは対照的である。",
+      "analysis": "ホルムズ海峡の封鎖リスクが高まり、原油価格が急騰する可能性が非常に高い。石油・ガス供給の混乱は、世界経済全体に深刻な影響を及ぼし、特に製造業や運輸業への打撃は避けられない。インフレ圧力の増大は、各国中央銀行の金融政策をさらに複雑化させるだろう。企業はサプライチェーンの見直しや代替エネルギーへの投資を加速させる必要がある。",
       "key_entities": [
-        "石油メジャー",
         "OPEC",
-        "ホルムズ海峡"
+        "Strait of Hormuz",
+        "Big Oil Companies"
       ],
       "sources": [
         "CNBC - Top News"
@@ -25,12 +25,12 @@
       "title": "Yemen's Houthis launch Israel strike, the first time since the U.S.-Israel war began",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "イエメンのフーシ派がイスラエルを攻撃。紛争がエスカレートし、中東地域の不安定化が加速。",
-      "analysis": "フーシ派の参戦は、紛争の範囲を拡大させ、地域全体を巻き込む可能性を高めている。地政学的リスクの増大は、原油価格の上昇、サプライチェーンの混乱、投資家のリスク回避姿勢を招き、金融市場に大きな影響を与える。安全資産への逃避が進むと予想される。",
+      "summary": "イエメンのフーシ派がイスラエルを攻撃し、紛争が激化。開戦から2ヶ月で、紛争の重大なエスカレーションを示す。",
+      "analysis": "フーシ派の参戦は、中東地域の地政学的リスクを大幅に高める。紛争が拡大し、地域全体に不安定化をもたらす可能性がある。原油価格への影響に加え、サプライチェーンの混乱、投資家のリスク回避姿勢の強まりなどが懸念される。地政学的リスクプレミアムの上昇は、株式市場や債券市場にも悪影響を及ぼすだろう。",
       "key_entities": [
-        "フーシ派",
-        "イスラエル",
-        "米国"
+        "Houthis",
+        "Israel",
+        "Middle East"
       ],
       "sources": [
         "CNBC - Top News"
@@ -43,12 +43,12 @@
       "title": "Here are 3 themes that drove another super challenging week for stocks",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イラン戦争が株式市場に大きな打撃を与え、リスクオフの動きが加速。",
-      "analysis": "原油価格の高騰、金利上昇、地政学的リスクの増大が、株式市場の重石となっている。特に、中東情勢の悪化は、投資家の心理を悪化させ、リスク資産からの資金流出を招いている。企業業績への悪影響も懸念され、今後の市場の動向に注意が必要。",
+      "summary": "イラン戦争がウォール街に深刻な影響を与え、株式市場は厳しい1週間となった。原油高と金利上昇が重し。",
+      "analysis": "中東情勢の悪化、原油価格の高騰、そしてそれらに伴うインフレ懸念が株式市場を圧迫している。特に、エネルギー依存度の高いセクターや、金利上昇に弱いテクノロジーセクターへの影響が大きい。投資家はリスクオフ姿勢を強めており、安全資産への逃避が見られる。今後の市場動向は、中東情勢の推移と、各国中央銀行の金融政策に大きく左右されるだろう。",
       "key_entities": [
-        "株式市場",
-        "原油価格",
-        "米国債"
+        "Wall Street",
+        "Iran",
+        "Oil Prices"
       ],
       "sources": [
         "CNBC - Top News"
@@ -61,12 +61,12 @@
       "title": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
       "region": "global",
       "risk_level": "high",
-      "summary": "燃料価格の高騰が、ガソリンスタンドだけでなく、航空運賃や宅配サービスなど、消費者の生活全般に影響。",
-      "analysis": "原油価格の上昇は、企業がコストを消費者に転嫁する形で、インフレを加速させる。消費者の購買力が低下し、経済成長の鈍化につながる可能性がある。特に、低所得者層への影響が大きく、社会不安を招くリスクもある。",
+      "summary": "原油価格の高騰はガソリン価格だけでなく、航空運賃や配送サービスなど、消費者の生活全般に影響を及ぼし始めている。",
+      "analysis": "原油価格の上昇は、企業のコスト増加につながり、そのコストは最終的に消費者に転嫁される。航空運賃の値上げや配送サービスの料金引き上げは、消費者の購買力を低下させ、経済全体の成長を鈍化させる可能性がある。特に、低所得者層への影響は大きく、社会不安につながるリスクもある。企業はコスト削減努力を行うとともに、消費者への負担を軽減する対策を講じる必要がある。",
       "key_entities": [
-        "消費者物価指数",
-        "航空会社",
-        "宅配サービス"
+        "Consumers",
+        "Airlines",
+        "Delivery Services"
       ],
       "sources": [
         "CNBC - Top News"
@@ -76,15 +76,69 @@
       ]
     },
     {
-      "title": "Analysis: A new oil shock is building. The next few weeks of war will be decisive for the economy.",
+      "title": "Crypto needs a reset before the next bull run",
       "region": "global",
-      "risk_level": "critical",
-      "summary": "新たなオイルショックが現実味を帯びており、今後の数週間が経済の行方を左右する。",
-      "analysis": "エネルギー市場は、供給途絶のリスクを織り込み始めている。ホルムズ海峡の封鎖は、原油価格を急騰させ、世界経済に深刻な打撃を与える可能性がある。各国政府は、エネルギー安全保障の強化を急ぐ必要がある。",
+      "risk_level": "medium",
+      "summary": "暗号資産市場は、次の強気相場を迎える前に、規制や技術的な課題を解決する必要がある。",
+      "analysis": "暗号資産市場は、過去の投機的な動きから脱却し、より健全な市場へと成長する必要がある。規制の整備、技術的なセキュリティの強化、そして市場参加者の成熟度が不可欠である。特に、量子コンピュータの脅威に対する対策は急務であり、Bitcoinなどの主要な暗号資産ネットワークは、2029年までに移行を完了する必要がある。",
       "key_entities": [
-        "原油価格",
-        "ホルムズ海峡",
-        "各国政府"
+        "Bitcoin",
+        "Ethereum",
+        "Crypto Regulations"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Canada moves to ban crypto donations for election campaigns following UK",
+      "region": "europe, north_america",
+      "risk_level": "medium",
+      "summary": "カナダが英国に続き、選挙キャンペーンへの暗号資産寄付を禁止する動きを見せている。",
+      "analysis": "暗号資産の匿名性を悪用した選挙資金の不正な流れを阻止する目的がある。規制強化は、暗号資産市場の透明性を高める一方で、一部の市場参加者にとっては活動の制限につながる可能性がある。同様の規制が他の国々にも広がる可能性があり、暗号資産市場全体への影響を注視する必要がある。",
+      "key_entities": [
+        "Canada",
+        "UK",
+        "Crypto Donations"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Here's how bitcoin, Ethereum and other networks are preparing for the looming quantum threat",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "BitcoinやEthereumなどのネットワークは、量子コンピュータによる攻撃に備え、対策を講じている。",
+      "analysis": "量子コンピュータの登場は、暗号資産のセキュリティに大きな脅威をもたらす。特に、公開鍵暗号方式の脆弱性が懸念されており、量子耐性のある暗号方式への移行が急務となっている。移行が遅れる場合、暗号資産の価値が大きく損なわれる可能性がある。開発者コミュニティは、量子コンピュータの脅威に対する対策を加速させる必要がある。",
+      "key_entities": [
+        "Bitcoin",
+        "Ethereum",
+        "Quantum Computing"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "市場は、インフレ懸念の高まりから、FRBの次の行動を利上げと見ている。",
+      "analysis": "原油価格の高騰とサプライチェーンの混乱がインフレ圧力を高めており、FRBは金融引き締めを余儀なくされる可能性がある。利上げは、株式市場や債券市場にマイナスの影響を与え、景気後退のリスクを高める。FRBは、インフレ抑制と景気維持のバランスを慎重に見極める必要がある。",
+      "key_entities": [
+        "Federal Reserve",
+        "Inflation",
+        "Interest Rates"
       ],
       "sources": [
         "CNBC - Top News"
@@ -97,12 +151,12 @@
       "title": "Dow tumbles almost 800 points and enters correction, S&P 500 posts fifth straight losing week: Live updates",
       "region": "global",
       "risk_level": "high",
-      "summary": "ダウ平均が大幅下落し調整局面入り。S&P500も5週連続で下落。",
-      "analysis": "原油価格の高騰と米国債利回りの上昇が、株式市場の重石となっている。中東情勢の緊迫化が、投資家のリスク回避姿勢を強めている。企業業績への悪影響も懸念され、今後の市場の動向に注意が必要。",
+      "summary": "ダウ平均株価が大幅下落し調整局面入り。S&P500も5週連続で下落。原油高と米国債利回りの上昇が株式市場の重しとなっている。",
+      "analysis": "株式市場の調整は、投資家心理の悪化を示唆している。原油高と金利上昇に加え、中東情勢の不安定化がリスクオフの動きを加速させている。企業業績への影響も懸念され、今後の市場動向は不透明である。投資家はリスク管理を徹底し、慎重な投資判断が求められる。",
       "key_entities": [
-        "ダウ平均",
-        "S&P500",
-        "米国債"
+        "Dow Jones",
+        "S&P 500",
+        "Stock Market"
       ],
       "sources": [
         "CNBC - Top News"
@@ -112,72 +166,18 @@
       ]
     },
     {
-      "title": "Tech stocks suffer worst week in nearly a year, driven down by war worries, Meta legal woes",
+      "title": "Meta is among the most oversold stocks after another losing week on Wall Street",
       "region": "global",
-      "risk_level": "high",
-      "summary": "テクノロジー株が大幅下落。戦争への懸念とMetaの法的問題が影響。",
-      "analysis": "Metaの法的問題に加え、原油価格の高騰がテクノロジー株の売りを加速させている。特に、中東情勢の悪化は、投資家の心理を悪化させ、リスク資産からの資金流出を招いている。AI関連銘柄の動向にも注意が必要。",
+      "risk_level": "medium",
+      "summary": "Metaは、ウォール街での下落が続き、最も売られ過ぎの株の一つとなっている。",
+      "analysis": "Metaの株価下落は、市場全体の調整に加え、同社の事業戦略に対する懸念も影響している可能性がある。ただし、売られ過ぎの状態は、反発の可能性も示唆している。投資家は、Metaの今後の事業展開や市場環境の変化を注視する必要がある。",
       "key_entities": [
         "Meta",
-        "テクノロジー株",
-        "AI"
+        "Wall Street",
+        "Oversold Stocks"
       ],
       "sources": [
         "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Crude Oil Surges on Fears of Iran War Escalation",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "イラン戦争のエスカレーションへの懸念から原油価格が急騰。",
-      "analysis": "中東地域の地政学的リスクの高まりが、原油価格を押し上げている。供給不安が現実化すれば、インフレが加速し、世界経済に深刻な影響を与える可能性がある。エネルギー政策の見直しや、代替エネルギーへの投資が急務となる。",
-      "key_entities": [
-        "原油価格",
-        "イラン",
-        "OPEC"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Crypto Ends The Week In The Red As Market Volatility Continues",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "暗号資産市場は、市場のボラティリティが継続する中で、週を赤字で終える。",
-      "analysis": "株式市場の下落や地政学的リスクの高まりを受け、暗号資産市場も不安定な状況が続いている。ビットコインETFの登場など、市場の成熟が進む一方で、規制の不確実性や技術的なリスクも依然として存在する。今後の市場の動向には注意が必要。",
-      "key_entities": [
-        "ビットコイン",
-        "暗号資産",
-        "ETF"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin miners are becoming AI companies and selling their BTC to fund the transition",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "ビットコインマイナーがAI企業に転換し、移行資金を調達するためにBTCを売却。",
-      "analysis": "AI技術の発展に伴い、ビットコインマイナーがAI分野に参入する動きが活発化している。BTCの売却は、市場に供給を増やし、価格下落の要因となる可能性がある。AIと暗号資産の融合は、新たなビジネスモデルを生み出す一方で、規制上の課題も提起する。",
-      "key_entities": [
-        "ビットコイン",
-        "AI",
-        "マイニング企業"
-      ],
-      "sources": [
-        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -188,12 +188,9 @@
     "global": "critical",
     "north_america": "medium",
     "europe": "medium",
-    "east_asia": "none",
-    "south_america": "none",
-    "africa": "none",
-    "middle_east": "critical"
+    "east_asia": "none"
   },
-  "generated_at": "2026-03-29T02:49:03.954108",
+  "generated_at": "2026-03-29T05:15:43.087641",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
