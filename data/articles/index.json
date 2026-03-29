@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-03-29",
-    "summary": "アメリカ・イスラエルによるイランへの軍事作戦が1か月経過し、中東地域全体が不安定化。フーシ派がイスラエルへの攻撃を開始し、イラクでも空爆が発生。エネルギー供給への影響も深刻化しており、世界経済への悪影響が懸念される。外交努力も活発化しているが、事態収束の見通しは不透明。",
+    "summary": "米イスラエルによるイランへの軍事作戦が開始から1ヶ月経過し、中東情勢が極めて不安定化。ホルムズ海峡の封鎖によるエネルギー危機、フーシ派の攻撃、サイバー攻撃などリスクが複合的に発生。ウクライナ情勢も継続。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "medium",
+      "east_asia": "high",
       "southeast_asia": "medium",
       "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
-      "africa": "low",
-      "north_america": "medium",
+      "europe": "high",
+      "africa": "none",
+      "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-03-29T09:42:44.978414"
+    "generated_at": "2026-03-29T13:04:56.112882"
   },
   {
     "date": "2026-03-28",

@@ -1,121 +1,107 @@
 {
   "date": "2026-03-29",
-  "summary": "世界各地では、米国での大規模な抗議デモ、フランスでのテロ未遂事件、ネパールの政治的混乱に伴う衝突、中東の継続的な緊張など、多様な社会不安の兆候が見られます。食料供給やエネルギー供給に関する懸念も一部で報告されており、特定の地域で警戒レベルが高まっていますが、広範な社会インフラの麻痺や無秩序な逃避といった全面的なパニック状態には至っていません。",
+  "summary": "世界全体では、各地で社会不安が高まっている兆候が見られます。北米では広範囲な政治的抗議デモが続き、一部では爆弾脅迫の報告や食料支援の需要増が見られます。ヨーロッパではパリで金融機関を狙ったテロ未遂事件が阻止され、警戒感が強まっています。中東では紛争に関連する暴力と政治的デモが継続し、不安定な状況が続いています。アジアではネパールでデモの弾圧に伴う政治的混乱が発生し、東南アジアではエネルギー価格高騰が経済的・社会的不安を深めています。",
   "global_panic_index": 58,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "大規模な政治的抗議活動と潜在的な社会的緊張",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "政治的抗議と経済的不安の兆候",
       "incidents": [
         {
-          "title": "数百人がルイビル中心部で全国的なNo Kings抗議活動に集結",
-          "location": "Louisville, USA",
-          "severity": 65,
-          "description": "ルイビル中心部で数百人が「No Kings」と称する全国的な抗議活動に参加。同様のデモが全米で発生しており、社会的な不満と緊張の高まりを示しています。",
-          "source": "WDRB"
+          "title": "全米各地で「No Kings」抗議デモが拡大",
+          "location": "米国（Portland, Louisville, Colorado, Redding, Alton, Minneapolis, Philadelphiaなど）",
+          "severity": 50,
+          "description": "全米で「No Kings」を掲げる大規模な抗議デモが多数発生し、数百人から数千人が参加。政治的な不満を表明し、一部で爆弾脅迫の報告があり、社会不安が増している状況です。",
+          "source": "OPB, WDRB, The Colorado Sun, redding.com, Alton Telegraph, The Straits Times, kitv.com, National Today, RBC-Ukraine, CBS News"
         },
         {
-          "title": "コロラド州で数千人がNo Kings集会に参加",
-          "location": "Colorado, USA",
-          "severity": 68,
-          "description": "コロラド州各地で数千人が「No Kings」を掲げる集会に集まり、旗を振ってデモを実施。大規模な参加者は、広範囲にわたる社会不安と政治への不満を反映しています。",
-          "source": "The Colorado Sun"
-        },
-        {
-          "title": "No Kings抗議活動で爆弾脅威の可能性",
-          "location": "USA",
-          "severity": 70,
-          "description": "「No Kings」抗議活動に関連して爆弾脅威の可能性が報告されました。具体的な被害は確認されていませんが、こうした脅威は参加者や一般市民に深刻な不安をもたらします。",
-          "source": "KITV"
-        },
-        {
-          "title": "中部アラバマのコミュニティフードバンクが拡大",
-          "location": "Central Alabama, USA",
-          "severity": 45,
-          "description": "中部アラバマのコミュニティフードバンクが活動を拡大しています。これは直接的なパニックではありませんが、経済的困窮や食料不安の兆候を示しており、社会不安の一因となり得ます。",
-          "source": "WBRC"
+          "title": "食料銀行の支援活動拡大",
+          "location": "米国（Puget Ridge (WA), Central Alabama）",
+          "severity": 35,
+          "description": "ワシントン州の食料公園での収穫活動やアラバマ州のコミュニティフードバンクの拡大など、各地で食料支援の必要性が高まっている。潜在的な食料不安や経済的困難の兆候が見られます。",
+          "source": "West Seattle Blog..., WBRC, wtoc.com"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 70,
-      "status": "critical",
-      "main_cause": "テロリズムの脅威",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "テロの脅威",
       "incidents": [
         {
-          "title": "パリのバンク・オブ・アメリカ外で爆弾攻撃未遂を阻止",
-          "location": "Paris, France",
-          "severity": 85,
-          "description": "パリのバンク・オブ・アメリカの建物付近で爆弾攻撃未遂事件が警察によって阻止されました。金融機関を狙ったテロの脅威は、社会に大きな衝撃と警戒をもたらします。",
-          "source": "DW.com"
+          "title": "パリで金融機関への爆弾攻撃未遂が阻止",
+          "location": "パリ、フランス",
+          "severity": 65,
+          "description": "パリのバンク・オブ・アメリカの建物付近で爆弾攻撃が未遂に終わり、フランス当局が捜査中。これは金融機関を狙ったテロの脅威を示し、市民に不安を与えています。",
+          "source": "DW.com, TRT World, WKMG"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "エネルギー価格高騰",
+      "incidents": [
+        {
+          "title": "フィリピンでエネルギー価格急騰が深刻化",
+          "location": "フィリピン",
+          "severity": 55,
+          "description": "フィリピンではエネルギー価格が急騰し、国が経済的、社会的に困難な状況に直面している。これは市民生活に直接影響を与え、広範な社会不安を引き起こす可能性が高いです。",
+          "source": "Financial Times"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 75,
-      "status": "critical",
-      "main_cause": "政治的混乱と継続的な紛争",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "地域紛争、政治的不安",
       "incidents": [
         {
-          "title": "バグダッドのグリーンゾーン付近で抗議デモ、最高指導者の死が不安を煽る",
-          "location": "Baghdad, Iraq",
-          "severity": 70,
-          "description": "バグダッドの厳重警備されたグリーンゾーン付近で抗議デモが発生し、最高指導者の死去が不安定化の火種となっています。地域の政治的緊張と社会不安が増大しています。",
-          "source": "Fathom Journal"
+          "title": "レバノンでジャーナリスト3人殺害",
+          "location": "レバノン",
+          "severity": 60,
+          "description": "レバノンで、ヒズボラ系放送局の記者を含むジャーナリスト3人が殺害された。これは地域紛争の激化と市民の安全に対する脅威を示しています。",
+          "source": "CNN"
         },
         {
-          "title": "ヨルダン川西岸でイスラエル軍に射殺された少年が埋葬される",
-          "location": "West Bank",
-          "severity": 80,
-          "description": "ヨルダン川西岸でイスラエル軍に射殺されたティーンエイジャーが埋葬されました。このような暴力事件は、地域の住民に深い悲しみと怒り、そして継続的な不安をもたらします。",
+          "title": "ヨルダン川西岸でティーンエイジャーが射殺され埋葬",
+          "location": "ヨルダン川西岸",
+          "severity": 60,
+          "description": "ヨルダン川西岸でイスラエル軍によって射殺されたティーンエイジャーの埋葬が行われた。これは紛争地域における暴力と緊張の継続を示しています。",
           "source": "Arab News"
         },
         {
-          "title": "イランで数百の組織的抗議活動が政権の抵抗力を示す",
-          "location": "Iran",
-          "severity": 75,
-          "description": "イランで数百に及ぶ組織的な抗議デモが続いており、政権への広範な不満が示されています。これらのデモは、社会的な緊張が継続していることを明確に示しています。",
-          "source": "theguardian.com"
+          "title": "バグダッドで大規模抗議デモ発生、不安高まる",
+          "location": "バグダッド、イラク",
+          "severity": 65,
+          "description": "バグダッドでハメネイ師の死後、グリーンゾーン付近で抗議デモが発生。このデモが地域にさらなる不安を引き起こしていると報じられています。",
+          "source": "Fathom Journal"
         }
       ]
     },
     {
-      "region": "south_asia",
+      "region": "asia",
       "panic_index": 60,
       "status": "unstable",
-      "main_cause": "政治的逮捕とそれに伴う社会不安",
+      "main_cause": "政治的混乱、エネルギー供給懸念",
       "incidents": [
         {
-          "title": "ネパールが元首相を逮捕、致命的なデモ弾圧を巡り政治的緊張",
-          "location": "Nepal",
-          "severity": 68,
-          "description": "ネパールで元首相が致命的なデモ弾圧の容疑で逮捕され、国内の政治的緊張が高まっています。この逮捕は大規模な抗議活動の引き金となり、社会不安を増幅させています。",
-          "source": "www.christiandaily.com"
+          "title": "ネパールで元首相がデモでの死者巡り逮捕",
+          "location": "ネパール",
+          "severity": 70,
+          "description": "ネパールで、過去のデモ弾圧による死者の捜査に関連して元首相が逮捕された。これは政府の対応に対する市民の不満が高まり、政治的緊張が継続していることを示します。",
+          "source": "MSN"
         },
         {
-          "title": "元首相の逮捕がカトマンズで抗議活動を引き起こし、支持者が警察と衝突",
-          "location": "Kathmandu, Nepal",
-          "severity": 72,
-          "description": "ネパールの元首相逮捕後、首都カトマンズで抗議デモが発生し、支持者と警察が衝突しました。この事件は、政治的な対立が治安状況を悪化させていることを示します。",
-          "source": "India Today"
-        }
-      ]
-    },
-    {
-      "region": "australia",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "エネルギー供給への懸念",
-      "incidents": [
-        {
-          "title": "ディーゼル不足の懸念が国内の遠隔地の鉱山に波及",
-          "location": "Australia",
-          "severity": 50,
-          "description": "オーストラリアの遠隔地にある鉱山でディーゼル不足への懸念が広がっています。これは直接的なパニックではありませんが、エネルギー供給の不安定さは経済活動に影響を及ぼし、潜在的な社会不安要因となります。",
+          "title": "オーストラリアでディーゼル不足の懸念",
+          "location": "オーストラリア",
+          "severity": 45,
+          "description": "オーストラリアの遠隔地の鉱山でディーゼル不足が懸念されており、経済活動への影響が予測される。これはエネルギー供給の脆弱性と経済的社会不安の兆候です。",
           "source": "AFR"
         }
       ]
