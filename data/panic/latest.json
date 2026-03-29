@@ -1,118 +1,116 @@
 {
   "date": "2026-03-29",
-  "summary": "世界各地で社会不安が顕在化しています。米国では「No Kings」を掲げる大規模な反政府デモが全国的に広がり、政治的・社会的不満が高まっています。ヨーロッパではパリでテロ未遂事件が発生し、アルバニアでは全国規模の政治デモが呼びかけられています。特に東アジアでは、ネパールで元首相逮捕を巡るデモと警察の衝突が暴力化し、インドではエネルギー不足が略奪行為に発展するなど、社会秩序の不安定化が顕著です。中東では紛争と政治的混乱が継続しており、一部地域で深刻なパニックの兆候が見られます。",
-  "global_panic_index": 65,
+  "summary": "世界各地で政治的抗議活動や社会不安が高まっています。米国では大規模な「No Kings」デモが広がり、パリでは銀行への爆弾攻撃未遂が発生し、治安への懸念が浮上。ネパールでは元首相逮捕を巡るデモで衝突が起き、キューバでは燃料危機が深刻化しています。中東地域でも指導者の死や紛争に起因する抗議が散見され、全体的に社会の不安定化が進む警戒状態にあります。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "政治的・社会的不満",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "政治的抗議、エネルギー不足",
       "incidents": [
         {
-          "title": "米国各地で「No Kings」全国デモ、広がる社会不安",
-          "location": "米国 (ルイビル、アルトン、ポートランド、ミネアポリス、コロラド、レディングなど)",
+          "title": "米国各地での「No Kings」抗議デモ",
+          "location": "米国（ルイビル、ポートランド、ミネアポリス、レディングなど）",
           "severity": 60,
-          "description": "「No Kings」を掲げる大規模な抗議デモが全国各地で発生し、数千人が参加。広範な社会不安と既存権力への不満が背景にある。一部ではデモに関連して爆弾脅威も報告された。",
-          "source": "WDRB, Alton Telegraph, OPB 他"
+          "description": "米国各地で「No Kings」を掲げる大規模な抗議デモが広範に発生。数百人から数千人が参加し、一部では爆弾脅威の可能性も報じられ、社会的な緊張が高まっています。",
+          "source": "WDRB, KITV, OPB, Alton Telegraph, The Straits Times, The Colorado Sun, Record Searchlight, K8 News, CBS News, Mint"
+        },
+        {
+          "title": "キューバでの燃料危機",
+          "location": "キューバ",
+          "severity": 75,
+          "description": "キューバで深刻な燃料危機が発生しており、中国が支援を表明する事態となっています。これは国民生活に直接的な影響を与え、社会不安を増大させる要因となっています。",
+          "source": "MSN"
+        },
+        {
+          "title": "コミュニティフードバンクの拡大",
+          "location": "米国アラバマ州",
+          "severity": 30,
+          "description": "アラバマ州のコミュニティフードバンクが拡大しています。これは食料支援の需要増を示唆しており、潜在的な食料不安の兆候として捉えられますが、直接的なパニックには至っていません。",
+          "source": "WBRC, WTOC"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "テロの脅威、政治的混乱",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "テロ未遂（治安不安）",
       "incidents": [
         {
-          "title": "パリで金融機関への爆弾テロ未遂が阻止される",
+          "title": "パリの銀行に対する爆弾攻撃未遂",
           "location": "フランス、パリ",
-          "severity": 75,
-          "description": "パリのバンク・オブ・アメリカ支店前で爆弾テロ未遂事件が発生し、フランス当局が阻止した。市民の安全と金融システムへの深刻な脅威を引き起こす可能性があった。",
-          "source": "DW.com, TRT World, WKMG"
-        },
-        {
-          "title": "アルバニアで野党が全国規模の反政府デモを呼びかけ",
-          "location": "アルバニア",
-          "severity": 55,
-          "description": "野党勢力が首相辞任を求め、全国的な抗議デモを呼びかけている。政治的緊張が高まり、社会的な混乱を招く可能性がある。",
-          "source": "albaniandailynews.com"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "政治的混乱、エネルギー不足による略奪",
-      "incidents": [
-        {
-          "title": "ネパール元首相逮捕でカトマンズでデモと警察衝突",
-          "location": "ネパール、カトマンズ",
-          "severity": 90,
-          "description": "致命的なデモ鎮圧に関連して元首相が逮捕されたことを受け、支持者らがカトマンズで抗議デモを行い、警察と衝突。政治的対立が暴力化している。",
-          "source": "BBC, India Today 他"
-        },
-        {
-          "title": "インドでLPG不足に抗議しガスボンベ略奪が発生",
-          "location": "インド、バティンダ",
-          "severity": 95,
-          "description": "LPG（液化石油ガス）の深刻な不足に抗議するため、男性が馬に乗ってガスボンベを略奪する事件が発生。物資不足が社会秩序を乱す行動に繋がっている。",
-          "source": "Tribune India"
+          "severity": 70,
+          "description": "パリのバンク・オブ・アメリカビルディング付近で爆弾攻撃未遂事件が発生し、フランス当局が捜査を進めています。テロ行為が未然に防がれたものの、金融機関を標的とした攻撃は社会に強い警戒感と不安をもたらします。",
+          "source": "dw.com, TRT World, WKMG, abcnews.com"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 70,
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "政治的・宗教的指導者の死、紛争と暴力",
+      "main_cause": "政治的抗議、地域紛争",
       "incidents": [
         {
-          "title": "バグダッドで宗教指導者の死後、グリーンゾーン付近で抗議デモ",
+          "title": "バグダッドでの抗議デモ",
           "location": "イラク、バグダッド",
-          "severity": 70,
-          "description": "宗教指導者の死を受けて、バグダッドのグリーンゾーン付近で抗議デモが発生。政治的空白と社会不安の増大が懸念される。",
+          "severity": 60,
+          "description": "指導者の死を受けてバグダッドのグリーンゾーン付近で抗議デモが発生しており、社会の不安定化が進んでいます。",
           "source": "Fathom Journal"
         },
         {
-          "title": "ヨルダン川西岸でイスラエル軍に射殺されたティーンエイジャーが埋葬される",
+          "title": "イランでの組織的抗議活動",
+          "location": "イラン",
+          "severity": 55,
+          "description": "イラン全土で数百もの組織的な抗議活動が行われています。体制の強靭さを示すとの見方もありますが、広範囲なデモは依然として社会不安の存在を浮き彫りにしています。",
+          "source": "The Guardian"
+        },
+        {
+          "title": "ヨルダン川西岸でのティーンエイジャー射殺",
           "location": "ヨルダン川西岸",
-          "severity": 70,
-          "description": "イスラエル軍に射殺されたパレスチナ人ティーンエイジャーの埋葬が行われた。地域の緊張が高まり、さらなる暴力や報復の連鎖が懸念される。",
+          "severity": 65,
+          "description": "ヨルダン川西岸でイスラエル軍に射殺されたティーンエイジャーの葬儀が行われ、地域紛争の緊張状態とそれに伴う社会の不安定性が続いています。",
           "source": "Arab News"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "情報統制（潜在的な社会不安）",
+      "panic_index": 75,
+      "status": "critical",
+      "main_cause": "政治的混乱、抗議デモ",
       "incidents": [
         {
-          "title": "インドネシア、16歳未満のソーシャルメディア利用を厳格に禁止",
-          "location": "インドネシア",
-          "severity": 30,
-          "description": "インドネシア政府が16歳未満のソーシャルメディア利用に対する厳格な禁止措置を施行。「妥協なし」の警告が出されており、情報統制強化の動きが見られる。",
-          "source": "TRT World"
+          "title": "ネパール元首相逮捕と大規模抗議デモ、衝突",
+          "location": "ネパール",
+          "severity": 75,
+          "description": "ネパールで元首相が致死的な抗議デモ弾圧の容疑で逮捕され、これを受けて首都カトマンズでは支持者による大規模な抗議デモが発生し、警察との衝突に発展しています。政治的な緊張と社会秩序の不安定化が深刻な状況です。",
+          "source": "www.christiandaily.com, MSN, indiatoday.in"
         }
       ]
     },
     {
-      "region": "oceania",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "エネルギー不足の懸念",
-      "incidents": [
-        {
-          "title": "オーストラリア、遠隔地の鉱山でディーゼル不足の懸念が広がる",
-          "location": "オーストラリア",
-          "severity": 45,
-          "description": "オーストラリア国内の遠隔地にある鉱山で、ディーゼル燃料不足に対する懸念が広がっている。エネルギー供給への不安が経済活動に影響を与え始めている。",
-          "source": "AFR"
-        }
-      ]
+      "region": "east_asia",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "africa",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "south_america",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": []
     }
   ]
 }
