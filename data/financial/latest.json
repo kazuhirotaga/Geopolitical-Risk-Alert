@@ -1,38 +1,19 @@
 {
   "date": "2026-03-29",
-  "summary": "地政学的リスクの高まりとインフレ懸念から、金融市場は不安定な状況が続いている。特にイラン戦争による原油価格高騰とサプライチェーンの混乱が深刻化。暗号資産市場も調整局面に入り、リスクオフの動きが加速している。",
+  "summary": "イラン戦争激化による原油価格高騰と、それに伴うインフレ懸念、景気後退リスクが深刻化。暗号資産市場は規制強化と技術的課題に直面し、不確実性が高まっている。全体的に金融市場はリスクオフの様相を呈している。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "Analysis: A new oil shock is building. The next few weeks of war will be decisive for the economy.",
-      "region": "global",
-      "risk_level": "critical",
-      "summary": "エネルギー市場は、供給途絶のリスクを織り込み始めている。イラン戦争の今後の展開が経済を左右する可能性が高い。",
-      "analysis": "イラン戦争の激化により、ホルムズ海峡の封鎖リスクが高まり、原油価格が急騰する可能性が懸念される。原油価格の高騰は、インフレを加速させ、世界経済の成長を阻害する要因となる。特に、エネルギー輸入依存度の高い国や地域への影響が大きい。企業はコスト上昇に直面し、消費者も燃料費や輸送コストの上昇に苦しむことになる。代替エネルギーへの移行が加速する可能性もあるが、短期的には供給不足を解消することは難しい。地政学的リスクが金融市場に与える影響は大きく、投資家はリスク回避姿勢を強めるだろう。",
-      "key_entities": [
-        "OPEC",
-        "IEA",
-        "主要石油会社",
-        "各国中央銀行"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Fears of a prolonged oil shock grow as Iran war lurches into its second month",
+      "title": "Dow Jones Futures, Oil Prices Loom As U.S. Mulls Ground Troops In Iran",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "イラン戦争が2ヶ月目に突入し、原油ショックが長期化する懸念が高まっている。",
-      "analysis": "イラン戦争の長期化は、ホルムズ海峡の封鎖リスクを高め、原油供給の途絶につながる可能性が高まっている。原油価格の高騰は、世界経済に深刻な影響を与え、インフレを加速させる。特に、中東地域への依存度が高い国や地域への影響が大きい。また、戦争の長期化は、地政学的リスクを高め、金融市場の不安定化を招く。投資家はリスク回避姿勢を強め、安全資産への逃避が進むだろう。",
+      "summary": "アメリカがイランへの地上部隊派遣を検討する中、ダウ先物と原油価格が急騰。地政学的リスクが金融市場に大きな影響を与えている。",
+      "analysis": "アメリカのイランへの地上部隊派遣の可能性は、中東地域の不安定化を招き、原油供給の途絶リスクを高める。原油価格の高騰はインフレを加速させ、世界経済の成長を阻害する要因となる。株式市場はリスク回避の動きが強まり、大幅な下落も予想される。特にエネルギー関連企業以外の業種への影響は甚大であり、サプライチェーンの混乱も懸念される。地政学的リスクが金融市場全体に及ぼす影響を注視する必要がある。",
       "key_entities": [
-        "イラン",
-        "米国",
-        "サウジアラビア",
-        "OPEC"
+        "Dow Jones",
+        "Oil Prices",
+        "U.S. Government",
+        "Iran"
       ],
       "sources": [
         "Yahoo Finance"
@@ -42,18 +23,55 @@
       ]
     },
     {
-      "title": "Here are 3 themes that drove another super challenging week for stocks",
-      "region": "middle_east",
+      "title": "Analysis: A new oil shock is building. The next few weeks of war will be decisive for the economy.",
+      "region": "global",
       "risk_level": "high",
-      "summary": "イラン戦争がウォール街に与える影響が拡大している。株式市場は厳しい状況が続いている。",
-      "analysis": "イラン戦争の激化は、株式市場に大きな影響を与えている。特に、エネルギー関連株や防衛関連株は上昇しているが、それ以外の多くの銘柄は下落している。投資家はリスク回避姿勢を強め、株式市場から資金を引き上げている。また、原油価格の高騰は、企業の収益を圧迫し、株式市場の先行き不透明感を高めている。地政学的リスクの高まりは、金融市場全体に悪影響を及ぼし、景気後退のリスクを高める。",
+      "summary": "エネルギー市場は供給途絶のリスクを反映し始めており、新たなオイルショックが迫っている。今後の数週間が経済にとって決定的な期間となる。",
+      "analysis": "イラン戦争の激化により、ホルムズ海峡の封鎖など、物理的な原油供給の途絶リスクが高まっている。これは、過去のオイルショックと同様に、世界経済に深刻な影響を与える可能性がある。特に、エネルギー依存度の高い国や地域では、インフレの加速や景気後退のリスクが高まる。企業はコスト上昇に苦しみ、消費者の購買力は低下する。各国政府は、エネルギー供給の安定化に向けた対策を講じる必要があるが、短期的な解決策は限られている。",
       "key_entities": [
-        "主要株式市場",
-        "エネルギー関連企業",
-        "防衛関連企業"
+        "Oil Prices",
+        "Energy Markets",
+        "Iran",
+        "Hormuz Strait"
       ],
       "sources": [
         "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Will the U.S. Enter a Recession in 2026? Here's What the Data Suggests.",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "2026年にアメリカがリセッション入りする可能性について、データに基づいた分析が行われている。",
+      "analysis": "原油価格の高騰、金利上昇、地政学的リスクなど、複数の要因がアメリカ経済のリセッションリスクを高めている。消費者信頼感の低下、企業投資の抑制、雇用情勢の悪化などが懸念される。ただし、政府の財政政策や金融政策によっては、リセッションを回避できる可能性もある。今後の経済指標の動向を注視し、リスク管理を徹底する必要がある。",
+      "key_entities": [
+        "U.S. Economy",
+        "Recession",
+        "Federal Reserve"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Visa vs. Mastercard: One Is Built for a Recession. Here's Which One to Own.",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "リセッションに強いVisaとMastercardのどちらに投資すべきかという議論。経済状況に合わせた投資戦略が重要。",
+      "analysis": "リセッション時には、消費者の支出が抑制されるため、クレジットカード会社の収益も影響を受ける。しかし、VisaとMastercardは、強固なネットワークとブランド力を持っており、リセッション時でも安定した収益を確保できる可能性がある。どちらの企業がよりリセッションに強いかは、ビジネスモデルやリスク管理戦略によって異なる。投資家は、両社の財務状況や成長戦略を慎重に分析し、自身の投資目標に合った企業を選択する必要がある。",
+      "key_entities": [
+        "Visa",
+        "Mastercard",
+        "Recession"
+      ],
+      "sources": [
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
@@ -63,13 +81,12 @@
       "title": "Crypto needs a reset before the next bull run",
       "region": "global",
       "risk_level": "medium",
-      "summary": "暗号資産市場は、次の強気相場に入る前にリセットが必要である。",
-      "analysis": "暗号資産市場は、過去数年間で大幅に成長したが、規制の不確実性や価格変動の大きさから、依然としてリスクが高い。市場の成熟度を高めるためには、規制の整備や技術的な改善が必要である。また、一部の暗号資産は、投機的な取引が中心であり、実用性に欠ける。長期的な成長のためには、実用的なユースケースを開発し、より多くの人々に利用されるようにする必要がある。今回の調整局面は、市場の健全化につながる可能性がある。",
+      "summary": "暗号資産市場は、次の強気相場を迎える前に、リセットが必要であるという意見。",
+      "analysis": "暗号資産市場は、過去の強気相場を経て、多くの課題を抱えている。規制の不確実性、技術的な問題、市場操作のリスクなどが挙げられる。これらの課題を解決し、市場の健全性を高めるためには、規制当局、業界関係者、投資家が協力して、市場の透明性と信頼性を向上させる必要がある。また、技術的な革新を促進し、暗号資産の実用性を高めることも重要である。",
       "key_entities": [
+        "Cryptocurrency",
         "Bitcoin",
-        "Ethereum",
-        "主要暗号資産取引所",
-        "各国規制当局"
+        "Regulation"
       ],
       "sources": [
         "CoinDesk"
@@ -79,16 +96,34 @@
       ]
     },
     {
-      "title": "Retail investors drive widespread bitcoin selling as prices fall",
+      "title": "Canada moves to ban crypto donations for election campaigns following UK",
+      "region": "europe, north_america",
+      "risk_level": "medium",
+      "summary": "カナダがイギリスに続き、選挙キャンペーンへの暗号資産寄付を禁止する動きを見せている。",
+      "analysis": "選挙キャンペーンへの暗号資産寄付の禁止は、資金源の透明性を高め、不正な資金流入を防ぐことを目的としている。暗号資産は、匿名性が高く、追跡が困難なため、マネーロンダリングやテロ資金供与に利用されるリスクがある。各国政府は、暗号資産の規制を強化し、金融システムの安定性を維持する必要がある。",
+      "key_entities": [
+        "Cryptocurrency",
+        "Regulation",
+        "Canada",
+        "UK"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin miners are becoming AI companies and selling their BTC to fund the transition",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコイン価格の下落に伴い、個人投資家による売りが広がっている。",
-      "analysis": "ビットコイン価格の下落は、個人投資家の心理を悪化させ、売りを加速させている。特に、レバレッジをかけた取引を行っている投資家は、損失を回避するために売却を余儀なくされている。また、機関投資家もリスク回避姿勢を強め、ビットコインの保有量を減らしている。市場のセンチメントが悪化すると、価格の下落がさらに加速する可能性がある。しかし、長期的な視点で見ると、ビットコインの価値は依然として高いと考える投資家もいる。",
+      "summary": "ビットコインマイナーがAI企業に転換し、その資金を調達するためにBTCを売却している。",
+      "analysis": "ビットコインマイニングの収益性が低下する中、一部のマイナーは、AI分野への進出を模索している。AI分野は、高い成長性が期待される一方、競争も激しい。マイナーがAI企業として成功するためには、技術力、資金力、経営戦略などが重要となる。また、BTCの売却は、市場に供給が増加し、価格下落の要因となる可能性がある。",
       "key_entities": [
         "Bitcoin",
-        "主要暗号資産取引所",
-        "個人投資家",
-        "機関投資家"
+        "AI",
+        "Bitcoin Miners"
       ],
       "sources": [
         "CoinDesk"
@@ -98,53 +133,16 @@
       ]
     },
     {
-      "title": "Morgan Stanley enters bitcoin ETF race with market-leading low fee",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "モルガン・スタンレーが、低手数料でビットコインETF市場に参入。",
-      "analysis": "モルガン・スタンレーのビットコインETF市場への参入は、暗号資産市場の成熟度を高める上で重要な意味を持つ。低手数料は、投資家にとって魅力的な要素であり、より多くの資金が暗号資産市場に流入する可能性がある。また、大手金融機関の参入は、暗号資産に対する信頼性を高め、機関投資家の参入を促す効果も期待できる。しかし、規制の不確実性や価格変動の大きさから、依然としてリスクが高いことに注意する必要がある。",
-      "key_entities": [
-        "Bitcoin",
-        "モルガン・スタンレー",
-        "主要暗号資産取引所",
-        "SEC"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, March 29, 2026: 30-year rate increases 10 bps since Friday",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "住宅ローン金利が上昇。30年固定金利は金曜日から10bps上昇。",
-      "analysis": "住宅ローン金利の上昇は、住宅市場に悪影響を与える可能性がある。金利の上昇は、住宅購入者の負担を増やし、住宅需要を減少させる。また、住宅価格の下落を招き、既存の住宅所有者の資産価値を減少させる可能性もある。金利上昇の背景には、インフレ懸念の高まりや、中央銀行の金融引き締め政策がある。住宅市場の動向は、経済全体に大きな影響を与えるため、注意深く見守る必要がある。",
-      "key_entities": [
-        "各国中央銀行",
-        "主要住宅ローン会社",
-        "住宅市場"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Psychedelic therapies are becoming mainstream. Deutsche Bank thinks this drug developer could triple",
+      "title": "Eli Lilly reaches $2.75 billion deal with Insilico to bring AI-developed drugs to the global market",
       "region": "europe",
       "risk_level": "low",
-      "summary": "精神薬療法が主流になりつつある。ドイツ銀行は、ある製薬会社の株価が3倍になると予想。",
-      "analysis": "精神薬療法は、治療抵抗性うつ病などの精神疾患に対する新しい治療法として注目されている。ドイツ銀行のアナリストは、ある製薬会社が開発している精神薬が、市場で大きな成功を収めると予想している。しかし、精神薬療法は、まだ研究段階であり、安全性や有効性について十分なデータがない。投資にはリスクが伴うことを理解する必要がある。",
+      "summary": "イーライリリーがInsilicoとAI開発の医薬品をグローバル市場に投入する27.5億ドルの契約を締結。",
+      "analysis": "AIを活用した医薬品開発は、開発期間の短縮やコスト削減につながる可能性がある。イーライリリーとInsilicoの提携は、AI技術が医薬品業界に与える影響を示す事例となる。AI技術の進展により、医薬品開発の効率化が進み、新たな治療法の開発が加速することが期待される。",
       "key_entities": [
-        "ドイツ銀行",
-        "製薬会社",
-        "精神薬療法",
-        "規制当局"
+        "Eli Lilly",
+        "Insilico",
+        "AI",
+        "Pharmaceuticals"
       ],
       "sources": [
         "CNBC - Top News"
@@ -154,15 +152,15 @@
       ]
     },
     {
-      "title": "Accenture (ACN) Sees Record Bookings and AI Investment Momentum Despite Price Target Cuts",
+      "title": "Mortgage and refinance interest rates today, March 29, 2026: 30-year rate increases 10 bps since Friday",
       "region": "global",
-      "risk_level": "low",
-      "summary": "アクセンチュアは、目標株価が引き下げられたにもかかわらず、過去最高の受注とAI投資の勢いを見せている。",
-      "analysis": "アクセンチュアは、AI分野への投資を積極的に行っており、その成果が受注の増加につながっている。しかし、目標株価の引き下げは、市場の期待値が低下していることを示唆している。AI市場は競争が激しく、技術革新のスピードも速いため、アクセンチュアが競争優位性を維持できるかどうかは不透明である。",
+      "risk_level": "medium",
+      "summary": "住宅ローンおよび借り換え金利が上昇。30年固定金利は金曜日から10bps上昇。",
+      "analysis": "住宅ローン金利の上昇は、住宅購入意欲を減退させ、不動産市場の冷え込みにつながる可能性がある。金利上昇の背景には、インフレ懸念や金融引き締め政策がある。不動産市場の動向は、経済全体に影響を与えるため、今後の金利動向を注視する必要がある。",
       "key_entities": [
-        "アクセンチュア",
-        "AI関連企業",
-        "投資銀行"
+        "Mortgage Rates",
+        "Interest Rates",
+        "Real Estate Market"
       ],
       "sources": [
         "Yahoo Finance"
@@ -172,15 +170,16 @@
       ]
     },
     {
-      "title": "Best money market account rates today, March 29, 2026 (best account provides 4.01% APY)",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "MMFの金利は最高4.01% APY。",
-      "analysis": "MMFの金利上昇は、中央銀行の金融引き締め政策を反映している。金利上昇は、預金者にとって有利な条件となるが、企業にとっては資金調達コストの増加につながる。また、金利上昇は、債券価格の下落を招き、金融市場の不安定化を招く可能性もある。MMFの金利動向は、金融市場全体の動向を把握する上で重要な指標となる。",
+      "title": "Trump 'pays attention to the stock market': Wall Street eyes signs of TACO amid Iran war",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "トランプ前大統領が株式市場を注視している。ウォール街はイラン戦争の中でTACOの兆候に注目。",
+      "analysis": "トランプ前大統領の発言や政策は、株式市場に大きな影響を与える可能性がある。イラン戦争の状況下で、トランプ前大統領がどのような発言をするか、どのような政策を打ち出すかが、市場の変動要因となる。TACO（Trump Administration Comes Online）は、トランプ政権が再び発足した場合の市場への影響を指す。投資家は、トランプ前大統領の動向を注視し、リスク管理を徹底する必要がある。",
       "key_entities": [
-        "各国中央銀行",
-        "主要金融機関",
-        "MMF"
+        "Trump",
+        "Stock Market",
+        "Iran War",
+        "Wall Street"
       ],
       "sources": [
         "Yahoo Finance"
@@ -191,12 +190,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "critical",
+    "global": "high",
     "north_america": "medium",
-    "europe": "low",
+    "europe": "medium",
     "east_asia": "none"
   },
-  "generated_at": "2026-03-29T13:05:23.397561",
+  "generated_at": "2026-03-29T15:37:44.471006",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
