@@ -1,18 +1,18 @@
 {
   "date": "2026-03-29",
-  "summary": "中東情勢の緊迫化による原油価格高騰とインフレ懸念、及び暗号資産市場の規制強化と技術的課題が重なり、金融市場全体に大きなリスクをもたらしている。特に株式市場は大幅な下落に見舞われ、今後の動向が注視される。",
+  "summary": "中東情勢の緊迫化による原油価格高騰と、それに伴うインフレ懸念が株式市場を圧迫。暗号資産市場も下落傾向。AIモデルのリーク問題や規制強化の動きもリスク要因として浮上。",
   "overall_risk_level": "critical",
   "articles": [
     {
-      "title": "Here are 3 themes that drove another super challenging week for stocks",
+      "title": "How the big oil and gas CEOs think the Iran war supply disruption will play out",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "イラン戦争がウォール街に深刻な影響を与え、株式市場は厳しい状況に。原油価格の高騰がさらなる下落を招く懸念も。",
-      "analysis": "イラン戦争の激化は、サプライチェーンの混乱と原油価格の急騰を引き起こし、インフレ懸念を増大させている。これにより、株式市場は大幅な下落に見舞われ、特にエネルギー依存度の高いセクターや、地政学的リスクに敏感なテクノロジーセクターへの影響が大きい。今後の戦争の展開次第では、さらなる市場の混乱と景気後退のリスクが高まる。投資家はリスク回避姿勢を強め、安全資産への逃避が加速する可能性がある。",
+      "summary": "石油業界幹部は、イラン戦争による供給混乱が長期化すると見ており、トランプ政権の短期的な見通しとは対照的。",
+      "analysis": "ホルムズ海峡の封鎖リスクが高まり、原油供給の途絶が現実味を帯びている。石油業界幹部の悲観的な見通しは、市場の混乱を招き、インフレを加速させる可能性が高い。代替エネルギーへの移行を加速させる必要性が高まるが、短期的には経済への悪影響は避けられない。地政学的リスクがエネルギー市場に与える影響を改めて認識する必要がある。",
       "key_entities": [
-        "イラン",
-        "米国",
-        "ウォール街"
+        "石油メジャー各社",
+        "トランプ政権",
+        "ホルムズ海峡"
       ],
       "sources": [
         "CNBC - Top News"
@@ -25,8 +25,8 @@
       "title": "Yemen's Houthis launch Israel strike, the first time since the U.S.-Israel war began",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "イエメンのフーシ派がイスラエルを攻撃。紛争開始以来初の事態であり、事態の深刻化を示唆。",
-      "analysis": "フーシ派によるイスラエルへの攻撃は、中東地域における紛争の拡大を意味し、地政学的リスクを著しく高める。原油供給ルートの遮断や、さらなる地域紛争への拡大が懸念され、金融市場に大きな不安定要素となる。特に、ホルムズ海峡の封鎖などが現実となれば、世界経済に深刻な影響を与える可能性がある。投資家はリスクオフ姿勢を強め、安全資産への資金移動が加速すると予想される。",
+      "summary": "イエメンのフーシ派がイスラエルへの攻撃を開始。紛争が激化し、中東地域の不安定化が深刻化。",
+      "analysis": "フーシ派の参戦は、紛争の範囲を拡大させ、地域全体を巻き込むリスクを高める。原油価格への影響に加え、サプライチェーンの混乱、地政学的リスクの増大など、世界経済への影響は計り知れない。安全資産への逃避が進み、株式市場のさらなる下落を招く可能性がある。国際的な調停努力が急務となる。",
       "key_entities": [
         "フーシ派",
         "イスラエル",
@@ -40,15 +40,15 @@
       ]
     },
     {
-      "title": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
-      "region": "global",
+      "title": "Here are 3 themes that drove another super challenging week for stocks",
+      "region": "middle_east",
       "risk_level": "high",
-      "summary": "原油価格の高騰がガソリン価格だけでなく、航空運賃や宅配サービスなど、消費者の生活全般に影響を及ぼし始めている。",
-      "analysis": "原油価格の上昇は、企業の運営コストを増加させ、そのコストが消費者へと転嫁される形でインフレを加速させる。特に、運輸関連サービスの値上げは、消費者の購買力を低下させ、経済活動の停滞を招く可能性がある。企業はコスト削減のため、人員削減や投資抑制に動く可能性もあり、雇用情勢の悪化も懸念される。中央銀行はインフレ抑制のため、追加利上げを迫られる可能性が高まり、金融市場の不安定性が増す。",
+      "summary": "イラン戦争がウォール街を直撃。株式市場は厳しい1週間となり、下落トレンドが鮮明に。",
+      "analysis": "原油価格の高騰、インフレ懸念、地政学的リスクの増大が株式市場を圧迫。特にテクノロジー株への影響が大きく、Metaなどの大手企業も苦戦している。投資家のリスク回避姿勢が強まり、安全資産への資金移動が加速する可能性がある。FRBの利上げ観測も強まり、株式市場にとっては逆風となる。",
       "key_entities": [
-        "原油価格",
-        "航空会社",
-        "宅配サービス"
+        "FRB",
+        "Meta",
+        "テクノロジー企業"
       ],
       "sources": [
         "CNBC - Top News"
@@ -61,12 +61,11 @@
       "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
       "region": "global",
       "risk_level": "high",
-      "summary": "インフレ懸念の高まりから、市場はFRBの次の一手が利上げになる可能性を織り込み始めている。",
-      "analysis": "インフレ率の高止まりは、FRBによる金融引き締め政策の長期化を予想させ、市場金利の上昇を招いている。これにより、企業の借入コストが増加し、設備投資や新規事業への投資が抑制される可能性がある。また、住宅ローン金利の上昇は、不動産市場の冷え込みを招き、個人消費の低迷につながる恐れがある。FRBが利上げに踏み切れば、株式市場や債券市場はさらなる調整局面に入る可能性が高く、投資家は慎重な姿勢を維持する必要がある。",
+      "summary": "インフレ懸念の高まりを受け、市場はFRBの次の一手が利上げになる可能性を織り込み始めている。",
+      "analysis": "原油価格の高騰がインフレを加速させるとの懸念から、FRBが利上げに転じる可能性が高まっている。利上げは、企業の借入コストを増加させ、経済成長を鈍化させる可能性がある。株式市場にとってはマイナス要因であり、債券市場にも影響を与える可能性がある。今後のインフレ指標の動向が注目される。",
       "key_entities": [
         "FRB",
-        "インフレ率",
-        "市場金利"
+        "インフレ指標"
       ],
       "sources": [
         "CNBC - Top News"
@@ -79,11 +78,30 @@
       "title": "Crypto needs a reset before the next bull run",
       "region": "global",
       "risk_level": "medium",
-      "summary": "暗号資産市場は、次の強気相場に向けてリセットが必要であるとの見解が示されている。",
-      "analysis": "暗号資産市場は、過去の急騰と急落を経て、市場の成熟度が求められている。規制の不確実性、技術的な課題、そして市場操作のリスクなどが、市場の健全な発展を阻害している。規制当局による監視強化や、技術的な改善が進められることで、市場の信頼性が向上し、長期的な成長につながる可能性がある。しかし、現状では、市場のボラティリティが高く、投資リスクは依然として高い。",
+      "summary": "暗号資産市場は、次の強気相場を迎える前にリセットが必要との意見が出ている。",
+      "analysis": "過去の過熱感や規制の不確実性など、暗号資産市場には多くの課題が残されている。市場の健全な発展のためには、これらの課題を克服する必要がある。規制の明確化、技術的な進歩、機関投資家の参入などが、市場のリセットを促す要因となる可能性がある。",
       "key_entities": [
-        "暗号資産",
+        "暗号資産取引所",
         "規制当局"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Anthropic’s massive 'Claude Mythos' leak sends software names — and crypto — sharply lower",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "AnthropicのAIモデル「Claude Mythos」のリークが、ソフトウェア企業と暗号資産市場に大きな影響を与えている。",
+      "analysis": "AIモデルのリークは、セキュリティリスクの増大、競争環境の変化、規制強化の可能性など、様々なリスクをもたらす。特に、サイバーセキュリティ分野への影響は大きく、関連企業の株価下落を招いている。暗号資産市場も、AIモデルのリークによる影響を受け、下落傾向にある。",
+      "key_entities": [
+        "Anthropic",
+        "Claude Mythos",
+        "ソフトウェア企業",
+        "暗号資産"
       ],
       "sources": [
         "CoinDesk"
@@ -96,69 +114,15 @@
       "title": "Canada moves to ban crypto donations for election campaigns following UK",
       "region": "north_america",
       "risk_level": "medium",
-      "summary": "カナダが英国に続き、選挙キャンペーンへの暗号資産による寄付を禁止する動きを見せている。",
-      "analysis": "暗号資産の匿名性や資金追跡の困難さから、選挙資金の透明性確保の観点から規制強化が進んでいる。これは、暗号資産市場に対する規制の強化を示唆しており、市場の成長を抑制する要因となる可能性がある。他の国々も同様の規制を導入する可能性があり、暗号資産市場全体の規制環境が厳しくなることが予想される。",
+      "summary": "カナダが英国に続き、選挙キャンペーンへの暗号資産寄付を禁止する動きを見せている。",
+      "analysis": "暗号資産の匿名性や資金洗浄のリスクを考慮し、選挙の公正性を確保するための措置。暗号資産に対する規制強化の流れが加速しており、市場の成長を抑制する可能性がある。他の国々も同様の規制を導入する可能性があり、今後の動向が注目される。",
       "key_entities": [
-        "暗号資産",
-        "カナダ",
-        "英国"
+        "カナダ政府",
+        "英国政府",
+        "暗号資産"
       ],
       "sources": [
         "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Tech stocks suffer worst week in nearly a year, driven down by war worries, Meta legal woes",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "テクノロジー株が、戦争への懸念とMetaの法的問題により、約1年ぶりの大幅な下落を記録。",
-      "analysis": "テクノロジー株は、金利上昇や景気後退懸念に加えて、地政学的リスクや個別企業の法的問題など、複合的な要因により大きく下落している。Metaの法的問題は、プライバシー規制の強化や事業モデルの見直しを迫られる可能性を示唆しており、今後の業績に悪影響を与える可能性がある。また、戦争への懸念は、サプライチェーンの混乱や地政学的リスクの高まりを通じて、テクノロジー企業の成長を阻害する要因となる。投資家はリスク回避姿勢を強め、テクノロジー株への投資を控える傾向が強まる可能性がある。",
-      "key_entities": [
-        "テクノロジー株",
-        "Meta",
-        "イラン戦争"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Morgan Stanley enters bitcoin ETF race with market-leading low fee",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "モルガン・スタンレーが、業界最低水準の手数料でビットコインETF市場に参入。",
-      "analysis": "大手金融機関のビットコインETF市場への参入は、暗号資産市場の成熟度を高め、機関投資家の参入を促進する可能性がある。手数料の引き下げ競争は、投資家にとって有利な環境を作り出す一方で、ETF運用会社の収益性を圧迫する可能性もある。ビットコインETFの普及は、ビットコイン価格の安定化に寄与する可能性があるが、市場のボラティリティは依然として高く、投資リスクは十分に認識しておく必要がある。",
-      "key_entities": [
-        "モルガン・スタンレー",
-        "ビットコイン",
-        "ETF"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Analysis: A new oil shock is building. The next few weeks of war will be decisive for the economy.",
-      "region": "global",
-      "risk_level": "critical",
-      "summary": "新たなオイルショックが迫っており、今後の数週間の戦争の行方が経済を左右する。",
-      "analysis": "中東情勢の緊迫化は、原油供給の途絶リスクを高め、原油価格の急騰を招いている。これは、世界経済に深刻な影響を与える可能性があり、特にエネルギー輸入依存度の高い国々にとっては大きな打撃となる。インフレの加速、景気後退、そして金融市場の混乱などが懸念され、各国政府は緊急対策を講じる必要に迫られる。今後の戦争の展開次第では、世界経済は深刻な危機に陥る可能性もある。",
-      "key_entities": [
-        "原油価格",
-        "中東情勢",
-        "世界経済"
-      ],
-      "sources": [
-        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -168,15 +132,50 @@
       "title": "Bitcoin miners are becoming AI companies and selling their BTC to fund the transition",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインマイナーがAI企業への転換を進め、その資金調達のためにBTCを売却している。",
-      "analysis": "ビットコインマイニングの収益性低下とAI技術の発展が、マイナーの事業転換を促している。BTCの売却は、一時的に市場に売り圧力をかける可能性があるが、AI技術の発展は、長期的に暗号資産市場に新たな価値をもたらす可能性もある。マイナーの事業転換は、暗号資産市場の構造変化を示唆しており、今後の市場動向に注目する必要がある。",
+      "summary": "ビットコインマイナーがAI企業への転換を進め、資金調達のためにBTCを売却している。",
+      "analysis": "ビットコインマイニングの収益性が低下する中、AI分野への進出は新たな収益源を確保するための戦略。BTCの売却は、市場への供給量を増加させ、価格下落の要因となる可能性がある。AI分野への投資が成功するかどうかが、今後のマイニング企業の命運を左右する。",
       "key_entities": [
-        "ビットコイン",
-        "AI",
-        "マイナー"
+        "ビットコインマイナー",
+        "AI企業",
+        "ビットコイン"
       ],
       "sources": [
         "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Meta is among the most oversold stocks after another losing week on Wall Street",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Meta株は、ウォール街での下落が続き、売られすぎの状態になっている。",
+      "analysis": "Metaの株価下落は、テクノロジー株全体の低迷を象徴している。法的な問題や競争激化など、Metaを取り巻く環境は厳しい。しかし、長期的な視点で見れば、Metaの成長ポテンシャルは依然として高いとの見方もある。今後の事業戦略や市場動向が注目される。",
+      "key_entities": [
+        "Meta",
+        "テクノロジー企業"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Analysis: A new oil shock is building. The next few weeks of war will be decisive for the economy.",
+      "region": "global",
+      "risk_level": "critical",
+      "summary": "新たなオイルショックの兆候が見られる。今後の数週間の戦争の行方が経済を左右する。",
+      "analysis": "中東情勢の緊迫化により、原油価格が急騰し、世界経済に深刻な影響を与える可能性がある。特に、インフレの加速、景気後退のリスク、サプライチェーンの混乱などが懸念される。各国政府は、エネルギー政策の見直しや経済対策の実施を迫られるだろう。今後の地政学的リスクの動向が注目される。",
+      "key_entities": [
+        "OPEC",
+        "各国政府",
+        "エネルギー企業"
+      ],
+      "sources": [
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -187,9 +186,12 @@
     "global": "critical",
     "north_america": "medium",
     "europe": "medium",
-    "east_asia": "none"
+    "east_asia": "none",
+    "south_america": "none",
+    "africa": "none",
+    "middle_east": "critical"
   },
-  "generated_at": "2026-03-29T07:11:16.249882",
+  "generated_at": "2026-03-29T09:43:05.076124",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
