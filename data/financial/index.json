@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-03-29",
-    "summary": "イラン戦争激化による原油価格高騰と、それに伴うインフレ懸念、景気後退リスクが深刻化。暗号資産市場は規制強化と技術的課題に直面し、不確実性が高まっている。全体的に金融市場はリスクオフの様相を呈している。",
+    "summary": "イラン情勢緊迫化による原油価格高騰、インフレ懸念、金利上昇圧力など、地政学的リスクと金融引き締めが複合的に作用し、市場の不確実性が高まっています。暗号資産市場も規制動向や量子コンピュータの脅威など、リスク要因が顕在化しています。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "none"
+      "east_asia": "none",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-03-29T15:37:44.471006"
+    "generated_at": "2026-03-29T18:51:22.985545"
   },
   {
     "date": "2026-03-28",

@@ -1,64 +1,100 @@
 {
   "date": "2026-03-29",
-  "summary": "世界各地で多様な社会不安の兆候が見られます。北米では広範囲な抗議デモが継続し、欧州では都市部での衝突やテロ未遂、中東では政治的デモが確認されています。アジアの一部地域ではエネルギー不足や政治的混乱によるデモが発生しており、警戒レベルが引き上げられています。全体としては、広範な社会秩序の崩壊には至っていないものの、地域によっては緊張が高まっています。",
-  "global_panic_index": 58,
+  "summary": "世界各地で社会不安が高まっており、政治的な抗議デモが北米や欧州で広範囲にわたって発生しています。特に南アジア（便宜上、東南アジアに分類）では、致命的な抗議デモとその後の元首相逮捕、さらに深刻なエネルギー不足による人道危機が発生し、警戒状態にあります。中東やアフリカでも地域的な緊張と社会不安が継続しており、全体として不安定から警戒状態へと移行しつつある状況です。",
+  "global_panic_index": 55,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 55,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "大規模な抗議デモ",
+      "main_cause": "政治的抗議デモ、社会不安の広がり",
       "incidents": [
         {
-          "title": "米国各地で「No Kings」抗議デモが勃発",
-          "location": "米国全土（ポートランド、ルイビル、コロラド、レディング、ミネアポリス、フィラデルフィアなど）",
-          "severity": 60,
-          "description": "米国各地で「No Kings」を掲げる数千人規模の抗議デモが相次いで発生。一部では爆弾脅迫の可能性も報じられ、社会的な緊張が高まっています。",
-          "source": "OPB, WDRB, Record Searchlight, The Colorado Sun, Alton Telegraph, kitv.com, The Straits Times, nationaltoday.com, RBC-Ukraine, Australian Broadcasting Corporation, CBS News"
+          "title": "全国的な「No Kings」抗議デモ",
+          "location": "米国各地（ルイビル、ミネアポリス、レディングなど）",
+          "severity": 65,
+          "description": "トランプ大統領に対する大規模な「No Kings」抗議デモが米国内の複数都市で数千人規模に拡大し、社会的な不満と緊張の高まりを示しています。",
+          "source": "WDRB, National Today, abc.net.au"
         },
         {
-          "title": "ポートランドでICE庁舎前抗議デモ",
-          "location": "ポートランド、米国",
-          "severity": 55,
-          "description": "ポートランドのICE庁舎前で数百人が抗議デモを実施。移民政策に対する不満が示され、社会的な分断が浮き彫りになっています。",
-          "source": "Oregon Public Broadcasting - OPB"
+          "title": "「No Kings」抗議デモ中の爆破予告の可能性",
+          "location": "米国（ハワイ）",
+          "severity": 60,
+          "description": "「No Kings」抗議デモ中に爆破予告の可能性が報じられ、参加者や周辺住民の間で一時的な不安と緊張が高まりました。幸い大きな被害は報告されていません。",
+          "source": "KITV"
+        },
+        {
+          "title": "コミュニティフードバンクの拡張",
+          "location": "米国アラバマ州、ワシントン州",
+          "severity": 30,
+          "description": "食料不安に対応するため、複数の地域でコミュニティフードバンクの支援活動が拡大しています。これは一部地域での食料供給への懸念を示唆しています。",
+          "source": "WBRC, West Seattle Blog, fox10tv.com"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 50,
+      "panic_index": 40,
       "status": "unstable",
-      "main_cause": "市街での衝突、テロ未遂",
+      "main_cause": "政治的抗議デモ、エネルギー供給懸念、宗教的緊張",
       "incidents": [
         {
-          "title": "アテネで市街地衝突、114人拘束",
-          "location": "アテネ、ギリシャ",
-          "severity": 55,
-          "description": "アテネのエクサルヒア地区で早朝に騒乱が発生し、警察との衝突後、114人が拘束されました。都市部での暴力的な抗議活動は社会不安の拡大を示唆しています。",
+          "title": "ギリシャ・アテネでの衝突と多数の拘束",
+          "location": "ギリシャ（アテネ）",
+          "severity": 70,
+          "description": "アテネのエクサルヒア地区で早朝の騒動が発生し、114名が拘束されました。これは都市部での社会不安と警察との衝突の増加を示しています。",
           "source": "Greek City Times"
         },
         {
-          "title": "パリで銀行への攻撃計画を阻止",
-          "location": "パリ、フランス",
-          "severity": 65,
-          "description": "パリのバンク・オブ・アメリカの建物付近で、警察が爆弾とみられる攻撃計画を阻止しました。金融機関が標的となるテロ未遂は、社会に大きな警戒感を与えます。",
-          "source": "TRT World, WKMG"
+          "title": "イラン戦争に起因するジェット燃料不足の懸念",
+          "location": "英国",
+          "severity": 60,
+          "description": "イラン戦争の可能性を背景に、英国でジェット燃料不足への懸念が高まっています。これはエネルギー供給への不安が経済活動や生活に影響を及ぼす可能性を示しています。",
+          "source": "theaviationhub.co.uk"
+        },
+        {
+          "title": "エルサレムでの聖職者入場阻止に対するイタリアの抗議",
+          "location": "イタリア／イスラエル（エルサレム）",
+          "severity": 50,
+          "description": "イスラエル当局による聖職者の教会入場阻止に対し、イタリア政府が「宗教的自由への侵害」として抗議。地域的な宗教的緊張が外交問題に発展しています。",
+          "source": "TRT World"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 45,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "政治的イベントに起因する抗議デモ",
+      "main_cause": "宗教的緊張、地政学的紛争",
       "incidents": [
         {
-          "title": "バグダッドで抗議デモ、イラン最高指導者の死が混乱誘発",
-          "location": "バグダッド、イラク",
+          "title": "イスラエル警察による聖職者の教会入場阻止",
+          "location": "イスラエル（エルサレム）",
+          "severity": 65,
+          "description": "イスラエル警察がパームサンデーにエルサレムの聖墳墓教会へのラテン総大司教の入場を阻止。宗教的感情を刺激し、地域内の緊張を高めています。",
+          "source": "TRT World"
+        },
+        {
+          "title": "CNNクルーの拘束とジャーナリストへの暴行",
+          "location": "イスラエル",
           "severity": 60,
-          "description": "イランの最高指導者の死を受け、バグダッドのグリーンゾーン付近で抗議デモが発生しました。地域情勢の不安定化が懸念されます。",
-          "source": "Fathom Journal"
+          "description": "CNNの取材班がイスラエル国防軍（IDF）によって拘束され、ジャーナリストがチョークホールドを受ける事態が発生。紛争地域でのメディアへの圧力と緊張を示しています。",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "政治的抗議デモ、偽情報の拡散",
+      "incidents": [
+        {
+          "title": "アンゴラでの抗議デモのエスカレーションと偽情報",
+          "location": "アンゴラ",
+          "severity": 70,
+          "description": "アンゴラで偽情報が拡散され、抗議デモがエスカレートしていると報じられています。これは社会の混乱を助長し、さらなる社会不安を招く可能性があります。",
+          "source": "Modern Ghana"
         }
       ]
     },
@@ -66,21 +102,21 @@
       "region": "southeast_asia",
       "panic_index": 65,
       "status": "volatile",
-      "main_cause": "エネルギー不足、政治的混乱とデモ",
+      "main_cause": "政治的弾圧、エネルギー不足、人道危機",
       "incidents": [
         {
-          "title": "インドの一部地域でガス不足が深刻化",
-          "location": "アーンドラ・プラデーシュ州、インド",
-          "severity": 70,
-          "description": "インドのアーンドラ・プラデーシュ州でガス不足が発生し、孤児院や老人ホームが影響を受けています。生活に不可欠なエネルギーの不足は、住民に深刻な不安を与えています。",
-          "source": "Deccan Chronicle"
+          "title": "ネパール元首相の逮捕と致命的なデモ",
+          "location": "ネパール",
+          "severity": 80,
+          "description": "ネパールの元首相が致命的な抗議デモの調査後に逮捕されました。デモでの死者や政府の弾圧は、国民の間に深刻な社会不安と不信感を生み出しています。",
+          "source": "MSN, pragativadi.com"
         },
         {
-          "title": "ネパールで元首相が逮捕、抗議デモ後の弾圧に関連",
-          "location": "ネパール",
+          "title": "インドのガス不足が孤児院や高齢者施設を直撃",
+          "location": "インド（アンドラプラデーシュ州）",
           "severity": 75,
-          "description": "ネパールで、致命的な抗議デモ後の弾圧に関連して元首相が逮捕されました。政治的混乱が深まり、社会秩序への懸念が高まっています。",
-          "source": "MSN"
+          "description": "インドのアンドラプラデーシュ州でガス不足が深刻化し、特に孤児院や高齢者施設が影響を受けています。これはエネルギー不足が人々の生活を脅かす人道危機に発展しています。",
+          "source": "Deccan Chronicle"
         }
       ]
     }
