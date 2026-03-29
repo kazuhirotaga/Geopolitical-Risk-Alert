@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-03-29",
+    "summary": "イスラエル・ヒズボラの攻撃激化、米国はイランに対しTomahawkミサイルを多数使用。ウクライナはUAE、カタールと防衛協力合意。中国コルベット艦がフィリピン艦艇に武器照準。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-03-27",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエルとヒズボラの攻撃激化",
+        "content": "レバノンにおいて、イスラエル軍とヒズボラの戦闘が激化。ヒズボラは防御線を維持せず、攻撃後に地形を利用して離脱する戦術を展開。戦闘地域が拡大。",
+        "involved_parties": [
+          "イスラエル軍",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-03-27",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米国によるTomahawkミサイル大量使用",
+        "content": "米国がイランに対して数百発のTomahawkミサイルを使用。米軍関係者の中には、精密誘導兵器の消費ペースに懸念を示す者もいる。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/27/us-uses-hundreds-of-tomahawk-missiles-on-iran-alarming-some-at-pentagon/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-03-27",
+        "location": "バルト三国",
+        "region": "europe",
+        "title": "ウクライナのドローンがバルト三国に着弾",
+        "content": "ウクライナのドローンがバルト三国全てに着弾。ロシアがドローンを意図的に誘導したか、電子戦防御や飛行距離の結果かは不明。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍",
+          "バルト三国"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-03-26",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "米国が無人ドローン艇をイランとの紛争に投入",
+        "content": "米国がイランとの紛争において、無人ドローン艇を初めて投入。ロイター通信が報じた。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-03-24",
+        "location": "南シナ海",
+        "region": "east_asia",
+        "title": "中国コルベット艦がフィリピン艦艇に武器照準",
+        "content": "3月上旬、中国のコルベット艦がフィリピンのフリゲート艦に対して武器の照準を合わせた。フィリピン当局が発表。",
+        "involved_parties": [
+          "中国海軍",
+          "フィリピン海軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/24/chinese-corvette-recently-trained-its-weapons-on-philippine-frigate-officials-confirm/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-03-28",
+        "location": "キエフ、ドーハ",
+        "region": "europe",
+        "title": "ウクライナとUAE、カタールが防衛協力合意",
+        "content": "カタールは、ドーハとキエフが対ミサイルおよびUASの専門知識の共有を含む防衛協力協定を締結したと発表した。",
+        "involved_parties": [
+          "ウクライナ",
+          "UAE",
+          "カタール"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/28/ukraines-zelenskyy-agrees-to-defense-cooperation-with-uae-qatar/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-03-24",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "イランの学校への攻撃",
+        "content": "ウクライナのドローン開発者は、ミナブへの攻撃が半自律型戦争の危険性を明らかにしたと述べています。",
+        "involved_parties": [
+          "ウクライナ",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/24/deadly-iran-school-strike-casts-shadow-over-pentagons-ai-targeting-push/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-28",
     "summary": "イスラエル・ヒズボラの攻撃激化、レバノンでの戦闘地域拡大。米軍はイランに対しトマホークミサイルを大量使用。ウクライナはUAE、カタールと防衛協力合意。中国軍艦がフィリピン艦艇に武器を照準。",
     "events": [

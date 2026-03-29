@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-03-29",
+    "summary": "中東情勢の緊迫化により、原油価格が急騰し、株式市場は大幅下落。インフレ懸念が再燃し、金融市場全体にリスクオフの動きが広がっている。暗号資産市場も不安定な状況が続いている。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "critical",
+      "north_america": "medium",
+      "europe": "medium",
+      "east_asia": "none",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "critical"
+    },
+    "generated_at": "2026-03-29T02:49:03.954108"
+  },
+  {
     "date": "2026-03-28",
     "summary": "イラン戦争激化による原油価格高騰、インフレ懸念、金融市場の混乱が深刻化。特にテクノロジー株と暗号資産市場が大きく下落。地政学的リスクと金融引き締め観測が重なり、市場全体に強い警戒感が広がっている。",
     "overall_risk_level": "critical",
