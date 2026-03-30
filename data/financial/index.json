@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-03-30",
-    "summary": "中東情勢の緊迫化によるエネルギー価格高騰とインフレ懸念が市場を揺るがす。FRBの金融政策に対する市場の解釈のずれもリスク要因。暗号資産市場は規制の不確実性と長期保有者の売り圧力に直面。企業は需要低迷とコスト上昇に対応するためM&Aを模索。",
+    "summary": "中東情勢の緊迫化による原油価格高騰、インサイダー取引の増加、SpaceXのIPO計画など、複数のリスク要因が複合的に影響し、市場の不確実性が高まっています。特に中東地域のリスクが全体を押し上げています。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "medium",
       "north_america": "medium",
-      "europe": "low",
-      "east_asia": "medium"
+      "europe": "medium",
+      "east_asia": "high",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-03-30T16:09:18.300172"
+    "generated_at": "2026-03-30T19:06:02.467582"
   },
   {
     "date": "2026-03-29",
