@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-03-30",
-    "summary": "中東情勢が極めて不安定化。アメリカとイランの軍事的緊張が高まり、イスラエルとヒズボラの衝突も激化。原油価格高騰など世界経済への影響も深刻化しており、地政学リスクは極めて高い。",
+    "summary": "中東情勢が極めて不安定化。アメリカ・イスラエルによるイランへの軍事作戦が1ヶ月経過し、周辺国への波及、原油価格高騰、サイバー攻撃など、グローバルな影響が拡大。東アジアでは中国による台湾関連制裁も発生。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
       "southeast_asia": "medium",
-      "south_asia": "medium",
+      "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "medium",
-      "africa": "none",
+      "africa": "low",
       "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-03-30T05:29:38.009354"
+    "generated_at": "2026-03-30T07:49:14.448077"
   },
   {
     "date": "2026-03-29",
