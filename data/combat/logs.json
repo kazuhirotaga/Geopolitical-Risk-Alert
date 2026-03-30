@@ -1,5 +1,170 @@
 [
   {
+    "date": "2026-03-30",
+    "summary": "中東地域で緊張が高まり、イスラエルとヒズボラの攻撃が激化。ウクライナではドローン攻撃が周辺国に拡大。米軍はイランへの攻撃を継続し、精密誘導兵器の消費が懸念されている。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-03-29",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米軍がイランでの地上作戦に備えか",
+        "content": "米国防総省が、数週間にわたるイランでの地上作戦の準備を進めていると報道。米軍の資産が中東地域に集結している。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/29/pentagon-reportedly-preparing-for-weeks-of-ground-operations-in-iran/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-03-28",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "USSトリポリと第31海兵遠征隊が中東に到着",
+        "content": "強襲揚陸艦USSトリポリと第31海兵遠征隊がCENTCOM管轄海域に進入。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/28/uss-tripoli-embarked-31st-marine-expeditionary-unit-arrive-in-middle-east/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-03-28",
+        "location": "クロアチア",
+        "region": "europe",
+        "title": "空母USSジェラルド・R・フォードが修理のためクロアチアに到着",
+        "content": "空母USSジェラルド・R・フォードが9ヶ月の配備を終え、修理のためクロアチアに到着。中東到着前にはカリブ海でベネズエラに対する作戦に参加。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/28/aircraft-carrier-uss-gerald-r-ford-arrives-in-croatia-for-repairs/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-03-28",
+        "location": "カタール、UAE",
+        "region": "middle_east",
+        "title": "ウクライナがUAE、カタールと防衛協力で合意",
+        "content": "ウクライナのゼレンスキー大統領がUAE、カタールと防衛協力で合意。カタールとは対ミサイル及びUASの専門知識の共有を含む。",
+        "involved_parties": [
+          "ウクライナ",
+          "カタール",
+          "UAE"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/28/ukraines-zelenskyy-agrees-to-defense-cooperation-with-uae-qatar/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-03-27",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "レバノンで戦闘地域が拡大、イスラエルとヒズボラの攻撃が激化",
+        "content": "イスラエルとヒズボラの攻撃が激化し、レバノンで戦闘地域が拡大。ヒズボラは攻撃後、地形を利用して退避。",
+        "involved_parties": [
+          "イスラエル",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-03-27",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカがイランに数百発のトマホークミサイルを使用",
+        "content": "アメリカ軍がイランに対し、数百発のトマホークミサイルを使用。兵器の消費速度を国防総省関係者が懸念。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/27/us-uses-hundreds-of-tomahawk-missiles-on-iran-alarming-some-at-pentagon/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-03-27",
+        "location": "バルト三国",
+        "region": "europe",
+        "title": "ウクライナのドローンがバルト三国すべてに到達",
+        "content": "ウクライナのドローンがバルト三国全てに到達。ロシアが積極的にドローンを誘導しているのか、電子戦防衛や飛行距離の副産物なのかは不明。",
+        "involved_parties": [
+          "ウクライナ",
+          "ロシア",
+          "バルト三国"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/"
+      },
+      {
+        "id": "event-8",
+        "timestamp": "2026-03-26",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカが無人ドローン艇をイランとの紛争に投入",
+        "content": "アメリカが、イランとの紛争で無人ドローン艇を投入。ワシントンがこのような艇を現役の紛争で使用したことを確認したのは初めて。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
+      },
+      {
+        "id": "event-9",
+        "timestamp": "2026-03-24",
+        "location": "南シナ海",
+        "region": "east_asia",
+        "title": "中国のコルベット艦がフィリピンのフリゲート艦に武器を照準",
+        "content": "3月初旬に発生した海上での事件で、中国のコルベット艦がフィリピンのフリゲート艦に武器を照準。フィリピン当局者が明らかにした。",
+        "involved_parties": [
+          "中国",
+          "フィリピン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/24/chinese-corvette-recently-trained-its-weapons-on-philippine-frigate-officials-confirm/"
+      },
+      {
+        "id": "event-10",
+        "timestamp": "2026-03-24",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "イランの学校への攻撃",
+        "content": "ウクライナのドローン開発者は、イランの学校への攻撃は半自律的な戦争の危険性を露呈したと述べています。",
+        "involved_parties": [
+          "ウクライナ"
+        ],
+        "event_type": "bombing",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/24/deadly-iran-school-strike-casts-shadow-over-pentagons-ai-targeting-push/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-29",
     "summary": "中東におけるイランとアメリカ間の緊張激化、レバノンにおけるイスラエルとヒズボラの戦闘激化、ウクライナでのドローン攻撃、中国とフィリピン間の緊張などが確認された。",
     "events": [

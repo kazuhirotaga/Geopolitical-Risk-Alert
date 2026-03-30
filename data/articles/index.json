@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-30",
+    "summary": "アメリカとイランの軍事衝突が激化し、中東地域全体が不安定化。原油価格が高騰し、世界経済への影響が深刻化している。ウクライナ情勢も依然として不安定であり、国際的な緊張が高まっている。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "high",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "medium",
+      "africa": "none",
+      "north_america": "high",
+      "south_america": "none"
+    },
+    "generated_at": "2026-03-30T02:51:19.036710"
+  },
+  {
     "date": "2026-03-29",
     "summary": "米イスラエルによるイランへの軍事作戦が1ヶ月経過し、中東情勢が極めて不安定化。フーシ派がイスラエルへ攻撃を開始し、紅海航路の安全が脅かされる。パキスタンが仲介を試みるも、米イラン間の緊張は高まる一方。ウクライナ情勢も依然として流動的。",
     "overall_risk_level": "critical",
