@@ -1,152 +1,129 @@
 {
   "date": "2026-03-30",
-  "summary": "世界各地では、エネルギー不足に端を発する抗議デモや社会不安が顕著です。特に、インドでは燃料不足が深刻化し、ネパールでは政情不安が暴力的な衝突を伴うデモに発展しています。ヨーロッパでは、燃料不足による買いだめ行動や、ウクライナ紛争地域での軍事的なパニックが報告されています。北米では政治的抗議活動が激化し、死者も発生。全体的に見て、経済的な緊張と地政学的な対立が人々の不安を増幅させている状況です。",
-  "global_panic_index": 61,
+  "summary": "世界各地で深刻な社会不安とパニックの兆候が見られます。中東では軍事衝突による住民の避難とパニックが報告され、インドではエネルギー不足が過激な抗議デモと生活困窮を引き起こしています。ヨーロッパでは燃料不足による買いだめ懸念が現実のものとなり、北米やアフリカ、ネパールでは政治・社会問題に端を発する大規模な抗議活動が社会秩序を脅かしています。複数の地域で住民の生活基盤や安全が直接的に脅かされており、警戒が必要な状況です。",
+  "global_panic_index": 78,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 75,
+      "region": "middle_east",
+      "panic_index": 95,
       "status": "critical",
-      "main_cause": "燃料不足、社会秩序の混乱、戦争によるパニック",
+      "main_cause": "軍事衝突、生命の脅威",
       "incidents": [
         {
-          "title": "ディーゼル枯渇とパニック買いへの警告",
-          "location": "Isle of Man",
-          "severity": 75,
-          "description": "ディーゼル燃料のポンプが枯渇し、20ポンドの購入制限が課されました。当局は「パニック買い」をしないようドライバーに呼びかけています。供給の不安定さが住民の行動に影響を与えています。",
-          "source": "Isle of Man Today"
-        },
-        {
-          "title": "アテネで早朝の騒乱と衝突、114名拘束",
-          "location": "Athens, Greece",
-          "severity": 70,
-          "description": "アテネのエクサルヒア地区で早朝に発生した騒乱で、警察とデモ隊が激しく衝突し、114名が拘束されました。社会の緊張と抗議活動の激化を示唆しています。",
-          "source": "Greek City Times"
-        },
-        {
-          "title": "ウクライナでの大規模攻撃でロシア軍がパニック逃走",
-          "location": "Ukraine / Russia",
-          "severity": 80,
-          "description": "ウクライナ軍による今年最大規模の攻撃を受け、ロシア軍が戦場でパニック状態に陥り逃走したと報じられています。戦闘による心理的影響が顕著です。",
-          "source": "Fathom Journal"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 53,
-      "status": "unstable",
-      "main_cause": "政治的抗議の激化、食料供給への懸念",
-      "incidents": [
-        {
-          "title": "ICE抗議デモで死者、全国的な怒り",
-          "location": "USA",
-          "severity": 75,
-          "description": "ICE（移民関税執行局）に対する抗議デモ中に死者が発生し、全国的な強い怒りが広がっています。デモが激化し、暴力的な衝突の報告もあります。",
-          "source": "MSN"
-        },
-        {
-          "title": "市営食料品店計画に専門家が懸念表明",
-          "location": "Toronto, Canada",
-          "severity": 35,
-          "description": "トロント市が推進する市営食料品店計画に対し、専門家から実現可能性や低マージン・供給主導型市場での安定性への疑問が呈されています。食料供給の安定性に対する潜在的な不安を示唆しています。",
-          "source": "BNN Bloomberg"
-        },
-        {
-          "title": "フードバンクが移動式食料配布イベント開催",
-          "location": "Corpus Christi, USA",
-          "severity": 30,
-          "description": "沿岸部フードバンクが移動式生鮮食品配布イベントを定期的に開催しています。これは、地域における食料不安の存在と、それに対応する取り組みを示しています。",
-          "source": "KRIS 6 News Corpus Christi"
+          "title": "イランのミサイル・ドローン攻撃により北イスラエルでパニック発生",
+          "location": "北イスラエル",
+          "severity": 95,
+          "description": "イランからのミサイル攻撃とヒズボラによるドローン攻撃が北イスラエルに集中し、「逃げろ、逃げろ」との叫び声と共に住民の間に深刻なパニックが広がり、命の危険を感じる状況に陥った。",
+          "source": "The Times of India"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 40,
-      "status": "stable",
-      "main_cause": "中東情勢による経済的影響への懸念",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "エネルギー不足、政治的騒乱",
       "incidents": [
         {
-          "title": "中東情勢緊張下での金融政策レビュー",
-          "location": "Korea",
-          "severity": 40,
-          "description": "中東情勢の緊張を受け、韓国財務省と輸出入銀行が66億ドルの政策金融実行状況をレビューしました。地政学的リスクが国内経済に与える影響を警戒しています。",
-          "source": "The Korea Times"
+          "title": "インド・ハイデラバードでCNG/LPG不足に対する過激な抗議デモ",
+          "location": "インド、ハイデラバード",
+          "severity": 80,
+          "description": "ハイデラバード市内でCNG/LPG燃料不足が深刻化し、オートリクシャードライバーらが生活の危機を訴え、携帯タワーに登るなどの過激な抗議行動を展開。地域住民の間にも緊張が走っている。",
+          "source": "MSN, The Hindu"
+        },
+        {
+          "title": "インドのAP州でガス不足が孤児院・老人ホームを直撃",
+          "location": "インド、AP州",
+          "severity": 75,
+          "description": "インドのAP州においてガス不足が深刻化し、孤児院や老人ホームが直撃を受けている。政府に対し、緊急介入を求める声が高まっており、人道的懸念が増大している。",
+          "source": "Deccan Chronicle"
+        },
+        {
+          "title": "インド国内のLPG供給危機、政府が対策検討",
+          "location": "インド",
+          "severity": 70,
+          "description": "インド国内でLPG供給危機が深刻化しており、国営石油会社が10kgシリンダー導入などの大規模な対策を検討している。これは国民生活への広範な影響を示唆する。",
+          "source": "MSN"
+        },
+        {
+          "title": "ネパールでの政治的騒乱と元首相勾留を巡る抗議デモ",
+          "location": "ネパール（特にカトマンズ）",
+          "severity": 65,
+          "description": "ネパールでは元首相の勾留延長を巡り、政治的な不安定さと広範な抗議デモが継続。一部では暴力的な騒乱に発展しており、社会秩序が乱れる状況が続いている。",
+          "source": "MSN, Tribune India, Ratopati"
+        },
+        {
+          "title": "インド・ファリドコットで農民の自殺に端を発する抗議デモ",
+          "location": "インド、ファリドコット",
+          "severity": 50,
+          "description": "インドのファリドコットで兄弟の自殺をきっかけに、農民らが土地抵当銀行前で抗議デモを実施。農民の苦境と社会的不満が表面化しており、地域社会に不安が広がっている。",
+          "source": "Tribune India"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 65,
-      "status": "unstable",
-      "main_cause": "民族間の暴力、社会分断",
+      "region": "europe",
+      "panic_index": 78,
+      "status": "volatile",
+      "main_cause": "燃料不足、買いだめ",
       "incidents": [
         {
-          "title": "入植者による暴力への懸念表明",
-          "location": "Middle East",
-          "severity": 65,
-          "description": "入植者による暴力行為が報告されており、これに対し宗教的観点からの恥の表明がなされています。民族間の対立と社会の分断が深刻化しています。",
-          "source": "Haaretz"
+          "title": "UK/マン島でディーゼルポンプ枯渇と「パニック買い」懸念",
+          "location": "マン島（UK）",
+          "severity": 78,
+          "description": "マン島ではディーゼル燃料ポンプが枯渇し、給油に20ポンドの上限が課された。当局は住民に対し「パニック買い」を控えるよう呼びかけており、燃料不足による社会不安が顕著に高まっている。",
+          "source": "Isle of Man Today"
+        },
+        {
+          "title": "UKで燃料不足の懸念が高まり、政治レベルで緊急会談",
+          "location": "UK",
+          "severity": 60,
+          "description": "UKでは燃料不足の懸念が深刻化し、労働党のキア・スターマー党首がエネルギー企業の責任者と会談。潜在的な供給問題が国民の不安を煽っており、パニック買いに繋がる可能性が指摘されている。",
+          "source": "thenationalnews.com"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "政治・社会問題、抗議デモの暴徒化",
+      "incidents": [
+        {
+          "title": "米国でICE抗議デモが激化し、死者や負傷者が発生",
+          "location": "米国",
+          "severity": 70,
+          "description": "米国各地でICE（移民・関税執行局）関連の抗議デモが激化し、死者や警官の負傷者が発生。この事態は全国的な怒りを呼び、社会秩序への懸念が高まっている。",
+          "source": "MSN"
+        },
+        {
+          "title": "米国の「No Dictators」抗議デモに爆弾予告",
+          "location": "米国（ハワイ）",
+          "severity": 45,
+          "description": "「No Dictators」抗議デモ中に爆弾予告があったものの、デモ参加者は動揺せず活動を続行。潜在的なテロの脅威が存在し、集会における警戒感が高まっている。",
+          "source": "KITV"
+        },
+        {
+          "title": "米国テキサス州でフードバンクがモバイル食料配布",
+          "location": "米国、コーパスクリスティ",
+          "severity": 35,
+          "description": "テキサス州コーパスクリスティで、コスタルベンド・フードバンクが移動式農産物配布イベントを開催。地域での食料アクセスに関する潜在的な懸念があるものの、秩序立った支援活動が実施されている。",
+          "source": "KRIS 6 News Corpus Christi"
         }
       ]
     },
     {
       "region": "africa",
       "panic_index": 65,
-      "status": "unstable",
-      "main_cause": "抗議デモの激化、情報操作",
-      "incidents": [
-        {
-          "title": "アンゴラで偽情報が抗議デモを激化",
-          "location": "Angola",
-          "severity": 65,
-          "description": "アンゴラでは、偽情報が抗議デモの激化を引き起こしていると報じられています。情報操作が社会不安を増幅させ、秩序の不安定化に繋がる可能性を示唆しています。",
-          "source": "Modern Ghana"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 67,
       "status": "volatile",
-      "main_cause": "エネルギー不足、政情不安、金融市場の混乱",
+      "main_cause": "誤情報による抗議デモのエスカレート",
       "incidents": [
         {
-          "title": "インドで深刻な燃料・ガス不足と抗議活動",
-          "location": "Hyderabad/Ap, India",
-          "severity": 72,
-          "description": "インド各地で燃料（CNG/LPG）不足が深刻化し、オートドライバーが携帯電話基地局に登って抗議する事態が発生。孤児院や老人ホームにもガス不足の影響が出ています。",
-          "source": "The Hindu / The Siasat Daily / Deccan Chronicle"
-        },
-        {
-          "title": "ネパールで元首相拘束を巡る暴力的抗議デモ",
-          "location": "Nepal",
-          "severity": 70,
-          "description": "ネパールで元首相の拘束を巡る政情不安が激化し、各地で暴力的抗議デモが発生しています。政府に対する不満が社会の不安定化を引き起こしています。",
-          "source": "MSN"
-        },
-        {
-          "title": "インドの金融市場でBank Niftyが急落",
-          "location": "India",
-          "severity": 60,
-          "description": "インド準備銀行（RBI）が外国為替投機を抑制する動きを見せた結果、Bank Niftyが3%急落しました。金融政策の変化が市場に混乱を引き起こしています。",
-          "source": "TradingView"
-        }
-      ]
-    },
-    {
-      "region": "australia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "燃料不足",
-      "incidents": [
-        {
-          "title": "燃料不足が深刻化、他国からの揶揄も",
-          "location": "Australia",
-          "severity": 60,
-          "description": "オーストラリアで燃料不足が報じられ、イランのメディアが状況を「マッドマックス」と揶揄する事態に。国際的な注目を集めるほどの不足状況が、国内の不安を高めています。",
-          "source": "The Nightly"
+          "title": "アンゴラで誤情報により抗議デモがエスカレート",
+          "location": "アンゴラ",
+          "severity": 65,
+          "description": "アンゴラでは、誤情報が拡散することで抗議デモがエスカレートしており、社会の分断と混乱を深めている。これは社会の安定性を著しく損なう危険性がある。",
+          "source": "Modern Ghana"
         }
       ]
     }
