@@ -1,8 +1,100 @@
 [
   {
     "date": "2026-03-31",
-    "summary": "中東におけるイスラエル・ヒズボラ間の戦闘激化、イランを巡る米国の軍事作戦準備、ウクライナでのドローン攻撃と防衛に関する動きが確認された。欧州では防衛力強化の議論が活発化。",
+    "summary": "中東地域における緊張が継続。特にイランを巡る動きが活発化しており、アメリカ軍による無人艇の展開、イスラエルとヒズボラの戦闘激化、ウクライナのドローン技術輸出などが確認された。",
     "events": [
+      {
+        "id": "event-5",
+        "timestamp": "2026-03-30",
+        "location": "ヨーロッパ",
+        "region": "europe",
+        "title": "ミサイル搭載のエアバス迎撃機がテストで一方通行攻撃ドローンと交戦",
+        "content": "ドローンとミサイルの組み合わせにより、大規模な迎撃が経済的に実行可能になるとメーカーは主張。",
+        "involved_parties": [
+          "エアバス"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/30/missile-wielding-airbus-interceptor-engages-one-way-attack-drone-in-test/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-03-30",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米国がイランでの数週間にわたる地上作戦を準備",
+        "content": "最近ではトリポリ揚陸即応グループと第31海兵遠征部隊が地域に続々と集結。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/29/pentagon-reportedly-preparing-for-weeks-of-ground-operations-in-iran/"
+      },
+      {
+        "id": "event_1",
+        "timestamp": "2026-03-30",
+        "location": "不明",
+        "region": "middle_east",
+        "title": "アメリカ軍、イランとの紛争で無人艇を展開",
+        "content": "アメリカ軍がイランとの紛争において、無人艇を初めて展開した。具体的な場所や作戦内容の詳細は不明。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
+      },
+      {
+        "id": "event_5",
+        "timestamp": "2026-03-30",
+        "location": "不明",
+        "region": "europe",
+        "title": "エアバス社、ミサイル搭載型迎撃機による攻撃ドローン迎撃テスト",
+        "content": "エアバス社が開発したミサイル搭載型迎撃機が、攻撃ドローンを迎撃するテストを実施。メーカー側は、この組み合わせが大規模な迎撃を経済的に実行可能にすると主張。",
+        "involved_parties": [
+          "エアバス"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/30/missile-wielding-airbus-interceptor-engages-one-way-attack-drone-in-test/"
+      },
+      {
+        "id": "event_6",
+        "timestamp": "2026-03-30",
+        "location": "中東地域",
+        "region": "middle_east",
+        "title": "アメリカ軍の兵力展開",
+        "content": "アメリカ軍のトリポリ揚陸即応群と第31海兵遠征隊が中東地域に展開を継続している。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/29/pentagon-reportedly-preparing-for-weeks-of-ground-operations-in-iran/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-03-28",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "USSトリポリ、第31海兵遠征部隊が中東に到着",
+        "content": "トリポリ強襲準備グループと第31海兵遠征部隊が金曜日にCENTCOM水域に進入。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/28/uss-tripoli-embarked-31st-marine-expeditionary-unit-arrive-in-middle-east/"
+      },
       {
         "id": "event-1",
         "timestamp": "2026-03-27",
@@ -36,22 +128,6 @@
         "source_url": "https://www.defensenews.com/news/your-military/2026/03/27/us-uses-hundreds-of-tomahawk-missiles-on-iran-alarming-some-at-pentagon/"
       },
       {
-        "id": "event-3",
-        "timestamp": "2026-03-26",
-        "location": "中東",
-        "region": "middle_east",
-        "title": "アメリカ軍、無人ドローンボートをイランとの紛争に投入",
-        "content": "アメリカ軍は、イランとの紛争において無人ドローンボートを初めて使用。これはロイターが報じた。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
-      },
-      {
         "id": "event-4",
         "timestamp": "2026-03-27",
         "location": "バルト三国",
@@ -69,42 +145,61 @@
         "source_url": "https://www.defensenews.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/"
       },
       {
-        "id": "event-5",
-        "timestamp": "2026-03-30",
-        "location": "ヨーロッパ",
-        "region": "europe",
-        "title": "ミサイル搭載のエアバス迎撃機がテストで一方通行攻撃ドローンと交戦",
-        "content": "ドローンとミサイルの組み合わせにより、大規模な迎撃が経済的に実行可能になるとメーカーは主張。",
+        "id": "event_2",
+        "timestamp": "2026-03-27",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエルとヒズボラの戦闘が激化",
+        "content": "レバノンにおいて、イスラエルとヒズボラの戦闘が激化。ヒズボラは防御線を維持するのではなく、攻撃後に地形を利用して撤退する戦術を用いている。",
         "involved_parties": [
-          "エアバス"
+          "イスラエル",
+          "ヒズボラ"
         ],
-        "event_type": "other",
-        "urgency": "low",
+        "event_type": "clash",
+        "urgency": "high",
         "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/30/missile-wielding-airbus-interceptor-engages-one-way-attack-drone-in-test/"
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
       },
       {
-        "id": "event-6",
-        "timestamp": "2026-03-28",
-        "location": "中東",
+        "id": "event_3",
+        "timestamp": "2026-03-27",
+        "location": "イラン",
         "region": "middle_east",
-        "title": "USSトリポリ、第31海兵遠征部隊が中東に到着",
-        "content": "トリポリ強襲準備グループと第31海兵遠征部隊が金曜日にCENTCOM水域に進入。",
+        "title": "アメリカ軍、イランへのトマホークミサイル使用",
+        "content": "アメリカ軍がイランに対して多数のトマホークミサイルを使用している。その使用頻度の高さから、一部の国防総省関係者が懸念を表明している。",
         "involved_parties": [
-          "アメリカ軍"
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/27/us-uses-hundreds-of-tomahawk-missiles-on-iran-alarming-some-at-pentagon/"
+      },
+      {
+        "id": "event_4",
+        "timestamp": "2026-03-27",
+        "location": "バルト三国",
+        "region": "europe",
+        "title": "ウクライナのドローンがバルト三国に侵入",
+        "content": "ウクライナのドローンがバルト三国全てに侵入。ロシアがドローンの経路を意図的に変更した可能性も指摘されている。",
+        "involved_parties": [
+          "ウクライナ",
+          "ロシア",
+          "バルト三国"
         ],
         "event_type": "other",
         "urgency": "medium",
         "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/28/uss-tripoli-embarked-31st-marine-expeditionary-unit-arrive-in-middle-east/"
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/"
       },
       {
-        "id": "event-7",
-        "timestamp": "2026-03-30",
-        "location": "イラン",
+        "id": "event-3",
+        "timestamp": "2026-03-26",
+        "location": "中東",
         "region": "middle_east",
-        "title": "米国がイランでの数週間にわたる地上作戦を準備",
-        "content": "最近ではトリポリ揚陸即応グループと第31海兵遠征部隊が地域に続々と集結。",
+        "title": "アメリカ軍、無人ドローンボートをイランとの紛争に投入",
+        "content": "アメリカ軍は、イランとの紛争において無人ドローンボートを初めて使用。これはロイターが報じた。",
         "involved_parties": [
           "アメリカ軍",
           "イラン"
@@ -112,7 +207,7 @@
         "event_type": "other",
         "urgency": "medium",
         "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/29/pentagon-reportedly-preparing-for-weeks-of-ground-operations-in-iran/"
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
       }
     ]
   },
