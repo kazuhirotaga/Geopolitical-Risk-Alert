@@ -1,19 +1,18 @@
 {
   "date": "2026-03-31",
-  "summary": "米国-イラン戦争の影響で原油価格が上昇し、インフレ懸念が高まる中、金融市場は不安定な状況。特に暗号資産市場は量子コンピュータのリスクや規制の不確実性により、下落傾向が強まっている。地政学的リスクと技術的リスクが複合的に作用し、市場全体のリスクレベルは高い。",
+  "summary": "米国とイランの戦争が金融市場に大きな影響を与え、原油価格の高騰とインフレ懸念を引き起こしています。暗号資産市場はボラティリティが高く、量子コンピュータのリスクも浮上しています。全体的にリスクレベルは高い状況です。",
   "overall_risk_level": "high",
   "articles": [
     {
       "title": "U.S. gasoline hits $4 per gallon, highest since 2022, as Iran war drives up fuel prices",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "米国とイランの戦争によりガソリン価格が1ガロンあたり4ドルに達し、2022年以来の高水準。家計への経済的影響が深刻化している。",
-      "analysis": "イラン戦争による原油供給の混乱がガソリン価格の高騰を招き、インフレ圧力を強めている。消費者支出の減少や、関連産業への悪影響が懸念される。米国経済全体への影響を注視する必要がある。原油価格の変動は、金融政策にも影響を与え、金利引き上げの可能性を高める。",
+      "summary": "米国とイランの戦争によりガソリン価格が急騰し、1ガロンあたり4ドルに達し、家計に経済的な影響を与えています。",
+      "analysis": "米国とイランの戦争は、原油価格の高騰を通じてインフレ圧力を高め、消費者の購買力を低下させる可能性があります。エネルギー価格の上昇は、他の商品やサービスの価格にも波及し、経済全体の成長を抑制する可能性があります。今後の戦争の行方と、それに対するOPECの対応が重要になります。",
       "key_entities": [
-        "米国政府",
-        "イラン政府",
         "OPEC",
-        "米国の石油会社"
+        "米国政府",
+        "イラン政府"
       ],
       "sources": [
         "CNBC - Top News"
@@ -25,15 +24,12 @@
     {
       "title": "Stocks, bonds and commodities: How global markets have traded the Iran war",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イラン戦争開始以降、株式、債券、商品市場は全体的に不安定な状況が続いている。",
-      "analysis": "イラン戦争は、地政学的リスクを高め、投資家のリスク回避姿勢を強めている。特に原油価格の上昇は、インフレ懸念を増大させ、中央銀行の金融政策に影響を与える可能性がある。安全資産への資金移動や、特定のセクター（防衛、エネルギー）への選別的な投資が見られる。戦争の長期化は、さらなる市場の混乱を招く恐れがある。",
+      "risk_level": "medium",
+      "summary": "米国とイランの戦争開始以来、株式、債券、商品市場は全体的に不安定な状況にあります。",
+      "analysis": "戦争の長期化は、地政学的リスクを高め、投資家のリスク回避姿勢を強める可能性があります。株式市場では、エネルギー関連株が上昇する一方で、景気敏感株が下落するなどのセクター間の格差が拡大する可能性があります。債券市場では、安全資産への逃避から米国債などの需要が高まる可能性があります。原油価格の変動は、インフレ見通しに影響を与え、中央銀行の金融政策の判断を複雑にする可能性があります。",
       "key_entities": [
-        "S&P 500",
-        "NASDAQ",
-        "ダウ平均",
         "米国債",
-        "金",
+        "S&P 500",
         "原油"
       ],
       "sources": [
@@ -44,15 +40,50 @@
       ]
     },
     {
+      "title": "Bitcoin on the brink of its longest losing streak on record",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ビットコインは過去最長の連敗記録に近づいており、下落リスクが高まっています。",
+      "analysis": "ビットコインの連敗は、投資家のリスク回避姿勢の強まりや、規制強化への懸念などが背景にあると考えられます。また、金利上昇や量的引き締めなどの金融引き締め政策も、ビットコインの価格を圧迫する要因となっています。テクニカル分析では、下落トレンドが継続する可能性が示唆されており、今後の価格動向には注意が必要です。",
+      "key_entities": [
+        "ビットコイン",
+        "主要暗号資産取引所"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "A quantum computer may need just 10,000 qubits to empty your crypto wallets, researchers say",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "量子コンピュータが暗号資産ウォレットの暗号を解読する可能性が指摘され、セキュリティリスクが高まっています。",
+      "analysis": "量子コンピュータの発展は、暗号資産のセキュリティに対する根本的な脅威となる可能性があります。特に、ビットコインなどの暗号資産は、公開鍵暗号に基づいており、量子コンピュータによって容易に解読される可能性があります。量子耐性暗号への移行が急務となっていますが、技術的な課題やコストの問題など、解決すべき課題は多く存在します。",
+      "key_entities": [
+        "ビットコイン",
+        "量子コンピュータ",
+        "暗号資産ウォレット"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
       "title": "Moscow is profiting from the Iran war for now — but experts say Russia's economy is in the 'death zone'",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "イラン戦争によるエネルギー価格の高騰がロシア経済に一時的な恩恵をもたらしているが、専門家はロシア経済が長期的に「死の淵」にあると警告している。",
-      "analysis": "エネルギー価格の上昇は、ロシアの歳入を増加させるが、同時にインフレを加速させ、国内経済の不安定化を招く可能性がある。西側諸国からの経済制裁の影響も依然として大きく、長期的な経済成長は困難と見られる。地政学的リスクと経済的脆弱性が複合的に作用し、ロシア経済の先行きは不透明。",
+      "summary": "イラン戦争によりエネルギー価格が上昇し、ロシアは一時的に利益を得ていますが、専門家はロシア経済が危機的な状況にあると指摘しています。",
+      "analysis": "ロシアはエネルギー価格の上昇により短期的な利益を得ていますが、長期的な経済見通しは不透明です。制裁の影響や資源依存型の経済構造、インフレなどがロシア経済の成長を阻害する要因となっています。また、地政学的なリスクも高く、今後の経済状況はさらに悪化する可能性があります。",
       "key_entities": [
+        "ロシア中央銀行",
         "ロシア政府",
-        "プーチン大統領",
-        "ロシア中央銀行"
+        "主要エネルギー企業"
       ],
       "sources": [
         "CNBC - Top News"
@@ -62,69 +93,14 @@
       ]
     },
     {
-      "title": "Breaking Bitcoin with quantum may be easier than thought, with Taproot partly to blame, Google says",
-      "region": "global",
-      "risk_level": "critical",
-      "summary": "Googleの研究によると、量子コンピュータによるビットコインのハッキングが予想以上に容易になる可能性があり、Taprootがその一因となっている。",
-      "analysis": "量子コンピュータの発展は、暗号資産のセキュリティを脅かす深刻なリスク要因となる。特に、ビットコインのTaprootアップデートは、量子コンピュータ攻撃に対する脆弱性を高める可能性がある。暗号資産市場全体に大きな影響を与え、価格の暴落や信頼の低下を招く恐れがある。量子耐性を持つ暗号技術の開発が急務となっている。",
-      "key_entities": [
-        "ビットコイン",
-        "Google",
-        "量子コンピュータ開発企業"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Downside risk remains as bitcoin nears record-tying six-month losing streak",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "ビットコインは過去最長の6ヶ月連続下落に近づいており、下落リスクが依然として高い。",
-      "analysis": "金利上昇、規制の不確実性、量子コンピュータのリスクなど、複数の要因がビットコイン価格の下落を招いている。投資家のリスク回避姿勢が強まり、資金流出が加速する可能性がある。テクニカル分析からも、下落トレンドが継続する可能性が高い。慎重な投資判断が求められる。",
-      "key_entities": [
-        "ビットコイン"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Microsoft hit with UK competition regulator probe over software business",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "英国の競争規制当局が、マイクロソフトのソフトウェア事業に対する調査を開始した。",
-      "analysis": "クラウド市場におけるマイクロソフトの支配的な地位が、競争を阻害している疑いがある。調査の結果次第では、マイクロソフトに対する制裁金や事業分割命令が下される可能性もある。欧州市場におけるマイクロソフトの事業展開に大きな影響を与える可能性がある。",
-      "key_entities": [
-        "マイクロソフト",
-        "英国競争・市場庁 (CMA)"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media",
-        "government"
-      ]
-    },
-    {
-      "title": "Nvidia stock pops 9% as Nvidia takes $2 billion stake, continuing run of similar bets",
+      "title": "Warren Buffett says he sold Apple too soon and would buy more of it, though not in this market",
       "region": "global",
       "risk_level": "low",
-      "summary": "NvidiaがMarvell株を20億ドル取得し、株価が9%上昇。同様の投資をCoreWeave、Nebius、Coherentにも行っている。",
-      "analysis": "Nvidiaの積極的な投資戦略は、AIインフラストラクチャ市場におけるリーダーシップを強化する意図が見られる。Marvell株の取得は、半導体サプライチェーンの安定化にも貢献する可能性がある。ただし、過剰な投資は、将来的な財務リスクを高める可能性もある。",
+      "summary": "ウォーレン・バフェットは、Apple株を売却したことを後悔しており、現在の市場でなければ買い増したいと述べています。",
+      "analysis": "ウォーレン・バフェットの発言は、Appleの長期的な成長性に対する信頼を示唆しています。しかし、現在の市場環境は、金利上昇やインフレ懸念などから、割高な株式に対する投資家の慎重姿勢を強めています。今後の市場動向によっては、Apple株の買い増しが行われる可能性があります。",
       "key_entities": [
-        "Nvidia",
-        "Marvell",
-        "CoreWeave",
-        "Nebius",
-        "Coherent"
+        "Apple",
+        "バークシャー・ハサウェイ"
       ],
       "sources": [
         "CNBC - Top News"
@@ -134,33 +110,34 @@
       ]
     },
     {
-      "title": "Wall Street Downgrades Procter & Gamble Amid Iran War Cost Pressures and More",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "ウォール街は、イラン戦争によるコスト圧力などを理由に、プロクター・アンド・ギャンブル（P&G）の格付けを引き下げた。",
-      "analysis": "イラン戦争による原材料価格の上昇や輸送コストの増加が、P&Gの収益を圧迫している。消費者の購買力低下も、P&Gの販売量に悪影響を与える可能性がある。格付けの引き下げは、P&Gの株価下落を招き、投資家の信頼を損なう可能性がある。",
+      "title": "Marvell stock pops 7% as Nvidia takes $2 billion stake, continuing run of similar bets",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "NvidiaがMarvell株に20億ドルの出資を行い、Marvell株が7%上昇しました。",
+      "analysis": "NvidiaによるMarvellへの出資は、AI半導体市場における競争激化を示唆しています。Nvidiaは、Marvellの技術を活用することで、AI分野での優位性をさらに高めることを目指していると考えられます。Marvellにとっては、Nvidiaからの資金調達により、研究開発や設備投資を加速させることが可能になります。",
       "key_entities": [
-        "プロクター・アンド・ギャンブル (P&G)"
+        "Nvidia",
+        "Marvell"
       ],
       "sources": [
-        "Yahoo Finance"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Rotate your European portfolio to prepare for stagflation risk, Goldman Sachs says",
-      "region": "europe",
-      "risk_level": "high",
-      "summary": "ゴールドマン・サックスは、欧州のポートフォリオをスタグフレーションのリスクに備えるために見直すよう推奨している。",
-      "analysis": "エネルギー価格の高騰とサプライチェーンの混乱が、欧州経済にスタグフレーション（インフレと景気後退の同時進行）のリスクをもたらしている。ゴールドマン・サックスは、ディフェンシブセクターやインフレ連動資産への投資を推奨している。スタグフレーションは、企業収益の悪化や失業率の上昇を招き、社会不安を増大させる可能性がある。",
+      "title": "While low-income consumers struggle with rising gas prices, higher earners grow nervous as markets fall",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "低所得者層はガソリン価格の高騰に苦しみ、高所得者層は市場の下落に不安を感じています。",
+      "analysis": "ガソリン価格の高騰は、低所得者層の家計を圧迫し、消費支出を抑制する可能性があります。一方、市場の下落は、高所得者層の資産価値を減少させ、消費マインドを悪化させる可能性があります。両者の消費低迷は、経済全体の成長を鈍化させる要因となり得ます。",
       "key_entities": [
-        "ゴールドマン・サックス",
-        "欧州中央銀行 (ECB)"
+        "消費者物価指数",
+        "消費者信頼感指数"
       ],
       "sources": [
-        "Yahoo Finance"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -170,11 +147,11 @@
       "title": "Credit card APRs have an 'economically meaningful' impact on consumer spending, Boston Fed finds",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ボストン連邦準備銀行の調査によると、クレジットカードのAPR（年率）の上昇は、消費者支出に「経済的に意味のある」影響を与える。",
-      "analysis": "金利上昇は、消費者の借入コストを増加させ、支出を抑制する効果がある。特に、クレジットカード依存度の高い低所得者層への影響が大きい。消費者支出の減少は、経済成長の鈍化を招く可能性がある。金融政策の波及効果を注視する必要がある。",
+      "summary": "クレジットカードのAPR（年率）の上昇は、消費者の支出に大きな影響を与えることがボストン連銀の調査で明らかになりました。",
+      "analysis": "クレジットカードのAPR上昇は、消費者の借入コストを増加させ、消費支出を抑制する可能性があります。特に、金利感応度の高い低所得者層や若年層にとっては、その影響が大きくなる可能性があります。今後の金利動向によっては、消費支出のさらなる落ち込みが懸念されます。",
       "key_entities": [
-        "ボストン連邦準備銀行",
-        "米国連邦準備制度理事会 (FRB)"
+        "ボストン連銀",
+        "クレジットカード会社"
       ],
       "sources": [
         "CNBC - Top News"
@@ -183,18 +160,32 @@
         "media",
         "research"
       ]
+    },
+    {
+      "title": "Should you 'buy the dip' amid the latest stock market volatility? What experts say",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "米国とイランの戦争による株式市場のボラティリティの中で、「押し目買い」戦略は有効か、専門家の意見が分かれています。",
+      "analysis": "押し目買い戦略は、市場が一時的に下落した際に、将来的な上昇を見込んで株式を購入する戦略です。しかし、現在の市場環境は、地政学的リスクやインフレ懸念などから、不確実性が高く、押し目買い戦略が必ずしも有効とは限りません。投資家は、リスク許容度や投資目標などを考慮し、慎重に判断する必要があります。",
+      "key_entities": [
+        "株式市場",
+        "投資家"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
     }
   ],
   "region_risk_map": {
-    "global": "critical",
+    "global": "high",
     "north_america": "high",
-    "europe": "high",
-    "east_asia": "medium",
-    "south_america": "none",
-    "africa": "none",
-    "middle_east": "high"
+    "europe": "medium",
+    "east_asia": "low"
   },
-  "generated_at": "2026-03-31T13:42:59.001130",
+  "generated_at": "2026-03-31T16:09:01.573122",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
