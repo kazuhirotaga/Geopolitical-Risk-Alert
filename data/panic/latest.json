@@ -1,116 +1,152 @@
 {
   "date": "2026-03-31",
-  "summary": "世界各地でエネルギー供給不足とそれに伴う抗議活動、社会不安が顕著です。特にインドや南アフリカでは燃料不足が市民生活に深刻な影響を及ぼし、パニック買いや交通麻痺が発生しています。中東では政治的法案に対する大規模な抗議デモが継続しており、北米では食料支援への需要が過去にないほど増加しています。全体として、特定の地域で社会インフラへの圧力と市民の不安が募っていますが、世界的な無秩序なパニック状態には至っていません。",
-  "global_panic_index": 58,
+  "summary": "世界各地では、エネルギー不足に起因する社会不安とパニックの兆候が一部地域で顕著です。特に南アフリカでは燃料パニックが報じられ、インド（東南アジア地域）でも燃料不足が大規模な抗議活動や交通麻痺を引き起こしています。中東では政治的対立に起因する大規模デモが頻発し、社会的な緊張が高まっています。全体としては、経済的要因や政治的対立が主要な不安要因となっていますが、北米や東アジア、欧州は比較的安定した状況を保っています。",
+  "global_panic_index": 45,
   "regions": [
     {
-      "region": "middle_east",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "政治的緊張、大規模抗議",
-      "incidents": [
-        {
-          "title": "パレスチナでのイスラエル死刑法案への大規模抗議デモ",
-          "location": "ヨルダン川西岸（パレスチナ）",
-          "severity": 45,
-          "description": "イスラエルがパレスチナ人捕虜への死刑適用を可能にする法案を承認したことに抗議し、ヨルダン川西岸各地で数百人規模のデモが発生。政治的な緊張が高まっているが、秩序だった抗議にとどまっている。",
-          "source": "Al Jazeera 他"
-        }
-      ]
-    },
-    {
       "region": "south_america",
-      "panic_index": 35,
+      "panic_index": 25,
       "status": "unstable",
-      "main_cause": "政治経済の変動",
+      "main_cause": "経済政策への不満、政治的緊張",
       "incidents": [
         {
-          "title": "コロンビアでの利上げと大臣辞任に伴う抗議",
+          "title": "コロンビアで金利引き上げと閣僚辞任",
           "location": "コロンビア",
           "severity": 30,
-          "description": "コロンビアで利上げが行われ、ペトロ政権の大臣が抗議のため辞任。経済政策への不満が背景にあるが、直接的なパニック行動や社会秩序の乱れは報じられていない。",
+          "description": "コロンビアで主要金利が引き上げられ、これに抗議して閣僚が辞任しました。政治経済情勢の不安定化を示唆しますが、直接的な社会パニックには至っていません。",
           "source": "Bloomberg.com"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 38,
-      "status": "stable",
-      "main_cause": "政治的意見表明",
+      "region": "middle_east",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "政治的対立、人権問題への懸念",
       "incidents": [
         {
-          "title": "日本での大規模な反政権・改憲反対デモ",
-          "location": "日本（国会前）",
-          "severity": 40,
-          "description": "雨の中、国会前を埋め尽くすペンライトを携えた大規模な反政権・改憲反対デモが開催された。オタク文化やクラブ音楽と結びついた新しいデモの形だが、秩序は保たれている。",
-          "source": "朝日新聞 他"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 72,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、交通麻痺",
-      "incidents": [
-        {
-          "title": "インド各地での燃料（LPG, CNG, ガソリン）不足と大規模抗議",
-          "location": "インド（ハイデラバード、カルナータカ、ナヤガ―ル、ファリドコート）",
-          "severity": 75,
-          "description": "ハイデラバードなどでオート運転手らがCNG/LPG不足に抗議し、モバイルタワーに登るなどの行動に出た。ガソリン不足によるパニック買い、給油所枯渇も発生し、交通が麻痺するなど市民生活に深刻な影響が出ている。",
-          "source": "MSN, Telangana Today 他"
-        },
-        {
-          "title": "ファリドコートでの農民抗議デモによる交通麻痺",
-          "location": "インド（ファリドコート）",
+          "title": "ヨルダン川西岸地区でイスラエル死刑法に抗議デモ",
+          "location": "ヨルダン川西岸地区（パレスチナ）",
           "severity": 60,
-          "description": "ファリドコートで農民の抗議デモが2日間にわたり継続し、交通が完全に麻痺した。農業問題が背景にあるが、広範な交通障害が市民の生活を混乱させている。",
-          "source": "Tribune India"
+          "description": "イスラエルによるパレスチナ人への死刑法導入に対し、ヨルダン川西岸地区で数百人規模の大規模な抗議デモが発生。住民の強い反発と社会的な緊張が示されています。",
+          "source": "AP News 他多数"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 78,
-      "status": "critical",
-      "main_cause": "燃料危機、社会不安",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "燃料不足、物価高騰、地域紛争",
       "incidents": [
         {
-          "title": "南アフリカでの燃料パニックと給油所枯渇",
+          "title": "南アフリカで燃料パニック、ガソリンスタンド枯渇",
           "location": "南アフリカ",
-          "severity": 80,
-          "description": "記録的な価格上昇を前に、南アフリカの数百のガソリンスタンドで燃料が枯渇し、広範な燃料パニックが発生。市民はパニック買いに走り、供給不安が極めて深刻な状態に陥っている。",
-          "source": "Business Tech, africaninsider.com"
+          "severity": 85,
+          "description": "燃料価格高騰を前に南アフリカで「燃料パニック」が発生。多数のガソリンスタンドが枯渇状態に陥り、買いだめや供給不安が深刻化し社会機能に影響を与えています。",
+          "source": "africaninsider.com, Business Tech"
         },
         {
-          "title": "東ロンドンでの王位継承争いに起因する騒乱と暴力",
-          "location": "南アフリカ（東ロンドン、KuGompo）",
+          "title": "東ロンドンで抗議デモが暴力化",
+          "location": "南アフリカ、東ロンドン",
           "severity": 70,
-          "description": "アバテムブ王国における「戴冠式」論争が、東ロンドンで騒乱と暴力を引き起こした。政治的な対立が社会不安と秩序の乱れにつながっている。",
-          "source": "The Citizen, Joburg ETC"
+          "description": "地域を巡る騒動から始まった抗議デモが暴力沙汰に発展。社会秩序の不安定化と地域住民の不安が高まっており、警戒が必要です。",
+          "source": "Joburg ETC"
+        },
+        {
+          "title": "KuGompoでの騒乱と説明責任要求",
+          "location": "南アフリカ、KuGompo",
+          "severity": 65,
+          "description": "KuGompoで発生した地域的な騒乱に対し、伝統的な王国が説明責任を要求。地域内の緊張と不満が浮上しています。",
+          "source": "The Citizen"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "エネルギー不足（CNG/LPG）、交通麻痺",
+      "incidents": [
+        {
+          "title": "インド・ハイデラバードでCNG不足抗議、モバイルタワーに登る",
+          "location": "インド、ハイデラバード",
+          "severity": 70,
+          "description": "CNG燃料不足に抗議し、自動車運転手がモバイルタワーに登る過激なデモを展開。燃料不足が市民生活に深刻な影響を与え、強い不満が表明されています。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド・カルナータカ州でLPG不足、ガソリンスタンド枯渇",
+          "location": "インド、カルナータカ州",
+          "severity": 65,
+          "description": "LPG燃料の不足により、カルナータカ州のガソリンスタンドが枯渇。自動車運転手が大きな影響を受けており、社会不安が広がっています。",
+          "source": "inshorts.com"
+        },
+        {
+          "title": "インド・ナヤガルでLPG不足抗議、道路封鎖で交通麻痺",
+          "location": "インド、ナヤガル",
+          "severity": 60,
+          "description": "LPGシリンダー不足に抗議する住民が道路を封鎖し、交通が麻痺。燃料不足が直接的に日常生活に影響し、集団行動を引き起こしています。",
+          "source": "orissadiary.com, Odisha TV"
+        },
+        {
+          "title": "インド・ファリードコットで農民デモ、交通機能停止",
+          "location": "インド、ファリードコット",
+          "severity": 55,
+          "description": "農民の抗議デモが2日目に突入し、交通が完全に麻痺。地域の経済活動や移動に深刻な影響が出ており、社会的な緊張が高まっています。",
+          "source": "The Tribune"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 52,
-      "status": "unstable",
-      "main_cause": "食料不安、サービス不足",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "政治的抗議、労働問題",
       "incidents": [
         {
-          "title": "カナダのフードバンクが「前例のない」需要増でサービス縮小",
-          "location": "カナダ",
-          "severity": 55,
-          "description": "カナダのフードバンクが前例のないほどの需要増加に直面し、サービスを縮小せざるを得ない状況に陥っている。これは広範な食料不安と経済的困難が市民に及んでいることを示唆している。",
-          "source": "MSN"
+          "title": "全米で大規模な反トランプデモ",
+          "location": "米国",
+          "severity": 30,
+          "description": "全米各地で大規模な反トランプデモが展開されました。これは政治的な抗議活動であり、社会秩序が崩壊するようなパニック状態ではありません。",
+          "source": "テレ東BIZ, Yahoo!ニュース"
         },
         {
-          "title": "ベリーズ国境での職員不足が抗議の懸念を招く",
-          "location": "ベリーズ（ベンケ国境）",
-          "severity": 35,
-          "description": "ベンケ国境で職員不足が報告されており、これが抗議活動を引き起こす可能性が懸念されている。サービス機能の低下が社会不安につながる兆候。",
+          "title": "ベリーズ国境スタッフ不足で抗議懸念",
+          "location": "ベリーズ",
+          "severity": 25,
+          "description": "ベリーズの国境でスタッフ不足が報告され、これに対する抗議の懸念が浮上しています。サービス品質に関する問題であり、広範なパニックには至っていません。",
           "source": "Greater Belize Media"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 15,
+      "status": "stable",
+      "main_cause": "政治的抗議",
+      "incidents": [
+        {
+          "title": "日本各地で政治的な抗議デモ",
+          "location": "日本",
+          "severity": 20,
+          "description": "日本各地で改憲反対や反政権を訴えるデモが発生していますが、これらは秩序だった政治活動であり、社会的なパニック状態ではありません。",
+          "source": "朝日新聞, 産経ニュース"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "人権問題に対する抗議",
+      "incidents": [
+        {
+          "title": "アルメニア中央銀行前で人権活動家が抗議",
+          "location": "アルメニア",
+          "severity": 25,
+          "description": "アルメニアの中央銀行前で人権活動家が抗議デモを実施。これは特定の問題に対する抗議であり、広範な社会パニックの兆候ではありません。",
+          "source": "Armenia News"
         }
       ]
     }

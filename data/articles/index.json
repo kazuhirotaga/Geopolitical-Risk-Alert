@@ -1,8 +1,8 @@
 [
   {
     "date": "2026-03-31",
-    "summary": "中東情勢が極めて不安定化。イラン戦争に加え、イスラエル・レバノン間の緊張も高まり、PKO要員が犠牲となる事態に。ウクライナ情勢も依然として深刻で、世界経済への影響が懸念される。",
-    "overall_risk_level": "critical",
+    "summary": "中東情勢が極めて不安定化。イスラエルとイランの対立激化に加え、レバノン情勢も緊迫。ウクライナ情勢も依然として不透明。米中対立も継続し、世界経済への影響が懸念される。全体として地政学リスクは高い水準で推移。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
@@ -10,12 +10,12 @@
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
+      "europe": "medium",
       "africa": "medium",
       "north_america": "medium",
       "south_america": "low"
     },
-    "generated_at": "2026-03-31T19:07:45.702823"
+    "generated_at": "2026-03-31T21:44:12.761657"
   },
   {
     "date": "2026-03-30",
