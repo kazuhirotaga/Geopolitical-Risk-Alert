@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-03-31",
-    "summary": "中東情勢が極めて不安定化。イランを巡る軍事衝突が激化し、原油価格高騰やシーレーン封鎖の懸念が高まる。ウクライナ情勢も膠着状態が続き、世界経済への影響が深刻化。イスラエル国内の対立も激化し、地政学リスクは全体的に高まっている。",
+    "summary": "中東情勢が極めて不安定化。イラン戦争に加え、イスラエル・レバノン間の緊張も高まり、PKO要員が犠牲となる事態に。ウクライナ情勢も依然として深刻で、世界経済への影響が懸念される。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
@@ -12,10 +12,10 @@
       "middle_east": "critical",
       "europe": "high",
       "africa": "medium",
-      "north_america": "high",
+      "north_america": "medium",
       "south_america": "low"
     },
-    "generated_at": "2026-03-31T16:08:38.370247"
+    "generated_at": "2026-03-31T19:07:45.702823"
   },
   {
     "date": "2026-03-30",

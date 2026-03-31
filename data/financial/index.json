@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-03-31",
-    "summary": "米国とイランの戦争が金融市場に大きな影響を与え、原油価格の高騰とインフレ懸念を引き起こしています。暗号資産市場はボラティリティが高く、量子コンピュータのリスクも浮上しています。全体的にリスクレベルは高い状況です。",
-    "overall_risk_level": "high",
+    "summary": "イラン戦争終結への期待から株式市場は上昇したものの、原油価格高騰やインフレ懸念、社会保障の財源問題、暗号資産市場の不安定性など、複数のリスク要因が依然として存在し、全体的な金融リスクは中程度です。",
+    "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
-      "north_america": "high",
+      "north_america": "medium",
       "europe": "medium",
-      "east_asia": "low"
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "medium"
     },
-    "generated_at": "2026-03-31T16:09:01.573122"
+    "generated_at": "2026-03-31T19:08:08.384981"
   },
   {
     "date": "2026-03-30",

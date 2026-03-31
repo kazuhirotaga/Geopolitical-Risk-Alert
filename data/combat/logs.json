@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-03-31",
-    "summary": "中東地域における紛争が激化。アメリカとイラン間の緊張が高まり、イスラエルとヒズボラの戦闘も拡大。ウクライナはドローン技術を輸出、防衛協力も進める。ヨーロッパでは防空ミサイルの増産が計画される。",
+    "summary": "中東における紛争が激化。アメリカとイラン間の緊張が高まり、イランへの攻撃準備が進む一方、イスラエルとヒズボラの戦闘も激化。ウクライナはドローン防衛技術を各国に提供。ヨーロッパでは防空ミサイルの増産体制が検討されている。",
     "events": [
       {
         "id": "event-5",
@@ -81,6 +81,22 @@
         "source_url": "https://www.defensenews.com/news/your-military/2026/03/29/pentagon-reportedly-preparing-for-weeks-of-ground-operations-in-iran/"
       },
       {
+        "id": "EVENT_007",
+        "timestamp": "2026-03-29",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "アメリカ国防総省、イランでの地上作戦準備",
+        "content": "アメリカ軍は、トリポリ強襲揚陸即応部隊と第31海兵遠征部隊を中東地域に展開し、数週間にわたる地上作戦に備えている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/29/pentagon-reportedly-preparing-for-weeks-of-ground-operations-in-iran/"
+      },
+      {
         "id": "event-6",
         "timestamp": "2026-03-28",
         "location": "中東",
@@ -94,6 +110,53 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/your-military/2026/03/28/uss-tripoli-embarked-31st-marine-expeditionary-unit-arrive-in-middle-east/"
+      },
+      {
+        "id": "EVENT_008",
+        "timestamp": "2026-03-28",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "USSトリポリ、第31海兵遠征部隊が中東に到着",
+        "content": "トリポリ強襲揚陸即応部隊と第31海兵遠征部隊が、アメリカ中央軍の担当海域に到着。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/28/uss-tripoli-embarked-31st-marine-expeditionary-unit-arrive-in-middle-east/"
+      },
+      {
+        "id": "EVENT_009",
+        "timestamp": "2026-03-28",
+        "location": "クロアチア",
+        "region": "europe",
+        "title": "空母USSジェラルド・R・フォードが修理のためクロアチアに到着",
+        "content": "空母USSジェラルド・R・フォードが、9ヶ月間の展開を終え、修理のためクロアチアに到着。中東到着前には、カリブ海でベネズエラに対する作戦にも参加。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/28/aircraft-carrier-uss-gerald-r-ford-arrives-in-croatia-for-repairs/"
+      },
+      {
+        "id": "EVENT_010",
+        "timestamp": "2026-03-28",
+        "location": "UAE、カタール",
+        "region": "middle_east",
+        "title": "ゼレンスキー大統領、UAE、カタールと防衛協力に合意",
+        "content": "ウクライナのゼレンスキー大統領がUAE、カタールと防衛協力協定に合意。カタールは、ドローン防衛および対ミサイル技術の共有を含む協定に署名したと発表。",
+        "involved_parties": [
+          "ウクライナ",
+          "UAE",
+          "カタール"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/28/ukraines-zelenskyy-agrees-to-defense-cooperation-with-uae-qatar/"
       },
       {
         "id": "event-1",
@@ -194,6 +257,38 @@
         "source_url": "https://www.defensenews.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/"
       },
       {
+        "id": "EVENT_011",
+        "timestamp": "2026-03-27",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "レバノンで戦闘地域が拡大、イスラエルとヒズボラの攻撃が激化",
+        "content": "イスラエルとヒズボラの攻撃が激化し、レバノンでの戦闘地域が拡大。ヒズボラの戦闘員は攻撃のために移動し、地形に隠れて潜伏している。",
+        "involved_parties": [
+          "イスラエル",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
+      },
+      {
+        "id": "EVENT_012",
+        "timestamp": "2026-03-27",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ、イランに数百発のトマホークミサイルを使用",
+        "content": "アメリカ軍は、イランに対して数百発のトマホークミサイルを使用しており、国防総省の一部当局者を懸念させている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/27/us-uses-hundreds-of-Tomahawk-missiles-on-iran-alarming-some-at-pentagon/"
+      },
+      {
         "id": "event-3",
         "timestamp": "2026-03-26",
         "location": "中東",
@@ -206,6 +301,22 @@
         ],
         "event_type": "other",
         "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
+      },
+      {
+        "id": "EVENT_013",
+        "timestamp": "2026-03-26",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "アメリカ、イランとの紛争で無人艇を配備",
+        "content": "アメリカ軍は、イランとの紛争において無人艇を配備。ロイター通信によると、アメリカがこのような無人艇を実際の紛争で使用したのは初めて。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
       }
