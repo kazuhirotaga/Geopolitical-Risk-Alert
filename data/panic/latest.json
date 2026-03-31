@@ -1,100 +1,27 @@
 {
   "date": "2026-03-31",
-  "summary": "世界各地では、エネルギー不足に起因するパニック買いや大規模な抗議デモが特にインドやアフリカで顕著に見られます。食料不安も北米で深刻化しており、フードバンクの需要が「前例のない」レベルに達しています。中東では政治的緊張が高まり、大規模な抗議活動が続いています。全体として、基本的な生活インフラへの不安が社会的な動揺を引き起こし、一部地域では秩序が乱れ始めています。",
-  "global_panic_index": 62,
+  "summary": "世界全体でエネルギー供給の不安定さと政治的混乱が社会不安の主な要因となっており、多くの地域で大規模な抗議活動や生活必需品の不足が報告されています。特にヨーロッパとアフリカでは燃料枯渇の危機が迫り、北米や南アジアの一部でも食料不安や政治的緊張が市民の間に広範な警戒感と混乱を引き起こしています。全体として警戒レベルが上がっており、一部地域では暴力的な衝突も発生しています。",
+  "global_panic_index": 66,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "食料不足、公的サービスへの不満",
-      "incidents": [
-        {
-          "title": "カナダのフードバンクが需要増大でサービス縮小",
-          "location": "カナダ",
-          "severity": 60,
-          "description": "「前例のない」需要の増加に直面し、カナダ全土のフードバンクがサービスの縮小を余儀なくされています。これは、経済的な困窮と食料不安の深刻化を示す兆候です。",
-          "source": "MSN"
-        },
-        {
-          "title": "モンタナ州でフードバンク支援プログラムを拡大",
-          "location": "アメリカ合衆国、モンタナ州",
-          "severity": 50,
-          "description": "モンタナ州のフードバンクネットワークが、SNAP申請支援プログラムを拡大。これは、より多くの住民が食料支援を必要としている現状を反映しており、食料不安の拡大を示唆しています。",
-          "source": "KPAX News"
-        },
-        {
-          "title": "ベリーズ国境のスタッフ不足に抗議懸念",
-          "location": "ベリーズ、ベンケ",
-          "severity": 40,
-          "description": "ベリーズの国境管理スタッフ不足が住民からの抗議懸念を引き起こしています。これは公的サービスの機能不全に対する不満が高まっていることを示しています。",
-          "source": "Greater Belize Media"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 44,
-      "status": "unstable",
-      "main_cause": "エネルギー不足、買いだめ懸念",
-      "incidents": [
-        {
-          "title": "マン島でディーゼル燃料切れ、パニック買い抑制呼びかけ",
-          "location": "マン島",
-          "severity": 75,
-          "description": "ディーゼルポンプが枯渇し、20ポンドの購入制限が課されました。当局はパニック買いをしないようドライバーに呼びかけており、燃料供給への深刻な不安が浮上しています。",
-          "source": "Isle of Man Today"
-        },
-        {
-          "title": "英国で燃料不足の懸念高まる",
-          "location": "英国",
-          "severity": 50,
-          "description": "英国で燃料不足への懸念が高まり、野党党首がエネルギー関係者と会談する予定です。これは、広範囲な供給不安が政治レベルで認識されていることを示唆します。",
-          "source": "thenationalnews.com"
-        },
-        {
-          "title": "アルメニア中央銀行前で人権活動家が抗議",
-          "location": "アルメニア",
-          "severity": 30,
-          "description": "アルメニアの中央銀行前で人権活動家が抗議活動を行っています。これは特定の政策や状況に対する不満が存在し、社会的な緊張の一因となっています。",
-          "source": "Armenia News"
-        }
-      ]
-    },
-    {
       "region": "middle_east",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "政治的緊張、大規模な抗議デモ",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "政治的緊張、人権問題",
       "incidents": [
         {
-          "title": "ヨルダン川西岸でイスラエル法への抗議デモ",
-          "location": "ヨルダン川西岸",
-          "severity": 70,
-          "description": "パレスチナ人囚人の処刑を許可するイスラエル法に対し、数百人が大規模な抗議デモを実施。この法案は地域の政治的緊張を著しく高め、更なる社会不安を引き起こす可能性があります。",
-          "source": "Anadolu Ajansı"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 78,
-      "status": "volatile",
-      "main_cause": "社会的対立、エネルギー不足",
-      "incidents": [
-        {
-          "title": "ナイジェリアで戴冠式を巡る抗議が暴力化",
-          "location": "ナイジェリア",
-          "severity": 80,
-          "description": "ナイジェリアで「イグボ族の王」戴冠式を巡る抗議デモが暴力化しました。これは民族間の緊張や権力争いが社会秩序を乱し、暴動に発展する危険性を示しています。",
-          "source": "Algoa FM"
+          "title": "Horror and fear in West Bank as Israel approves hanging Palestinians",
+          "location": "West Bank",
+          "severity": 65,
+          "description": "イスラエルがパレスチナ人の処刑を承認したことで、ヨルダン川西岸地域に恐怖と不安が広がっている。政治的な決定が住民に直接的な心理的影響を与えている。",
+          "source": "Messenger-Inquirer"
         },
         {
-          "title": "南アフリカで燃料スタンドが枯渇、価格高騰前に混乱",
-          "location": "南アフリカ",
-          "severity": 75,
-          "description": "記録的な価格高騰を24時間後に控える中、南アフリカ全土の140以上のガソリンスタンドで燃料が枯渇しました。これにより、市民の間で供給不安と買いだめへの懸念が高まっています。",
-          "source": "Business Tech"
+          "title": "Hundreds protest Israeli law allowing execution of Palestinian prisoners in West Bank",
+          "location": "West Bank",
+          "severity": 55,
+          "description": "イスラエルによるパレスチナ人捕虜処刑法案に対し、数百人が抗議デモを実施。中東地域の政治的緊張と人権問題が市民の不安と不満を高めている。",
+          "source": "Anadolu Ajansı"
         }
       ]
     },
@@ -102,42 +29,129 @@
       "region": "southeast_asia",
       "panic_index": 66,
       "status": "volatile",
-      "main_cause": "エネルギー不足、大規模な抗議デモ、買いだめ",
+      "main_cause": "エネルギー不足、政治的混乱、大規模抗議",
       "incidents": [
         {
-          "title": "ハイデラバードでLPG・ガソリン不足とパニック買い",
-          "location": "インド、ハイデラバード",
-          "severity": 85,
-          "description": "LPGとガソリンの不足により、ハイデラバードではパニック買いが発生し、多くの給油所で「在庫なし」の表示が見られます。これは燃料供給への深刻な不安と社会インフラのマヒを示しています。",
-          "source": "MSN"
-        },
-        {
-          "title": "ハイデラバードの自動車運転手がCNG不足でモバイルタワーに登り抗議",
-          "location": "インド、ハイデラバード",
+          "title": "Oli custody fuels violent Nepal protests",
+          "location": "Nepal",
           "severity": 80,
-          "description": "CNG不足に抗議するため、ハイデラバードの自動車運転手らがモバイルタワーに登るという極端な行動に出ました。これは、エネルギー不足に対する深刻な不満と絶望感を示しています。",
+          "description": "ネパールで前首相の拘留を巡り、暴力的な抗議活動が発生。政治的対立が物理的な衝突に発展し、社会秩序が深刻な脅威にさらされている。",
           "source": "MSN"
         },
         {
-          "title": "インド、ファリードコートで農民デモ2日目、交通マヒ",
-          "location": "インド、ファリードコート",
+          "title": "LPG Shortage Sparks Road Blockade Protest in Nayagarh, Traffic Disrupted",
+          "location": "Nayagarh, India",
+          "severity": 70,
+          "description": "インドのナヤガルでLPG不足を巡る道路封鎖抗議が発生し、交通が寸断された。エネルギー供給の不安定さが市民の生活と交通網を混乱させている。",
+          "source": "orissadiary.com"
+        },
+        {
+          "title": "Nepal ex-PM denied bail amid unrest",
+          "location": "Nepal",
+          "severity": 70,
+          "description": "ネパール前首相の保釈が拒否され、国内で広範な社会不安（unrest）が続いている。政治的な不安定さが国民の間に混乱と懸念を引き起こしている。",
+          "source": "MSN"
+        },
+        {
+          "title": "Nepal extends custody of ex-PM amid unrest",
+          "location": "Nepal",
+          "severity": 70,
+          "description": "ネパール前首相の拘留が延長され、国内の社会不安（unrest）がさらに拡大。政治権力への不信感と先行き不透明感が人々の不安を増幅させている。",
+          "source": "MSN"
+        },
+        {
+          "title": "Nepal arrests ex-PM amid protest deaths probe",
+          "location": "Nepal",
+          "severity": 65,
+          "description": "ネパールで前首相が逮捕され、抗議デモ中に死者が出たことで政治的緊張が高まっている。政府への不満と衝突が社会不安を増大させている。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 58,
+      "status": "unstable",
+      "main_cause": "食料不安、行政サービス不備",
+      "incidents": [
+        {
+          "title": "Canadian food banks reduce services amid 'unprecedented' demand",
+          "location": "Canada",
           "severity": 75,
-          "description": "兄弟の自殺をきっかけとした農民の抗議デモが2日目に突入し、交通がマヒしています。これは農業問題と金融不安が複合的に絡み合った深刻な社会不安を表しています。",
-          "source": "Tribune India"
-        },
-        {
-          "title": "ネパールで元首相の保釈却下、社会不安続く",
-          "location": "ネパール",
-          "severity": 60,
-          "description": "元首相の保釈が却下されたことで、ネパールでは社会不安が続いています。元首相支持者による抗議活動も確認されており、政治的緊張が依然として高い状態です。",
+          "description": "カナダのフードバンクが「前例のない」需要増加によりサービスを縮小。食料支援システムへの大きな圧力が、広範な食料不安と貧困の深刻化を示唆している。",
           "source": "MSN"
         },
         {
-          "title": "インドで商業用LPGシリンダー不足が報告される",
-          "location": "インド",
-          "severity": 50,
-          "description": "インドのホテル業界が商業用LPGシリンダーの不足を訴えています。これは企業活動に直接的な影響を及ぼし、経済全体に不安を広げる可能性があります。",
-          "source": "thehindu.com"
+          "title": "Benque Border Staff Shortage Raises Protest Concerns",
+          "location": "Belize",
+          "severity": 40,
+          "description": "ベリーズの国境で職員不足が抗議懸念を引き起こしている。行政サービスの不備が市民の不満と抗議活動を招く可能性がある。",
+          "source": "Greater Belize Media"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 68,
+      "status": "volatile",
+      "main_cause": "エネルギー不足（燃料）、国際情勢",
+      "incidents": [
+        {
+          "title": "Europe is in dire straits, could run out of fuel within weeks as Iran war continues",
+          "location": "Europe",
+          "severity": 90,
+          "description": "イラン戦争の継続により、ヨーロッパが数週間以内に燃料枯渇に陥る可能性が指摘され、深刻な危機状態にある。広範囲にわたる社会インフラの停止が懸念されている。",
+          "source": "MSN"
+        },
+        {
+          "title": "‘No fuel at all’: Belfast petrol stations run dry or near empty",
+          "location": "Belfast, UK",
+          "severity": 75,
+          "description": "ベルファストのガソリンスタンドで燃料が枯渇またはほぼ空の状態。イラン戦争の影響で価格も過去3年で最高値となり、具体的な生活への影響が顕在化している。",
+          "source": "Belfast Telegraph"
+        },
+        {
+          "title": "Keir Starmer to meet energy chiefs as fears of UK fuel shortage grow",
+          "location": "UK",
+          "severity": 60,
+          "description": "英国で燃料不足への懸念が高まり、政府とエネルギー業界トップが会談。供給不安が経済と市民生活に与える影響が懸念され、対策が急務となっている。",
+          "source": "thenationalnews.com"
+        },
+        {
+          "title": "Armenian human rights activist on protest in front of Central Bank",
+          "location": "Armenia",
+          "severity": 45,
+          "description": "アルメニアで人権活動家が中央銀行前で抗議活動を実施。具体的な金融不安の言及はないが、政府や既存のシステムへの不満が示されている。",
+          "source": "news.am"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 77,
+      "status": "volatile",
+      "main_cause": "エネルギー不足（燃料）、民族的対立、暴力的な抗議",
+      "incidents": [
+        {
+          "title": "Hundreds of fuel stations run dry 24 hours before record price hikes in South Africa",
+          "location": "South Africa",
+          "severity": 85,
+          "description": "南アフリカで記録的な燃料価格高騰の24時間前に、数百のガソリンスタンドが燃料切れ。広範囲にわたる供給不足と価格変動が市民にパニックを引き起こしている。",
+          "source": "Business Tech"
+        },
+        {
+          "title": "Protest turns violent over Nigerian ‘Igbo King’ coronation",
+          "location": "South Africa",
+          "severity": 80,
+          "description": "南アフリカで「イボ族の王」戴冠式を巡り、暴力的な抗議活動が発生。民族間の緊張がエスカレートし、公共の場で暴力的な衝突が起きている。",
+          "source": "Algoa FM"
+        },
+        {
+          "title": "AbaThembu kingdom demands accountability after KuGompo ‘Nigerian king’ unrest",
+          "location": "KuGompo, South Africa",
+          "severity": 65,
+          "description": "南アフリカのKuGompoで発生した「ナイジェリアの王」を巡る騒動後、アバセンブ王国が説明責任を要求。民族的・政治的対立が地域の混乱を招いている。",
+          "source": "citizen.co.za"
         }
       ]
     }

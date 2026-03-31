@@ -1,54 +1,19 @@
 {
   "date": "2026-03-31",
-  "summary": "イラン戦争の影響でエネルギー価格が急騰し、インフレが加速。主要国の金利引き上げ観測も高まり、金融市場は不安定化。暗号資産市場もボラティリティが高く、リスクオフの動きが見られる。",
-  "overall_risk_level": "critical",
+  "summary": "米国-イラン戦争の影響で原油価格が上昇し、インフレ懸念が高まる中、金融市場は不安定な状況。特に暗号資産市場は量子コンピュータのリスクや規制の不確実性により、下落傾向が強まっている。地政学的リスクと技術的リスクが複合的に作用し、市場全体のリスクレベルは高い。",
+  "overall_risk_level": "high",
   "articles": [
-    {
-      "title": "Euro zone inflation smashes through ECB target to 2.5% in March as energy costs soar",
-      "region": "europe",
-      "risk_level": "high",
-      "summary": "ユーロ圏の3月インフレ率がECB目標の2.5%を突破。エネルギー価格の高騰が主な要因。",
-      "analysis": "ユーロ圏のインフレ率上昇は、ECBの金融政策に大きな影響を与える。利上げ圧力が強まり、景気後退のリスクも高まる可能性がある。エネルギー価格高騰の背景には、中東情勢の不安定化があり、地政学的リスクがインフレを加速させる構図となっている。企業収益の圧迫や消費者の購買力低下も懸念される。",
-      "key_entities": [
-        "ECB",
-        "ユーロ圏",
-        "エネルギー価格"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Trump's Iran War Just Triggered A Second Shockwave — This One Is In The Bond Market",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "トランプ政権のイラン戦争が債券市場に衝撃。リスクオフの動きが加速。",
-      "analysis": "イラン戦争の激化は、安全資産とされる債券への需要を高め、債券価格を上昇させている。しかし、同時にインフレ懸念も高まり、長期金利の上昇圧力も強まっている。債券市場のボラティリティが拡大し、金融市場全体の不安定化を招く可能性がある。特に、新興国債券への影響が懸念される。",
-      "key_entities": [
-        "米国債",
-        "イラン",
-        "トランプ政権"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
     {
       "title": "U.S. gasoline hits $4 per gallon, highest since 2022, as Iran war drives up fuel prices",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イラン戦争の影響で米国のガソリン価格が2022年以来の高水準に。",
-      "analysis": "ガソリン価格の上昇は、米国の消費者心理を悪化させ、個人消費を抑制する可能性がある。また、企業の輸送コスト増加にもつながり、サプライチェーンの混乱を招く恐れがある。インフレ圧力の高まりは、FRBの金融政策をよりタカ派的にする可能性があり、景気後退のリスクを高める。",
+      "summary": "米国とイランの戦争によりガソリン価格が1ガロンあたり4ドルに達し、2022年以来の高水準。家計への経済的影響が深刻化している。",
+      "analysis": "イラン戦争による原油供給の混乱がガソリン価格の高騰を招き、インフレ圧力を強めている。消費者支出の減少や、関連産業への悪影響が懸念される。米国経済全体への影響を注視する必要がある。原油価格の変動は、金融政策にも影響を与え、金利引き上げの可能性を高める。",
       "key_entities": [
-        "ガソリン価格",
-        "FRB",
-        "イラン戦争"
+        "米国政府",
+        "イラン政府",
+        "OPEC",
+        "米国の石油会社"
       ],
       "sources": [
         "CNBC - Top News"
@@ -58,15 +23,18 @@
       ]
     },
     {
-      "title": "Iran's attacks on aluminum producers are sending 'shockwaves' through the metals market",
+      "title": "Stocks, bonds and commodities: How global markets have traded the Iran war",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イランのアルミ生産施設への攻撃が金属市場に衝撃。供給危機への懸念が高まる。",
-      "analysis": "アルミ価格の高騰は、製造業のコスト増加につながり、インフレ圧力を高める。特に、自動車産業や建設産業への影響が大きい。供給不安が長期化すれば、世界経済の成長を阻害する要因となる可能性がある。代替材料への需要が高まる可能性もある。",
+      "summary": "イラン戦争開始以降、株式、債券、商品市場は全体的に不安定な状況が続いている。",
+      "analysis": "イラン戦争は、地政学的リスクを高め、投資家のリスク回避姿勢を強めている。特に原油価格の上昇は、インフレ懸念を増大させ、中央銀行の金融政策に影響を与える可能性がある。安全資産への資金移動や、特定のセクター（防衛、エネルギー）への選別的な投資が見られる。戦争の長期化は、さらなる市場の混乱を招く恐れがある。",
       "key_entities": [
-        "アルミ価格",
-        "イラン",
-        "金属市場"
+        "S&P 500",
+        "NASDAQ",
+        "ダウ平均",
+        "米国債",
+        "金",
+        "原油"
       ],
       "sources": [
         "CNBC - Top News"
@@ -76,33 +44,15 @@
       ]
     },
     {
-      "title": "South Korea proposes extra $17 billion budget to cushion energy costs fueled by Iran war",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "韓国がイラン戦争によるエネルギー価格高騰対策として170億ドルの追加予算を提案。",
-      "analysis": "韓国はエネルギー輸入依存度が高く、中東情勢の影響を受けやすい。追加予算は、エネルギー価格高騰による経済への影響を緩和する目的があるが、財政負担の増加につながる可能性もある。ウォン安が進む可能性もあり、輸入インフレを招く恐れもある。",
-      "key_entities": [
-        "韓国",
-        "エネルギー価格",
-        "イラン戦争"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Gold on track for worst month since 2008 as Iran war enters its fifth week",
+      "title": "Moscow is profiting from the Iran war for now — but experts say Russia's economy is in the 'death zone'",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "イラン戦争が5週目に入り、金価格が2008年以来最悪の月となる見込み。",
-      "analysis": "通常、地政学的リスクが高まると安全資産である金への需要が高まるが、今回は金利上昇期待がそれを上回っている。長期金利の上昇は、金の保有コストを高め、投資家の関心をそらしている。金価格の下落は、インフレヘッジとしての金の役割を弱める可能性がある。",
+      "summary": "イラン戦争によるエネルギー価格の高騰がロシア経済に一時的な恩恵をもたらしているが、専門家はロシア経済が長期的に「死の淵」にあると警告している。",
+      "analysis": "エネルギー価格の上昇は、ロシアの歳入を増加させるが、同時にインフレを加速させ、国内経済の不安定化を招く可能性がある。西側諸国からの経済制裁の影響も依然として大きく、長期的な経済成長は困難と見られる。地政学的リスクと経済的脆弱性が複合的に作用し、ロシア経済の先行きは不透明。",
       "key_entities": [
-        "金価格",
-        "イラン戦争",
-        "長期金利"
+        "ロシア政府",
+        "プーチン大統領",
+        "ロシア中央銀行"
       ],
       "sources": [
         "CNBC - Top News"
@@ -112,15 +62,15 @@
       ]
     },
     {
-      "title": "Bitcoin demand falters as 'real' interest rates surge",
+      "title": "Breaking Bitcoin with quantum may be easier than thought, with Taproot partly to blame, Google says",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "実質金利の上昇により、ビットコインの需要が減退。",
-      "analysis": "実質金利の上昇は、リスク資産であるビットコインの魅力を低下させる。投資家は、より安全で利回りの高い資産に資金をシフトする傾向がある。また、金融引き締め政策が続く場合、ビットコイン市場の流動性が低下し、価格変動が大きくなる可能性がある。",
+      "risk_level": "critical",
+      "summary": "Googleの研究によると、量子コンピュータによるビットコインのハッキングが予想以上に容易になる可能性があり、Taprootがその一因となっている。",
+      "analysis": "量子コンピュータの発展は、暗号資産のセキュリティを脅かす深刻なリスク要因となる。特に、ビットコインのTaprootアップデートは、量子コンピュータ攻撃に対する脆弱性を高める可能性がある。暗号資産市場全体に大きな影響を与え、価格の暴落や信頼の低下を招く恐れがある。量子耐性を持つ暗号技術の開発が急務となっている。",
       "key_entities": [
         "ビットコイン",
-        "実質金利",
-        "金融引き締め"
+        "Google",
+        "量子コンピュータ開発企業"
       ],
       "sources": [
         "CoinDesk"
@@ -130,57 +80,108 @@
       ]
     },
     {
-      "title": "Stock futures rise as oil prices ease after report says Trump looking to end Iran war: Live updates",
-      "region": "middle_east",
-      "risk_level": "low",
-      "summary": "トランプ政権がイラン戦争終結を検討との報道を受け、原油価格が下落し、株価先物が上昇。",
-      "analysis": "地政学的リスクの緩和期待は、株式市場にポジティブな影響を与える。しかし、戦争終結が実現するかどうかは不透明であり、依然としてリスク要因は残る。原油価格の変動は、インフレ動向に影響を与え、金融政策の方向性を左右する可能性がある。",
+      "title": "Downside risk remains as bitcoin nears record-tying six-month losing streak",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "ビットコインは過去最長の6ヶ月連続下落に近づいており、下落リスクが依然として高い。",
+      "analysis": "金利上昇、規制の不確実性、量子コンピュータのリスクなど、複数の要因がビットコイン価格の下落を招いている。投資家のリスク回避姿勢が強まり、資金流出が加速する可能性がある。テクニカル分析からも、下落トレンドが継続する可能性が高い。慎重な投資判断が求められる。",
       "key_entities": [
-        "株価先物",
-        "原油価格",
-        "トランプ政権"
+        "ビットコイン"
       ],
       "sources": [
-        "CNBC - Top News"
+        "CoinDesk"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
-      "region": "east_asia",
+      "title": "Microsoft hit with UK competition regulator probe over software business",
+      "region": "europe",
       "risk_level": "medium",
-      "summary": "ホルムズ海峡の閉鎖により、中国のサプライヤーが米国向け製品の値上げを警告。",
-      "analysis": "ホルムズ海峡の閉鎖は、世界のサプライチェーンに大きな影響を与える。特に、中国からの輸入に依存している米国企業は、コスト増加に直面する可能性がある。米中間の貿易摩擦が激化する可能性もあり、世界経済の成長を阻害する要因となる。",
+      "summary": "英国の競争規制当局が、マイクロソフトのソフトウェア事業に対する調査を開始した。",
+      "analysis": "クラウド市場におけるマイクロソフトの支配的な地位が、競争を阻害している疑いがある。調査の結果次第では、マイクロソフトに対する制裁金や事業分割命令が下される可能性もある。欧州市場におけるマイクロソフトの事業展開に大きな影響を与える可能性がある。",
       "key_entities": [
-        "中国",
-        "米国",
-        "ホルムズ海峡"
+        "マイクロソフト",
+        "英国競争・市場庁 (CMA)"
       ],
       "sources": [
         "CNBC - Top News"
       ],
       "source_types": [
-        "media"
+        "media",
+        "government"
       ]
     },
     {
-      "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
+      "title": "Nvidia stock pops 9% as Nvidia takes $2 billion stake, continuing run of similar bets",
       "region": "global",
       "risk_level": "low",
-      "summary": "パウエルFRB議長は、インフレ見通しは抑制されており、原油価格ショックによる利上げの必要はないと発言。",
-      "analysis": "パウエル議長の発言は、市場に安心感を与える可能性がある。しかし、インフレが予想以上に高止まりした場合、FRBは利上げに転じる可能性もある。金融政策の不確実性は、市場のボラティリティを高める要因となる。",
+      "summary": "NvidiaがMarvell株を20億ドル取得し、株価が9%上昇。同様の投資をCoreWeave、Nebius、Coherentにも行っている。",
+      "analysis": "Nvidiaの積極的な投資戦略は、AIインフラストラクチャ市場におけるリーダーシップを強化する意図が見られる。Marvell株の取得は、半導体サプライチェーンの安定化にも貢献する可能性がある。ただし、過剰な投資は、将来的な財務リスクを高める可能性もある。",
       "key_entities": [
-        "パウエル",
-        "FRB",
-        "インフレ"
+        "Nvidia",
+        "Marvell",
+        "CoreWeave",
+        "Nebius",
+        "Coherent"
       ],
       "sources": [
         "CNBC - Top News"
       ],
       "source_types": [
         "media"
+      ]
+    },
+    {
+      "title": "Wall Street Downgrades Procter & Gamble Amid Iran War Cost Pressures and More",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "ウォール街は、イラン戦争によるコスト圧力などを理由に、プロクター・アンド・ギャンブル（P&G）の格付けを引き下げた。",
+      "analysis": "イラン戦争による原材料価格の上昇や輸送コストの増加が、P&Gの収益を圧迫している。消費者の購買力低下も、P&Gの販売量に悪影響を与える可能性がある。格付けの引き下げは、P&Gの株価下落を招き、投資家の信頼を損なう可能性がある。",
+      "key_entities": [
+        "プロクター・アンド・ギャンブル (P&G)"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Rotate your European portfolio to prepare for stagflation risk, Goldman Sachs says",
+      "region": "europe",
+      "risk_level": "high",
+      "summary": "ゴールドマン・サックスは、欧州のポートフォリオをスタグフレーションのリスクに備えるために見直すよう推奨している。",
+      "analysis": "エネルギー価格の高騰とサプライチェーンの混乱が、欧州経済にスタグフレーション（インフレと景気後退の同時進行）のリスクをもたらしている。ゴールドマン・サックスは、ディフェンシブセクターやインフレ連動資産への投資を推奨している。スタグフレーションは、企業収益の悪化や失業率の上昇を招き、社会不安を増大させる可能性がある。",
+      "key_entities": [
+        "ゴールドマン・サックス",
+        "欧州中央銀行 (ECB)"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Credit card APRs have an 'economically meaningful' impact on consumer spending, Boston Fed finds",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ボストン連邦準備銀行の調査によると、クレジットカードのAPR（年率）の上昇は、消費者支出に「経済的に意味のある」影響を与える。",
+      "analysis": "金利上昇は、消費者の借入コストを増加させ、支出を抑制する効果がある。特に、クレジットカード依存度の高い低所得者層への影響が大きい。消費者支出の減少は、経済成長の鈍化を招く可能性がある。金融政策の波及効果を注視する必要がある。",
+      "key_entities": [
+        "ボストン連邦準備銀行",
+        "米国連邦準備制度理事会 (FRB)"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media",
+        "research"
       ]
     }
   ],
@@ -188,9 +189,12 @@
     "global": "critical",
     "north_america": "high",
     "europe": "high",
-    "east_asia": "medium"
+    "east_asia": "medium",
+    "south_america": "none",
+    "africa": "none",
+    "middle_east": "high"
   },
-  "generated_at": "2026-03-31T10:09:02.890915",
+  "generated_at": "2026-03-31T13:42:59.001130",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
