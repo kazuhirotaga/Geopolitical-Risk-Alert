@@ -1,122 +1,123 @@
 {
-  "date": "2026-03-30",
-  "summary": "世界各地では、中東における軍事衝突による住民のパニックが深刻化し、インド・ネパールを含む東南アジア地域では、燃料不足とそれに伴う大規模な抗議活動が社会不安を増大させています。欧州では地域的な燃料不足と金融市場の不確実性が見られますが、北米は比較的安定しています。全体として、エネルギー供給問題と地政学的緊張が市民生活に直接影響を及ぼし、一部地域で警戒状態が続いており、世界全体のパニック指数は中程度です。",
-  "global_panic_index": 58,
+  "date": "2026-03-31",
+  "summary": "世界各地で複数の要因による社会不安が顕在化しています。中東では紛争による直接的なパニックが発生し、南アジアでは燃料不足がパニック買いや大規模な抗議活動に発展。ヨーロッパの一部地域でも燃料供給不安からパニック買いが見られます。政治的混乱に伴うデモや特定の社会問題に起因する抗議活動も各地で報告されており、多くの地域で警戒レベル以上の緊迫状態が続いています。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "middle_east",
       "panic_index": 90,
       "status": "critical",
-      "main_cause": "軍事衝突、地政学的緊張",
+      "main_cause": "紛争・武力攻撃",
       "incidents": [
         {
-          "title": "イラン・ヒズボラによる攻撃でイスラエル北部がパニックに",
-          "location": "イスラエル北部",
-          "severity": 90,
-          "description": "イランのミサイル攻撃とヒズボラのドローン攻撃により、イスラエル北部で住民がパニックに陥り、「逃げろ」との声が飛び交うなど混乱が広がっている。",
+          "title": "イランのミサイル攻撃とイスラエルへのドローン攻撃によるパニック発生",
+          "location": "イラン、イスラエル",
+          "severity": 95,
+          "description": "イランによるミサイル攻撃とヒズボラによるドローン攻撃がイスラエル北部を襲い、「逃げろ」という呼びかけとともに広範なパニックが発生。住民の安全が脅かされており、緊急事態となっている。",
           "source": "The Times of India"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 65,
+      "region": "south_asia",
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "エネルギー不足、大規模な抗議デモ、政治的混乱",
+      "main_cause": "燃料不足、生活必需品の供給不安、政治的混乱",
       "incidents": [
         {
-          "title": "インド・ハイデラバードで燃料不足が深刻化、パニック買いとデモ",
-          "location": "インド、ハイデラバード",
-          "severity": 95,
-          "description": "LPG・ガソリン不足がハイデラバードで深刻化し、ガソリンスタンドでは「在庫なし」の表示。オートドライバーが携帯電話タワーに登り抗議する事態に発展した。",
-          "source": "msn.com, The Hindu"
+          "title": "インド・ハイデラバードでの燃料パニック買いと供給不足",
+          "location": "インド・ハイデラバード",
+          "severity": 80,
+          "description": "LPGとガソリンの不足が深刻化し、ハイデラバードではガソリンのパニック買いが発生。ガソリンスタンドは「在庫なし」の看板を掲げ、ポンプが空になる事態に陥り、市民生活に混乱が生じている。",
+          "source": "MSN"
         },
         {
-          "title": "ネパールで政治的混乱と抗議デモが続く",
-          "location": "ネパール各地",
-          "severity": 60,
-          "description": "ネパールでは政治的「unrest」が続き、元首相や元大臣の拘留を巡り支持者による抗議デモが発生している。参加者は減少傾向にある。",
-          "source": "msn.com, tribuneindia.com"
-        },
-        {
-          "title": "インドで商業用LPGシリンダー不足、ホテル業界も懸念",
-          "location": "インド",
+          "title": "インド・ハイデラバードでの燃料不足抗議、モバイルタワー占拠",
+          "location": "インド・ハイデラバード",
           "severity": 70,
-          "description": "インドでは商業用LPGシリンダーの不足が顕在化し、テランガナ州では政府がオートサービスへの影響に対応。ホテル業界からも懸念の声が上がっている。",
-          "source": "The Hindu"
+          "description": "CNGやLPGの深刻な不足に対し、ハイデラバードのオートリクシャー運転手らがモバイルタワーによじ登るなどの過激な抗議活動を展開。燃料不足が交通システムと市民生活に大きな影響を与えている。",
+          "source": "MSN, The Hindu, Telangana Today"
         },
         {
-          "title": "インドの銀行株が急落、RBIの為替投機抑制策が影響",
+          "title": "ネパールで元首相拘束を巡る大規模な抗議活動と騒乱の継続",
+          "location": "ネパール",
+          "severity": 65,
+          "description": "ネパールでは元首相の拘束を巡り、数週間にわたり抗議デモや騒乱が続いている。警察による拘束延長措置がとられ、社会の緊張が高まっているが、参加者数は減少傾向にあるとの報道もある。",
+          "source": "MSN, tribuneindia.com"
+        },
+        {
+          "title": "インドの銀行株急落",
           "location": "インド",
-          "severity": 55,
-          "description": "インド準備銀行（RBI）の為替投機抑制策を受け、インドの銀行株指数（Bank Nifty）が3%下落。金融市場に動揺が広がっている。",
+          "severity": 40,
+          "description": "インド準備銀行（RBI）の外国為替投機抑制策を受け、Bank Niftyが3%急落。AU SFBやYes Bankが大幅な損失を記録し、金融市場に不安が広がっている。",
           "source": "TradingView"
-        },
-        {
-          "title": "インドで農民が銀行前で抗議活動",
-          "location": "インド、ファリドコット",
-          "severity": 45,
-          "description": "ファリドコットで兄弟の自殺を巡り、農民たちが土地担保銀行前で抗議活動を実施。当局に対し行動を求めている。",
-          "source": "tribuneindia.com"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 45,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "エネルギー不足、金融市場の不確実性",
+      "main_cause": "燃料不足、供給網の不安",
       "incidents": [
         {
-          "title": "マン島でディーゼル不足、パニック買い警告発令",
-          "location": "マン島",
-          "severity": 80,
-          "description": "マン島でディーゼル燃料ポンプが枯渇し、給油に£20の制限が課された。当局はドライバーに対し「パニック買いしないように」と警告している。",
+          "title": "イギリス領マン島でのディーゼル燃料不足とパニック買い",
+          "location": "イギリス領マン島",
+          "severity": 75,
+          "description": "マン島ではディーゼルポンプが枯渇し、「パニック買いをしないように」との警告が出され、1台あたり20ポンドの購入制限が課されている。燃料供給の不安定さが住民に不安を与えている。",
           "source": "Isle of Man Today"
         },
         {
-          "title": "イラン情勢とAIで欧州銀行株が動揺",
-          "location": "欧州",
-          "severity": 30,
-          "description": "イラン情勢とAIの進化が欧州の銀行株に影響を与え、過去最高の連続上昇が途切れる見込み。金融市場に不確実性が漂う。",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "イギリスでキットカット不足の可能性が浮上",
+          "title": "イギリスでのキットカット不足懸念",
           "location": "イギリス",
-          "severity": 25,
-          "description": "イースター期間中、イギリスで人気菓子キットカットの供給不足の可能性が報じられた。消費者間で軽い懸念が広がっている。",
-          "source": "bbc.co.uk"
+          "severity": 30,
+          "description": "イースター期間中に人気菓子キットカットの不足が懸念されており、消費者の間で軽い不安が広がっている。",
+          "source": "BBC"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 20,
-      "status": "stable",
-      "main_cause": "食料不安（潜在的）",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "社会政策への抗議",
       "incidents": [
         {
-          "title": "アメリカでフードバンクが移動式食料配布イベントを開催",
-          "location": "アメリカ、コーパスクリスティ",
-          "severity": 20,
-          "description": "食料不安を抱える地域住民を支援するため、Coastal Bend Food Bankが移動式生鮮食品配布イベントを定期的に開催している。",
-          "source": "KRIS 6 News Corpus Christi"
+          "title": "ICE抗議デモでの死者と全国的な怒り",
+          "location": "アメリカ",
+          "severity": 60,
+          "description": "米国移民・関税執行局（ICE）を巡る抗議デモで死者が発生し、この事態が全国的な怒りを引き起こしている。社会的な緊張と政府への不信感が高まっている。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "大規模な抗議デモ（暴力化）",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "社会問題・民族問題に起因する抗議",
       "incidents": [
         {
-          "title": "ナイジェリアで「イボ族の王」戴冠式を巡る抗議が暴力化",
+          "title": "ナイジェリアでの「イグボ族の王」戴冠式を巡る暴力的な抗議",
           "location": "ナイジェリア",
-          "severity": 70,
-          "description": "ナイジェリアで「イボ族の王」の戴冠式に反対する抗議活動が暴力化し、社会秩序への懸念が高まっている。",
+          "severity": 50,
+          "description": "ナイジェリアで「イグボ族の王」の戴冠式を巡り、抗議が暴力的なものへと発展した。地域の社会秩序と安定が脅かされている。",
           "source": "Algoa FM"
+        }
+      ]
+    },
+    {
+      "region": "central_america",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "行政サービス不足への懸念",
+      "incidents": [
+        {
+          "title": "ベリーズ国境職員不足による抗議懸念",
+          "location": "ベリーズ",
+          "severity": 35,
+          "description": "ベリーズのベンケ国境で職員不足が報告されており、これに対し抗議活動が発生する懸念が高まっている。国境機能への影響が懸念される。",
+          "source": "Greater Belize Media"
         }
       ]
     }

@@ -1,5 +1,122 @@
 [
   {
+    "date": "2026-03-31",
+    "summary": "中東におけるイスラエル・ヒズボラ間の戦闘激化、イランを巡る米国の軍事作戦準備、ウクライナでのドローン攻撃と防衛に関する動きが確認された。欧州では防衛力強化の議論が活発化。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-03-27",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエルとヒズボラの戦闘激化",
+        "content": "イスラエルとヒズボラの攻撃が激化し、戦闘地域が拡大。ヒズボラ戦闘員は攻撃後、地形を利用して撤退する戦術をとっている。",
+        "involved_parties": [
+          "イスラエル",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-03-27",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ、イランへ数百のトマホークミサイル使用",
+        "content": "アメリカ軍はイランに対して数百発のトマホークミサイルを使用。この精密兵器の使用ペースは、国防総省の一部関係者を懸念させている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/27/us-uses-hundreds-of-tomahawk-missiles-on-iran-alarming-some-at-pentagon/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-03-26",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "アメリカ軍、無人ドローンボートをイランとの紛争に投入",
+        "content": "アメリカ軍は、イランとの紛争において無人ドローンボートを初めて使用。これはロイターが報じた。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-03-27",
+        "location": "バルト三国",
+        "region": "europe",
+        "title": "ウクライナのドローンがバルト三国に侵入",
+        "content": "ウクライナのドローンがバルト三国すべてに侵入。ロシアがドローンを積極的にリダイレクトしているのか、電子戦防御と飛行距離の副産物なのかは不明。",
+        "involved_parties": [
+          "ウクライナ",
+          "ロシア",
+          "バルト三国"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-03-30",
+        "location": "ヨーロッパ",
+        "region": "europe",
+        "title": "ミサイル搭載のエアバス迎撃機がテストで一方通行攻撃ドローンと交戦",
+        "content": "ドローンとミサイルの組み合わせにより、大規模な迎撃が経済的に実行可能になるとメーカーは主張。",
+        "involved_parties": [
+          "エアバス"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/30/missile-wielding-airbus-interceptor-engages-one-way-attack-drone-in-test/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-03-28",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "USSトリポリ、第31海兵遠征部隊が中東に到着",
+        "content": "トリポリ強襲準備グループと第31海兵遠征部隊が金曜日にCENTCOM水域に進入。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/28/uss-tripoli-embarked-31st-marine-expeditionary-unit-arrive-in-middle-east/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-03-30",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米国がイランでの数週間にわたる地上作戦を準備",
+        "content": "最近ではトリポリ揚陸即応グループと第31海兵遠征部隊が地域に続々と集結。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/29/pentagon-reportedly-preparing-for-weeks-of-ground-operations-in-iran/"
+      }
+    ]
+  },
+  {
     "date": "2026-03-30",
     "summary": "イランを巡る緊張が高まる中、アメリカは無人艇を投入し、地上作戦の準備を進めている。レバノンではイスラエルとヒズボラの戦闘が激化。ウクライナはドローン防衛技術を輸出する一方、自国へのドローン攻撃も発生。日本はトマホークミサイルを装備し、防衛体制を強化。",
     "events": [

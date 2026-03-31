@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-03-31",
+    "summary": "中東情勢の緊迫化により原油価格が上昇し、世界経済に悪影響を及ぼしている。特にアジア市場は大きく下落。米国ではインフレ懸念が再燃し、株式市場も不安定。暗号資産市場も原油価格上昇の影響を受けている。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "critical",
+      "north_america": "medium",
+      "europe": "medium",
+      "east_asia": "high"
+    },
+    "generated_at": "2026-03-31T02:44:57.082226"
+  },
+  {
     "date": "2026-03-30",
     "summary": "中東情勢の緊迫化による原油価格高騰、インフレ懸念、及び暗号資産市場の変動が金融市場全体に影響を与えている。地政学的リスクと金融政策の不確実性が高まり、全体的なリスクレベルは高い。",
     "overall_risk_level": "high",
