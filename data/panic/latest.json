@@ -1,130 +1,167 @@
 {
   "date": "2026-03-31",
-  "summary": "世界各地でパニックと社会不安が高まっています。中東地域では武力紛争と政治的暴力が深刻なパニック状況を引き起こし、大規模な社会秩序の崩壊が見られます。南アジア（レポート上は便宜的に東南アジアに分類）では、エネルギー供給不足がパニック買いや大規模な抗議活動に発展し、一部都市で混乱が生じています。ヨーロッパの一部地域では燃料不足による買いだめと供給制限が発生し、北米でも社会的な抗議活動が続いており、全体的に「警戒状態」が継続しています。",
-  "global_panic_index": 85,
+  "summary": "世界全体では、地域紛争に起因する直接的なパニックから、エネルギー不足、食料不安、政治的混乱に伴う抗議デモの発生など、様々な要因による社会不安が増大しています。特に中東では武力衝突による危機的な状況が継続しており、アフリカでも燃料不足や抗議活動の暴力化により社会秩序が不安定化しています。北米やアジアの一部地域では、食料供給のひっ迫やエネルギー問題、政治的不安が広範な懸念を引き起こしており、全体として警戒が必要な局面を迎えています。",
+  "global_panic_index": 55,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "社会的分裂、大規模な抗議活動",
-      "incidents": [
-        {
-          "title": "ICE protest deaths spark national outrage",
-          "location": "U.S.",
-          "severity": 70,
-          "description": "米国で、移民税関捜査局(ICE)関連の抗議デモ中に死者が出たことで全国的な怒りが広がり、大規模な社会抗議活動につながっています。社会的分裂と緊張が高まっている状況です。",
-          "source": "MSN"
-        },
-        {
-          "title": "Benque Border Staff Shortage Raises Protest Concerns",
-          "location": "Belize",
-          "severity": 40,
-          "description": "ベリーズの国境で職員不足が深刻化し、国境業務の滞りから抗議デモ発生への懸念が高まっています。今後の社会不安に発展する可能性が指摘されています。",
-          "source": "Greater Belize Media"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "エネルギー供給不足、買いだめ",
-      "incidents": [
-        {
-          "title": "Drivers told 'don't panic buy' as diesel pumps run dry and £20 limits imposed",
-          "location": "Isle of Man",
-          "severity": 75,
-          "description": "マン島でディーゼル燃料が不足し、ガソリンスタンドが枯渇。ドライバーに対し「パニック買い」をしないよう呼びかけられ、購入制限が課されるなど、住民の燃料不安が高まっています。",
-          "source": "Isle of Man Today"
-        }
-      ]
-    },
-    {
       "region": "middle_east",
-      "panic_index": 95,
+      "panic_index": 90,
       "status": "critical",
-      "main_cause": "武力紛争、政治的暴力、大規模な社会秩序の崩壊",
+      "main_cause": "地域紛争、武力衝突",
       "incidents": [
         {
-          "title": "Iran Rains Missiles, Hezbollah Swarms Northern Israel With Drones; Panic Ensues",
-          "location": "Northern Israel",
+          "title": "イランとヒズボラのミサイル・ドローン攻撃によりパニック発生",
+          "location": "イラン、イスラエル",
           "severity": 90,
-          "description": "イランによるミサイル攻撃とヒズボラによるドローン侵攻により、イスラエル北部で「逃げろ」との叫びが響き渡り、住民がパニックに陥っています。武力紛争による直接的な生命の危機です。",
+          "description": "イランからのミサイル攻撃とヒズボラによるドローン攻撃がイスラエル北部を襲い、住民の間で大規模なパニックが発生しました。市民は避難を呼びかけられ、地域全体の緊張が極めて高まっています。",
           "source": "The Times of India"
-        },
-        {
-          "title": "Gilgit-Baltistan Unrest: 13 Dead, Curfew Imposed, Army Deployed After Violent Protests",
-          "location": "Gilgit-Baltistan, Pakistan",
-          "severity": 95,
-          "description": "パキスタン管理下のギルギット・バルティスタンで、イラン最高指導者暗殺を巡る暴力的抗議デモにより13名が死亡。外出禁止令が発令され、軍隊が配備されるなど、社会秩序が完全に崩壊した危機的状況です。",
-          "source": "pamirtimes.net"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "エネルギー供給不足、買いだめ、政治的不安",
-      "incidents": [
-        {
-          "title": "LPG, petrol shortage: Petrol panic buying hits Hyderabad, stations put up 'no stock' board",
-          "location": "Hyderabad, India",
-          "severity": 85,
-          "description": "インドのハイデラバードでLPGとガソリンが不足し、市民がパニック買いに走り、多くのガソリンスタンドが「在庫なし」の看板を掲げて閉鎖。エネルギー危機が直接的なパニックを引き起こしています。",
-          "source": "MSN"
-        },
-        {
-          "title": "Auto drivers in Hyderabad protest by climbing mobile tower over CNG shortage",
-          "location": "Hyderabad, India",
-          "severity": 75,
-          "description": "インドのハイデラバードでCNG不足に抗議するため、オートリキシャの運転手がモバイルタワーによじ登るという切迫したデモを敢行。生活基盤に関わるエネルギー不足が社会不安を増幅させています。",
-          "source": "MSN"
-        },
-        {
-          "title": "Faridkot brothers’ suicide: Farmers protest outside land mortgage bank; seek action",
-          "location": "Faridkot, India",
-          "severity": 65,
-          "description": "インドのファリドコットで兄弟の自殺を受け、農民らが土地抵当銀行前で抗議デモを実施。農家の経済的苦境と金融機関への不満が表面化し、社会的な緊張が高まっています。",
-          "source": "Tribune India"
-        },
-        {
-          "title": "Oli, Lekhak remanded amid protest unrest",
-          "location": "Nepal",
-          "severity": 60,
-          "description": "ネパールで、政治的不安と抗議デモが続く中、元首相のオリ氏らが勾留されました。政治の混乱が社会的な不安定さを招き、デモ活動が散発的に発生している状況です。",
-          "source": "MSN"
-        },
-        {
-          "title": "Hoteliers flag shortage of commercial LPG cylinders",
-          "location": "India",
-          "severity": 60,
-          "description": "インドでホテル経営者が商業用LPGシリンダーの不足を訴えており、産業界にエネルギー不足の影響が広がりつつあります。経済活動への懸念が社会不安の一因となっています。",
-          "source": "The Hindu"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "情報不足",
-      "incidents": []
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、大規模な抗議デモの暴力化、社会秩序の混乱",
+      "incidents": [
+        {
+          "title": "ナイジェリアで抗議デモが暴力化し都市が荒廃",
+          "location": "ナイジェリア",
+          "severity": 80,
+          "description": "ナイジェリアの「イグボ王」戴冠を巡る抗議デモが暴力化し、東部のある都市が荒廃する事態に発展しました。当局は市民に対し、混乱を避けるよう呼びかけており、社会秩序の深刻な混乱が懸念されます。",
+          "source": "IOL"
+        },
+        {
+          "title": "南アフリカで記録的な値上げ前に140以上のガソリンスタンドが燃料枯渇",
+          "location": "南アフリカ",
+          "severity": 75,
+          "description": "南アフリカでは燃料価格の記録的な値上げが発表される24時間前から、140以上のガソリンスタンドで燃料が枯渇する事態が発生しました。これは買いだめや供給網への不安によるもので、広範囲でエネルギー危機への懸念が高まっています。",
+          "source": "Business Tech"
+        },
+        {
+          "title": "ナイジェリアで儀式を巡る抗議デモが暴力化",
+          "location": "ナイジェリア",
+          "severity": 70,
+          "description": "ナイジェリアで「イグボ王」の戴冠を巡る抗議デモが暴力的な衝突に発展しました。文化的な行事が社会的な分断と混乱を引き起こしており、地域の安定が脅かされています。",
+          "source": "Algoa FM"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "エネルギー不足、政治的不安、農民の抗議",
+      "incidents": [
+        {
+          "title": "インド：農民が銀行前で抗議デモ、兄弟の自殺に端を発する",
+          "location": "インド、ファリードコット",
+          "severity": 65,
+          "description": "インドのファリードコットで、2人の兄弟の自殺を受けて、農民たちが土地抵当銀行の前で大規模な抗議デモを行いました。農家の経済的苦境とそれに伴う社会的不安が顕在化しており、政府の対応が求められています。",
+          "source": "tribuneindia.com"
+        },
+        {
+          "title": "インド：CNG不足に抗議しオート運転手が電波塔に登る",
+          "location": "インド、ハイデラバード",
+          "severity": 60,
+          "description": "インドのハイデラバードで、CNG燃料の深刻な不足に抗議するため、オート運転手が過激な行動として携帯電話の電波塔に登りました。エネルギー不足が市民生活に深刻な影響を与え、抗議活動がエスカレートしています。",
+          "source": "msn.com"
+        },
+        {
+          "title": "ネパール：前首相拘束を巡り抗議デモが勃発",
+          "location": "ネパール",
+          "severity": 55,
+          "description": "ネパールで前首相が拘束されたことを受け、各地で抗議デモが発生しました。政治的な不安定さが国民の間に広がり、治安当局との衝突の可能性も懸念されています。",
+          "source": "msn.com"
+        },
+        {
+          "title": "インド：ガス危機に抗議しオート運転手がデモ",
+          "location": "インド、ハイデラバード",
+          "severity": 55,
+          "description": "インドのハイデラバードでガス不足に抗議するオート運転手によるデモが発生しました。燃料供給の不安定さが公共交通機関の運営に支障をきたし、市民生活に影響を与えています。",
+          "source": "The Hans India"
+        },
+        {
+          "title": "インド：LPG不足に抗議しオートリキシャ運転手がデモ",
+          "location": "インド、ハイデラバード",
+          "severity": 55,
+          "description": "インドのハイデラバードでLPG燃料の不足に抗議するため、オートリキシャの運転手たちがデモを行いました。日々の生活を支える燃料の確保が困難となり、運転手たちの間に不満が募っています。",
+          "source": "Telangana Today"
+        }
+      ]
     },
     {
       "region": "south_america",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "情報不足",
-      "incidents": []
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "経済政策への抗議",
+      "incidents": [
+        {
+          "title": "ボリビアでピエロたちが生計を脅かす政令に抗議デモ",
+          "location": "ボリビア",
+          "severity": 45,
+          "description": "ボリビアのピエロたちが、彼らの生計を脅かす可能性のある新たな政令に対し、街頭で大規模な抗議デモを行いました。政府の政策が特定の職業の人々の生活を圧迫することへの強い不満が表明されています。",
+          "source": "CTV News"
+        }
+      ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "情報不足",
-      "incidents": []
+      "region": "north_america",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "食料不足、行政機能への不安",
+      "incidents": [
+        {
+          "title": "カナダのフードバンクが「前例のない」需要でサービス縮小",
+          "location": "カナダ",
+          "severity": 55,
+          "description": "カナダのフードバンクが「前例のない」需要の増加に直面し、サービス縮小を余儀なくされています。これは広範囲にわたる食料不安の深刻化を示唆しており、困窮する市民への支援が限界に達しつつあります。",
+          "source": "msn.com"
+        },
+        {
+          "title": "ベリーズ国境職員不足が抗議の懸念を高める",
+          "location": "ベリーズ、ベンケ",
+          "severity": 40,
+          "description": "ベリーズのベンケ国境で職員不足が深刻化し、これに対する抗議活動への懸念が高まっています。行政サービスの機能不全が社会不安を引き起こす可能性があり、国境管理の混乱が危惧されます。",
+          "source": "Greater Belize Media"
+        },
+        {
+          "title": "モンタナ州のフードバンクがSNAP申請支援プログラムを拡大",
+          "location": "米国、モンタナ州",
+          "severity": 30,
+          "description": "モンタナ州のフードバンクネットワークが、低所得者向け食料支援プログラム（SNAP）の申請支援を拡大しています。これは食料支援への需要が増加していることを示しており、食料不安が州内で広がりつつある現状を反映しています。",
+          "source": "KPAX News"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 30,
+      "status": "unstable",
+      "main_cause": "エネルギー不足、消費財不足懸念",
+      "incidents": [
+        {
+          "title": "ディーゼル燃料枯渇と買いだめ制限を受け「パニック買いしないよう」呼びかけ",
+          "location": "マン島",
+          "severity": 70,
+          "description": "マン島ではディーゼル燃料のポンプが枯渇し、20ポンドの購入制限が課される事態を受け、運転手たちに「パニック買いしないよう」警告が出されました。燃料不足が顕著になり、買いだめへの懸念が広がっています。",
+          "source": "Isle of Man Today"
+        },
+        {
+          "title": "イースターにキットカットが不足する懸念",
+          "location": "英国",
+          "severity": 20,
+          "description": "イースター期間中に人気チョコレート菓子キットカットが不足する可能性が報じられ、消費者の間で軽微な懸念が広がっています。これはサプライチェーンの問題や需要増が原因と見られています。",
+          "source": "BBC"
+        },
+        {
+          "title": "イランとAIを巡り欧州の銀行株が過去最高の四半期実績を終える",
+          "location": "ヨーロッパ",
+          "severity": 10,
+          "description": "イラン情勢とAI技術の影響を受け、欧州の銀行株が記録的な四半期実績を終える見込みです。これは直接的なパニックではないものの、経済情勢の変動に対する市場の警戒感を示唆しています。",
+          "source": "Bloomberg.com"
+        }
+      ]
     }
   ]
 }

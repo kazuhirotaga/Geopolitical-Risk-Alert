@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-03-31",
-    "summary": "中東情勢が極めて不安定化。アメリカとイランの軍事衝突が継続し、周辺地域への波及も深刻化。エネルギー価格の高騰、国際的なテロリスクの増大、難民問題の深刻化など、複合的なリスクが顕在化している。",
+    "summary": "中東におけるイラン戦争が激化し、原油価格高騰やエネルギー安全保障への懸念が高まっている。ウクライナ情勢も依然として不安定であり、世界的な地政学リスクは極めて高い状況が続いている。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
@@ -10,12 +10,12 @@
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
+      "europe": "high",
       "africa": "medium",
       "north_america": "high",
-      "south_america": "none"
+      "south_america": "medium"
     },
-    "generated_at": "2026-03-31T05:13:28.350302"
+    "generated_at": "2026-03-31T07:22:38.263372"
   },
   {
     "date": "2026-03-30",

@@ -1,17 +1,19 @@
 [
   {
     "date": "2026-03-31",
-    "summary": "中東情勢緊迫化による原油価格変動、量子コンピュータによるビットコインへの脅威、インフレ懸念などが複合的に作用し、金融市場は不安定な状況。リスクオフの動きが強まっている。",
+    "summary": "中東情勢の緊迫化によるエネルギー価格高騰が、世界経済に広範囲な影響を与えている。特にイラン戦争の影響で原油価格が急騰し、インフレ懸念が再燃。株式市場や暗号資産市場も不安定な動きを見せている。地政学的リスクと金融政策の不確実性が高まっている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "medium",
       "north_america": "medium",
-      "europe": "low",
+      "europe": "medium",
       "east_asia": "high",
-      "middle_east": "high"
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-03-31T05:13:52.559088"
+    "generated_at": "2026-03-31T07:23:01.914578"
   },
   {
     "date": "2026-03-30",
