@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-01",
-    "summary": "中東地域での戦闘激化、特にイランを巡る緊張が高まる。イスラエルとヒズボラの攻撃が激化し、レバノンでの戦闘地域が拡大。ウクライナは、ドローン防衛の経験を活かし、湾岸諸国との協力を進める。",
+    "summary": "中東におけるイランとアメリカ間の緊張が高まる中、レバノンではイスラエルとヒズボラの戦闘が激化。ウクライナは各国との防衛協力に向けた動きを活発化させている。",
     "events": [
       {
         "id": "event-001",
@@ -207,6 +207,21 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/03/26/pentagon-reportedly-weighs-diverting-ukraine-military-aid-to-middle-east/"
+      },
+      {
+        "id": "event-13",
+        "timestamp": "2026-03-26",
+        "location": "不明",
+        "region": "europe",
+        "title": "MBDA、2026年にアスター対空ミサイルの生産量を倍増",
+        "content": "同社のアスターミサイルファミリーは、アメリカのパトリオットシステムに対する唯一のヨーロッパの代替手段であるSAMP/T対空防衛システムで使用されている。",
+        "involved_parties": [
+          "MBDA"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/26/mbda-to-double-aster-air-defense-missile-output-in-2026/"
       }
     ]
   },

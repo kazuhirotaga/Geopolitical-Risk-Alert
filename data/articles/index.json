@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-01",
-    "summary": "中東情勢が極めて不安定。アメリカ・イスラエルとイランの軍事衝突が継続し、周辺地域への影響が拡大。ウクライナ情勢も依然として緊迫しており、エネルギー価格高騰や人道危機が深刻化している。",
+    "summary": "中東情勢が極めて不安定化。イランを巡るアメリカ・イスラエルとイラン・ヒズボラの対立が激化し、フーシ派も参戦。ウクライナ情勢も継続し、グローバルなサプライチェーンやエネルギー安全保障に深刻な影響。東アジアでは北朝鮮の脅威に対応する動きも。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
       "southeast_asia": "medium",
-      "south_asia": "medium",
+      "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "medium",
-      "africa": "low",
-      "north_america": "medium",
+      "africa": "none",
+      "north_america": "low",
       "south_america": "low"
     },
-    "generated_at": "2026-04-01T07:28:05.663789"
+    "generated_at": "2026-04-01T10:09:50.054408"
   },
   {
     "date": "2026-03-31",
