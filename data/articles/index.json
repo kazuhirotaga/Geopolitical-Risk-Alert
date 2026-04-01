@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-01",
-    "summary": "中東情勢が極めて不安定化。イラン戦争は激化し、イスラエルとレバノンの緊張も高まっている。エネルギー価格高騰、難民危機、国際機関への攻撃など、地政学的リスクが世界的に拡大している。",
+    "summary": "中東情勢は極めて不安定。アメリカ・イスラエルとイランの軍事衝突が継続し、周辺地域にも影響が拡大。ウクライナ情勢も依然として流動的で、世界経済への影響が懸念される。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
@@ -13,9 +13,9 @@
       "europe": "high",
       "africa": "medium",
       "north_america": "high",
-      "south_america": "none"
+      "south_america": "low"
     },
-    "generated_at": "2026-04-01T02:56:01.819531"
+    "generated_at": "2026-04-01T05:29:10.221315"
   },
   {
     "date": "2026-03-31",
