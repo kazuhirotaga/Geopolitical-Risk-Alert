@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-01",
-    "summary": "中東情勢が極めて不安定化。イランを巡る米国とイスラエルの軍事作戦が継続し、エネルギー危機や人道危機が深刻化。NATOの結束も揺らぎ、ウクライナ情勢にも影響。東アジアでは中国の反発や北朝鮮の脅威も継続。",
-    "overall_risk_level": "critical",
+    "summary": "中東情勢は依然として緊迫しており、アメリカとイランの停戦交渉は不透明。ウクライナ東部ではロシアが支配を拡大。NATOの結束も揺らぎを見せ、世界的な地政学リスクが高まっている。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "medium",
-      "south_asia": "high",
+      "southeast_asia": "low",
+      "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
       "africa": "high",
-      "north_america": "high",
-      "south_america": "none"
+      "north_america": "medium",
+      "south_america": "low"
     },
-    "generated_at": "2026-04-01T19:09:11.821485"
+    "generated_at": "2026-04-01T21:47:16.944444"
   },
   {
     "date": "2026-03-31",
