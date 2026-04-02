@@ -1,20 +1,54 @@
 {
   "date": "2026-04-02",
-  "summary": "イラン戦争激化による原油価格高騰と、それに伴うインフレ懸念が市場を圧迫。暗号資産市場もリスクオフの流れに巻き込まれ、下落傾向。米国の政治的リスクも依然として高い。",
-  "overall_risk_level": "high",
+  "summary": "地政学的リスク（イラン戦争）が原油価格高騰とインフレ懸念を引き起こし、暗号資産市場も不安定化。米国内では規制動向や企業業績への影響も注視される。市場全体に高い警戒感が必要。",
+  "overall_risk_level": "critical",
   "articles": [
     {
-      "title": "U.S. oil prices soar 11% as Trump's Iran war speech stokes fears of further escalation",
+      "title": "U.S. crude on Thursday did something it's never done before as Iran war continues",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "トランプ大統領のイラン戦争に関する演説を受け、紛争長期化への懸念から原油価格が11%急騰。市場はさらなるエスカレーションを警戒。",
-      "analysis": "トランプ大統領の演説は、市場に紛争長期化のシグナルを送った。ホルムズ海峡の封鎖が継続されれば、世界の原油供給に深刻な影響を及ぼし、インフレを加速させる可能性がある。エネルギー価格の高騰は、企業収益の悪化や消費者心理の冷え込みを通じて、世界経済の成長を阻害するリスクを高める。地政学的リスクが金融市場に直接影響を与える典型的な事例であり、投資家はリスク回避姿勢を強めるだろう。",
+      "summary": "イラン戦争継続により、米国原油市場に前例のない事態が発生。トランプ政権が早期終結を期待されているが、市場はそれを織り込んでいない。",
+      "analysis": "イラン戦争の長期化は、原油供給の混乱を招き、価格高騰を招く。これはインフレを加速させ、世界経済の成長を阻害する要因となる。特に、米国経済は原油価格の影響を受けやすく、景気後退のリスクが高まる。トランプ政権の対応が遅れれば、1970年代のオイルショックのような状況に陥る可能性もある。投資家は、エネルギー関連資産へのエクスポージャーを調整し、リスクヘッジ戦略を検討する必要がある。",
+      "key_entities": [
+        "トランプ政権",
+        "米国原油市場",
+        "イラン"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Brent oil spot price for actual cargo soars to $141, highest level since 2008 financial crisis",
+      "region": "global",
+      "risk_level": "critical",
+      "summary": "ブレント原油の現物価格が1バレル141ドルに高騰。2008年の金融危機以来の高水準となり、エネルギー市場に深刻な影響を与えている。",
+      "analysis": "ブレント原油価格の高騰は、世界経済全体にインフレ圧力をかける。輸送コストの上昇は、サプライチェーン全体に波及し、消費財価格の上昇につながる。特に、エネルギー輸入依存度の高い国々では、経済成長の鈍化が懸念される。また、原油価格の上昇は、代替エネルギーへの投資を促進する可能性があるが、短期的にはインフレ抑制策が求められる。市場は、原油価格の変動に大きく影響を受けやすく、ボラティリティが高まる可能性がある。",
+      "key_entities": [
+        "ブレント原油",
+        "エネルギー市場"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Trump's Iran war speech paints a grim picture for oil markets with more than 600 million barrels at risk",
+      "region": "middle_east",
+      "risk_level": "critical",
+      "summary": "トランプ大統領のイラン戦争に関する演説は、原油市場に暗い影を落としている。6億バレル以上の原油供給がリスクに晒されている。",
+      "analysis": "トランプ大統領の強硬姿勢は、イランとの緊張を高め、原油供給の途絶リスクを高めている。ホルムズ海峡の封鎖や、サウジアラビアなどの産油国への攻撃など、地政学的リスクが顕在化している。原油価格のさらなる高騰は、世界経済に深刻な影響を与え、景気後退を招く可能性もある。投資家は、地政学的リスクを考慮し、ポートフォリオのリスクヘッジを強化する必要がある。",
       "key_entities": [
         "トランプ大統領",
         "イラン",
-        "ホルムズ海峡",
-        "WTI原油",
-        "ブレント原油"
+        "原油市場",
+        "ホルムズ海峡"
       ],
       "sources": [
         "CNBC - Top News"
@@ -26,14 +60,13 @@
     {
       "title": "Amazon to add 3.5% fuel and logistics surcharge for sellers as Iran war drives up energy prices",
       "region": "north_america",
-      "risk_level": "high",
-      "summary": "イラン戦争によるエネルギー価格高騰を受け、Amazonが米国とカナダの出品者に対し、燃料・物流サーチャージ3.5%を導入。",
-      "analysis": "Amazonのサーチャージ導入は、エネルギー価格上昇がサプライチェーン全体に波及していることを示す。このコスト増は最終的に消費者に転嫁され、インフレ圧力をさらに高める可能性がある。特に、中小規模の出品者にとっては収益圧迫要因となり、事業継続が困難になるケースも考えられる。Amazonのような大手企業が価格転嫁に動くことで、他企業も追随する可能性があり、広範囲なインフレにつながるリスクがある。",
+      "risk_level": "medium",
+      "summary": "イラン戦争によるエネルギー価格の高騰を受け、Amazonが米国とカナダの出品者に対し、燃料・物流サーチャージを3.5%追加。",
+      "analysis": "エネルギー価格の高騰は、物流コストの上昇を通じて、消費財価格に転嫁される。Amazonのサーチャージ導入は、インフレ圧力をさらに高める可能性があり、消費者の購買意欲を減退させる要因となる。また、中小企業にとっては、コスト負担が増加し、競争力が低下するリスクがある。Amazonの動向は、他の小売業者にも影響を与え、同様の価格転嫁が進む可能性がある。",
       "key_entities": [
         "Amazon",
-        "燃料サーチャージ",
-        "インフレ",
-        "サプライチェーン"
+        "エネルギー価格",
+        "インフレ"
       ],
       "sources": [
         "CNBC - Top News"
@@ -43,57 +76,56 @@
       ]
     },
     {
-      "title": "Here’s why bitcoin’s drop below $68,000 raises the risk of a crash under $60,000",
+      "title": "Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report",
+      "region": "east_asia",
+      "risk_level": "medium",
+      "summary": "Teslaの株価が大幅下落。中国市場での競争激化が影響し、納車台数報告が期待外れに終わったことが原因。",
+      "analysis": "Teslaの株価下落は、電気自動車市場の競争激化を示唆している。中国メーカーの低価格モデルの台頭は、Teslaの市場シェアを脅かしており、収益性の低下につながる可能性がある。また、世界的な景気減速は、自動車需要の低迷を招き、Teslaの成長戦略に影響を与える可能性がある。投資家は、Teslaの中国市場での競争力や、新技術の開発動向を注視する必要がある。",
+      "key_entities": [
+        "Tesla",
+        "中国市場",
+        "電気自動車"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインが68,000ドルを下回り、60,000ドル割れのリスクが高まっている。市場心理の悪化がさらなる下落を招く可能性も。",
-      "analysis": "ビットコインの下落は、リスクオフムードの広がりを示唆する。イラン戦争やインフレ懸念といった外部要因に加え、暗号資産市場固有のボラティリティが相まって、投資家の不安を増幅させている。テクニカル分析からも、下落トレンドが継続する可能性が高く、60,000ドルを割り込むようであれば、さらなる大幅な下落も視野に入れる必要がある。機関投資家の参入が進んでいるとはいえ、依然として投機的な側面が強く、外部環境の変化に脆弱な市場構造である。",
+      "summary": "Coinbaseが米通貨監督庁から信託銀行としての条件付き承認を取得。ステーブルコイン事業の強化を目指す。",
+      "analysis": "Coinbaseの信託銀行としての承認は、暗号資産市場における規制の明確化に向けた一歩となる。ステーブルコイン事業の拡大は、暗号資産の決済手段としての普及を促進する可能性がある。しかし、規制当局の監視強化は、Coinbaseの事業運営に制約を加える可能性もある。投資家は、規制動向やCoinbaseの事業戦略を注視する必要がある。",
+      "key_entities": [
+        "Coinbase",
+        "ステーブルコイン",
+        "米通貨監督庁"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin, ether, solana slide further as Trump threatens to hit Iran 'extremely hard'",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "トランプ大統領がイランへの強硬姿勢を示したことで、ビットコイン、イーサリアム、ソラナなどの暗号資産が下落。",
+      "analysis": "地政学的リスクの高まりは、リスクオフの動きを誘発し、暗号資産市場からの資金流出を招く。トランプ大統領の発言は、市場心理を悪化させ、ボラティリティを高める要因となる。また、原油価格の高騰は、インフレ懸念を強め、暗号資産への投資意欲を減退させる可能性がある。投資家は、地政学的リスクやマクロ経済の動向を注視し、ポートフォリオのリスク管理を徹底する必要がある。",
       "key_entities": [
         "ビットコイン",
-        "暗号資産",
-        "リスクオフ",
-        "ボラティリティ"
+        "イーサリアム",
+        "ソラナ",
+        "トランプ大統領",
+        "イラン"
       ],
       "sources": [
         "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Tesla's stock drops more than 5% on disappointing deliveries report",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "Teslaの納車台数報告が期待外れに終わり、株価が5%以上下落。中国市場での競争激化が影響。",
-      "analysis": "Teslaの株価下落は、電気自動車市場における競争激化を反映している。特に中国市場では、低価格モデルを提供する競合他社との競争が激しく、Teslaのシェアが侵食されている。納車台数の減少は、収益悪化につながる可能性があり、今後の成長戦略に影響を与える可能性がある。電気自動車市場全体の成長は鈍化しており、Teslaは新たな成長エンジンを見つける必要がある。",
-      "key_entities": [
-        "Tesla",
-        "電気自動車",
-        "中国市場",
-        "納車台数"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Trump fires Attorney General Pam Bondi",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "トランプ大統領がパム・ボンディ司法長官を解任。政治的な理由が背景にあると見られる。",
-      "analysis": "司法長官の解任は、トランプ政権の政治的リスクを高める。司法の独立性に対する懸念が強まり、国内外からの批判を招く可能性がある。また、後任人事によっては、司法省の政策が大きく転換する可能性もあり、企業活動や市場に影響を与える可能性がある。政治的な不確実性は、投資家のリスク回避姿勢を強め、市場のボラティリティを高める要因となる。",
-      "key_entities": [
-        "トランプ大統領",
-        "パム・ボンディ",
-        "司法省",
-        "政治リスク"
-      ],
-      "sources": [
-        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -103,13 +135,12 @@
       "title": "Blue Owl caps private credit funds redemptions at 5% after steep request levels",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Blue Owlが、AI関連の混乱懸念から償還請求が急増したため、プライベートクレジットファンドの償還を5%に制限。",
-      "analysis": "Blue Owlの償還制限は、プライベートクレジット市場における流動性リスクの顕在化を示唆する。AI関連企業への投資に対する市場の懸念が高まっており、投資家がリスク回避に動いている。プライベートクレジット市場は、流動性が低く、市場の混乱時には償還が困難になるリスクがある。今回の償還制限は、他のプライベートクレジットファンドにも影響を与える可能性があり、市場全体の信用収縮につながるリスクがある。",
+      "summary": "Blue Owlが、AI関連の混乱に対する市場の懸念から、償還請求が急増したため、プライベートクレジットファンドの償還を5%に制限。",
+      "analysis": "プライベートクレジットファンドの償還制限は、市場の流動性リスクを示唆している。AI関連の混乱に対する懸念は、テクノロジーセクターへの投資意欲を減退させ、資金流出を招く可能性がある。また、金利上昇は、プライベートクレジットファンドのパフォーマンスを悪化させ、償還請求を増加させる要因となる。投資家は、プライベートクレジットファンドのリスク管理を強化し、流動性の確保に努める必要がある。",
       "key_entities": [
         "Blue Owl",
-        "プライベートクレジット",
-        "AI",
-        "流動性リスク"
+        "プライベートクレジットファンド",
+        "AI"
       ],
       "sources": [
         "CNBC - Top News"
@@ -119,35 +150,15 @@
       ]
     },
     {
-      "title": "Crypto markets tumble as oil surges and traders pile into bearish bets: Crypto Markets Today",
+      "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
       "region": "global",
       "risk_level": "medium",
-      "summary": "原油価格の高騰と弱気な取引の増加により、暗号資産市場が下落。",
-      "analysis": "原油価格の高騰はインフレ懸念を高め、投資家はリスク資産から逃避する傾向にあります。暗号資産市場もその影響を受け、下落しています。また、弱気な取引が増加していることは、市場心理が悪化していることを示唆しています。地政学的リスクとインフレ懸念が複合的に作用し、暗号資産市場にネガティブな影響を与えています。",
-      "key_entities": [
-        "暗号資産",
-        "原油価格",
-        "インフレ",
-        "弱気市場"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Trump administration prepares up to 100% pharmaceutical tariffs on some imported drugs",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "トランプ政権が、米国での薬価引き下げに応じない製薬会社に対し、最大100%の関税を準備。",
-      "analysis": "製薬会社への高関税は、貿易摩擦を激化させる可能性があり、グローバルサプライチェーンに混乱をもたらす可能性があります。特に、ヨーロッパの製薬会社への影響が大きく、報復関税のリスクも考慮する必要があります。関税の引き上げは、薬価の上昇につながり、消費者の負担を増やす可能性があります。また、製薬会社の収益悪化は、研究開発投資の減少につながり、長期的な医療の発展を阻害する可能性があります。",
+      "summary": "トランプ政権が、米国内での薬価引き下げに合意していない製薬会社に対し、最大100%の関税を課す準備を進めている。",
+      "analysis": "医薬品への関税導入は、貿易摩擦を激化させ、世界経済の成長を阻害する要因となる。また、関税は、医薬品価格の上昇を招き、消費者の負担を増加させる可能性がある。ただし、多くの企業が免除される可能性があるため、影響は限定的になる可能性もある。投資家は、貿易政策の動向や、製薬会社の業績への影響を注視する必要がある。",
       "key_entities": [
         "トランプ政権",
         "製薬会社",
-        "関税",
-        "貿易摩擦"
+        "医薬品"
       ],
       "sources": [
         "CNBC - Top News"
@@ -157,38 +168,18 @@
       ]
     },
     {
-      "title": "Iran's war propaganda homes in on Trump with Lego memes",
-      "region": "middle_east",
-      "risk_level": "low",
-      "summary": "イランのプロパガンダが、トランプ大統領をレゴミームで攻撃。戦争が世界経済とエネルギー価格に与える影響を強調。",
-      "analysis": "プロパガンダは、世論を操作し、特定の政治的目標を達成するための手段です。イランのプロパガンダは、トランプ大統領の政策を批判し、戦争の経済的影響を強調することで、国際社会の支持を得ようとしています。プロパガンダは、誤った情報や偏った情報を含む可能性があり、注意が必要です。しかし、プロパガンダの存在は、地政学的リスクの高まりを示唆しています。",
+      "title": "Nike stock tumbles more than 13%, hits 11-year low as weakness in China, high oil prices weigh on outlook",
+      "region": "east_asia",
+      "risk_level": "medium",
+      "summary": "Nikeの株価が13%以上急落し、11年ぶりの安値を記録。中国市場の不振と原油価格の高騰が業績見通しに悪影響を与えている。",
+      "analysis": "Nikeの株価下落は、中国経済の減速や、原油価格の高騰が、グローバル企業の業績に与える影響を示唆している。中国市場での競争激化や、サプライチェーンの混乱は、Nikeの収益性を低下させる要因となる。また、消費者の購買意欲の減退は、Nikeの売上高を圧迫する可能性がある。投資家は、中国経済の動向や、原油価格の変動を注視し、Nikeの業績見通しを慎重に評価する必要がある。",
       "key_entities": [
-        "イラン",
-        "トランプ大統領",
-        "プロパガンダ",
-        "地政学的リスク"
+        "Nike",
+        "中国市場",
+        "原油価格"
       ],
       "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "The March jobs report will be released on Friday. Here's what to expect",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "3月の米雇用統計が金曜日に発表。雇用者数は59,000人増、失業率は4.4%と予想。",
-      "analysis": "雇用統計は、米国経済の健全性を示す重要な指標です。予想通りの結果であれば、市場への影響は限定的ですが、予想を大きく上回る、または下回る場合は、市場が大きく変動する可能性があります。特に、インフレ懸念が高まっている状況では、雇用統計の結果がFRBの金融政策に影響を与える可能性があります。",
-      "key_entities": [
-        "米雇用統計",
-        "FRB",
-        "インフレ",
-        "金融政策"
-      ],
-      "sources": [
-        "CNBC - Top News"
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
@@ -196,12 +187,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "high",
-    "north_america": "high",
-    "europe": "medium",
+    "global": "critical",
+    "north_america": "medium",
+    "europe": "none",
     "east_asia": "medium"
   },
-  "generated_at": "2026-04-02T19:03:12.104564",
+  "generated_at": "2026-04-02T21:43:16.800306",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
