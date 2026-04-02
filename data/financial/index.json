@@ -1,19 +1,16 @@
 [
   {
     "date": "2026-04-02",
-    "summary": "中東情勢の緊迫化により、原油価格が急騰し、アジア太平洋市場を中心に株価が急落。暗号資産市場も不安定な動きを見せる。一方、個別企業では製薬、半導体、宇宙関連で動きがあり、市場全体はボラティリティの高い状況が続く。",
+    "summary": "中東情勢緊迫化による原油価格高騰と、それに伴う金融市場の混乱が懸念される。暗号資産市場はボラティリティが高く、企業や政府による保有ビットコイン売却の動きも見られる。AI関連投資は活発だが、市場全体の牽引力は限定的。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "medium",
-      "north_america": "low",
-      "europe": "low",
-      "east_asia": "high",
-      "south_america": "none",
-      "africa": "none",
-      "middle_east": "critical"
+      "global": "high",
+      "north_america": "medium",
+      "europe": "medium",
+      "east_asia": "low"
     },
-    "generated_at": "2026-04-02T07:20:09.784645"
+    "generated_at": "2026-04-02T10:05:22.651410"
   },
   {
     "date": "2026-04-01",
