@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-04-02",
-    "summary": "中東情勢緊迫化による原油価格高騰と、それに伴う金融市場の混乱が懸念される。暗号資産市場はボラティリティが高く、企業や政府による保有ビットコイン売却の動きも見られる。AI関連投資は活発だが、市場全体の牽引力は限定的。",
+    "summary": "地政学的リスク（イラン戦争）の高まりと原油価格の高騰が、株式市場と暗号資産市場に下落圧力をもたらしている。AI関連の懸念も一部のプライベートクレジットファンドに影響を与えている。",
     "overall_risk_level": "high",
-    "article_count": 10,
+    "article_count": 8,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
-      "europe": "medium",
-      "east_asia": "low"
+      "europe": "low",
+      "east_asia": "low",
+      "south_america": "medium",
+      "africa": "none",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-04-02T10:05:22.651410"
+    "generated_at": "2026-04-02T13:24:07.225428"
   },
   {
     "date": "2026-04-01",

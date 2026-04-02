@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-02",
-    "summary": "米イラン間の緊張激化。イランが米軍基地インフラを攻撃。米国はトマホークミサイルを大量使用し、備蓄への懸念が生じている。ウクライナでは防空能力が向上するも、攻撃頻度が増加。レバノンではイスラエルとヒズボラの戦闘が激化。",
+    "summary": "中東におけるイランとアメリカ間の武力衝突が激化。ウクライナでは、防空能力の向上が報告される一方、ドローン攻撃も継続。レバノンでは、イスラエルとヒズボラの戦闘が拡大している。",
     "events": [
       {
         "id": "event-001",
@@ -97,6 +97,37 @@
         "source_url": "https://www.defensenews.com/news/your-military/2026/04/01/is-the-us-running-out-of-tomahawk-missiles-heres-what-the-experts-say/"
       },
       {
+        "id": "event_001",
+        "timestamp": "2026-04-01",
+        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAE",
+        "region": "middle_east",
+        "title": "イランによるアメリカ軍基地への攻撃",
+        "content": "イランが、バーレーン、カタール、クウェート、サウジアラビア、UAEに所在するアメリカ軍基地のレーダーシステム、衛星通信施設、重要航空機を攻撃。アメリカ空軍のインフラに損害を与えた模様。",
+        "involved_parties": [
+          "イラン",
+          "アメリカ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
+      },
+      {
+        "id": "event_002",
+        "timestamp": "2026-04-01",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "アメリカ軍によるトマホークミサイルの大量使用",
+        "content": "作戦開始から1か月で、アメリカ軍が850発以上のトマホーク長距離巡航ミサイルを発射。ペンタゴンの一部で、ミサイル備蓄の枯渇を懸念する声が上がっている。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/01/is-the-us-running-out-of-tomahawk-missiles-heres-what-the-experts-say/"
+      },
+      {
         "id": "event_7",
         "timestamp": "2026-03-31",
         "location": "シチリア, イタリア",
@@ -146,6 +177,22 @@
         "source_url": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/"
       },
       {
+        "id": "event_006",
+        "timestamp": "2026-03-31",
+        "location": "シチリア",
+        "region": "europe",
+        "title": "イタリア、中東へ向かうアメリカ軍用機のシチリアでの立ち寄りを拒否",
+        "content": "イタリアは、イランとの戦争におけるアメリカ・イスラエルのためにシゴネラ空軍基地を使用することは合意の範囲外であるとして、議会の承認を要求した。",
+        "involved_parties": [
+          "イタリア",
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/"
+      },
+      {
         "id": "EV008",
         "timestamp": "2026-03-30",
         "location": "中東",
@@ -176,6 +223,22 @@
         "source_url": "https://www.defensenews.com/global/europe/2026/03/30/missile-wielding-airbus-interceptor-engages-one-way-attack-drone-in-test/"
       },
       {
+        "id": "event_007",
+        "timestamp": "2026-03-30",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "アメリカ軍、イランでの数週間にわたる地上作戦を準備中",
+        "content": "アメリカ軍は、イランにおける数週間にわたる地上作戦を準備していると報じられている。海岸攻撃や核施設襲撃などの可能性が指摘されている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/30/limited-missions-big-risks-what-a-us-ground-fight-in-iran-could-become/"
+      },
+      {
         "id": "event_8",
         "timestamp": "2026-03-29",
         "location": "イラン",
@@ -200,6 +263,21 @@
         "content": "USSトリポリ揚陸即応群および第31海兵遠征部隊が、CENTCOM管轄海域に到着。",
         "involved_parties": [
           "アメリカ"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/28/uss-tripoli-embarked-31st-marine-expeditionary-unit-arrive-in-middle-east/"
+      },
+      {
+        "id": "event_008",
+        "timestamp": "2026-03-28",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "アメリカ海軍強襲揚陸艦トリポリ、中東に到着",
+        "content": "アメリカ海軍の強襲揚陸艦トリポリと第31海兵遠征部隊が、アメリカ中央軍の管轄海域に到着。",
+        "involved_parties": [
+          "アメリカ軍"
         ],
         "event_type": "other",
         "urgency": "low",
@@ -287,6 +365,38 @@
         "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
+      },
+      {
+        "id": "event_003",
+        "timestamp": "2026-03-27",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエルとヒズボラの戦闘激化",
+        "content": "イスラエルとヒズボラの戦闘が激化し、戦闘地域が拡大。ヒズボラは待ち伏せ攻撃を繰り返している模様。具体的な損害状況は不明。",
+        "involved_parties": [
+          "イスラエル",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
+      },
+      {
+        "id": "event_005",
+        "timestamp": "2026-03-27",
+        "location": "バルト三国",
+        "region": "europe",
+        "title": "ウクライナのドローンがバルト三国に着弾",
+        "content": "ウクライナから発進したドローンがバルト三国全てに着弾。ロシアによる意図的な誘導の可能性も指摘されているが、電子戦による影響や飛行距離の問題も考えられる。",
+        "involved_parties": [
+          "ウクライナ",
+          "ロシア？"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/"
       },
       {
         "id": "event-005",
@@ -378,6 +488,22 @@
         ],
         "event_type": "other",
         "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
+      },
+      {
+        "id": "event_004",
+        "timestamp": "2026-03",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ、防空成功率90%近くを主張",
+        "content": "ウクライナ国防省は、3月におけるロシア軍の攻撃頻度が増加しているにも関わらず、防空性能が向上していると発表。成功率は90%近いとのこと。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
       }
