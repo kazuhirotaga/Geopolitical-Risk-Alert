@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-02",
-    "summary": "米イラン間で軍事衝突が激化。アメリカはトマホークを大量使用し、イランはアメリカ軍基地のインフラを攻撃。ウクライナでは防空能力が向上するも攻撃頻度が増加。レバノンではイスラエルとヒズボラの戦闘が激化。",
+    "summary": "アメリカとイランの対立激化。アメリカ軍はイランへのトマホークミサイル使用を増加。イランはアメリカ軍基地への攻撃を実施。ウクライナではドローン防衛技術が向上。レバノンではイスラエルとヒズボラの戦闘が激化。",
     "events": [
       {
         "id": "event-001",
@@ -35,19 +35,36 @@
         "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
       },
       {
-        "id": "event-003",
-        "timestamp": "2026-03-01",
-        "location": "ウクライナ",
+        "id": "event_7",
+        "timestamp": "2026-03-31",
+        "location": "シチリア, イタリア",
         "region": "europe",
-        "title": "ウクライナ軍、3月度の防空成功率約90%を主張",
-        "content": "ウクライナ国防省は、攻撃の頻度が増加しているにもかかわらず、3月における防空の成功率が約90%に達したと発表。ただし、具体的な攻撃の内容や損害については不明。",
+        "title": "イタリア、中東へ向かう米軍機のシチリア島寄港を拒否",
+        "content": "イタリアが、アメリカ・イスラエルによる対イラン戦争のためのシゴネラ空軍基地の使用は合意の範囲外であるとし、議会の承認が必要であるとして、中東へ向かう米軍機の寄港を拒否。",
         "involved_parties": [
-          "ウクライナ軍"
+          "イタリア",
+          "アメリカ"
         ],
         "event_type": "other",
         "urgency": "medium",
         "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/"
+      },
+      {
+        "id": "event_8",
+        "timestamp": "2026-03-29",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ国防総省、イランにおける数週間にわたる地上作戦を準備",
+        "content": "アメリカ国防総省が、イランにおける数週間にわたる地上作戦を準備していると報じられる。アメリカ軍のアセット（トリポリ揚陸即応群、第31海兵遠征隊など）が同地域に集結。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/29/pentagon-reportedly-preparing-for-weeks-of-ground-operations-in-iran/"
       },
       {
         "id": "event-004",
@@ -66,6 +83,23 @@
         "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
       },
       {
+        "id": "event_9",
+        "timestamp": "2026-03-27",
+        "location": "バルト三国",
+        "region": "europe",
+        "title": "ウクライナのドローンがバルト三国全てに着弾",
+        "content": "ウクライナのドローンがバルト三国全てに着弾。ロシアがドローンを積極的にリダイレクトしているのか、電子戦防御と飛行距離の副産物なのかは不明。",
+        "involved_parties": [
+          "ウクライナ",
+          "ロシア",
+          "バルト三国"
+        ],
+        "event_type": "bombing",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/"
+      },
+      {
         "id": "event-005",
         "timestamp": "2026-03-26",
         "location": "イラン",
@@ -80,6 +114,21 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
+      },
+      {
+        "id": "event-003",
+        "timestamp": "2026-03-01",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ軍、3月度の防空成功率約90%を主張",
+        "content": "ウクライナ国防省は、攻撃の頻度が増加しているにもかかわらず、3月における防空の成功率が約90%に達したと発表。ただし、具体的な攻撃の内容や損害については不明。",
+        "involved_parties": [
+          "ウクライナ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
       }
     ]
   },

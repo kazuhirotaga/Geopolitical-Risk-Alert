@@ -1,17 +1,18 @@
 {
   "date": "2026-04-02",
-  "summary": "中東情勢の緊迫化により原油価格が急騰し、株式市場は下落。イラン戦争の長期化懸念が金融市場全体に大きな影響を与えている。暗号資産市場では、量子コンピュータによるセキュリティリスクが浮上し、警戒感が強まっている。",
-  "overall_risk_level": "critical",
+  "summary": "中東情勢の緊迫化により、原油価格が急騰し、金融市場に混乱が生じている。暗号資産市場も地政学的リスクの影響を受け下落。一方、AI関連技術への投資は活発で、個別銘柄の動向に注目が集まる。",
+  "overall_risk_level": "high",
   "articles": [
     {
       "title": "Oil prices surge with Brent rising 5% as Trump vows to hit Iran 'extremely hard' within weeks",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "トランプ大統領がイラン戦争は数週間続くと発言したことを受け、原油価格が急騰。ブレント原油は5%上昇した。",
-      "analysis": "イラン戦争の長期化は、原油供給の混乱を招き、インフレを加速させる可能性が高い。特に、エネルギー輸入依存度の高い国々への影響は深刻になるだろう。地政学的リスクの高まりは、株式市場からの資金流出を招き、安全資産へのシフトを加速させる可能性がある。原油価格の高騰は、企業収益の悪化にもつながり、景気後退のリスクを高める。",
+      "summary": "トランプ大統領がイランへの強硬姿勢を示したことで、原油価格が急騰。紛争が数週間続くと予想される中、供給不安が市場を揺るがしている。",
+      "analysis": "イラン情勢の緊迫化は、原油価格の急騰を通じて世界経済に深刻な影響を与える可能性がある。特に、インフレ圧力の高まりや、企業収益の悪化が懸念される。地政学的リスクが金融市場全体に波及する可能性も高く、投資家はリスクオフ姿勢を強める可能性がある。原油価格の高止まりは、代替エネルギーへの投資を加速させる可能性もあるが、短期的には経済への悪影響が大きい。今後のトランプ大統領の発言や、イランの対応に注視する必要がある。",
       "key_entities": [
         "トランプ大統領",
         "イラン",
+        "OPEC",
         "ブレント原油",
         "WTI原油"
       ],
@@ -23,18 +24,20 @@
       ]
     },
     {
-      "title": "Stock futures fall after Trump says Iran war will continue for weeks: Live updates",
+      "title": "Bitcoin, ether, solana slide further as Trump threatens to hit Iran 'extremely hard'",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "トランプ大統領のイラン戦争長期化発言を受け、株式先物が下落。市場は地政学的リスクを警戒している。",
-      "analysis": "株式市場は、地政学的リスクに非常に敏感になっている。イラン戦争の長期化は、不確実性を高め、投資家のリスク回避姿勢を強めるだろう。特に、中東地域へのエクスポージャーが高い企業や、原油価格高騰の影響を受けやすい企業は、株価が大きく下落する可能性がある。短期的な市場のボラティリティは高まるだろう。",
+      "summary": "トランプ大統領のイランに対する強硬発言を受け、ビットコイン、イーサリアム、ソラナなどの暗号資産が下落。地政学的リスクが暗号資産市場にも影響を与えている。",
+      "analysis": "地政学的リスクの高まりは、リスク資産である暗号資産への投資意欲を減退させる。特に、中東地域は暗号資産の取引量が多い地域でもあり、紛争の激化は市場の流動性を低下させる可能性がある。ビットコインは、安全資産としての側面も持つとされるが、現状ではリスクオフの動きに連動して下落している。今後の紛争の展開によっては、さらなる下落も予想される。ただし、長期的な視点では、暗号資産の分散投資効果は依然として有効であると考えられる。",
       "key_entities": [
-        "株式先物",
+        "ビットコイン",
+        "イーサリアム",
+        "ソラナ",
         "トランプ大統領",
         "イラン"
       ],
       "sources": [
-        "CNBC - Top News"
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -44,8 +47,8 @@
       "title": "Iran sets up 'toll booth' in Strait of Hormuz, as oil tankers detour via Larak Island for safe passage",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "イランがホルムズ海峡に事実上の安全航路を設け、通行料を徴収する動きを見せている。",
-      "analysis": "ホルムズ海峡は世界の原油輸送の要であり、イランのこの動きは原油供給をさらに不安定化させる可能性がある。通行料の徴収は、原油価格の上昇に拍車をかけ、世界経済に悪影響を及ぼすだろう。また、この動きは、国際的な緊張を高め、軍事的な衝突のリスクを高める可能性もある。",
+      "summary": "イランがホルムズ海峡に事実上の安全航路を設定し、通行料を徴収する動きを見せている。原油タンカーは迂回を余儀なくされ、供給リスクが高まっている。",
+      "analysis": "ホルムズ海峡は、世界の原油輸送の重要なルートであり、イランのこの動きは、原油供給に大きな影響を与える可能性がある。通行料の徴収は、原油価格の上昇を招き、世界経済に悪影響を及ぼす。また、安全航路の設定は、イランが海峡の支配権を強化する意図を示すものであり、国際的な緊張を高める可能性がある。アメリカをはじめとする各国は、イランの行動を強く非難しており、今後の対応が注目される。",
       "key_entities": [
         "イラン",
         "ホルムズ海峡",
@@ -59,32 +62,17 @@
       ]
     },
     {
-      "title": "Asia-Pacific markets reverse gains as investors assess Trump address on Iran war",
-      "region": "southeast_asia",
-      "risk_level": "high",
-      "summary": "トランプ大統領のイラン戦争に関する演説を受け、アジア太平洋地域の株式市場は上昇から下落に転じた。",
-      "analysis": "アジア太平洋地域の市場は、地政学的リスクと原油価格の変動に特に敏感である。イラン戦争の長期化は、貿易量の減少やサプライチェーンの混乱を招き、地域経済に悪影響を及ぼす可能性がある。また、米国の金融政策への影響も懸念されており、新興国からの資金流出のリスクも高まっている。",
-      "key_entities": [
-        "アジア太平洋市場",
-        "トランプ大統領",
-        "イラン"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
       "title": "Globalstar stock surges 15% on report Amazon is weighing an acquisition",
       "region": "global",
       "risk_level": "low",
-      "summary": "AmazonがGlobalstarの買収を検討しているとの報道を受け、Globalstarの株価が15%急騰した。",
-      "analysis": "AmazonによるGlobalstarの買収は、Amazonの宇宙インターネットサービスを強化する可能性がある。この動きは、通信業界における競争を激化させ、関連企業の株価に影響を与える可能性がある。しかし、現時点では買収の可能性は不確実であり、投資判断は慎重に行うべきである。",
+      "summary": "AmazonがGlobalstarの買収を検討しているとの報道を受け、Globalstarの株価が急騰。Amazonの宇宙インターネット事業の強化に繋がる可能性がある。",
+      "analysis": "AmazonによるGlobalstarの買収は、宇宙インターネット市場における競争を激化させる可能性がある。Amazon Leoは、すでに200基の衛星を軌道に乗せており、Globalstarの技術と組み合わせることで、より広範囲な地域で高速インターネットサービスを提供できるようになる。SpaceXのStarlinkなど、他の宇宙インターネット企業との競争が激化することが予想される。また、Globalstarの株価上昇は、宇宙関連企業への投資意欲を高める可能性がある。",
       "key_entities": [
         "Amazon",
-        "Globalstar"
+        "Globalstar",
+        "Amazon Leo",
+        "SpaceX",
+        "Starlink"
       ],
       "sources": [
         "CNBC - Top News"
@@ -97,12 +85,35 @@
       "title": "Franklin Templeton acquires digital assets investment firm in active crypto management push",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Franklin Templetonがデジタル資産投資会社を買収し、暗号資産分野への進出を強化している。",
-      "analysis": "大手金融機関による暗号資産分野への参入は、暗号資産市場の成熟を促す可能性がある。しかし、暗号資産市場は依然として規制が不十分であり、価格変動も激しいため、投資リスクは高い。Franklin Templetonの動きは、他の機関投資家にも影響を与え、暗号資産市場への資金流入を加速させる可能性がある。",
+      "summary": "フランクリン・テンプルトンがデジタル資産投資会社を買収し、暗号資産運用を強化。機関投資家の暗号資産市場への参入が加速する可能性がある。",
+      "analysis": "フランクリン・テンプルトンによる250 Digitalの買収は、機関投資家が暗号資産市場への関心を高めていることを示す。従来の金融機関が暗号資産運用に本格的に参入することで、市場の成熟が進み、価格の安定化に繋がる可能性がある。また、フランクリン・テンプルトンのような大手運用会社が暗号資産関連商品を提供することで、個人投資家の暗号資産へのアクセスが容易になり、市場の拡大に貢献する可能性がある。",
       "key_entities": [
-        "Franklin Templeton",
+        "フランクリン・テンプルトン",
         "250 Digital",
-        "暗号資産"
+        "ビットコイン",
+        "イーサリアム"
+      ],
+      "sources": [
+        "CNBC - Top News",
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "FDA approves Eli Lilly's GLP-1 pill, opening the next phase of the weight loss drug market",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "FDAがイーライリリーのGLP-1経口薬を承認。肥満治療薬市場の競争が激化し、関連企業の株価に影響を与える可能性がある。",
+      "analysis": "イーライリリーのGLP-1経口薬FoundayoのFDA承認は、肥満治療薬市場に大きな影響を与える可能性がある。ノボノルディスクのWegovy経口薬に続き、新たな選択肢が増えることで、市場の拡大が期待される。肥満治療薬市場は、今後も成長が見込まれており、関連企業の株価上昇に繋がる可能性がある。ただし、副作用や価格競争などのリスクも考慮する必要がある。",
+      "key_entities": [
+        "イーライリリー",
+        "ノボノルディスク",
+        "FDA",
+        "GLP-1",
+        "Foundayo",
+        "Wegovy"
       ],
       "sources": [
         "CNBC - Top News"
@@ -112,15 +123,55 @@
       ]
     },
     {
-      "title": "The Protocol: Quantum computing could break Bitcoin sooner, says Google",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "Googleが、量子コンピュータがBitcoinをより早く破る可能性があると警告している。",
-      "analysis": "量子コンピュータによるBitcoinのセキュリティリスクは、長期的な懸念事項である。Googleの警告は、このリスクが現実味を帯びてきていることを示唆している。量子コンピュータ耐性のある暗号技術の開発が急務であり、Bitcoin以外の暗号資産への資金シフトが起こる可能性もある。",
+      "title": "Europe’s Inflation Problem Just Reheated",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "ヨーロッパのインフレ問題が再燃。ECBの金融政策に影響を与え、景気後退のリスクを高める可能性がある。",
+      "analysis": "ヨーロッパのインフレ再燃は、ECBの金融政策を複雑にする。利上げを継続すれば、景気後退のリスクが高まり、利下げに転じれば、インフレがさらに加速する可能性がある。エネルギー価格の高騰や、サプライチェーンの混乱などがインフレの要因となっており、地政学的リスクの高まりも影響を与えている。今後のECBの政策決定に注目が集まる。",
       "key_entities": [
+        "ECB",
+        "インフレ",
+        "ユーロ圏",
+        "エネルギー価格"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "US pump prices hit $4 a gallon as Iran war wreaks havoc on global energy supply",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "イラン情勢の悪化により、アメリカのガソリン価格が1ガロンあたり4ドルに到達。消費者の負担が増加し、経済活動に悪影響を及ぼす可能性がある。",
+      "analysis": "ガソリン価格の上昇は、消費者の可処分所得を減少させ、消費支出を抑制する可能性がある。特に、低所得層への影響が大きく、生活必需品の購入を控えるなどの影響が考えられる。また、企業の輸送コストが増加し、製品価格の上昇に繋がる可能性もある。政府は、戦略石油備蓄の放出や、減税などの対策を検討する必要がある。",
+      "key_entities": [
+        "ガソリン価格",
+        "イラン",
+        "エネルギー供給",
+        "消費者物価指数"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Some quantum-resistant tokens jump 50% as Google flags risks to Bitcoin security",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Googleがビットコインのセキュリティに対する量子コンピュータのリスクを指摘したことを受け、量子耐性を持つ暗号資産が急騰。",
+      "analysis": "Googleの警告は、暗号資産市場におけるセキュリティリスクへの意識を高めた。量子コンピュータの発展は、従来の暗号技術を無効化する可能性があり、暗号資産の安全性に対する懸念が高まっている。量子耐性を持つ暗号資産は、その代替手段として注目を集めており、今後の開発動向に注目が集まる。ただし、量子コンピュータの実用化にはまだ時間がかかるとの見方もあり、過度な期待は避けるべきである。",
+      "key_entities": [
+        "ビットコイン",
+        "量子コンピュータ",
         "Google",
-        "Bitcoin",
-        "量子コンピュータ"
+        "暗号資産",
+        "量子耐性"
       ],
       "sources": [
         "CoinDesk"
@@ -133,51 +184,16 @@
       "title": "Wall Street loses patience with Nike as turnaround drags, China weakness deepens",
       "region": "east_asia",
       "risk_level": "medium",
-      "summary": "Nikeの業績回復の遅れと中国市場の低迷を受け、ウォール街はNikeへの忍耐力を失いつつある。",
-      "analysis": "Nikeの業績不振は、中国経済の減速とサプライチェーンの問題が複合的に影響している。ウォール街のアナリストは、Nikeの株価を格下げし、投資家の間では慎重な見方が広がっている。中国市場の回復が遅れる場合、Nikeの業績はさらに悪化する可能性があり、他のグローバルブランドにも影響が及ぶ可能性がある。",
+      "summary": "Nikeの業績回復の遅れと中国市場の低迷を受け、ウォール街のアナリストがNikeの株価を格下げ。投資家の忍耐が限界に達している。",
+      "analysis": "Nikeの業績不振は、中国市場における競争激化や、サプライチェーンの混乱などが要因となっている。特に、中国市場はNikeにとって重要な市場であり、売上高の減少は業績に大きな影響を与える。ウォール街のアナリストは、Nikeの経営陣に対し、早急な業績回復策を求めている。今後のNikeの戦略転換や、中国市場における販売戦略の改善に注目が集まる。",
       "key_entities": [
         "Nike",
-        "中国市場"
+        "中国市場",
+        "ウォール街",
+        "サプライチェーン"
       ],
       "sources": [
         "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Here are 3 ways to ignite a rally in beaten-down bank stocks like Wells Fargo and Goldman",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "Wells FargoやGoldman Sachsなどの銀行株が低迷している中、株価を回復させるための3つの方法が議論されている。",
-      "analysis": "銀行株の低迷は、プライベートクレジットのリスク、AIの普及、そして米国とイランの戦争など、複数の要因が影響している。特に、イラン戦争の長期化は、金融市場の不確実性を高め、銀行の収益に悪影響を及ぼす可能性がある。金利上昇や規制緩和などが株価回復のきっかけとなる可能性があるが、地政学的リスクが引き続き重しとなるだろう。",
-      "key_entities": [
-        "Wells Fargo",
-        "Goldman Sachs",
-        "銀行株",
-        "イラン戦争"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Australia passes crypto regulation requiring exchanges to obtain financial services licenses",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "オーストラリアが、暗号資産取引所に金融サービスライセンスの取得を義務付ける規制を可決した。",
-      "analysis": "オーストラリアの暗号資産規制は、暗号資産市場の透明性と安全性を高めることを目的としている。ライセンス取得の義務化は、不正行為やマネーロンダリングのリスクを軽減する効果が期待される。しかし、規制の厳格化は、暗号資産取引所の運営コストを増加させ、市場の競争環境に影響を与える可能性もある。他の国々も同様の規制を導入する可能性があり、グローバルな暗号資産市場の規制動向に注目する必要がある。",
-      "key_entities": [
-        "オーストラリア",
-        "暗号資産取引所",
-        "金融サービスライセンス"
-      ],
-      "sources": [
-        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -185,12 +201,15 @@
     }
   ],
   "region_risk_map": {
-    "global": "high",
-    "north_america": "none",
-    "europe": "none",
-    "east_asia": "medium"
+    "global": "medium",
+    "north_america": "high",
+    "europe": "medium",
+    "east_asia": "medium",
+    "south_america": "none",
+    "africa": "none",
+    "middle_east": "critical"
   },
-  "generated_at": "2026-04-02T02:41:02.760821",
+  "generated_at": "2026-04-02T05:07:25.826400",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
