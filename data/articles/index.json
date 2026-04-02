@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-02",
-    "summary": "中東情勢が極めて不安定。アメリカとイランの軍事衝突が継続し、原油価格高騰やエネルギー供給不安が深刻化。ウクライナ情勢も膠着状態。東アジアでは台湾海峡の緊張、自衛隊の長射程ミサイル配備に対する中国の反発など、地政学的リスクが高まっている。",
+    "summary": "中東におけるアメリカとイランの軍事衝突が激化し、原油価格が高騰。ウクライナ情勢も緊迫しており、世界経済への影響が懸念される。東アジアでは台湾海峡の緊張も継続。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "low",
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
-      "africa": "medium",
-      "north_america": "high",
-      "south_america": "low"
+      "africa": "none",
+      "north_america": "medium",
+      "south_america": "none"
     },
-    "generated_at": "2026-04-02T13:23:43.920377"
+    "generated_at": "2026-04-02T16:04:06.021260"
   },
   {
     "date": "2026-04-01",
