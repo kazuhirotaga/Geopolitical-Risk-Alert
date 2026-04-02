@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-02",
+    "summary": "中東におけるアメリカとイランの軍事衝突が継続し、停戦協議が行われる一方で、攻撃も継続されるという不安定な状況。ウクライナ情勢も依然として緊迫しており、世界経済への影響が懸念される。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "high",
+      "europe": "high",
+      "africa": "high",
+      "north_america": "medium",
+      "south_america": "low"
+    },
+    "generated_at": "2026-04-02T02:40:41.982364"
+  },
+  {
     "date": "2026-04-01",
     "summary": "中東情勢は依然として緊迫しており、アメリカとイランの停戦交渉は不透明。ウクライナ東部ではロシアが支配を拡大。NATOの結束も揺らぎを見せ、世界的な地政学リスクが高まっている。",
     "overall_risk_level": "high",

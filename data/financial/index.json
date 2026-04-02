@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-04-02",
+    "summary": "中東情勢の緊迫化により原油価格が急騰し、株式市場は下落。イラン戦争の長期化懸念が金融市場全体に大きな影響を与えている。暗号資産市場では、量子コンピュータによるセキュリティリスクが浮上し、警戒感が強まっている。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "high",
+      "north_america": "none",
+      "europe": "none",
+      "east_asia": "medium"
+    },
+    "generated_at": "2026-04-02T02:41:02.760821"
+  },
+  {
     "date": "2026-04-01",
     "summary": "地政学的リスク（米イラン戦争）とインフレ懸念が市場を不安定化させている。暗号資産市場は規制強化と量子コンピュータのリスクに直面。企業業績のばらつきもリスク要因。",
     "overall_risk_level": "high",

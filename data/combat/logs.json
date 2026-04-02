@@ -1,5 +1,89 @@
 [
   {
+    "date": "2026-04-02",
+    "summary": "米イラン間で軍事衝突が激化。アメリカはトマホークを大量使用し、イランはアメリカ軍基地のインフラを攻撃。ウクライナでは防空能力が向上するも攻撃頻度が増加。レバノンではイスラエルとヒズボラの戦闘が激化。",
+    "events": [
+      {
+        "id": "event-001",
+        "timestamp": "2026-04-01",
+        "location": "中東地域",
+        "region": "middle_east",
+        "title": "米軍、トマホークミサイルを大量使用",
+        "content": "アメリカ軍は「Operation Epic Fury」において、開始から1ヶ月強で少なくとも850発以上のトマホーク長距離巡航ミサイルを発射。一部の国防総省関係者は兵器の消耗ペースに懸念を表明。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/01/is-the-us-running-out-of-tomahawk-missiles-heres-what-the-experts-say/"
+      },
+      {
+        "id": "event-002",
+        "timestamp": "2026-04-01",
+        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAEのアメリカ軍基地",
+        "region": "middle_east",
+        "title": "イラン軍、アメリカ軍基地インフラを攻撃",
+        "content": "イラン軍が、バーレーン、カタール、クウェート、サウジアラビア、UAEに所在するアメリカ軍基地のレーダーシステム、衛星通信、および重要航空機に対して攻撃を実施。",
+        "involved_parties": [
+          "イラン軍",
+          "アメリカ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
+      },
+      {
+        "id": "event-003",
+        "timestamp": "2026-03-01",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ軍、3月度の防空成功率約90%を主張",
+        "content": "ウクライナ国防省は、攻撃の頻度が増加しているにもかかわらず、3月における防空の成功率が約90%に達したと発表。ただし、具体的な攻撃の内容や損害については不明。",
+        "involved_parties": [
+          "ウクライナ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
+      },
+      {
+        "id": "event-004",
+        "timestamp": "2026-03-27",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエルとヒズボラの戦闘激化",
+        "content": "レバノン国内において、イスラエル軍とヒズボラの戦闘が激化。ヒズボラは防御線を維持するのではなく、攻撃を仕掛けた後に地形を利用して撤退する戦術を採用。",
+        "involved_parties": [
+          "イスラエル軍",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
+      },
+      {
+        "id": "event-005",
+        "timestamp": "2026-03-26",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ軍、無人艇を配備",
+        "content": "アメリカ軍がイランとの紛争において、無人艇を配備。ロイター通信によると、アメリカ政府が実戦での無人艇の使用を認めたのは今回が初めて。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-01",
     "summary": "アメリカとイランの緊張激化。アメリカ軍はイランに対してトマホークミサイルを大量使用。イランはアメリカ軍基地のインフラを攻撃。ウクライナでは攻撃頻度が増加するも防空能力が向上。レバノンではイスラエルとヒズボラの戦闘が激化。",
     "events": [
