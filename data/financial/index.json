@@ -1,19 +1,19 @@
 [
   {
     "date": "2026-04-02",
-    "summary": "中東情勢の緊迫化により、原油価格が急騰し、金融市場に混乱が生じている。暗号資産市場も地政学的リスクの影響を受け下落。一方、AI関連技術への投資は活発で、個別銘柄の動向に注目が集まる。",
+    "summary": "中東情勢の緊迫化により、原油価格が急騰し、アジア太平洋市場を中心に株価が急落。暗号資産市場も不安定な動きを見せる。一方、個別企業では製薬、半導体、宇宙関連で動きがあり、市場全体はボラティリティの高い状況が続く。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "medium",
-      "north_america": "high",
-      "europe": "medium",
-      "east_asia": "medium",
+      "north_america": "low",
+      "europe": "low",
+      "east_asia": "high",
       "south_america": "none",
       "africa": "none",
       "middle_east": "critical"
     },
-    "generated_at": "2026-04-02T05:07:25.826400"
+    "generated_at": "2026-04-02T07:20:09.784645"
   },
   {
     "date": "2026-04-01",

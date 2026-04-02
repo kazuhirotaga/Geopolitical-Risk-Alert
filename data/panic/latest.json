@@ -1,87 +1,80 @@
 {
   "date": "2026-04-02",
-  "summary": "世界全体では、中東・南アジアでのエネルギー不足や政治的要因による大規模な社会不安が顕著です。ウェストバンクでは死刑法案への抗議とゼネラルストライキが社会機能を麻痺させ、インドではLPG不足が交通麻痺や抗議デモを引き起こしています。東アジアでは有事を想定したパニック買いが発生し、オーストラリアでは政府が燃料不足を警告。米国では将来的な金融不安や燃料供給への懸念が示されており、広範な地域で社会の脆弱性が露呈しています。",
-  "global_panic_index": 65,
+  "summary": "世界各地で地域的な社会不安が散見される状況です。中東の西岸地区では政治的決定に対する大規模なストライキとデモが社会機能を一時的に麻痺させ、南アジアのインドでは生活必需品であるLPG不足が交通混乱やパニック行動を引き起こしています。東アジアでは地政学的リスクを背景としたパニック買いが発生。北米やオーストラリアではエネルギー供給への懸念が表明されており、世界全体としては「不安の増大」フェーズにあると評価できます。",
+  "global_panic_index": 59,
   "regions": [
     {
       "region": "middle_east",
       "panic_index": 75,
       "status": "volatile",
-      "main_cause": "政治的緊張、大規模な抗議デモ",
+      "main_cause": "政治的決定への抗議、大規模デモとゼネスト",
       "incidents": [
         {
-          "title": "死刑法案への抗議とゼネラルストライキ",
-          "location": "ウェストバンク（パレスチナ）",
-          "severity": 75,
-          "description": "イスラエルが承認した死刑法案に反対し、ウェストバンク全域で大規模な抗議デモとゼネラルストライキが発生しました。商店が閉鎖され、社会活動が完全に麻痺しており、住民の強い怒りと不安が示されています。",
-          "source": "Al Jazeera, The Times of Israel, Reuters 他"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "金融市場への警告、エネルギー供給の懸念",
-      "incidents": [
-        {
-          "title": "連邦準備制度による金融不安への警告",
-          "location": "米国",
-          "severity": 40,
-          "description": "連邦準備制度のBarr氏がステーブルコイン規制に関して、1907年の金融恐慌を引き合いに出して警告を発しました。これは将来的な金融システムの安定性に対する専門家による懸念表明です。",
-          "source": "MSN"
-        },
-        {
-          "title": "ジェット燃料供給不足の懸念",
-          "location": "米国",
-          "severity": 30,
-          "description": "米国でジェット燃料の供給が不足する可能性について議論されており、将来的な航空業界への影響やエネルギー安全保障に関する漠然とした不安が高まっています。",
-          "source": "NewsNation"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "戦争・地震を契機とする物資不足",
-      "incidents": [
-        {
-          "title": "戦争・地震を契機とするパニック買い",
-          "location": "韓国、日本",
-          "severity": 70,
-          "description": "戦争や地震などの脅威を契機に、韓国でゴミ袋、日本でトイレットペーパーといった生活必需品のパニック買いが発生しました。物資不足への懸念から消費行動が加速し、供給網に負荷がかかっています。",
-          "source": "Seoul Economic Daily"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "エネルギー不足の懸念",
-      "incidents": [
-        {
-          "title": "首相による燃料不足の警告",
-          "location": "オーストラリア",
-          "severity": 60,
-          "description": "アルバネーゼ首相が国民に対し、燃料不足による「不確実な時代」への準備を呼びかけました。政府の公式な警告は、消費者の買いだめ行動や経済不安を誘発する恐れがあります。",
-          "source": "The Australian Women's Weekly"
+          "title": "パレスチナ自治区西岸で死刑法案に抗議する大規模なゼネスト",
+          "location": "パレスチナ自治区 西岸地区",
+          "severity": 78,
+          "description": "イスラエルによる死刑法案可決に反発し、パレスチナ自治区西岸で大規模な抗議デモとゼネラルストライキが発生。多くの店舗が閉鎖され、社会機能が一部停止するなど、広範な社会不安と混乱が広がっている。",
+          "source": "Al Jazeera, The Times of Israel, AP News, Reuters 他多数"
         }
       ]
     },
     {
       "region": "south_asia",
       "panic_index": 75,
-      "status": "critical",
-      "main_cause": "エネルギー不足、大規模な抗議デモ",
+      "status": "volatile",
+      "main_cause": "エネルギー（LPG）不足、抗議デモ、交通混乱",
       "incidents": [
         {
-          "title": "LPG不足による大規模抗議と交通麻痺",
-          "location": "ハイデラバード、バンガロール、デリー（インド）",
-          "severity": 75,
-          "description": "ハイデラバードを中心にLPG（液化石油ガス）不足が深刻化し、オートリキシャ運転手や市民が大規模な抗議デモを実施。交通が麻痺し、販売店に顧客が殺到するなど、広範な社会不安と混乱が見られます。",
-          "source": "The Siasat Daily, newsage.in, Telangana Today 他"
+          "title": "インド各地でLPG不足による抗議デモと交通麻痺",
+          "location": "インド（ハイデラバード、ベンガルール他）",
+          "severity": 77,
+          "description": "インドのハイデラバードやベンガルールなどでLPG（液化石油ガス）不足が深刻化。オートリキシャ運転手による抗議デモが多発し、主要道路での交通麻痺や、流通業者に顧客が殺到するなどのパニック行動が見られる。",
+          "source": "newsage.in, The Siasat Daily, Social News XYZ 他"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 65,
+      "status": "unstable",
+      "main_cause": "戦争・地震への懸念によるパニック買い",
+      "incidents": [
+        {
+          "title": "韓国でゴミ袋、日本でトイレットペーパーのパニック買い",
+          "location": "韓国、日本",
+          "severity": 68,
+          "description": "戦争や地震といった突発的な事象を契機に、韓国でゴミ袋、日本でトイレットペーパーといった生活必需品のパニック買いが発生。物資が一時的に品薄となり、市民の不安が高まっている。",
+          "source": "Seoul Economic Daily"
+        }
+      ]
+    },
+    {
+      "region": "oceania",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "燃料供給への懸念、政府による警告",
+      "incidents": [
+        {
+          "title": "オーストラリア首相が燃料不足による「不確実な時代」を警告",
+          "location": "オーストラリア",
+          "severity": 48,
+          "description": "オーストラリアのアルバネーゼ首相が、燃料不足による「不確実な時代」を警告。政府による燃料税の半減策が発表されたものの、将来的な燃料供給と価格変動に対する国民の不安が高まっている。",
+          "source": "womensweekly.com.au, 9News.com.au"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 35,
+      "status": "stable",
+      "main_cause": "ジェット燃料供給不足への懸念",
+      "incidents": [
+        {
+          "title": "米国のジェット燃料供給不足の可能性に対する懸念",
+          "location": "米国",
+          "severity": 37,
+          "description": "米国ではジェット燃料の供給不足の可能性についてメディアが報じており、将来的なエネルギー供給への懸念が浮上している。現時点では直接的なパニック行動は見られないが、注視が必要な状況。",
+          "source": "NewsNation"
         }
       ]
     }
