@@ -1,19 +1,16 @@
 [
   {
     "date": "2026-04-03",
-    "summary": "イラン戦争の長期化懸念から原油価格が急騰し、世界経済に悪影響を及ぼしている。米国内の政治的混乱も市場の不確実性を高めている。暗号資産市場は規制の不透明感と市場操作疑惑により下落傾向。",
-    "overall_risk_level": "critical",
+    "summary": "イラン戦争の長期化懸念から原油価格が急騰し、暗号資産市場は下落。米国の政治的混乱も市場の不確実性を高めている。アジア市場はイースター休暇で取引が少ない中、ホルムズ海峡再開への期待から一部上昇。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "critical",
+      "global": "high",
       "north_america": "medium",
-      "europe": "none",
-      "east_asia": "medium",
-      "south_america": "none",
-      "africa": "none",
-      "middle_east": "critical"
+      "europe": "medium",
+      "east_asia": "medium"
     },
-    "generated_at": "2026-04-03T05:09:19.007199"
+    "generated_at": "2026-04-03T07:17:10.535824"
   },
   {
     "date": "2026-04-02",
