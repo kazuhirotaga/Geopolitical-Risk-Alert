@@ -1,17 +1,18 @@
 {
   "date": "2026-04-03",
-  "summary": "イラン戦争の長期化懸念から原油価格が急騰し、インフレ圧力が高まっている。米国内の政治的混乱も市場の不確実性を増大させている。暗号資産市場は原油価格上昇と規制強化の動きを受け、下落傾向にある。",
-  "overall_risk_level": "high",
+  "summary": "イラン戦争の長期化懸念から原油価格が急騰し、世界経済に悪影響を及ぼしている。米国内の政治的混乱も市場の不確実性を高めている。暗号資産市場は規制の不透明感と市場操作疑惑により下落傾向。",
+  "overall_risk_level": "critical",
   "articles": [
     {
-      "title": "U.S. crude on Thursday did something it's never done before as Iran war continues",
+      "title": "U.S. oil prices soar 11% as Trump's Iran war speech stokes fears of further escalation",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "イラン戦争の継続により、米国原油価格が過去にない動きを見せている。トランプ大統領が早期終戦を示唆していた市場の期待は裏切られている。",
-      "analysis": "イラン戦争の長期化は、原油供給の混乱を招き、価格高騰を引き起こしている。これは、インフレを加速させ、世界経済の成長を阻害する要因となる。特に、エネルギー輸入依存度の高い国々への影響が大きい。トランプ大統領の発言と実際の状況との乖離が、市場の不確実性を高めている。",
+      "summary": "トランプ大統領のイラン戦争に関する発言を受け、原油価格が11%急騰。戦争長期化への懸念が市場を圧迫している。",
+      "analysis": "トランプ大統領の発言は、イラン戦争が短期で終結するとの市場の期待を裏切り、原油価格の急騰を招いた。エネルギー価格の上昇は、インフレを加速させ、世界経済の成長を鈍化させる可能性がある。特に、原油輸入依存度の高い国々への影響は大きい。今後の戦争の展開と、それに対する米国の政策が、市場の動向を大きく左右すると考えられる。",
       "key_entities": [
         "Donald Trump",
-        "Iran"
+        "Iran",
+        "OPEC"
       ],
       "sources": [
         "CNBC - Top News"
@@ -24,11 +25,12 @@
       "title": "Dow closes lower as Trump comments dampen traders’ hopes for Iran war ending: Live updates",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "ダウ平均は、トランプ大統領のイラン戦争に関する発言を受け、戦争の長期化懸念から下落した。",
-      "analysis": "トランプ大統領のイラン戦争に関する発言は、市場のセンチメントに大きな影響を与えている。戦争の早期終結への期待が後退し、投資家心理が悪化している。これは、株式市場のボラティリティを高め、リスクオフの動きを加速させる可能性がある。",
+      "summary": "イラン戦争の長期化懸念から、ダウ平均株価は下落。トレーダーは戦争終結への期待を弱めている。",
+      "analysis": "イラン戦争の長期化は、サプライチェーンの混乱、エネルギー価格の高騰、地政学的リスクの増大を通じて、株式市場に悪影響を及ぼす。特に、中東地域への依存度が高い企業や、エネルギーコストの影響を受けやすい企業は、業績悪化のリスクに晒される。投資家は、リスク回避姿勢を強め、安全資産へのシフトを加速させる可能性がある。",
       "key_entities": [
-        "Donald Trump",
-        "Dow Industrials"
+        "Dow Industrials",
+        "Iran",
+        "Donald Trump"
       ],
       "sources": [
         "CNBC - Top News"
@@ -41,11 +43,12 @@
       "title": "Amazon to add 3.5% fuel and logistics surcharge for sellers as Iran war drives up energy prices",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "イラン戦争によるエネルギー価格の高騰を受け、Amazonは米国内の販売業者に対し、燃料および物流サーチャージを3.5%課すことを決定した。",
-      "analysis": "エネルギー価格の高騰は、企業のコスト増加につながり、最終的には消費者物価の上昇を招く。Amazonのサーチャージ導入は、インフレ圧力のさらなる高まりを示唆している。また、中小企業にとっては、コスト負担の増加が経営を圧迫する要因となる。",
+      "summary": "イラン戦争によるエネルギー価格高騰を受け、Amazonは販売業者に対し燃料・物流サーチャージを課す。",
+      "analysis": "Amazonのサーチャージ導入は、消費者物価の上昇を招き、インフレ圧力を高める可能性がある。また、中小規模の販売業者にとっては、コスト増による競争力低下のリスクがある。エネルギー価格の高騰は、物流業界全体に影響を及ぼし、サプライチェーンの効率性を低下させる可能性がある。",
       "key_entities": [
         "Amazon",
-        "Iran"
+        "Iran",
+        "Energy Prices"
       ],
       "sources": [
         "CNBC - Top News"
@@ -55,17 +58,36 @@
       ]
     },
     {
-      "title": "Trump fires Attorney General Pam Bondi",
+      "title": "Bitcoin heads into holiday weekend exposed as ETF and CME flows go offline",
       "region": "global",
       "risk_level": "medium",
-      "summary": "トランプ大統領は、パム・ボンディ司法長官を解任した。解任理由は、エプスタイン事件の処理と、政敵の訴追失敗に対する不満とされている。",
-      "analysis": "司法長官の解任は、法執行機関の独立性に対する懸念を高め、政治的安定を損なう可能性がある。また、今後の司法判断に対する不透明感を増大させ、市場の信頼を揺るがす要因となる。",
+      "summary": "ETFとCMEのフローが停止する中、ビットコインは脆弱な状態で週末を迎える。",
+      "analysis": "主要な取引フローが停止することで、ビットコインの流動性が低下し、価格変動リスクが高まる。特に、市場心理が悪化している状況下では、下落圧力が強まる可能性がある。規制の不透明感や市場操作疑惑も、投資家のリスク回避姿勢を強める要因となる。",
       "key_entities": [
-        "Donald Trump",
-        "Pam Bondi"
+        "Bitcoin",
+        "ETF",
+        "CME"
       ],
       "sources": [
-        "CNBC - Top News"
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Todd Blanche, author of DOJ crypto enforcement memo, is now interim AG",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "暗号資産規制に関する司法省のメモを作成したTodd Blancheが、暫定司法長官に就任。",
+      "analysis": "Blanche氏の暫定司法長官就任は、暗号資産に対する規制強化の可能性を示唆する。過去のメモの内容によっては、特定の暗号資産や関連企業に対する取り締まりが強化される可能性がある。規制の不透明感は、暗号資産市場全体の投資意欲を低下させる要因となる。",
+      "key_entities": [
+        "Todd Blanche",
+        "DOJ",
+        "Crypto"
+      ],
+      "sources": [
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -75,63 +97,15 @@
       "title": "Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report",
       "region": "east_asia",
       "risk_level": "medium",
-      "summary": "テスラの株価は、期待外れの納入報告を受け、2026年で最大の下げ幅を記録した。中国の競合他社からの低価格モデルの台頭も影響している。",
-      "analysis": "テスラの株価下落は、電気自動車市場の競争激化と、中国市場におけるテスラの地位低下を示唆している。これは、テスラの収益に悪影響を及ぼし、電気自動車セクター全体の投資家心理を悪化させる可能性がある。",
+      "summary": "テスラの株価が、期待外れの納入報告を受け、2026年で最大の下げ幅を記録。",
+      "analysis": "テスラの納入台数減少は、中国市場における競争激化や、サプライチェーンの混乱などが原因として考えられる。特に、中国市場での競争力低下は、今後の成長戦略に大きな影響を与える可能性がある。株価の下落は、投資家の信頼を損ない、資金調達の難易度を高める可能性がある。",
       "key_entities": [
-        "Tesla"
+        "Tesla",
+        "China",
+        "Deliveries Report"
       ],
       "sources": [
         "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Coinbaseは、米通貨監督庁から信託銀行としての条件付き承認を得た。これにより、ステーブルコイン事業の強化を目指す。",
-      "analysis": "Coinbaseの規制当局からの承認は、暗号資産市場における信頼性を高め、ステーブルコインの普及を促進する可能性がある。しかし、規制環境の変化は、暗号資産市場全体のボラティリティを高める要因ともなり得る。",
-      "key_entities": [
-        "Coinbase"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin trims big loss, stocks erase 2% decline, as Iran signals cooperation on key shipping route",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "イランが主要な輸送ルートでの協力を示唆したことで、ビットコインは大きな損失を縮小し、株式は2%の下落を消した。",
-      "analysis": "イランの協力姿勢は、ホルムズ海峡の封鎖リスクが緩和されるとの期待を高め、市場のセンチメントを改善させた。しかし、依然として地政学的リスクは高く、市場の変動は継続する可能性がある。",
-      "key_entities": [
-        "Bitcoin",
-        "Iran"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Crypto markets tumble as oil surges and traders pile into bearish bets: Crypto Markets Today",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "原油価格の急騰とトレーダーが弱気な賭けに殺到したため、暗号資産市場は急落した。",
-      "analysis": "原油価格の上昇はインフレ懸念を高め、リスク資産である暗号資産への投資意欲を減退させている。また、弱気なポジションが増加していることは、市場心理の悪化を示唆している。",
-      "key_entities": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "sources": [
-        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -140,10 +114,12 @@
     {
       "title": "Warner, Schiff probe potential insider trading in government",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "議員らは、ピート・ヘグセットに関連するブローカーが2月に防衛関連ETFに数百万ドルの投資を試みたという最近の報告書を引用した。",
-      "analysis": "政府関係者によるインサイダー取引疑惑は、市場の公正性に対する信頼を損なう。調査の結果次第では、関係者の処罰だけでなく、市場規制の強化につながる可能性もある。",
+      "risk_level": "high",
+      "summary": "政府関係者によるインサイダー取引の可能性について、ワーナー議員とシフ議員が調査を開始。",
+      "analysis": "政府関係者によるインサイダー取引疑惑は、市場の公正性に対する信頼を損ない、投資家の不信感を招く。特に、国防関連のETFへの投資疑惑は、倫理的な問題だけでなく、国家安全保障上のリスクも孕んでいる。調査の結果によっては、関係者の責任追及や、規制強化につながる可能性がある。",
       "key_entities": [
+        "Mark Warner",
+        "Adam Schiff",
         "Pete Hegseth"
       ],
       "sources": [
@@ -157,10 +133,46 @@
       "title": "United Airlines hikes checked bag fee by $10 as fuel prices continue to climb",
       "region": "global",
       "risk_level": "low",
-      "summary": "燃料価格の高騰が続く中、ユナイテッド航空は受託手荷物料金を10ドル引き上げた。",
-      "analysis": "燃料価格の上昇は航空会社の収益を圧迫し、料金引き上げにつながっている。これは、旅行需要の減少や、他の航空会社への追随を招く可能性がある。",
+      "summary": "燃料価格の高騰を受け、ユナイテッド航空は受託手荷物料金を10ドル引き上げ。",
+      "analysis": "ユナイテッド航空の手荷物料金引き上げは、他の航空会社にも追随する動きが広がる可能性がある。航空運賃の上昇は、旅行需要を抑制し、観光業界に悪影響を及ぼす可能性がある。燃料価格の高騰は、航空業界全体の収益性を圧迫し、経営破綻のリスクを高める可能性がある。",
       "key_entities": [
-        "United Airlines"
+        "United Airlines",
+        "Fuel Prices"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "トランプ政権は、米国での薬価引き下げに合意しない製薬会社に対し、最大100%の関税を課す準備を進めている。",
+      "analysis": "トランプ政権の関税措置は、対象となる製薬会社の収益を圧迫し、株価の下落を招く可能性がある。また、米国における医薬品価格の上昇を招き、医療費負担を増大させる可能性がある。関税措置の対象外となる企業との間で、不公平な競争環境が生じる可能性もある。",
+      "key_entities": [
+        "Donald Trump",
+        "Pharmaceutical Companies"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "Coinbaseは、ステーブルコイン事業強化に向け、米通貨監督庁から条件付き承認を取得。",
+      "analysis": "Coinbaseの承認取得は、ステーブルコイン市場における競争激化を招く可能性がある。規制当局の監視強化は、ステーブルコインの信頼性を高める一方で、イノベーションを阻害する可能性もある。ステーブルコインの普及は、既存の金融システムに影響を与え、新たな金融リスクを生み出す可能性がある。",
+      "key_entities": [
+        "Coinbase",
+        "Stablecoin",
+        "OCC"
       ],
       "sources": [
         "CNBC - Top News"
@@ -171,15 +183,15 @@
     }
   ],
   "region_risk_map": {
-    "global": "medium",
+    "global": "critical",
     "north_america": "medium",
-    "europe": "medium",
+    "europe": "none",
     "east_asia": "medium",
     "south_america": "none",
     "africa": "none",
     "middle_east": "critical"
   },
-  "generated_at": "2026-04-03T02:42:45.358358",
+  "generated_at": "2026-04-03T05:09:19.007199",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
