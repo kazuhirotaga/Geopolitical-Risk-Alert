@@ -1,124 +1,143 @@
 {
   "date": "2026-04-03",
-  "summary": "世界各地でエネルギー不足、金融不安、大規模な抗議デモが散発的に発生し、特定の地域では社会不安が顕著に高まっています。イランでは政治的弾圧と人権侵害が続き、深刻な社会秩序の危機に直面。オーストラリアや英国では燃料不足への懸念からパニック買いへの警告が出され、インドではエネルギー供給の遅延が各地で抗議活動に発展しています。米国では大規模デモが暴徒化し、一部金融機関では流動性危機への警戒感が見られますが、全体としてグローバルなパニック状態には至っていません。",
-  "global_panic_index": 65,
+  "summary": "世界各地でエネルギー不足が社会不安の主な要因となり、特にオーストラリアや英国では燃料の供給懸念からパニック買いへの警告が出され、警戒状態にあります。インドではエネルギー不足に起因する大規模な抗議活動が報告され、バングラデシュではディーゼル不足が食料生産に影響を与えています。米国では大規模な抗議デモが混沌化し、金融市場の流動性にも潜在的な懸念が見られるなど、全体的に社会は不安定な状態にあります。",
+  "global_panic_index": 68,
   "regions": [
-    {
-      "region": "middle_east",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "政治的弾圧、人権侵害、地政学的緊張",
-      "incidents": [
-        {
-          "title": "イラン、抗議デモ活動で１８歳の死刑執行 紛争下での処刑相次ぐ",
-          "location": "イラン",
-          "severity": 90,
-          "description": "イラン当局が反体制的な抗議デモに参加した18歳の少年に対し死刑を執行しました。紛争下での処刑が相次ぎ、市民の自由が極めて制限され、社会的な緊張と恐怖が高まっています。",
-          "source": "時事ドットコム"
-        },
-        {
-          "title": "Israel Attacks Iran: Death Law Sparks Global Fury",
-          "location": "イラン",
-          "severity": 80,
-          "description": "イスラエル攻撃と関連し、イラン国内の「死刑法」に対する世界的な怒りが高まっています。これはイラン国内の深刻な社会不安と人権問題、および国際的な地政学的緊張を反映しています。",
-          "source": "The Eastern Herald"
-        }
-      ]
-    },
-    {
-      "region": "oceania",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "エネルギー不足",
-      "incidents": [
-        {
-          "title": "Australians urged to ‘avoid panic buying’ as 600 service stations out of fuel",
-          "location": "オーストラリア",
-          "severity": 70,
-          "description": "オーストラリアで燃料不足が深刻化し、600カ所のガソリンスタンドで燃料切れが発生。政府は市民に対し、パニック買いを避けるよう強く呼びかけており、社会的な不安が高まっています。",
-          "source": "Sky News Australia"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "エネルギー不足",
-      "incidents": [
-        {
-          "title": "Auto drivers in Hyderabad protest by climbing mobile tower over CNG shortage",
-          "location": "ハイデラバード、インド",
-          "severity": 60,
-          "description": "インドのハイデラバードで、CNG（圧縮天然ガス）不足に対する抗議として、オートドライバーらが携帯電話の電波塔に登るという行動を起こしました。エネルギー不足が市民生活に深刻な影響を与え、社会的不満が高まっています。",
-          "source": "MSN"
-        },
-        {
-          "title": "Consumers protest outside LPG agencies in Kotkapura, Sadiq over delays; officials deny shortage",
-          "location": "コトカプラ、サディク、インド",
-          "severity": 55,
-          "description": "インドのコトカプラとサディクで、LPG（液化石油ガス）の供給遅延に対する消費者の抗議デモが発生しました。当局は不足を否定していますが、市民の不満と生活への影響が表面化しています。",
-          "source": "The Tribune"
-        },
-        {
-          "title": "Govt refutes video claim of Miranda House protest over LPG shortage, calls video misleading",
-          "location": "ミランダハウス、インド",
-          "severity": 50,
-          "description": "インド政府は、ミランダハウスでLPG不足に対する抗議デモが行われたという動画の主張を否定し、「誤解を招く」と発表しました。しかし、デモの主張自体がエネルギー不足への懸念を示唆しています。",
-          "source": "News On AIR"
-        }
-      ]
-    },
     {
       "region": "north_america",
       "panic_index": 55,
       "status": "unstable",
-      "main_cause": "社会不安、金融不安",
+      "main_cause": "大規模抗議デモ、金融市場の流動性懸念",
       "incidents": [
         {
-          "title": "'No Kings' Protest in Los Angeles Turns Chaotic as Dozens Arrested After Day of Mass Demonstrations",
-          "location": "ロサンゼルス、米国",
-          "severity": 65,
-          "description": "ロサンゼルスで行われた「No Kings」と題された大規模な抗議デモが暴徒化し、多数の逮捕者が出ました。これは局所的ではあるものの、社会秩序の不安定化と市民の間の深刻な対立を示しています。",
-          "source": "okmagazine.com"
+          "title": "ロサンゼルスで抗議デモが混沌化し多数逮捕",
+          "location": "米国、ロサンゼルス",
+          "severity": 70,
+          "description": "「No Kings」と題された抗議デモがロサンゼルスで混沌とした状況となり、多数の参加者が逮捕されました。これは大規模な社会不安の兆候と見られます。",
+          "source": "MSN"
         },
         {
-          "title": "Shadow bank Blue Owl caps private credit redemptions after investors try to pull $5.4 billion",
+          "title": "シャドーバンクが多額の資金引き出し後に償還を制限",
           "location": "米国",
-          "severity": 60,
-          "description": "米国を拠点とするシャドーバンクBlue Owlが、投資家が54億ドルを引き出そうとしたため、プライベートクレジットの償還を制限しました。これは取り付け騒ぎの初期段階にあたり、金融システムへの潜在的な不信感を示唆しています。",
+          "severity": 40,
+          "description": "金融投資家が54億ドルを引き出そうとした後、シャドーバンクであるBlue Owlがプライベートクレジットの償還を制限しました。これは金融市場の流動性に関する懸念を示唆しています。",
           "source": "thestreet.com"
         },
         {
-          "title": "The Liquidity Crunch: Why Crypto Exchanges Are Secretly Fearing A Bank Run",
-          "location": "グローバル（米国中心）",
-          "severity": 55,
-          "description": "仮想通貨取引所が流動性危機、ひいては銀行取り付け騒ぎを密かに恐れていると報じられています。これは伝統的な金融システムから仮想通貨市場に至るまで、広範な金融不安が潜在的に存在することを示唆しています。",
-          "source": "ABC Money"
+          "title": "銀行の流動性リスクと6.6兆ドルの仮想通貨への資金流出",
+          "location": "米国（広域）",
+          "severity": 50,
+          "description": "銀行の流動性がリスクにさらされており、6.6兆ドルもの資金が仮想通貨の利回りを求めて流出しているとの報道がありました。これは潜在的な金融不安を示すものです。",
+          "source": "Bitget"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "エネルギー不足、公共サービスへの影響",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、買いだめ、労働争議",
       "incidents": [
         {
-          "title": "Scots drivers warned to stay calm and not panic-buy fuel over shortage fears",
-          "location": "スコットランド、英国",
-          "severity": 60,
-          "description": "スコットランドのドライバーに対し、燃料不足の懸念から冷静を保ち、パニック買いを避けるよう警告が出されました。これは英国におけるエネルギー供給の不安定化と、それに伴う社会不安を示しています。",
+          "title": "スコットランドで燃料不足懸念からパニック買いをしないよう警告",
+          "location": "英国、スコットランド",
+          "severity": 75,
+          "description": "スコットランドのドライバーに対し、燃料不足の懸念から冷静を保ち、パニック買いをしないよう警告が出されました。これは買いだめの兆候と社会不安の高さを示しています。",
           "source": "The Scottish Sun"
         },
         {
-          "title": "Resident doctors in Lancashire set to strike after Easter bank holiday",
-          "location": "ランカシャー、英国",
-          "severity": 50,
-          "description": "英国ランカシャーのレジデント医師が、イースター休暇明けにストライキを行う予定です。これは医療サービスへの深刻な影響が懸念され、市民の不安を高める可能性があります。",
+          "title": "ヨーロッパの空港でジェット燃料不足が深刻化",
+          "location": "ヨーロッパ全域",
+          "severity": 65,
+          "description": "ヨーロッパの多くの空港でジェット燃料の供給不足が深刻化しており、航空業界の運営に影響を及ぼす可能性が懸念されています。これはエネルギー不足によるインフラへのリスクです。",
+          "source": "politico.eu"
+        },
+        {
+          "title": "英国ランカシャーの研修医がイースター明けにストライキを計画",
+          "location": "英国、ランカシャー",
+          "severity": 60,
+          "description": "英国ランカシャー州の研修医がイースターの連休後にストライキを決行する予定です。これは医療サービスへの影響が懸念される重要な労働争議であり、社会不安の要因となりえます。",
           "source": "Lancashire Telegraph"
         }
       ]
+    },
+    {
+      "region": "asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、買いだめ、大規模抗議デモ、食料生産への影響",
+      "incidents": [
+        {
+          "title": "オーストラリアで600箇所のガソリンスタンドが燃料切れ、パニック買いを避けるよう呼びかけ",
+          "location": "オーストラリア",
+          "severity": 80,
+          "description": "オーストラリアでは600箇所以上のサービスステーションで燃料が底をつき、国民に対しパニック買いを避けるよう緊急の呼びかけが行われています。広範囲な燃料切れとパニック買いの発生は深刻な状況を示しています。",
+          "source": "Sky News Australia"
+        },
+        {
+          "title": "バングラデシュの地域でディーゼル不足が米作に影響",
+          "location": "バングラデシュ",
+          "severity": 70,
+          "description": "バングラデシュのN地域でディーゼル燃料の供給不足が発生し、ボロ稲の灌漑作業に深刻な影響を与えています。これはエネルギー不足が直接食料生産に波及している状況です。",
+          "source": "The Financial Express"
+        },
+        {
+          "title": "インド・ハイデラバードでCNG不足に対する抗議デモ",
+          "location": "インド、ハイデラバード",
+          "severity": 60,
+          "description": "インドのハイデラバードで、CNG（圧縮天然ガス）の供給不足に抗議するため、オートリクシャーの運転手らが携帯電話の基地局に登ってデモを行いました。これはエネルギー不足による社会不安の表れです。",
+          "source": "MSN"
+        },
+        {
+          "title": "オーストラリアNT準州で電力配給が議論に",
+          "location": "オーストラリア、ノーザンテリトリー",
+          "severity": 65,
+          "description": "オーストラリアのノーザンテリトリー（NT）準州では、電力供給を維持することが困難になり、電力配給の導入が議論されています。これはエネルギー不足が生活に直接影響を及ぼす懸念を示します。",
+          "source": "The Australian"
+        },
+        {
+          "title": "インドのMP州で大規模な農民抗議デモが警告される",
+          "location": "インド、マディヤ・プラデーシュ州",
+          "severity": 55,
+          "description": "インドのマディヤ・プラデーシュ（MP）州で、農民の福祉に対する政府の対応を巡り、議会が大規模な抗議デモを警告しています。これは広範な社会的不満が蓄積している兆候です。",
+          "source": "thehansindia.com"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 10,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 10,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 10,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "south_america",
+      "panic_index": 10,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 10,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": []
     }
   ]
 }

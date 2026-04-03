@@ -1,8 +1,24 @@
 [
   {
     "date": "2026-04-03",
-    "summary": "中東におけるイランとアメリカの緊張激化、ウクライナにおける防空戦の継続、レバノンにおけるイスラエルとヒズボラの戦闘拡大が確認された。アメリカはイランに対する地上作戦の準備を進めている。",
+    "summary": "米イラン間で軍事衝突が激化。イランがアメリカ軍基地を攻撃し、アメリカ軍戦闘機が撃墜される。ウクライナは自国の防空能力向上を主張、中東への防空技術輸出も視野に。",
     "events": [
+      {
+        "id": "EVENT-20260403-001",
+        "timestamp": "2026-04-03",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ軍F-15E戦闘機がイラン領内で撃墜",
+        "content": "アメリカ軍のF-15E戦闘機がイラン領内で撃墜された。生存者の捜索救助活動が行われている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "attack",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
+      },
       {
         "id": "event-1",
         "timestamp": "2026-04-01",
@@ -18,22 +34,6 @@
         "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-03-27",
-        "location": "レバノン",
-        "region": "middle_east",
-        "title": "イスラエルとヒズボラの戦闘激化",
-        "content": "レバノンにおいて、イスラエル軍とヒズボラの戦闘が激化。ヒズボラは防御線を維持するのではなく、攻撃後に地形を利用して撤退する戦術を採用。",
-        "involved_parties": [
-          "イスラエル軍",
-          "ヒズボラ"
-        ],
-        "event_type": "clash",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
       },
       {
         "id": "event-3",
@@ -68,6 +68,85 @@
         "source_url": "https://www.defensenews.com/news/your-military/2026/04/01/is-the-us-running-out-of-tomahawk-missiles-heres-what-the-experts-say/"
       },
       {
+        "id": "EVENT-20260401-001",
+        "timestamp": "2026-04-01",
+        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAEのアメリカ軍基地",
+        "region": "middle_east",
+        "title": "イランがアメリカ軍基地のインフラを攻撃",
+        "content": "イランが、バーレーン、カタール、クウェート、サウジアラビア、UAEに所在するアメリカ軍基地に対して、レーダーシステム、衛星通信、重要航空機などを標的とした攻撃を実施。",
+        "involved_parties": [
+          "イラン",
+          "アメリカ軍"
+        ],
+        "event_type": "attack",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
+      },
+      {
+        "id": "EVENT-20260401-002",
+        "timestamp": "2026-04-01",
+        "location": "不明",
+        "region": "europe",
+        "title": "ウクライナ、3月中に90%近い防空成功率を主張",
+        "content": "ウクライナ国防省は、3月中の攻撃頻度が増加しているにもかかわらず、防空性能が向上していると発表。具体的な場所、交戦状況は不明。",
+        "involved_parties": [
+          "ウクライナ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
+      },
+      {
+        "id": "EVENT-20260401-003",
+        "timestamp": "2026-04-01",
+        "location": "不明",
+        "region": "middle_east",
+        "title": "アメリカ軍、「オペレーション・エピック・フューリー」で850発以上のトマホークミサイル発射",
+        "content": "アメリカ軍は「オペレーション・エピック・フューリー」において、開始から1ヶ月強で少なくとも850発のトマホーク長距離巡航ミサイルを発射したとされる。作戦の詳細は不明。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/01/is-the-us-running-out-of-tomahawk-missiles-heres-what-the-experts-say/"
+      },
+      {
+        "id": "event-9",
+        "timestamp": "2026-03-31",
+        "location": "イタリア・シチリア島",
+        "region": "europe",
+        "title": "イタリアが中東行きの米軍機にシチリアでの寄港を拒否",
+        "content": "イタリアがイランに対する米・イスラエル戦争のためのシゴネラ空軍基地の使用は協定の範囲外であるとし、ローマでの議会承認を要求した。",
+        "involved_parties": [
+          "イタリア",
+          "アメリカ軍",
+          "イスラエル"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/"
+      },
+      {
+        "id": "EVENT-20260331-001",
+        "timestamp": "2026-03-31",
+        "location": "イタリア・シチリア島",
+        "region": "europe",
+        "title": "イタリア、中東へ向かうアメリカ軍機に対するシチリア島での経由を拒否",
+        "content": "イタリア政府は、アメリカとイスラエルによるイランへの戦争のためのシチリア島シゴネラ空軍基地の使用は協定の範囲外であり、ローマでの議会承認が必要であるとして、アメリカ軍機の経由を拒否。",
+        "involved_parties": [
+          "イタリア政府",
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/"
+      },
+      {
         "id": "event-5",
         "timestamp": "2026-03-30",
         "location": "中東",
@@ -81,21 +160,6 @@
         "urgency": "low",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/30/japanese-destroyer-can-now-fire-tomahawk-missiles-extending-nations-combat-punch/"
-      },
-      {
-        "id": "event-6",
-        "timestamp": "2026-03-28",
-        "location": "中東",
-        "region": "middle_east",
-        "title": "USSトリポリ揚陸即応群が中東に到着",
-        "content": "USSトリポリ揚陸即応群と第31海兵遠征隊がCENTCOM管轄海域に到着。",
-        "involved_parties": [
-          "アメリカ軍"
-        ],
-        "event_type": "other",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/28/uss-tripoli-embarked-31st-marine-expeditionary-unit-arrive-in-middle-east/"
       },
       {
         "id": "event-7",
@@ -129,21 +193,50 @@
         "source_url": "https://www.defensenews.com/global/europe/2026/03/30/missile-wielding-airbus-interceptor-engages-one-way-attack-drone-in-test/"
       },
       {
-        "id": "event-9",
-        "timestamp": "2026-03-31",
-        "location": "イタリア・シチリア島",
+        "id": "EVENT-20260330-001",
+        "timestamp": "2026-03-30",
+        "location": "不明",
         "region": "europe",
-        "title": "イタリアが中東行きの米軍機にシチリアでの寄港を拒否",
-        "content": "イタリアがイランに対する米・イスラエル戦争のためのシゴネラ空軍基地の使用は協定の範囲外であるとし、ローマでの議会承認を要求した。",
+        "title": "ミサイル搭載のエアバス迎撃機が一方通行攻撃ドローンをテストで迎撃",
+        "content": "ドローンとミサイルの組み合わせにより、大規模な迎撃が経済的に実行可能になると製造業者は主張。",
         "involved_parties": [
-          "イタリア",
-          "アメリカ軍",
-          "イスラエル"
+          "エアバス"
         ],
         "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/30/missile-wielding-airbus-interceptor-engages-one-way-attack-drone-in-test/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-03-28",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "USSトリポリ揚陸即応群が中東に到着",
+        "content": "USSトリポリ揚陸即応群と第31海兵遠征隊がCENTCOM管轄海域に到着。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/03/28/uss-tripoli-embarked-31st-marine-expeditionary-unit-arrive-in-middle-east/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-03-27",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "イスラエルとヒズボラの戦闘激化",
+        "content": "レバノンにおいて、イスラエル軍とヒズボラの戦闘が激化。ヒズボラは防御線を維持するのではなく、攻撃後に地形を利用して撤退する戦術を採用。",
+        "involved_parties": [
+          "イスラエル軍",
+          "ヒズボラ"
+        ],
+        "event_type": "clash",
         "urgency": "medium",
         "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/"
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
       }
     ]
   },
