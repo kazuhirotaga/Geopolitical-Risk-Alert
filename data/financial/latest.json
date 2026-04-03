@@ -1,122 +1,70 @@
 {
   "date": "2026-04-03",
-  "summary": "イラン戦争の長期化による原油価格高騰、インフレ懸念、サプライチェーン混乱が金融市場を圧迫。地政学的リスクに加え、暗号資産市場の規制強化や技術的脆弱性もリスク要因として顕在化している。",
+  "summary": "イラン戦争の継続による原油価格高騰、トランプ政権の政策変更、暗号資産市場の不安定化などが複合的に影響し、金融市場全体のリスクが高まっています。特に中東地域のリスクが顕著です。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "U.S. crude on Thursday did something it's never done before as Iran war continues",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "イラン戦争の継続により、米国原油市場で前例のない事態が発生。原油価格高騰が経済全体に悪影響を及ぼす可能性。",
-      "analysis": "イラン戦争の長期化は、原油価格の急騰を招き、インフレを加速させる主要因となっている。特に、トランプ政権が早期終結を期待されていたにも関わらず、戦争が長期化している現状は、市場の不確実性を高めている。エネルギー価格の上昇は、輸送コストの増加を通じて、広範囲の産業に影響を及ぼし、企業収益の圧迫や消費者物価の上昇につながる。原油価格の動向は、今後の金融政策にも大きな影響を与え、利上げ圧力を強める可能性がある。",
-      "key_entities": [
-        "OPEC",
-        "米国エネルギー情報局 (EIA)",
-        "トランプ政権"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Amazon to add 3.5% fuel and logistics surcharge for sellers as Iran war drives up energy prices",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イラン戦争によるエネルギー価格高騰を受け、Amazonが燃料・物流サーチャージを導入。消費者への価格転嫁が進む可能性。",
-      "analysis": "Amazonのサーチャージ導入は、イラン戦争によるサプライチェーンへの影響が深刻化していることを示唆している。燃料価格の上昇は、物流コストを増加させ、最終的には消費者価格の上昇につながる。特に、Amazonのような大手企業が価格転嫁を行うことで、他の企業も追随する可能性があり、インフレ圧力がさらに高まることが懸念される。消費者の購買意欲低下や企業収益の悪化につながる可能性も考慮する必要がある。",
-      "key_entities": [
-        "Amazon",
-        "米国消費者物価指数 (CPI)"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "量子コンピュータの脅威に対抗するNaoris Protocolの量子耐性ブロックチェーンが稼働。既存暗号資産の脆弱性が露呈。",
-      "analysis": "量子コンピュータの実用化は、BitcoinやEthereumなどの既存の暗号資産のセキュリティを脅かす可能性があり、いわゆる「Q-Day」と呼ばれるリスクが現実味を帯びている。Naoris Protocolのような量子耐性ブロックチェーンの登場は、このリスクに対する対策として注目されるが、既存の暗号資産からの移行や技術的な課題も存在する。量子コンピュータの進化と暗号資産のセキュリティ対策の競争は、今後の暗号資産市場の動向を左右する重要な要素となる。",
-      "key_entities": [
-        "Bitcoin",
-        "Ethereum",
-        "Naoris Protocol"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin heads into holiday weekend exposed as ETF and CME flows go offline",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "休日期間中、ETFやCMEの取引が停止することで、Bitcoin市場の流動性が低下し、価格変動リスクが高まる。",
-      "analysis": "Bitcoin市場は、ETFやCMEなどの機関投資家の参加により、以前よりも安定性が増している。しかし、休日期間中にこれらの取引が停止することで、市場の流動性が低下し、価格操作や急激な価格変動のリスクが高まる。特に、地政学的リスクやマクロ経済の不確実性が高まっている状況下では、注意が必要である。",
-      "key_entities": [
-        "Bitcoin",
-        "CME Group",
-        "Bitcoin ETF"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Todd Blanche, author of DOJ crypto enforcement memo, is now interim AG",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "暗号資産規制に関する司法省メモの作成者であるTodd Blancheが暫定司法長官に就任。規制強化の可能性。",
-      "analysis": "Todd Blancheの暫定司法長官就任は、暗号資産市場に対する規制強化の可能性を示唆している。Blancheが過去に作成した司法省メモの内容によっては、暗号資産関連企業に対する捜査や訴訟が増加する可能性がある。規制の明確化は、長期的に市場の健全性を高める可能性があるが、短期的な市場の混乱や価格下落のリスクも考慮する必要がある。",
-      "key_entities": [
-        "米国司法省 (DOJ)",
-        "Todd Blanche"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "Teslaの納車台数減少により株価が急落。中国市場での競争激化が要因。",
-      "analysis": "Teslaの株価急落は、中国市場における競争激化と、それに伴う納車台数の減少が主な要因である。中国のEV市場は、政府の補助金政策や地元のEVメーカーの台頭により、競争が激化しており、Teslaは価格競争や技術革新において、より厳しい状況に置かれている。Teslaの株価は、今後の中国市場での戦略や、新技術の開発動向によって大きく左右される可能性がある。",
-      "key_entities": [
-        "Tesla",
-        "中国EV市場"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
       "title": "United Airlines hikes checked bag fee by $10 as fuel prices continue to climb",
       "region": "global",
-      "risk_level": "low",
-      "summary": "燃料価格の高騰を受け、ユナイテッド航空が受託手荷物料金を値上げ。航空業界全体への影響が懸念される。",
-      "analysis": "ユナイテッド航空の手荷物料金値上げは、燃料価格の高騰が航空業界全体に及ぼす影響を示している。燃料価格の上昇は、航空会社の収益を圧迫し、運賃の値上げやサービスの削減につながる可能性がある。消費者の旅行意欲低下や航空業界全体の業績悪化につながる可能性も考慮する必要がある。",
+      "risk_level": "medium",
+      "summary": "燃料価格の高騰を受け、ユナイテッド航空が受託手荷物料金を10ドル引き上げ。航空業界全体への影響が懸念される。",
+      "analysis": "原油価格の高騰は航空会社の収益を圧迫し、消費者への負担増につながる可能性があります。インフレ圧力の増大も懸念され、金融政策への影響も考慮する必要があります。他航空会社も追随する可能性があり、業界全体の価格戦略に影響を与える可能性があります。",
       "key_entities": [
-        "ユナイテッド航空",
-        "航空業界"
+        "United Airlines",
+        "Jet Fuel"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "トランプ政権の関税政策の影響が、小売や自動車産業を中心に依然として残っており、企業は経済・政策リスクのモデル化を再考している。",
+      "analysis": "過去の貿易戦争の影響は、サプライチェーンの混乱やコスト増加を通じて、企業収益を圧迫し続けています。不確実性の高まりは投資判断を難しくし、経済成長の足かせとなる可能性があります。今後の貿易政策の動向に注意が必要です。",
+      "key_entities": [
+        "Trump",
+        "Retail",
+        "Autos"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Asia-Pacific markets mostly rise in Easter trade on hopes for Hormuz reopening",
+      "region": "east_asia",
+      "risk_level": "medium",
+      "summary": "ホルムズ海峡の再開への期待から、アジア太平洋市場は概ね上昇。ただし、オーストラリアと香港の市場はイースター休暇で休場。",
+      "analysis": "ホルムズ海峡の閉鎖は原油価格の高騰を招き、世界経済に悪影響を及ぼします。再開への期待は市場心理を改善させますが、地政学的リスクは依然として高い状態です。今後の情勢次第では、市場が急変する可能性もあります。",
+      "key_entities": [
+        "Kospi",
+        "Nikkei 225",
+        "Hormuz Strait"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Army chief of staff fired by Hegseth, sources say",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "米国陸軍参謀総長が解任。国防総省高官の人事刷新が進んでいる。",
+      "analysis": "国防総省の人事刷新は、政策の方向性や軍事戦略に影響を与える可能性があります。特に、イラン戦争が継続している状況下では、政権の安定性に対する懸念が高まる可能性があります。今後の人事動向と政策変更に注意が必要です。",
+      "key_entities": [
+        "Randy George",
+        "Pete Hegseth"
       ],
       "sources": [
         "CNBC - Top News"
@@ -128,12 +76,13 @@
     {
       "title": "Warner, Schiff probe potential insider trading in government",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "政府関係者のインサイダー取引疑惑をワーナー議員とシフ議員が調査。政府への信頼低下と市場の透明性への影響が懸念される。",
-      "analysis": "政府関係者のインサイダー取引疑惑は、政府への信頼を損ない、市場の公正性を疑わせる要因となる。特に、国防関連のETFへの投資疑惑は、情報漏洩や利益相反の可能性を示唆しており、徹底的な調査が必要である。インサイダー取引は、市場の透明性を低下させ、投資家の信頼を失わせるため、厳格な規制と監視が求められる。",
+      "risk_level": "high",
+      "summary": "政府関係者によるインサイダー取引の疑いが浮上。Pete Hegsethに関連するブローカーが防衛関連ETFに多額の投資を試みたとの報道も。",
+      "analysis": "政府関係者によるインサイダー取引は、市場の公正性を損ない、投資家の信頼を失墜させる可能性があります。特に、防衛関連ETFへの投資は、イラン戦争の状況下では利益相反の疑いを持たれる可能性があります。調査の進展によっては、政権への信頼が揺らぎ、市場に悪影響を与える可能性があります。",
       "key_entities": [
-        "米国議会",
-        "Pete Hegseth"
+        "Pete Hegseth",
+        "Mark Warner",
+        "Adam Schiff"
       ],
       "sources": [
         "CNBC - Top News"
@@ -143,14 +92,31 @@
       ]
     },
     {
-      "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
+      "title": "Trump fires Attorney General Pam Bondi",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "トランプ政権が一部の輸入医薬品に最大100%の関税を課す方針。製薬業界への影響と貿易摩擦の激化が懸念される。",
-      "analysis": "トランプ政権の輸入医薬品に対する関税賦課は、製薬業界に大きな影響を与える可能性がある。関税の対象となる医薬品の価格上昇は、消費者の負担を増加させ、医療費の増大につながる。また、関税措置は、貿易摩擦を激化させ、国際的なサプライチェーンの混乱を招く可能性もある。ただし、多くの企業が免除対象となっているため、影響は限定的である可能性もある。",
+      "risk_level": "high",
+      "summary": "トランプ大統領が司法長官を解任。政治的な敵対者の訴追を怠ったことが理由とされる。",
+      "analysis": "司法長官の解任は、司法の独立性に対する懸念を高め、政治的な不確実性を増大させる可能性があります。特に、政治的な敵対者の訴追を理由とする場合、政権の権力乱用に対する批判が高まる可能性があります。今後の司法省の動向に注意が必要です。",
       "key_entities": [
-        "トランプ政権",
-        "製薬業界"
+        "Trump",
+        "Pam Bondi"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Amazon to add 3.5% fuel and logistics surcharge for sellers as Iran war drives up energy prices",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "イラン戦争によるエネルギー価格の高騰を受け、Amazonが米国とカナダのサードパーティセラー向けに3.5%の燃料・物流サーチャージを追加。",
+      "analysis": "燃料価格の高騰は、物流コストの増加を通じて、消費者物価の上昇を招く可能性があります。Amazonのサーチャージ導入は、他の小売業者にも同様の動きを促す可能性があり、インフレ圧力の増大につながる可能性があります。イラン戦争の長期化は、サプライチェーン全体に悪影響を及ぼす可能性があります。",
+      "key_entities": [
+        "Amazon",
+        "Iran War"
       ],
       "sources": [
         "CNBC - Top News"
@@ -162,16 +128,49 @@
     {
       "title": "Iran and Oman drafting protocol to 'monitor' Hormuz Strait traffic: IRNA",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イランとオマーンがホルムズ海峡の交通を監視する協定を締結。原油輸送への影響と地政学的リスクの高まりが懸念される。",
-      "analysis": "イランとオマーンによるホルムズ海峡の監視協定は、原油輸送の安全保障に対する懸念を高める。ホルムズ海峡は、世界の原油輸送の重要なルートであり、その封鎖や妨害は、原油価格の急騰や世界経済の混乱を招く可能性がある。イラン戦争の継続と相まって、地政学的リスクがさらに高まっている状況であり、注意が必要である。",
+      "risk_level": "critical",
+      "summary": "イランとオマーンがホルムズ海峡の交通を「監視」する協定を起草。イラン戦争開始以来、ホルムズ海峡は事実上閉鎖されている。",
+      "analysis": "ホルムズ海峡の閉鎖は、世界の原油供給に深刻な影響を与え、原油価格の高騰を招いています。イランとオマーンの協定は、イランによる海峡の支配を強化する可能性があり、地政学的リスクをさらに高める可能性があります。今後の国際的な対応に注目が集まります。",
       "key_entities": [
-        "イラン",
-        "オマーン",
-        "ホルムズ海峡"
+        "Iran",
+        "Oman",
+        "Hormuz Strait"
       ],
       "sources": [
         "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Here’s why bitcoin’s drop below $68,000 raises the risk of a crash under $60,000",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ビットコインが68,000ドルを下回ったことで、60,000ドル割れのリスクが高まっている。",
+      "analysis": "暗号資産市場はボラティリティが高く、価格変動リスクが常に存在します。ビットコインの価格下落は、市場全体のセンチメントを悪化させ、さらなる下落を招く可能性があります。規制の不確実性やマクロ経済の動向も、暗号資産市場に影響を与える要因となります。",
+      "key_entities": [
+        "Bitcoin"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Oil shock, Iran war risk keep crypto investors on sidelines: Grayscale",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "原油価格の高騰とイラン戦争のリスクが、暗号資産投資家を様子見姿勢にさせている。",
+      "analysis": "地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、暗号資産市場からの資金流出を招く可能性があります。原油価格の高騰は、インフレ懸念を高め、金融政策の引き締めを促す可能性があり、暗号資産市場にとってマイナス要因となります。",
+      "key_entities": [
+        "Grayscale",
+        "Iran War"
+      ],
+      "sources": [
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -183,11 +182,9 @@
     "north_america": "medium",
     "europe": "medium",
     "east_asia": "medium",
-    "south_america": "none",
-    "africa": "none",
     "middle_east": "critical"
   },
-  "generated_at": "2026-04-03T09:57:02.505286",
+  "generated_at": "2026-04-03T13:13:19.371863",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

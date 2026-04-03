@@ -1,150 +1,122 @@
 {
   "date": "2026-04-03",
-  "summary": "世界各地でエネルギー不足、金融市場の不安定化、大規模な抗議活動が報告されており、一部地域では生活必需品の供給不安が顕著です。特にヨーロッパやオーストラリアでは燃料不足による買いだめ懸念が強く、北米の金融市場にも警戒すべき兆候が見られます。インドでは多岐にわたるエネルギー不足が市民の抗議活動に繋がり、南アフリカでは社会不安が継続しています。全体として、社会秩序への直接的な脅威は限定的ですが、特定の地域や分野での警戒状態が続いています。",
-  "global_panic_index": 68,
+  "summary": "世界各地でエネルギー不足、金融不安、大規模な抗議デモが散発的に発生し、特定の地域では社会不安が顕著に高まっています。イランでは政治的弾圧と人権侵害が続き、深刻な社会秩序の危機に直面。オーストラリアや英国では燃料不足への懸念からパニック買いへの警告が出され、インドではエネルギー供給の遅延が各地で抗議活動に発展しています。米国では大規模デモが暴徒化し、一部金融機関では流動性危機への警戒感が見られますが、全体としてグローバルなパニック状態には至っていません。",
+  "global_panic_index": 65,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "金融市場の不安定化、大規模な抗議活動",
+      "region": "middle_east",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "政治的弾圧、人権侵害、地政学的緊張",
       "incidents": [
         {
-          "title": "プライベートクレジット市場における緩慢な取り付け騒ぎ",
-          "location": "米国",
-          "severity": 60,
-          "description": "プライベートクレジット市場で「スローモーションの取り付け騒ぎ」が進行していると報告されており、金融市場の一部に不安が広がっている。",
-          "source": "Protos | Informed crypto news"
+          "title": "イラン、抗議デモ活動で１８歳の死刑執行 紛争下での処刑相次ぐ",
+          "location": "イラン",
+          "severity": 90,
+          "description": "イラン当局が反体制的な抗議デモに参加した18歳の少年に対し死刑を執行しました。紛争下での処刑が相次ぎ、市民の自由が極めて制限され、社会的な緊張と恐怖が高まっています。",
+          "source": "時事ドットコム"
         },
         {
-          "title": "シャドーバンクBlue Owl、投資家による54億ドル引き出し試みを受け償還制限",
-          "location": "米国",
-          "severity": 75,
-          "description": "シャドーバンクのBlue Owlが、投資家による大規模な資金引き出し要求に対し、償還を制限。金融システムの流動性に関する懸念が浮上している。",
-          "source": "thestreet.com"
-        },
+          "title": "Israel Attacks Iran: Death Law Sparks Global Fury",
+          "location": "イラン",
+          "severity": 80,
+          "description": "イスラエル攻撃と関連し、イラン国内の「死刑法」に対する世界的な怒りが高まっています。これはイラン国内の深刻な社会不安と人権問題、および国際的な地政学的緊張を反映しています。",
+          "source": "The Eastern Herald"
+        }
+      ]
+    },
+    {
+      "region": "oceania",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "エネルギー不足",
+      "incidents": [
         {
-          "title": "西部ニューヨーク州、深刻な医療従事者不足の解決策を模索",
-          "location": "米国、ニューヨーク州",
-          "severity": 45,
-          "description": "西部ニューヨーク州で医療従事者の深刻な不足が問題となっており、地域社会の医療提供体制に中長期的な不安を引き起こしている。",
-          "source": "WKBW"
-        },
-        {
-          "title": "ロサンゼルスでの「No Kings」抗議活動が混乱し多数逮捕",
-          "location": "米国、ロサンゼルス",
+          "title": "Australians urged to ‘avoid panic buying’ as 600 service stations out of fuel",
+          "location": "オーストラリア",
           "severity": 70,
-          "description": "ロサンゼルスで「No Kings」抗議活動が混沌とした状況となり、多数の逮捕者が出た。社会秩序の乱れと警察との衝突が報じられている。",
+          "description": "オーストラリアで燃料不足が深刻化し、600カ所のガソリンスタンドで燃料切れが発生。政府は市民に対し、パニック買いを避けるよう強く呼びかけており、社会的な不安が高まっています。",
+          "source": "Sky News Australia"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "エネルギー不足",
+      "incidents": [
+        {
+          "title": "Auto drivers in Hyderabad protest by climbing mobile tower over CNG shortage",
+          "location": "ハイデラバード、インド",
+          "severity": 60,
+          "description": "インドのハイデラバードで、CNG（圧縮天然ガス）不足に対する抗議として、オートドライバーらが携帯電話の電波塔に登るという行動を起こしました。エネルギー不足が市民生活に深刻な影響を与え、社会的不満が高まっています。",
           "source": "MSN"
         },
         {
-          "title": "銀行の流動性が危機に瀕し、6.6兆ドルが暗号資産利回りへ流出",
-          "location": "グローバル（主に北米市場に影響）",
+          "title": "Consumers protest outside LPG agencies in Kotkapura, Sadiq over delays; officials deny shortage",
+          "location": "コトカプラ、サディク、インド",
+          "severity": 55,
+          "description": "インドのコトカプラとサディクで、LPG（液化石油ガス）の供給遅延に対する消費者の抗議デモが発生しました。当局は不足を否定していますが、市民の不満と生活への影響が表面化しています。",
+          "source": "The Tribune"
+        },
+        {
+          "title": "Govt refutes video claim of Miranda House protest over LPG shortage, calls video misleading",
+          "location": "ミランダハウス、インド",
+          "severity": 50,
+          "description": "インド政府は、ミランダハウスでLPG不足に対する抗議デモが行われたという動画の主張を否定し、「誤解を招く」と発表しました。しかし、デモの主張自体がエネルギー不足への懸念を示唆しています。",
+          "source": "News On AIR"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "社会不安、金融不安",
+      "incidents": [
+        {
+          "title": "'No Kings' Protest in Los Angeles Turns Chaotic as Dozens Arrested After Day of Mass Demonstrations",
+          "location": "ロサンゼルス、米国",
           "severity": 65,
-          "description": "銀行の流動性がリスクに晒されており、6.6兆ドルもの資金がより高い利回りを求めて暗号資産市場へ流出。金融安定性への懸念が高まっている。",
-          "source": "Bitget"
+          "description": "ロサンゼルスで行われた「No Kings」と題された大規模な抗議デモが暴徒化し、多数の逮捕者が出ました。これは局所的ではあるものの、社会秩序の不安定化と市民の間の深刻な対立を示しています。",
+          "source": "okmagazine.com"
+        },
+        {
+          "title": "Shadow bank Blue Owl caps private credit redemptions after investors try to pull $5.4 billion",
+          "location": "米国",
+          "severity": 60,
+          "description": "米国を拠点とするシャドーバンクBlue Owlが、投資家が54億ドルを引き出そうとしたため、プライベートクレジットの償還を制限しました。これは取り付け騒ぎの初期段階にあたり、金融システムへの潜在的な不信感を示唆しています。",
+          "source": "thestreet.com"
+        },
+        {
+          "title": "The Liquidity Crunch: Why Crypto Exchanges Are Secretly Fearing A Bank Run",
+          "location": "グローバル（米国中心）",
+          "severity": 55,
+          "description": "仮想通貨取引所が流動性危機、ひいては銀行取り付け騒ぎを密かに恐れていると報じられています。これは伝統的な金融システムから仮想通貨市場に至るまで、広範な金融不安が潜在的に存在することを示唆しています。",
+          "source": "ABC Money"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 75,
-      "status": "critical",
-      "main_cause": "燃料および医薬品不足、買いだめ懸念",
-      "incidents": [
-        {
-          "title": "スコットランドのドライバーに燃料不足への冷静な対応とパニック買いの自粛を呼びかけ",
-          "location": "英国、スコットランド",
-          "severity": 70,
-          "description": "スコットランドで燃料不足の懸念が広がり、ドライバーに対しパニック買いを避け、冷静に行動するよう警告が出されている。",
-          "source": "thescottishsun.co.uk"
-        },
-        {
-          "title": "ダンディーのガソリンスタンドで燃料切れ、ドライバーに注意喚起",
-          "location": "英国、ダンディー",
-          "severity": 65,
-          "description": "スコットランドのダンディー市では複数のガソリンスタンドで燃料が売り切れとなり、ドライバーに影響が及んでいる。",
-          "source": "The Courier"
-        },
-        {
-          "title": "英国、数日中に4種類の一般医薬品が不足する可能性",
-          "location": "英国",
-          "severity": 75,
-          "description": "英国で数日中に4種類の一般的な医薬品が不足するとの予測が出ており、公衆衛生と患者への影響が懸念されている。",
-          "source": "Birmingham Live"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "部族主義的対立を伴う社会不安と抗議活動",
-      "incidents": [
-        {
-          "title": "東ケープ州の暴動で部族主義的抗議チャントを巡り衝突",
-          "location": "南アフリカ、東ケープ州",
-          "severity": 70,
-          "description": "南アフリカの東ケープ州で発生した暴動において、部族主義的な抗議チャントを巡る衝突が発生し、社会不安が高まっている。",
-          "source": "TimesLIVE"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 60,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "エネルギー不足、抗議デモ、生活インフラへの影響",
+      "main_cause": "エネルギー不足、公共サービスへの影響",
       "incidents": [
         {
-          "title": "ハイデラバードのオートドライバーがCNG不足に抗議し携帯電話塔に登る",
-          "location": "インド、ハイデラバード",
-          "severity": 65,
-          "description": "インドのハイデラバードでCNG（圧縮天然ガス）不足に抗議するため、オートドライバーが携帯電話塔に登るという過激なデモが行われた。",
-          "source": "MSN"
-        },
-        {
-          "title": "政府、LPG不足抗議の動画を否定し「誤解を招く」と発表",
-          "location": "インド",
-          "severity": 50,
-          "description": "LPG（液化石油ガス）不足に関する抗議活動の動画が出回る中、インド政府はこれを否定し、動画は誤解を招くものだと発表。情報が錯綜している。",
-          "source": "News On AIR"
-        },
-        {
-          "title": "消費者、LPG供給の遅延に抗議、当局は不足を否定",
-          "location": "インド、コトカプラ、サディク",
-          "severity": 55,
-          "description": "インドのコトカプラとサディクで、LPG供給の遅延に不満を抱く消費者による抗議活動が発生。当局は不足を否定している。",
-          "source": "The Tribune"
-        },
-        {
-          "title": "インド、夏季の電力不足を防ぐため輸入石炭火力発電所のフル稼働を指示",
-          "location": "インド",
+          "title": "Scots drivers warned to stay calm and not panic-buy fuel over shortage fears",
+          "location": "スコットランド、英国",
           "severity": 60,
-          "description": "インド政府は夏季の電力不足を未然に防ぐため、輸入石炭火力発電所に対し6月までフル稼働するよう指示。広範なエネルギー不足への懸念が高まっている。",
-          "source": "Swarajyamag"
+          "description": "スコットランドのドライバーに対し、燃料不足の懸念から冷静を保ち、パニック買いを避けるよう警告が出されました。これは英国におけるエネルギー供給の不安定化と、それに伴う社会不安を示しています。",
+          "source": "The Scottish Sun"
         },
         {
-          "title": "ディーゼル供給不足が北地域の稲作灌漑に打撃",
-          "location": "インド、北地域",
-          "severity": 65,
-          "description": "インドの北地域でディーゼル供給不足が発生し、稲作の灌漑に深刻な影響を与えている。食料生産への影響が懸念される。",
-          "source": "The Financial Express"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "燃料不足、買いだめ懸念",
-      "incidents": [
-        {
-          "title": "オーストラリア、600カ所のガソリンスタンドで燃料切れ、パニック買いを避けるよう呼びかけ",
-          "location": "オーストラリア",
-          "severity": 70,
-          "description": "オーストラリア全土で600カ所以上のガソリンスタンドが燃料切れとなり、住民に対しパニック買いを避けるよう緊急の呼びかけが行われている。",
-          "source": "Sky News Australia"
+          "title": "Resident doctors in Lancashire set to strike after Easter bank holiday",
+          "location": "ランカシャー、英国",
+          "severity": 50,
+          "description": "英国ランカシャーのレジデント医師が、イースター休暇明けにストライキを行う予定です。これは医療サービスへの深刻な影響が懸念され、市民の不安を高める可能性があります。",
+          "source": "Lancashire Telegraph"
         }
       ]
     }
