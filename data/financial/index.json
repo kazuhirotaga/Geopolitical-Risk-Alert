@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-04-03",
-    "summary": "イラン戦争の長期化懸念から原油価格が急騰し、暗号資産市場は下落。米国の政治的混乱も市場の不確実性を高めている。アジア市場はイースター休暇で取引が少ない中、ホルムズ海峡再開への期待から一部上昇。",
+    "summary": "イラン戦争の長期化による原油価格高騰、インフレ懸念、サプライチェーン混乱が金融市場を圧迫。地政学的リスクに加え、暗号資産市場の規制強化や技術的脆弱性もリスク要因として顕在化している。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "medium"
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-04-03T07:17:10.535824"
+    "generated_at": "2026-04-03T09:57:02.505286"
   },
   {
     "date": "2026-04-02",

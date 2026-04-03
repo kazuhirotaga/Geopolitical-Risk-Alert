@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-03",
-    "summary": "中東情勢が極めて緊迫。米イラン間の軍事衝突が激化し、グローバルなエネルギー市場や安全保障に深刻な影響。ウクライナ情勢も依然として不安定で、世界的な地政学リスクが高まっている。",
+    "summary": "中東情勢が極めて不安定化。アメリカとイランの軍事衝突が激化し、地域全体に波及。ウクライナ情勢も膠着状態が続く。ミャンマーでは軍事政権が継続し、国内情勢は不安定。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "medium",
-      "south_asia": "high",
+      "southeast_asia": "high",
+      "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
-      "africa": "medium",
+      "africa": "none",
       "north_america": "high",
-      "south_america": "low"
+      "south_america": "none"
     },
-    "generated_at": "2026-04-03T07:16:44.766990"
+    "generated_at": "2026-04-03T09:56:38.273024"
   },
   {
     "date": "2026-04-02",
