@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-03",
+    "summary": "中東情勢が極めて不安定。米イラン間の軍事衝突が激化し、ホルムズ海峡の封鎖懸念から原油価格が高騰。ウクライナ情勢も膠着状態が続き、地政学的リスクは全体的に高まっている。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "medium",
+      "south_asia": "none",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "medium",
+      "africa": "none",
+      "north_america": "high",
+      "south_america": "none"
+    },
+    "generated_at": "2026-04-03T02:42:24.624480"
+  },
+  {
     "date": "2026-04-02",
     "summary": "アメリカとイランの軍事衝突が激化し、中東地域全体が不安定化。ホルムズ海峡の封鎖懸念から原油価格が高騰し、世界経済への影響が深刻化している。ウクライナ情勢も依然として不安定で、地政学的リスクが全体的に高まっている。",
     "overall_risk_level": "critical",
