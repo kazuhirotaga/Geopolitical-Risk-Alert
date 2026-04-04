@@ -1,126 +1,19 @@
 {
   "date": "2026-04-04",
-  "summary": "イラン情勢緊迫化による原油価格高騰とインフレ懸念、米金融政策の不確実性、暗号資産市場の脆弱性が複合的に絡み合い、世界経済に高リスクをもたらしている。特にエネルギー価格高騰が欧州経済に深刻な影響を与える可能性に注意が必要。",
+  "summary": "地政学的リスク（イラン情勢）とインフレ懸念が市場を圧迫。エネルギー価格高騰が欧州経済に影響を与え、AI関連銘柄の選別が進む。暗号資産市場はボラティリティが低下傾向も、量子コンピュータによる脅威が顕在化しつつある。",
   "overall_risk_level": "high",
   "articles": [
     {
       "title": "European ministers call for a tax on energy company windfall profits as Iran war drives price surge",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イラン戦争による原油価格高騰を受け、ユーロ圏のインフレ率が上昇。欧州各国閣僚はエネルギー企業の超過利潤に対する課税を検討。",
-      "analysis": "イラン情勢の緊迫化が原油価格を押し上げ、欧州のインフレを加速させている。エネルギー価格高騰は企業収益を圧迫し、景気後退を招く恐れがある。超過利潤課税は一時的な対策としては有効だが、企業の投資意欲を削ぎ、長期的なエネルギー供給を阻害する可能性もある。中東情勢の安定化と代替エネルギーへの移行が急務。",
+      "summary": "イラン情勢悪化によるエネルギー価格高騰を受け、欧州各国がエネルギー企業への超過利潤課税を検討。ユーロ圏のインフレ率は2.5%に上昇。",
+      "analysis": "イラン情勢の緊迫化は、原油価格の高騰を通じて欧州経済に深刻な影響を与えている。インフレ圧力の上昇は、ECBの金融政策の自由度を狭め、景気後退リスクを高める可能性がある。超過利潤課税は、エネルギー企業の投資意欲を減退させ、長期的なエネルギー供給不安を招く恐れがある。地政学的リスクとインフレリスクが複合的に作用し、欧州経済の脆弱性を露呈している。",
       "key_entities": [
-        "欧州中央銀行",
+        "ECB",
         "OPEC",
-        "エネルギー企業"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Trump tells allies to ‘get your own oil’ — Hormuz tensions could push gas prices even higher. How to protect your wallet",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "トランプ大統領が同盟国に対し、ホルムズ海峡の緊張による原油価格高騰への対策として、自国で石油を確保するよう示唆。",
-      "analysis": "ホルムズ海峡の緊張は、世界の原油供給を脅かす地政学的リスクを高めている。トランプ大統領の発言は、同盟国への責任転嫁とも解釈でき、国際協調体制の弱体化を招く恐れがある。原油価格高騰は、インフレを加速させ、消費者の購買力を低下させる。エネルギー効率の向上や代替エネルギーへの投資が重要。",
-      "key_entities": [
-        "トランプ大統領",
-        "OPEC",
-        "ホルムズ海峡"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "India makes first Iranian oil purchase in seven years with no payment problems",
-      "region": "south_asia",
-      "risk_level": "medium",
-      "summary": "インドが7年ぶりにイラン産原油を購入。イランへの経済制裁が一部緩和された可能性を示唆。",
-      "analysis": "インドのイラン産原油購入は、イラン経済への支援となる一方、米国の制裁に抵触する可能性もある。原油価格高騰に苦しむインドにとって、イラン産原油は貴重な供給源となる。地政学的リスクを考慮しつつ、エネルギー供給の多様化を図る必要がある。",
-      "key_entities": [
-        "インド政府",
-        "イラン政府",
-        "米国政府"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Here’s why bitcoin’s drop below $68,000 raises the risk of a crash under $60,000",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "ビットコイン価格が68,000ドルを下回り、60,000ドル割れのリスクが高まっている。",
-      "analysis": "ビットコイン価格の下落は、暗号資産市場全体のセンチメント悪化を招き、さらなる価格下落を招く可能性がある。金利上昇や規制強化など、外部環境の変化もビットコイン価格に影響を与えている。投資家はリスク管理を徹底し、慎重な投資判断が求められる。",
-      "key_entities": [
-        "ビットコイン",
-        "暗号資産取引所",
-        "機関投資家"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Schwab plans spot bitcoin, ether trading launch in first half of 2026",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Schwabが2026年前半にビットコインとイーサリアムの現物取引を開始する計画を発表。",
-      "analysis": "大手証券会社による暗号資産取引の提供は、暗号資産市場への機関投資家の参入を促し、市場の成熟化に貢献する可能性がある。しかし、規制の不確実性や価格変動リスクも依然として高く、投資家保護の観点から適切な規制が必要。",
-      "key_entities": [
-        "Schwab",
-        "ビットコイン",
-        "イーサリアム"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Rail and truck data highlight a strong industrial economy",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "鉄道とトラックの輸送データは、堅調な産業経済を示唆。",
-      "analysis": "輸送データの増加は、経済活動の活発化を示す指標となる。しかし、インフレや金利上昇の影響を受け、今後の経済成長が鈍化する可能性もある。サプライチェーンの混乱や地政学的リスクにも注意が必要。",
-      "key_entities": [
-        "輸送会社",
-        "製造業",
-        "消費者"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Nike is the most oversold stock on Wall Street after a wild week of trading",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "ナイキ株が、不安定な取引の末、ウォール街で最も売られすぎた銘柄となっている。",
-      "analysis": "ナイキの売上高予測の弱さが株価急落の引き金となった。これは、消費者の購買意欲の低下や、競争激化を示唆している可能性がある。しかし、売られすぎの状況は、反発の機会ともなりうる。企業のファンダメンタルズ分析に基づいた投資判断が重要。",
-      "key_entities": [
-        "ナイキ",
-        "ウォール街",
-        "投資家"
+        "Chevron",
+        "European Union"
       ],
       "sources": [
         "CNBC - Top News"
@@ -133,15 +26,120 @@
       "title": "Jim Cramer Continues To Link Chevron (CVX) Stock With Iran Conflict",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "ジム・クレイマーが、シェブロン株とイラン紛争の関連性を指摘。",
-      "analysis": "イラン紛争の激化は、原油価格の上昇を通じてシェブロンの収益を押し上げる可能性がある。しかし、地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株価の変動性を高める。投資判断は、原油価格の動向と地政学的リスクを総合的に考慮する必要がある。",
+      "summary": "ジム・クレイマーが、イラン情勢の緊張とシェブロン（CVX）株の動向を結び付けて分析。地政学的リスクがエネルギー市場に与える影響を示唆。",
+      "analysis": "ジム・クレイマーの分析は、地政学的リスクが特定の企業、特にエネルギー関連企業の株価に直接的な影響を与える可能性を示唆している。イラン情勢の悪化は原油価格の上昇を招き、シェブロンのような大手エネルギー企業の収益を押し上げる可能性がある。しかし、同時に供給不安や地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、市場全体のボラティリティを高める要因となる。",
       "key_entities": [
-        "シェブロン",
-        "ジム・クレイマー",
-        "イラン"
+        "Chevron",
+        "CVX",
+        "Iran"
       ],
       "sources": [
         "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "AI Stocks Are Exiting an Era of Blind Faith and Entering a Year of Strict Numbers: What Investors Need to Watch This Earnings Season",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "AI関連銘柄に対する投資家の姿勢が変化。これまでの期待先行から、実際の業績に基づいた厳格な評価へと移行。",
+      "analysis": "AI分野への投資は、初期の熱狂期を経て、より現実的な評価段階に入りつつある。今後は、各企業の収益性や成長性といったファンダメンタルズが重視されるようになるだろう。過大評価されていた企業の株価は調整される可能性があり、投資家は慎重な銘柄選択が求められる。TSMCやNvidiaのような実績のある企業と、新規参入企業との間で選別が進むと予想される。",
+      "key_entities": [
+        "TSMC",
+        "Nvidia",
+        "CoreWeave"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin tends to outperform gold and stocks after global shocks, Mercado Bitcoin finds",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Mercado Bitcoinの調査によると、ビットコインは世界的なショック発生後、金や株式よりも優れたパフォーマンスを示す傾向がある。",
+      "analysis": "この調査結果は、ビットコインがリスクオフ資産としての性質を持つ可能性を示唆している。地政学的リスクや経済的な不確実性が高まる局面では、投資家が安全資産としてビットコインを選択する傾向があると考えられる。ただし、ビットコインの価格変動は依然として大きく、投資には十分な注意が必要である。また、量子コンピュータによる脅威や規制の動向など、暗号資産市場特有のリスクも考慮する必要がある。",
+      "key_entities": [
+        "Bitcoin",
+        "Mercado Bitcoin"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Here's what 'cracking' bitcoin in 9 minutes by quantum computers actually means",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "量子コンピュータがビットコインを9分で「解読」するというニュースは、暗号資産のセキュリティに対する潜在的な脅威を示唆。",
+      "analysis": "量子コンピュータの発展は、既存の暗号技術を無効化する可能性があり、ビットコインを含む暗号資産のセキュリティにとって深刻な脅威となる。量子コンピュータによる攻撃への対策は急務であり、量子耐性のある暗号技術の開発が重要となる。Naoris Protocolのような量子耐性ブロックチェーンの登場は、この問題に対する一つの解決策を示している。",
+      "key_entities": [
+        "Bitcoin",
+        "Ethereum",
+        "Naoris Protocol"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Trump fires Attorney General Pam Bondi",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "トランプ大統領がパム・ボンディ司法長官を解任。政治的な動機が疑われ、司法の独立性に対する懸念が高まる。",
+      "analysis": "司法長官の解任は、司法の独立性に対する政治的介入と解釈される可能性があり、市場の信頼を損なうリスクがある。特に、トランプ政権の政策に対する不確実性を高め、投資家のリスク回避姿勢を強める可能性がある。また、後任の人選や司法省の今後の動向によっては、特定の産業や企業に対する規制強化や訴訟リスクが高まることも考えられる。",
+      "key_entities": [
+        "Trump",
+        "Pam Bondi",
+        "DOJ"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Nike is the most oversold stock on Wall Street after a wild week of trading",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "ナイキ（Nike）株が、弱い売上予測を受けて大幅に売られ、ウォール街で最も売られすぎた銘柄となっている。",
+      "analysis": "ナイキ株の急落は、消費者の需要減退やサプライチェーンの問題など、複合的な要因が影響している可能性がある。売られすぎの状態は、短期的な反発の可能性を示唆する一方で、長期的な成長見通しに対する懸念も示している。投資家は、ナイキの今後の業績回復戦略や市場環境の変化を注視する必要がある。",
+      "key_entities": [
+        "Nike"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Schwab plans spot bitcoin, ether trading launch in first half of 2026",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "Schwabが2026年前半にビットコインとイーサリアムの現物取引を開始する計画を発表。暗号資産市場への機関投資家の参入が進む可能性。",
+      "analysis": "Schwabのような大手金融機関が暗号資産取引サービスを提供することは、暗号資産市場の成熟度を高める上で重要な意味を持つ。機関投資家の参入は、市場の流動性を高め、価格の安定化に寄与する可能性がある。ただし、規制の不確実性やセキュリティリスクなど、暗号資産市場特有のリスクも考慮する必要がある。",
+      "key_entities": [
+        "Bitcoin",
+        "Ethereum",
+        "Schwab"
+      ],
+      "sources": [
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -150,14 +148,10 @@
     {
       "title": "The Two-Week Window That Could Break Global Commodity Markets",
       "region": "global",
-      "risk_level": "high",
-      "summary": "今後2週間が、世界のコモディティ市場を崩壊させる可能性を秘めている。",
-      "analysis": "地政学的リスク、サプライチェーンの混乱、異常気象など、複数の要因がコモディティ市場に影響を与えている。特に、イラン情勢の緊迫化は、原油価格の急騰を招き、世界経済に深刻な影響を与える可能性がある。投資家は、リスク管理を徹底し、慎重な投資判断が求められる。",
-      "key_entities": [
-        "コモディティ市場",
-        "OPEC",
-        "地政学的リスク"
-      ],
+      "risk_level": "medium",
+      "summary": "今後2週間の出来事が、世界のコモディティ市場を大きく変動させる可能性があると指摘。地政学的リスクや需給バランスの変化に注意が必要。",
+      "analysis": "コモディティ市場は、地政学的リスク、気候変動、サプライチェーンの混乱など、様々な要因によって影響を受けやすい。特に、イラン情勢の緊迫化は、原油価格の高騰を通じて、他のコモディティ価格にも波及する可能性がある。投資家は、今後の市場動向を注意深く監視し、リスク管理を徹底する必要がある。",
+      "key_entities": [],
       "sources": [
         "Yahoo Finance"
       ],
@@ -166,18 +160,14 @@
       ]
     },
     {
-      "title": "Ex-UK Chancellor backs bitcoin as alternative to failing systems",
-      "region": "europe",
+      "title": "Wall Street snapped its 5-week losing streak. Here are 3 themes that caught our eye",
+      "region": "middle_east",
       "risk_level": "low",
-      "summary": "元英国財務相が、既存の金融システムへの代替としてビットコインを支持。",
-      "analysis": "既存の金融システムに対する不信感が高まる中、ビットコインのような分散型暗号資産への関心が高まっている。しかし、ビットコインの価格変動リスクや規制の不確実性も依然として高く、投資家はリスク管理を徹底する必要がある。また、ビットコインが既存の金融システムに取って代わるには、技術的な課題や規制上の課題を克服する必要がある。",
-      "key_entities": [
-        "ビットコイン",
-        "英国財務省",
-        "暗号資産市場"
-      ],
+      "summary": "ウォール街が5週間続いた下落トレンドから脱却。米国とイランの戦争勃発後、初めての上昇週となった。",
+      "analysis": "5週間の下落トレンドからの脱却は、市場心理の改善を示唆する。しかし、米国とイランの間の緊張は依然として高く、地政学的リスクは完全に解消されたわけではない。投資家は、今後の市場動向を注意深く監視し、リスク管理を徹底する必要がある。",
+      "key_entities": [],
       "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -186,11 +176,11 @@
   ],
   "region_risk_map": {
     "global": "high",
-    "north_america": "low",
+    "north_america": "medium",
     "europe": "high",
-    "east_asia": "medium"
+    "east_asia": "none"
   },
-  "generated_at": "2026-04-04T18:51:07.674473",
+  "generated_at": "2026-04-04T21:36:56.379510",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
