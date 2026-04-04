@@ -1,158 +1,93 @@
 {
-  "date": "2026-04-03",
-  "summary": "世界各地で食料・エネルギー不足、金融機関の信頼性への懸念、大規模な抗議デモなど、複合的な要因による社会不安が深刻化しています。特に燃料不足は一部地域でパニック買いや社会秩序の混乱を引き起こし、「危機的」な状況に達しています。金融市場では資金流出や償還制限の動きが見られ、潜在的なリスクを抱えています。若者集団による混乱や公共サービスのストライキ警告も、社会の安定性を脅かす要因となっています。",
-  "global_panic_index": 75,
+  "date": "2026-04-04",
+  "summary": "世界各地では、一部地域で生活必需品（水、燃料）の不足やその懸念から住民の不安が高まり、大規模な抗議活動やパニック買いの兆候が見られます。特にインドでは深刻な水不足が抗議デモに発展し、オーストラリアでは燃料不足によるパニック買いへの警告が出ています。中東では地政学的な緊張が続き、北米では社会的抗議が混沌化する事態が発生。全体的には特定の地域で緊迫した状況が見られるものの、広範な社会秩序の崩壊には至っておらず、警戒が必要な段階と言えます。",
+  "global_panic_index": 56,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 68,
-      "status": "volatile",
-      "main_cause": "金融不安、大規模抗議デモ",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "社会的不満と抗議活動",
       "incidents": [
         {
-          "title": "シャドーバンクが償還を制限、投資家が資金引き出し",
-          "location": "米国",
-          "severity": 70,
-          "description": "影の銀行「ブルーアウル」が、投資家による54億ドルの資金引き出し要求に対し償還を制限しました。これは金融機関の流動性問題と信用不安の兆候を示しており、市場に警戒感を与えています。",
-          "source": "thestreet.com"
-        },
-        {
-          "title": "銀行流動性リスクと仮想通貨への資金流出",
-          "location": "米国",
-          "severity": 60,
-          "description": "銀行の流動性にリスクが生じ、6.6兆ドルもの資金が仮想通貨の利回りへと流出していると報じられました。これは金融システム全体への潜在的な懸念を高める動きです。",
-          "source": "Bitget"
-        },
-        {
-          "title": "ロサンゼルスで抗議デモが混沌化、多数を逮捕",
+          "title": "'No Kings' protest in Los Angeles turns chaotic as dozens arrested",
           "location": "米国、ロサンゼルス",
-          "severity": 75,
-          "description": "「ノー・キングス」と称する抗議デモがロサンゼルスで混沌とした状況となり、多数の参加者が逮捕されました。大規模なデモが社会秩序を乱し、衝突へと発展する可能性が示されています。",
+          "severity": 60,
+          "description": "ロサンゼルスで「No Kings」を掲げる大規模な抗議デモが混沌とした状況に陥り、多数の逮捕者が出た。これは社会的な緊張と一部での秩序の乱れを示している。",
           "source": "MSN"
-        },
-        {
-          "title": "米が主要橋を『軍事供給ルート排除』のために攻撃したという主張",
-          "location": "米国",
-          "severity": 30,
-          "description": "米が主要橋を『軍事供給ルート排除』のために攻撃したという主張が報じられました。これは直接的なパニックではないものの、国民の間に陰謀論や地政学的な不安を煽る可能性があります。",
-          "source": "Radio Free Europe/Radio Liberty"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "社会秩序の乱れ、公共サービスへの影響",
+      "panic_index": 40,
+      "status": "stable",
+      "main_cause": "医療サービスへの懸念",
       "incidents": [
         {
-          "title": "若者集団が街頭でパニックと混乱を引き起こす",
-          "location": "英国、ロンドン",
-          "severity": 85,
-          "description": "ロンドンの街頭で「凶暴なティーンエイジャーの集団」が横行し、パニックと混乱を引き起こしていると報じられました。これは社会秩序の著しい不安定化と市民生活への直接的な脅威を示しています。",
-          "source": "London Evening Standard"
-        },
-        {
-          "title": "イースター明けに研修医のストライキが予定",
+          "title": "Resident doctors in Lancashire set to strike after Easter bank holiday",
           "location": "英国、ランカシャー",
-          "severity": 55,
-          "description": "イースター連休明けにランカシャーの研修医がストライキを予定しており、医療サービスへの影響が懸念されます。これは市民の生活基盤に不安をもたらす可能性のある社会不安の兆候です。",
+          "severity": 40,
+          "description": "イースター休暇後、英国ランカシャーの研修医がストライキを行う予定。これは医療サービスの混乱を引き起こし、住民に医療アクセスへの懸念を生じさせる。",
           "source": "Lancashire Telegraph"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 68,
-      "status": "volatile",
-      "main_cause": "政治的不満、地政学的緊張",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "地政学的緊張、社会的不満",
       "incidents": [
         {
-          "title": "イランの学生が3日間抗議デモ、米国の圧力増大",
+          "title": "Iranian students protest for third day as US pressure mounts",
           "location": "イラン",
-          "severity": 70,
-          "description": "イランで学生による抗議デモが3日間続き、米国の圧力が高まっています。これは国内の政治的緊張と地政学的な要因が複合した社会不安の顕著な表れです。",
+          "severity": 55,
+          "description": "米国からの圧力が高まる中、イランの学生が3日間にわたり抗議デモを行っている。これは国内の社会的な不満と緊張の持続を示している。",
           "source": "DD News"
         },
         {
-          "title": "イエメンのフーシ派がイスラエルの死刑法案に抗議",
-          "location": "イエメン、サナア",
+          "title": "US Embassy In Lebanon Warns That Iran, Allies Could Target Universities",
+          "location": "レバノン",
           "severity": 65,
-          "description": "イエメンのフーシ派がサナアで、パレスチナ人に対するイスラエルの死刑法案に抗議するデモを行いました。これは地域全体の地政学的緊張と紛争に起因する社会不安の一環です。",
-          "source": "Mid-day"
+          "description": "在レバノン米国大使館が、イランとその同盟国が大学を標的にする可能性があると警告した。これは地域における安全保障上の脅威であり、住民の間に強い不安を引き起こす可能性がある。",
+          "source": "Radio Free Europe/Radio Liberty"
         }
       ]
     },
     {
-      "region": "africa",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "エネルギー不足",
-      "incidents": [
-        {
-          "title": "ケニアで燃料輸入と不足疑惑でエネルギー幹部を逮捕",
-          "location": "ケニア",
-          "severity": 80,
-          "description": "ケニアで燃料の輸入と不足に関する疑惑で、エネルギー部門の幹部らが逮捕されました。これは燃料不足が深刻化し、政府が緊急に対応を迫られるほどの社会混乱を示唆しています。",
-          "source": "The EastAfrican"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 75,
+      "region": "southeast_asia",
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "エネルギー不足、経済的不満、金融機関への懸念",
+      "main_cause": "資源不足、自然災害、社会的不安",
       "incidents": [
         {
-          "title": "インドでCNG不足に抗議し運転手らが電波塔に登る",
-          "location": "インド、ハイデラバード",
+          "title": "Australians urged to ‘avoid panic buying’ as 600 service stations out of fuel",
+          "location": "オーストラリア",
+          "severity": 75,
+          "description": "国内の600箇所以上のガソリンスタンドで燃料が不足し、国民に対してパニック買いを控えるよう呼びかけられている。これはエネルギー供給の混乱と社会的な不安を示唆している。",
+          "source": "Sky News Australia"
+        },
+        {
+          "title": "Acute water shortage in Kalyan-Dombivli: sewage-tainted water, 60% cuts spark residents’ protest",
+          "location": "インド、Kalyan-Dombivli",
           "severity": 80,
-          "description": "インドのハイデラバードでCNG（圧縮天然ガス）不足に抗議するため、車の運転手らが携帯電話の電波塔に登るという異常事態が発生しました。エネルギー不足が市民を極端な行動に駆り立てる深刻な状況です。",
-          "source": "MSN"
+          "description": "Kalyan-Dombivli地区で深刻な水不足が発生し、供給水の60%が削減され、さらに汚染された水が供給されている。これに対し、住民が大規模な抗議デモを行っており、生活の危機感が高まっている。",
+          "source": "Hindustan Times"
         },
         {
-          "title": "インド、農民福祉問題で大規模デモの警告",
-          "location": "インド",
-          "severity": 60,
-          "description": "インドで、議会が政府の農民福祉政策を批判し、大規模な抗議デモの可能性を警告しました。これは経済的な不満が広がり、社会不安が増大していることを示唆しています。",
-          "source": "The Hans India"
-        },
-        {
-          "title": "インド政府、LPG不足抗議動画を誤報と否定",
-          "location": "インド",
-          "severity": 50,
-          "description": "インド政府が、LPG（液化石油ガス）不足に対する抗議活動の動画は誤解を招くと否定しました。政府が情報操作を行うほど、LPG不足に対する国民の懸念や抗議が広がっていることを示します。",
+          "title": "Govt refutes video claim of Miranda House protest over LPG shortage",
+          "location": "インド、Delhi (Miranda House)",
+          "severity": 45,
+          "description": "デリー大学のミランダハウスでLPG不足に関する抗議デモの動画が流れ、政府はこれを誤解を招くものとして否定した。しかし、LPG不足の噂とそれに対する市民の反応は、エネルギー供給に対する潜在的な不安を示している。",
           "source": "News On AIR"
         },
         {
-          "title": "HDFC銀行の元会長による問題提起で調査要求",
-          "location": "インド",
-          "severity": 50,
-          "description": "インドの大手銀行HDFC銀行の元会長が提起した問題について、業界団体が財務大臣に調査を要求しました。主要金融機関のガバナンス問題は、金融システムへの信頼に潜在的な不安をもたらします。",
-          "source": "Business Today"
-        },
-        {
-          "title": "インド国営石油会社、LPG不足を否定",
-          "location": "インド",
-          "severity": 40,
-          "description": "インド国営石油会社が、毎日約280万本のLPGシリンダーを供給しており不足はないと主張しました。これは、LPG不足の懸念や噂が市民の間で広まっている状況の裏返しであり、潜在的な不安を示唆します。",
-          "source": "DT Next"
-        }
-      ]
-    },
-    {
-      "region": "oceania",
-      "panic_index": 90,
-      "status": "critical",
-      "main_cause": "エネルギー不足、買いだめ",
-      "incidents": [
-        {
-          "title": "豪州で燃料不足、政府がパニック買い回避を呼びかけ",
-          "location": "オーストラリア",
-          "severity": 90,
-          "description": "オーストラリアで600か所のガソリンスタンドで燃料切れが発生し、政府が国民にパニック買いを避けるよう異例の呼びかけを行いました。これは広範囲にわたるエネルギー供給の深刻な混乱と、市民の間に広がる高度なパニック状態を示しています。",
-          "source": "Sky News Australia"
+          "title": "Elephant herd goes on rampage in Jharkhand villages: 3 men killed, a woman injured",
+          "location": "インド、ジャールカンド州",
+          "severity": 60,
+          "description": "インドのジャールカンド州の村々でゾウの群れが暴れ、1日で3人が死亡、1人が負傷した。これは地域住民にとって生命を脅かす深刻な事態であり、強い不安と混乱を引き起こしている。",
+          "source": "The Indian Express"
         }
       ]
     }

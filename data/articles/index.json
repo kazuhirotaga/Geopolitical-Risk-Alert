@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-04",
+    "summary": "中東情勢が極めて不安定化。イランとアメリカ・イスラエルの軍事衝突が激化し、ホルムズ海峡封鎖によるエネルギー供給への影響が深刻化。ウクライナ情勢も膠着状態が続く。世界的な紛争リスクが高まっている。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "high",
+      "southeast_asia": "medium",
+      "south_asia": "none",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "high",
+      "south_america": "none"
+    },
+    "generated_at": "2026-04-04T02:33:30.520132"
+  },
+  {
     "date": "2026-04-03",
     "summary": "中東情勢が極めて不安定化。米イラン間の軍事衝突が激化し、ホルムズ海峡の封鎖が継続。エネルギー市場への影響も深刻。ウクライナ情勢も膠着状態が続く。グローバルな地政学リスクは高水準。",
     "overall_risk_level": "critical",

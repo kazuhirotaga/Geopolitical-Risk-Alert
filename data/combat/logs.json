@@ -1,5 +1,88 @@
 [
   {
+    "date": "2026-04-04",
+    "summary": "中東地域において、イランとアメリカ軍の間で戦闘が発生。ホルムズ海峡付近で米軍機が撃墜されるなど、緊張が高まっている。ウクライナでは防空能力が向上しているものの、攻撃頻度が増加。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-04-03",
+        "location": "ホルムズ海峡付近",
+        "region": "middle_east",
+        "title": "米空軍A-10攻撃機墜落",
+        "content": "ホルムズ海峡付近で米空軍のA-10攻撃機が墜落。ほぼ同時刻にF-15E戦闘機が撃墜されたとの情報もあり、関連性を調査中。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/a-10-warthog-crashes-near-strait-of-hormuz/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-04-03",
+        "location": "イラン上空",
+        "region": "middle_east",
+        "title": "米軍F-15E戦闘機が撃墜",
+        "content": "イラン上空で米軍のF-15E戦闘機が撃墜。生存者の捜索救助活動が進行中。イランによる攻撃の可能性が高い。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-04-01",
+        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAE各地の米軍基地",
+        "region": "middle_east",
+        "title": "イランによる米軍インフラへの攻撃",
+        "content": "イランがバーレーン、カタール、クウェート、サウジアラビア、UAEにある米軍基地のレーダーシステム、衛星通信施設、重要航空機を攻撃。",
+        "involved_parties": [
+          "イラン",
+          "アメリカ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-04-01",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ、3月の防空成功率90%近くを主張",
+        "content": "ウクライナ国防省は、3月中の攻撃頻度が増加しているものの、防空性能が向上していると発表。防空成功率が90%近くに達したと主張。",
+        "involved_parties": [
+          "ウクライナ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-04-01",
+        "location": "中東地域",
+        "region": "middle_east",
+        "title": "米国、トマホークミサイルの在庫不足の可能性",
+        "content": "米国は「オペレーション・エピック・フューリー」開始から1ヶ月強で、少なくとも850発以上のトマホーク長距離巡航ミサイルを発射。在庫不足が懸念されている。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/01/is-the-us-running-out-of-tomahawk-missiles-heres-what-the-experts-say/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-03",
     "summary": "中東における米軍とイランの交戦が激化。ホルムズ海峡付近で米軍機が撃墜され、A-10攻撃機が墜落。イランは周辺国の米軍基地インフラへの攻撃を実施。ウクライナでは防空能力向上が報告される一方、米国は中東への軍事展開を継続。",
     "events": [
