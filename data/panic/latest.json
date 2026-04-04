@@ -1,93 +1,122 @@
 {
   "date": "2026-04-04",
-  "summary": "世界各地では、一部地域で生活必需品（水、燃料）の不足やその懸念から住民の不安が高まり、大規模な抗議活動やパニック買いの兆候が見られます。特にインドでは深刻な水不足が抗議デモに発展し、オーストラリアでは燃料不足によるパニック買いへの警告が出ています。中東では地政学的な緊張が続き、北米では社会的抗議が混沌化する事態が発生。全体的には特定の地域で緊迫した状況が見られるものの、広範な社会秩序の崩壊には至っておらず、警戒が必要な段階と言えます。",
-  "global_panic_index": 56,
+  "summary": "世界各地で資源不足や地政学的緊張に起因する社会不安が増大しています。特にインドを中心とするアジア地域では、燃料、LPG、水などの生活必需品不足が深刻化し、大規模な抗議活動や経済活動への影響が顕著です。オーストラリアでも燃料不足によるパニック買いが懸念され、アフリカでは政府への不信感が表面化。中東では政治的デモと安全保障上の警告が続き、米国では大規模デモが混乱を伴っています。金融市場では取り付け騒ぎへの潜在的な懸念も浮上しており、世界全体で警戒すべき状態にあります。",
+  "global_panic_index": 63,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "社会的不満と抗議活動",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "政治的抗議活動、社会的不満",
       "incidents": [
         {
-          "title": "'No Kings' protest in Los Angeles turns chaotic as dozens arrested",
+          "title": "'No Kings' protest in Los Angeles turns chaotic",
           "location": "米国、ロサンゼルス",
-          "severity": 60,
-          "description": "ロサンゼルスで「No Kings」を掲げる大規模な抗議デモが混沌とした状況に陥り、多数の逮捕者が出た。これは社会的な緊張と一部での秩序の乱れを示している。",
+          "severity": 65,
+          "description": "ロサンゼルスで発生した「No Kings」抗議デモが混乱状態に陥り、数十人が逮捕されました。大規模な集会が秩序を乱し、社会不安の兆候が見られます。",
           "source": "MSN"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 40,
-      "status": "stable",
-      "main_cause": "医療サービスへの懸念",
+      "region": "east_asia",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "政治的・地政学的懸念",
       "incidents": [
         {
-          "title": "Resident doctors in Lancashire set to strike after Easter bank holiday",
-          "location": "英国、ランカシャー",
-          "severity": 40,
-          "description": "イースター休暇後、英国ランカシャーの研修医がストライキを行う予定。これは医療サービスの混乱を引き起こし、住民に医療アクセスへの懸念を生じさせる。",
-          "source": "Lancashire Telegraph"
+          "title": "「戦争反対」相次ぐ抗議デモ",
+          "location": "日本、東京",
+          "severity": 45,
+          "description": "国会前や新宿駅前で「戦争反対」を訴える大規模な抗議デモが相次ぎ発生。多くの参加者が政治的・地政学的な状況への不安を表明しており、社会の緊張感が高まっています。",
+          "source": "kanaloco.jp"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 60,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "地政学的緊張、社会的不満",
+      "main_cause": "政治的抑圧、地政学的緊張、安全保障上の脅威",
       "incidents": [
         {
-          "title": "Iranian students protest for third day as US pressure mounts",
+          "title": "Iranian students protest for third day",
           "location": "イラン",
-          "severity": 55,
-          "description": "米国からの圧力が高まる中、イランの学生が3日間にわたり抗議デモを行っている。これは国内の社会的な不満と緊張の持続を示している。",
+          "severity": 50,
+          "description": "米国からの圧力が高まる中、イランの学生が3日連続で抗議活動を実施。政治的抑圧と外部からの影響が社会不安を増幅させています。",
           "source": "DD News"
         },
         {
           "title": "US Embassy In Lebanon Warns That Iran, Allies Could Target Universities",
-          "location": "レバノン",
-          "severity": 65,
-          "description": "在レバノン米国大使館が、イランとその同盟国が大学を標的にする可能性があると警告した。これは地域における安全保障上の脅威であり、住民の間に強い不安を引き起こす可能性がある。",
+          "location": "レバノン（米大使館からの警告）",
+          "severity": 60,
+          "description": "在レバノン米国大使館が、イランとその同盟勢力が大学を標的とする可能性について警告を発しました。これは地域の安全保障上の深刻な脅威であり、住民の不安を高めています。",
           "source": "Radio Free Europe/Radio Liberty"
+        },
+        {
+          "title": "Yemeni Houthis protest in Sanaa against Israeli death penalty bill",
+          "location": "イエメン、サナア",
+          "severity": 40,
+          "description": "イエメンのフーシ派が、イスラエルのパレスチナ人死刑法案に抗議するデモをサナアで実施。地域紛争の煽りを受け、政治的な不満が表明されています。",
+          "source": "Mid-day"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 60,
+      "status": "volatile",
+      "main_cause": "燃料不足、政府の汚職疑惑",
+      "incidents": [
+        {
+          "title": "Kenya energy chiefs arrested over fuel imports, shortage claims",
+          "location": "ケニア",
+          "severity": 60,
+          "description": "ケニアで燃料輸入と不足に関する疑惑を巡り、エネルギー関連幹部が逮捕されました。燃料不足が深刻化し、政府の汚職疑惑が国民の不信感を煽っています。",
+          "source": "The EastAfrican"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "資源不足、自然災害、社会的不安",
+      "panic_index": 70,
+      "status": "critical",
+      "main_cause": "資源不足（燃料、水、LPG、CNG）、生活インフラの停滞",
       "incidents": [
         {
           "title": "Australians urged to ‘avoid panic buying’ as 600 service stations out of fuel",
           "location": "オーストラリア",
           "severity": 75,
-          "description": "国内の600箇所以上のガソリンスタンドで燃料が不足し、国民に対してパニック買いを控えるよう呼びかけられている。これはエネルギー供給の混乱と社会的な不安を示唆している。",
+          "description": "600か所のガソリンスタンドで燃料が不足し、国民にパニック買いを避けるよう呼びかけられています。これは燃料供給網の深刻な問題を示唆し、広範な社会パニックに発展する可能性があります。",
           "source": "Sky News Australia"
         },
         {
+          "title": "LPG shortage woes deepen: Power cuts stall induction kitchens as Pune restaurants face massive order delays, cancellations",
+          "location": "インド、プネー",
+          "severity": 75,
+          "description": "LPG不足が深刻化し、プネーのレストランでは停電により調理ができず、大量の注文遅延やキャンセルが発生。経済活動に深刻な影響を与え、市民生活に混乱を招いています。",
+          "source": "MSN"
+        },
+        {
           "title": "Acute water shortage in Kalyan-Dombivli: sewage-tainted water, 60% cuts spark residents’ protest",
-          "location": "インド、Kalyan-Dombivli",
-          "severity": 80,
-          "description": "Kalyan-Dombivli地区で深刻な水不足が発生し、供給水の60%が削減され、さらに汚染された水が供給されている。これに対し、住民が大規模な抗議デモを行っており、生活の危機感が高まっている。",
+          "location": "インド、カリヤン-ドムビヴリ（ムンバイ近郊）",
+          "severity": 70,
+          "description": "カリヤン-ドムビヴリで深刻な水不足が発生し、汚染された水が供給され、60%の断水が住民の抗議を招いています。基本的な生活インフラの危機が社会不安を引き起こしています。",
           "source": "Hindustan Times"
         },
         {
-          "title": "Govt refutes video claim of Miranda House protest over LPG shortage",
-          "location": "インド、Delhi (Miranda House)",
-          "severity": 45,
-          "description": "デリー大学のミランダハウスでLPG不足に関する抗議デモの動画が流れ、政府はこれを誤解を招くものとして否定した。しかし、LPG不足の噂とそれに対する市民の反応は、エネルギー供給に対する潜在的な不安を示している。",
-          "source": "News On AIR"
+          "title": "Auto drivers in Hyderabad protest by climbing mobile tower over CNG shortage",
+          "location": "インド、ハイデラバード",
+          "severity": 65,
+          "description": "CNG不足に抗議するため、ハイデラバードのオート運転手が携帯電話のタワーに登るという過激な行動に出ました。これはエネルギー不足に対する市民の強い不満と絶望を示しています。",
+          "source": "MSN"
         },
         {
-          "title": "Elephant herd goes on rampage in Jharkhand villages: 3 men killed, a woman injured",
-          "location": "インド、ジャールカンド州",
+          "title": "LPG crisis triggers protest at Delhi University's Miranda House",
+          "location": "インド、デリー",
           "severity": 60,
-          "description": "インドのジャールカンド州の村々でゾウの群れが暴れ、1日で3人が死亡、1人が負傷した。これは地域住民にとって生命を脅かす深刻な事態であり、強い不安と混乱を引き起こしている。",
-          "source": "The Indian Express"
+          "description": "デリー大学のミランダ・ハウスでLPG危機に抗議するデモが発生。学生たちによる生活必需品不足への直接的な不満が表明されています。",
+          "source": "MSN"
         }
       ]
     }

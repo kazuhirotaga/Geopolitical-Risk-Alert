@@ -1,19 +1,17 @@
 [
   {
     "date": "2026-04-04",
-    "summary": "地政学的リスク（米イラン戦争継続）、量子コンピュータによる暗号資産への脅威、金融政策の不確実性などが複合的に絡み合い、市場は不安定な状況。特に暗号資産市場は量子コンピュータの脅威に晒され、リスクレベルが高い。",
+    "summary": "イラン戦争の影響で原油価格が急騰し、世界経済に不確実性が高まっています。特に暗号資産市場は、量子コンピュータの脅威や規制の遅れなど、複数のリスク要因に直面しています。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "critical",
+      "global": "high",
       "north_america": "medium",
       "europe": "medium",
       "east_asia": "medium",
-      "south_america": "none",
-      "africa": "none",
-      "middle_east": "high"
+      "middle_east": "critical"
     },
-    "generated_at": "2026-04-04T02:33:52.609776"
+    "generated_at": "2026-04-04T04:55:00.129579"
   },
   {
     "date": "2026-04-03",
