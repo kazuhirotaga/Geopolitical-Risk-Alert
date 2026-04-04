@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-04",
-    "summary": "イラン戦争の影響で原油価格が急騰し、世界経済に不確実性が高まっています。特に暗号資産市場は、量子コンピュータの脅威や規制の遅れなど、複数のリスク要因に直面しています。",
+    "summary": "イラン戦争継続による原油価格高騰と、量子コンピュータによる暗号資産への脅威が金融市場に大きなリスクをもたらしている。地政学的リスクと技術的リスクが複合的に作用し、市場の不安定性が高まっている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -9,9 +9,11 @@
       "north_america": "medium",
       "europe": "medium",
       "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
       "middle_east": "critical"
     },
-    "generated_at": "2026-04-04T04:55:00.129579"
+    "generated_at": "2026-04-04T07:07:21.850589"
   },
   {
     "date": "2026-04-03",
