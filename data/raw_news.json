@@ -1,10 +1,38 @@
 [
   {
-    "id": "50f99ba3fe1b",
-    "title": "“米軍戦闘機 イラン上空で撃墜”報道 別の攻撃機も墜落報道",
-    "summary": "イラン情勢をめぐり欧米やイランのメディアは、アメリカ軍の戦闘機1機がイランの上空で撃墜されたと伝えました。ホルムズ海峡周辺ではアメリカ軍の攻撃機も墜落したと報じられるなど、攻撃の応酬が激しくなっています。",
+    "id": "e2feaad89007",
+    "title": "【随時更新】ロシア ウクライナに軍事侵攻（4月4日の動き）",
+    "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる4日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
+    "url": "http://www3.nhk.or.jp/news/html/20260404/k10015074941000.html",
+    "published": "2026-04-04T21:45:49+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "europe"
+    ]
+  },
+  {
+    "id": "9362834e2472",
+    "title": "“米軍戦闘機など2機 イランの攻撃で墜落 1人行方不明” 報道",
+    "summary": "アメリカやイランのメディアは、アメリカの戦闘機など2機がイランの攻撃を受けて墜落し、乗員1人が行方不明になっていると伝えました。アメリカとイランの停戦に向けた直接協議の実現が行き詰まるなか、攻撃の応酬のエスカレートが懸念されています。",
     "url": "http://www3.nhk.or.jp/news/html/20260404/k10015092011000.html",
-    "published": "2026-04-04T17:35:10+09:00",
+    "published": "2026-04-04T21:44:35+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
+    "id": "24699cb2fa36",
+    "title": "「MAGA派」に変化？イラン情勢 アメリカ国内の受け止めは",
+    "summary": "トランプ大統領を熱心に支持する「MAGA派」と呼ばれる保守系の若者の団体が開いた催しで、ホワイトハウスのレビット報道官が登壇しましたが、イランへの軍事作戦に関する説明や議論がなされず、参加した学生からは不満の声が聞かれました。記事の後半では、この1か月で「MAGA派」の回答傾向に変化が見られた世論調査のデータを掲載しています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260404/k10015092121000.html",
+    "published": "2026-04-04T19:15:14+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
@@ -28,17 +56,42 @@
     ]
   },
   {
-    "id": "24699cb2fa36",
-    "title": "「MAGA派」に変化？イラン情勢 アメリカ国内の受け止めは",
-    "summary": "トランプ大統領を熱心に支持する「MAGA派」と呼ばれる保守系の若者の団体が開いた催しで、ホワイトハウスのレビット報道官が登壇しましたが、イランへの軍事作戦に関する説明や議論がなされず、参加した学生からは不満の声が聞かれました。記事の後半では、この1か月で「MAGA派」の回答傾向に変化が見られた世論調査のデータを掲載しています。",
-    "url": "http://www3.nhk.or.jp/news/html/20260404/k10015092121000.html",
-    "published": "2026-04-04T17:18:43+09:00",
-    "source_name": "NHK World",
+    "id": "a60cc9b89e76",
+    "title": "Projectile hits near Iran’s Bushehr nuclear plant, killing one: IAEA",
+    "summary": "Tehran says it is the fourth attack near the nuclear plant amid the US-Israel war on Iran.",
+    "url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
+    "published": "2026-04-04T12:19:39+00:00",
+    "source_name": "Al Jazeera",
     "source_type": "media",
-    "language": "ja",
+    "language": "en",
     "regions": [
-      "middle_east",
-      "north_america"
+      "middle_east"
+    ]
+  },
+  {
+    "id": "4a666094ca8f",
+    "title": "Israel’s unchecked war machine",
+    "summary": "With conflicts on multiple fronts, Israel’s war fever shows no sign of easing.",
+    "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/4/israels-unchecked-war-machine?traffic_source=rss",
+    "published": "2026-04-04T11:56:29+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "18d9f7c03afb",
+    "title": "What we know so far about the search for missing US airman in Iran",
+    "summary": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
+    "url": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-04T11:00:34+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -50,6 +103,19 @@
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "35e2c86da673",
+    "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
+    "summary": "Six civilians were killed and 40 others injured as Russia launched hundreds of drones and missiles.",
+    "url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-04T08:34:00+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
     "regions": [
       "europe"
     ]
@@ -159,9 +225,9 @@
     ]
   },
   {
-    "id": "bb905534c2f2",
-    "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
-    "summary": "Celebrations in Tehran as Iran's military says the strikes show its forces still have fighting capability.",
+    "id": "6dcba24b4616",
+    "title": "Iran war live: US-Israel attacks hit petrochemical, nuclear sites in Iran",
+    "summary": "US and Israel step up attacks on Iran civilian infrastructure as search for downed US pilot continues.",
     "url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
     "published": "2026-04-04T00:00:00+00:00",
     "source_name": "Al Jazeera",
@@ -266,19 +332,6 @@
     ]
   },
   {
-    "id": "c9821c51bd96",
-    "title": "Drone strike on Sudan hospital kills 10, medical charity MSF says",
-    "summary": "Two strikes on Al Jabalain Hospital in White Nile State hit an operating theatre and a maternity ward, MSF says.",
-    "url": "https://www.aljazeera.com/news/2026/4/3/drone-strike-on-sudan-hospital-kills-10-medical-charity-msf-says?traffic_source=rss",
-    "published": "2026-04-03T18:32:43+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
     "id": "e3c6f5cc5c6c",
     "title": "ミャンマー クーデター後 初の大統領選で軍の前司令官が選出",
     "summary": "ミャンマーの議会で5年前のクーデター後、初めての大統領を選ぶ投票が行われ、軍のトップだったミン・アウン・フライン前司令官が選出されました。ミャンマーでは内戦状態が収束する兆しはなく、新政権でも軍による実質的な支配が継続することになり、不安定な情勢が続くとみられます。",
@@ -289,19 +342,6 @@
     "language": "ja",
     "regions": [
       "southeast_asia"
-    ]
-  },
-  {
-    "id": "0bee0de8ba92",
-    "title": "Palestine 36: A film about a revolt that nearly changed history",
-    "summary": "Director Annemarie Jacir on how Palestine 36 traces today’s crisis back to British colonial rule.",
-    "url": "https://www.aljazeera.com/video/the-take-2/2026/4/3/aje-onl-tt_pal_jacir_av_v2-030426?traffic_source=rss",
-    "published": "2026-04-03T18:03:23+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
@@ -318,8 +358,8 @@
     ]
   },
   {
-    "id": "659dbdcde528",
-    "title": "Italy's Uffizi Galleries targeted in cyber-attack but denies security breach",
+    "id": "237cde20eaa8",
+    "title": "Italy's Uffizi Galleries targeted in cyber-attack but deny security breach",
     "summary": "Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.",
     "url": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
     "published": "2026-04-03T15:04:39+00:00",
@@ -559,32 +599,6 @@
     "regions": [
       "middle_east",
       "north_america"
-    ]
-  },
-  {
-    "id": "c8da1897f897",
-    "title": "Ros Atkins on…the cost of the Iran war",
-    "summary": "The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.",
-    "url": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-02T18:29:14+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "767f89399561",
-    "title": "Watch: Trump's shifting deadlines for ending Iran war",
-    "summary": "The BBC's chief international correspondent analyses the US President's latest White House address.",
-    "url": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-02T17:13:00+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
@@ -1383,19 +1397,6 @@
     "regions": [
       "middle_east",
       "north_america"
-    ]
-  },
-  {
-    "id": "1fe7ce5f6dfa",
-    "title": "Middle East war: UN initiatives support mediation efforts, ‘lifesaving’ fertiliser shipments",
-    "summary": "Just hours after war broke out in the Middle East last month, United Nations Secretary-General António Guterres warned the Security Council that the fighting risked “igniting a chain of events that no one can control in the most volatile region of the world.”",
-    "url": "https://news.un.org/feed/view/en/story/2026/03/1167213",
-    "published": "2026-03-28T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   }
 ]

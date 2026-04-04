@@ -1,19 +1,18 @@
 {
   "date": "2026-04-04",
-  "summary": "イラン戦争継続による原油価格高騰リスク、暗号資産市場の規制不透明感、量子コンピュータによる暗号解読リスクなどが複合的に作用し、金融市場の不確実性が高まっています。",
+  "summary": "中東情勢の緊迫化による原油価格高騰がインフレを加速させ、金融市場に大きな影響を与えている。暗号資産市場は量子コンピュータの脅威や規制の不確実性により不安定な状況が続いている。米国の政治的混乱もリスク要因として注視される。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "U.S. crude on Thursday did something it's never done before as Iran war continues",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "イラン戦争継続により、米国原油市場で前例のない事態が発生。原油価格高騰と供給不安が深刻化しています。",
-      "analysis": "イラン戦争の長期化は、ホルムズ海峡の封鎖リスクを高め、世界の原油供給に深刻な影響を与えます。特に、トランプ政権が迅速な終戦を期待されているにも関わらず、事態が長期化する可能性が高まっており、原油価格のさらなる上昇とインフレ圧力の増大が懸念されます。代替エネルギーへの移行やエネルギー効率の改善が急務となりますが、短期的な影響は避けられないでしょう。地政学的リスクが金融市場に直接影響を与える典型的な事例であり、投資家はリスク回避姿勢を強める可能性があります。",
+      "title": "European ministers call for a tax on energy company windfall profits as Iran war drives price surge",
+      "region": "europe",
+      "risk_level": "high",
+      "summary": "イラン戦争による原油価格高騰で、ユーロ圏のインフレ率が上昇。欧州各国はエネルギー企業の超過利潤に対する課税を検討。",
+      "analysis": "原油価格の高騰は、欧州経済にスタグフレーションのリスクをもたらす。超過利潤課税は企業の投資意欲を減退させ、エネルギー供給の安定性を損なう可能性もある。政策の実施には、各国の利害調整が不可欠であり、合意形成の遅れは市場の不確実性を高める。",
       "key_entities": [
-        "原油市場",
-        "トランプ政権",
-        "イラン",
-        "ホルムズ海峡"
+        "欧州中央銀行",
+        "エネルギー企業",
+        "ユーロ圏各国政府"
       ],
       "sources": [
         "CNBC - Top News"
@@ -23,15 +22,88 @@
       ]
     },
     {
+      "title": "U.S. fighter jet shot down in Iran, one crew member rescued, MS NOW reports",
+      "region": "middle_east",
+      "risk_level": "critical",
+      "summary": "米軍戦闘機がイランで撃墜され、緊張が高まる。地政学的リスクが金融市場に大きな影響を与える可能性。",
+      "analysis": "戦闘機の撃墜は、米国とイランの軍事衝突がエスカレートする可能性を示唆する。地政学的リスクの高まりは、原油価格の急騰、株式市場の混乱、安全資産への資金逃避を引き起こす可能性がある。今後の両国の動向が、金融市場の安定を大きく左右する。",
+      "key_entities": [
+        "米国政府",
+        "イラン政府",
+        "原油市場"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "India makes first Iranian oil purchase in seven years with no payment problems",
+      "region": "south_asia",
+      "risk_level": "medium",
+      "summary": "インドが7年ぶりにイラン産原油を購入。米国の制裁回避策が講じられた可能性。",
+      "analysis": "インドのイラン産原油購入は、米国の対イラン制裁の効果を弱める可能性がある。同時に、インドのエネルギー安全保障を強化し、経済成長を支える要因となる。米国の制裁政策の変更や、新たな制裁措置の発動が予想され、今後の動向が注目される。",
+      "key_entities": [
+        "インド政府",
+        "イラン政府",
+        "米国政府",
+        "原油市場"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Solanaの量子コンピュータ対策が、セキュリティと速度のトレードオフを露呈。暗号資産の脆弱性が浮き彫りに。",
+      "analysis": "量子コンピュータの登場は、既存の暗号資産のセキュリティを脅かす。Solanaの事例は、量子コンピュータ対策がネットワークの効率性を損なう可能性を示唆する。量子コンピュータ耐性を持つ新たな暗号技術の開発が急務となる。",
+      "key_entities": [
+        "Solana",
+        "暗号資産市場",
+        "量子コンピュータ技術"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Five data sources say the same thing about bitcoin market. It's thinning from the inside",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "複数のデータソースが、ビットコイン市場の流動性低下を示唆。市場の脆弱性が高まっている可能性。",
+      "analysis": "ビットコイン市場の流動性低下は、価格変動リスクを高める。大規模な売買注文が価格に大きな影響を与えやすくなり、市場の安定性を損なう可能性がある。機関投資家の参入状況や、規制の動向が、今後の市場の流動性を左右する。",
+      "key_entities": [
+        "ビットコイン",
+        "暗号資産市場",
+        "機関投資家"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
       "title": "Here's what 'cracking' bitcoin in 9 minutes by quantum computers actually means",
       "region": "global",
       "risk_level": "high",
-      "summary": "量子コンピュータによるビットコインの9分での解読可能性が示唆され、暗号資産のセキュリティリスクが浮上しています。",
-      "analysis": "量子コンピュータの発展は、現在の暗号技術を無効化する可能性があり、ビットコインを含む暗号資産の根幹を揺るがすリスクとなります。9分で解読可能という情報は、理論的な可能性を示唆するものであり、直ちにビットコインが危険にさらされるわけではありませんが、長期的な脅威として認識する必要があります。量子耐性を持つ暗号技術への移行が急務となり、関連技術の開発競争が激化するでしょう。投資家は、量子コンピュータのリスクを考慮し、ポートフォリオの分散化を進めるべきです。",
+      "summary": "量子コンピュータによるビットコインの脆弱性が議論される。暗号資産市場への信頼が揺らぐ可能性。",
+      "analysis": "量子コンピュータによるビットコインの解読可能性は、理論的な脅威から現実的なリスクへと移行しつつある。量子コンピュータ耐性を持つ暗号技術への移行が不可欠であり、移行の遅れは市場の混乱を招く可能性がある。",
       "key_entities": [
         "ビットコイン",
-        "量子コンピュータ",
-        "暗号技術"
+        "暗号資産市場",
+        "量子コンピュータ技術"
       ],
       "sources": [
         "CoinDesk"
@@ -43,13 +115,14 @@
     {
       "title": "Schwab plans spot bitcoin, ether trading launch in first half of 2026",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "Schwabが2026年前半にビットコインとイーサリアムの現物取引を開始予定。機関投資家の参入を促進する可能性があります。",
-      "analysis": "大手金融機関であるSchwabが暗号資産の現物取引に参入することは、暗号資産市場の成熟度を高める上で重要な一歩となります。機関投資家の資金流入を促進し、市場の流動性を向上させる可能性があります。しかし、規制の不確実性や価格変動リスクも依然として存在するため、慎重な対応が求められます。特に、Schwabのような伝統的な金融機関が暗号資産を取り扱うことで、既存の金融システムとの統合が進む一方、新たなリスクも顕在化する可能性があります。",
+      "risk_level": "low",
+      "summary": "Schwabがビットコインとイーサリアムの現物取引を開始予定。機関投資家の暗号資産市場への参入が進む。",
+      "analysis": "Schwabの現物取引開始は、暗号資産市場の成熟度を高める。機関投資家の参入は、市場の流動性を向上させ、価格の安定化に貢献する可能性がある。ただし、規制の不確実性や、市場のボラティリティは依然としてリスク要因となる。",
       "key_entities": [
         "Schwab",
         "ビットコイン",
-        "イーサリアム"
+        "イーサリアム",
+        "暗号資産市場"
       ],
       "sources": [
         "CoinDesk"
@@ -59,18 +132,18 @@
       ]
     },
     {
-      "title": "Judge continues Nevada ban on Kalshi sports markets",
+      "title": "U.S. judge upholds block on subpoenas to Fed's Powell, teeing up likely appeal",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ネバダ州でのKalshiスポーツ市場の禁止が継続。予測市場に対する規制の厳格化が進んでいます。",
-      "analysis": "ネバダ州でのKalshiスポーツ市場の禁止継続は、予測市場に対する規制の不確実性を示唆しています。予測市場は、情報収集やリスクヘッジの手段として有用である一方、ギャンブルとの境界線が曖昧であるため、規制当局の監視が強化されています。今回の判決は、他の地域における予測市場の展開にも影響を与える可能性があり、関連企業のビジネスモデルに影響を与える可能性があります。",
+      "summary": "米国の裁判所がFRB議長への召喚状を阻止。金融政策の透明性に対する懸念が高まる。",
+      "analysis": "FRB議長への召喚状阻止は、金融政策の独立性に対する疑念を生じさせる可能性がある。政策決定プロセスの透明性が低下すれば、市場の信頼を損ない、ボラティリティを高める可能性がある。今後の裁判所の判断が注目される。",
       "key_entities": [
-        "Kalshi",
-        "ネバダ州",
-        "予測市場"
+        "FRB",
+        "ジェローム・パウエル",
+        "米国政府"
       ],
       "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -80,12 +153,11 @@
       "title": "Trump fires Attorney General Pam Bondi",
       "region": "global",
       "risk_level": "medium",
-      "summary": "トランプ大統領がパム・ボンディ司法長官を解任。政治的な不確実性が高まっています。",
-      "analysis": "トランプ大統領による司法長官の解任は、政権内部の混乱を示唆し、政策の方向性に対する不確実性を高めます。特に、司法省の独立性が損なわれる懸念があり、企業のコンプライアンス体制や投資判断に影響を与える可能性があります。政治的なリスクは、金融市場の変動性を高める要因となり、投資家はリスク回避姿勢を強める可能性があります。",
+      "summary": "トランプ大統領が司法長官を解任。政治的混乱が金融市場に影響を与える可能性。",
+      "analysis": "司法長官の解任は、米国の政治的安定に対する懸念を高める。政策の不確実性が増し、投資家のリスク回避姿勢を強める可能性がある。今後の政権人事や、政策の方向性が注目される。",
       "key_entities": [
         "トランプ大統領",
-        "パム・ボンディ",
-        "司法省"
+        "米国政府"
       ],
       "sources": [
         "CNBC - Top News"
@@ -95,52 +167,16 @@
       ]
     },
     {
-      "title": "Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "量子耐性を持つブロックチェーンが稼働開始。ビットコインとイーサリアムは量子コンピュータの脅威に直面しています。",
-      "analysis": "Naoris Protocolの量子耐性ブロックチェーンの稼働は、量子コンピュータの脅威に対する一つの解決策となりえます。ビットコインやイーサリアムが量子コンピュータによる攻撃に脆弱であるという認識が高まる中、量子耐性を持つブロックチェーン技術への関心が高まるでしょう。しかし、量子耐性技術はまだ初期段階であり、その有効性や安全性についてはさらなる検証が必要です。投資家は、量子耐性技術の動向を注視し、ポートフォリオに適切に組み込む必要があります。",
-      "key_entities": [
-        "Naoris Protocol",
-        "ビットコイン",
-        "イーサリアム",
-        "量子コンピュータ"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Asia-Pacific markets mostly rise in Easter trade on hopes for Hormuz reopening",
-      "region": "east_asia",
-      "risk_level": "low",
-      "summary": "ホルムズ海峡再開への期待から、アジア太平洋市場は上昇。ただし、地政学的リスクは依然として存在します。",
-      "analysis": "ホルムズ海峡再開への期待は、アジア太平洋地域の市場心理を改善させる要因となります。特に、原油価格の安定化や貿易活動の正常化に対する期待が高まります。しかし、イラン戦争の状況は依然として不安定であり、地政学的リスクは完全に解消されたわけではありません。投資家は、楽観的な見通しに偏ることなく、リスク管理を徹底する必要があります。",
-      "key_entities": [
-        "ホルムズ海峡",
-        "アジア太平洋市場",
-        "イラン"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Wall Street snapped its 5-week losing streak. Here are 3 themes that caught our eye",
+      "title": "Dow closes lower as Trump comments dampen traders’ hopes for Iran war ending: Live updates",
       "region": "middle_east",
-      "risk_level": "low",
-      "summary": "米国株式市場は5週間ぶりの上昇。米国-イラン戦争の動向が市場心理に影響を与えています。",
-      "analysis": "米国株式市場が5週間ぶりに上昇したのは、米国-イラン戦争の終結への期待感によるものと考えられます。しかし、戦争の状況は依然として不透明であり、楽観的な見通しは時期尚早です。投資家は、地政学的リスクを考慮し、慎重な投資判断を行う必要があります。特に、原油価格の変動やサプライチェーンへの影響など、戦争が企業業績に与える影響を注視する必要があります。",
+      "risk_level": "high",
+      "summary": "トランプ大統領の発言でイラン戦争終結への期待が後退し、ダウ平均が下落。地政学的リスクが市場心理を悪化させる。",
+      "analysis": "トランプ大統領の発言は、市場の不確実性を高め、投資家のリスク回避姿勢を強める。イラン戦争の長期化は、原油価格の高騰、サプライチェーンの混乱、世界経済の減速を引き起こす可能性がある。今後の地政学的動向が、金融市場の安定を大きく左右する。",
       "key_entities": [
-        "米国株式市場",
-        "米国",
-        "イラン"
+        "トランプ大統領",
+        "米国政府",
+        "イラン政府",
+        "ダウ平均"
       ],
       "sources": [
         "CNBC - Top News"
@@ -153,10 +189,10 @@
   "region_risk_map": {
     "global": "high",
     "north_america": "medium",
-    "europe": "medium",
-    "east_asia": "low"
+    "europe": "high",
+    "east_asia": "medium"
   },
-  "generated_at": "2026-04-04T09:42:59.405991",
+  "generated_at": "2026-04-04T13:04:49.074712",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
