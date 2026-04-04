@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-04",
-    "summary": "中東情勢が極めて緊迫化。米イラン間の軍事衝突が激化し、ホルムズ海峡封鎖による経済的影響も深刻化。ウクライナ情勢も膠着状態が続き、世界的なエネルギー危機を招いている。地政学的リスクは全体的に高まっている。",
+    "summary": "米イラン間の軍事衝突が激化し、ホルムズ海峡封鎖による世界経済への影響が深刻化。ウクライナ情勢も膠着状態。フェイクニュースの拡散やトランプ政権の広報戦略も混乱を招く。中東危機は世界的なエネルギー問題に拍車をかけている。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
@@ -10,12 +10,12 @@
       "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
+      "europe": "medium",
       "africa": "medium",
-      "north_america": "critical",
+      "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-04-04T07:07:02.246864"
+    "generated_at": "2026-04-04T09:42:41.374965"
   },
   {
     "date": "2026-04-03",

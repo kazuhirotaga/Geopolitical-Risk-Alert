@@ -1,122 +1,129 @@
 {
   "date": "2026-04-04",
-  "summary": "世界各地で食料・エネルギー不足、政治的緊張、社会経済的不満が複合的に絡み合い、広範な社会不安と警戒状態が続いています。特に南アジアとオセアニアでは生活必需品の不足によるパニック買いや激しい抗議活動が報じられ、北米と中東でも大規模デモや反体制派への弾圧により緊張が高まっています。全体的に秩序の維持が求められる状況が散見され、一部地域では危機管理への強い対応が急務となっています。",
-  "global_panic_index": 69,
+  "summary": "世界全体では、資源不足と政治的緊張が広範な社会不安を引き起こしています。インドでは深刻な水不足やエネルギー（CNG、LPG）不足が大規模な抗議デモに発展し、一部は過激な様相を呈しています。中東では紛争の余波と国内の政治的抑圧により社会情勢が極めて不安定な状態にあり、学生や住民によるデモが頻発しています。オーストラリアでは燃料不足による買いだめ懸念が浮上し、北米では大規模デモの混乱と金融市場の潜在的リスクが報告されています。全体的に、生活必需品の供給不安や政治的な不満が市民の行動変容を促し、一部地域では社会秩序が著しく不安定化している警戒状態にあります。",
+  "global_panic_index": 67,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 68,
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "政治的・社会的不満、エネルギー不足",
+      "main_cause": "政治的抗議、金融市場の潜在的ストレス",
       "incidents": [
         {
-          "title": "'No Kings' protest in Los Angeles turns chaotic",
-          "location": "Los Angeles, USA",
-          "severity": 70,
-          "description": "米国ロサンゼルスで「No Kings」と題された大規模な抗議デモが混沌とした状況となり、多数の逮捕者が出た。社会秩序の混乱と治安当局との衝突が発生し、社会不安が広がっている。",
+          "title": "'No Kings' protest in Los Angeles turns chaotic as dozens arrested after day of mass demonstrations",
+          "location": "Los Angeles, US",
+          "severity": 80,
+          "description": "ロサンゼルスで大規模な「No Kings」デモが混乱状態に陥り、多数の逮捕者が出ました。これは社会秩序の不安定化を示す顕著な事象です。",
           "source": "MSN"
         },
         {
-          "title": "Gas prices sky rocket and pumps run dry across USA",
-          "location": "USA (全州)",
-          "severity": 65,
-          "description": "米国各地でガソリン価格が高騰し、一部のガソリンスタンドではポンプが枯渇する事態が発生。国民の間で燃料供給への不安が高まり、潜在的な買いだめ行動が懸念される状況。",
-          "source": "the-sun.com"
+          "title": "Analysis-Private credit sector stresses could be catastrophic, but not just yet",
+          "location": "US",
+          "severity": 50,
+          "description": "民間信用セクターにおける潜在的なストレスが壊滅的な影響をもたらす可能性が指摘されています。現時点ではパニックではないものの、金融不安の種として警戒が必要です。",
+          "source": "WKZO"
         }
       ]
     },
     {
-      "region": "africa",
-      "panic_index": 60,
+      "region": "europe",
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "エネルギー不足",
+      "main_cause": "地域経済の変動、小規模抗議",
       "incidents": [
         {
-          "title": "Kenya petroleum chiefs arrested over fuel shortage claims",
-          "location": "Kenya",
-          "severity": 60,
-          "description": "ケニアで燃料輸入と不足疑惑に関連して石油会社の幹部が逮捕された。国内の燃料供給に懸念が生じており、政府の対応に対する不信感から社会不安の一因となっている。",
-          "source": "The EastAfrican"
+          "title": "Warwick March news roundup: shop closes, protest arrest and bank sold",
+          "location": "Warwick, UK",
+          "severity": 45,
+          "description": "イギリスのウォーリックで店舗閉鎖、抗議デモによる逮捕、銀行売却が報じられました。地域社会の経済的・社会的不安が複合的に現れています。",
+          "source": "Warwick Nub News"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "政治的緊張、地政学的要因",
+      "panic_index": 82,
+      "status": "critical",
+      "main_cause": "紛争の影響、政情不安、市民の抗議",
       "incidents": [
         {
           "title": "Bahrain cracks down on dissent as Iran war reignites internal unrest",
           "location": "Bahrain",
-          "severity": 75,
-          "description": "バーレーン政府が反体制派への弾圧を強化しており、イラン情勢の緊張再燃が国内の社会不安を悪化させている。政治的な緊張と市民の不満が高まっている状況。",
+          "severity": 90,
+          "description": "イラン紛争の影響でバーレーン国内の不安が再燃し、反体制派への取り締まりが強化されています。社会秩序が危険な状態にあります。",
           "source": "The Hindu"
         },
         {
           "title": "Iranian students protest for third day as US pressure mounts",
           "location": "Iran",
-          "severity": 65,
-          "description": "米国の圧力が強まる中、イランの学生が3日連続で抗議デモを実施。政府への不満と社会的な緊張が持続しており、今後の動向が懸念される。",
+          "severity": 75,
+          "description": "米国の圧力が強まる中、イランの学生が3日連続で抗議デモを行っています。政府への不満と社会の緊張が高まっています。",
           "source": "DD News"
+        },
+        {
+          "title": "Yemeni Houthis protest in Sanaa against Israeli death penalty bill for Palestinians",
+          "location": "Sanaa, Yemen",
+          "severity": 80,
+          "description": "イエメンのフーシ派がサヌアでパレスチナ人に対するイスラエル死刑法案に抗議する大規模なデモを実施。地域紛争に関連する深い社会不安を示唆しています。",
+          "source": "MSN"
         }
       ]
     },
     {
-      "region": "oceania",
-      "panic_index": 75,
+      "region": "east_asia",
+      "panic_index": 71,
       "status": "volatile",
-      "main_cause": "エネルギー不足、買いだめ",
+      "main_cause": "水不足、エネルギー不足、社会インフラの危機、農民の不満",
+      "incidents": [
+        {
+          "title": "Acute water shortage in Kalyan-Dombivli: sewage-tainted water, 60% cuts spark residents’ protest",
+          "location": "Kalyan-Dombivli, India",
+          "severity": 85,
+          "description": "インドのカリアン-ドンビブリで深刻な水不足が発生し、下水で汚染された水と60%の供給削減が住民の激しい抗議デモを引き起こしています。生活インフラが危機に瀕しています。",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Auto drivers in Hyderabad protest by climbing mobile tower over CNG shortage",
+          "location": "Hyderabad, India",
+          "severity": 80,
+          "description": "インドのハイデラバードでCNGガス不足を巡り、オート運転手が携帯タワーに登って抗議する過激な行動に出ました。エネルギー不足が社会混乱を招いています。",
+          "source": "MSN"
+        },
+        {
+          "title": "LPG crisis triggers protest at Delhi University's Miranda House",
+          "location": "Delhi University, India",
+          "severity": 75,
+          "description": "インドのデリー大学でLPGガス危機が抗議デモを引き起こしました。エネルギー供給の不安定さが学生コミュニティの不安を高めています。",
+          "source": "MSN"
+        },
+        {
+          "title": "Middle East Conflict Hits Sambalpur Roti Bank, Free Meal Service For Poor At Risk",
+          "location": "Sambalpur, India",
+          "severity": 60,
+          "description": "中東紛争がインドのサンバルプールにあるロティバンク（貧困層向け無料食事サービス）に影響を与え、貧しい人々への食料提供が危機に瀕しています。",
+          "source": "ETV Bharat"
+        },
+        {
+          "title": "'Not a year of farmer welfare': Congress attacks MP govt, warns of massive protest",
+          "location": "MP, India",
+          "severity": 55,
+          "description": "インド国民会議が政府を批判し、農民の福祉を巡る大規模な抗議デモを警告しました。農業部門の不満と政治的緊張が高まっています。",
+          "source": "The Hans India"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "燃料不足、買いだめ懸念",
       "incidents": [
         {
           "title": "Australians urged to ‘avoid panic buying’ as 600 service stations out of fuel",
           "location": "Australia",
-          "severity": 75,
-          "description": "オーストラリアで約600か所のガソリンスタンドが燃料切れとなり、当局は国民にパニック買いを避けるよう呼びかけている。広範囲にわたる燃料不足と買いだめが発生し、混乱が深まっている。",
+          "severity": 70,
+          "description": "オーストラリアで600カ所のガソリンスタンドで燃料が枯渇し、当局がパニック買いを避けるよう呼びかけています。燃料不足が顕在化し、社会に不安が広がっています。",
           "source": "Sky News Australia"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 67,
-      "status": "volatile",
-      "main_cause": "食料・エネルギー不足、社会経済的不満",
-      "incidents": [
-        {
-          "title": "Acute water shortage sparks residents’ protest in Kalyan-Dombivli",
-          "location": "Kalyan-Dombivli, India",
-          "severity": 80,
-          "description": "インドのKalyan-Dombivliで深刻な水不足が発生し、汚染水や60%の断水が住民の激しい抗議デモを引き起こしている。生活基盤の危機が深刻化し、住民の不満が爆発。",
-          "source": "Hindustan Times"
-        },
-        {
-          "title": "Congress warns of massive protest over farmer welfare in MP",
-          "location": "MP (Madhya Pradesh), India",
-          "severity": 55,
-          "description": "インドの主要政党がマディヤ・プラデーシュ州政府の農民福祉政策を批判し、大規模な抗議デモの可能性を警告している。広範な社会不安に繋がりかねない緊張状態にある。",
-          "source": "The Hans India"
-        },
-        {
-          "title": "TMC plans protest after clashes sharpen poll tensions in Bengal",
-          "location": "Bengal (West Bengal), India",
-          "severity": 60,
-          "description": "インドのベンガル地方で政治的衝突後に逮捕者が出たことを受け、TMC党が抗議活動を計画。選挙に向けた緊張が高まり、地域的な不安が増大している状況。",
-          "source": "National Herald"
-        },
-        {
-          "title": "Auto drivers protest CNG shortage by climbing mobile tower in Hyderabad",
-          "location": "Hyderabad, India",
-          "severity": 75,
-          "description": "インドのハイデラバードでCNG（天然ガス）不足に抗議するため、オートリキシャの運転手らがモバイルタワーによじ登る過激な行動に出た。深刻なエネルギー不足が市民生活に影響し、秩序が乱れている。",
-          "source": "MSN"
-        },
-        {
-          "title": "Mysuru LPG shortage hits auto drivers, CNG supply dips",
-          "location": "Mysuru, India",
-          "severity": 65,
-          "description": "インドのマイソールでLPG不足とCNG供給の低下によりオートリキシャの運転手らが影響を受け、運賃が据え置かれる事態に。地域的なエネルギー不足が経済活動に波及し、市民の不満が高まっている。",
-          "source": "Deccan Herald"
         }
       ]
     }
