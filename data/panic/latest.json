@@ -1,143 +1,129 @@
 {
   "date": "2026-04-05",
-  "summary": "世界各地では、中東地域の地政学的緊張の激化と、南アジアにおける深刻な燃料不足が社会不安の主な要因となっています。特に中東では政府による弾圧や大規模な抗議活動が頻発し、潜在的な軍事衝突の脅威が広範囲な不安を引き起こしています。南アジアでは燃料不足が市民生活や経済活動に深刻な影響を与え、各地で抗議活動に発展しています。欧米では金融市場の潜在的リスクや政府規制によるインフラ障害が見られますが、広範なパニックには至っていません。全体としては、特定の地域での危機が拡大しつつある状況です。",
-  "global_panic_index": 50,
+  "summary": "世界全体では、中東における紛争の激化と、それに伴う南アジアでの燃料・食料不足が主要な社会不安要因となっています。特にインドではLPG供給危機が市民生活を直撃し、南アジア全体で広範な社会不安と経済的混乱のリスクが高まっています。中東では政治的抑圧と軍事的衝突が市民の安全を脅かしており、両地域は極めて不安定な状態にあります。その他の地域では、限定的な抗議活動や経済的懸念は見られるものの、大規模なパニックには至っていません。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "middle_east",
-      "panic_index": 65,
+      "panic_index": 78,
       "status": "volatile",
-      "main_cause": "地政学的緊張、政治的抗議活動、政府弾圧",
+      "main_cause": "地域紛争の激化、政治的抑圧、国際関係の緊張",
       "incidents": [
         {
-          "title": "イランと米国の地政学的緊張激化",
-          "location": "イラン",
-          "severity": 60,
-          "description": "米国からの「48時間以内の取引合意またはホルムズ海峡開放、さもなくば『地獄』に直面する」との最後通告により、地域全体の軍事衝突への懸念が高まっています。",
-          "source": "Radio Free Europe/Radio Liberty"
-        },
-        {
-          "title": "イランでの抗議活動鎮圧と処刑",
+          "title": "イラン、軍事施設襲撃未遂者2名を処刑",
           "location": "イラン",
           "severity": 70,
-          "description": "1月の抗議活動中に軍事施設襲撃を試みた2名が処刑されました。政府による強硬な弾圧は、社会不安と反発をさらに深める可能性があります。",
+          "description": "1月の抗議デモ中に軍事施設襲撃を試みた2名が処刑され、政府の強硬な対応が市民の不安と社会不安を煽っている。政治的抑圧が深刻化。",
           "source": "The Jerusalem Post"
         },
         {
-          "title": "イラク・バグダッドでの大規模デモ",
-          "location": "イラク・バグダッド",
-          "severity": 70,
-          "description": "サドル師支持者による反米・反イスラエルデモがバグダッドで発生。地域的な地政学的緊張と政治的不満が顕在化し、治安への懸念を増大させています。",
+          "title": "イスラエルでイラン戦争反対デモ、ミサイルで解散",
+          "location": "テルアビブ、イスラエル",
+          "severity": 80,
+          "description": "イラン戦争に抗議する数百人のデモ隊がミサイル攻撃により解散を余儀なくされ、地域紛争の激化が市民生活に直接的な脅威を与えている。",
+          "source": "Türkiye Today"
+        },
+        {
+          "title": "イラク、反米・反イスラエルデモが発生",
+          "location": "バグダッド、イラク",
+          "severity": 60,
+          "description": "アル・サドル支持者がバグダッドで米国とイスラエルに対する大規模な抗議デモを実施し、地域の政治的緊張と反政府感情の高まりを示している。",
           "source": "Reuters Connect"
         },
         {
-          "title": "シリア・ダマスカスのUAE大使館周辺の不安",
-          "location": "シリア・ダマスカス",
-          "severity": 60,
-          "description": "ダマスカスはUAE大使館周辺での「不安」事象を受け、外国公館の保護を誓約しました。これは、国内の治安状況の悪化を示唆しています。",
+          "title": "シリア、UAE大使館騒乱後、外国公館保護を誓約",
+          "location": "ダマスカス、シリア",
+          "severity": 55,
+          "description": "UAE大使館での騒乱を受け、シリア政府は外国公館の保護を約束。国内の不安定な情勢と外交施設への影響が懸念される。",
           "source": "شفق نيوز"
         },
         {
-          "title": "中東情勢が南アジアに与える波及懸念",
-          "location": "中東地域全体",
-          "severity": 75,
-          "description": "イランでの戦争勃発が南アジアにおける燃料・食料不足を悪化させ、各国政府の不安定化に繋がる可能性が指摘されており、地域全体の懸念材料です。",
-          "source": "South China Morning Post"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "燃料不足、生活インフラへの影響、金融不安",
-      "incidents": [
-        {
-          "title": "インドでの深刻なLPG（燃料）不足",
-          "location": "インド・カルナータカ州 (マンディア, ベンガルール)",
-          "severity": 70,
-          "description": "カルナータカ州各地でLPG不足が深刻化し、オートリキシャ運転手の生計を直撃。多くの車両が路上から姿を消し、市民生活に大きな影響を与えています。",
-          "source": "The Economic Times, newskarnataka.com, Mathrubhumi English"
-        },
-        {
-          "title": "燃料不足に対する広範な抗議活動",
-          "location": "インド",
-          "severity": 75,
-          "description": "LPG不足は各地で市民の怒りを買い、モディ首相への抗議活動に発展しています。生活に直結する燃料問題が社会不安を増幅させています。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "バングラデシュ中央銀行による営業時間短縮",
-          "location": "バングラデシュ",
-          "severity": 55,
-          "description": "バングラデシュ銀行が営業時間を短縮し、取引締め切りを3PMに設定。これは金融システムの安定性に対する潜在的な懸念を示唆する可能性があります。",
-          "source": "Daily Bonik Barta, The Financial Express"
-        },
-        {
-          "title": "中東情勢が南アジアの燃料・食料不足に波及する懸念",
-          "location": "南アジア地域全体",
-          "severity": 75,
-          "description": "イラン戦争の可能性が南アジアの燃料・食料不足を悪化させ、各国政府の不安定化に繋がるという分析が発表され、地域全体に経済的・社会的不安が広がっています。",
-          "source": "South China Morning Post"
-        },
-        {
-          "title": "政府による燃料供給への懸念払拭の試み",
-          "location": "インド",
-          "severity": 60,
-          "description": "インド石油公社（IOCL）は燃料供給が十分であり、パニックの必要はないと発表。これは、燃料不足に対する国民の懸念やパニックの兆候が存在することを示唆しています。",
+          "title": "レバノン、イスラエル軍が国連施設カメラ破壊で抗議へ",
+          "location": "レバノン",
+          "severity": 65,
+          "description": "イスラエル軍が国連暫定駐留軍(UNIFIL)本部で監視カメラを破壊し、UNIFILは正式な抗議を表明。紛争地域の緊張が高まっている。",
           "source": "lokmattimes.com"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 55,
-      "status": "stable",
-      "main_cause": "金融市場の不確実性",
+      "region": "south_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "燃料・食料不足、地域紛争に起因する経済的影響、物価高騰",
       "incidents": [
         {
-          "title": "米国銀行システムへの潜在的懸念",
-          "location": "米国",
-          "severity": 55,
-          "description": "米国政府は銀行に数十億ドルを供給する一方、SVBの根本的な失敗が解決されていないことを認識していると報じられ、金融システムの安定性への潜在的な不安が残ります。",
-          "source": "Cryptonews.net"
+          "title": "イラン戦争が南アジア政府を転覆させる可能性",
+          "location": "南アジア全体",
+          "severity": 85,
+          "description": "イラン戦争の激化が南アジア地域の燃料と食料の供給を途絶させ、複数の政府が転覆する可能性が指摘されており、広範な社会不安のリスクが非常に高い。",
+          "source": "South China Morning Post"
+        },
+        {
+          "title": "インド、LPG供給危機で自動車運転手らが窮状に",
+          "location": "カルナータカ州、ベンガルール、インド",
+          "severity": 78,
+          "description": "カルナータカ州やベンガルールでLPG供給が深刻化し、燃料不足によりオート運転手が立ち往生。生活必需品の不足が市民生活を直撃している。",
+          "source": "MSN, The Economic Times, newskarnataka.com, english.mathrubhumi.com"
+        },
+        {
+          "title": "パキスタン、石油価格高騰撤回なければ抗議活動と警告",
+          "location": "パキスタン",
+          "severity": 65,
+          "description": "パキスタンのトレーダーらが石油価格の値上げが撤回されなければ抗議活動を行うと警告。物価高騰が広範な社会不安を引き起こす可能性。",
+          "source": "lokmattimes.com"
+        },
+        {
+          "title": "インド株、RBI政策と西アジア紛争で変動に備える",
+          "location": "インド",
+          "severity": 50,
+          "description": "RBIの政策と西アジア紛争の影響でインドの株式市場が不安定化する可能性があり、投資家や経済に不安が広がっている。",
+          "source": "Business Standard"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "政府規制によるインフラ障害、局所的な治安悪化",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "局所的な騒乱",
       "incidents": [
         {
-          "title": "ロシアでのVPN規制による銀行障害",
-          "location": "ロシア",
-          "severity": 60,
-          "description": "Telegram創設者によると、ロシア政府によるVPN規制が銀行システムの障害を引き起こした可能性が指摘されており、市民生活への影響が懸念されます。",
-          "source": "Business Standard"
-        },
-        {
-          "title": "ドイツでのサッカーファンによる暴力的な治安の乱れ",
+          "title": "ドイツ、サッカーファン騒乱で傷害事件を捜査",
           "location": "ドイツ",
-          "severity": 45,
-          "description": "サッカーファンによる「不安」事象とそれに伴う「危険な身体的危害」について警察が捜査を行っており、スポーツイベントでの治安悪化が問題視されています。",
-          "source": "Times Union"
+          "severity": 30,
+          "description": "サッカーファンによる騒乱で「危険な身体的危害」が発生し、警察が捜査中。局所的な秩序の乱れであり、社会全体への波及は限定的。",
+          "source": "Seattlepi.com"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 30,
-      "status": "normal",
-      "main_cause": "政治への不満 (小規模)",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "小規模な抗議のみ",
       "incidents": [
         {
-          "title": "ガーナでの大統領演説中の小規模抗議",
-          "location": "ガーナ",
-          "severity": 30,
-          "description": "クワフフォーラムでマハマ大統領の演説中に、ある男性がプラカードを掲げて抗議しました。これは小規模な不満の表明であり、広範な社会パニックには至っていません。",
-          "source": "ghanaweb.com"
+          "title": "ガーナ、大統領演説をプラカードで妨害する抗議者",
+          "location": "クワフ、ガーナ",
+          "severity": 20,
+          "description": "大統領の演説中に一人の男性がプラカードで抗議を行った。小規模な個人の不満表明であり、広範な社会不安やパニックとは異なる。",
+          "source": "GhanaWeb"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 35,
+      "status": "unstable",
+      "main_cause": "潜在的な金融リスク",
+      "incidents": [
+        {
+          "title": "プライベートクレジットと新たな金融リスクの世界",
+          "location": "北アメリカ（広範な金融市場への言及）",
+          "severity": 40,
+          "description": "ポール・クルーグマン氏がプライベートクレジット市場の新たな金融リスクについて言及。直ちにパニックではないが、潜在的な金融不安の警告。",
+          "source": "Paul Krugman | Substack"
         }
       ]
     },
@@ -145,21 +131,21 @@
       "region": "east_asia",
       "panic_index": 0,
       "status": "normal",
-      "main_cause": "N/A",
+      "main_cause": "なし",
       "incidents": []
     },
     {
       "region": "south_america",
       "panic_index": 0,
       "status": "normal",
-      "main_cause": "N/A",
+      "main_cause": "なし",
       "incidents": []
     },
     {
       "region": "southeast_asia",
       "panic_index": 0,
       "status": "normal",
-      "main_cause": "N/A",
+      "main_cause": "なし",
       "incidents": []
     }
   ]
