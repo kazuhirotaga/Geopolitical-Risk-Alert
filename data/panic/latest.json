@@ -1,135 +1,178 @@
 {
-  "date": "2026-04-04",
-  "summary": "世界各地で金融システムの不安定化、エネルギー・食料・水の生活必需品不足が深刻化し、社会不安が高まっています。特にアジア太平洋地域では、燃料の買いだめや水不足による大規模な抗議、極端な社会行動が報告され、状況は「危機的」レベルに達しています。中東では地政学的緊張が極めて高く、欧米でも大規模な抗議活動や金融システムへの潜在的懸念が続いており、全体的に警戒レベルが上昇しています。",
-  "global_panic_index": 71,
+  "date": "2026-04-05",
+  "summary": "世界全体では、中東地域が地政学的緊張と大規模な反政府デモにより最も高い警戒状態にあります。一方、ヨーロッパではエネルギー供給の懸念と金融サービスへのアクセス障害が、南アジアでは生活必需品の不足が社会不安を引き起こしています。北米や東アジアは比較的安定していますが、金融システムへの不信感や小規模な抗議活動は見られます。全体として、局所的な不安定要因が散見され、中程度の警戒が必要な状況です。",
+  "global_panic_index": 49,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "金融システム不安、地政学的緊張、エネルギー供給懸念",
+      "region": "north_america",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "金融システムへの懸念、一部抗議活動",
       "incidents": [
         {
-          "title": "ロシアのVPN規制による銀行システム障害",
-          "location": "ロシア",
-          "severity": 75,
-          "description": "ロシアのVPN規制が原因で銀行システムに障害が発生。市民の金融サービスへのアクセスが困難になり、広範な不信感と社会機能の低下を引き起こす恐れがあります。",
-          "source": "bloomberg.com / theedgemarkets.com"
+          "title": "US frees up billions for banks while quietly admitting SVB’s core failure never went away",
+          "location": "アメリカ",
+          "severity": 45,
+          "description": "米国の金融当局が銀行に数十億ドルを供給する一方で、SVBの根本的な問題が解決されていないことを示唆。金融システムへの不信感が潜在的な不安要因としてくすぶっています。",
+          "source": "CryptoRank"
         },
         {
-          "title": "イラン紛争と燃料不足への懸念",
-          "location": "英国 / イラン",
-          "severity": 60,
-          "description": "英国の航空会社がイラン紛争とそれに伴う燃料不足への懸念を示唆。国際情勢の緊迫が国内の生活必需品供給に影響を及ぼすことへの不安が広がっています。",
+          "title": "Tinton Falls Joins Nationwide No Kings Day of Protest",
+          "location": "Tinton Falls, アメリカ",
+          "severity": 30,
+          "description": "全国的な抗議活動「No Kings Day of Protest」にティントンフォールズが参加。特定の社会秩序の混乱には至っていませんが、市民の不満が表明されています。",
+          "source": "tworivertimes.com"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "エネルギー供給への懸念、金融サービス障害、地政学的緊張",
+      "incidents": [
+        {
+          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+          "location": "ロシア",
+          "severity": 50,
+          "description": "ロシアにおけるVPN規制が銀行システムの停止を引き起こしたとTelegram創設者が指摘。金融サービスへのアクセス障害は市民の不満と混乱を招く可能性があります。",
+          "source": "bloomberg.com"
+        },
+        {
+          "title": "Airlines warn flight cuts could start in six weeks over fuel shortages",
+          "location": "オランダ",
+          "severity": 50,
+          "description": "航空会社が燃料不足により6週間以内にフライト削減を開始する可能性を警告。交通インフラへの影響は経済活動や人々の移動に不安をもたらします。",
+          "source": "NL Times"
+        },
+        {
+          "title": "Jet2 shares 'all flights' update amid Iran conflict and fuel shortage fears",
+          "location": "イギリス",
+          "severity": 45,
+          "description": "航空会社Jet2がイラン紛争と燃料不足の懸念の中でフライト情報を公開。地政学的緊張とエネルギー不足が旅行者の不安を煽っています。",
           "source": "My London"
         },
         {
-          "title": "英国ウォーウィックで抗議デモと店舗閉鎖",
-          "location": "英国 ウォーウィック",
-          "severity": 40,
-          "description": "地域レベルでの抗議デモが発生し、逮捕者が出るとともに店舗が閉鎖。社会不安が特定の地域で表面化し、市民生活に軽微な影響を与えています。",
+          "title": "Warwick March news roundup: shop closes, protest arrest and bank sold",
+          "location": "Warwick, イギリス",
+          "severity": 35,
+          "description": "店舗閉鎖、デモによる逮捕、銀行売却のニュースが報じられています。経済的な不安と市民の抗議活動の兆候が複合的に発生しています。",
           "source": "Warwick Nub News"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "社会的不満、金融システムへの懸念",
-      "incidents": [
-        {
-          "title": "ロサンゼルスで「No Kings」抗議デモが混乱、多数の逮捕者",
-          "location": "米国 ロサンゼルス",
-          "severity": 70,
-          "description": "大規模な「No Kings」抗議デモが混乱状態に陥り、多数の逮捕者が出ました。これは広範な社会的不満が暴力的な衝突へと発展する可能性を示唆しています。",
-          "source": "MSN"
-        },
-        {
-          "title": "SVBの失敗が尾を引く米国の金融システム懸念",
-          "location": "米国",
-          "severity": 55,
-          "description": "米国の銀行システムはSVBの失敗から完全に立ち直っておらず、数十億ドルの資金が投入されても根本的な問題は解決されていないとの指摘。金融市場の潜在的な不安が継続しています。",
-          "source": "Cryptonews.net"
-        },
-        {
-          "title": "全米規模の抗議デモ「No Kings Day of Protest」",
-          "location": "米国 ティントンフォールズ",
-          "severity": 50,
-          "description": "ティントンフォールズを含む全米各地で「No Kings Day of Protest」が実施されました。広範な社会的不満が組織的な抗議活動を通じて表出しています。",
-          "source": "Two River Times"
-        }
-      ]
-    },
-    {
       "region": "middle_east",
-      "panic_index": 75,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "地政学的紛争、地域間の緊張、大規模抗議活動",
+      "main_cause": "地域紛争、大規模な反政府デモ、国内治安悪化",
       "incidents": [
         {
-          "title": "ロシアがイランのブーシェフルからスタッフ避難",
-          "location": "イラン ブーシェフル",
-          "severity": 80,
-          "description": "ロシアがイランのブーシェフルから数十人のスタッフを避難させたことは、地域情勢の極めて高い緊迫度と、紛争発生のリスク増大を示唆しています。",
+          "title": "反政府デモで倒れない権威主義 しぶといイランの現体制",
+          "location": "イラン",
+          "severity": 75,
+          "description": "イランでは大規模な反政府デモが継続していますが、権威主義体制がこれを抑え込んでいる状況です。長期的な社会不安と体制との対立が続いています。",
+          "source": "日本経済新聞"
+        },
+        {
+          "title": "Bahrain cracks down on dissent as Iran war reignites internal unrest",
+          "location": "バーレーン",
+          "severity": 70,
+          "description": "イラン紛争の再燃に伴い、バーレーン国内の騒乱が激化し、政府が反対派を取り締まっています。地域の緊張が国内の不安定化に直結しています。",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Russia Evacuates Dozens Of Staff From Bushehr",
+          "location": "ブシェール, イラン",
+          "severity": 65,
+          "description": "イランのブシェールからロシアの職員数十人が避難。地域における具体的な脅威や緊張の高まりを示唆しており、関係者の安全を懸念する状況です。",
           "source": "Radio Free Europe/Radio Liberty"
         },
         {
-          "title": "イエメンのフーシ派がイスラエル関連法案に抗議",
-          "location": "イエメン サヌア",
-          "severity": 70,
-          "description": "イエメンのフーシ派がサヌアで、パレスチナ人へのイスラエル死刑法案に反対する大規模な抗議デモを実施。地域紛争の激化とイデオロギー的対立の深化を示しています。",
-          "source": "MSN"
+          "title": "Damascus vows protection for foreign missions following UAE embassy unrest",
+          "location": "シリア",
+          "severity": 60,
+          "description": "UAE大使館での騒乱を受け、シリアのダマスカスが外国公館の保護を約束。外交施設の安全が脅かされる状況は、治安の悪化を示唆しています。",
+          "source": "شفق نيوز"
         },
         {
-          "title": "イラク・バグダッドで反米・反イスラエルデモ",
-          "location": "イラク バグダッド",
-          "severity": 65,
-          "description": "イラクのサドル師支持者たちがバグダッドで米国とイスラエルに対する大規模な抗議デモを実施。地域における政治的緊張と反西欧感情の高まりが顕著です。",
+          "title": "Al-Sadr supporters protest against the US Israel in Baghdad",
+          "location": "バグダッド, イラク",
+          "severity": 55,
+          "description": "イラクのバグダッドで、イスラエルと米国に対するサドル派支持者の大規模な抗議デモが発生。地域情勢への強い不満が表明されています。",
           "source": "Reuters Connect"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "食料・エネルギー・水などの生活必需品不足、パニック買い、住民の抗議",
+      "region": "east_asia",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "地政学的懸念への表明",
       "incidents": [
         {
-          "title": "インドのカリヤン・ドンビブリで急性水不足と住民抗議",
-          "location": "インド カリヤン・ドンビブリ",
-          "severity": 90,
-          "description": "カリヤン・ドンビブリで深刻な水不足、汚染水、60%の断水が発生し、住民が激しく抗議。生活の根幹に関わる資源の危機が、住民のパニックと直接的な行動を引き起こしています。",
-          "source": "Hindustan Times"
-        },
+          "title": "戦争反対の声、鳥取でも デモカレンダー",
+          "location": "鳥取, 日本",
+          "severity": 25,
+          "description": "鳥取県で戦争反対のデモが予定されており、市民が平和を求める声を上げています。小規模な抗議活動であり、社会秩序の混乱には至っていません。",
+          "source": "nnn.co.jp"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "africa",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "エネルギー不足、食料不安",
+      "incidents": [
         {
-          "title": "インドのハイデラバードでLPG不足に運転手が絶望的な抗議",
-          "location": "インド ハイデラバード",
-          "severity": 85,
-          "description": "LPG不足に苛立った自動運転手が電波塔に登って抗議する事態が発生。生活必需品の深刻な不足が、市民を極端で絶望的な行動へと駆り立てるパニック状態を示唆しています。",
+          "title": "Frustrated auto driver climbs mobile tower over LPG shortage in Hyderabad",
+          "location": "ハイデラバード, インド",
+          "severity": 60,
+          "description": "ハイデラバードでLPG不足に不満を抱いたオート運転手が電波塔に登るという抗議行動を起こしました。生活に直結するエネルギー不足が深刻な社会不安を生んでいます。",
           "source": "The Siasat Daily"
         },
         {
-          "title": "オーストラリアで燃料のパニック買いとガソリンスタンド枯渇",
-          "location": "オーストラリア",
-          "severity": 80,
-          "description": "オーストラリア各地で運転手による燃料のパニック買いが発生し、多くのガソリンスタンドが枯渇。これは生活必需品に対する広範な社会心理的パニックの明確な兆候です。",
-          "source": "MSN"
-        },
-        {
-          "title": "中東紛争がインドの貧困層向け食料支援サービスを脅かす",
-          "location": "インド サンバルプル",
-          "severity": 80,
-          "description": "中東紛争の影響がインドの食料支援団体「ロティ銀行」に及び、貧困層への無料食事提供が危機に瀕しています。国際紛争が遠隔地の食料安全保障と人道支援に深刻な影響を与え、社会不安を高めています。",
+          "title": "Middle East Conflict Hits Sambalpur Roti Bank, Free Meal Service For Poor At Risk",
+          "location": "サンバルプール, インド",
+          "severity": 50,
+          "description": "中東紛争の影響が、サンバルプールの慈善団体「ロティバンク」による貧困層への無料食事提供サービスを脅かしています。間接的な食料不安が顕在化しています。",
           "source": "ETV Bharat"
         },
         {
-          "title": "インドでLPG供給危機、10kgシリンダーの検討",
+          "title": "Fuel supplies adequate, no need to panic: IOCL",
           "location": "インド",
-          "severity": 75,
-          "description": "インドでLPG供給危機が顕在化し、国営石油会社が10kgシリンダーの導入を検討。これは生活必需エネルギーの不足が深刻化していることを示し、市民の日常生活に大きな懸念を生じさせています。",
-          "source": "MSN"
+          "severity": 40,
+          "description": "インド石油公社（IOCL）は燃料供給が十分であり、パニックの必要はないと発表。この発表は、燃料不足に関する国民の懸念や噂が広がっていることを示唆しています。",
+          "source": "lokmattimes.com"
+        },
+        {
+          "title": "Beed residents protest poor quality bus stand and traffic signal works",
+          "location": "Beed, インド",
+          "severity": 25,
+          "description": "Beedの住民がバス停と信号機の劣悪な工事品質に対して抗議デモを実施。小規模な不満表明であり、広範な社会秩序の混乱には至っていません。",
+          "source": "The Times of India"
         }
       ]
     }

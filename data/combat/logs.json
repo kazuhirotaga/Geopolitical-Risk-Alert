@@ -1,5 +1,76 @@
 [
   {
+    "date": "2026-04-05",
+    "summary": "アメリカとイラン間の緊張が高まる中、ホルムズ海峡付近で米軍機が撃墜、墜落。イランは米軍基地への攻撃を実施。アメリカ軍はイランでの地上作戦を準備していると報じられている。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-04-03",
+        "location": "ホルムズ海峡付近",
+        "region": "middle_east",
+        "title": "A-10攻撃機が墜落",
+        "content": "アメリカ空軍のA-10サンダーボルトII攻撃機がホルムズ海峡付近で墜落。同時期にF-15E戦闘機が撃墜されたと報告されている。",
+        "involved_parties": [
+          "アメリカ空軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/a-10-warthog-crashes-near-strait-of-hormuz/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-04-03",
+        "location": "イラン上空",
+        "region": "middle_east",
+        "title": "米軍F-15E戦闘機が撃墜",
+        "content": "アメリカ軍のF-15E戦闘機がイラン上空で撃墜され、生存者の捜索救助活動が開始された。",
+        "involved_parties": [
+          "アメリカ空軍",
+          "イラン"
+        ],
+        "event_type": "attack",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-04-01",
+        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAE",
+        "region": "middle_east",
+        "title": "イランが米軍基地インフラを攻撃",
+        "content": "イランがバーレーン、カタール、クウェート、サウジアラビア、UAEに所在する米軍基地のレーダーシステム、衛星通信、重要航空機を攻撃した。",
+        "involved_parties": [
+          "イラン",
+          "アメリカ軍"
+        ],
+        "event_type": "attack",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-03-31",
+        "location": "シチリア",
+        "region": "europe",
+        "title": "イタリアが中東へ向かう米軍機を拒否",
+        "content": "イタリアが、イランに対するアメリカとイスラエルの戦争のために、シチリア島を経由する米軍機の使用を拒否。",
+        "involved_parties": [
+          "イタリア",
+          "アメリカ軍",
+          "イスラエル",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-04",
     "summary": "ペルシャ湾周辺で米軍機撃墜と墜落が発生。イランは米軍基地インフラへの攻撃を継続し、米国人パイロットの捜索が続く。一方、インドは防空システムを増強し、ウクライナはドローン対策を強化している。",
     "events": [

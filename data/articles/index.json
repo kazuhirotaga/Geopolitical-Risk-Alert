@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-05",
+    "summary": "中東におけるアメリカとイランの軍事衝突が激化し、ホルムズ海峡の封鎖が継続。世界経済、特にエネルギー供給に深刻な影響。ウクライナ情勢も依然として不安定。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "high",
+      "south_asia": "high",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "high",
+      "south_america": "none"
+    },
+    "generated_at": "2026-04-05T02:50:55.174279"
+  },
+  {
     "date": "2026-04-04",
     "summary": "中東情勢が極めて不安定化。アメリカとイランの軍事衝突が激化し、イラン国内の核施設への攻撃も発生。ウクライナ情勢も膠着状態が続き、世界的なエネルギー危機、食糧危機が深刻化している。",
     "overall_risk_level": "critical",
