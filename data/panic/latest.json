@@ -1,153 +1,166 @@
 {
   "date": "2026-04-05",
-  "summary": "世界各地でエネルギー不足が深刻化し、インドでは特にLPG不足が交通機関の麻痺や個人の絶望的な行動に繋がっています。中東では大規模な抗議活動に対する政府の強硬な弾圧が続き、極めて緊迫した状況です。欧米でも銀行システムの脆弱性や規制によるインフラ障害が報告されており、広範な金融不安や社会不安が増大し、国際的な警戒が求められる状況にあります。",
-  "global_panic_index": 65,
+  "summary": "世界各地では、中東地域の地政学的緊張の激化と、南アジアにおける深刻な燃料不足が社会不安の主な要因となっています。特に中東では政府による弾圧や大規模な抗議活動が頻発し、潜在的な軍事衝突の脅威が広範囲な不安を引き起こしています。南アジアでは燃料不足が市民生活や経済活動に深刻な影響を与え、各地で抗議活動に発展しています。欧米では金融市場の潜在的リスクや政府規制によるインフラ障害が見られますが、広範なパニックには至っていません。全体としては、特定の地域での危機が拡大しつつある状況です。",
+  "global_panic_index": 50,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 60,
-      "status": "volatile",
-      "main_cause": "政府規制によるインフラ障害、地政学的リスクへの懸念",
-      "incidents": [
-        {
-          "title": "ロシア、VPN取り締まりが銀行システム障害を引き起こす",
-          "location": "ロシア",
-          "severity": 75,
-          "description": "VPNへの政府による取り締まりが、国内の主要な銀行システムの機能停止を引き起こしたと報じられています。市民生活や経済活動への広範な影響が懸念されます。",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "イラン紛争と燃料不足の懸念の中で航空会社が運行情報を共有",
-          "location": "イギリス",
-          "severity": 55,
-          "description": "英国の航空会社Jet2が、イラン情勢の緊迫化と燃料不足の懸念の中で「全フライト」に関する情報を共有しました。地政学的リスクとエネルギー供給への不安が広がっています。",
-          "source": "My London"
-        },
-        {
-          "title": "ドイツ警察、サッカーファン騒乱後の「危険な身体的危害」を捜査",
-          "location": "ドイツ",
-          "severity": 45,
-          "description": "サッカーファンの間で発生した騒乱の後、ドイツ警察が「危険な身体的危害」の発生について捜査を行っています。大規模な社会パニックではないものの、秩序の乱れを示しています。",
-          "source": "Seattle Post-Intelligencer"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 65,
-      "status": "unstable",
-      "main_cause": "金融システムへの潜在的リスク",
-      "incidents": [
-        {
-          "title": "米国、SVBの根本的な問題が残る中で銀行に数十億ドルを供給",
-          "location": "米国",
-          "severity": 65,
-          "description": "米国が銀行システムに数十億ドルを供給する一方で、昨年破綻したシリコンバレー銀行（SVB）の根本的な問題がまだ解決されていないことを間接的に認めています。金融市場への潜在的な不安が存在します。",
-          "source": "Cryptonews.net"
-        }
-      ]
-    },
-    {
       "region": "middle_east",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "大規模な抗議活動、政府による弾圧、地域紛争の懸念",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "地政学的緊張、政治的抗議活動、政府弾圧",
       "incidents": [
         {
-          "title": "イラン、抗議中に軍事施設襲撃を試みた2名を処刑",
+          "title": "イランと米国の地政学的緊張激化",
           "location": "イラン",
-          "severity": 90,
-          "description": "イランで、抗議デモ中に軍事施設を襲撃しようとしたとして2名が処刑されました。政府の強硬な対応は市民の間の恐怖と緊張を著しく高め、極めて危険な状況です。",
+          "severity": 60,
+          "description": "米国からの「48時間以内の取引合意またはホルムズ海峡開放、さもなくば『地獄』に直面する」との最後通告により、地域全体の軍事衝突への懸念が高まっています。",
+          "source": "Radio Free Europe/Radio Liberty"
+        },
+        {
+          "title": "イランでの抗議活動鎮圧と処刑",
+          "location": "イラン",
+          "severity": 70,
+          "description": "1月の抗議活動中に軍事施設襲撃を試みた2名が処刑されました。政府による強硬な弾圧は、社会不安と反発をさらに深める可能性があります。",
           "source": "The Jerusalem Post"
         },
         {
-          "title": "ダマスカス、UAE大使館騒乱後に外国公館の保護を誓約",
-          "location": "シリア、ダマスカス",
-          "severity": 65,
-          "description": "シリアのダマスカスでUAE大使館周辺での騒乱が発生したことを受け、当局が外国公館の保護を誓約しました。地域の不安定さと外交問題への影響が懸念されます。",
-          "source": "shafaq.com"
+          "title": "イラク・バグダッドでの大規模デモ",
+          "location": "イラク・バグダッド",
+          "severity": 70,
+          "description": "サドル師支持者による反米・反イスラエルデモがバグダッドで発生。地域的な地政学的緊張と政治的不満が顕在化し、治安への懸念を増大させています。",
+          "source": "Reuters Connect"
         },
         {
-          "title": "バグダッドでアル・サドル支持者が米国とイスラエルに抗議",
-          "location": "イラク、バグダッド",
-          "severity": 55,
-          "description": "イラクのバグダッドで、影響力のある聖職者アル・サドル師の支持者たちが米国とイスラエルに対する大規模な抗議デモを行いました。政治的な緊張が高まっています。",
-          "source": "Reuters Connect"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "小規模な政治的抗議",
-      "incidents": [
+          "title": "シリア・ダマスカスのUAE大使館周辺の不安",
+          "location": "シリア・ダマスカス",
+          "severity": 60,
+          "description": "ダマスカスはUAE大使館周辺での「不安」事象を受け、外国公館の保護を誓約しました。これは、国内の治安状況の悪化を示唆しています。",
+          "source": "شفق نيوز"
+        },
         {
-          "title": "ガーナ、大統領演説をプラカード抗議で妨害した男性の映像",
-          "location": "ガーナ",
-          "severity": 35,
-          "description": "クワフでのフォーラム中に、ある男性が大統領の演説をプラカードによる抗議で妨害しました。個人の不満表明であり、広範な社会パニックには至っていません。",
-          "source": "GhanaWeb"
+          "title": "中東情勢が南アジアに与える波及懸念",
+          "location": "中東地域全体",
+          "severity": 75,
+          "description": "イランでの戦争勃発が南アジアにおける燃料・食料不足を悪化させ、各国政府の不安定化に繋がる可能性が指摘されており、地域全体の懸念材料です。",
+          "source": "South China Morning Post"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "深刻なエネルギー不足、生活インフラの不備",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "燃料不足、生活インフラへの影響、金融不安",
       "incidents": [
         {
-          "title": "インド・ハイデラバード、LPG不足に不満を抱くオート運転手が携帯電話のタワーに登る",
-          "location": "インド、ハイデラバード",
-          "severity": 75,
-          "description": "液化石油ガス（LPG）の深刻な不足に絶望したオートリクシャー運転手が、抗議のために携帯電話のタワーに登るという事態が発生しました。生活必需品不足が個人の極端な行動に繋がっています。",
-          "source": "The Siasat Daily"
-        },
-        {
-          "title": "インド・カルナータカ州、LPG不足でマンディアのオート運転手が困窮",
-          "location": "インド、カルナータカ州マンディア",
+          "title": "インドでの深刻なLPG（燃料）不足",
+          "location": "インド・カルナータカ州 (マンディア, ベンガルール)",
           "severity": 70,
-          "description": "カルナータカ州マンディアでLPGが不足し、燃料供給所が枯渇したため、オートリクシャー運転手たちが深刻な影響を受けています。交通機関の停滞が市民生活に打撃を与えています。",
-          "source": "The Economic Times"
+          "description": "カルナータカ州各地でLPG不足が深刻化し、オートリキシャ運転手の生計を直撃。多くの車両が路上から姿を消し、市民生活に大きな影響を与えています。",
+          "source": "The Economic Times, newskarnataka.com, Mathrubhumi English"
         },
         {
-          "title": "インド・ベンガルール、LPG不足でオート運転手が立ち往生",
-          "location": "インド、ベンガルール",
-          "severity": 70,
-          "description": "ベンガルールでもLPGの不足が深刻化し、多くのオートリクシャー運転手が立ち往生しています。燃料不足が経済活動と市民の移動を妨げています。",
-          "source": "newskarnataka.com"
-        },
-        {
-          "title": "インド、LPG供給危機の中で10kgシリンダー導入を検討",
+          "title": "燃料不足に対する広範な抗議活動",
           "location": "インド",
-          "severity": 65,
-          "description": "LPGの供給危機を受け、国営石油会社が10kgの小型シリンダー導入を検討していると報じられています。家庭用燃料の不足は広範な不安を引き起こしています。",
-          "source": "MSN"
+          "severity": 75,
+          "description": "LPG不足は各地で市民の怒りを買い、モディ首相への抗議活動に発展しています。生活に直結する燃料問題が社会不安を増幅させています。",
+          "source": "The News Mill"
         },
         {
-          "title": "バングラデシュ銀行、営業時間を短縮し取引締切を午後3時に設定",
+          "title": "バングラデシュ中央銀行による営業時間短縮",
           "location": "バングラデシュ",
           "severity": 55,
-          "description": "バングラデシュ中央銀行が銀行の営業時間を短縮し、取引の締切時間を午後3時に設定しました。これは経済状況への懸念やインフラ問題を示唆しています。",
-          "source": "Daily Bonik Barta"
+          "description": "バングラデシュ銀行が営業時間を短縮し、取引締め切りを3PMに設定。これは金融システムの安定性に対する潜在的な懸念を示唆する可能性があります。",
+          "source": "Daily Bonik Barta, The Financial Express"
+        },
+        {
+          "title": "中東情勢が南アジアの燃料・食料不足に波及する懸念",
+          "location": "南アジア地域全体",
+          "severity": 75,
+          "description": "イラン戦争の可能性が南アジアの燃料・食料不足を悪化させ、各国政府の不安定化に繋がるという分析が発表され、地域全体に経済的・社会的不安が広がっています。",
+          "source": "South China Morning Post"
+        },
+        {
+          "title": "政府による燃料供給への懸念払拭の試み",
+          "location": "インド",
+          "severity": 60,
+          "description": "インド石油公社（IOCL）は燃料供給が十分であり、パニックの必要はないと発表。これは、燃料不足に対する国民の懸念やパニックの兆候が存在することを示唆しています。",
+          "source": "lokmattimes.com"
         }
       ]
     },
     {
-      "region": "oceania",
+      "region": "north_america",
       "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "エネルギー不足への懸念",
+      "status": "stable",
+      "main_cause": "金融市場の不確実性",
       "incidents": [
         {
-          "title": "オーストラリア、燃料不足にもかかわらずイースターの旅行継続を呼びかけ",
-          "location": "オーストラリア",
+          "title": "米国銀行システムへの潜在的懸念",
+          "location": "米国",
           "severity": 55,
-          "description": "オーストラリアでは燃料不足が懸念されていますが、市民はイースターの旅行計画を続けるよう促されています。政府はパニックを避けたい意向ですが、不安は存在します。",
-          "source": "BBC"
+          "description": "米国政府は銀行に数十億ドルを供給する一方、SVBの根本的な失敗が解決されていないことを認識していると報じられ、金融システムの安定性への潜在的な不安が残ります。",
+          "source": "Cryptonews.net"
         }
       ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "政府規制によるインフラ障害、局所的な治安悪化",
+      "incidents": [
+        {
+          "title": "ロシアでのVPN規制による銀行障害",
+          "location": "ロシア",
+          "severity": 60,
+          "description": "Telegram創設者によると、ロシア政府によるVPN規制が銀行システムの障害を引き起こした可能性が指摘されており、市民生活への影響が懸念されます。",
+          "source": "Business Standard"
+        },
+        {
+          "title": "ドイツでのサッカーファンによる暴力的な治安の乱れ",
+          "location": "ドイツ",
+          "severity": 45,
+          "description": "サッカーファンによる「不安」事象とそれに伴う「危険な身体的危害」について警察が捜査を行っており、スポーツイベントでの治安悪化が問題視されています。",
+          "source": "Times Union"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 30,
+      "status": "normal",
+      "main_cause": "政治への不満 (小規模)",
+      "incidents": [
+        {
+          "title": "ガーナでの大統領演説中の小規模抗議",
+          "location": "ガーナ",
+          "severity": 30,
+          "description": "クワフフォーラムでマハマ大統領の演説中に、ある男性がプラカードを掲げて抗議しました。これは小規模な不満の表明であり、広範な社会パニックには至っていません。",
+          "source": "ghanaweb.com"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "south_america",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": []
     }
   ]
 }
