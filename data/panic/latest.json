@@ -1,178 +1,128 @@
 {
   "date": "2026-04-05",
-  "summary": "世界全体では、中東地域が地政学的緊張と大規模な反政府デモにより最も高い警戒状態にあります。一方、ヨーロッパではエネルギー供給の懸念と金融サービスへのアクセス障害が、南アジアでは生活必需品の不足が社会不安を引き起こしています。北米や東アジアは比較的安定していますが、金融システムへの不信感や小規模な抗議活動は見られます。全体として、局所的な不安定要因が散見され、中程度の警戒が必要な状況です。",
-  "global_panic_index": 49,
+  "summary": "世界各地でエネルギー不足、金融システムへの懸念、そしてそれに伴う抗議活動が社会不安を引き起こしています。特に中東と東南アジアでは、燃料不足による生活への直接的な影響や、紛争が食料供給に与える危機が顕著であり、一部で極端なパニック行動も見られます。欧州では燃料不足が航空業界に影響を与え始めており、各国の情勢は不安定化の傾向にあります。",
+  "global_panic_index": 66,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 40,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "金融システムへの懸念、一部抗議活動",
+      "main_cause": "金融システムへの懸念、広範な抗議活動",
       "incidents": [
         {
-          "title": "US frees up billions for banks while quietly admitting SVB’s core failure never went away",
-          "location": "アメリカ",
-          "severity": 45,
-          "description": "米国の金融当局が銀行に数十億ドルを供給する一方で、SVBの根本的な問題が解決されていないことを示唆。金融システムへの不信感が潜在的な不安要因としてくすぶっています。",
-          "source": "CryptoRank"
+          "title": "米国、銀行向けに数十億ドルを供出、SVBの失敗を認識",
+          "location": "米国",
+          "severity": 55,
+          "description": "米国政府が銀行システムに数十億ドルの資金を投入。SVBの根本的な失敗が解決されていないことを示唆しており、金融システムへの潜在的な不信感や不安が高まっています。",
+          "source": "Cryptonews.net"
         },
         {
-          "title": "Tinton Falls Joins Nationwide No Kings Day of Protest",
-          "location": "Tinton Falls, アメリカ",
-          "severity": 30,
-          "description": "全国的な抗議活動「No Kings Day of Protest」にティントンフォールズが参加。特定の社会秩序の混乱には至っていませんが、市民の不満が表明されています。",
-          "source": "tworivertimes.com"
+          "title": "全国的な抗議活動「No Kings Day of Protest」への参加",
+          "location": "米国、ティントンフォールズ",
+          "severity": 45,
+          "description": "全国規模の抗議デモ「No Kings Day of Protest」にティントンフォールズが参加。広範な社会不安と特定の政策や制度への不満が示されています。",
+          "source": "Two River Times"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "エネルギー供給への懸念、金融サービス障害、地政学的緊張",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "燃料不足、金融サービス障害、国際紛争の影響",
       "incidents": [
         {
-          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
-          "location": "ロシア",
-          "severity": 50,
-          "description": "ロシアにおけるVPN規制が銀行システムの停止を引き起こしたとTelegram創設者が指摘。金融サービスへのアクセス障害は市民の不満と混乱を招く可能性があります。",
-          "source": "bloomberg.com"
-        },
-        {
-          "title": "Airlines warn flight cuts could start in six weeks over fuel shortages",
+          "title": "燃料不足で航空便運航停止の可能性を航空会社が警告",
           "location": "オランダ",
-          "severity": 50,
-          "description": "航空会社が燃料不足により6週間以内にフライト削減を開始する可能性を警告。交通インフラへの影響は経済活動や人々の移動に不安をもたらします。",
+          "severity": 75,
+          "description": "燃料不足のため、6週間以内に航空便の運航停止が始まる可能性があると航空会社が警告。移動手段への広範な影響は、社会の機能停止や人々の不安を増大させます。",
           "source": "NL Times"
         },
         {
-          "title": "Jet2 shares 'all flights' update amid Iran conflict and fuel shortage fears",
-          "location": "イギリス",
-          "severity": 45,
-          "description": "航空会社Jet2がイラン紛争と燃料不足の懸念の中でフライト情報を公開。地政学的緊張とエネルギー不足が旅行者の不安を煽っています。",
-          "source": "My London"
+          "title": "イラン紛争と燃料不足の懸念で航空会社がフライト情報を更新",
+          "location": "英国/国際",
+          "severity": 70,
+          "description": "イラン紛争と燃料不足の懸念を受け、Jet2が全フライトの更新情報を共有。国際情勢の緊迫と燃料供給の不安定化が、人々の移動計画と経済活動に大きな影響を与えています。",
+          "source": "mylondon.news"
         },
         {
-          "title": "Warwick March news roundup: shop closes, protest arrest and bank sold",
-          "location": "Warwick, イギリス",
-          "severity": 35,
-          "description": "店舗閉鎖、デモによる逮捕、銀行売却のニュースが報じられています。経済的な不安と市民の抗議活動の兆候が複合的に発生しています。",
-          "source": "Warwick Nub News"
+          "title": "ロシアでのVPN規制が銀行システム障害を引き起こしたとTelegram創設者が発言",
+          "location": "ロシア",
+          "severity": 45,
+          "description": "ロシアにおけるVPN規制が銀行システムに障害を引き起こしたとTelegram創設者が指摘。金融サービスへのアクセス障害は、国民の日常生活に混乱と不安をもたらす可能性があります。",
+          "source": "Bloomberg.com"
         }
       ]
     },
     {
       "region": "middle_east",
       "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "地域紛争、大規模な反政府デモ、国内治安悪化",
+      "status": "critical",
+      "main_cause": "国内騒乱、政治的抗議、地域紛争の影響",
       "incidents": [
         {
-          "title": "反政府デモで倒れない権威主義 しぶといイランの現体制",
-          "location": "イラン",
-          "severity": 75,
-          "description": "イランでは大規模な反政府デモが継続していますが、権威主義体制がこれを抑え込んでいる状況です。長期的な社会不安と体制との対立が続いています。",
-          "source": "日本経済新聞"
-        },
-        {
-          "title": "Bahrain cracks down on dissent as Iran war reignites internal unrest",
+          "title": "イラン紛争が国内騒乱を再燃させ、バーレーン政府が取り締まりを強化",
           "location": "バーレーン",
-          "severity": 70,
-          "description": "イラン紛争の再燃に伴い、バーレーン国内の騒乱が激化し、政府が反対派を取り締まっています。地域の緊張が国内の不安定化に直結しています。",
+          "severity": 75,
+          "description": "イラン紛争が国内の不安を再燃させ、バーレーン政府が異議申し立てを取り締まり。地域紛争が国内情勢を不安定化させ、市民の不安と政府の強硬な対応が緊張を高めています。",
           "source": "The Hindu"
         },
         {
-          "title": "Russia Evacuates Dozens Of Staff From Bushehr",
-          "location": "ブシェール, イラン",
+          "title": "UAE大使館での騒乱を受け、ダマスカスが外国公館保護を誓約",
+          "location": "シリア、ダマスカス",
           "severity": 65,
-          "description": "イランのブシェールからロシアの職員数十人が避難。地域における具体的な脅威や緊張の高まりを示唆しており、関係者の安全を懸念する状況です。",
-          "source": "Radio Free Europe/Radio Liberty"
-        },
-        {
-          "title": "Damascus vows protection for foreign missions following UAE embassy unrest",
-          "location": "シリア",
-          "severity": 60,
-          "description": "UAE大使館での騒乱を受け、シリアのダマスカスが外国公館の保護を約束。外交施設の安全が脅かされる状況は、治安の悪化を示唆しています。",
+          "description": "UAE大使館周辺での騒乱発生後、ダマスカスが外国公館の保護を約束。外交施設への騒乱は、一般市民の安全への懸念を高め、社会の不安定化を示唆しています。",
           "source": "شفق نيوز"
         },
         {
-          "title": "Al-Sadr supporters protest against the US Israel in Baghdad",
-          "location": "バグダッド, イラク",
-          "severity": 55,
-          "description": "イラクのバグダッドで、イスラエルと米国に対するサドル派支持者の大規模な抗議デモが発生。地域情勢への強い不満が表明されています。",
+          "title": "バグダッドでアル・サドル派支持者が米国とイスラエルに抗議デモ",
+          "location": "イラク、バグダッド",
+          "severity": 45,
+          "description": "バグダッドでアル・サドル派支持者らが米国とイスラエルに対する大規模な抗議デモを実施。政治的な緊張と社会の分断が、広範な不安の背景にあることを示しています。",
           "source": "Reuters Connect"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "地政学的懸念への表明",
-      "incidents": [
-        {
-          "title": "戦争反対の声、鳥取でも デモカレンダー",
-          "location": "鳥取, 日本",
-          "severity": 25,
-          "description": "鳥取県で戦争反対のデモが予定されており、市民が平和を求める声を上げています。小規模な抗議活動であり、社会秩序の混乱には至っていません。",
-          "source": "nnn.co.jp"
-        }
-      ]
-    },
-    {
-      "region": "south_america",
-      "panic_index": 0,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
-    },
-    {
       "region": "southeast_asia",
-      "panic_index": 0,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
-    },
-    {
-      "region": "africa",
-      "panic_index": 0,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "エネルギー不足、食料不安",
+      "panic_index": 75,
+      "status": "critical",
+      "main_cause": "燃料・LPG不足、食料支援危機、金融不安、極端な抗議活動",
       "incidents": [
         {
-          "title": "Frustrated auto driver climbs mobile tower over LPG shortage in Hyderabad",
-          "location": "ハイデラバード, インド",
-          "severity": 60,
-          "description": "ハイデラバードでLPG不足に不満を抱いたオート運転手が電波塔に登るという抗議行動を起こしました。生活に直結するエネルギー不足が深刻な社会不安を生んでいます。",
-          "source": "The Siasat Daily"
+          "title": "LPG不足に不満を抱いた自動運転手が携帯タワーによじ登る",
+          "location": "インド、ハイデラバード",
+          "severity": 85,
+          "description": "深刻なLPG不足に抗議し、自動運転手が携帯タワーによじ登るという極端な行動。燃料不足が個人の生活を脅かし、社会的なストレスが限界に達している状況を示しています。",
+          "source": "siasat.com"
         },
         {
-          "title": "Middle East Conflict Hits Sambalpur Roti Bank, Free Meal Service For Poor At Risk",
-          "location": "サンバルプール, インド",
-          "severity": 50,
-          "description": "中東紛争の影響が、サンバルプールの慈善団体「ロティバンク」による貧困層への無料食事提供サービスを脅かしています。間接的な食料不安が顕在化しています。",
+          "title": "中東紛争がサンバルプール市のローティバンクを直撃、貧困層への無料食料支援が危機に",
+          "location": "インド、サンバルプール",
+          "severity": 75,
+          "description": "中東紛争の影響で、貧困層への無料食事を提供する「ローティバンク」が危機に瀕しています。食料供給の不安定化は、最も直接的なパニック要因であり、社会的弱者に深刻な影響を与えます。",
           "source": "ETV Bharat"
         },
         {
-          "title": "Fuel supplies adequate, no need to panic: IOCL",
-          "location": "インド",
-          "severity": 40,
-          "description": "インド石油公社（IOCL）は燃料供給が十分であり、パニックの必要はないと発表。この発表は、燃料不足に関する国民の懸念や噂が広がっていることを示唆しています。",
-          "source": "lokmattimes.com"
+          "title": "燃料不足にもかかわらず、オーストラリア国民にイースター旅行の継続を奨励",
+          "location": "オーストラリア",
+          "severity": 65,
+          "description": "燃料不足が報告されているにもかかわらず、政府がイースター旅行の継続を促す声明。不足に対する市民の懸念と、政府がパニックを抑制しようとする努力が伺えます。",
+          "source": "BBC"
         },
         {
-          "title": "Beed residents protest poor quality bus stand and traffic signal works",
-          "location": "Beed, インド",
-          "severity": 25,
-          "description": "Beedの住民がバス停と信号機の劣悪な工事品質に対して抗議デモを実施。小規模な不満表明であり、広範な社会秩序の混乱には至っていません。",
-          "source": "The Times of India"
+          "title": "LPG不足によりバンガロールの自動運転手が立ち往生",
+          "location": "インド、バンガロール",
+          "severity": 65,
+          "description": "LPG不足がバンガロールの自動運転手の移動を妨げ、生活や生業に直接的な影響を与えています。特定の燃料不足が、広範な交通網と人々の生活を混乱させています。",
+          "source": "newskarnataka.com"
+        },
+        {
+          "title": "インド石油会社(IOCL)が燃料供給は十分であり、パニックの必要はないと発表",
+          "location": "インド",
+          "severity": 55,
+          "description": "燃料供給は十分であり、パニックの必要はないとIOCLが公式に発表。この声明自体が、燃料不足に関する国民の懸念やパニックの兆候が存在していることを示唆しています。",
+          "source": "lokmattimes.com"
         }
       ]
     }
