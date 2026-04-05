@@ -1,17 +1,18 @@
 {
   "date": "2026-04-05",
-  "summary": "イラン情勢緊迫化によるエネルギー価格高騰がインフレを加速させ、金融市場に影響。暗号資産市場は量子コンピュータの脅威と市場の流動性低下に直面。米国の金融政策と政治的動向も不確実性を高めている。",
+  "summary": "イラン情勢緊迫化によるエネルギー価格高騰とインフレ、暗号資産市場の量子コンピュータ耐性への取り組みがリスク要因。米中貿易摩擦の影響も継続。金融市場はボラティリティが低下傾向にあるものの、地政学的リスクが依然として高い。",
   "overall_risk_level": "high",
   "articles": [
     {
       "title": "European ministers call for a tax on energy company windfall profits as Iran war drives price surge",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イラン戦争によるエネルギー価格高騰を受け、欧州各国がエネルギー企業の超過利潤への課税を検討。ユーロ圏のインフレ率は2.5%に上昇。",
-      "analysis": "イラン情勢の緊迫化は原油価格を押し上げ、欧州を中心にインフレ圧力を高めている。エネルギー企業への課税は、企業の投資意欲を減退させ、エネルギー供給の安定性を損なう可能性がある。地政学的リスクとインフレリスクが複合的に作用し、欧州経済の成長を阻害する恐れがある。今後の原油価格の動向と、各国政府の政策対応が注目される。",
+      "summary": "イラン戦争による原油価格高騰でユーロ圏のインフレ率が上昇。エネルギー企業の超過利潤に対する課税を欧州各国が検討。",
+      "analysis": "イラン情勢の緊迫化が原油価格を押し上げ、インフレを加速させている。エネルギー企業への課税は、企業の投資意欲を減退させ、エネルギー供給の安定性を損なう可能性がある。欧州経済は景気後退のリスクに直面しており、インフレ抑制と経済成長の両立が課題となる。今後の原油価格の動向と、各国政府の政策対応が注目される。",
       "key_entities": [
         "欧州中央銀行",
         "OPEC",
+        "イラン",
         "エネルギー企業"
       ],
       "sources": [
@@ -25,12 +26,12 @@
       "title": "Bitcoin's $1.3 trillion security race: Key initiatives aimed at quantum-proofing the world's largest blockchain",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインのセキュリティ対策が量子コンピュータの脅威にさらされている。量子コンピュータ対策の取り組みが加速。",
-      "analysis": "量子コンピュータの実用化は、暗号資産の根幹を揺るがすリスク要因となる。ビットコインの量子コンピュータ対策は喫緊の課題であり、対策の遅れはビットコインの信頼性を損ない、価格暴落を招く可能性がある。一方、対策の進展は、ビットコインの長期的な価値を支える要因となる。Solanaなど他のブロックチェーンも同様の問題に直面しており、業界全体での協力が求められる。",
+      "summary": "ビットコインの量子コンピュータ耐性強化に向けた取り組みが活発化。量子コンピュータによる攻撃リスクへの対策。",
+      "analysis": "量子コンピュータの実用化が進むにつれて、暗号資産のセキュリティリスクが高まっている。ビットコインの量子コンピュータ耐性強化は、長期的な安定性を確保するために不可欠な取り組みである。しかし、セキュリティ強化は取引速度の低下を招く可能性があり、スケーラビリティ問題とのバランスが重要となる。Solanaの量子コンピュータ対策も同様の課題を抱えている。市場はこれらの技術的進展を注視しており、今後の暗号資産の普及に影響を与える可能性がある。",
       "key_entities": [
         "Bitcoin",
         "Solana",
-        "暗号資産取引所"
+        "量子コンピュータ開発企業"
       ],
       "sources": [
         "CoinDesk"
@@ -42,13 +43,14 @@
     {
       "title": "Bitcoin tends to outperform gold and stocks after global shocks, Mercado Bitcoin finds",
       "region": "global",
-      "risk_level": "low",
-      "summary": "Mercado Bitcoinの調査によると、ビットコインは世界的なショック後に金や株式を上回る傾向がある。",
-      "analysis": "ビットコインがリスクオフ資産として機能する可能性を示唆するデータだが、過去のデータに基づいた分析であり、将来のパフォーマンスを保証するものではない。地政学的リスクや金融市場の変動が激しい状況下では、ビットコインの価格変動も大きくなる可能性があり、注意が必要である。",
+      "risk_level": "medium",
+      "summary": "Mercado Bitcoinの調査によると、世界的なショック発生後、ビットコインは金や株式よりも高いパフォーマンスを示す傾向。",
+      "analysis": "ビットコインがリスクオフ資産としての地位を確立しつつあることを示唆する。ただし、過去のデータに基づく分析であり、将来のパフォーマンスを保証するものではない。地政学的リスクや金融市場の変動性が高まる中、ビットコインの動向は注目される。ただし、ビットコイン市場は依然としてボラティリティが高く、投資には注意が必要。",
       "key_entities": [
         "Bitcoin",
         "Mercado Bitcoin",
-        "金"
+        "金",
+        "株式市場"
       ],
       "sources": [
         "CoinDesk"
@@ -61,11 +63,11 @@
       "title": "Ex-UK Chancellor backs bitcoin as alternative to failing systems",
       "region": "europe",
       "risk_level": "low",
-      "summary": "元英国財務相が、既存の金融システムの代替としてビットコインを支持。",
-      "analysis": "著名な政治家によるビットコイン支持は、暗号資産に対する信頼を高める要因となる。しかし、ビットコインの価格変動リスクや規制の不確実性を考慮すると、既存の金融システムの完全な代替となるには、まだ多くの課題が残されている。",
+      "summary": "元英国財務大臣が、既存の金融システムの代替としてビットコインを支持。",
+      "analysis": "著名な政治家によるビットコイン支持は、暗号資産に対する信頼を高める可能性がある。ただし、規制の不確実性や価格変動リスクは依然として存在し、ビットコインが主流の金融システムに取って代わるには、さらなる普及と規制整備が必要となる。",
       "key_entities": [
         "Bitcoin",
-        "英国政府"
+        "英国財務省"
       ],
       "sources": [
         "CoinDesk"
@@ -75,66 +77,16 @@
       ]
     },
     {
-      "title": "Five data sources say the same thing about bitcoin market. It's thinning from the inside",
+      "title": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
       "region": "global",
       "risk_level": "medium",
-      "summary": "複数のデータソースが、ビットコイン市場の流動性低下を示唆。",
-      "analysis": "市場の流動性低下は、価格変動を増幅させる要因となる。特に、大規模な売り注文が出た場合、価格が急落するリスクが高まる。機関投資家の参入が進む一方で、市場の厚みが薄くなっていることは、潜在的なリスク要因として注視する必要がある。",
+      "summary": "トランプ政権の関税政策が、小売や自動車などの業界に依然として影響を与えている。",
+      "analysis": "米中貿易摩擦は、グローバルサプライチェーンの混乱やコスト上昇を引き起こし、企業収益を圧迫している。企業は経済・政策リスクのモデル化を再検討しており、地政学的リスクへの対応が重要となっている。今後の米中関係の動向が、世界経済に大きな影響を与える可能性がある。",
       "key_entities": [
-        "Bitcoin",
-        "暗号資産取引所"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Trump administration asks appeals court to pause order halting White House ballroom construction",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "トランプ政権が、ホワイトハウスのボールルーム建設停止命令の一時停止を要請。国家安全保障上の理由を主張。",
-      "analysis": "政治的な不確実性が高まる中、政府の活動が停滞するリスクを示唆する。国家安全保障を理由とした建設の強行は、法的な紛争を招き、政権運営に影響を与える可能性がある。",
-      "key_entities": [
-        "トランプ政権",
-        "米国連邦準備制度"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Warsh nomination moves ahead, putting Trump's competing Fed plans on a collision course",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "ウォーシュ氏のFRB理事候補指名が進む。トランプ大統領のFRBに対する意向と対立する可能性。",
-      "analysis": "FRB理事の人事は、金融政策の方向性に大きな影響を与える。ウォーシュ氏の指名が進むことは、トランプ大統領の意向とは異なる金融政策が採用される可能性を示唆する。金融政策の不確実性は、市場の変動性を高める要因となる。",
-      "key_entities": [
-        "米国連邦準備制度",
-        "トランプ政権"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "India makes first Iranian oil purchase in seven years with no payment problems",
-      "region": "south_asia",
-      "risk_level": "medium",
-      "summary": "インドが7年ぶりにイラン産原油を購入。決済に問題なし。",
-      "analysis": "イランに対する経済制裁が緩和される兆候であり、原油市場に影響を与える可能性がある。インドの原油需要は大きく、イラン産原油の輸入再開は、原油価格の安定に寄与する可能性がある。しかし、米国の制裁動向によっては、再び輸入が停止されるリスクも存在する。",
-      "key_entities": [
-        "インド政府",
-        "イラン政府",
-        "OPEC"
+        "米国",
+        "中国",
+        "小売業界",
+        "自動車業界"
       ],
       "sources": [
         "CNBC - Top News"
@@ -147,10 +99,11 @@
       "title": "Nike is the most oversold stock on Wall Street after a wild week of trading",
       "region": "global",
       "risk_level": "low",
-      "summary": "ナイキ株が大幅に売られ過ぎの状態。背景には、弱い売上予測がある。",
-      "analysis": "個別企業の業績悪化は、株式市場全体に影響を与える可能性がある。ナイキの株価下落は、消費者の需要低迷やサプライチェーンの問題など、様々な要因が考えられる。他の消費関連企業の株価にも影響が及ぶ可能性がある。",
+      "summary": "ナイキ株が、弱い売上高予測を受けて大幅に売られ、ウォール街で最も売られ過ぎの銘柄に。",
+      "analysis": "特定企業の業績不振は、市場全体のセンチメントに影響を与える可能性がある。ナイキの事例は、消費者の需要変動やサプライチェーンの問題が、企業収益に与える影響を示している。投資家は、個別企業のファンダメンタルズ分析に加えて、マクロ経済の動向にも注意を払う必要がある。",
       "key_entities": [
-        "Nike"
+        "Nike",
+        "ウォール街"
       ],
       "sources": [
         "CNBC - Top News"
@@ -160,18 +113,72 @@
       ]
     },
     {
-      "title": "Wall Street snapped its 5-week losing streak. Here are 3 themes that caught our eye",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "ウォール街が5週間ぶりの上昇。米国-イラン戦争勃発後、初の週次上昇。",
-      "analysis": "米国-イラン間の緊張緩和への期待や、好調な経済指標が株価上昇を支えた可能性がある。しかし、地政学的リスクは依然として高く、今後の情勢次第では再び株価が下落するリスクも存在する。市場のセンチメントは不安定であり、注意が必要である。",
+      "title": "Schwab plans spot bitcoin, ether trading launch in first half of 2026",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "Schwabが2026年前半に現物ビットコインとイーサリアムの取引を開始する計画を発表。",
+      "analysis": "大手金融機関による暗号資産取引の提供は、暗号資産市場の成熟を促進する可能性がある。機関投資家の参入を促し、市場の流動性を高める効果が期待される。ただし、規制の不確実性や価格変動リスクは依然として存在し、投資には注意が必要。",
       "key_entities": [
-        "米国株式市場",
-        "米国政府",
-        "イラン政府"
+        "Schwab",
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "India makes first Iranian oil purchase in seven years with no payment problems",
+      "region": "south_asia",
+      "risk_level": "medium",
+      "summary": "インドが7年ぶりにイランから原油を購入。決済に問題なし。",
+      "analysis": "地政学的リスクとエネルギー安全保障のバランスが重要であることを示唆する。米国の対イラン制裁の影響を緩和する動きであり、今後の国際関係に影響を与える可能性がある。インドのエネルギー政策と、イランとの関係に注目が集まる。",
+      "key_entities": [
+        "インド",
+        "イラン",
+        "米国"
       ],
       "sources": [
         "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Polymarket removes wagers on U.S. service member rescue mission in Iran",
+      "region": "middle_east",
+      "risk_level": "low",
+      "summary": "Polymarketが、イランでの米軍救出作戦に関する賭けを削除。倫理的な問題が指摘された。",
+      "analysis": "予測市場の倫理的な問題が浮き彫りになった事例。地政学的リスクが予測市場に与える影響と、倫理的なガイドラインの必要性を示唆する。予測市場の健全な発展には、適切な規制と倫理観が不可欠。",
+      "key_entities": [
+        "Polymarket",
+        "米国",
+        "イラン"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Cuts Huntington Bancshares (HBAN) Target as Bank Stocks Face Macro Pressure",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Morgan StanleyがHuntington Bancsharesの目標株価を引き下げ。銀行株がマクロ経済の圧力に直面。",
+      "analysis": "金利変動、インフレ、景気後退のリスクなどが銀行セクターに影響を与えている。金融機関の健全性は、経済全体の安定に不可欠であり、今後の動向を注視する必要がある。中央銀行の金融政策と、銀行セクターの対応が注目される。",
+      "key_entities": [
+        "Morgan Stanley",
+        "Huntington Bancshares",
+        "中央銀行"
+      ],
+      "sources": [
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
@@ -184,7 +191,7 @@
     "europe": "high",
     "east_asia": "medium"
   },
-  "generated_at": "2026-04-05T05:17:29.535725",
+  "generated_at": "2026-04-05T07:13:58.815733",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
