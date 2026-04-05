@@ -1,78 +1,78 @@
 {
   "date": "2026-04-05",
-  "summary": "中東情勢の緊迫化（イラン戦争）が原油価格高騰とインフレを招き、金融市場に不確実性をもたらしている。一方、AI技術の進展や重要鉱物資源を巡る動きも注目される。",
+  "summary": "中東情勢緊迫化による原油価格高騰、インフレ懸念、住宅市場の悪化、暗号資産市場のセキュリティリスクなどが複合的に影響し、金融市場全体のリスクが高まっている。特に地政学的リスクとインフレ動向に注意が必要。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "OPEC+ debates making oil output hike amid Iran war paralysis, sources say",
+      "title": "Dow Jones Futures Loom As Trump Sees Iran Deal Or 'Hell'; Sandisk Leads 7 Stocks To Watch",
       "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "イラン戦争により主要メンバーが増産できない状況下で、OPEC+が増産を議論。原油価格高騰と供給不安が懸念される。",
-      "analysis": "イラン戦争の長期化は、ホルムズ海峡の封鎖リスクを高め、原油価格のさらなる高騰を招く可能性がある。OPEC+の増産議論は、供給不足を緩和する意図があるものの、実質的な増産能力が伴わない場合、市場の失望感を招き、価格変動を激化させる恐れがある。地政学的リスクと供給リスクが複合的に作用し、世界経済に深刻な影響を与える可能性があるため、注視が必要。",
+      "risk_level": "high",
+      "summary": "トランプ政権がイランとの交渉決裂を示唆し、中東情勢の悪化が懸念される。原油価格高騰のリスクが高まり、ダウ先物にも影響が出ている。",
+      "analysis": "イラン情勢の緊迫化は、原油価格の急騰を通じてインフレを加速させる可能性がある。また、地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株式市場の変動性を高める要因となる。特に、エネルギー関連企業や防衛関連企業にはプラスの影響が考えられる一方、製造業や運輸業など、原油価格上昇の影響を受けやすいセクターにはマイナスの影響が予想される。今後のイラン情勢とトランプ政権の動向を注視する必要がある。",
       "key_entities": [
-        "OPEC+",
+        "トランプ政権",
         "イラン",
-        "米国",
-        "ホルムズ海峡"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Trump Threatens 'Hell' If Iran Doesn't Open Hormuz; Sandisk Leads 7 Stocks To Watch",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "トランプ前大統領がホルムズ海峡封鎖に対しイランを強く牽制。地政学的リスクが原油価格を押し上げ、市場の不確実性を高めている。",
-      "analysis": "トランプ前大統領の発言は、ホルムズ海峡を巡る緊張をさらに高め、地政学的リスクを増大させる。原油価格の高騰は、インフレを加速させ、世界経済の成長を阻害する可能性がある。また、Sandiskを含む特定銘柄への影響も注視する必要がある。市場は、今後の地政学的動向と原油価格の変動に警戒感を強めるだろう。",
-      "key_entities": [
-        "トランプ",
-        "イラン",
-        "ホルムズ海峡",
+        "ダウ平均",
         "Sandisk"
       ],
       "sources": [
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "investors.com"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "European ministers call for a tax on energy company windfall profits as Iran war drives price surge",
-      "region": "europe",
+      "title": "RH CEO Warns Of 'Most Dire' Housing Market As Mortgage Applications Tumble On Rising Rates",
+      "region": "global",
       "risk_level": "high",
-      "summary": "イラン戦争によるエネルギー価格高騰を受け、欧州各国がエネルギー企業の超過利潤に対する課税を検討。インフレ抑制策。",
-      "analysis": "エネルギー価格の高騰は、欧州のインフレを加速させ、景気後退のリスクを高めている。超過利潤課税は、インフレ抑制策として有効な可能性があるが、エネルギー企業の投資意欲を減退させ、長期的なエネルギー供給を不安定にする可能性もある。政策のバランスが重要であり、市場への影響を慎重に評価する必要がある。",
+      "summary": "住宅ローン金利の上昇により、住宅市場が深刻な状況に陥る可能性がある。RH CEOが警鐘を鳴らしており、住宅関連企業の業績悪化が懸念される。",
+      "analysis": "住宅ローン金利の上昇は、住宅購入意欲を減退させ、住宅価格の下落を招く可能性がある。特に、高価格帯の住宅市場への影響が大きいと予想される。また、住宅関連企業の業績悪化は、雇用不安や消費低迷につながる可能性もある。FRBの金融政策やインフレ動向が、住宅市場の今後の動向を左右すると考えられる。",
       "key_entities": [
-        "欧州連合",
-        "エネルギー企業",
-        "イラン"
+        "RH",
+        "FRB",
+        "住宅ローン金利"
       ],
       "sources": [
-        "CNBC - Top News"
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "TMC Stock Is Up With Retail Investors as the U.S. and Japan Team Up to Challenge China's Grip on Critical Minerals",
-      "region": "east_asia",
+      "title": "OPEC Members to Raise Oil Production; Warn of Slow Recovery",
+      "region": "global",
       "risk_level": "medium",
-      "summary": "米国と日本が重要鉱物資源を巡り中国に対抗する動きを見せ、TMC株が上昇。資源ナショナリズムの高まりが懸念される。",
-      "analysis": "重要鉱物資源の確保は、経済安全保障の観点から重要度を増している。米国と日本の連携は、中国の資源支配に対抗する動きとして評価できるが、資源ナショナリズムの高まりは、資源価格の変動を激化させ、サプライチェーンの混乱を招く可能性がある。TMC株の上昇は、市場の期待感を示す一方で、地政学的リスクを反映しているとも言える。",
+      "summary": "OPECが原油生産量を増加させる一方で、景気回復の遅れを警告している。原油価格の変動リスクが高まり、インフレへの影響が懸念される。",
+      "analysis": "OPECの原油増産は、短期的には原油価格の安定に寄与する可能性がある。しかし、景気回復の遅れが長期化すれば、原油需要の低迷につながり、原油価格の下落リスクが高まる。また、中東情勢の緊迫化が原油供給を阻害する可能性もあり、原油価格の変動リスクは依然として高い。インフレ動向や各国の金融政策、地政学的リスクなどを総合的に判断する必要がある。",
       "key_entities": [
-        "米国",
-        "日本",
-        "中国",
-        "TMC"
+        "OPEC",
+        "原油価格",
+        "インフレ"
       ],
       "sources": [
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "barrons.com"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin is now front-running the Fed rather than reacting to it. ETFs are the cause",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ビットコインがFRBの政策に反応するのではなく、先回りする動きを見せている。ETFの影響が指摘されており、市場の歪みが懸念される。",
+      "analysis": "ビットコインETFの普及により、ビットコイン市場への資金流入が加速し、FRBの金融政策に対する感応度が低下している可能性がある。これは、市場の効率性を損ない、価格変動を大きくする要因となる。また、ETFを通じた投機的な取引が増加すれば、市場の安定性を損なう可能性もある。FRBの金融政策や暗号資産規制の動向を注視する必要がある。",
+      "key_entities": [
+        "ビットコイン",
+        "FRB",
+        "ETF"
+      ],
+      "sources": [
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -82,8 +82,8 @@
       "title": "AI is making crypto's security problem even worse, Ledger CTO warns",
       "region": "global",
       "risk_level": "high",
-      "summary": "AIの進化が暗号資産のセキュリティリスクを高めているとLedger CTOが警告。技術的脆弱性と規制の遅れが課題。",
-      "analysis": "AI技術の悪用による暗号資産のハッキングや詐欺のリスクは、ますます深刻化している。Ledger CTOの警告は、暗号資産のセキュリティ対策の重要性を示唆しており、技術的な脆弱性の克服と適切な規制の整備が急務である。投資家は、セキュリティ対策が不十分な暗号資産への投資を避けるべきであり、リスク管理を徹底する必要がある。",
+      "summary": "AIの進化により、暗号資産のセキュリティリスクが深刻化している。Ledger CTOが警告しており、投資家保護の観点から懸念される。",
+      "analysis": "AI技術の悪用により、暗号資産のハッキングや詐欺のリスクが高まっている。特に、高度なフィッシング詐欺やマルウェア攻撃など、従来のセキュリティ対策では対応が難しい攻撃が増加している。また、AIを活用した価格操作や市場操作のリスクも懸念される。暗号資産取引所のセキュリティ対策強化や、投資家への啓発活動が急務である。",
       "key_entities": [
         "AI",
         "暗号資産",
@@ -97,71 +97,35 @@
       ]
     },
     {
-      "title": "Bitcoin holds steady as sentiment hits worst levels since Iran war began",
-      "region": "middle_east",
+      "title": "European ministers call for a tax on energy company windfall profits as Iran war drives price surge",
+      "region": "europe",
       "risk_level": "medium",
-      "summary": "イラン戦争勃発以降、ビットコインに対する市場心理が悪化。地政学的リスクが暗号資産市場にも影響を与えている。",
-      "analysis": "地政学的リスクの高まりは、リスクオフの動きを誘発し、ビットコインを含む暗号資産市場にネガティブな影響を与えている。市場心理の悪化は、価格下落を招きやすく、投資家は慎重な姿勢を維持する必要がある。ただし、過去の事例から、地政学的リスクの高まりが、長期的にビットコインの価値を高める可能性も否定できない。",
+      "summary": "イラン情勢悪化によるエネルギー価格高騰を受け、欧州各国がエネルギー企業の超過利潤に対する課税を検討している。企業の投資意欲減退やエネルギー供給への影響が懸念される。",
+      "analysis": "エネルギー企業への課税は、企業の収益を圧迫し、投資意欲を減退させる可能性がある。特に、再生可能エネルギーへの投資など、長期的なエネルギー政策への影響が懸念される。また、エネルギー供給の安定性にも影響を与える可能性があり、慎重な検討が必要である。インフレ抑制とエネルギー供給安定化の両立が課題となる。",
       "key_entities": [
-        "ビットコイン",
+        "欧州",
+        "エネルギー企業",
         "イラン",
-        "地政学的リスク"
+        "インフレ"
       ],
       "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "NVIDIA CEO Jensen Huang Says AGI Is Here. If He’s Right, These Stocks Win Big",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "NVIDIA CEOがAGI（汎用人工知能）の到来を宣言。関連銘柄への投資機会が高まる一方、過度な期待には注意が必要。",
-      "analysis": "AGIの実現は、経済や社会に大きな変革をもたらす可能性がある。NVIDIA CEOの発言は、AI関連銘柄への投資を促進する可能性があるが、AGIの実現時期や影響については不確実性が高く、過度な期待は避けるべきである。投資家は、企業の技術力や成長戦略を慎重に評価し、長期的な視点で投資判断を行う必要がある。",
-      "key_entities": [
-        "NVIDIA",
-        "AGI",
-        "AI関連銘柄"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, April 5, 2026: Down sharply from last weekend",
+      "title": "Nike is the most oversold stock on Wall Street after a wild week of trading",
       "region": "global",
       "risk_level": "low",
-      "summary": "住宅ローン金利が先週末から大幅に低下。住宅市場の活性化に寄与する可能性がある。",
-      "analysis": "住宅ローン金利の低下は、住宅購入意欲を高め、住宅市場の活性化に寄与する可能性がある。ただし、金利低下の背景には、景気減速への懸念や金融政策の緩和期待がある可能性もあり、今後の経済動向を注視する必要がある。住宅市場の動向は、経済全体の状況を反映する先行指標として重要である。",
+      "summary": "ナイキ株が大幅に売られ、ウォール街で最も売られすぎの水準となっている。業績見通しの下方修正が原因であり、今後の株価回復に注目が集まる。",
+      "analysis": "ナイキ株の急落は、同社の業績に対する市場の期待が大きく低下したことを示している。しかし、売られすぎの水準まで下落したことは、今後の株価回復の可能性も示唆している。今後の業績回復や新たな成長戦略の発表などが、株価回復のきっかけとなる可能性がある。ただし、市場全体のセンチメントや競合他社の動向なども考慮する必要がある。",
       "key_entities": [
-        "住宅ローン金利",
-        "住宅市場"
+        "ナイキ"
       ],
       "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Schwab plans spot bitcoin, ether trading launch in first half of 2026",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Schwabがビットコインとイーサリアムの現物取引を2026年前半に開始予定。暗号資産市場への機関投資家の参入が進む。",
-      "analysis": "Schwabのような大手金融機関が暗号資産取引サービスを開始することは、暗号資産市場の成熟度が高まっていることを示す。機関投資家の参入は、市場の流動性を高め、価格の安定化に寄与する可能性がある。ただし、暗号資産市場は依然としてボラティリティが高く、投資家はリスク管理を徹底する必要がある。",
-      "key_entities": [
-        "Schwab",
-        "ビットコイン",
-        "イーサリアム"
-      ],
-      "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -171,8 +135,8 @@
       "title": "India makes first Iranian oil purchase in seven years with no payment problems",
       "region": "south_asia",
       "risk_level": "medium",
-      "summary": "インドが7年ぶりにイラン産原油を購入。米国の制裁回避策が講じられている可能性。",
-      "analysis": "インドのイラン産原油購入は、米国の対イラン制裁の影響を緩和する動きとして注目される。決済問題が発生していないことは、制裁回避策が講じられている可能性を示唆している。地政学的リスクが高まる中、各国のエネルギー確保戦略が複雑化しており、今後の動向を注視する必要がある。",
+      "summary": "インドが7年ぶりにイラン産原油を購入した。米国の制裁回避策が注目されており、地政学的リスクが高まる可能性がある。",
+      "analysis": "インドのイラン産原油購入は、米国の対イラン制裁に対する間接的な挑戦と見なされる可能性がある。これにより、米国とインドの関係が悪化する可能性や、米国がインドに対して制裁措置を発動する可能性も否定できない。また、イランの核開発問題が再燃すれば、中東情勢がさらに不安定化する可能性もある。地政学的リスクの高まりは、原油価格の変動や金融市場の混乱につながる可能性がある。",
       "key_entities": [
         "インド",
         "イラン",
@@ -184,15 +148,50 @@
       "source_types": [
         "media"
       ]
+    },
+    {
+      "title": "Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading",
+      "region": "europe",
+      "risk_level": "low",
+      "summary": "チャールズ・シュワブがビットコインとイーサリアムの現物取引を提供する準備を進めている。暗号資産市場への機関投資家の参入が加速する可能性がある。",
+      "analysis": "チャールズ・シュワブのような大手金融機関が暗号資産取引に参入することは、暗号資産市場の信頼性を高め、機関投資家の参入を促進する可能性がある。これにより、暗号資産市場の流動性が向上し、価格の安定化につながる可能性もある。ただし、暗号資産市場の規制が未整備な現状では、リスク管理の徹底が不可欠である。",
+      "key_entities": [
+        "チャールズ・シュワブ",
+        "ビットコイン",
+        "イーサリアム"
+      ],
+      "sources": [
+        "Yahoo Finance",
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, April 5, 2026: Down sharply from last weekend",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "住宅ローン金利が先週末から大幅に低下した。住宅市場の活性化に繋がる可能性があるが、長期的な影響は不透明。",
+      "analysis": "住宅ローン金利の低下は、住宅購入意欲を高め、住宅市場の活性化に繋がる可能性がある。しかし、金利低下の要因が一時的なものであれば、長期的な影響は限定的である。また、金利低下が住宅価格の上昇を招けば、住宅購入の負担が増加する可能性もある。今後の金利動向や経済状況を注視する必要がある。",
+      "key_entities": [
+        "住宅ローン金利"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
     }
   ],
   "region_risk_map": {
     "global": "high",
     "north_america": "medium",
-    "europe": "high",
+    "europe": "medium",
     "east_asia": "medium"
   },
-  "generated_at": "2026-04-05T15:38:09.814268",
+  "generated_at": "2026-04-05T18:52:28.972919",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

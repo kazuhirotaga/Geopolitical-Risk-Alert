@@ -1,22 +1,23 @@
 {
   "date": "2026-04-05",
-  "summary": "本日は、FRB関連の報道発表のみが確認されました。金融政策や経済見通しに関する要人発言は確認されませんでした。今後の追加情報に注意が必要です。",
+  "summary": "本日は、米連邦準備制度理事会（FRB）からの報道発表のみが確認されました。金融政策に関する要人発言は確認されず、市場への直接的な影響は限定的と考えられます。",
   "statements": [
     {
       "speaker": "Federal Reserve Board",
-      "title": "アメリカ合衆国連邦準備制度理事会",
-      "quote": "United Bankの元従業員に対する執行措置を発表",
+      "title": "米連邦準備制度理事会",
+      "quote": "Federal Reserve Board issues enforcement action with former employee of United Bank",
       "context": "報道発表",
-      "analysis": "個別の金融機関の元従業員に対する執行措置であり、金融市場全体への直接的な影響は限定的と考えられます。ただし、FRBが金融機関の不正行為に対して厳格な姿勢を示していることの表れであり、間接的に金融機関のコンプライアンス体制強化を促す可能性があります。",
+      "analysis": "元United Bankの従業員に対する執行措置に関する発表であり、金融システム全体の安定や金融政策に直接的な影響を与えるものではない。個別の金融機関に対する規制遵守の徹底を示すものと解釈できる。",
       "importance": "low",
       "tags": [
         "金融規制",
-        "コンプライアンス"
+        "執行措置",
+        "銀行"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260403a.htm"
     }
   ],
-  "generated_at": "2026-04-05T15:38:15.726264",
+  "generated_at": "2026-04-05T18:52:36.129019",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
