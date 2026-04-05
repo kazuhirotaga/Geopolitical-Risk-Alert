@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-05",
-    "summary": "中東におけるアメリカ・イスラエルとイランの軍事衝突が激化し、ホルムズ海峡の封鎖が継続。エネルギー価格の高騰やサプライチェーンの混乱が世界経済に影響。ウクライナ情勢も膠着状態が続く。",
-    "overall_risk_level": "critical",
+    "summary": "中東における米国とイランの軍事衝突が激化し、ホルムズ海峡の封鎖が継続。エネルギー供給への影響が深刻化している。ウクライナ情勢も膠着状態が続き、地政学的リスクは全体的に高い水準にある。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "medium",
-      "southeast_asia": "low",
-      "south_asia": "medium",
+      "east_asia": "high",
+      "southeast_asia": "medium",
+      "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
+      "europe": "medium",
       "africa": "none",
-      "north_america": "medium",
+      "north_america": "low",
       "south_america": "none"
     },
-    "generated_at": "2026-04-05T18:52:06.826123"
+    "generated_at": "2026-04-05T21:37:21.023400"
   },
   {
     "date": "2026-04-04",

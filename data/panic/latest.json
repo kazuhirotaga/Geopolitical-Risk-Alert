@@ -1,48 +1,34 @@
 {
   "date": "2026-04-05",
-  "summary": "世界各地では、中東とアフリカを中心に地政学的緊張や食料・エネルギー不足に起因する社会不安が深刻化しています。イランでは反政府デモへの強硬な弾圧が続き、南アジアでは燃料不足が顕在化。アフリカ諸国は中東情勢の煽りを受け食料不足が悪化するなど、広範囲にわたる複合的な危機要因が市民生活を脅かし、全体として警戒状態が続いています。",
-  "global_panic_index": 65,
+  "summary": "世界各地で社会不安の兆候が見られます。中東では政府への抗議活動が激化し、イランではデモ参加者の死刑執行という危機的な状況が報告されています。南アジアではエネルギー不足が生活に深刻な影響を与え、各地で抗議活動が発生しています。欧米では大規模デモや局所的な暴動が見られるものの、広範な社会パニックには至っていません。全体としては、一部地域で警戒レベルの状況が見られますが、世界全体が無秩序なパニック状態に陥っているわけではありません。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "middle_east",
       "panic_index": 85,
       "status": "critical",
-      "main_cause": "地政学的緊張、政治的抑圧、地域紛争の波及",
+      "main_cause": "政治的抑圧、大規模な抗議デモ、地政学的緊張",
       "incidents": [
         {
-          "title": "イラン、反政府デモ関連の死刑執行",
+          "title": "イラン、反政府デモ参加者2名を死刑執行",
           "location": "イラン",
           "severity": 90,
-          "description": "イラン政府が反政府デモに関連した容疑で複数の死刑を執行。軍事施設への突入未遂も報じられ、当局の強硬な姿勢が社会的な緊張を一層高めています。",
-          "source": "The Jerusalem Post, Arab Times Kuwait News, AFPBB News"
+          "description": "反政府デモ中に軍事施設襲撃を試みたとして、2名が死刑執行されました。政府による弾圧が深刻化しており、社会的な緊張が極度に高まっています。",
+          "source": "The Jerusalem Post, AFPBB News"
         },
         {
-          "title": "イラン反政府デモの継続と体制の粘り強さ",
-          "location": "イラン",
-          "severity": 85,
-          "description": "大規模な反政府デモが継続しているにもかかわらず、イランの権威主義体制が粘り強く維持されている状況が報じられています。市民の不満は根深く、長期的な不安定要素となっています。",
-          "source": "日本経済新聞"
+          "title": "ヨルダン川西岸地区、イスラエル死刑法案に反対しストライキ",
+          "location": "ヨルダン川西岸地区",
+          "severity": 60,
+          "description": "イスラエルの死刑制度に反対する大規模なストライキが発生し、地域の経済活動や社会秩序に影響が出ています。平和的な抗議活動が中心ですが、緊張は高いです。",
+          "source": "MSN, Haaretz"
         },
         {
-          "title": "米国によるイランへの軍事的脅威",
-          "location": "イラン",
-          "severity": 80,
-          "description": "トランプ元大統領がイランの要衝への軍事的な脅威を示唆。ホルムズ海峡への言及は、地域紛争の激化とエネルギー供給の不安定化に対する懸念を増幅させています。",
-          "source": "Radio Free Europe/Radio Liberty"
-        },
-        {
-          "title": "シリア、UAE大使館での騒乱と保護宣言",
-          "location": "シリア、ダマスカス",
-          "severity": 75,
-          "description": "UAE大使館での騒乱が発生し、シリア当局が外国使節団の保護を誓約。外交施設への攻撃は国内治安の不安定化を示唆し、地域の緊張を高めています。",
+          "title": "シリア、UAE大使館周辺の騒乱後、外国公館の保護を約束",
+          "location": "ダマスカス, シリア",
+          "severity": 70,
+          "description": "UAE大使館周辺で発生した騒乱（unrest）を受け、シリア政府が外国公館の保護を約束。地域の治安悪化と外交的緊張を示唆しています。",
           "source": "شفق نيوز"
-        },
-        {
-          "title": "中東紛争による周辺地域への食料・エネルギー影響の懸念",
-          "location": "中東広域",
-          "severity": 85,
-          "description": "イラン戦争など中東地域の紛争が、南アジアやアフリカにおける食料・エネルギー不足を深刻化させる可能性が指摘されています。広範な地域にパニックが波及する潜在的リスクが存在します。",
-          "source": "South China Morning Post, Business Standard, 北海道新聞デジタル"
         }
       ]
     },
@@ -50,80 +36,94 @@
       "region": "south_asia",
       "panic_index": 75,
       "status": "volatile",
-      "main_cause": "食料・エネルギー不足、地政学的紛争の波及",
+      "main_cause": "エネルギー不足、生活費高騰への抗議、インフラ不備",
       "incidents": [
         {
-          "title": "イラン戦争による南アジア政府転覆の懸念と燃料・食料不足",
-          "location": "南アジア広域",
+          "title": "インド各地でLPG供給危機、自動車運行に影響",
+          "location": "カルナータカ州 (マンディヤ、ベンガルール), インド",
           "severity": 80,
-          "description": "イラン戦争の激化が、南アジア地域の政府転覆や深刻な燃料・食料不足を引き起こす可能性が警告されています。経済的・社会的に脆弱な地域が大きな打撃を受ける恐れがあります。",
-          "source": "South China Morning Post"
+          "description": "液化石油ガス（LPG）の深刻な供給不足が発生し、タクシーやオートリキシャの運行が停止。市民生活と交通インフラに大きな影響を与え、社会不安が高まっています。",
+          "source": "MSN, The Economic Times, newskarnataka.com, Mathrubhumi English"
         },
         {
-          "title": "インド、カルナータカ州/ベンガルールでのLPG燃料不足",
-          "location": "インド、カルナータカ州/ベンガルール",
+          "title": "バングラデシュ、ガス配給により肥料工場が生産停止",
+          "location": "シレット, バングラデシュ",
           "severity": 70,
-          "description": "LPG（液化石油ガス）の不足により、オートリキシャ運転手が立ち往生し、市民生活に大きな影響が出ています。燃料供給の不安定化は、経済活動と住民の移動に混乱をもたらしています。",
-          "source": "The Economic Times, newskarnataka.com, Mathrubhumi English"
+          "description": "ガス配給制が導入され、国営肥料工場が生産停止に追い込まれています。これは農業生産に悪影響を及ぼし、将来的な食料不安につながる可能性があります。",
+          "source": "The Financial Express"
         },
         {
-          "title": "パキスタン、医療インフラ不足に対する抗議デモ",
-          "location": "パキスタン、グジュラート",
-          "severity": 60,
-          "description": "パキスタンの一部の地域で、劣悪な医療サービスに対する住民の抗議デモが発生。生活に不可欠な公共サービスの不足は、社会不安の根源となり得ます。",
+          "title": "バングラデシュ銀行、営業時間を短縮し取引締切を設定",
+          "location": "バングラデシュ",
+          "severity": 65,
+          "description": "バングラデシュ中央銀行が営業時間を短縮し、取引締切を早める措置を実施。直接的な取り付け騒ぎではないものの、金融不安の兆候と受け止められる可能性があります。",
+          "source": "The Financial Express, Daily Bonik Barta"
+        },
+        {
+          "title": "パキスタン、石油価格高騰撤回なければ抗議活動を警告",
+          "location": "パキスタン",
+          "severity": 65,
+          "description": "パキスタンの取引業者（トレーダー）が、石油価格上昇が撤回されなければ大規模な抗議活動を行うと警告。燃料価格の高騰は国民生活を圧迫し、社会不安を増大させています。",
           "source": "lokmattimes.com"
         },
         {
-          "title": "西アジア紛争によるインド株式市場のボラティリティ懸念",
-          "location": "インド",
-          "severity": 55,
-          "description": "西アジア紛争の激化を受け、インド株式市場が今後変動する可能性がアナリストから指摘されています。金融市場の不安定化は経済全体に不安を広げる可能性があります。",
-          "source": "Business Standard"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "食料不足、国際支援の停滞",
-      "incidents": [
-        {
-          "title": "中東情勢によるアフリカ各国の食料不足悪化と支援停滞",
-          "location": "アフリカ広域",
-          "severity": 90,
-          "description": "中東情勢の悪化が、アフリカ各国の食料不足に拍車をかけ、国際的な支援活動も停滞している状況です。これにより、広範囲にわたる人道危機と大規模な社会不安が懸念されています。",
-          "source": "北海道新聞デジタル"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "大規模な抗議活動",
-      "incidents": [
-        {
-          "title": "ロサンゼルスでの「No Kings」抗議デモが混乱、多数逮捕",
-          "location": "アメリカ、ロサンゼルス",
+          "title": "パキスタン、医療施設不足に対し住民が抗議デモ",
+          "location": "グジュラート, パキスタン",
           "severity": 60,
-          "description": "ロサンゼルスで大規模な「No Kings」抗議デモが混沌とした状況に陥り、多数の逮捕者が出ました。デモが秩序を失い、治安当局との衝突が発生しています。",
-          "source": "AOL.com"
+          "description": "基本的な医療施設の不足に対し、住民が大規模な抗議デモを実施。公共サービスの不備が市民の不満を高め、社会不安を引き起こしています。",
+          "source": "lokmattimes.com"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "限定的な社会騒乱",
+      "panic_index": 65,
+      "status": "unstable",
+      "main_cause": "スポーツ関連の暴動",
       "incidents": [
         {
-          "title": "ドイツ、サッカーファンの騒乱で警察が捜査",
+          "title": "ドイツ、サッカーファンによる騒乱後に「危険な身体的危害」を捜査",
           "location": "ドイツ",
-          "severity": 30,
-          "description": "ドイツでサッカーファンによる騒乱が発生し、警察が「危険な身体的傷害」の疑いで捜査を行っています。これは特定のイベントに限定された混乱であり、広範な社会パニックには至っていません。",
-          "source": "Houston Chronicle"
+          "severity": 75,
+          "description": "サッカーファンの間で発生した騒乱（unrest）が「危険な身体的危害」に至ったとして、警察が捜査を行っています。大規模な集団行動が暴力へと発展するリスクが示されています。",
+          "source": "Houston Chronicle, The Tribune-Democrat"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "大規模な抗議デモ",
+      "incidents": [
+        {
+          "title": "ロサンゼルスで「No Kings」抗議デモが混沌化し多数逮捕",
+          "location": "ロサンゼルス, 米国",
+          "severity": 70,
+          "description": "「No Kings」と題された抗議デモが混沌（chaotic）とした状況となり、多数の逮捕者が出ました。大規模な抗議活動が秩序を乱し、衝突へと発展するリスクを示しています。",
+          "source": "AOL.com"
+        },
+        {
+          "title": "ニューメキシコ州、激動の変革期で抗議活動発生",
+          "location": "ニューメキシコ州, 米国",
+          "severity": 40,
+          "description": "ニューメキシコ州は「激動の変革期」にあり、進歩と抗議が混在する状況です。具体的なパニック事象は不明ですが、社会的な不安定さがうかがえます。",
+          "source": "abqjournal.com"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 35,
+      "status": "stable",
+      "main_cause": "政治への抗議",
+      "incidents": [
+        {
+          "title": "ガーナ、大統領演説中に男性がプラカードを掲げ抗議",
+          "location": "クワフ, ガーナ",
+          "severity": 40,
+          "description": "大統領の演説中に、一人の男性がプラカードを掲げて抗議活動を行い、演説が中断されました。これは政府に対する不満の表明であり、社会不安の兆候です。",
+          "source": "GhanaWeb"
         }
       ]
     }
