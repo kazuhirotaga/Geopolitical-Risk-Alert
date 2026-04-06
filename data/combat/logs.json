@@ -1,5 +1,118 @@
 [
   {
+    "date": "2026-04-06",
+    "summary": "2026年4月1日から5日にかけて、イランとアメリカ間の軍事衝突が激化。ホルムズ海峡付近でのA-10攻撃機の墜落、F-15戦闘機の撃墜、そしてアメリカ軍によるパイロット救出作戦が実施された。イランはアメリカ軍基地への攻撃も継続。ウクライナでは防空能力が向上している。",
+    "events": [
+      {
+        "id": "Event-001",
+        "timestamp": "2026-04-05",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ特殊部隊によるF-15パイロット救出",
+        "content": "撃墜されたF-15の武器担当官が負傷したが、アメリカ特殊部隊によってイランから救出された。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-second-f-15-airman-from-iran/"
+      },
+      {
+        "id": "Event-002",
+        "timestamp": "2026-04-03",
+        "location": "ホルムズ海峡付近",
+        "region": "middle_east",
+        "title": "A-10攻撃機の墜落",
+        "content": "アメリカ空軍のA-10 Thunderbolt II攻撃機がホルムズ海峡付近で墜落した。同時期にF-15E戦闘機も撃墜された。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/a-10-warthog-crashes-near-strait-of-hormuz/"
+      },
+      {
+        "id": "Event-003",
+        "timestamp": "2026-04-03",
+        "location": "イラン上空",
+        "region": "middle_east",
+        "title": "アメリカ軍F-15E戦闘機の撃墜",
+        "content": "アメリカ軍のF-15E戦闘機がイラン上空で撃墜された。生存者の捜索救助活動が実施されている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
+      },
+      {
+        "id": "Event-004",
+        "timestamp": "2026-04-01",
+        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAE",
+        "region": "middle_east",
+        "title": "イランによるアメリカ軍基地インフラへの攻撃",
+        "content": "イランは、バーレーン、カタール、クウェート、サウジアラビア、UAEにあるアメリカ軍基地のレーダーシステム、衛星通信、重要な航空機を攻撃した。",
+        "involved_parties": [
+          "イラン",
+          "アメリカ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
+      },
+      {
+        "id": "Event-005",
+        "timestamp": "2026-03",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ、3月の防空成功率90%近くを主張",
+        "content": "ウクライナ国防省は、攻撃頻度が増加しているにもかかわらず、防空性能が向上していると発表した。",
+        "involved_parties": [
+          "ウクライナ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
+      },
+      {
+        "id": "Event-006",
+        "timestamp": "2026-04-01",
+        "location": "シチリア",
+        "region": "europe",
+        "title": "イタリア、中東へ向かうアメリカ軍用機のシチリア立ち寄りを拒否",
+        "content": "イタリアは、イランに対するアメリカ・イスラエル戦争のためのシゴネラ空軍基地の使用が合意の範囲外であるとして、アメリカ軍用機の立ち寄りを拒否した。",
+        "involved_parties": [
+          "イタリア",
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/"
+      },
+      {
+        "id": "Event-007",
+        "timestamp": "2026-03-30",
+        "location": "不明",
+        "region": "europe",
+        "title": "ミサイル搭載のエアバス迎撃機が一方通行攻撃ドローンと交戦テスト",
+        "content": "ドローンとミサイルの組み合わせにより、大規模な迎撃が経済的に実行可能になると製造業者は主張している。",
+        "involved_parties": [],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/03/30/missile-wielding-airbus-interceptor-engages-one-way-attack-drone-in-test/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-05",
     "summary": "アメリカとイラン間の軍事衝突が激化。ホルムズ海峡付近でA-10攻撃機が墜落、F-15E戦闘機が撃墜される。イランはアメリカ軍基地への攻撃を実施。アメリカ特殊部隊が撃墜されたF-15の搭乗員を救出。",
     "events": [
