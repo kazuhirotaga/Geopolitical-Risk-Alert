@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-04-06",
-    "summary": "中東情勢緊迫化による原油価格高騰とインフレ懸念が市場を不安定化させている。一方で、停戦協議への期待感から株価は上昇。AI関連投資は活発だが、リスクも指摘されている。暗号資産市場はボラティリティが高い。",
-    "overall_risk_level": "high",
+    "summary": "地政学的リスク（イラン情勢）とインフレ懸念が市場を左右。S&P500は小幅上昇も、原油価格変動、Fedの金融政策、暗号資産市場の動向など、不確実性が高い状況が続く。AIと暗号資産の融合も新たなリスク要因として浮上。",
+    "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "medium",
       "north_america": "medium",
-      "europe": "medium",
-      "east_asia": "medium"
+      "europe": "low",
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "high"
     },
-    "generated_at": "2026-04-06T15:53:56.201121"
+    "generated_at": "2026-04-06T19:08:09.314913"
   },
   {
     "date": "2026-04-05",
