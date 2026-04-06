@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-06",
+    "summary": "中東情勢が極めて不安定化。ホルムズ海峡封鎖を巡り米国とイランの対立が激化し、軍事衝突のリスクが高まっている。ウクライナ情勢も依然として緊迫しており、エネルギー市場への影響が懸念される。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "medium",
+      "south_asia": "none",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "none",
+      "north_america": "high",
+      "south_america": "none"
+    },
+    "generated_at": "2026-04-06T02:52:08.676744"
+  },
+  {
     "date": "2026-04-05",
     "summary": "中東における米国とイランの軍事衝突が激化し、ホルムズ海峡の封鎖が継続。エネルギー供給への影響が深刻化している。ウクライナ情勢も膠着状態が続き、地政学的リスクは全体的に高い水準にある。",
     "overall_risk_level": "high",

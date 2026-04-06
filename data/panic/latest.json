@@ -1,129 +1,179 @@
 {
-  "date": "2026-04-05",
-  "summary": "世界各地で社会不安の兆候が見られます。中東では政府への抗議活動が激化し、イランではデモ参加者の死刑執行という危機的な状況が報告されています。南アジアではエネルギー不足が生活に深刻な影響を与え、各地で抗議活動が発生しています。欧米では大規模デモや局所的な暴動が見られるものの、広範な社会パニックには至っていません。全体としては、一部地域で警戒レベルの状況が見られますが、世界全体が無秩序なパニック状態に陥っているわけではありません。",
-  "global_panic_index": 68,
+  "date": "2026-04-06",
+  "summary": "世界全体では、地域的な緊張とエネルギー供給問題が散見されるものの、大規模なパニックや社会秩序の崩壊には至っておらず、中程度の不安状態にあります。特に南アジアでは燃料不足や社会サービスへの不満から抗議活動が激化し、一部で社会インフラに影響が出ています。北アメリカでは大規模デモによる混乱、中東では政治的抗議に対する政府の強硬な対応が懸念されます。",
+  "global_panic_index": 42,
   "regions": [
     {
-      "region": "middle_east",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "政治的抑圧、大規模な抗議デモ、地政学的緊張",
-      "incidents": [
-        {
-          "title": "イラン、反政府デモ参加者2名を死刑執行",
-          "location": "イラン",
-          "severity": 90,
-          "description": "反政府デモ中に軍事施設襲撃を試みたとして、2名が死刑執行されました。政府による弾圧が深刻化しており、社会的な緊張が極度に高まっています。",
-          "source": "The Jerusalem Post, AFPBB News"
-        },
-        {
-          "title": "ヨルダン川西岸地区、イスラエル死刑法案に反対しストライキ",
-          "location": "ヨルダン川西岸地区",
-          "severity": 60,
-          "description": "イスラエルの死刑制度に反対する大規模なストライキが発生し、地域の経済活動や社会秩序に影響が出ています。平和的な抗議活動が中心ですが、緊張は高いです。",
-          "source": "MSN, Haaretz"
-        },
-        {
-          "title": "シリア、UAE大使館周辺の騒乱後、外国公館の保護を約束",
-          "location": "ダマスカス, シリア",
-          "severity": 70,
-          "description": "UAE大使館周辺で発生した騒乱（unrest）を受け、シリア政府が外国公館の保護を約束。地域の治安悪化と外交的緊張を示唆しています。",
-          "source": "شفق نيوز"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、生活費高騰への抗議、インフラ不備",
-      "incidents": [
-        {
-          "title": "インド各地でLPG供給危機、自動車運行に影響",
-          "location": "カルナータカ州 (マンディヤ、ベンガルール), インド",
-          "severity": 80,
-          "description": "液化石油ガス（LPG）の深刻な供給不足が発生し、タクシーやオートリキシャの運行が停止。市民生活と交通インフラに大きな影響を与え、社会不安が高まっています。",
-          "source": "MSN, The Economic Times, newskarnataka.com, Mathrubhumi English"
-        },
-        {
-          "title": "バングラデシュ、ガス配給により肥料工場が生産停止",
-          "location": "シレット, バングラデシュ",
-          "severity": 70,
-          "description": "ガス配給制が導入され、国営肥料工場が生産停止に追い込まれています。これは農業生産に悪影響を及ぼし、将来的な食料不安につながる可能性があります。",
-          "source": "The Financial Express"
-        },
-        {
-          "title": "バングラデシュ銀行、営業時間を短縮し取引締切を設定",
-          "location": "バングラデシュ",
-          "severity": 65,
-          "description": "バングラデシュ中央銀行が営業時間を短縮し、取引締切を早める措置を実施。直接的な取り付け騒ぎではないものの、金融不安の兆候と受け止められる可能性があります。",
-          "source": "The Financial Express, Daily Bonik Barta"
-        },
-        {
-          "title": "パキスタン、石油価格高騰撤回なければ抗議活動を警告",
-          "location": "パキスタン",
-          "severity": 65,
-          "description": "パキスタンの取引業者（トレーダー）が、石油価格上昇が撤回されなければ大規模な抗議活動を行うと警告。燃料価格の高騰は国民生活を圧迫し、社会不安を増大させています。",
-          "source": "lokmattimes.com"
-        },
-        {
-          "title": "パキスタン、医療施設不足に対し住民が抗議デモ",
-          "location": "グジュラート, パキスタン",
-          "severity": 60,
-          "description": "基本的な医療施設の不足に対し、住民が大規模な抗議デモを実施。公共サービスの不備が市民の不満を高め、社会不安を引き起こしています。",
-          "source": "lokmattimes.com"
-        }
-      ]
-    },
-    {
       "region": "europe",
-      "panic_index": 65,
-      "status": "unstable",
-      "main_cause": "スポーツ関連の暴動",
+      "panic_index": 40,
+      "status": "stable",
+      "main_cause": "公共の秩序維持に関する問題",
       "incidents": [
         {
-          "title": "ドイツ、サッカーファンによる騒乱後に「危険な身体的危害」を捜査",
+          "title": "German police investigate 'dangerous bodily harm' after soccer fan unrest",
           "location": "ドイツ",
-          "severity": 75,
-          "description": "サッカーファンの間で発生した騒乱（unrest）が「危険な身体的危害」に至ったとして、警察が捜査を行っています。大規模な集団行動が暴力へと発展するリスクが示されています。",
-          "source": "Houston Chronicle, The Tribune-Democrat"
+          "severity": 45,
+          "description": "サッカーファンによる騒乱が発生し、警察が身体的危害の疑いで捜査を行っています。公衆の安全に一時的な影響を与えましたが、広範な混乱には至っていません。",
+          "source": "Newsday"
+        },
+        {
+          "title": "If peaceful Gaza protest is criminal, what’s left of UK freedom?",
+          "location": "イギリス",
+          "severity": 30,
+          "description": "ガザに関する平和的な抗議活動の合法性について議論が起こっており、言論の自由が問われています。直接的なパニックではないが、社会不安の背景にある市民の不満を示しています。",
+          "source": "The New Arab"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 55,
+      "panic_index": 60,
       "status": "unstable",
-      "main_cause": "大規模な抗議デモ",
+      "main_cause": "大規模デモの混乱、エネルギー供給への懸念",
       "incidents": [
         {
-          "title": "ロサンゼルスで「No Kings」抗議デモが混沌化し多数逮捕",
+          "title": "'No Kings' Protest in Los Angeles Turns Chaotic as Dozens Arrested After Day of Mass Demonstrations",
           "location": "ロサンゼルス, 米国",
-          "severity": 70,
-          "description": "「No Kings」と題された抗議デモが混沌（chaotic）とした状況となり、多数の逮捕者が出ました。大規模な抗議活動が秩序を乱し、衝突へと発展するリスクを示しています。",
+          "severity": 65,
+          "description": "ロサンゼルスで大規模な抗議デモが混乱し、多数の逮捕者が出ました。社会秩序への影響が見られ、広範囲に及ぶ不安の兆候があります。",
           "source": "AOL.com"
         },
         {
-          "title": "ニューメキシコ州、激動の変革期で抗議活動発生",
-          "location": "ニューメキシコ州, 米国",
+          "title": "‘No spare capacity’: How the global jet fuel shortage could impact Canada",
+          "location": "カナダ",
+          "severity": 55,
+          "description": "世界的なジェット燃料不足がカナダの航空産業に影響を与え始めています。これは広範囲の経済活動に懸念を引き起こす可能性があります。",
+          "source": "CTV News"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "金融機関のガバナンスへの懸念",
+      "incidents": [
+        {
+          "title": "FSS alumni dominate Korea bank auditor posts, fueling lobby, oversight concerns",
+          "location": "韓国",
+          "severity": 30,
+          "description": "韓国の金融監査ポストを金融監督院のOBが独占している状況が、ロビー活動や監督体制への懸念を引き起こしています。直接的な金融パニックではないが、潜在的なリスクとして認識されています。",
+          "source": "CHOSUNBIZ"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 43,
+      "status": "unstable",
+      "main_cause": "政治的抗議と政府の鎮圧、地域紛争による経済的影響",
+      "incidents": [
+        {
+          "title": "Iran executes two men for attempting to storm military facility during protests",
+          "location": "イラン",
+          "severity": 75,
+          "description": "イランで軍事施設への襲撃を試みたとして、抗議者2名が処刑されました。政府による強硬な鎮圧は、深刻な人権状況と社会の緊張を示しています。",
+          "source": "The Jerusalem Post"
+        },
+        {
+          "title": "'There's Another Way:' Israelis, Palestinians Team Up to Protest Death Penalty",
+          "location": "イスラエル／パレスチナ",
+          "severity": 30,
+          "description": "イスラエル人とパレスチナ人が連携し、死刑制度に反対する平和的な抗議活動を行っています。地域間の協力による社会的な意見表明です。",
+          "source": "Haaretz"
+        },
+        {
+          "title": "Under Israeli restrictions, Palestinian Christians mark quiet Holy Week",
+          "location": "イスラエル／パレスチナ",
+          "severity": 35,
+          "description": "イスラエル当局の制限下で、パレスチナ人キリスト教徒が静かに聖週を過ごしました。宗教的自由への制約が緊張状態を生んでいます。",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Some UAE banks offer loan deferments, flexible payment plans amid regional conflict",
+          "location": "アラブ首長国連邦",
           "severity": 40,
-          "description": "ニューメキシコ州は「激動の変革期」にあり、進歩と抗議が混在する状況です。具体的なパニック事象は不明ですが、社会的な不安定さがうかがえます。",
-          "source": "abqjournal.com"
+          "description": "地域紛争による経済的影響を受け、アラブ首長国連邦の一部の銀行がローン返済猶予や柔軟な支払い計画を提供しています。潜在的な金融不安への予防措置と見られます。",
+          "source": "Khaleej Times"
+        },
+        {
+          "title": "UNIFIL to lodge formal protest after Israeli troops destroy surveillance cameras at HQ",
+          "location": "中東地域（国連レバノン暫定軍本部）",
+          "severity": 35,
+          "description": "イスラエル軍が国連レバノン暫定軍（UNIFIL）本部の監視カメラを破壊したことに対し、UNIFILが正式な抗議を行います。地域の緊張と国際関係の悪化を示唆します。",
+          "source": "lokmattimes.com"
         }
       ]
     },
     {
       "region": "africa",
       "panic_index": 35,
-      "status": "stable",
-      "main_cause": "政治への抗議",
+      "status": "normal",
+      "main_cause": "政治への不満",
       "incidents": [
         {
-          "title": "ガーナ、大統領演説中に男性がプラカードを掲げ抗議",
-          "location": "クワフ, ガーナ",
-          "severity": 40,
-          "description": "大統領の演説中に、一人の男性がプラカードを掲げて抗議活動を行い、演説が中断されました。これは政府に対する不満の表明であり、社会不安の兆候です。",
+          "title": "Watch as man interrupts President Mahama's speech with placard protest at Kwahu forum",
+          "location": "ガーナ",
+          "severity": 35,
+          "description": "クワフでのフォーラム中に、ある男性が大統領の演説をプラカードで中断させる抗議を行いました。軽微な政治的抗議であり、秩序の崩壊には至っていません。",
           "source": "GhanaWeb"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 58,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、経済的困難、政府への不満",
+      "incidents": [
+        {
+          "title": "Gas shortage halts transport, disrupts schools",
+          "location": "パキスタン",
+          "severity": 75,
+          "description": "広範囲なガス不足により交通機関が停止し、学校が休校となるなど、社会インフラに重大な影響が出ています。国民生活の混乱が深刻です。",
+          "source": "The Express Tribune"
+        },
+        {
+          "title": "Protest at US embassy in Islamabad turns violent; Interior Minister Mohsin Naqvi manhandled by crowd",
+          "location": "イスラマバード, パキスタン",
+          "severity": 70,
+          "description": "米大使館前での抗議デモが暴力化し、内務大臣が群衆によって暴行される事態が発生。治安の悪化と政治的緊張の増大を示しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "Gas rationing halts production at staterun fertiliser plant in Sylhet",
+          "location": "シレット, バングラデシュ",
+          "severity": 65,
+          "description": "ガス配給制限により国営肥料工場の生産が停止。これは農業生産に影響を与え、将来的な食料不安につながる可能性があります。",
+          "source": "The Financial Express"
+        },
+        {
+          "title": "Karnataka LPG shortage: Mandya auto drivers hit as fuel bunkers run dry",
+          "location": "マンディア, インド",
+          "severity": 60,
+          "description": "カルナータカ州マンディアでLPG不足が発生し、燃料ステーションが枯渇。オートリキシャの運転手が影響を受け、地域交通が麻痺しています。",
+          "source": "The Economic Times"
+        },
+        {
+          "title": "Pakistan: Healthcare neglect sparks protest in Gujrat as residents demand basic facilities",
+          "location": "グジュラート, パキスタン",
+          "severity": 55,
+          "description": "パキスタン・グジュラートで医療サービスの不備に対する抗議活動が勃発。住民は基本的な施設整備を要求しており、政府への不満が高まっています。",
+          "source": "lokmattimes.com"
         }
       ]
     }
