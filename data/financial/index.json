@@ -1,19 +1,16 @@
 [
   {
     "date": "2026-04-06",
-    "summary": "地政学的リスク（イラン情勢）とインフレ懸念が市場を左右。S&P500は小幅上昇も、原油価格変動、Fedの金融政策、暗号資産市場の動向など、不確実性が高い状況が続く。AIと暗号資産の融合も新たなリスク要因として浮上。",
-    "overall_risk_level": "medium",
+    "summary": "中東情勢緊迫化と、それを受けた金融市場の動揺が顕著。イラン戦争の休戦協議報道で一時的に市場は安定するも、地政学的リスクは依然として高い。暗号資産市場はボラティリティが高く、金融政策やAI技術の進展もリスク要因。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "medium",
+      "global": "high",
       "north_america": "medium",
-      "europe": "low",
-      "east_asia": "medium",
-      "south_america": "none",
-      "africa": "none",
-      "middle_east": "high"
+      "europe": "medium",
+      "east_asia": "medium"
     },
-    "generated_at": "2026-04-06T19:08:09.314913"
+    "generated_at": "2026-04-06T21:42:05.245786"
   },
   {
     "date": "2026-04-05",
