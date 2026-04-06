@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-04-06",
-    "summary": "地政学的リスク、インフレ懸念、AIの脅威が複合的に絡み合い、金融市場に不確実性をもたらしている。特に中東情勢の緊迫化とインフレ動向が市場の変動要因として注視される。暗号資産市場は量子コンピュータの脅威にさらされ、セキュリティ対策が急務となっている。",
+    "summary": "中東情勢の緊迫化と緩和期待が交錯し、市場は不安定な動き。インフレ懸念も根強く、金融市場全体のリスクは高い。個別銘柄では、アナリスト評価の変動が目立つ。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "medium"
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "high"
     },
-    "generated_at": "2026-04-06T10:13:51.220725"
+    "generated_at": "2026-04-06T13:20:28.718332"
   },
   {
     "date": "2026-04-05",

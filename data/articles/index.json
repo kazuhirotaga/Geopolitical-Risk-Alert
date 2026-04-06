@@ -1,13 +1,13 @@
 [
   {
     "date": "2026-04-06",
-    "summary": "中東情勢が極めて不安定。アメリカとイランの軍事衝突が継続し、周辺地域にも波及。ウクライナ情勢も膠着状態。米比合同軍事演習など、東アジア・東南アジアでも緊張感が高まっている。",
+    "summary": "中東情勢が極めて不安定。アメリカとイランの軍事衝突が激化し、ホルムズ海峡の封鎖が世界経済に深刻な影響を与えている。ウクライナ情勢も膠着状態が続き、地政学リスクは全体的に高い。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "medium",
-      "south_asia": "none",
+      "southeast_asia": "low",
+      "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "medium",
@@ -15,7 +15,7 @@
       "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-04-06T10:13:31.183552"
+    "generated_at": "2026-04-06T13:20:02.863883"
   },
   {
     "date": "2026-04-05",
