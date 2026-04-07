@@ -1,85 +1,115 @@
 {
   "date": "2026-04-07",
-  "summary": "世界各地では、金融不安の兆候、燃料や血液などの資源不足、政治的緊張に伴う抗議活動が報告されています。特に南東アジアでは、大規模な暴力事件や取り付け騒ぎが発生し、社会秩序の崩壊が危惧される地域も出現。中東も紛争の脅威と暴力の激化で緊張が高まっており、全体的に警戒水準にあり、一部地域では深刻なパニック状態に突入しています。",
+  "summary": "世界各地で食料・エネルギー供給の不安、金融システムの動揺、および社会的な暴力や大規模な抗議活動が複合的に発生し、全体的な緊迫度が増しています。特にインド、カンボジア、フランス、ケニアでは燃料不足や金融不安が深刻化し、社会秩序の混乱が見られます。一部地域では「緩慢な取り付け騒ぎ」への懸念が示されており、潜在的な金融危機のリスクも存在します。",
   "global_panic_index": 70,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 55,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "金融不安、社会秩序の乱れ",
+      "main_cause": "金融システムへの潜在的懸念",
       "incidents": [
         {
-          "title": "緩やかな取り付け騒ぎの兆候",
-          "location": "米国",
-          "severity": 60,
-          "description": "銀行システムにおいて預金引き出しの増加が見られ、潜在的な金融不安が指摘されている。これは将来的なパニックにつながる可能性がある。",
-          "source": "The Salt Lake Tribune"
-        },
-        {
-          "title": "ロサンゼルスでの「No Kings」デモが暴徒化",
-          "location": "ロサンゼルス, 米国",
-          "severity": 70,
-          "description": "大規模な抗議デモがエスカレートし、混沌とした状況に陥り、多数の逮捕者が出た。これは社会秩序の乱れを示唆する。",
-          "source": "aol.com"
-        },
-        {
-          "title": "消防署の人員不足が深刻化",
+          "title": "「緩慢な取り付け騒ぎ」への懸念報道",
           "location": "米国",
           "severity": 40,
-          "description": "地域の消防署がボランティア消防士を募集しており、地域社会の安全保障に対する懸念が高まっている。",
-          "source": "Park Hills Daily Journal"
+          "description": "複数のメディアが、米国で預金引き出しが緩やかに進行する「スローモーションの取り付け騒ぎ」の可能性について警告しており、金融システムに対する潜在的な不安が高まっています。",
+          "source": "The Salt Lake Tribune, The Washington Post, realclearmarkets.com"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 70,
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "資源不足（燃料、医療物資）",
+      "main_cause": "燃料不足",
       "incidents": [
         {
-          "title": "アイルランドで血液在庫が極めて低水準に",
-          "location": "アイルランド",
+          "title": "フランスで広範囲な燃料不足",
+          "location": "フランス",
           "severity": 65,
-          "description": "アイルランドの血液供給サービスが献血を緊急に呼びかけており、医療システムへの圧迫と住民の不安を招いている。",
-          "source": "Extra.ie"
+          "description": "フランスでは数百のガソリンスタンドで燃料切れが発生しており、市民の移動や物流に深刻な影響を与え、日常生活への不安が広がっています。",
+          "source": "logos-pres.md"
         },
         {
-          "title": "フランスで数百カ所のガソリンスタンドが燃料切れ",
-          "location": "フランス",
-          "severity": 70,
-          "description": "国内の広範囲で燃料供給が途絶え、市民の移動や経済活動に深刻な影響を与え、買いだめの懸念が高まっている。",
-          "source": "logos-pres.md"
+          "title": "ポルトガルで航空燃料枯渇の可能性",
+          "location": "ポルトガル",
+          "severity": 60,
+          "description": "ポルトガルの航空業界で燃料が枯渇する可能性が報じられ、航空便の運航に支障をきたす恐れがあり、旅行や経済活動への不安が高まっています。",
+          "source": "The Portugal News"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "政治的緊張、暴力行為、地政学的リスク",
+      "panic_index": 78,
+      "status": "critical",
+      "main_cause": "燃料・エネルギー不足、社会不安、暴力",
       "incidents": [
         {
-          "title": "ヨルダン川西岸で死刑法案に抗議デモ",
-          "location": "ヨルダン川西岸",
-          "severity": 65,
-          "description": "新たな死刑法案に対して広範囲な抗議活動が発生し、社会的な緊張が高まっている。",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "米国がイランへの軍事行動の脅威をエスカレート",
-          "location": "イラン",
-          "severity": 70,
-          "description": "大規模な軍事行動の脅威がイラン国民の間に深い不安を引き起こし、地域の緊張を増大させている。",
-          "source": "Radio Free Europe/Radio Liberty"
-        },
-        {
-          "title": "ヨルダン川西岸で入植者による暴力が激化",
-          "location": "ヨルダン川西岸",
+          "title": "インド・マニプル州での暴力とネット停止",
+          "location": "インド (マニプル州)",
           "severity": 80,
-          "description": "イラン戦争の背景の下、イスラエル人入植者による暴力行為が深まり、住民の生命と安全に対する脅威が高まっている。",
-          "source": "Australian Broadcasting Corporation"
+          "description": "インドのマニプル州で暴力事件が激化し、4人が死亡。治安維持のため5つの地区でインターネットが3日間停止され、地域住民の間に深い混乱と恐怖が広がっています。",
+          "source": "The Hindu"
+        },
+        {
+          "title": "インド各地でLPG不足と抗議デモ",
+          "location": "インド (各地)",
+          "severity": 75,
+          "description": "インドの複数地域でLPG（液化石油ガス）の深刻な不足が発生し、自動車運転手や市民が政府に対し供給再開を求める大規模な抗議デモを行っています。生活必需品の不足が社会不安を増大させています。",
+          "source": "The Hans India, The Hindu, Brighter Kashmir, MSN"
+        },
+        {
+          "title": "イラン戦争による航空燃料不足と価格高騰",
+          "location": "中東地域",
+          "severity": 70,
+          "description": "イラン戦争の影響でジェット燃料が不足し価格が高騰、世界的に航空会社の欠航が相次いでいます。これは国際的な物流や移動に深刻な混乱をもたらし、経済全体に不安が広がっています。",
+          "source": "Business Insider"
+        },
+        {
+          "title": "パレスチナで死刑法案への大規模抗議",
+          "location": "パレスチナ (ヨルダン川西岸地区)",
+          "severity": 60,
+          "description": "パレスチナのヨルダン川西岸地区で、死刑法案に反対する広範囲な抗議デモが発生しており、住民間の政治的な緊張と社会不安が高まっています。",
+          "source": "aljazeera.com"
+        },
+        {
+          "title": "シリアが反抗議法を計画",
+          "location": "シリア",
+          "severity": 65,
+          "description": "シリア政府がUAE大使館周辺での混乱を受けて反抗議法案を計画しており、政府による社会統制の強化と市民の自由に対する潜在的な抑圧が懸念されています。",
+          "source": "Muslim Network TV"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "燃料不足",
+      "incidents": [
+        {
+          "title": "ケニアでガソリン不足による長蛇の列",
+          "location": "ケニア",
+          "severity": 70,
+          "description": "ケニアのガソリンスタンドで燃料が不足し、給油を求めるドライバーが長蛇の列を作っています。この深刻な燃料不足は、交通や物流に大きな影響を与え、国民の間に強い不安を引き起こしています。",
+          "source": "The Kenya Times"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "政治的混乱、暴力",
+      "incidents": [
+        {
+          "title": "ネパール・カトマンズでの暴力的な王政復古デモ",
+          "location": "ネパール (カトマンズ)",
+          "severity": 70,
+          "description": "ネパールのカトマンズで王政復古を求める暴力的な抗議デモが発生し、政治的対立の激化を示しています。この事態は社会的な不安と潜在的な秩序の崩壊を招く可能性があります。",
+          "source": "Ratopati"
         }
       ]
     },
@@ -87,42 +117,14 @@
       "region": "southeast_asia",
       "panic_index": 85,
       "status": "critical",
-      "main_cause": "大規模暴力、金融危機、資源不足",
+      "main_cause": "金融不安（取り付け騒ぎ）",
       "incidents": [
         {
-          "title": "インド・マニプール州で新たな暴力により4人死亡",
-          "location": "マニプール, インド",
-          "severity": 90,
-          "description": "州内で発生した新たな暴力事件により複数の死者が出ており、地域の治安が極度に悪化し、住民の恐怖が広がっている。",
-          "source": "The Hindu"
-        },
-        {
-          "title": "カンボジアの銀行で取り付け騒ぎ、預金者が殺到",
+          "title": "カンボジアの銀行で取り付け騒ぎ",
           "location": "カンボジア",
           "severity": 85,
-          "description": "銀行が1日の引き出し額を制限したことで、顧客が預金を引き出そうと殺到。信頼の危機に瀕している。",
+          "description": "カンボジアのある銀行が預金引き出し額を1日300ドルに制限したことを受け、顧客が殺到して取り付け騒ぎが発生。金融システムへの信頼喪失を示し、社会に大きな不安をもたらしています。",
           "source": "วารสารการเงินธนาคาร"
-        },
-        {
-          "title": "マニプールのモイランで爆発後デモが暴徒化、警察署襲撃",
-          "location": "モイラン, マニプール, インド",
-          "severity": 95,
-          "description": "致命的な爆発後、抗議デモが激化し、警察署が襲撃され、トラックが放火されるなど、無秩序な状態に陥っている。",
-          "source": "India Today NE"
-        },
-        {
-          "title": "インド・カルナータカ州でLPG不足が深刻化",
-          "location": "カルナータカ州, インド",
-          "severity": 70,
-          "description": "マンディヤの自動車運転手がLPG不足に直面し、燃料供給が途絶える事態が発生。日常生活に大きな影響が出ている。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド・アイロリで夜間発砲事件、地域にパニック",
-          "location": "アイロリ, インド",
-          "severity": 70,
-          "description": "夜間の発砲事件により一人が首を撃たれ、犯人が逃走中であることから、地域住民の間に恐怖とパニックが広がっている。",
-          "source": "Republic World"
         }
       ]
     }
