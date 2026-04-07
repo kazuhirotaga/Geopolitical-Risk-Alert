@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-04-07",
-    "summary": "地政学的リスクが金融市場を大きく揺るがす。イラン情勢緊迫化による原油価格高騰、インフレ懸念、暗号資産市場の変動、企業買収提案など、複合的な要因がリスクを高めている。",
+    "summary": "イラン戦争の影響で、世界経済の減速とインフレ懸念が高まっています。金利、地政学的リスク、暗号資産市場の変動に注意が必要です。特に中東地域のリスクが顕著です。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
       "europe": "low",
-      "east_asia": "high"
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-04-07T07:25:13.234138"
+    "generated_at": "2026-04-07T10:11:10.519340"
   },
   {
     "date": "2026-04-06",
