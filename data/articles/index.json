@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-07",
-    "summary": "中東情勢が極めて不安定化。イランとアメリカ・イスラエルの軍事衝突が激化し、人道危機が深刻化。ウクライナ情勢も膠着状態が続く。核施設への攻撃も発生しており、核拡散リスクも高まっている。",
+    "summary": "中東情勢が極めて不安定化。米国とイランの対立激化に加え、イスラエルとレバノンの戦闘も継続。ウクライナ情勢も膠着状態が続く。世界的なエネルギー供給と人道支援に深刻な影響が出ている。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
@@ -10,12 +10,12 @@
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
+      "europe": "medium",
       "africa": "medium",
-      "north_america": "high",
+      "north_america": "critical",
       "south_america": "low"
     },
-    "generated_at": "2026-04-07T13:41:32.680649"
+    "generated_at": "2026-04-07T16:12:46.303847"
   },
   {
     "date": "2026-04-06",

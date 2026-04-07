@@ -1,19 +1,147 @@
 {
   "date": "2026-04-07",
-  "summary": "中東情勢の緊迫化により、世界経済は高インフレと低成長のリスクに直面。特にイラン戦争の影響でエネルギー価格が急騰し、金融市場の不確実性が増大。暗号資産市場も地政学的リスクと規制動向に左右され、変動幅が拡大している。",
-  "overall_risk_level": "critical",
+  "summary": "地政学的リスクが市場を大きく揺るがす。イラン情勢緊迫化によるエネルギー価格高騰、インフレ懸念、サプライチェーン混乱が深刻化。暗号資産市場も地政学的リスクと規制強化の影響を受ける。ただし、一部テクノロジー株には買いの兆しも見られる。",
+  "overall_risk_level": "high",
   "articles": [
     {
       "title": "Trump warns Iran’s ‘whole civilization will die tonight’ unless deal struck",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "トランプ大統領がイランに対し、ホルムズ海峡の封鎖解除を要求。合意がなければイラン文明は滅亡すると警告し、原油価格が急騰。",
-      "analysis": "ホルムズ海峡の封鎖は世界の原油供給に深刻な影響を与え、エネルギー価格の高騰を招いている。トランプ大統領の強硬姿勢は、中東地域の地政学的リスクをさらに高め、金融市場の混乱を招く可能性が高い。インフレ圧力の増大と景気後退のリスクが同時に高まるスタグフレーションの懸念が強まっている。投資家はリスクオフ姿勢を強め、安全資産への逃避が進むと予想される。",
+      "summary": "トランプ大統領がイランに対し強硬姿勢。ホルムズ海峡封鎖の危機から原油価格が急騰し、世界的なエネルギー供給ショックを引き起こしている。",
+      "analysis": "ホルムズ海峡の封鎖は、世界の原油供給に壊滅的な影響を与え、エネルギー価格の急騰を招く。インフレ圧力の高まり、世界経済の成長鈍化、地政学的緊張の激化が懸念される。特に、エネルギー依存度の高い国や地域への影響は深刻。紛争長期化のリスクも考慮する必要がある。投資家はリスクオフ姿勢を強め、安全資産への逃避が進む可能性が高い。",
       "key_entities": [
-        "Donald Trump",
-        "Iran",
-        "Strait of Hormuz",
-        "Oil Prices"
+        "トランプ大統領",
+        "イラン",
+        "ホルムズ海峡",
+        "OPEC"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Are You Hesitant to Invest in the Stock Market Because of the War in Iran? This Warren Buffett Fact Might Have You Thinking Twice",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "イラン戦争が株式市場に与える影響を懸念する投資家に対し、ウォーレン・バフェットの投資哲学を引用し、長期的な視点の重要性を説いている。",
+      "analysis": "地政学的リスクは短期的な市場の変動要因となるが、長期的な投資判断においては、企業のファンダメンタルズや成長性を重視すべきという主張。ただし、現在の状況は過去の戦争とは異なり、世界経済への影響がより広範囲に及ぶ可能性があるため、慎重な判断が必要。バフェットの哲学は参考になるが、リスク管理を徹底することが重要。",
+      "key_entities": [
+        "ウォーレン・バフェット",
+        "株式市場",
+        "イラン戦争"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Universal Music stock soars as Bill Ackman plans $64 billion acquisition and US listing",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "ビル・アックマン氏率いるPershing Squareがユニバーサルミュージックの640億ドルでの買収計画を発表。米国上場も視野に入れている。",
+      "analysis": "大規模なM&Aは市場のセンチメントを改善する可能性がある。ユニバーサルミュージックの株価上昇は、エンターテイメント業界への投資意欲を示す。ただし、買収の成否や上場後の株価動向には不確実性も伴う。金利上昇局面においては、大型買収の資金調達コストが増加するリスクも考慮する必要がある。",
+      "key_entities": [
+        "ユニバーサルミュージック",
+        "ビル・アックマン",
+        "Pershing Square"
+      ],
+      "sources": [
+        "Yahoo Finance",
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "AI Stock Sell-Off: The 5 Best Stocks to Buy Right Now",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "AI関連株の売りが続いているが、一部アナリストは、この状況を好機と捉え、有望なAI関連銘柄を推奨している。",
+      "analysis": "AI分野は長期的な成長が見込まれるが、短期的な市場の変動リスクも高い。金利上昇や景気後退懸念が、AI関連株の調整を引き起こしている可能性がある。投資判断においては、企業の財務状況や技術力、競争優位性を慎重に評価する必要がある。EightcoのようなOpenAIの代理銘柄を謳う企業には注意が必要。",
+      "key_entities": [
+        "AI",
+        "テクノロジー株",
+        "Eightco",
+        "OpenAI"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Tesla Stock Tumbles, But Cathie Wood Buys Shares For First Time Since July",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "テスラ株が下落する中、キャシー・ウッド氏率いるアーク・インベストメントが7月以来初めてテスラ株を購入。",
+      "analysis": "テスラ株の下落は、EV市場の競争激化や金利上昇の影響を受けている可能性がある。キャシー・ウッド氏の買い増しは、テスラに対する長期的な信頼を示すものと解釈できる。ただし、テスラ株はボラティリティが高く、投資判断には慎重な検討が必要。",
+      "key_entities": [
+        "テスラ",
+        "キャシー・ウッド",
+        "アーク・インベストメント"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "The dividend yield on the S&P 500 is now at 50-year lows. Here's the biggest problem.",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "S&P500の配当利回りが50年ぶりの低水準に。その背景と問題点を分析。",
+      "analysis": "配当利回りの低下は、株価上昇が配当金の伸びを上回っていることを示唆する。これは、企業の成長期待が高いことを意味する一方で、市場全体のバリュエーションが高まっている可能性も示唆する。金利上昇局面においては、配当利回りの低い株式の魅力が低下する可能性がある。",
+      "key_entities": [
+        "S&P 500",
+        "配当利回り"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Americans’ losses to crypto scams rose to over $11 billion last year, FBI reports",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "FBIの報告によると、アメリカ人の暗号資産詐欺による損失が昨年110億ドルを超えた。",
+      "analysis": "暗号資産市場における詐欺のリスクが依然として高いことを示唆する。規制の強化や投資家教育の必要性が高まっている。DeFiの利回りが低下する中で、詐欺的な投資案件に注意が必要。",
+      "key_entities": [
+        "暗号資産",
+        "詐欺",
+        "FBI"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "ASML shares fall after proposed U.S. export curbs target an already fragile China market",
+      "region": "east_asia",
+      "risk_level": "high",
+      "summary": "米国が中国への半導体製造装置の輸出規制を強化する方針を受け、ASMLの株価が下落。中国市場への影響が懸念される。",
+      "analysis": "米中間の貿易摩擦が激化し、半導体業界に大きな影響を与えている。ASMLの株価下落は、中国市場への依存度が高い企業のリスクを示す。地政学的リスクが企業の業績に直接影響を与える事例として注目される。",
+      "key_entities": [
+        "ASML",
+        "米国",
+        "中国",
+        "半導体"
       ],
       "sources": [
         "CNBC - Top News"
@@ -26,12 +154,12 @@
       "title": "Danone CEO flags price uncertainty as Iran war escalates: ‘Nobody knows' how conflict will play out",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "ダノンのCEOが、イラン戦争の激化に伴い、価格の不確実性が高まっていると警告。紛争が事業運営とコストに影響。",
-      "analysis": "イラン戦争の長期化は、サプライチェーンの混乱と原材料価格の高騰を引き起こし、消費財メーカーの収益を圧迫する。ダノンのCEOの発言は、他の企業にも同様の影響が及ぶ可能性を示唆しており、インフレ圧力の持続的な上昇を意味する。企業は価格転嫁を進める可能性が高く、消費者の購買力低下を招き、経済成長の鈍化につながる恐れがある。",
+      "summary": "ダノンのCEOが、イラン戦争の激化による価格変動の不確実性を指摘。消費者向け製品の価格上昇の可能性を示唆。",
+      "analysis": "イラン戦争がサプライチェーンに混乱をもたらし、原材料価格の上昇を引き起こしている。これは、消費者物価の上昇につながり、インフレ圧力を高める可能性がある。企業はコスト削減や価格転嫁などの対策を迫られる。",
       "key_entities": [
-        "Danone",
-        "Iran War",
-        "Inflation"
+        "ダノン",
+        "イラン戦争",
+        "インフレ"
       ],
       "sources": [
         "CNBC - Top News"
@@ -41,148 +169,19 @@
       ]
     },
     {
-      "title": "'A whole civilization will die': Crypto markets under pressure as Trump ups rhetoric towards Iran",
+      "title": "Bitcoin pulls away from software stocks as Iran war, AI reshape market dynamic",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "トランプ大統領のイランに対する強硬姿勢により、暗号資産市場が圧力を受けている。地政学的リスクが暗号資産の価格変動に影響。",
-      "analysis": "地政学的リスクの高まりは、暗号資産市場にも大きな影響を与えている。投資家はリスク回避姿勢を強め、暗号資産から安全資産への資金移動が進む可能性がある。また、イラン戦争の長期化は、エネルギー価格の高騰を通じて、暗号資産のマイニングコストを上昇させ、価格下落の要因となる可能性もある。地政学的リスクとマクロ経済の不確実性が複合的に作用し、暗号資産市場のボラティリティが高まると予想される。",
-      "key_entities": [
-        "Bitcoin",
-        "Cryptocurrency",
-        "Iran",
-        "Donald Trump"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Stocks fall as ceasefire hopes fade ahead of Trump's Iran deadline: Live updates",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "トランプ大統領のイランに対する期限が迫る中、停戦への期待が薄れ、株価が下落。市場は地政学的リスクを警戒。",
-      "analysis": "中東情勢の緊迫化は、株式市場にネガティブな影響を与えている。停戦への期待が薄れる中、投資家はリスクオフ姿勢を強め、株価が下落している。特に、エネルギー関連株や防衛関連株は、地政学的リスクの高まりを受けて変動幅が大きくなると予想される。投資家は、地政学的リスクを考慮したポートフォリオの見直しが必要となる。",
-      "key_entities": [
-        "Stock Market",
-        "Iran",
-        "Donald Trump"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin quantum threat is real and closer than it looks, says Nobel physicist",
-      "region": "global",
       "risk_level": "medium",
-      "summary": "ノーベル物理学者が、量子コンピュータによるビットコインへの脅威は現実であり、予想よりも近い将来に起こりうると警告。",
-      "analysis": "量子コンピュータの発展は、暗号資産市場に長期的なリスクをもたらす可能性がある。ビットコインの暗号化技術が量子コンピュータによって破られる可能性があり、ビットコインの信頼性を損なう恐れがある。暗号資産コミュニティは、量子コンピュータへの対策を講じる必要があり、新たな暗号化技術の開発が急務となる。",
+      "summary": "イラン戦争とAIの台頭が市場の力学を変化させ、ビットコインがソフトウェア株から乖離しつつある。",
+      "analysis": "地政学的リスクの高まりから、ビットコインが安全資産としての側面を強めている可能性がある。AI関連株は、金利上昇や景気後退懸念から調整局面を迎えている。市場のセンチメントが変化し、投資家のリスク選好度が低下している。",
       "key_entities": [
-        "Bitcoin",
-        "Quantum Computing",
-        "Nobel Prize"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "SEC close to putting out 'reg crypto' for fundraising questions, Chair Atkins says",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "SECのアトキンス委員長が、暗号資産の資金調達に関する規制を近く発表すると発言。規制の明確化が市場に影響。",
-      "analysis": "SECによる暗号資産規制の明確化は、暗号資産市場に大きな影響を与える可能性がある。明確な規制は、機関投資家の参入を促進し、市場の成熟化を促す一方で、既存のプロジェクトにとっては、規制遵守のコスト増大を意味する。規制の内容によっては、一部のプロジェクトが淘汰される可能性もある。投資家は、規制動向を注視し、リスク管理を徹底する必要がある。",
-      "key_entities": [
-        "SEC",
-        "Cryptocurrency",
-        "Regulation"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Jim Cramer says potential stock market bottom is tied to interest rates, not war headlines",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "ジム・クレイマーが、株式市場の底打ちは戦争報道ではなく、金利に左右されると指摘。金融政策が市場の主要因。",
-      "analysis": "ジム・クレイマーの指摘は、金融政策が株式市場に与える影響の大きさを改めて示している。中東情勢の緊迫化は、一時的に市場を混乱させる可能性があるが、長期的な市場のトレンドは、金利動向に左右される。投資家は、FRBの金融政策を注視し、金利変動リスクに備える必要がある。",
-      "key_entities": [
-        "Jim Cramer",
-        "Interest Rates",
-        "Stock Market",
-        "Federal Reserve"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Samsung Profit Rises 700% as Memory Chip Demand Surges. Micron Stock Drops.",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "メモリチップ需要の急増により、サムスンの利益が700%増加。一方、マイクロン株は下落。半導体市場の二極化。",
-      "analysis": "サムスンの好調な業績は、AI関連需要の拡大を背景としたメモリチップ市場の成長を示唆している。一方、マイクロン株の下落は、企業間の競争激化や供給過剰のリスクを示唆している。半導体市場は、AI関連需要の拡大と地政学的リスクの高まりにより、今後も変動幅が大きくなると予想される。投資家は、個別企業の動向だけでなく、市場全体のトレンドを注視する必要がある。",
-      "key_entities": [
-        "Samsung",
-        "Micron",
-        "Memory Chip",
+        "ビットコイン",
+        "ソフトウェア株",
+        "イラン戦争",
         "AI"
       ],
       "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "ASML shares fall after proposed U.S. export curbs target an already fragile China market",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "米国の輸出規制強化案により、ASML株が下落。中国市場への影響が懸念。米中間の技術覇権争いが激化。",
-      "analysis": "米国の輸出規制強化は、中国の半導体産業の発展を阻害する可能性がある。ASMLは、半導体製造装置の主要サプライヤーであり、中国市場への輸出規制は、同社の業績に悪影響を与える可能性がある。米中間の技術覇権争いは、今後も激化すると予想され、半導体関連企業のサプライチェーンに混乱をもたらす可能性がある。",
-      "key_entities": [
-        "ASML",
-        "China",
-        "United States",
-        "Semiconductor"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Russia says Middle East war disruption opens up new trade opportunities",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "ロシアが、中東戦争による混乱が新たな貿易機会を生み出すと発言。地政学的リスクを利用した経済的利益追求。",
-      "analysis": "ロシアは、中東情勢の混乱を利用して、新たな貿易ルートの開拓やエネルギー供給における影響力拡大を狙っている可能性がある。制裁下にあるロシアにとって、中東地域は重要な貿易パートナーであり、地政学的リスクを利用した経済的利益の追求は、今後も継続されると予想される。",
-      "key_entities": [
-        "Russia",
-        "Middle East",
-        "Trade"
-      ],
-      "sources": [
-        "Yahoo Finance"
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -190,12 +189,15 @@
     }
   ],
   "region_risk_map": {
-    "global": "critical",
-    "north_america": "high",
+    "global": "high",
+    "north_america": "medium",
     "europe": "medium",
-    "east_asia": "medium"
+    "east_asia": "high",
+    "south_america": "none",
+    "africa": "none",
+    "middle_east": "critical"
   },
-  "generated_at": "2026-04-07T13:41:57.213300",
+  "generated_at": "2026-04-07T16:13:08.926384",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
