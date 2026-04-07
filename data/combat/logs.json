@@ -1,5 +1,89 @@
 [
   {
+    "date": "2026-04-07",
+    "summary": "4月1日から6日にかけて、イランとアメリカの間で軍事衝突が激化。ホルムズ海峡付近でA-10攻撃機が墜落、F-15戦闘機がイラン領内で撃墜され、米軍兵士の救出作戦が展開。イランは米軍のインフラに対する攻撃を実施。ウクライナでは防空能力が向上するも、攻撃は増加傾向。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-04-05",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米特殊部隊、イラン領内からF-15パイロットを救出",
+        "content": "撃墜されたF-15戦闘機の兵器担当士官が負傷。米特殊部隊がイラン領内で救出作戦を実施し、パイロットを救出した。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "rescue",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-second-f-15-airman-from-iran/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-04-03",
+        "location": "ホルムズ海峡付近",
+        "region": "middle_east",
+        "title": "米空軍A-10攻撃機が墜落",
+        "content": "ホルムズ海峡付近で米空軍のA-10サンダーボルトII攻撃機が墜落。同時期にF-15E戦闘機が撃墜されている。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "crash",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/a-10-warthog-crashes-near-strait-of-hormuz/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-04-03",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米軍F-15E戦闘機がイラン上空で撃墜",
+        "content": "米軍のF-15E戦闘機がイラン上空で撃墜され、生存者の捜索救助活動が行われている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "downing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-04-01",
+        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAE",
+        "region": "middle_east",
+        "title": "イラン、米軍航空戦力基盤を攻撃",
+        "content": "イランがバーレーン、カタール、クウェート、サウジアラビア、UAEに所在する米軍基地のレーダーシステム、衛星通信施設、重要航空機を攻撃した。",
+        "involved_parties": [
+          "イラン",
+          "アメリカ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-03",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ、3月の防空成功率90%近くを主張",
+        "content": "ウクライナ国防省は、3月における攻撃頻度の増加にもかかわらず、防空性能が向上していると発表した。",
+        "involved_parties": [
+          "ウクライナ軍"
+        ],
+        "event_type": "defense",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-06",
     "summary": "アメリカとイラン間の緊張が激化。ホルムズ海峡付近でA-10攻撃機が墜落し、F-15戦闘機が撃墜される。アメリカ軍はイラン領内からのパイロット救出作戦を実施。一方、ウクライナは防空能力の向上を主張。イスラエルはギリシャへPULSシステムを売却。",
     "events": [

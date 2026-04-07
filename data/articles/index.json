@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-07",
+    "summary": "米イラン間の緊張が極度に高まり、攻撃の応酬が激化。ホルムズ海峡の封鎖が継続し、原油価格が高騰。レバノンではイスラエルとの戦闘が続き、人道危機が深刻化。ウクライナ情勢も膠着状態。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "medium",
+      "south_asia": "low",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "low",
+      "north_america": "high",
+      "south_america": "low"
+    },
+    "generated_at": "2026-04-07T02:45:48.446403"
+  },
+  {
     "date": "2026-04-06",
     "summary": "アメリカとイランの緊張が極度に高まり、ホルムズ海峡の封鎖とエネルギー施設への攻撃の脅威が現実味を帯びている。ウクライナ情勢も依然として不安定であり、世界的な地政学リスクは高い。",
     "overall_risk_level": "critical",
