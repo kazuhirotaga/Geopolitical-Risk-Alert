@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-07",
-    "summary": "中東情勢が極めて不安定化。米国とイランの対立激化に加え、イスラエルとレバノンの戦闘も継続。ウクライナ情勢も膠着状態が続く。核拡散防止条約再検討会議を前に、核リスクへの懸念も高まっている。",
+    "summary": "中東情勢が極めて不安定化。アメリカとイランの軍事衝突が激化し、ホルムズ海峡の封鎖が継続。ウクライナ情勢も膠着状態が続く。世界的なエネルギー供給と人道支援に深刻な影響が出ている。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "medium",
+      "east_asia": "high",
       "southeast_asia": "medium",
-      "south_asia": "medium",
+      "south_asia": "critical",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "medium",
       "africa": "medium",
       "north_america": "critical",
-      "south_america": "none"
+      "south_america": "medium"
     },
-    "generated_at": "2026-04-07T19:10:40.588363"
+    "generated_at": "2026-04-07T21:47:58.302107"
   },
   {
     "date": "2026-04-06",
