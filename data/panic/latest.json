@@ -1,174 +1,167 @@
 {
   "date": "2026-04-08",
-  "summary": "世界各地で、エネルギー不足、金融不安、資源欠乏、政治的緊張が複合的に社会不安を増大させています。特に中東では軍事衝突による極度のパニックが報じられ、欧州では燃料不足が市民生活に深刻な影響を与え、南アジアでは金融不安と食料・水問題が深刻化しています。全体として、局所的なパニックから広範な警戒状態に移行しつつある状況です。",
-  "global_panic_index": 65,
+  "summary": "世界各地では、地政学的な緊張と生活基盤の不安定化が社会不安の主な要因となっています。特に中東地域では軍事衝突によるパニック状況が深刻化しており、広範な生命の危機と混乱を引き起こしています。ヨーロッパやアジアの一部地域では、エネルギー、水、食料などの生活必需品の不足が抗議活動や経済的な不満へとつながり、社会秩序の不安定化を招いています。金融システムへの不信感も高まり、世界全体で警戒すべき状況が続いています。",
+  "global_panic_index": 50,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 55,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、金融システムへの不信",
+      "panic_index": 46,
+      "status": "unstable",
+      "main_cause": "エネルギー不足、経済的・政策的不満",
       "incidents": [
         {
-          "title": "フランスで広範な燃料不足",
-          "location": "France",
-          "severity": 70,
-          "description": "フランス国内で数百のガソリンスタンドが燃料不足により閉鎖。市民生活への影響が大きく、移動への制約や買いだめを誘発する可能性があり、警戒状態にある。",
+          "title": "フランスでの広範囲な燃料不足",
+          "location": "フランス",
+          "severity": 65,
+          "description": "数百箇所のガソリンスタンドで燃料が枯渇し、広範囲で市民生活に直接的な影響が出ています。交通や物流への影響が懸念され、人々の不安を増大させています。",
           "source": "logos-pres.md"
         },
         {
-          "title": "英国で銀行が事業撤退を表明",
-          "location": "UK (Britain)",
-          "severity": 55,
-          "description": "英国で大手銀行が不当な自動車金融法案への抗議として事業撤退を表明。金融システムへの信頼に揺らぎを与え、潜在的な不安を煽っている。",
-          "source": "The Telegraph"
-        },
-        {
-          "title": "英国における燃料価格高騰",
-          "location": "UK",
+          "title": "英国での企業撤退抗議",
+          "location": "英国",
           "severity": 45,
-          "description": "英国全土で燃料価格が上昇しており、消費者の間で経済的な負担と今後の供給不安に関する懸念が広がっている。",
-          "source": "BBC"
+          "description": "銀行や自動車金融会社Motonovoが、英国政府の不公平な金融法案や制度に抗議し、英国からの撤退を表明。経済界に動揺が広がっています。",
+          "source": "The Telegraph / Car Dealer Magazine"
         },
         {
-          "title": "ロンドンでフードバンクが活動拡大",
-          "location": "UK (Paddington, Westminster)",
+          "title": "ロンドンで食料バンクの活動強化",
+          "location": "英国、ロンドン",
           "severity": 30,
-          "description": "ロンドン中心部でフードバンクが支援を拡大。食料アクセスへの懸念が高まっている社会状況を示唆している。",
+          "description": "ウェストミンスター市議会と提携して運営される食料バンク『The Exchange』が紹介されており、生活困窮者への支援ニーズが高まっていることを示唆しています。",
           "source": "Yahoo"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 35,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "経済的圧力、局所的な詐欺被害",
+      "main_cause": "詐欺、地政学的問題への抗議",
       "incidents": [
         {
-          "title": "偽の裁判所詐欺メールがパニックを誘発",
-          "location": "USA (Westchester, NY)",
-          "severity": 40,
-          "description": "ニューヨーク州で偽の裁判所からのテキスト詐欺が金銭を要求し、住民の間に一時的なパニックを引き起こした。社会的な不安に乗じた詐欺行為への警戒が広がっている。",
+          "title": "ニューヨーク州で詐欺テキストがパニック引き起こす",
+          "location": "米国、ニューヨーク州ウェストチェスター",
+          "severity": 50,
+          "description": "裁判所を装った偽のテキストメッセージが金銭を要求し、住民の間にパニックを発生させています。情報不安と社会心理的な混乱が懸念されます。",
           "source": "News12 | Westchester"
         },
         {
-          "title": "カナダ・エドモントンでガソリン価格高騰",
-          "location": "Canada (Edmonton)",
-          "severity": 35,
-          "description": "エドモントンの慈善団体が高騰するガソリン価格の影響を受け始めており、燃料費上昇が地域経済と生活に与える圧力が増大している。",
-          "source": "CityNews Edmonton"
-        },
-        {
-          "title": "イスラエルへの抗議デモ",
-          "location": "USA (Amherst)",
-          "severity": 30,
-          "description": "アムハーストの地元住民が、イスラエルによる暴力行為に対し抗議デモを実施。地域社会の意見対立と社会的な緊張を示している。",
+          "title": "イスラエル暴力に抗議するデモ",
+          "location": "米国、アムハースト",
+          "severity": 40,
+          "description": "地元のユダヤ人住民が集まり、イスラエルによる暴力行為に対し抗議デモを実施。中東情勢が遠隔地でも社会不安の要因となっていることを示します。",
           "source": "Amherst Indy"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 95,
-      "status": "critical",
-      "main_cause": "軍事衝突、地政学的緊張",
+      "region": "east_asia",
+      "panic_index": 49,
+      "status": "unstable",
+      "main_cause": "生活必需品不足、政治的混乱、金融不安",
       "incidents": [
         {
-          "title": "イランがクウェート・UAEを爆撃、米軍がパニック状態",
-          "location": "Iran, Kuwait, UAE",
-          "severity": 95,
-          "description": "イランがクウェートとUAEを爆撃し、米軍部隊がパニック状態で逃走したとの報告。地域情勢は極めて緊迫しており、大規模な紛争と無秩序な逃避が発生する危険性がある。",
-          "source": "Oneindia"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 55,
-      "status": "volatile",
-      "main_cause": "金融不安、資源不足、政治的緊張",
-      "incidents": [
-        {
-          "title": "バングラデシュで預金者が取り付け騒ぎを懸念し抗議",
-          "location": "Bangladesh",
-          "severity": 75,
-          "description": "バングラデシュで合併銀行の預金者が「ヘアカット（預金削減）」のキャンセルを求め、死装束をまとって抗議。金融システムへの深刻な不信と取り付け騒ぎへの警戒が極めて高い。",
-          "source": "বার্তা ২৪"
+          "title": "バングラデシュで預金者が銀行への抗議デモ",
+          "location": "バングラデシュ",
+          "severity": 70,
+          "description": "合併銀行の預金切り捨てに抗議し、死装束をまとった預金者らがデモを実施。金融システムへの不信感と深刻な経済不安が社会に広がっています。",
+          "source": " বার্তা ২৪"
         },
         {
-          "title": "インドで小麦価格への抗議が激化",
-          "location": "India",
+          "title": "インド各地で長期的な水不足に抗議",
+          "location": "インド、ヴァスコ・ダ・ガマ",
           "severity": 60,
-          "description": "インドで小麦の最低支持価格（MSP）を巡る抗議が激化。農家の不満と食料供給の不安定化に対する懸念が広がっており、社会不安を増大させている。",
-          "source": "Meyka"
-        },
-        {
-          "title": "パキスタンで政治家らが反テロ法で起訴",
-          "location": "Pakistan",
-          "severity": 55,
-          "description": "パキスタンでイムラン・カーン元首相の親族ら1400人以上が反テロ法で起訴。政治的弾圧と見なされ、大規模な社会不安や抗議活動の激化につながる可能性がある。",
-          "source": "The Express Tribune"
-        },
-        {
-          "title": "インド・ゴア州で水不足への抗議",
-          "location": "India (Vasco da Gama, Goa)",
-          "severity": 45,
-          "description": "インドのゴア州で住民が一年間にわたる水不足に抗議。生活必需品の欠乏は、地域住民の不満と社会不安を増大させる要因となっている。",
+          "description": "ヴァスコ・ダ・ガマの住民が1年にわたる水不足に抗議デモを行い、当局が早期解決を約束。基本的な生活インフラの不足が住民の大きな不満となっています。",
           "source": "heraldgoa.in"
         },
         {
-          "title": "インド・マニプール州でデマと抗議の緊張",
-          "location": "India (Manipur)",
-          "severity": 40,
-          "description": "インドのマニプール州政府が、抗議活動の緊張の中でソーシャルメディア上のデマを非難。情報操作による社会不安の拡散が懸念される状況。",
+          "title": "パキスタンで政治家ら1,400人が反テロ法で起訴",
+          "location": "パキスタン",
+          "severity": 60,
+          "description": "イムラン・カーン元首相の姉妹やPTI指導者を含む約1,400人が反テロ法に基づき起訴され、政治的混乱と社会の緊張が高まっています。",
+          "source": "The Express Tribune"
+        },
+        {
+          "title": "インドでLPG供給不足と抗議活動",
+          "location": "インド、コインバトール/マンガルール",
+          "severity": 55,
+          "description": "LPG不足により朝食メニューが変更されたり、不規則な供給に対する抗議デモが発生。家庭用燃料の不安定さが市民生活に直接影響を与えています。",
+          "source": "The Hindu / newskarnataka.com"
+        },
+        {
+          "title": "インドでソーシャルメディアの噂と抗議の緊張",
+          "location": "インド、マニプール",
+          "severity": 55,
+          "description": "政府がソーシャルメディアの噂を否定する中、抗議活動の緊張が高まっています。誤情報が社会不安を煽る可能性が懸念されます。",
           "source": "Devdiscourse"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 70,
-      "status": "unstable",
-      "main_cause": "民族対立、人権問題",
+      "region": "middle_east",
+      "panic_index": 65,
+      "status": "critical",
+      "main_cause": "軍事衝突、地政学的緊張",
       "incidents": [
         {
-          "title": "インドネシア・パプア地域で死者を伴う暴動",
-          "location": "Indonesia (Papua region)",
-          "severity": 70,
-          "description": "インドネシアのパプア地域で死者を伴う暴動が発生し、人権侵害への懸念が高まっている。大規模な社会不安と秩序の混乱を示している。",
-          "source": "ucanews.com"
-        }
-      ]
-    },
-    {
-      "region": "oceania",
-      "panic_index": 60,
-      "status": "volatile",
-      "main_cause": "エネルギー不足",
-      "incidents": [
-        {
-          "title": "オーストラリアで燃料危機が進行中",
-          "location": "Australia",
-          "severity": 65,
-          "description": "オーストラリアでガソリン・ディーゼル価格の動向とサービスステーションの停止が報じられ、燃料危機が進行中。供給不安と買いだめを誘発する恐れがある。",
-          "source": "The Guardian"
+          "title": "イランによる空爆と米軍のパニック逃走",
+          "location": "イラン、クウェート、UAE",
+          "severity": 90,
+          "description": "イランがクウェートとUAEを爆撃したという報道があり、米軍がパニック状態で逃走したと報じられています。地域の軍事衝突が激化し、広範なパニック状態を招いています。",
+          "source": "Oneindia"
         },
         {
-          "title": "ディーゼル燃料不足の深刻化を警告",
-          "location": "Australia",
-          "severity": 55,
-          "description": "専門家がディーゼル燃料の不足が深刻化する可能性を警告。経済活動への広範な影響と、一般市民の不安増大につながる懸念が高まっている。",
-          "source": "9Now"
+          "title": "イラン戦争の不確実性による経済への影響",
+          "location": "ケニア / 中東全域",
+          "severity": 40,
+          "description": "イラン戦争を巡る不確実性により、ケニアが金利を維持するなどの経済政策に影響が出ています。中東の地政学的リスクが他地域の経済にも波及しています。",
+          "source": "Bloomberg.com"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 10,
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "地政学的リスクによる経済的潜在不安",
+      "incidents": [
+        {
+          "title": "イラン戦争の不確実性による金利政策への影響",
+          "location": "ケニア",
+          "severity": 40,
+          "description": "イラン戦争の不確実性が続く中、ケニア中央銀行が金利を維持する決定を下しました。これは地政学的リスクがアフリカ経済の安定性に影響を与えていることを示唆しています。",
+          "source": "Bloomberg.com"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 0,
       "status": "normal",
-      "main_cause": "特になし",
+      "main_cause": "なし",
       "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "政治的・社会的不安、暴動",
+      "incidents": [
+        {
+          "title": "インドネシアのパプア地域で致命的な暴動",
+          "location": "インドネシア、パプア",
+          "severity": 70,
+          "description": "インドネシアのパプア地域で死者を出す暴動が発生し、人権問題が注目されています。地域の不安定性が社会秩序の深刻な混乱を引き起こしています。",
+          "source": "ucanews.com"
+        },
+        {
+          "title": "ベトナム中央銀行総裁任命と政策圧力",
+          "location": "ベトナム",
+          "severity": 20,
+          "description": "ベトナムが中央銀行総裁を新たに任命した背景には、政策圧力の増大があります。直接的なパニックではないものの、金融市場の潜在的な不安要因です。",
+          "source": "Bloomberg.com"
+        }
+      ]
     }
   ]
 }
