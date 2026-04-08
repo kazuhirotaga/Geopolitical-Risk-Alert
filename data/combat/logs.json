@@ -1,5 +1,140 @@
 [
   {
+    "date": "2026-04-08",
+    "summary": "アメリカとイランの間で2週間の停戦合意が成立。しかし、イランは合意を無視する姿勢を見せている。アメリカ軍はイランのハルグ島にある軍事目標を攻撃。一方、ロシアはイランに対しサイバー支援と偵察画像を提供している。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-04-07",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカとイランの間で2週間の停戦合意",
+        "content": "トランプ大統領はイランとの間で2週間の停戦合意に達したと発表。しかし、イランは合意を無視する姿勢を示している。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/07/trump-says-he-has-agreed-to-two-week-ceasefire-with-iran/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-04-07",
+        "location": "イラン・ハルグ島",
+        "region": "middle_east",
+        "title": "アメリカ軍がイランのハルグ島にある軍事目標を攻撃",
+        "content": "アメリカ軍はイランのハルグ島にある軍事目標を攻撃。JD Vance副大統領は、今回の攻撃はアメリカの戦略変更ではないと述べた。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/07/us-hits-military-targets-on-irans-kharg-island/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-04-07",
+        "location": "不明",
+        "region": "middle_east",
+        "title": "ロシアがイランにサイバー支援と偵察画像を提供",
+        "content": "ウクライナの情報評価によると、ロシアの衛星がイランによるアメリカ軍攻撃を支援するため、軍事施設の詳細な画像調査を実施した。",
+        "involved_parties": [
+          "ロシア",
+          "イラン",
+          "アメリカ"
+        ],
+        "event_type": "cyber",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/middle-east/2026/04/07/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-04-07",
+        "location": "不明",
+        "region": "middle_east",
+        "title": "イスラエルとアメリカによるイランのWMDプログラムへの攻撃",
+        "content": "CIAの元イラン分析官によると、イスラエルとアメリカによる攻撃により、イランの大量破壊兵器（WMD）プログラムは崩壊状態にある。",
+        "involved_parties": [
+          "イスラエル",
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/07/irans-other-would-be-wmd-program-lies-in-ruins-following-strikes-by-israel-and-the-us/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-04-05",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ特殊部隊がイランから2人目のF-15パイロットを救出",
+        "content": "金曜日に撃墜されたF-15戦闘機の武器担当官が負傷したが、トランプ大統領は「問題ない」と発表した。アメリカ特殊部隊によって救出された。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-second-f-15-airman-from-iran/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-04-03",
+        "location": "ホルムズ海峡付近",
+        "region": "middle_east",
+        "title": "A-10攻撃機がホルムズ海峡付近で墜落",
+        "content": "アメリカ空軍のA-10サンダーボルトII攻撃機が、F-15E戦闘機が撃墜されたのとほぼ同時刻にホルムズ海峡付近で墜落したと報じられた。",
+        "involved_parties": [
+          "アメリカ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/a-10-warthog-crashes-near-strait-of-hormuz/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-04-03",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカのF-15E戦闘機がイラン上空で撃墜",
+        "content": "生存者の捜索救助活動が進行中。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
+      },
+      {
+        "id": "event-8",
+        "timestamp": "2026-04-01",
+        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAE",
+        "region": "middle_east",
+        "title": "イランがアメリカの航空戦力を支えるインフラを攻撃",
+        "content": "イランは、バーレーン、カタール、クウェート、サウジアラビア、UAEにあるアメリカ軍基地のレーダーシステム、衛星通信、重要な航空機を攻撃した。",
+        "involved_parties": [
+          "イラン",
+          "アメリカ"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-07",
     "summary": "中東地域でアメリカとイランの緊張が高まる。アメリカ軍はイランのKharg島を攻撃。イランはアメリカ軍基地への攻撃を実施。ホルムズ海峡付近ではA-10攻撃機が墜落、F-15E戦闘機が撃墜される事態が発生。",
     "events": [

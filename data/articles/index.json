@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-08",
+    "summary": "米イランが2週間の停戦で合意し、ホルムズ海峡の安全航行が一時的に確保される見込み。しかし、北朝鮮のミサイル発射やウクライナ情勢など、地政学的リスクは依然として高い。世界経済への影響も注視が必要。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "high",
+      "southeast_asia": "medium",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "high",
+      "europe": "medium",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "low"
+    },
+    "generated_at": "2026-04-08T02:46:54.266913"
+  },
+  {
     "date": "2026-04-07",
     "summary": "中東情勢が極めて不安定化。アメリカとイランの軍事衝突が激化し、ホルムズ海峡の封鎖が継続。ウクライナ情勢も膠着状態が続く。世界的なエネルギー供給と人道支援に深刻な影響が出ている。",
     "overall_risk_level": "critical",
