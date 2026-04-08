@@ -1,176 +1,174 @@
 {
   "date": "2026-04-08",
-  "summary": "世界各地で食料やエネルギーの不足、政治的緊張、地域紛争が社会不安を引き起こしています。特に南アジアでは、生活必需品の供給不安に対する大規模な抗議活動が頻発し、一部地域では騒乱が報告されています。ヨーロッパの一部やオーストラリアでも燃料不足が市民生活に影響を与え、金融市場の不確実性も懸念されています。北米や東アジアは比較的安定していますが、詐欺による局地的なパニックや公共サービスへの影響が見られます。全体として、複数の要因が複合的に作用し、社会の緊迫度が増しています。",
-  "global_panic_index": 58,
+  "summary": "世界各地で、エネルギー不足、金融不安、資源欠乏、政治的緊張が複合的に社会不安を増大させています。特に中東では軍事衝突による極度のパニックが報じられ、欧州では燃料不足が市民生活に深刻な影響を与え、南アジアでは金融不安と食料・水問題が深刻化しています。全体として、局所的なパニックから広範な警戒状態に移行しつつある状況です。",
+  "global_panic_index": 65,
   "regions": [
-    {
-      "region": "north_america",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "詐欺による局地的な社会不安",
-      "incidents": [
-        {
-          "title": "詐欺メールによるパニック発生",
-          "location": "アメリカ、ウェストチェスター",
-          "severity": 50,
-          "description": "偽の裁判所からのテキスト詐欺が金銭を要求し、住民間でパニックを引き起こしています。これは局地的な情報混乱と社会不安の事例です。",
-          "source": "News12 | Westchester"
-        }
-      ]
-    },
     {
       "region": "europe",
       "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "燃料不足、金融市場の不確実性、医療リソースの懸念",
+      "status": "volatile",
+      "main_cause": "エネルギー不足、金融システムへの不信",
       "incidents": [
         {
-          "title": "フランス全土での大規模な燃料不足",
-          "location": "フランス",
-          "severity": 75,
-          "description": "数百に及ぶガソリンスタンドが燃料切れとなり、市民の移動や物流に深刻な影響を与え、広範な社会不安を引き起こしています。買いだめや供給不安が懸念されます。",
+          "title": "フランスで広範な燃料不足",
+          "location": "France",
+          "severity": 70,
+          "description": "フランス国内で数百のガソリンスタンドが燃料不足により閉鎖。市民生活への影響が大きく、移動への制約や買いだめを誘発する可能性があり、警戒状態にある。",
           "source": "logos-pres.md"
         },
         {
-          "title": "英国からの銀行撤退表明",
-          "location": "イギリス",
-          "severity": 60,
-          "description": "ある銀行が不公平な金融法案に抗議し、英国からの撤退を発表しました。これは金融市場の不確実性を高め、経済的な混乱を引き起こす可能性を秘めています。",
+          "title": "英国で銀行が事業撤退を表明",
+          "location": "UK (Britain)",
+          "severity": 55,
+          "description": "英国で大手銀行が不当な自動車金融法案への抗議として事業撤退を表明。金融システムへの信頼に揺らぎを与え、潜在的な不安を煽っている。",
           "source": "The Telegraph"
         },
         {
-          "title": "アイルランドでの血液在庫の深刻な不足",
-          "location": "アイルランド",
-          "severity": 65,
-          "description": "アイルランドの献血サービスは、血液在庫が非常に低くなっているとして献血を呼びかけています。これは公衆衛生システムへの懸念を高め、医療不安を引き起こしています。",
-          "source": "Extra.ie"
+          "title": "英国における燃料価格高騰",
+          "location": "UK",
+          "severity": 45,
+          "description": "英国全土で燃料価格が上昇しており、消費者の間で経済的な負担と今後の供給不安に関する懸念が広がっている。",
+          "source": "BBC"
         },
         {
-          "title": "イギリスで食料銀行の運営継続",
-          "location": "イギリス、パディントン",
-          "severity": 25,
-          "description": "ロンドンのパディントンで食料銀行が運営されており、食料不安を抱える住民への支援が継続されています。これは社会のセーフティネットの重要性を示す一方、食料不安の根深さも示唆しています。",
+          "title": "ロンドンでフードバンクが活動拡大",
+          "location": "UK (Paddington, Westminster)",
+          "severity": 30,
+          "description": "ロンドン中心部でフードバンクが支援を拡大。食料アクセスへの懸念が高まっている社会状況を示唆している。",
           "source": "Yahoo"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "地域紛争、社会不安",
-      "incidents": [
-        {
-          "title": "インドネシア・パプア地域での致命的な騒乱",
-          "location": "インドネシア、パプア地域",
-          "severity": 85,
-          "description": "インドネシアのパプア地域で致命的な騒乱が発生し、人権団体からの監視が強まっています。これは地域における深刻な紛争と暴力が、市民生活を脅かしパニック状態に近い状況を示しています。",
-          "source": "ucanews.com"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 45,
+      "region": "north_america",
+      "panic_index": 35,
       "status": "unstable",
-      "main_cause": "労働力不足、公共サービスへの影響",
+      "main_cause": "経済的圧力、局所的な詐欺被害",
       "incidents": [
         {
-          "title": "香港での公共交通機関の運行混乱",
-          "location": "香港、屯門",
-          "severity": 55,
-          "description": "スタッフ不足を理由に屯門の住民バスが一時的な運行変更を行い、交通局が懸念を表明しました。これは市民の日常生活に影響を与え、不便と潜在的な社会不安を引き起こします。",
-          "source": "The Standard (HK)"
+          "title": "偽の裁判所詐欺メールがパニックを誘発",
+          "location": "USA (Westchester, NY)",
+          "severity": 40,
+          "description": "ニューヨーク州で偽の裁判所からのテキスト詐欺が金銭を要求し、住民の間に一時的なパニックを引き起こした。社会的な不安に乗じた詐欺行為への警戒が広がっている。",
+          "source": "News12 | Westchester"
+        },
+        {
+          "title": "カナダ・エドモントンでガソリン価格高騰",
+          "location": "Canada (Edmonton)",
+          "severity": 35,
+          "description": "エドモントンの慈善団体が高騰するガソリン価格の影響を受け始めており、燃料費上昇が地域経済と生活に与える圧力が増大している。",
+          "source": "CityNews Edmonton"
+        },
+        {
+          "title": "イスラエルへの抗議デモ",
+          "location": "USA (Amherst)",
+          "severity": 30,
+          "description": "アムハーストの地元住民が、イスラエルによる暴力行為に対し抗議デモを実施。地域社会の意見対立と社会的な緊張を示している。",
+          "source": "Amherst Indy"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 60,
-      "status": "volatile",
-      "main_cause": "地域紛争の緊張",
+      "panic_index": 95,
+      "status": "critical",
+      "main_cause": "軍事衝突、地政学的緊張",
       "incidents": [
         {
-          "title": "イスラエルとレバノン間の停戦交渉の不確実性",
-          "location": "イスラエル、レバノン",
-          "severity": 60,
-          "description": "イスラエルが一時停戦を支持するも、レバノンは含まれないと表明。地域紛争の緊張が続き、国境地域住民の不安と潜在的なパニックの懸念が払拭されません。",
-          "source": "Radio Free Europe/Radio Liberty"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 60,
-      "status": "volatile",
-      "main_cause": "政治的緊張、潜在的な騒乱",
-      "incidents": [
-        {
-          "title": "ナイジェリアでの潜在的な騒乱計画",
-          "location": "ナイジェリア",
-          "severity": 60,
-          "description": "著名なインフルエンサーが、デモと騒乱を主導する計画について国家治安局から接触があったことを明らかにしました。これは大規模な政治的抗議活動や社会不安の潜在的なリスクを示唆しています。",
-          "source": "Daily Post Nigeria"
+          "title": "イランがクウェート・UAEを爆撃、米軍がパニック状態",
+          "location": "Iran, Kuwait, UAE",
+          "severity": 95,
+          "description": "イランがクウェートとUAEを爆撃し、米軍部隊がパニック状態で逃走したとの報告。地域情勢は極めて緊迫しており、大規模な紛争と無秩序な逃避が発生する危険性がある。",
+          "source": "Oneindia"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 70,
+      "panic_index": 55,
       "status": "volatile",
-      "main_cause": "食料・エネルギー・水不足、政治的緊張、地域紛争、情報混乱",
+      "main_cause": "金融不安、資源不足、政治的緊張",
       "incidents": [
         {
-          "title": "インド・マニプール州での抗議デモと情報混乱",
-          "location": "インド、マニプール州",
-          "severity": 80,
-          "description": "抗議デモの緊張が高まる中、マニプール州政府はソーシャルメディア上の噂を非難しています。これは社会不安が情報混乱によって増幅され、秩序維持が困難になっている状況を示します。",
-          "source": "devdiscourse.com"
-        },
-        {
-          "title": "インド・マニプール州での騒乱とインターネット規制",
-          "location": "インド、マニプール州",
-          "severity": 78,
-          "description": "継続する騒乱の中で、州首相が紛争地域を訪問し、一部でインターネット規制が緩和されました。これは、長期化する地域紛争と情報統制が社会の安定を脅かしていることを示しています。",
-          "source": "assamtribune.com"
-        },
-        {
-          "title": "パキスタンでの大規模政治的逮捕",
-          "location": "パキスタン",
+          "title": "バングラデシュで預金者が取り付け騒ぎを懸念し抗議",
+          "location": "Bangladesh",
           "severity": 75,
-          "description": "イムラン・カーン元首相の姉妹やPTI指導者を含む1,400人以上が反テロ法で起訴されました。これは広範な政治的弾圧と社会不安を引き起こし、市民の抗議活動激化に繋がる可能性があります。",
+          "description": "バングラデシュで合併銀行の預金者が「ヘアカット（預金削減）」のキャンセルを求め、死装束をまとって抗議。金融システムへの深刻な不信と取り付け騒ぎへの警戒が極めて高い。",
+          "source": "বার্তা ২৪"
+        },
+        {
+          "title": "インドで小麦価格への抗議が激化",
+          "location": "India",
+          "severity": 60,
+          "description": "インドで小麦の最低支持価格（MSP）を巡る抗議が激化。農家の不満と食料供給の不安定化に対する懸念が広がっており、社会不安を増大させている。",
+          "source": "Meyka"
+        },
+        {
+          "title": "パキスタンで政治家らが反テロ法で起訴",
+          "location": "Pakistan",
+          "severity": 55,
+          "description": "パキスタンでイムラン・カーン元首相の親族ら1400人以上が反テロ法で起訴。政治的弾圧と見なされ、大規模な社会不安や抗議活動の激化につながる可能性がある。",
           "source": "The Express Tribune"
         },
         {
-          "title": "インド・コインバートルでのLPG不足による食料供給への影響",
-          "location": "インド、コインバートル",
-          "severity": 68,
-          "description": "LPG不足により、市民食堂「アンマ・ウナヴァガム」の朝食メニューが変更されました。これはエネルギー不足が市民の食料供給に直接影響を与え、生活不安を高める事態です。",
-          "source": "The Hindu"
+          "title": "インド・ゴア州で水不足への抗議",
+          "location": "India (Vasco da Gama, Goa)",
+          "severity": 45,
+          "description": "インドのゴア州で住民が一年間にわたる水不足に抗議。生活必需品の欠乏は、地域住民の不満と社会不安を増大させる要因となっている。",
+          "source": "heraldgoa.in"
         },
         {
-          "title": "インド・ゴアでの1年続く水不足に対する抗議デモ",
-          "location": "インド、ヴァスコ・ダ・ガマ",
-          "severity": 65,
-          "description": "ヴァスコ・ダ・ガマの住民が1年間にわたる水不足に抗議デモを実施。生活必需品の長期的な不足が住民の不満を募らせ、社会不安の深刻化を招いています。",
-          "source": "heraldgoa.in"
+          "title": "インド・マニプール州でデマと抗議の緊張",
+          "location": "India (Manipur)",
+          "severity": 40,
+          "description": "インドのマニプール州政府が、抗議活動の緊張の中でソーシャルメディア上のデマを非難。情報操作による社会不安の拡散が懸念される状況。",
+          "source": "Devdiscourse"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 70,
+      "status": "unstable",
+      "main_cause": "民族対立、人権問題",
+      "incidents": [
+        {
+          "title": "インドネシア・パプア地域で死者を伴う暴動",
+          "location": "Indonesia (Papua region)",
+          "severity": 70,
+          "description": "インドネシアのパプア地域で死者を伴う暴動が発生し、人権侵害への懸念が高まっている。大規模な社会不安と秩序の混乱を示している。",
+          "source": "ucanews.com"
         }
       ]
     },
     {
       "region": "oceania",
-      "panic_index": 65,
+      "panic_index": 60,
       "status": "volatile",
-      "main_cause": "燃料不足",
+      "main_cause": "エネルギー不足",
       "incidents": [
         {
-          "title": "オーストラリアでの燃料危機",
-          "location": "オーストラリア",
-          "severity": 70,
-          "description": "オーストラリアでは燃料価格の高騰に加え、ガソリンスタンドでの供給停止や出荷の問題が発生し、「燃料危機」と報じられています。これは市民生活に直接的な影響を与え、広範な不満と買いだめを招く可能性があります。",
+          "title": "オーストラリアで燃料危機が進行中",
+          "location": "Australia",
+          "severity": 65,
+          "description": "オーストラリアでガソリン・ディーゼル価格の動向とサービスステーションの停止が報じられ、燃料危機が進行中。供給不安と買いだめを誘発する恐れがある。",
           "source": "The Guardian"
+        },
+        {
+          "title": "ディーゼル燃料不足の深刻化を警告",
+          "location": "Australia",
+          "severity": 55,
+          "description": "専門家がディーゼル燃料の不足が深刻化する可能性を警告。経済活動への広範な影響と、一般市民の不安増大につながる懸念が高まっている。",
+          "source": "9Now"
         }
       ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
     }
   ]
 }

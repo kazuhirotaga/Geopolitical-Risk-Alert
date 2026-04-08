@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-04-08",
-    "summary": "米イラン間の停戦合意により、原油価格が急落し、株式市場は急騰。暗号資産市場も連動して上昇。ただし、停戦は一時的なものであり、トランプ大統領の追加関税措置や地政学的リスクは依然として高い。",
+    "summary": "本日、イランとの停戦合意により市場は一時的に安定を取り戻したが、原油価格の変動、インフレ懸念、暗号資産規制の強化など、依然として多くのリスク要因が残る。特に、地政学的リスクと金融政策の不確実性が市場の変動性を高める可能性がある。",
     "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "medium",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "high"
+      "east_asia": "none",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "medium"
     },
-    "generated_at": "2026-04-08T13:43:11.693813"
+    "generated_at": "2026-04-08T16:18:30.622562"
   },
   {
     "date": "2026-04-07",
