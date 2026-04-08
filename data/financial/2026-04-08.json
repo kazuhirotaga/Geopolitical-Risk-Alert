@@ -1,17 +1,18 @@
 {
   "date": "2026-04-08",
-  "summary": "中東情勢の緩和により、アジア市場は上昇。原油価格は急落し、ビットコインは急騰。しかし、イラン戦争が長期化した場合の経済への影響や、暗号資産市場における詐欺リスク、量子コンピュータによる脅威など、依然としてリスク要因は多い。",
+  "summary": "米イラン間の停戦合意により、世界的にリスク資産が上昇。原油価格は急落し、株式市場は好調。しかし、インフレリスクや暗号資産市場の不安定性、地政学的リスクは依然として存在し、注意が必要。",
   "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "South Korea stocks lead gains in Asia as oil prices plunge after U.S.-Iran ceasefire deal",
-      "region": "east_asia",
+      "title": "U.S.-Iran ceasefire relief rally lifts global assets as oil plunges below $100",
+      "region": "global",
       "risk_level": "low",
-      "summary": "トランプ大統領がイランへの攻撃を2週間停止することで合意したため、アジア太平洋市場は上昇。原油価格が急落し、韓国株式市場が上昇を牽引。",
-      "analysis": "中東における地政学的リスクの緩和は、アジア市場に短期的な安心感を与えている。特に、原油価格の下落は、エネルギー輸入依存度の高い韓国経済にとってプラス要因。ただし、停戦は一時的なものであり、今後の情勢次第では再びリスクが高まる可能性がある。地政学的リスクは引き続き注視する必要がある。",
+      "summary": "米イラン間の停戦合意により、リスク資産が広範囲に上昇。安全資産である金や米国債も上昇。",
+      "analysis": "停戦合意は市場心理を大きく改善させ、リスクオンの流れを加速させている。原油価格の下落はインフレ懸念を緩和する可能性がある。ただし、停戦期間が2週間と限定的であるため、今後の動向を注視する必要がある。安全資産の上昇は、市場の不確実性に対する警戒感も残っていることを示唆。",
       "key_entities": [
-        "Donald Trump",
-        "Iran"
+        "U.S.",
+        "Iran",
+        "Oil"
       ],
       "sources": [
         "CNBC - Top News"
@@ -21,15 +22,15 @@
       ]
     },
     {
-      "title": "Oil prices plunge below $100 after Iran agrees to safe passage through Strait of Hormuz during ceasefire",
-      "region": "middle_east",
-      "risk_level": "low",
-      "summary": "トランプ大統領がパキスタン首相との協議後、イランとの停戦に合意。ホルムズ海峡の安全な通過が保証され、原油価格は100ドルを下回る。",
-      "analysis": "ホルムズ海峡の安全確保は、世界のエネルギー市場にとって重要な意味を持つ。原油価格の下落は、インフレ抑制に寄与する可能性があるが、エネルギー関連企業の収益にはマイナスの影響を与える。停戦合意は、地政学的リスクを一時的に緩和するものの、根本的な問題解決には至っていないため、今後の動向を注視する必要がある。",
+      "title": "India's central bank holds benchmark policy rates as Iran war raises inflation risks",
+      "region": "south_asia",
+      "risk_level": "medium",
+      "summary": "イラン戦争によるエネルギーコスト上昇と供給混乱を受け、インド中央銀行はインフレリスクを警戒し政策金利を据え置き。",
+      "analysis": "インド経済は、イラン戦争による原油価格の高騰と供給網の混乱という二重の圧力に直面している。中央銀行が金利を据え置いたことは、成長への配慮を示す一方で、インフレ抑制への強い意志も示唆している。今後の原油価格の動向と、それに対する政府・中央銀行の対応が重要となる。",
       "key_entities": [
-        "Donald Trump",
+        "India's central bank",
         "Iran",
-        "Shehbaz Sharif"
+        "Oil"
       ],
       "sources": [
         "CNBC - Top News"
@@ -40,12 +41,14 @@
     },
     {
       "title": "Bitcoin vaults past $72,000 as U.S. stock futures surge on a two‑week U.S.–Iran ceasefire",
-      "region": "middle_east",
+      "region": "global",
       "risk_level": "medium",
-      "summary": "米国とイランの2週間の停戦合意を受け、米国株先物が急騰し、ビットコインも72,000ドルを超えた。",
-      "analysis": "地政学的リスクの緩和は、リスク資産への投資意欲を高め、ビットコイン価格の上昇を後押ししている。しかし、暗号資産市場はボラティリティが高く、停戦の状況次第では急落する可能性もある。また、暗号資産市場は規制が未整備な部分が多く、詐欺や不正行為のリスクも高い。投資には十分な注意が必要。",
+      "summary": "米イラン間の停戦合意を受け、米国株先物が上昇し、ビットコインも72,000ドルを超えた。",
+      "analysis": "停戦合意によるリスクオン心理が、暗号資産市場にも波及している。ビットコインの上昇は、投資家のリスク選好度が高まっていることを示す。しかし、暗号資産市場は依然としてボラティリティが高く、停戦期間終了後の動向には注意が必要。また、過去の報道から、地政学的リスクが高まると暗号資産が買われる傾向も見られる。",
       "key_entities": [
-        "Bitcoin"
+        "Bitcoin",
+        "U.S.",
+        "Iran"
       ],
       "sources": [
         "CoinDesk"
@@ -55,13 +58,15 @@
       ]
     },
     {
-      "title": "Cramer says Tuesday’s stock market action gives investors a glimpse of the U.S. economy’s fate if Iran war persists",
+      "title": "Oil prices plunge below $100 after Iran agrees to safe passage through Strait of Hormuz during ceasefire",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "CNBCのジム・クレイマーは、イラン戦争が長期化した場合、米経済は「弱い消費者とインフレ」という悪いニュースに直面すると指摘。",
-      "analysis": "イラン戦争の長期化は、原油価格の高騰を通じてインフレを加速させ、消費者の購買力を低下させる可能性がある。また、地政学的リスクの高まりは、企業の投資意欲を減退させ、経済成長を阻害する要因となる。クレイマー氏の指摘は、地政学的リスクが経済に与える潜在的な影響を示唆しており、注意が必要。",
+      "risk_level": "low",
+      "summary": "イランが停戦期間中、ホルムズ海峡の安全な航行に合意したことを受け、原油価格が100ドルを下回る。",
+      "analysis": "ホルムズ海峡の安全確保は、原油供給の安定化に繋がり、市場の安心感を高めている。原油価格の下落は、世界経済のインフレ圧力を緩和する可能性がある。ただし、停戦期間が終了すれば、再び供給不安が高まる可能性もある。",
       "key_entities": [
-        "Jim Cramer"
+        "Iran",
+        "Oil",
+        "Strait of Hormuz"
       ],
       "sources": [
         "CNBC - Top News"
@@ -74,76 +79,11 @@
       "title": "Americans’ losses to crypto scams rose to over $11 billion last year, FBI reports",
       "region": "global",
       "risk_level": "high",
-      "summary": "FBIの報告によると、アメリカ人が暗号資産詐欺で失った金額は昨年110億ドルを超えた。",
-      "analysis": "暗号資産市場における詐欺被害の増加は、投資家保護の観点から深刻な問題。規制の強化や投資家教育の推進が急務。また、暗号資産取引所のセキュリティ対策の強化も不可欠。詐欺被害の増加は、暗号資産市場全体の信頼性を損なう可能性があり、今後の発展を阻害する要因となる。",
+      "summary": "FBIの報告によると、暗号資産詐欺によるアメリカ人の損失は昨年110億ドルを超えた。",
+      "analysis": "暗号資産市場における詐欺被害の増加は、投資家保護の観点から大きな問題である。規制の強化や投資家教育の推進が急務である。また、DeFiの利回りが低下し、伝統的な金融商品との競争力を失っていることも、投資家のリスク回避姿勢を強める可能性がある。",
       "key_entities": [
-        "FBI"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin quantum threat is real and closer than it looks, says Nobel prize winning physicist",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "ノーベル賞受賞物理学者は、ビットコインに対する量子コンピュータの脅威は現実であり、予想よりも近いと警告。",
-      "analysis": "量子コンピュータの発展は、暗号資産のセキュリティを脅かす可能性があり、長期的なリスク要因となる。量子コンピュータによる攻撃から暗号資産を守るためには、新たな暗号技術の開発や、量子コンピュータ耐性のあるブロックチェーンへの移行が必要となる。この問題は、暗号資産市場の将来に大きな影響を与える可能性がある。",
-      "key_entities": [
-        "Bitcoin"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "‘The thaw is real': Indian delegation visits China to talk EVs and more",
-      "region": "east_asia",
-      "risk_level": "low",
-      "summary": "イラン戦争がエネルギーの流れを混乱させる中、インド企業は5年ぶりに中国を訪問し、EV、バッテリー、再生可能エネルギーでの提携を模索。",
-      "analysis": "地政学的リスクの高まりは、エネルギー供給の多様化を促し、インドと中国の経済関係を改善するきっかけとなっている。EVや再生可能エネルギー分野での協力は、両国の経済成長に貢献する可能性がある。ただし、米中関係や印パ関係など、地政学的なリスクは依然として存在するため、今後の動向を注視する必要がある。",
-      "key_entities": [
-        "India",
-        "China"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Stablecoin issuers get closer to U.S. federal rules with FDIC's new proposal",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "FDICの新たな提案により、ステーブルコイン発行者は米国の連邦規則に近づく。",
-      "analysis": "ステーブルコインに対する規制の明確化は、暗号資産市場の安定化に寄与する可能性がある。FDICの提案は、ステーブルコイン発行者に対する透明性や資本要件を強化するものであり、投資家保護の向上につながる。しかし、規制が厳格化されることで、ステーブルコインのイノベーションが阻害される可能性もある。規制とイノベーションのバランスが重要。",
-      "key_entities": [
-        "FDIC",
-        "Stablecoin"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "DeFi yields are crashing so hard that they can't compete with a traditional savings account",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "DeFiの利回りが急落し、従来の貯蓄口座と競争できなくなっている。",
-      "analysis": "DeFi市場の成熟に伴い、高利回りを維持することが難しくなっている。DeFiの利回りが低下すると、投資家の関心が薄れ、市場全体の流動性が低下する可能性がある。DeFi市場の持続的な成長のためには、新たな収益源の開拓や、リスク管理の強化が必要となる。",
-      "key_entities": [
-        "DeFi"
+        "FBI",
+        "Crypto Scams"
       ],
       "sources": [
         "CoinDesk"
@@ -156,14 +96,85 @@
       "title": "Anthropic limits Mythos AI rollout over fears hackers could use model for cyberattacks",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Anthropicは、ハッカーがサイバー攻撃にモデルを使用する恐れがあるため、Mythos AIの展開を制限。",
-      "analysis": "AI技術の発展は、サイバーセキュリティのリスクを高める可能性があり、注意が必要。AIモデルが悪用されると、高度なサイバー攻撃が容易になり、企業や政府機関に甚大な被害をもたらす可能性がある。AI技術の開発と同時に、セキュリティ対策の強化が不可欠。",
+      "summary": "Anthropicは、ハッカーがサイバー攻撃に利用する恐れがあるとして、Mythos AIの展開を制限。",
+      "analysis": "AI技術の発展は、サイバーセキュリティのリスクを高める可能性も孕んでいる。Anthropicの措置は、AI開発における倫理的な配慮とセキュリティ対策の重要性を示唆している。企業は、AI技術の利用にあたり、セキュリティリスクを十分に評価し、適切な対策を講じる必要がある。",
       "key_entities": [
         "Anthropic",
-        "Mythos AI"
+        "Mythos AI",
+        "Cyberattacks"
       ],
       "sources": [
         "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "DeFi yields are crashing so hard that they can't compete with a traditional savings account",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "DeFiの利回りが低下し、従来の預金口座と競争できなくなっている。",
+      "analysis": "DeFi市場の成熟が進むにつれて、利回りが低下するのは自然な流れである。しかし、利回りの低下は、DeFiへの投資魅力を低下させ、資金流出を招く可能性がある。DeFiプラットフォームは、新たな収益源の開拓やリスク管理の強化など、持続的な成長に向けた戦略を模索する必要がある。",
+      "key_entities": [
+        "DeFi"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "European stocks set to soar after U.S.-Iran ceasefire deal",
+      "region": "europe",
+      "risk_level": "low",
+      "summary": "米イラン間の停戦合意のニュースを受け、欧州株式市場は大幅な上昇が見込まれる。",
+      "analysis": "停戦合意は、欧州経済に対する地政学的リスクを軽減し、投資家の信頼感を高めている。特に、エネルギー関連株や旅行関連株など、地政学的リスクに敏感なセクターの上昇が期待される。ただし、停戦期間が限定的であるため、今後の動向には注意が必要。",
+      "key_entities": [
+        "European stocks",
+        "U.S.",
+        "Iran"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "South Korea stocks lead gains in Asia as oil prices plunge after U.S.-Iran ceasefire deal",
+      "region": "east_asia",
+      "risk_level": "low",
+      "summary": "米イラン間の停戦合意後、原油価格が急落し、アジア太平洋市場は上昇。特に韓国株が上昇を牽引。",
+      "analysis": "原油価格の下落は、韓国経済のインフレ圧力を緩和し、企業収益の改善に繋がる可能性がある。また、地政学的リスクの軽減は、韓国市場に対する投資家の信頼感を高めている。ただし、北朝鮮情勢など、地域特有のリスク要因には引き続き注意が必要。",
+      "key_entities": [
+        "South Korea stocks",
+        "Oil",
+        "U.S.",
+        "Iran"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin quantum threat is real and closer than it looks, says Nobel prize winning physicist",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "ノーベル賞受賞物理学者は、ビットコインに対する量子コンピュータの脅威は現実であり、予想よりも近いと指摘。",
+      "analysis": "量子コンピュータの発展は、ビットコインのセキュリティを脅かす可能性がある。量子コンピュータが実用化されれば、ビットコインの暗号化技術が破られ、大規模な不正アクセスや二重支払いが可能になる恐れがある。ビットコインの開発者は、量子コンピュータに対する耐性を高めるための対策を講じる必要がある。",
+      "key_entities": [
+        "Bitcoin",
+        "Quantum Computing"
+      ],
+      "sources": [
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -173,10 +184,10 @@
   "region_risk_map": {
     "global": "high",
     "north_america": "medium",
-    "europe": "none",
+    "europe": "low",
     "east_asia": "low"
   },
-  "generated_at": "2026-04-08T02:47:16.305379",
+  "generated_at": "2026-04-08T05:16:02.029915",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
