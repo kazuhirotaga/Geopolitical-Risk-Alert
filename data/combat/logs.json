@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-04-09",
+    "summary": "アメリカとイランの間で停戦合意が成立。しかし、アメリカ軍は中東に駐留を継続。停戦期間中にもかかわらず、イランはアメリカの戦略を無視する姿勢を崩さず。ロシアはイランへのサイバー支援と偵察画像提供を継続。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-04-08",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "米イラン停戦合意成立、アメリカ軍は中東に駐留継続",
+        "content": "アメリカとイランの間で2週間の停戦合意が成立したが、アメリカ軍は中東への駐留を継続。イランは依然としてホルムズ海峡に対する影響力を保持。米軍の空爆による被害にも関わらず、イランは強硬な姿勢を維持。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/08/us-forces-will-be-hanging-around-middle-east-after-iran-ceasefire-hegseth-says/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-04-07",
+        "location": "イラン・ハルグ島",
+        "region": "middle_east",
+        "title": "アメリカ軍、イラン・ハルグ島の軍事目標を攻撃",
+        "content": "アメリカ軍がイランのハルグ島にある軍事目標を攻撃。JD Vance副大統領は、この攻撃がアメリカの戦略変更ではないと発言。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/07/us-hits-military-targets-on-irans-kharg-island/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-04-07",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "ロシア、イランにサイバー支援と偵察画像を提供",
+        "content": "ウクライナの情報評価によると、ロシアの衛星がアメリカ軍を攻撃するために、イランを支援する目的で軍事施設の詳細な画像調査を実施。",
+        "involved_parties": [
+          "ロシア軍",
+          "イラン軍",
+          "アメリカ軍"
+        ],
+        "event_type": "cyber",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/middle-east/2026/04/07/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-04-05",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ特殊部隊、2人目のF-15パイロットをイランから救出",
+        "content": "アメリカ特殊部隊が、撃墜されたF-15ジェット機の兵器担当官である2人目のパイロットをイランから救出。パイロットは負傷したが、無事であるとトランプ大統領が発表。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-second-f-15-airman-from-iran/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-04-03",
+        "location": "ホルムズ海峡付近",
+        "region": "middle_east",
+        "title": "A-10攻撃機がホルムズ海峡付近で墜落",
+        "content": "アメリカ空軍のA-10攻撃機がホルムズ海峡付近で墜落。同時期にF-15E戦闘機も撃墜された。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/a-10-warthog-crashes-near-strait-of-hormuz/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-04-03",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ軍F-15E戦闘機がイラン上空で撃墜",
+        "content": "アメリカ軍のF-15E戦闘機がイラン上空で撃墜され、生存者の捜索救助活動が行われている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "other",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-08",
     "summary": "アメリカとイランの間で停戦合意が成立。しかし、停戦後もアメリカ軍は中東に駐留を継続する見込み。ロシアがイランへサイバー支援と偵察画像を提供し、アメリカ軍への攻撃を支援しているとウクライナが発表。アメリカ軍はイランのハルグ島にある軍事目標を攻撃。",
     "events": [
