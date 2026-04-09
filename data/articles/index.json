@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-09",
-    "summary": "中東情勢が緊迫化。米イラン停戦合意後もイスラエルによるレバノン攻撃が継続し、合意の履行が危ぶまれる。ウクライナ情勢も膠着状態。北朝鮮のミサイル発射も継続し、東アジアの緊張も高まっている。",
+    "summary": "米イランが2週間停戦で合意するも、イスラエルがレバノンを大規模攻撃し、停戦合意の履行に不透明感が漂う。ウクライナ情勢も依然として不安定。北朝鮮のミサイル発射も継続し、東アジアの緊張も高まっている。",
     "overall_risk_level": "high",
-    "article_count": 7,
+    "article_count": 9,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "medium",
-      "south_asia": "medium",
+      "south_asia": "low",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
+      "europe": "high",
       "africa": "medium",
-      "north_america": "medium",
+      "north_america": "low",
       "south_america": "none"
     },
-    "generated_at": "2026-04-09T05:13:39.390280"
+    "generated_at": "2026-04-09T07:43:46.722575"
   },
   {
     "date": "2026-04-08",
