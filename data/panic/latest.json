@@ -1,157 +1,143 @@
 {
   "date": "2026-04-09",
-  "summary": "世界各地でパニックと社会不安が広範に観測されており、特に中東地域では軍事衝突が激化し、住民のパニック状態が報じられています。ヨーロッパでは燃料供給危機が深刻化し、アイルランドやフランスで社会インフラへの影響が顕著です。アジア地域では金融不安に加え、食料・水・エネルギーといった生活必需品の不足に対する大規模な抗議活動が頻発しています。全体的に、資源不足と政治的・経済的緊張が社会の安定を脅かす要因となっています。",
-  "global_panic_index": 54,
+  "summary": "世界各地では、中東における軍事衝突が極めて高いパニック状態を引き起こしています。一方、ヨーロッパでは燃料供給の不安定さが、アジアでは食料・エネルギー・水資源の不足と政治的抑圧が社会不安を増大させています。金融システムへの懸念も散見され、一部地域では預金者の抗議や銀行の撤退動向が報じられています。全体としては資源不足と地政学的緊張が主な懸念材料です。",
+  "global_panic_index": 68,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 57,
-      "status": "unstable",
-      "main_cause": "エネルギー供給不足、金融システムへの不信",
+      "region": "north_america",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "詐欺による情報不安",
       "incidents": [
         {
-          "title": "フランスでの広範な燃料不足",
-          "location": "フランス",
-          "severity": 75,
-          "description": "数百のガソリンスタンドで燃料が枯渇し、交通や物流に深刻な影響が出ており、住民の生活に大きな混乱を引き起こしています。",
-          "source": "logos-pres.md"
-        },
-        {
-          "title": "アイルランドの深刻な燃料供給危機",
-          "location": "アイルランド",
-          "severity": 80,
-          "description": "貯蔵所の封鎖により燃料不足が深刻化し、「国家的な妨害行為」とまで指摘されており、広範な社会機能停止の懸念が高まっています。",
-          "source": "Irish Examiner"
-        },
-        {
-          "title": "英国における金融機関の撤退表明",
-          "location": "英国",
-          "severity": 55,
-          "description": "特定の規制制度への抗議として、複数の金融機関が英国市場からの撤退を表明。経済の先行きに対する不安が広がっています。",
-          "source": "The Telegraph"
-        },
-        {
-          "title": "英国でのフードバンクの運営継続",
-          "location": "英国・パディントン",
-          "severity": 20,
-          "description": "ウェストミンスター市議会との連携でフードバンクが運営されていることは、一部地域で食料不安や貧困問題が継続していることを示唆しています。",
-          "source": "Yahoo"
+          "title": "偽裁判所テキスト詐欺がパニックを引き起こす",
+          "location": "New York, USA",
+          "severity": 40,
+          "description": "ニューヨーク州で、偽の裁判所からのテキストメッセージ詐欺が「パニック」を引き起こしていると報じられている。金銭要求型の詐欺が市民に不安を与え、混乱を招いている状況。",
+          "source": "News12 | Westchester"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 43,
-      "status": "unstable",
-      "main_cause": "詐欺による局所的な不安、地域的な抗議活動",
+      "region": "europe",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "エネルギー供給不足、金融不安",
       "incidents": [
         {
-          "title": "米国における詐欺によるパニック",
-          "location": "米国・ウェストチェスター",
-          "severity": 45,
-          "description": "偽の裁判所を装ったテキストメッセージ詐欺が金銭を要求し、一部の住民の間で小規模ながらパニックを引き起こしました。",
-          "source": "News12 | Westchester"
+          "title": "フランスで数百のガソリンスタンドが燃料不足に陥る",
+          "location": "France",
+          "severity": 60,
+          "description": "フランスでは数百のガソリンスタンドで燃料が不足しており、市民生活に影響が出ている。エネルギー供給網の混乱が広がり、買いだめや供給不安につながる懸念がある。",
+          "source": "logos-pres.md"
         },
         {
-          "title": "米国での反イスラエル暴力抗議活動",
-          "location": "米国・アムハースト",
-          "severity": 40,
-          "description": "地域のユダヤ系住民が集まり、イスラエルにおける暴力行為に対する抗議デモを実施。地域社会の意見対立と緊張が表面化しています。",
-          "source": "Amherst Indy"
+          "title": "不公平な自動車金融法案に抗議し、銀行が英国から撤退へ",
+          "location": "UK",
+          "severity": 55,
+          "description": "英国では、自動車金融法案に抗議して銀行が撤退する動きが報じられている。これは金融市場の混乱や企業の不信感を表しており、経済への懸念が高まっている状況。",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "燃料貯蔵所の封鎖で木曜日にも燃料が尽きる可能性",
+          "location": "Ireland",
+          "severity": 70,
+          "description": "アイルランドでは、燃料貯蔵所の封鎖により早ければ木曜日にも燃料不足が発生する可能性が指摘されている。これは「国家破壊行為」と評され、深刻なエネルギー危機と社会混乱を招く恐れがある。",
+          "source": "Irish Examiner"
+        },
+        {
+          "title": "FCAの制度に抗議しMotonovoオーナーが英国撤退の意向",
+          "location": "UK",
+          "severity": 55,
+          "description": "英国では、金融行動監視機構（FCA）の制度に抗議し、Motonovoの親会社が英国から撤退する意向を示している。金融サービス提供者の信頼と安定性に影響を与える可能性がある。",
+          "source": "Car Dealer Magazine"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "軍事衝突、政治的緊張、大規模な抗議活動",
+      "panic_index": 90,
+      "status": "critical",
+      "main_cause": "軍事衝突、地政学的緊張",
       "incidents": [
         {
-          "title": "レバノンへのイスラエルによる空爆",
-          "location": "レバノン",
-          "severity": 80,
-          "description": "イスラエルによる激しい空爆がレバノンを襲い、地域の住民は生命の安全に対する強い懸念を抱き、混乱状態にあります。",
+          "title": "イスラエルによるレバノンへの大規模な空爆",
+          "location": "Lebanon",
+          "severity": 75,
+          "description": "レバノンに対しイスラエルが大規模な空爆を行っており、地域全体の緊張が高まっている。市民生活への直接的な脅威であり、さらなる紛争拡大による社会機能不全の懸念がある。",
           "source": "Radio Free Europe/Radio Liberty"
         },
         {
-          "title": "イランによる攻撃と米軍のパニック",
-          "location": "クウェート、UAE",
-          "severity": 90,
-          "description": "イランによるクウェートとUAEへの爆撃が報じられ、米軍部隊がパニック状態に陥ったと伝えられており、戦況の緊迫化を示唆しています。",
+          "title": "イランがクウェートとUAEを爆撃、米軍がパニック状態で逃走",
+          "location": "Kuwait, UAE",
+          "severity": 95,
+          "description": "イランがクウェートとUAEを爆撃し、米軍が「パニック状態で逃走」したと報じられている。これは大規模な軍事衝突と、それに伴う極度の混乱および無秩序な逃避が発生している状態。",
           "source": "Oneindia"
-        },
-        {
-          "title": "ヨルダン川西岸での大規模ストライキ",
-          "location": "ヨルダン川西岸",
-          "severity": 60,
-          "description": "イスラエルの死刑制度に反対し、ヨルダン川西岸で大規模なストライキが実施され、社会活動が停滞し、住民に影響を与えています。",
-          "source": "MSN"
-        },
-        {
-          "title": "パキスタンでの政治的弾圧と社会不安",
-          "location": "パキスタン",
-          "severity": 50,
-          "description": "元首相の親族や政党幹部を含む1,400人以上が反テロ法で起訴され、政治的弾圧が広範な社会不安を招いています。",
-          "source": "The Express Tribune"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 43,
-      "status": "unstable",
-      "main_cause": "エネルギー不足",
-      "incidents": [
-        {
-          "title": "ケニアでの燃料不足深刻化",
-          "location": "ケニア",
-          "severity": 75,
-          "description": "全国的に燃料不足が深刻化し、ガソリンスタンドには長蛇の列が発生。住民の移動や物流に大きな支障をきたし、社会不安が高まっています。",
-          "source": "Citizen Digital"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 56,
-      "status": "unstable",
-      "main_cause": "金融不安、食料・エネルギー・水不足、大規模な抗議活動",
+      "panic_index": 68,
+      "status": "volatile",
+      "main_cause": "政治的暴力、金融不安",
       "incidents": [
         {
-          "title": "バングラデシュの預金者による絶望的な抗議",
-          "location": "バングラデシュ",
+          "title": "インドネシア・パプア地域で死者が出る暴動が発生",
+          "location": "Papua, Indonesia",
           "severity": 70,
-          "description": "統合された銀行での預金者資産の減額（ヘアカット）に抗議し、預金者が死装束でデモを実施。金融システムへの信頼失墜と絶望感が深まっています。",
-          "source": "বার্তা ২৪"
+          "description": "インドネシアのパプア地域で死者が出る暴動が発生しており、人権問題として注目されている。これは政治的な不満や民族間の緊張が深刻化し、社会秩序が脅かされている状態。",
+          "source": "ucanews.com"
         },
         {
-          "title": "インドでの小麦調達に関する大規模抗議",
-          "location": "インド",
+          "title": "バングラデシュで預金者が銀行合併によるヘアカットに抗議",
+          "location": "Bangladesh",
+          "severity": 65,
+          "description": "バングラデシュで、預金者が銀行合併による「ヘアカット」（預金切り下げ）の撤回を求めて、死装束をまとって抗議デモを行っている。金融システムへの不信感が顕在化し、取り付け騒ぎに発展する懸念がある。",
+          "source": "বার্তা ২৪"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 58,
+      "status": "unstable",
+      "main_cause": "エネルギー・食料・資源不足、政治的抑圧",
+      "incidents": [
+        {
+          "title": "パキスタンでイムラン・カーン元首相の親族ら1,400人超が逮捕",
+          "location": "Pakistan",
           "severity": 60,
-          "description": "食料供給の不安が高まる中、政府による小麦の調達期間短縮に反対する抗議デモが激化しており、食料不安が社会問題化しています。",
+          "description": "パキスタンでは、イムラン・カーン元首相の姉妹やPTI指導者を含む1,400人以上が反テロ法で起訴された。これは政治的弾圧であり、広範な社会不安と抗議活動の激化を招く可能性がある。",
+          "source": "The Express Tribune"
+        },
+        {
+          "title": "インド政府が自動車用LPG不足へのパニックを避けるよう呼びかけ",
+          "location": "Karnataka, India",
+          "severity": 50,
+          "description": "インドのカルナータカ州政府が、自動車用LPG不足について「パニックにならないよう」市民に呼びかけている。これはLPG不足への懸念が高まり、買いだめや供給不安が生じている兆候。",
+          "source": "Deccan Herald"
+        },
+        {
+          "title": "インド・コインバトールでLPG不足により朝食メニュー変更",
+          "location": "Coimbatore, India",
+          "severity": 55,
+          "description": "インドのコインバトールにある公共食堂で、LPG不足により朝食メニューが変更されている。これはエネルギー不足が市民の日常生活や食料供給に直接影響を与え始めていることを示している。",
+          "source": "The Hindu"
+        },
+        {
+          "title": "インドで小麦の最低支持価格調達期間短縮に抗議活動激化",
+          "location": "India",
+          "severity": 45,
+          "description": "インドでは、小麦の最低支持価格（MSP）の調達期間が短縮されることに対し、農家からの抗議活動が激化している。これは食料供給の不安定さや農業政策への不満が背景にある。",
           "source": "Meyka"
         },
         {
-          "title": "インドの長期的な水不足に対する住民抗議",
-          "location": "インド・ゴア州",
-          "severity": 55,
-          "description": "1年にも及ぶ水不足に対し、住民が抗議活動を実施。生活に不可欠なインフラの欠如が住民の不満と不安を募らせています。",
+          "title": "インド・ヴァスコ・ダ・ガマで一年間にわたる水不足に住民抗議",
+          "location": "Vasco da Gama, India",
+          "severity": 40,
+          "description": "インドのヴァスコ・ダ・ガマで、一年間にわたる水不足に対し住民が抗議デモを実施している。基本的な生活インフラの不足が深刻化し、市民の不満が高まっている状況。",
           "source": "heraldgoa.in"
-        },
-        {
-          "title": "インドでの銀行詐欺事件と政府対応",
-          "location": "インド・ハリヤナ州",
-          "severity": 50,
-          "description": "1億5000万ルピー規模の詐欺事件を受けて、政府がコタック・マヒンドラ銀行を取引対象から除外し、金融システムへの不信感が高まっています。",
-          "source": "Tribune India"
-        },
-        {
-          "title": "インドでのLPG不足による食料提供の変化",
-          "location": "インド・コインバートル",
-          "severity": 45,
-          "description": "LPG不足が原因で公共食堂「アンマ・ウナバガム」の朝食メニューが変更。生活必需品不足が市民の日常生活に具体的な影響を与えています。",
-          "source": "The Hindu"
         }
       ]
     }
