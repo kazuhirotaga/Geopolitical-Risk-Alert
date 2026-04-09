@@ -1,94 +1,114 @@
 {
   "date": "2026-04-09",
-  "summary": "世界各地では、特定の地域で深刻なエネルギー供給不安が表面化しており、特にアイルランドでは燃料不足とそれに伴うパニック買い、抗議デモによる供給網の混乱が「警戒状態」を超えつつあります。金融市場での取り付け騒ぎや広範な略奪といった社会秩序の崩壊は観測されていませんが、各地域で局所的な社会不安や抗議活動が見られます。",
+  "summary": "世界各地でエネルギー不足と物価高騰に起因する社会不安が顕在化しています。特にヨーロッパのアイルランドやフランス、南アジアのバングラデシュでは、燃料不足によるパニック買いや抗議デモが広がり、一部で交通麻痺や供給網の混乱が発生。インドでは爆破予告による学校のパニックやLPG価格高騰への抗議活動も報告され、地政学的緊張が金融市場に影響を及ぼすなど、広範な社会心理的ストレスが見られます。",
   "global_panic_index": 65,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "エネルギー不足、抗議デモ、買いだめ",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "燃料不足、物価高騰、地政学的緊張",
       "incidents": [
         {
-          "title": "アイルランドでの燃料不足とパニック買いの深刻化",
-          "location": "アイルランド（コーク、レイシュ）",
-          "severity": 90,
-          "description": "アイルランドの複数の地域で燃料不足が深刻化し、給油所が閉鎖される事態が発生。市民によるパニック買いが頻発し、貯蔵所への抗議デモが供給をさらに阻害。警察はデモ隊に逮捕の可能性を警告し、事態は極めて緊迫しています。",
-          "source": "Irish Examiner, The Irish Sun, Laois Live Leinster Express, Irish Mirror"
+          "title": "アイルランドでの広範な燃料パニック買いと供給不足",
+          "location": "アイルランド（Laois, Cork, Sligoなど）",
+          "severity": 75,
+          "description": "燃料不足への懸念からアイルランド各地でパニック買いが発生し、ガソリンスタンドには長蛇の列ができ、一部では燃料が枯渇。抗議デモも同時に発生し、交通遮断も報告されている。",
+          "source": "Laois Live Leinster Express, Irish Examiner, Irish Mirror, The Irish Sun, The Irish Independent"
         },
         {
-          "title": "フランス各地でのガソリンスタンド燃料不足",
+          "title": "フランスにおける数百のガソリンスタンドでの燃料枯渇",
           "location": "フランス",
-          "severity": 70,
-          "description": "フランス国内の数百カ所のガソリンスタンドで燃料が不足し、供給網の脆弱性が露呈しています。市民生活への影響が懸念され、今後の状況によっては更なる混乱を招く可能性があります。",
+          "severity": 65,
+          "description": "フランス国内の数百に及ぶガソリンスタンドで燃料が不足し、供給網の脆弱性が露呈。市民の間でエネルギー供給への不安が高まっている。",
           "source": "logos-pres.md"
+        },
+        {
+          "title": "イギリスでフードバンクが食料でなく現金を支給",
+          "location": "イギリス",
+          "severity": 50,
+          "description": "生活困窮者支援のため、一部のフードバンクが食料ではなく現金を支給する新たな取り組みを開始。これは物価高騰と生活費危機の深刻化を示唆している。",
+          "source": "The Independent"
+        },
+        {
+          "title": "ギリシャ首相によるホルムズ海峡問題への懸念表明",
+          "location": "ギリシャ（中東情勢に関連）",
+          "severity": 45,
+          "description": "ギリシャ首相がホルムズ海峡におけるイランの行動を「受け入れられない」と発言。これは中東地域の地政学的緊張が高まり、国際的なエネルギー供給への潜在的な懸念を示している。",
+          "source": "Radio Free Europe/Radio Liberty"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "金融システムへの漠然とした懸念",
+      "incidents": [
+        {
+          "title": "銀行の破綻を巡る根本的な問題の指摘",
+          "location": "米国（一般的）",
+          "severity": 30,
+          "description": "MITニュースが銀行の破綻における構造的な欠陥について報じた。これは現在の金融システムに対する漠然とした不安や懸念があることを示唆しているが、具体的なパニック行動には至っていない。",
+          "source": "MIT News"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 25,
+      "panic_index": 40,
       "status": "stable",
-      "main_cause": "組織内の不満",
+      "main_cause": "労働者の不満",
       "incidents": [
         {
-          "title": "韓国の銀行従業員の移転に対する不安",
+          "title": "韓国のIBK銀行職員、地方移転計画に不安",
           "location": "韓国（大邱）",
-          "severity": 25,
-          "description": "IBK（中小企業銀行）の従業員が、政治家による銀行の大邱への移転推進に対して不安を表明しています。これは内部の不満によるものであり、現時点では大規模な社会パニックには至っていません。",
+          "severity": 40,
+          "description": "韓国のIBK（中小企業銀行）の職員が、政治主導による同行の大邱への移転計画に対し不安を表明。労働者の士気と地域経済への影響が懸念されている。",
           "source": "The Korea Times"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "労働問題、エネルギー供給不安",
+      "panic_index": 80,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、物価高騰、安全保障、労働問題",
       "incidents": [
         {
-          "title": "インドでの契約労働者によるストライキ",
+          "title": "インドの学校で爆破予告メールによるパニックと避難",
+          "location": "インド（パティアラ, モガ）",
+          "severity": 75,
+          "description": "パティアラとモガの複数の学校に爆破予告のメールが送られ、生徒と教職員が緊急避難。広範囲にわたるパニックと安全保障上の懸念を引き起こした。",
+          "source": "Punjab Newsline"
+        },
+        {
+          "title": "バングラデシュで燃料不足抗議による幹線道路封鎖",
+          "location": "バングラデシュ（ゴパルガンジ）",
+          "severity": 70,
+          "description": "燃料不足に抗議するデモ隊がダッカ-クルナ高速道路を封鎖。これにより交通網が麻痺し、物流と市民生活に深刻な影響が出ている。",
+          "source": "businesstimes-bd.com"
+        },
+        {
+          "title": "インドでLPG価格高騰に対する活動家の抗議デモ",
+          "location": "インド（ベンガルール）",
+          "severity": 55,
+          "description": "ベンガルールで、LPG（液化石油ガス）の価格高騰に反対する活動家による大規模な抗議デモが発生。生活必需品の値上げに対する市民の不満が高まっている。",
+          "source": "Social News XYZ"
+        },
+        {
+          "title": "インドの労働者が賃上げと労働条件改善を求めストライキ",
           "location": "インド（マネサール）",
-          "severity": 40,
-          "description": "マネサールの契約労働者がより良い賃金と労働条件を求めてストライキを実施しています。これは労働者の不満に基づく抗議活動であり、社会不安の一因となり得るものです。",
+          "severity": 50,
+          "description": "マネサールの契約労働者がより良い賃金と労働条件を求めてストライキに突入。広範な労働不安と経済的圧力が高まっていることを示唆している。",
           "source": "The New Indian Express"
         },
         {
-          "title": "インドにおけるディーゼル不足とLPG供給不足の噂",
-          "location": "インド（複数都市）",
-          "severity": 50,
-          "description": "インドではディーゼル不足がバス事業者などに影響を与えており、LPG供給不足の噂も流れています。政府は噂を否定していますが、潜在的なエネルギー不安が高まっています。",
-          "source": "MSN, The Hans India, Star of Mysore"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "政治的抗議",
-      "incidents": [
-        {
-          "title": "ヨルダン川西岸でのストライキ",
-          "location": "ヨルダン川西岸",
-          "severity": 40,
-          "description": "イスラエルの死刑制度に反対するストライキがヨルダン川西岸で実施されています。これは政治的な抗議活動であり、地域の社会秩序に一定の緊張をもたらしています。",
-          "source": "MSN"
-        }
-      ]
-    },
-    {
-      "region": "oceania",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "潜在的なエネルギー不足",
-      "incidents": [
-        {
-          "title": "オーストラリアでの燃料不足の示唆",
-          "location": "オーストラリア",
-          "severity": 30,
-          "description": "イランのメディアがオーストラリアの燃料不足を揶揄する報道を行っており、オーストラリアにおける潜在的な燃料供給への懸念が示唆されています。具体的なパニック行動は報じられていません。",
-          "source": "The Nightly"
+          "title": "中東情勢の緊張再燃によりインド市場が下落",
+          "location": "インド（金融市場）",
+          "severity": 60,
+          "description": "中東情勢の緊張が再燃したことを受け、インドの株式市場（Sensex, Nifty）が大幅に下落。地政学的リスクが金融市場の不安定さを引き起こしている。",
+          "source": "Moneycontrol.com"
         }
       ]
     }
