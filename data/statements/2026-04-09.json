@@ -1,51 +1,67 @@
 {
   "date": "2026-04-09",
-  "summary": "本日公表されたFRB関連情報からは、金融政策に関する具体的な発言は確認できませんでした。しかし、FedNowサービスに関する提案や、銀行職員に対する執行措置など、金融システムの安定化と効率化に向けたFRBの継続的な取り組みが示唆されています。",
+  "summary": "本日は、FRB関連の発表が中心。金融機関に対する規制緩和の終了や、FedNow Serviceに関するパブリックコメント募集など、金融政策の柔軟性とイノベーション促進への姿勢が伺える。市場への直接的な影響は限定的と考えられる。",
   "statements": [
     {
-      "speaker": "連邦公開市場委員会（FOMC）",
-      "title": "連邦準備制度",
-      "quote": "（議事要旨からの直接的な引用はなし。金融政策に関する具体的な発言は確認できず）",
-      "context": "2026年3月17-18日に開催された連邦公開市場委員会（FOMC）の議事要旨",
-      "analysis": "議事要旨からは、現時点での金融政策の方向性に関する明確な情報は得られませんでした。しかし、今後の経済指標や市場の動向次第で、金融政策が変更される可能性を示唆していると考えられます。市場参加者は、今後のFRB高官の発言や経済指標の発表に注目する必要があります。",
+      "speaker": "Federal Reserve Board",
+      "title": "連邦準備制度理事会",
+      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、およびGoldman Sachs Group, Inc.に対する執行措置を終了する",
+      "context": "プレスリリース",
+      "analysis": "過去の不正行為や規制違反に対する是正措置が完了したことを意味し、これらの金融機関のコンプライアンス体制が改善されたとFRBが判断したことを示唆する。金融機関の健全性維持に向けたFRBの継続的な取り組みの一環。",
       "importance": "medium",
+      "tags": [
+        "金融規制",
+        "コンプライアンス",
+        "金融機関"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
+    },
+    {
+      "speaker": "Federal Open Market Committee (FOMC)",
+      "title": "連邦公開市場委員会",
+      "quote": "2026年3月17-18日のFOMC議事録",
+      "context": "プレスリリース",
+      "analysis": "3月17-18日のFOMC会合における議論の詳細が公開された。今後の金融政策の方向性や、経済見通しに関する委員の見解を知る上で重要。議事録の内容次第では、市場の金利予想やリスクセンチメントに影響を与える可能性がある。",
+      "importance": "high",
       "tags": [
         "金融政策",
         "FOMC",
-        "議事要旨"
+        "金利",
+        "経済見通し"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
     },
     {
-      "speaker": "連邦準備制度理事会（FRB）",
-      "title": "連邦準備制度",
-      "quote": "（FedNowサービスに関する提案へのパブリックコメント募集に関する直接的な引用はなし）",
-      "context": "FedNowサービスを通じた資金移動に際し、米国の銀行および信用組合が仲介業者を利用することを許可する提案に関するパブリックコメント募集",
-      "analysis": "FedNowサービスの利用拡大に向けたFRBの取り組みを示すものです。仲介業者の利用を許可することで、より多くの金融機関がFedNowサービスを利用できるようになり、決済システムの効率化とイノベーションが促進される可能性があります。ただし、仲介業者のリスク管理や監督体制の強化も必要となります。",
+      "speaker": "Federal Reserve Board",
+      "title": "連邦準備制度理事会",
+      "quote": "米国の銀行および信用組合がFedNowサービスを通じて資金を移動するために仲介業者を利用することを許可する提案について、パブリックコメントを募集する",
+      "context": "プレスリリース",
+      "analysis": "FedNowサービスの利用拡大に向けた動きであり、決済システムの効率化とイノベーションを促進する可能性がある。中小規模の金融機関がFedNowサービスにアクセスしやすくなることで、競争が促進されることが期待される。",
       "importance": "medium",
       "tags": [
-        "FedNow",
         "決済システム",
-        "イノベーション"
+        "FinTech",
+        "イノベーション",
+        "FedNow"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
     },
     {
-      "speaker": "連邦準備制度理事会（FRB）",
-      "title": "連邦準備制度",
-      "quote": "（United Bankの元従業員に対する執行措置に関する直接的な引用はなし）",
-      "context": "United Bankの元従業員に対する執行措置の発行",
-      "analysis": "FRBが金融機関の従業員による不正行為に対して厳格な姿勢で臨んでいることを示しています。金融システムの健全性と信頼性を維持するためのFRBの継続的な取り組みの一環と見られます。個別の事例ではありますが、他の金融機関にとっても内部統制の強化や従業員の行動規範の徹底が重要であることを再認識させる可能性があります。",
+      "speaker": "Federal Reserve Board",
+      "title": "連邦準備制度理事会",
+      "quote": "United Bankの元従業員に対する執行措置を発行する",
+      "context": "プレスリリース",
+      "analysis": "特定の金融機関の元従業員に対する執行措置の発行は、金融業界における不正行為やコンプライアンス違反に対するFRBの厳しい姿勢を示す。個別の事例ではあるものの、金融機関全体への警鐘となりうる。",
       "importance": "low",
       "tags": [
         "金融規制",
-        "不正行為",
-        "執行措置"
+        "コンプライアンス",
+        "不正行為"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260403a.htm"
     }
   ],
-  "generated_at": "2026-04-09T13:51:34.582258",
+  "generated_at": "2026-04-09T16:21:45.076682",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
