@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-09",
-    "summary": "米イラン間の緊張状態続く。ホルムズ海峡周辺でアメリカ軍とイラン軍の偶発的な衝突の可能性が高まっている。ウクライナはロシアがイランの対米攻撃を支援していると非難。一方、イギリスはロシア潜水艦による海底ケーブル攻撃を警戒し軍を派遣。",
+    "summary": "アメリカとイランの停戦合意後も中東地域での緊張状態が継続。ロシアがイランへのサイバー支援や偵察画像提供を継続。イギリスはロシア潜水艦による海底ケーブル攻撃を警戒し軍事展開。アメリカ軍はイランのKharg島への攻撃を実施。",
     "events": [
       {
         "id": "event-1",
@@ -51,6 +51,39 @@
         "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/flashpoints/middle-east/2026/04/07/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/"
+      },
+      {
+        "id": "event_009",
+        "timestamp": "2026-04-07",
+        "location": "Iran",
+        "region": "middle_east",
+        "title": "アメリカとイスラエルによるイランWMD関連施設への攻撃",
+        "content": "CIA元イラン分析官によれば、アメリカとイスラエルによるイランのWMD関連施設への攻撃により、イランのWMD開発計画は後回しにされている模様。",
+        "involved_parties": [
+          "アメリカ",
+          "イスラエル",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/07/irans-other-would-be-wmd-program-lies-in-ruins-following-strikes-by-israel-and-the-us/"
+      },
+      {
+        "id": "event_010",
+        "timestamp": "2026-04-07",
+        "location": "N/A",
+        "region": "N/A",
+        "title": "トランプ大統領、イランとの2週間の停戦に合意",
+        "content": "トランプ大統領がイランとの2週間の停戦に合意。この停戦期間中に最終的な合意が成立することを期待。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/07/trump-says-he-has-agreed-to-two-week-ceasefire-with-iran/"
       },
       {
         "id": "event-4",
