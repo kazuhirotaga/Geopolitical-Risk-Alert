@@ -2,9 +2,9 @@
   {
     "id": "2b0b0c19b19d",
     "title": "レバノンで大規模攻撃 停戦の合意内容めぐり認識の相違",
-    "summary": "アメリカ・ホワイトハウスの報道官は、イランとの間で11日にパキスタンで、戦闘の終結に向けた協議を行い、代表団はバンス副大統領が率いると明らかにしました。一方、仲介国のパキスタンやイランが、停戦合意に含まれるとしているレバノンでは8日、イスラエルが、イランの支援勢力に対する大規模な攻撃を実施し、合意内容をめぐる認識の違いが浮き彫りとなっています。",
+    "summary": "アメリカ・ホワイトハウスの報道官は、イランとの間で11日に仲介国のパキスタンで戦闘の終結に向けた協議を行い、代表団はバンス副大統領が率いると明らかにしました。一方、パキスタンやイランが停戦合意に含まれるとしているレバノンでは8日、イスラエルがイランの支援勢力に対する大規模な攻撃を実施し、合意内容をめぐる認識の違いが浮き彫りとなっています。",
     "url": "http://www3.nhk.or.jp/news/html/20260409/k10015095271000.html",
-    "published": "2026-04-09T14:28:40+09:00",
+    "published": "2026-04-09T19:01:55+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
@@ -12,6 +12,33 @@
       "south_asia",
       "middle_east",
       "north_america"
+    ]
+  },
+  {
+    "id": "2ed1d8bfc1b8",
+    "title": "ホルムズ海峡 停戦合意後に通過の船舶３隻のみ 位置情報の分析",
+    "summary": "アメリカとイランが2週間にわたる停戦で合意したあと、ホルムズ海峡を通過した船舶は9日朝までの24時間で、確認できただけでも3隻のみだったことが船の位置情報の分析でわかりました。ペルシャ湾内にはまだおよそ1000隻の船舶がとどまっていて、海上交通の正常化には時間がかかりそうです。",
+    "url": "http://www3.nhk.or.jp/news/html/20260409/k10015095751000.html",
+    "published": "2026-04-09T17:29:37+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
+    "id": "e9bff9f0bdb4",
+    "title": "パレスチナ ヨルダン川西岸 “ミサイル破片落下”で被害相次ぐ",
+    "summary": "パレスチナのヨルダン川西岸では、イスラエルに向けてイランから発射されるミサイルの破片が落下し、死傷者が出るなど、被害が相次ぎました。イラン情勢をめぐっては2週間の停戦が発表されましたが、住民からは戦闘の恒久的な終結を訴える声があがっています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260409/k10015095711000.html",
+    "published": "2026-04-09T17:05:56+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -42,6 +69,58 @@
     ]
   },
   {
+    "id": "3262244e9098",
+    "title": "The war on Iran: Nobody won, everyone paid",
+    "summary": "The US-Israeli campaign has failed to achieve its goals. Iran has been badly hit, and the Gulf is paying the bill too.",
+    "url": "https://www.aljazeera.com/opinions/2026/4/9/the-war-on-iran-nobody-won-everyone-paid?traffic_source=rss",
+    "published": "2026-04-09T09:27:05+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "79ba86feb323",
+    "title": "Can global supply chains recover from the Iran war?",
+    "summary": "Conflict upends flow of critical raw materials for manufacturing, aviation and technology.",
+    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/9/can-global-supply-chains-recover-from-the-iran-war?traffic_source=rss",
+    "published": "2026-04-09T09:25:19+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "f9989904378c",
+    "title": "Ukraine’s veterans’ theatre turns war wounds into catharsis",
+    "summary": "Wounded soldiers, wives and widows workshop ideas and stage plays in Kyiv, bringing the audience to tears.",
+    "url": "https://www.aljazeera.com/news/2026/4/9/ukraines-veterans-theatre-turns-war-wounds-into-catharsis?traffic_source=rss",
+    "published": "2026-04-09T08:57:27+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "f467a7a13e80",
+    "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
+    "summary": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
+    "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-09T08:23:11+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
     "id": "946630461911",
     "title": "カンボジア・タイ国境地帯の詐欺拠点が公開 犯罪組織の実態は",
     "summary": "カンボジアとタイの国境地帯にある特殊詐欺の大規模な拠点が、タイの軍によって、7日、NHKなどのメディアに公開されました。拠点の内部からは、詐欺の手口が日本語で書かれたマニュアルなどのほか、電話のかけ子らを暴力で支配していたことをうかがわせる手錠や鎖なども見つかり、犯罪組織の実態の一端が明らかになりました。",
@@ -53,6 +132,19 @@
     "regions": [
       "east_asia",
       "southeast_asia"
+    ]
+  },
+  {
+    "id": "8ce9da54b34e",
+    "title": "Trump says US forces to stay near Iran, ready for ‘next conquest’",
+    "summary": "US threats against Iran and ongoing Israeli attacks in Lebanon cast doubt on fragile ceasefire efforts.",
+    "url": "https://www.aljazeera.com/news/2026/4/9/trump-says-us-forces-to-stay-near-iran-ready-for-next-conquest?traffic_source=rss",
+    "published": "2026-04-09T07:38:16+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -95,19 +187,6 @@
     "language": "en",
     "regions": [
       "middle_east"
-    ]
-  },
-  {
-    "id": "f467a7a13e80",
-    "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
-    "summary": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
-    "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-09T06:13:13+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   },
   {
@@ -249,7 +328,7 @@
   {
     "id": "0204d51e1b0d",
     "title": "Iran war live: Trump threatens action if Tehran fails to comply with deal",
-    "summary": "UN human rights chief Volker Turk describes Israel's attacks on Lebanon as 'horrific', coming so soon after ceasefire.",
+    "summary": "Trump says US assets to remain in Gulf until 'real deal' with Iran as US, Israel say Lebanon not included in ceasefire.",
     "url": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire?traffic_source=rss",
     "published": "2026-04-09T00:00:00+00:00",
     "source_name": "Al Jazeera",
@@ -329,33 +408,6 @@
     ]
   },
   {
-    "id": "4b316cbfc327",
-    "title": "JD Vance says Iran would be ‘dumb’ to let talks collapse over Lebanon",
-    "summary": "The US vice president says Iran had a 'legitimate misunderstanding' about Lebanon's inclusion in this week's ceasefire.",
-    "url": "https://www.aljazeera.com/news/2026/4/8/jd-vance-says-iran-would-be-dumb-to-let-talks-collapse-over-lebanon?traffic_source=rss",
-    "published": "2026-04-08T21:50:36+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "656c00c08b5b",
-    "title": "Trump administration signals it is mulling NATO withdrawal after Iran war",
-    "summary": "The US president has lashed out at European partners for declining to contribute military forces to the war on Iran.",
-    "url": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss",
-    "published": "2026-04-08T21:47:23+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "europe"
-    ]
-  },
-  {
     "id": "e051fa5d13fe",
     "title": "米とイラン 合意の背景は NW9キャスターが専門家と読み解く",
     "summary": "日本時間の8日朝、アメリカとイランは2週間にわたる停戦で合意しました。地上戦の可能性が指摘される中での“急転直下”とも言える合意。その背景についてニュースウオッチ9の広内キャスターがアメリカ政治に詳しい専門家に聞きました。",
@@ -368,71 +420,6 @@
       "east_asia",
       "middle_east",
       "north_america"
-    ]
-  },
-  {
-    "id": "045cd327054f",
-    "title": "Macron welcomes US-Iran ceasefire and urges Lebanon’s inclusion",
-    "summary": "French President Emmanuel Macron welcomed the US-Iran ceasefire as “very good news\".",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/macron-welcomes-us-iran-ceasefire-and-urges-lebanons-inclusion?traffic_source=rss",
-    "published": "2026-04-08T21:39:14+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "9dc410174c1c",
-    "title": "Trump threatens 50% tariffs on countries that supply Iran with weapons",
-    "summary": "It's not clear under what legal authority Trump can tack on this tariff, and analysts called it an 'empty threat'.",
-    "url": "https://www.aljazeera.com/economy/2026/4/8/trump-threatens-50-tariffs-on-countries-that-supply-iran-with-weapons?traffic_source=rss",
-    "published": "2026-04-08T21:28:08+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "b917beb86d12",
-    "title": "Devastation in Beirut after Israeli strikes reduce homes to rubble",
-    "summary": "Hours after Israel hammered Beirut with multiple air strikes following the US-Iran ceasefire, residents searched for sur",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/devastation-in-beirut-after-israeli-strikes-reduce-homes-to-rubble?traffic_source=rss",
-    "published": "2026-04-08T21:25:57+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "fb391dcfa19b",
-    "title": "What to know about Israel’s strikes on Lebanon amid US-Iran ceasefire",
-    "summary": "Israel unleashed a massive bombardment on Israel a day after the US and Iran reached a ceasefire agreement.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/what-to-know-about-israels-strikes-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss",
-    "published": "2026-04-08T21:20:03+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "0fe23c8a053d",
-    "title": "Trump has found his Iran off-ramp – but at what cost?",
-    "summary": "Domestically and internationally, the effects of the war will be felt for years to come.",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/4/8/trump-has-found-his-iran-off-ramp-but-at-what-cost?traffic_source=rss",
-    "published": "2026-04-08T21:01:37+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
@@ -1082,8 +1069,8 @@
     ]
   },
   {
-    "id": "9362834e2472",
-    "title": "“米軍戦闘機など2機 イランの攻撃で墜落 1人行方不明” 報道",
+    "id": "9b1b18675d08",
+    "title": "【詳細】“米軍戦闘機など2機墜落” 攻撃応酬エスカレート懸念",
     "summary": "アメリカやイランのメディアは、アメリカの戦闘機など2機がイランの攻撃を受けて墜落し、乗員1人が行方不明になっていると伝えました。アメリカとイランの停戦に向けた直接協議の実現が行き詰まるなか、攻撃の応酬のエスカレートが懸念されています。",
     "url": "http://www3.nhk.or.jp/news/html/20260404/k10015092011000.html",
     "published": "2026-04-04T22:25:11+09:00",
