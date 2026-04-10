@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-10",
+    "summary": "中東情勢は、アメリカとイランの停戦合意後もイスラエルによるレバノン攻撃が継続し、不安定な状況が続く。ウクライナ情勢も停戦合意がなされたものの、依然として予断を許さない。東アジアでは、日中関係の悪化や北朝鮮の兵器実験など、地政学的リスクが高まっている。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "low",
+      "central_asia": "none",
+      "middle_east": "high",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "low"
+    },
+    "generated_at": "2026-04-10T02:53:28.506021"
+  },
+  {
     "date": "2026-04-09",
     "summary": "米イラン停戦合意後も中東の緊張は継続。イスラエルのレバノン攻撃が協議を複雑化させ、原油価格高止まりと経済への影響が懸念される。ウクライナ情勢も停戦交渉の行方を左右する可能性があり、地政学リスクは依然として高い。",
     "overall_risk_level": "high",

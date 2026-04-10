@@ -1,121 +1,94 @@
 {
-  "date": "2026-04-09",
-  "summary": "世界各地でエネルギー供給に対する不安が高まり、特にアイルランドでは燃料不足と大規模な抗議デモが深刻化し、軍隊が出動する事態に至っています。フランスでも同様の燃料不足が報告されており、買いだめやパニック買いが広範囲で発生しています。アジア地域では、インドで学校への爆弾脅迫によるパニックと避難、LPG価格高騰への抗議デモ、株式市場の不安定化が見られます。北米では大規模な抗議デモが混乱を招いており、全体的に「警戒状態」にあると言えます。",
-  "global_panic_index": 62,
+  "date": "2026-04-10",
+  "summary": "世界各地でエネルギー供給不安が顕在化し、特にアイルランドでは燃料不足と抗議デモが広範なパニック買いを引き起こし、市民生活に深刻な影響を与えています。南アジアでも同様の燃料不足による抗議活動が見られますが、米国や日本におけるデモは、一部の衝突を除き、社会秩序を脅かすパニック状態には至っていません。全体として、特定の地域でエネルギー危機に起因する社会不安が増大しています。",
+  "global_panic_index": 55,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 76,
-      "status": "critical",
-      "main_cause": "エネルギー不足、大規模な抗議デモ、買いだめ",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "燃料不足、抗議デモ、パニック買い",
       "incidents": [
         {
-          "title": "アイルランド全土での燃料不足抗議デモと軍隊出動",
-          "location": "アイルランド各地",
+          "title": "燃料不足と大規模なパニック買い",
+          "location": "アイルランド（全土、特にコーク、スライゴ、ラオス）",
           "severity": 85,
-          "description": "アイルランド各地で燃料不足に対する大規模な抗議デモが発生し、社会インフラが麻痺。事態収拾のため軍隊が出動する事態に至っている。",
-          "source": "The Telegraph / The Irish Sun"
+          "description": "アイルランドでは燃料抗議活動が4日目を迎え、各地でガソリンスタンドが閉鎖され、燃料のパニック買いが深刻化。サービスステーションには長蛇の列ができ、市民生活や物流に広範囲な影響が出ている。",
+          "source": "Ireland Live, The Irish Sun, The Irish Independent, Laois Live Leinster Express, Irish Examiner"
         },
         {
-          "title": "アイルランドでの広範な燃料パニック買いと供給不足",
-          "location": "アイルランド（ゴールウェイ、ラオス、スライゴ、コークなど）",
-          "severity": 75,
-          "description": "アイルランドの複数の地域でガソリンスタンドの燃料が枯渇し、パニック買いが広範に発生。給油所には長蛇の列ができ、閉鎖する店舗も出ている。",
-          "source": "The Irish Independent / Laois Live Leinster Express / Irish Examiner"
-        },
+          "title": "燃料抗議活動による道路封鎖",
+          "location": "アイルランド（コーク、その他主要道路）",
+          "severity": 70,
+          "description": "燃料価格高騰に対する抗議活動が続き、一部の主要道路が封鎖されている。これにより燃料供給網がさらに混乱し、燃料不足が加速している。",
+          "source": "Irish Examiner"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "燃料・LPG不足、抗議デモ",
+      "incidents": [
         {
-          "title": "フランス国内数百箇所のガソリンスタンドで燃料不足",
-          "location": "フランス",
+          "title": "LPG不足による抗議デモと警察配備",
+          "location": "インド（ジンド）",
           "severity": 65,
-          "description": "フランス国内で数百のガソリンスタンドが燃料不足に陥っており、供給網への懸念が高まっている。直接的な暴動は報告されていないが、社会不安の兆候が見られる。",
-          "source": "logos-pres.md"
+          "description": "インドのジンドではLPG（液化石油ガス）不足が深刻化し、市民による抗議デモが発生。事態の悪化を防ぐため、警察が配備され警戒態勢に入っている。",
+          "source": "MSN"
         },
         {
-          "title": "英国におけるフードバンクの現金支給への移行",
-          "location": "英国",
-          "severity": 45,
-          "description": "英国のフードバンクが食料の代わりに現金を支給する形式を導入。これは経済的困窮が深刻化し、食料支援のあり方が変化している現状を示唆している。",
-          "source": "The Independent"
+          "title": "燃料不足抗議による幹線道路封鎖",
+          "location": "バングラデシュ（ゴパルガンジ）",
+          "severity": 60,
+          "description": "バングラデシュのゴパルガンジでは燃料不足に対する抗議デモが激化し、ダッカ-クルナ高速道路が封鎖された。これにより交通が麻痺し、物流に大きな影響が出ている。",
+          "source": "businesstimes-bd.com"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 65,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "大規模な抗議デモ",
+      "main_cause": "政治的抗議活動、一部衝突",
       "incidents": [
         {
-          "title": "ロサンゼルスでの「No Kings」抗議デモが混乱に発展",
-          "location": "ロサンゼルス, 米国",
-          "severity": 65,
-          "description": "ロサンゼルスで「No Kings」と称する大規模な抗議デモが発生し、混乱状態となった。多数の逮捕者が出るなど、社会秩序への影響が見られた。",
-          "source": "MSN"
+          "title": "「王はいらない」デモでの衝突と負傷者",
+          "location": "アメリカ（ロサンゼルス）",
+          "severity": 55,
+          "description": "ロサンゼルスで発生した「王はいらない」と称する抗議デモにおいて、参加した大学生が連邦捜査官が撃った発射物に当たり片目を失う重傷を負った。デモが一部暴力的な様相を呈している。",
+          "source": "CNN, Yahoo!ニュース"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 35,
+      "panic_index": 25,
       "status": "stable",
-      "main_cause": "政策決定への不安、金融システムへの懸念",
+      "main_cause": "平和的な政治的抗議活動",
       "incidents": [
         {
-          "title": "韓国IBK銀行従業員、銀行移転計画に不安を表明",
-          "location": "韓国",
-          "severity": 35,
-          "description": "韓国のIBK銀行従業員が、政治家による銀行の大邱移転推進に不安を表明しており、内部の動揺が見られる。大規模なパニックには至っていない。",
-          "source": "The Korea Times"
-        },
-        {
-          "title": "韓国におけるステーブルコイン規制を巡る議論の活発化",
-          "location": "韓国",
-          "severity": 35,
-          "description": "ステーブルコインを巡る規制議論が韓国で活発化しており、政府の動きが金融市場にどのような影響を与えるかに関心が集まっている。",
-          "source": "매일경제"
+          "title": "全国各地での平和・反戦デモ",
+          "location": "日本（全国各地、神戸、熊本、旭川、藤沢など）",
+          "severity": 20,
+          "description": "日本各地で「戦争反対」や護憲を訴える平和的なデモが展開されており、SNSを通じて若者層にも広がりを見せている。社会秩序を乱すようなパニック行動は報告されていない。",
+          "source": "朝日新聞, 毎日新聞, KAB 熊本朝日放送, ABEMA TIMES, 北海道新聞デジタル, au Webポータル"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 53,
-      "status": "unstable",
-      "main_cause": "テロの脅威、エネルギー不足、経済不安、労働争議",
+      "region": "middle_east",
+      "panic_index": 30,
+      "status": "normal",
+      "main_cause": "政治的（官製）デモ",
       "incidents": [
         {
-          "title": "インドの学校への爆弾脅迫メールと生徒のパニック避難",
-          "location": "インド（パティアーラ、モガ）",
-          "severity": 75,
-          "description": "インドの複数地域の学校で爆弾脅迫メールが送られ、広範なパニックが発生。生徒が緊急避難する事態となり、保護者や地域住民に動揺が広がった。",
-          "source": "Punjab Newsline"
-        },
-        {
-          "title": "バングラデシュでの燃料不足抗議デモと主要道路封鎖",
-          "location": "ゴパルガンジ, バングラデシュ",
-          "severity": 65,
-          "description": "バングラデシュのゴパルガンジで燃料不足に対する抗議デモが発生し、主要幹線道路が封鎖され交通に甚大な影響が出ている。",
-          "source": "businesstimes-bd.com"
-        },
-        {
-          "title": "インド株式市場の下落と中東情勢の緊張",
-          "location": "インド",
-          "severity": 55,
-          "description": "インド株式市場が5日間の上昇傾向を終え下落。中東の緊張再燃など複数の要因が市場の不安定化を招き、投資家の間に不安が広がっている。",
-          "source": "TradingView"
-        },
-        {
-          "title": "インド・ベンガルールでのLPG価格高騰への抗議活動",
-          "location": "ベンガルール, インド",
-          "severity": 55,
-          "description": "インドのバンガロールで、LPG（液化石油ガス）価格高騰に対する活動家による抗議デモが発生。家計への負担増大に対し市民の不満が高まっている。",
-          "source": "Social News XYZ"
-        },
-        {
-          "title": "インド国内でのオートガス不足の噂と政府による沈静化",
-          "location": "インド",
-          "severity": 45,
-          "description": "インド国内でオートガス供給不足の噂が広がり、市民の間に懸念が生じた。政府はこれを否定し、沈静化を図っているが、噂自体が社会不安の兆候を示す。",
-          "source": "The Hans India / Star of Mysore"
+          "title": "反米官製デモ",
+          "location": "イラン（テヘラン）",
+          "severity": 30,
+          "description": "イランの首都テヘランで、反米を訴える官製デモが実施された。女性や若者も参加しているが、これは市民の自発的な社会不安によるものではなく、政府主導の動員と見られる。",
+          "source": "山陽新聞デジタル"
         }
       ]
     }
