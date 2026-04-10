@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-10",
-    "summary": "中東情勢が極めて不安定。米イラン協議の不確実性、イスラエルとレバノンの交戦継続、ガザ地区の状況悪化が複合的に影響。ウクライナ情勢も停戦合意にも関わらず予断を許さず、世界的なインフレとエネルギー価格高騰を招いている。",
-    "overall_risk_level": "critical",
+    "summary": "中東情勢は依然として不安定。米イラン協議の行方が不透明な上、イスラエルとレバノンの衝突が激化。ウクライナ情勢も膠着状態が続く。ミャンマーでは軍事政権が強化され、東アジアでは中国との関係悪化が懸念される。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
       "southeast_asia": "medium",
       "south_asia": "high",
       "central_asia": "none",
-      "middle_east": "critical",
+      "middle_east": "high",
       "europe": "high",
-      "africa": "medium",
+      "africa": "high",
       "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-04-10T15:58:35.203989"
+    "generated_at": "2026-04-10T19:01:02.037383"
   },
   {
     "date": "2026-04-09",

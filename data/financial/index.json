@@ -1,19 +1,17 @@
 [
   {
     "date": "2026-04-10",
-    "summary": "イラン戦争の影響でインフレが加速し、消費者心理が記録的な低水準に。原油価格の高騰と供給網の混乱が市場を不安定化させている。AI関連株への競争激化懸念、暗号資産市場の規制動向もリスク要因。",
-    "overall_risk_level": "critical",
+    "summary": "中東情勢緊迫化により原油価格が急騰、インフレ懸念が高まり、消費者心理が悪化。株式市場は企業業績への期待があるものの、地政学的リスクが重しとなっている。暗号資産市場は規制動向と技術的課題が混在し、不安定な状況。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "medium",
       "north_america": "medium",
-      "europe": "medium",
+      "europe": "high",
       "east_asia": "medium",
-      "south_america": "none",
-      "africa": "none",
       "middle_east": "critical"
     },
-    "generated_at": "2026-04-10T15:58:57.073472"
+    "generated_at": "2026-04-10T19:01:25.307408"
   },
   {
     "date": "2026-04-09",
