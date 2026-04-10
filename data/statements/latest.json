@@ -1,13 +1,27 @@
 {
   "date": "2026-04-10",
-  "summary": "本日は、FRB関連の発表が中心。金融機関に対する執行措置の終了、FedNow Serviceに関する提案、そしてFOMC議事録の公開など、金融政策と金融システムに関する情報が提供された。",
+  "summary": "FRB関連の発表が中心。金融機関の合併承認、過去の執行措置の終了、FedNowサービスに関する提案など、金融システムと規制に関する動きが見られる。FOMC議事録も公開され、金融政策の議論内容が示唆されている。",
   "statements": [
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、およびThe Goldman Sachs Group, Inc.に対する執行措置を終了する。",
-      "context": "FRBによるプレスリリース",
-      "analysis": "過去の不正行為や規制違反に対する是正措置が完了したことを示唆し、これらの金融機関のコンプライアンス体制が改善されたとFRBが判断したことを意味する。市場への直接的な影響は限定的だが、金融機関の健全性に対する信頼感向上に寄与する可能性がある。",
+      "speaker": "Federal Reserve Board",
+      "title": "米連邦準備制度理事会",
+      "quote": "Burke & Herbert Financial Services Corp.による申請を承認。",
+      "context": "FRBのプレスリリース",
+      "analysis": "地域金融機関の合併・買収に関するFRBの姿勢を示す。特定の金融機関の承認は個別事例だが、金融セクターの再編動向を把握する上で重要。今後の同様の申請に対するFRBの判断基準を推測する材料となる。",
+      "importance": "low",
+      "tags": [
+        "金融機関",
+        "合併",
+        "規制"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
+    },
+    {
+      "speaker": "Federal Reserve Board",
+      "title": "米連邦準備制度理事会",
+      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、Goldman Sachs Group, Inc.に対する執行措置を終了。",
+      "context": "FRBのプレスリリース",
+      "analysis": "過去の違反行為に対する改善が認められたことを意味する。対象となった金融機関のコンプライアンス体制強化の成果を示すとともに、FRBの監督・規制が一定の効果を発揮していることを示唆する。金融市場の安定性確保に向けたFRBの取り組みの一環。",
       "importance": "medium",
       "tags": [
         "金融規制",
@@ -17,37 +31,36 @@
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
     },
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "米国の銀行および信用組合がFedNow Serviceを通じて資金を移動するために仲介業者を利用することを許可する提案について、一般からの意見を募集する。",
-      "context": "FRBによるプレスリリース",
-      "analysis": "FedNow Serviceの利用拡大を目的とした提案であり、決済システムの効率化と金融包摂の促進を目指している。中小規模の金融機関がより容易にFedNow Serviceにアクセスできるようになることで、決済イノベーションが加速する可能性がある。パブリックコメントの結果次第で、最終的な規制内容が変更される可能性がある。",
-      "importance": "medium",
-      "tags": [
-        "決済システム",
-        "FinTech",
-        "金融包摂",
-        "FedNow"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
-    },
-    {
-      "speaker": "連邦公開市場委員会",
-      "title": "FOMC",
-      "quote": "（具体的な発言内容は議事録を参照する必要があるため、割愛）",
-      "context": "2026年3月17-18日のFOMC議事録",
-      "analysis": "FOMC議事録は、金融政策の決定プロセスや参加者の議論内容を詳細に知る上で非常に重要。今後の金融政策の方向性や、経済見通しに対する委員の見解を探る手がかりとなる。市場参加者は、議事録の内容を精査し、今後の利上げ（または利下げ）のタイミングやペースを予測しようとするだろう。",
+      "speaker": "Federal Open Market Committee",
+      "title": "米連邦公開市場委員会",
+      "quote": "2026年3月17-18日のFOMC議事録を公開。",
+      "context": "FRBのプレスリリース",
+      "analysis": "議事録の内容次第で、今後の金融政策の方向性に関する重要な手がかりが得られる。インフレ、雇用、経済成長に関する委員たちの議論の詳細が、市場の予測や投資戦略に影響を与える可能性がある。特に、利上げ、利下げ、量的緩和などの具体的な政策に関する言及は注目される。",
       "importance": "high",
       "tags": [
         "金融政策",
         "FOMC",
-        "利上げ",
-        "経済見通し"
+        "インフレ",
+        "雇用"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
+    },
+    {
+      "speaker": "Federal Reserve Board",
+      "title": "米連邦準備制度理事会",
+      "quote": "米国の銀行および信用組合がFedNowサービスを通じて資金を移動するために仲介業者を利用することを許可する提案に関するパブリックコメントを募集。",
+      "context": "FRBのプレスリリース",
+      "analysis": "FedNowサービスの利用拡大に向けたFRBの取り組みを示す。仲介業者の活用は、より多くの金融機関がFedNowサービスを利用可能にすることを意味し、決済システムの効率化とイノベーションを促進する可能性がある。パブリックコメントの結果が、今後の規制やサービス設計に影響を与える。",
+      "importance": "medium",
+      "tags": [
+        "決済システム",
+        "FedNow",
+        "金融イノベーション"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
     }
   ],
-  "generated_at": "2026-04-10T15:59:07.293703",
+  "generated_at": "2026-04-10T21:43:11.277205",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

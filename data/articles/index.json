@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-10",
-    "summary": "中東情勢は依然として不安定。米イラン協議の行方が不透明な上、イスラエルとレバノンの衝突が激化。ウクライナ情勢も膠着状態が続く。ミャンマーでは軍事政権が強化され、東アジアでは中国との関係悪化が懸念される。",
+    "summary": "中東情勢が緊迫化。米イラン停戦合意後もイスラエルとレバノンの衝突が継続し、和平交渉の行方が不透明。ウクライナ情勢も停戦合意が不安定で、地政学的リスクが高まっている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -9,13 +9,13 @@
       "southeast_asia": "medium",
       "south_asia": "high",
       "central_asia": "none",
-      "middle_east": "high",
-      "europe": "high",
+      "middle_east": "critical",
+      "europe": "medium",
       "africa": "high",
-      "north_america": "high",
+      "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-04-10T19:01:02.037383"
+    "generated_at": "2026-04-10T21:42:37.992745"
   },
   {
     "date": "2026-04-09",

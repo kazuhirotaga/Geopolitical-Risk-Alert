@@ -1,17 +1,16 @@
 [
   {
     "date": "2026-04-10",
-    "summary": "中東情勢緊迫化により原油価格が急騰、インフレ懸念が高まり、消費者心理が悪化。株式市場は企業業績への期待があるものの、地政学的リスクが重しとなっている。暗号資産市場は規制動向と技術的課題が混在し、不安定な状況。",
+    "summary": "中東情勢の緊迫化によるエネルギー価格高騰とインフレ懸念が市場を揺るがす。AI関連のサイバーセキュリティリスクも浮上。暗号資産市場は規制動向と技術的課題が混在し、不安定な状況が続く。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "medium",
+      "global": "high",
       "north_america": "medium",
-      "europe": "high",
-      "east_asia": "medium",
-      "middle_east": "critical"
+      "europe": "critical",
+      "east_asia": "medium"
     },
-    "generated_at": "2026-04-10T19:01:25.307408"
+    "generated_at": "2026-04-10T21:43:01.270320"
   },
   {
     "date": "2026-04-09",
