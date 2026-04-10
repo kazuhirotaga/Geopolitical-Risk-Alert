@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-10",
-    "summary": "中東情勢が極めて不安定。アメリカ・イラン間の停戦合意後もイスラエルによるレバノン攻撃が継続し、ホルムズ海峡の船舶航行も停滞。ウクライナ情勢も依然として緊迫しており、地政学リスクは全体的に高い。",
+    "summary": "中東情勢は、米イラン停戦合意後もイスラエルとレバノンの衝突が継続し、不安定な状況が続く。ウクライナ情勢も依然として流動的であり、地政学リスクは全体的に高い水準にある。ミャンマーでは軍事政権が強化され、東アジアでは台湾海峡の緊張も継続している。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "medium",
-      "south_asia": "medium",
+      "southeast_asia": "high",
+      "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
       "africa": "medium",
-      "north_america": "medium",
-      "south_america": "medium"
+      "north_america": "high",
+      "south_america": "low"
     },
-    "generated_at": "2026-04-10T10:10:56.225908"
+    "generated_at": "2026-04-10T13:20:36.130559"
   },
   {
     "date": "2026-04-09",
