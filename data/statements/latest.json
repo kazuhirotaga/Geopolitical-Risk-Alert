@@ -1,56 +1,42 @@
 {
   "date": "2026-04-10",
-  "summary": "本日は、FRB関連の発表が中心。金融機関に対する規制緩和や、FedNow Serviceに関する提案、FOMC議事録の公開など、金融政策や決済インフラに関する動きが見られた。直接的な要人発言は確認できず。",
+  "summary": "本日は、FRB関連の発表が中心。金融機関に対する規制緩和やFedNow Serviceに関する提案、FOMC議事録の公開など、金融政策や決済インフラに関する動きが見られた。市場への直接的な影響は限定的だが、今後の金融政策の方向性や技術革新への取り組みを示唆する内容が含まれる。",
   "statements": [
     {
-      "speaker": "連邦準備制度理事会 (FRB)",
-      "title": "アメリカ合衆国の中央銀行",
-      "quote": "クレディ・アグリコルS.A.、クレディ・アグリコル・コーポレート・アンド・インベストメント・バンク、メガ・インターナショナル・コマーシャル・バンク、ゴールドマン・サックス・グループに対する執行措置を終了する。",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、およびThe Goldman Sachs Group, Inc.に対する執行措置を終了する。",
       "context": "FRBによるプレスリリース",
-      "analysis": "過去の不正行為や規制違反に対する対応が完了したことを示す。これらの金融機関に対する監視体制が緩和される可能性があり、市場の競争環境に影響を与える可能性がある。ただし、個別の金融機関への影響は限定的と考えられる。",
-      "importance": "medium",
+      "analysis": "過去の不正行為や規制違反に対する是正措置が完了したことを示す。これらの金融機関のコンプライアンス体制が改善されたとFRBが判断したことを意味し、金融市場における信頼回復に繋がる可能性がある。ただし、個別の金融機関に対する措置であり、市場全体への影響は限定的。",
+      "importance": "low",
       "tags": [
         "金融規制",
-        "規制緩和",
+        "コンプライアンス",
         "金融機関"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
     },
     {
-      "speaker": "連邦準備制度理事会 (FRB)",
-      "title": "アメリカ合衆国の中央銀行",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
       "quote": "米国の銀行および信用組合がFedNowサービスを通じて資金を移動するために仲介業者を利用することを許可する提案について、一般からの意見を募集する。",
       "context": "FRBによるプレスリリース",
-      "analysis": "FedNow Serviceの利用拡大に向けた動きであり、決済インフラの効率化と普及を促進する可能性がある。中小規模の金融機関がFedNow Serviceへのアクセスを容易にすることで、競争力強化に繋がる可能性がある。意見募集の結果次第で、最終的な制度設計が変更される可能性がある。",
+      "analysis": "FedNow Serviceの利用拡大に向けた動きであり、決済インフラの効率化と競争促進を目的としている。仲介業者の利用を認めることで、中小規模の金融機関もFedNow Serviceにアクセスしやすくなり、より多くの企業や個人が迅速な決済サービスを利用できるようになる可能性がある。フィンテック企業にとってはビジネスチャンス拡大に繋がるだろう。",
       "importance": "medium",
       "tags": [
         "決済インフラ",
         "FedNow",
-        "金融テクノロジー"
+        "フィンテック",
+        "金融サービス"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
     },
     {
-      "speaker": "連邦公開市場委員会 (FOMC)",
-      "title": "連邦準備制度理事会 (FRB) の政策決定機関",
-      "quote": "（議事録より）2026年3月17-18日の会合の議事録を公開。",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "United Bankの元従業員に対する執行措置を発令する。",
       "context": "FRBによるプレスリリース",
-      "analysis": "議事録の内容次第で、今後の金融政策の方向性に関する手がかりが得られる可能性がある。市場参加者は、インフレ見通し、金利政策、量的緩和策などに関する議論の詳細を分析し、今後の市場動向を予測する。",
-      "importance": "high",
-      "tags": [
-        "金融政策",
-        "FOMC",
-        "金利",
-        "インフレ"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会 (FRB)",
-      "title": "アメリカ合衆国の中央銀行",
-      "quote": "ユナイテッド・バンクの元従業員に対する執行措置を発令する。",
-      "context": "FRBによるプレスリリース",
-      "analysis": "個別の不正行為に対する措置であり、金融システム全体の安定性に対する直接的な影響は小さいと考えられる。ただし、内部統制の重要性を示す事例として、他の金融機関にも注意喚起を促す可能性がある。",
+      "analysis": "個別の不正行為に対する措置であり、金融システムの健全性維持を目的としている。具体的な違反内容や影響範囲は不明だが、FRBが不正行為に対して厳格な姿勢を示していることを意味する。市場への影響は限定的だが、金融機関における内部統制の重要性を再認識させる可能性がある。",
       "importance": "low",
       "tags": [
         "金融規制",
@@ -58,9 +44,24 @@
         "内部統制"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260403a.htm"
+    },
+    {
+      "speaker": "連邦公開市場委員会",
+      "title": "FOMC",
+      "quote": "（議事録より）3月17-18日の会合議事録",
+      "context": "FOMC議事録の公開",
+      "analysis": "具体的な発言内容は議事録を確認する必要があるが、過去の会合における政策決定の背景や議論の内容を知ることができる。今後の金融政策の方向性を予測する上で重要な情報源となる。特に、インフレ見通し、雇用情勢、金融市場の安定性に関する議論は注目される。",
+      "importance": "high",
+      "tags": [
+        "金融政策",
+        "FOMC",
+        "インフレ",
+        "雇用"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
     }
   ],
-  "generated_at": "2026-04-10T02:54:00.115124",
+  "generated_at": "2026-04-10T05:30:30.732029",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
