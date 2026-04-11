@@ -1,18 +1,140 @@
 {
   "date": "2026-04-11",
-  "summary": "イラン情勢緊迫化によるインフレ懸念と消費者心理悪化、原油価格変動、暗号資産市場の規制動向など、複合的な要因が金融市場にリスクをもたらしている。特に、地政学的リスクとインフレ動向が市場の不確実性を高めている。",
+  "summary": "イラン情勢緊迫化によるインフレ懸念と、暗号資産市場の不安定性が金融市場全体のリスクを高めている。特に、原油価格の高騰と消費者心理の悪化が深刻。Palantir株の動向も注視が必要。",
   "overall_risk_level": "high",
   "articles": [
+    {
+      "title": "Stocks gain on Iran ceasefire, plus 3 more things that drove last week's market",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "イラン停戦により株式市場は上昇したが、先週の市場を動かした要因は他にもある。",
+      "analysis": "イラン情勢の緩和は市場に一時的な安心感を与えたものの、根本的な地政学的リスクは依然として高い。停戦が一時的なものであれば、再び市場は混乱する可能性があり、注意が必要。原油価格の変動やサプライチェーンへの影響も考慮する必要がある。",
+      "key_entities": [
+        "S&P 500"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
     {
       "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "イラン戦争の影響で消費者心理が過去最低を記録し、インフレ懸念が高まっている。大学の消費者信頼感指数は大幅に低下。",
-      "analysis": "イラン戦争による原油価格上昇がインフレを加速させ、消費者の購買意欲を著しく低下させている。この状況は、景気後退の可能性を高める。中央銀行はインフレ抑制と景気刺激のバランスを取る必要に迫られ、政策運営が非常に困難になる。地政学的リスクが経済に直接的な影響を与えていることを示しており、今後の紛争拡大や長期化は、更なる経済的打撃となる可能性がある。",
+      "summary": "イラン戦争の影響で消費者心理が過去最低を記録し、インフレ懸念が高まっている。",
+      "analysis": "消費者心理の悪化は、個人消費の減退につながり、景気後退を招く可能性がある。インフレ懸念の高まりは、FRBの金融引き締め政策を加速させる可能性があり、株式市場や債券市場に悪影響を及ぼす。イラン情勢の長期化は、更なる消費者心理の悪化とインフレを招くリスクがある。",
       "key_entities": [
-        "イラン",
-        "消費者信頼感指数",
-        "中央銀行"
+        "FRB"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Iran war oil-price shock revives inflation trade and a new stablecoin play",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "イラン戦争による原油価格高騰がインフレ取引を再燃させ、新たなステーブルコインの動きも。",
+      "analysis": "原油価格の高騰は、輸送コストの上昇やエネルギー価格の上昇を通じて、広範囲にインフレ圧力をかける。インフレヘッジとしてのステーブルコインへの需要が高まる可能性があるが、ステーブルコイン自体の規制リスクや信用リスクも考慮する必要がある。地政学的リスクとインフレリスクが複合的に作用する状況。",
+      "key_entities": [],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin, broader market flat as U.S.-Iran negotiations begin",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "米イラン交渉開始で、ビットコインと市場全体は横ばい。",
+      "analysis": "米イラン交渉の進展は、地政学的リスクの緩和につながる可能性があるが、交渉の行方は不透明であり、市場は様子見姿勢。ビットコインは、地政学的リスクの代替資産としての役割を期待されているが、現時点では限定的な反応にとどまっている。交渉決裂の場合、市場は再びリスクオフに転じる可能性が高い。",
+      "key_entities": [
+        "Bitcoin"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin signals potential seller exhaustion as realized losses decline",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ビットコインの実現損失減少は、売り手の疲弊を示唆する可能性。",
+      "analysis": "実現損失の減少は、ビットコイン価格の下落圧力が弱まっている可能性を示唆するが、買い手が積極的に参入しているわけではない。市場心理が改善する兆しと捉えることもできるが、依然として不安定な状況が続いている。テクニカル分析の観点からは、底打ちのサインと見ることもできるが、ファンダメンタルズの改善が伴わない場合は、一時的な反発に終わる可能性もある。",
+      "key_entities": [
+        "Bitcoin"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "The crypto honeymoon is over for now as analysts warn of a major first-quarter profit squeeze",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "暗号資産の蜜月期間は終わり、アナリストは第1四半期の利益圧迫を警告。",
+      "analysis": "暗号資産市場の成長鈍化は、関連企業の収益悪化につながる可能性があり、投資家のリスク回避姿勢を強める可能性がある。規制強化や競争激化も、利益圧迫の要因となる。市場の成熟化に伴い、淘汰が進む可能性もあり、注意が必要。",
+      "key_entities": [],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "$1.6 billion Ether Machine SPAC deal collapses over unfavorable market",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "16億ドルのEther Machine SPAC取引が、市場の悪化により破談。",
+      "analysis": "SPAC取引の破談は、市場の投資家心理が悪化していることを示唆する。特に、暗号資産関連のSPAC取引は、規制リスクや市場変動リスクが高く、投資家の慎重な姿勢が強まっている。今後のSPAC市場全体にも影響を与える可能性がある。",
+      "key_entities": [
+        "Ether Machine"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Trump name-drops Palantir by ticker symbol, 1st president to hype a stock. It surged $10B in minutes amid a 16% freefall",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "トランプ前大統領がPalantirを言及し、株価が急騰。しかし、その後急落。",
+      "analysis": "政治家の発言による株価操作の疑いがあり、市場の健全性を損なう可能性がある。Palantirの株価は、ファンダメンタルズではなく、政治的な要因に左右されやすく、投資リスクが高い。同様の事例が繰り返される場合、市場の信頼性が低下する恐れがある。",
+      "key_entities": [
+        "Palantir"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Michael Burry says he's still betting against Palantir after Trump post boosts stock",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "マイケル・バーリは、トランプ氏の発言で株価が上昇した後も、Palantirに対する弱気姿勢を維持。",
+      "analysis": "著名投資家の弱気姿勢は、Palantirの株価が過大評価されている可能性を示唆する。市場の短期的な変動に惑わされず、長期的な視点で投資判断を行う必要がある。Palantirの事業モデルや成長戦略に対する市場の評価が分かれていることを示している。",
+      "key_entities": [
+        "Palantir"
       ],
       "sources": [
         "CNBC - Top News"
@@ -25,154 +147,9 @@
       "title": "U.S. oil slips below $100 as Trump demands reopening of Strait of Hormuz",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "トランプ大統領がホルムズ海峡の再開を要求し、米国の原油価格が1バレル100ドルを下回る。地政学的緊張が原油市場を揺るがす。",
-      "analysis": "ホルムズ海峡の封鎖リスクは、原油供給の混乱を引き起こし、世界経済に深刻な影響を与える可能性がある。トランプ大統領の発言は、地政学的リスクをさらに高め、市場のボラティリティを増大させている。原油価格の変動は、インフレ、企業収益、消費者支出に影響を及ぼし、金融市場全体に波及する可能性がある。",
-      "key_entities": [
-        "トランプ大統領",
-        "ホルムズ海峡",
-        "原油価格"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Report delivers blunt reality check as US Medicare, Social Security shortfall surges to $130T — how to protect yourself",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "米国のメディケアと社会保障の不足額が130兆ドルに急増。財政の持続可能性に対する深刻な懸念が浮上。",
-      "analysis": "メディケアと社会保障の巨額な不足は、将来的な増税や給付削減の可能性を示唆し、経済の不確実性を高める。これは、長期的な投資計画や個人の貯蓄行動に影響を与える可能性がある。政府は、財政再建に向けた具体的な対策を講じる必要があり、その過程で金融市場に変動が生じる可能性もある。",
-      "key_entities": [
-        "メディケア",
-        "社会保障",
-        "米国政府"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Japan moves to classify cryptocurrencies as financial products",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "日本が暗号資産を金融商品として分類する動き。規制強化が市場に与える影響に注目。",
-      "analysis": "暗号資産の金融商品化は、投資家保護の強化につながる一方で、市場の流動性低下やイノベーションの阻害要因となる可能性もある。日本の規制動向は、他の国々の規制当局にも影響を与え、グローバルな暗号資産市場の構造変化を促す可能性がある。",
-      "key_entities": [
-        "日本",
-        "暗号資産",
-        "金融庁"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Crypto Clarity bill has 30% chance of passing this year, Wintermute’s Hammond says",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "暗号資産の明確化法案の年内成立確率は30％。規制の不確実性が市場の変動要因に。",
-      "analysis": "暗号資産規制の明確化は、機関投資家の参入を促し、市場の安定化に貢献する可能性がある。しかし、法案の成立が遅れる場合、規制の不確実性が継続し、市場のボラティリティを高める要因となる。投資家は、規制動向を注視し、リスク管理を徹底する必要がある。",
-      "key_entities": [
-        "暗号資産",
-        "規制",
-        "Wintermute"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "These 2 EV Stocks Are Getting No Love Right Now, and That's a Buying Opportunity",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "一部のEV株が過小評価されている可能性。投資機会としての側面も。",
-      "analysis": "EV市場は成長の可能性を秘めているものの、競争激化や技術革新のスピードが速いため、投資判断は慎重に行う必要がある。特定の銘柄が割安であるという主張は、市場全体のトレンドや企業のファンダメンタルズを考慮する必要がある。",
-      "key_entities": [
-        "EV",
-        "電気自動車"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Analysts offer hot take on gold price surge",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "金価格が上昇。アナリストが分析。",
-      "analysis": "金は伝統的に安全資産とみなされ、地政学的リスクやインフレ懸念が高まると価格が上昇する傾向がある。現在の金価格上昇は、市場の不確実性を反映している可能性がある。投資家は、金価格の動向を注視し、ポートフォリオのリスク分散に役立てる必要がある。",
-      "key_entities": [
-        "金",
-        "アナリスト"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "How bond market's private credit crisis fears are playing out in fixed-income ETFs",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "債券市場におけるプライベートクレジット危機への懸念が、固定収入ETFに影響を与えている。",
-      "analysis": "プライベートクレジット市場の透明性の低さと流動性の低さは、金融システム全体のリスクを高める可能性がある。固定収入ETFへの組み入れが進むことで、リスクが拡散する可能性もある。投資家は、プライベートクレジット市場のリスクを理解し、ポートフォリオのリスク管理を徹底する必要がある。",
-      "key_entities": [
-        "債券市場",
-        "プライベートクレジット",
-        "固定収入ETF"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Intel leads the list of most overbought stocks after this week's comeback rally",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Intel株が今週の反発で買われすぎの状態に。",
-      "analysis": "株価が短期間に急騰した場合、調整局面に入る可能性が高まる。投資家は、企業のファンダメンタルズを慎重に分析し、過熱感のある銘柄への投資は控えるべきである。",
-      "key_entities": [
-        "Intel"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Trump policies, China's biotech boom are ending Europe's pharma powerhouse era",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "トランプ政策と中国のバイオテクノロジーブームが、ヨーロッパの製薬業界に影響を与えている。",
-      "analysis": "ヨーロッパの製薬業界は、規制の厳しさや価格設定の問題など、構造的な課題を抱えている。トランプ政権の政策や中国のバイオテクノロジー企業の台頭は、これらの課題をさらに悪化させる可能性がある。ヨーロッパの製薬企業は、競争力を維持するために、イノベーションや効率化を推進する必要がある。",
-      "key_entities": [
-        "トランプ",
-        "中国",
-        "ヨーロッパ",
-        "製薬"
-      ],
+      "summary": "トランプ氏がホルムズ海峡の再開を要求し、米原油価格が100ドルを下回る。",
+      "analysis": "ホルムズ海峡の封鎖は、原油供給の途絶につながり、世界経済に深刻な影響を与える可能性がある。トランプ氏の発言は、地政学的リスクを高め、原油価格の変動を激しくする要因となる。原油価格の変動は、インフレや景気後退のリスクを高める。",
+      "key_entities": [],
       "sources": [
         "CNBC - Top News"
       ],
@@ -183,11 +160,14 @@
   ],
   "region_risk_map": {
     "global": "high",
-    "north_america": "high",
+    "north_america": "medium",
     "europe": "medium",
-    "east_asia": "medium"
+    "east_asia": "medium",
+    "south_america": "low",
+    "africa": "none",
+    "middle_east": "critical"
   },
-  "generated_at": "2026-04-11T15:38:38.259651",
+  "generated_at": "2026-04-11T18:53:05.672490",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

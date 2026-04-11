@@ -1,114 +1,122 @@
 {
   "date": "2026-04-11",
-  "summary": "世界各地でエネルギー不足、特に燃料危機が深刻化し、欧州とインドで抗議デモやパニック買い、交通への影響が報告されています。中東では武力衝突による直接的な住民パニックが発生しており、極めて緊迫した状況が続いています。北米では政治・社会問題に対する抗議が散見されるなど、全般的に社会不安が増大しており、いくつかの地域では警戒が必要なレベルに達しています。",
-  "global_panic_index": 68,
+  "summary": "世界各地で社会不安が高まっており、特にヨーロッパでは金融システムの動揺、壊滅的なエネルギー不足、それに伴う燃料の買いだめといった具体的なパニック行動が顕在化しています。北米でも政治的・社会的な不満を背景とした大規模な抗議デモが継続しており、他の地域でも政治的抗議や労働争議の懸念が見られます。全体として、警戒すべき状況が広がっています。",
+  "global_panic_index": 70,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 52,
-      "status": "unstable",
-      "main_cause": "政治・社会問題への抗議デモ",
+      "panic_index": 60,
+      "status": "volatile",
+      "main_cause": "政治的・社会的不満、警察暴力への抗議",
       "incidents": [
         {
-          "title": "Indivisible NorthamptonがICEの拘留施設資金調達に対しCitizens Bankに抗議",
-          "location": "Northampton, US",
-          "severity": 45,
-          "description": "ICE（移民税関執行局）の拘留施設への資金提供に抗議するため、市民団体が金融機関を対象にデモを実施。特定の企業への抗議活動が行われている。",
-          "source": "The Reminder"
-        },
-        {
-          "title": "ニューヨーク市でICE反対デモに2,000人参加、Renee Nicole Good氏射殺事件以降の混乱続く",
-          "location": "New York City, US",
-          "severity": 55,
-          "description": "死亡事件をきっかけに、ICEに抗議する2000人規模のデモが発生。最近の混乱の一部として報じられ、社会的な不満が顕在化している。",
+          "title": "NYCで2000人規模の反ICE抗議デモが発生",
+          "location": "ニューヨーク市、米国",
+          "severity": 60,
+          "description": "ニューヨーク市で2,000人規模の反ICEデモが発生。特定の死亡事件をきっかけとしたもので、警察の行動や移民政策への深い社会不安が背景にある。事態は「unrest（不安）」と報じられている。",
           "source": "AOL.com"
         },
         {
-          "title": "トランプ氏の「精神的能力」を巡りアメリカ国民がパニック、米議会議事堂外で抗議発生",
-          "location": "US Capitol, US",
-          "severity": 55,
-          "description": "トランプ氏の精神状態を巡る懸念から、議事堂前で抗議デモが発生。政治的な不安が国民の間に広がり、「パニック」という言葉で表現されている。",
+          "title": "トランプ氏の精神能力への懸念と議事堂外での抗議デモ",
+          "location": "ワシントンD.C.、米国",
+          "severity": 65,
+          "description": "米国議事堂外で抗議デモが発生し、一部の国民はトランプ氏の精神状態にパニックを覚えていると報じられている。政治的混乱と社会的分断が顕著な状況。",
           "source": "The Mirror US"
+        },
+        {
+          "title": "ICE拘留資金提供に対する銀行への抗議デモ",
+          "location": "ノーサンプトン、米国",
+          "severity": 40,
+          "description": "ICE（移民税関執行局）の拘留資金提供に対する市民団体による銀行への抗議デモが発生。倫理的問題を巡る社会的不満の表れ。",
+          "source": "The Reminder"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 69,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、燃料危機とそれに伴う買いだめ、交通への影響",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "エネルギー不足、金融危機、大規模デモ",
       "incidents": [
         {
-          "title": "フランスで数百のガソリンスタンドが燃料切れ",
-          "location": "France",
-          "severity": 65,
-          "description": "フランス国内で数百のガソリンスタンドが燃料切れに陥り、国民生活に直接的な影響が出ている。エネルギー供給の不安定さが表面化している。",
-          "source": "logos-pres.md"
+          "title": "一日で420億ドル消失、銀行が破綻",
+          "location": "不明（欧州の主要経済圏と推測）",
+          "severity": 95,
+          "description": "一日で420億ドルが消失し、その後銀行が破綻したと報じられている。これは取り付け騒ぎや広範な金融システムへの不信感を引き起こす極めて危険な事象で、金融パニックの兆候。",
+          "source": "MSN"
         },
         {
-          "title": "欧州、壊滅的なジェット燃料不足に直面。夏にはフライトが欠航、数百万人の旅行者に混乱迫る！",
-          "location": "Europe",
-          "severity": 75,
-          "description": "欧州全域でジェット燃料が壊滅的に不足し、夏には数百万人の旅行者のフライトが欠航する恐れがある。大規模な混乱とパニックが懸念されている。",
+          "title": "ヨーロッパで壊滅的なジェット燃料不足、フライト停止の恐れ",
+          "location": "ヨーロッパ全域",
+          "severity": 85,
+          "description": "ヨーロッパでジェット燃料が壊滅的に不足し、夏季のフライト停止や空港の機能不全が懸念されている。数百万人の旅行計画が混乱し、社会的に大きなパニックを引き起こす恐れがある。",
           "source": "Travel And Tour World"
         },
         {
-          "title": "アイルランドの燃料抗議危機がエスカレート、パニック買いの懸念を煽る",
-          "location": "Ireland",
-          "severity": 70,
-          "description": "アイルランドで燃料抗議運動が激化し、パニック買いへの懸念が高まっている。供給不安が人々の行動に影響を及ぼし始めている。",
-          "source": "Radio Royal"
-        },
-        {
-          "title": "燃料パニック：ロングフォードのサービスステーションが24時間で3日分の燃料を完売",
-          "location": "Longford, Ireland",
-          "severity": 75,
-          "description": "アイルランドのロングフォードでガソリンスタンドが24時間で3日分の燃料を売り切り、燃料パニックが具体的な買いだめ行動に繋がっている。",
+          "title": "アイルランドで燃料パニック、ガソリンスタンドが燃料売り切れ",
+          "location": "ロングフォード、アイルランド",
+          "severity": 80,
+          "description": "アイルランドのロングフォードでガソリンスタンドが24時間で3日分の燃料を売り切る「燃料パニック」が発生。市民による燃料の買いだめ行動が顕在化している。",
           "source": "Longford Leader"
         },
         {
-          "title": "ドイツでイラン弾圧抗議デモ 20万人規模で開催",
-          "location": "Germany",
-          "severity": 65,
-          "description": "ドイツでイランの弾圧に抗議する20万人規模の大規模デモが開催。国外からの政治的圧力や国内の連帯が、社会的な緊張を高めている。",
+          "title": "アイルランドの燃料抗議危機激化、買いだめの懸念引き起こす",
+          "location": "アイルランド",
+          "severity": 75,
+          "description": "アイルランドで燃料抗議デモが激化し、国民の間で燃料の買いだめが懸念されている。エネルギー供給への不安が社会的なパニック行動を誘発する可能性。",
+          "source": "Radio Royal"
+        },
+        {
+          "title": "ドイツでイラン弾圧抗議デモ、20万人規模",
+          "location": "ドイツ",
+          "severity": 70,
+          "description": "ドイツでイランの弾圧に抗議する20万人規模の大規模デモが開催された。国際的な人権問題に対する強い憤りと社会不安が大規模な形で表明されている。",
           "source": "佐賀新聞"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "武力衝突、地域紛争",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "政治的不満",
       "incidents": [
         {
-          "title": "衝撃映像：イラン支援のヒズボラがイスラエルのサフェドをロケット弾で攻撃、イスラエル人がパニックで逃走",
-          "location": "Safed, Israel",
-          "severity": 85,
-          "description": "イラン支援のヒズボラによるロケット弾攻撃がイスラエル北部の都市に直撃。市民がパニックに陥り、避難する様子が映像で確認されている。",
-          "source": "Oneindia"
+          "title": "レバノンでイスラエルとの協議に対する抗議デモ",
+          "location": "レバノン",
+          "severity": 55,
+          "description": "レバノンでイスラエルとの協議に反対する抗議デモが発生。「unrest（不安）」と表現されており、政治的な緊張と社会の不穏な空気を反映している。",
+          "source": "blue News"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、労働争議による社会混乱",
+      "panic_index": 35,
+      "status": "unstable",
+      "main_cause": "政治的不満",
       "incidents": [
         {
-          "title": "ハイデラバードを襲う燃料不足の苦悩、オートドライバーらがLPG危機に抗議",
-          "location": "Hyderabad, India",
-          "severity": 65,
-          "description": "インドのハイデラバードで燃料不足が深刻化し、オートリキシャ運転手らがLPG危機に抗議するデモを実施。市民生活に直接的な影響が波及している。",
-          "source": "Dailyhunt"
-        },
+          "title": "「現れない」首相に対するデモ発生",
+          "location": "日本",
+          "severity": 40,
+          "description": "日本で首相の姿勢に対する抗議デモが発生している。政治に対する国民の不満や懸念が表明されており、社会不安の一端が垣間見える。",
+          "source": "朝日新聞"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "労働争議",
+      "incidents": [
         {
-          "title": "IMTマネサールで混乱：ストライキが逮捕と無秩序を引き起こす",
-          "location": "IMT Manesar, India",
+          "title": "インドで銀行労働組合が大規模ストライキを計画",
+          "location": "インド",
           "severity": 65,
-          "description": "インドのIMTマネサールでストライキが発生し、混乱と逮捕に発展。労働争議が社会秩序の乱れを引き起こしている状況が報告されている。",
-          "source": "Devdiscourse"
+          "description": "インドで銀行労働組合が5月〜6月に大規模なストライキを計画しており、実現すれば金融サービスが広範に停止し、経済活動に大きな混乱が生じる恐れがある。",
+          "source": "Thekanal"
         }
       ]
     }
