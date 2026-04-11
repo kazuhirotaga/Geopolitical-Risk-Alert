@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-11",
-    "summary": "中東情勢が緊迫化。米イラン間の停戦協議がパキスタンで予定されるも、レバノンでのイスラエル軍の攻撃が継続し、停戦合意内容を巡る認識の齟齬が表面化。ウクライナ情勢も依然として不安定であり、世界経済への影響が懸念される。",
+    "summary": "中東情勢が依然として不安定。米イラン間の停戦協議が行われる一方で、レバノンへのイスラエル攻撃が継続。ウクライナ情勢も膠着状態が続く。AI技術の悪用リスクも浮上し、地政学リスクは全体的に高い。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -10,12 +10,12 @@
       "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
-      "africa": "low",
+      "europe": "high",
+      "africa": "medium",
       "north_america": "medium",
-      "south_america": "low"
+      "south_america": "none"
     },
-    "generated_at": "2026-04-11T09:45:45.556131"
+    "generated_at": "2026-04-11T13:07:18.310573"
   },
   {
     "date": "2026-04-10",
