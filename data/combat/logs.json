@@ -1,5 +1,127 @@
 [
   {
+    "date": "2026-04-11",
+    "summary": "米イラン間の停戦合意後も中東地域では緊張状態が継続。米国はイランの核関連施設への攻撃を実施。一方、ウクライナでは、ドローン開発に関する国際協力が進展。欧州ではロシアの潜水艦活動に対する警戒が強まっている。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-04-07",
+        "location": "イラン、ハルグ島",
+        "region": "middle_east",
+        "title": "米軍、イランのハルグ島にある軍事目標を攻撃",
+        "content": "米軍がイランのハルグ島にある軍事目標に対して攻撃を実施。JD Vance副大統領は、今回の攻撃が米国戦略の変化を示すものではないと述べた。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/07/us-hits-military-targets-on-irans-kharg-island/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-04-07",
+        "location": "中東地域",
+        "region": "middle_east",
+        "title": "ロシア、イランにサイバー支援と偵察画像を提供",
+        "content": "ウクライナの情報評価によると、ロシアの衛星が米軍攻撃を支援するため、イランの軍事施設の詳細な画像調査を実施した。",
+        "involved_parties": [
+          "ロシア",
+          "イラン",
+          "アメリカ軍"
+        ],
+        "event_type": "cyber",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/middle-east/2026/04/07/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-04-05",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米特殊部隊、イランから2人目のF-15パイロットを救出",
+        "content": "米特殊部隊が、金曜日に撃墜されたF-15の武器担当官である2人目のパイロットをイランから救出。トランプ大統領は、パイロットが負傷したが無事であると発表。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-second-f-15-airman-from-iran/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-04-09",
+        "location": "北大西洋",
+        "region": "europe",
+        "title": "英国、ロシアの潜水艦による海底ケーブル攻撃を阻止するため軍を配備",
+        "content": "英国は、ロシアの潜水艦による海底ケーブルへの攻撃を阻止するため軍隊を配備。ノルウェー国防省は、P-8哨戒機とフリゲート艦も配備したと発表。",
+        "involved_parties": [
+          "イギリス軍",
+          "ロシア海軍",
+          "ノルウェー軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-04-10",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "英国と米国、ホルムズ海峡の軍事オプションを協議",
+        "content": "英国のスターマーとトランプはホルムズ海峡の軍事オプションについて話し合った。マクロン大統領も、戦争終結後に欧州が重要な水路を確保する可能性を示唆。",
+        "involved_parties": [
+          "イギリス",
+          "アメリカ",
+          "フランス"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/10/uks-starmer-and-trump-discussed-military-options-for-strait-of-hormuz/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-04-07",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "イスラエルとアメリカの攻撃により、イランのWMD計画が崩壊",
+        "content": "CIAの元イラン分析官によると、イスラエルとアメリカの攻撃により、イランの大量破壊兵器計画が崩壊した。",
+        "involved_parties": [
+          "イスラエル",
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/07/irans-other-would-be-wmd-program-lies-in-ruins-following-strikes-by-israel-and-the-us/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-04-07",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "トランプ大統領、イランとの2週間の停戦に合意",
+        "content": "トランプ大統領はイランとの2週間の停戦に合意したと発表。停戦期間中に合意が最終決定される見込み。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/07/trump-says-he-has-agreed-to-two-week-ceasefire-with-iran/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-10",
     "summary": "アメリカとイラン間の停戦が続く中、ホルムズ海峡を巡る緊張が継続。ウクライナはドローン共同生産を模索。ロシアはイランへのサイバー支援を継続。アメリカ軍はイランのハルグ島を攻撃。NATOの結束に亀裂が生じている。",
     "events": [
@@ -4757,44 +4879,6 @@
         "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/your-military/2026/03/09/us-iran-spar-over-status-of-iranian-warship-sunk-by-submarine/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-11",
-    "summary": "ウクライナ東部および中東ガザ地区での戦闘が継続中。ロシア軍によるドネツク州へのドローン攻撃が増加しており、緊張が高まっています。",
-    "events": [
-      {
-        "id": "cbt-001",
-        "timestamp": "2026-03-11T10:30:00Z",
-        "location": "ウクライナ・ドネツク州",
-        "region": "europe",
-        "title": "ロシア軍による大規模ドローン攻撃",
-        "content": "ドネツク州の住宅密集地に対し、計20機以上のイラン製ドローンによる攻撃が発生。エネルギーインフラの一部が損壊した模様。",
-        "involved_parties": [
-          "ロシア軍",
-          "ウクライナ軍"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "ISW",
-        "source_url": "https://understandingwar.org"
-      },
-      {
-        "id": "cbt-002",
-        "timestamp": "2026-03-11T14:15:00Z",
-        "location": "ガザ北部",
-        "region": "middle_east",
-        "title": "ハマス拠点への空爆",
-        "content": "イスラエル国防軍(IDF)がガザ北部の複数の地下トンネルを空爆。ハマスの武器庫を破壊したと発表。",
-        "involved_parties": [
-          "イスラエル軍",
-          "ハマス"
-        ],
-        "event_type": "bombing",
-        "urgency": "medium",
-        "source_name": "Reuters",
-        "source_url": "https://reuters.com"
       }
     ]
   }

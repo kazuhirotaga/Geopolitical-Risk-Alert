@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-11",
+    "summary": "中東情勢は依然として不安定。米イラン停戦交渉がパキスタンで予定されるも、レバノンへの攻撃が継続。ウクライナ情勢も停戦合意が見られるものの、ロシア軍の侵攻は継続。南米では貿易摩擦が激化し、地政学的リスクが高まっている。",
+    "overall_risk_level": "high",
+    "article_count": 9,
+    "region_risk_map": {
+      "east_asia": "high",
+      "southeast_asia": "medium",
+      "south_asia": "high",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "medium",
+      "africa": "critical",
+      "north_america": "medium",
+      "south_america": "medium"
+    },
+    "generated_at": "2026-04-11T02:37:18.317684"
+  },
+  {
     "date": "2026-04-10",
     "summary": "中東情勢が緊迫化。米イラン停戦合意後もイスラエルとレバノンの衝突が継続し、和平交渉の行方が不透明。ウクライナ情勢も停戦合意が不安定で、地政学的リスクが高まっている。",
     "overall_risk_level": "high",
