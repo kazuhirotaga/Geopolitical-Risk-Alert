@@ -1,100 +1,122 @@
 {
   "date": "2026-04-11",
-  "summary": "世界各地では、経済的な不満や政治的な緊張を背景とした大規模な抗議活動が多発しています。特に中東地域では軍事衝突による直接的な住民のパニック、欧州ではエネルギー不足に伴う買いだめが発生し、社会不安が顕在化しています。北米や東アジアでもデモは見られますが、秩序が保たれており、深刻なパニック行動には至っていません。全体としては一部地域で社会機能の混乱が懸念される警戒状態にあります。",
-  "global_panic_index": 70,
+  "summary": "世界各地では、地政学的緊張、経済的困窮、政治的混乱が複合的に社会不安を煽っています。アイルランドでは燃料危機によるパニック買いが発生し、中東では軍事衝突が市民を直接的なパニックに陥れています。イランでの大規模な抗議デモと弾圧、北米での政治的不安、東南アジアでの労働問題も顕著で、全体として不安定な状況が続いています。",
+  "global_panic_index": 54,
   "regions": [
     {
       "region": "north_america",
       "panic_index": 45,
       "status": "unstable",
-      "main_cause": "政治的二極化、社会的不満",
+      "main_cause": "政治的分断、社会問題への抗議",
       "incidents": [
         {
-          "title": "ICE拘留資金提供への抗議デモ",
-          "location": "米国、ノーザンプトン",
-          "severity": 40,
-          "description": "Indivisible NorthamptonがCitizens Bankに対し、移民関税執行局（ICE）の拘留資金提供に抗議するデモを実施。特定の政策に対する市民の不満が表明されています。",
+          "title": "ICE detention financingへの抗議デモ",
+          "location": "Northampton, USA",
+          "severity": 30,
+          "description": "Indivisible NorthamptonがCitizens Bankに対し、ICE（移民税関執行局）の移民収容資金調達への抗議デモを実施。人権問題に対する市民の不満が表明されています。",
           "source": "The Reminder"
         },
         {
-          "title": "トランプ氏の精神状態に関する不安と抗議デモ",
-          "location": "米国、ワシントンD.C.",
-          "severity": 50,
-          "description": "ドナルド・トランプ元大統領の精神状態に対する国民の不安が報じられ、同時期に米国議会議事堂外で抗議デモが発生。政治的な分断と社会的な緊張が伺えます。",
+          "title": "トランプ氏の精神状態に関する抗議デモ",
+          "location": "Washington D.C., USA",
+          "severity": 55,
+          "description": "ドナルド・トランプ元大統領の精神状態に関する懸念から、米議会議事堂前で大規模な抗議デモが発生。政治的な不安定感が市民の間に広まっています。",
           "source": "The Mirror US"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 75,
+      "panic_index": 60,
       "status": "volatile",
-      "main_cause": "エネルギー不足、抗議デモ",
+      "main_cause": "エネルギー不足、経済的困窮",
       "incidents": [
         {
-          "title": "アイルランドの燃料抗議危機エスカレート、買いだめの懸念",
-          "location": "アイルランド",
-          "severity": 80,
-          "description": "燃料抗議活動が激化し、国民の間でパニック買いへの懸念が高まっています。エネルギー供給の混乱が市民生活に直接的な影響を与え始めています。",
+          "title": "アイルランドの燃料抗議危機激化と買いだめ懸念",
+          "location": "Ireland",
+          "severity": 65,
+          "description": "アイルランドで燃料抗議デモが激化し、燃料の買いだめが懸念されています。エネルギー供給の不安定さが市民に不安を与え、社会の緊張が高まっています。",
           "source": "Sky News"
         },
         {
-          "title": "燃料抗議4日目で「パニック買い」発生",
-          "location": "アイルランド、ドネゴール",
+          "title": "燃料抗議デモ4日目でパニック買い発生",
+          "location": "Donegal, Ireland",
           "severity": 75,
-          "description": "燃料抗議が4日目を迎え、実際に燃料のパニック買いが発生していると報じられました。供給不安が行動レベルのパニックに移行している状況です。",
+          "description": "アイルランドの燃料抗議デモが4日目に入り、実際にパニック買いが発生しています。燃料不足への懸念が市民の消費行動に直接的な影響を与え、緊迫感が広まっています。",
           "source": "Donegal Live"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "政治・社会問題への意見表明、個別の犯罪",
-      "incidents": [
-        {
-          "title": "香港の銀行強盗事件",
-          "location": "香港、湾仔",
-          "severity": 30,
-          "description": "湾仔のバンク・オブ・イースト・アジア支店で強盗事件が発生。武装した容疑者が逃走中と報じられました。個別の犯罪ではあるものの、治安への不安を示唆します。",
-          "source": "Dimsum Daily"
         },
         {
-          "title": "憲法改正反対デモと一時的な騒然",
-          "location": "日本、宇都宮駅",
-          "severity": 25,
-          "description": "JR宇都宮駅で無言の憲法改正反対デモが行われ、参加者への暴言により現場が一時騒然となりました。政治的意見の対立が表面化しています。",
-          "source": "下野新聞社"
+          "title": "英国初の現金支給型フードバンク",
+          "location": "UK",
+          "severity": 45,
+          "description": "英国で食料ではなく現金を支給するフードバンクが登場。深刻な経済的困窮が市民生活に影響を与え、食料支援の必要性と形が変化していることを示唆しています。",
+          "source": "The Independent"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 90,
+      "panic_index": 80,
       "status": "critical",
-      "main_cause": "軍事紛争、政治的抑圧、経済難",
+      "main_cause": "軍事衝突、政府による弾圧、経済難",
       "incidents": [
         {
-          "title": "ヒズボラのロケット攻撃でイスラエル住民がパニックに",
-          "location": "イスラエル、サフェド",
-          "severity": 95,
-          "description": "イランが支援するヒズボラのロケット弾がイスラエルのサフェドを襲撃し、市民がパニック状態に陥り逃げ惑う様子が映像で報じられました。生命の危機に直面する直接的なパニックです。",
+          "title": "イスラエル・サフェドへのロケット攻撃と市民のパニック",
+          "location": "Safed, Israel",
+          "severity": 90,
+          "description": "イランを後ろ盾とするヒズボラのロケット攻撃がイスラエルのサフェドを襲い、市民がパニック状態で逃げ惑う様子が映像に捉えられました。生命の危機を感じる直接的なパニック状況です。",
           "source": "Oneindia"
         },
         {
-          "title": "イランでの経済難への抗議デモと弾圧",
-          "location": "イラン",
-          "severity": 90,
-          "description": "経済難に対する抗議デモで多くの若者が殺害されたと報じられています。政府による弾圧と経済的な困窮が重なり、社会不安が極めて高い状態です。",
-          "source": "dメニューニュース"
+          "title": "イランでの経済難抗議デモと若者の犠牲",
+          "location": "Iran",
+          "severity": 70,
+          "description": "経済難に抗議するデモがイランで頻発し、多くの若者が政府による弾圧で犠牲になっています。政府への不満と社会の閉塞感が、深刻な不安定状態を招いています。",
+          "source": "dメニューニュース 他"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 35,
+      "status": "unstable",
+      "main_cause": "政治・社会問題への抗議、治安不安",
+      "incidents": [
+        {
+          "title": "香港での銀行強盗",
+          "location": "Wan Chai, Hong Kong",
+          "severity": 35,
+          "description": "香港のWan ChaiにあるBank of East Asia支店で武装強盗が発生し、容疑者が逃走中です。地域的な治安に対する懸念を示しますが、広範な金融パニックには至っていません。",
+          "source": "Dimsum Daily"
         },
         {
-          "title": "イラン反体制派女性の弾圧と逃避行",
-          "location": "イラン",
-          "severity": 85,
-          "description": "イランの反体制派女性が弾圧と戦火に直面し、母国に戻れずに先行きが見えない状況が報じられています。個人の自由が制限され、強制的な逃避を余儀なくされる状況は深刻です。",
-          "source": "山陽新聞デジタル｜さんデジ"
+          "title": "日本各地での多様な社会問題抗議デモ",
+          "location": "Japan",
+          "severity": 40,
+          "description": "日本各地で首相への不満、憲法改正反対、反戦、最低賃金引き上げ、差別反対など、多様な社会問題に対する抗議デモが頻発。市民の政治参加意識と社会への不満は高まっています。",
+          "source": "朝日新聞 他"
+        },
+        {
+          "title": "韓国での飲酒暴動と裁判官の辞職問題",
+          "location": "South Korea",
+          "severity": 30,
+          "description": "韓国で飲酒暴動を巡る裁判官の不適切判決疑惑が物議を醸し、辞職に至りました。司法への信頼を揺るがす問題ですが、広範な社会パニック行動は確認されていません。",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "経済的困窮、労働問題",
+      "incidents": [
+        {
+          "title": "最低賃金引き上げを求めるデモ",
+          "location": "Southeast Asia",
+          "severity": 50,
+          "description": "最低賃金が月額数十セントという厳しい経済状況下で、賃上げを求めるデモが発生。深刻な経済的困窮とそれに伴う社会不安が地域で高まっています。",
+          "source": "テレ東BIZ"
         }
       ]
     }
