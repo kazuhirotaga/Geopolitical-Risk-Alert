@@ -1,67 +1,67 @@
 {
   "date": "2026-04-11",
-  "summary": "FRB関連の発表が中心。FedNowサービスに関する提案へのパブリックコメント募集、銀行合併の承認、過去の執行措置の終了など、金融政策や規制に関する動きが見られる。市場への直接的な影響は限定的だが、今後の金融システム改革の方向性を示唆する。",
+  "summary": "FRB関連の発表が中心。金融機関の合併承認、過去の執行措置の終了、FedNowサービスの拡大に関する提案など、金融システムと決済インフラの安定化・効率化に向けた動きが見られる。",
   "statements": [
     {
       "speaker": "Federal Reserve Board",
-      "title": "連邦準備制度理事会",
-      "quote": "U.S. banks and credit unionsがFedNow Serviceを通じて資金を移動するためにintermediariesを使用することを許可する提案について、パブリックコメントを募集します。",
-      "context": "FedNow Serviceに関する提案",
-      "analysis": "FedNow Serviceの利用拡大に向けた動きであり、金融機関の効率化と決済システムの近代化を促進する可能性がある。パブリックコメントの結果次第で、今後の金融政策や規制に影響を与える可能性がある。中小金融機関にとっては、大手の決済ネットワークへの依存度を下げる機会となるかもしれない。",
+      "title": "アメリカ合衆国連邦準備制度理事会",
+      "quote": "Burke & Herbert Financial Services Corp.による申請を承認した。",
+      "context": "プレスリリース",
+      "analysis": "地域金融機関の再編・統合を促進する動きの一環。金融セクターの競争環境や地域経済への影響を注視する必要がある。承認の具体的な条件や背景に関する追加情報が待たれる。",
       "importance": "medium",
       "tags": [
-        "FedNow",
-        "決済システム",
-        "金融政策",
-        "規制"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
-    },
-    {
-      "speaker": "Federal Reserve Board",
-      "title": "連邦準備制度理事会",
-      "quote": "Burke & Herbert Financial Services Corp.による申請を承認しました。",
-      "context": "銀行合併・買収",
-      "analysis": "銀行業界の再編が進む中で、FRBが合併を承認したことは、金融機関の規模拡大と競争力強化を容認する姿勢を示唆する。地域金融機関の再編を促し、金融システムの安定化に貢献する可能性がある。",
-      "importance": "low",
-      "tags": [
-        "銀行",
+        "金融機関",
         "合併",
-        "金融システム"
+        "規制"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
     },
     {
       "speaker": "Federal Reserve Board",
-      "title": "連邦準備制度理事会",
-      "quote": "Crédit Agricole S.A. and Crédit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.に対する執行措置を終了します。",
-      "context": "過去の違反に対する措置",
-      "analysis": "過去の執行措置の終了は、対象となった金融機関のコンプライアンス体制が改善されたことを示す。金融市場における信頼回復に繋がり、今後の事業展開にプラスの影響を与える可能性がある。",
-      "importance": "low",
+      "title": "アメリカ合衆国連邦準備制度理事会",
+      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、およびThe Goldman Sachs Group, Inc.に対する執行措置を終了する。",
+      "context": "プレスリリース",
+      "analysis": "過去の不正行為や規制違反に対する対応が一定の成果を上げ、改善が見られたことを示唆する。金融機関のコンプライアンス体制強化の進捗を示す指標となる。市場への直接的な影響は限定的だが、規制当局との関係改善は長期的な企業価値に貢献する可能性がある。",
+      "importance": "medium",
       "tags": [
-        "コンプライアンス",
         "金融機関",
-        "規制"
+        "規制",
+        "コンプライアンス"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
     },
     {
       "speaker": "Federal Open Market Committee",
       "title": "連邦公開市場委員会",
-      "quote": "2026年3月17-18日の連邦公開市場委員会の議事録。",
-      "context": "金融政策決定会合",
-      "analysis": "議事録の内容次第で、今後の金融政策の方向性に関する手がかりが得られる可能性がある。インフレ、雇用、経済成長に関する委員の見解や、利上げ、量的緩和縮小などの政策に関する議論が注目される。",
+      "quote": "2026年3月17-18日の連邦公開市場委員会の議事録",
+      "context": "プレスリリース",
+      "analysis": "議事録の内容次第で、今後の金融政策の方向性に関する重要な手がかりが得られる。インフレ、雇用、経済成長に関する委員会の議論や見通しが、市場の変動要因となる可能性がある。特に、利上げ・利下げのタイミングや量的引き締めに関する議論は注目される。",
       "importance": "high",
       "tags": [
         "金融政策",
         "FOMC",
-        "インフレ",
-        "利上げ"
+        "経済",
+        "インフレ"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
+    },
+    {
+      "speaker": "Federal Reserve Board",
+      "title": "アメリカ合衆国連邦準備制度理事会",
+      "quote": "米国の銀行および信用組合がFedNowサービスを通じて資金を移動するために仲介業者を利用することを許可する提案について、一般からの意見を募集する。",
+      "context": "プレスリリース",
+      "analysis": "FedNowサービスの利用拡大に向けた重要な一歩。中小規模の金融機関が、より効率的に即時決済システムを利用できるようになる可能性がある。フィンテック企業など、新たな仲介業者の参入を促し、決済イノベーションを加速させる効果も期待される。",
+      "importance": "medium",
+      "tags": [
+        "決済",
+        "FinTech",
+        "イノベーション",
+        "FedNow"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
     }
   ],
-  "generated_at": "2026-04-11T18:53:16.150718",
+  "generated_at": "2026-04-11T21:38:24.544757",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
