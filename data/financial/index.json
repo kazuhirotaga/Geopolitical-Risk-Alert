@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-04-12",
-    "summary": "中東情勢の緊迫化（ホルムズ海峡封鎖）が原油価格高騰とインフレ懸念を再燃させ、暗号資産市場にも影響を与えている。米イラン間の交渉決裂もリスクを高めている。一方、好調なAIチップ需要や高配当株への注目など、ポジティブな要素も見られる。",
+    "summary": "中東情勢の緊迫化と原油価格の高騰がインフレ懸念を再燃させ、金融市場に不確実性をもたらしている。暗号資産市場はボラティリティが高く、規制動向も注視が必要。企業業績発表シーズンを迎え、個別銘柄の選別が重要となる。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
-      "north_america": "medium",
+      "global": "critical",
+      "north_america": "low",
       "europe": "low",
-      "east_asia": "medium"
+      "east_asia": "low",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "high"
     },
-    "generated_at": "2026-04-12T15:40:23.497854"
+    "generated_at": "2026-04-12T18:57:22.870111"
   },
   {
     "date": "2026-04-11",
