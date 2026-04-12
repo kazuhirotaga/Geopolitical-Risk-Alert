@@ -1,16 +1,16 @@
 [
   {
     "date": "2026-04-12",
-    "summary": "中東情勢の緊迫化が金融市場に影響を与え、特に暗号資産市場の変動を招いている。米国の金融政策や企業業績への懸念も高まっており、全体的にリスクは高まっている。",
+    "summary": "中東情勢の緊迫化（ホルムズ海峡封鎖）が原油価格高騰とインフレ懸念を再燃させ、暗号資産市場にも影響を与えている。米イラン間の交渉決裂もリスクを高めている。一方、好調なAIチップ需要や高配当株への注目など、ポジティブな要素も見られる。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
-      "europe": "medium",
-      "east_asia": "high"
+      "europe": "low",
+      "east_asia": "medium"
     },
-    "generated_at": "2026-04-12T13:10:31.070748"
+    "generated_at": "2026-04-12T15:40:23.497854"
   },
   {
     "date": "2026-04-11",
