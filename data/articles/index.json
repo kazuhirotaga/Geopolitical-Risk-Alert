@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-12",
+    "summary": "中東情勢は米国とイランの停戦合意後も不安定。レバノンへのイスラエル攻撃やホルムズ海峡の船舶制限が継続。ウクライナ情勢も停戦合意は不透明。東アジアでは台湾の歴史認識問題や北朝鮮の兵器実験がリスク要因。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "high",
+      "southeast_asia": "medium",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "medium",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-04-12T02:56:29.520265"
+  },
+  {
     "date": "2026-04-11",
     "summary": "中東情勢は依然として不安定。米イラン協議が行われる一方で、レバノンへの攻撃やホルムズ海峡の船舶制限が継続。ウクライナでは復活祭に合わせた停戦が開始されるも、戦闘停止は不透明。世界的な開発資金不足も懸念される。",
     "overall_risk_level": "high",
