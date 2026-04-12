@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-12",
-    "summary": "中東における米国とイランの停戦交渉は決裂し、情勢は依然として不安定。ウクライナでは復活祭停戦が実施されるも、戦闘再開の懸念が残る。東アジアでは台湾と中国の接近が見られる。",
+    "summary": "ウクライナ情勢は停戦合意違反の応酬で不透明。米イラン協議も決裂し、中東情勢も不安定。エネルギー価格高騰や食糧危機など、世界経済への影響が懸念される。地政学的リスクは全体的に高い水準。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "medium",
-      "south_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
-      "africa": "high",
+      "africa": "medium",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "low"
     },
-    "generated_at": "2026-04-12T09:51:16.966179"
+    "generated_at": "2026-04-12T13:10:07.422324"
   },
   {
     "date": "2026-04-11",
