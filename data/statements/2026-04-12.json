@@ -1,53 +1,70 @@
 {
   "date": "2026-04-12",
-  "summary": "FRB関連の発表が中心。FedNowサービスに関する提案への意見募集や、過去の執行措置の終了などが発表された。金融政策に関する直接的な発言は見られないが、金融インフラの整備と規制緩和の方向性が示唆される。",
+  "summary": "FRB関連の発表が中心。FedNowサービスの拡大に向けた動きや、過去の執行措置の終了などが公表された。金融機関の業務効率化と規制遵守の進展が示唆される。",
   "statements": [
     {
       "speaker": "Federal Reserve Board",
-      "title": "アメリカ合衆国連邦準備制度理事会",
-      "quote": "U.S. banks and credit unionsがFedNow Serviceを通じて資金を移動させるためにintermediariesを利用することを許可する提案について、public commentを募集する。",
-      "context": "プレスリリース",
-      "analysis": "FedNow Serviceの利用拡大に向けた動きであり、金融機関の柔軟性を高め、決済効率を向上させる可能性がある。フィンテック企業など新たなintermediariesの参入を促し、競争を促進する効果も期待される。意見募集の結果次第で、今後の金融政策や規制に影響を与える可能性がある。",
-      "importance": "medium",
+      "title": "米連邦準備制度理事会",
+      "quote": "Burke & Herbert Financial Services Corp.による申請を承認した。",
+      "context": "FRBによる金融機関の申請承認に関する発表",
+      "analysis": "地域金融機関の事業拡大を支援するFRBの姿勢を示す。具体的な影響は限定的だが、金融セクターの健全性維持に向けた継続的な取り組みの一環と見られる。",
+      "importance": "low",
       "tags": [
-        "FedNow",
-        "金融政策",
-        "規制緩和",
-        "フィンテック"
+        "金融機関",
+        "承認",
+        "FRB"
       ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
     },
     {
       "speaker": "Federal Reserve Board",
-      "title": "アメリカ合衆国連邦準備制度理事会",
-      "quote": "Crédit Agricole S.A. and Crédit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.に対する執行措置を終了する。",
-      "context": "プレスリリース",
-      "analysis": "過去の不正行為や規制違反に対する対応が完了したことを示す。これらの金融機関にとっては、今後の事業展開における制約が軽減されることを意味する。市場への直接的な影響は小さいと考えられるが、規制遵守の重要性を改めて認識させる効果がある。",
-      "importance": "low",
+      "title": "米連邦準備制度理事会",
+      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、Goldman Sachs Group, Inc.に対する執行措置を終了する。",
+      "context": "FRBによる金融機関に対する執行措置の終了に関する発表",
+      "analysis": "対象金融機関がFRBの求める水準を満たしたことを意味し、コンプライアンス体制の改善を示唆する。市場への直接的な影響は小さいものの、金融機関の信頼性向上に寄与する。",
+      "importance": "medium",
       "tags": [
-        "規制",
         "金融機関",
-        "コンプライアンス"
+        "執行措置",
+        "コンプライアンス",
+        "FRB"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
     },
     {
       "speaker": "Federal Open Market Committee (FOMC)",
-      "title": "連邦公開市場委員会",
-      "quote": "2026年3月17-18日のFOMC議事録を公開。",
-      "context": "プレスリリース",
-      "analysis": "議事録の内容次第で、今後の金融政策の方向性に関する手がかりが得られる可能性がある。特に、インフレ見通し、金利政策、量的緩和に関する議論は、市場参加者の注目を集めるだろう。ただし、今回のニュース自体は議事録公開の告知であり、具体的な発言内容は議事録本文を参照する必要がある。",
-      "importance": "medium",
+      "title": "米連邦公開市場委員会",
+      "quote": "2026年3月17-18日のFOMC議事録を公開した。",
+      "context": "FOMC議事録の公開",
+      "analysis": "議事録の内容次第で、今後の金融政策の方向性に関する手がかりが得られる可能性がある。特に、インフレ、雇用、金利に関する議論は市場の注目を集める。",
+      "importance": "high",
       "tags": [
         "金融政策",
         "FOMC",
-        "金利",
-        "インフレ"
+        "議事録",
+        "インフレ",
+        "金利"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
+    },
+    {
+      "speaker": "Federal Reserve Board",
+      "title": "米連邦準備制度理事会",
+      "quote": "米国の銀行および信用組合がFedNowサービスを通じて資金を仲介業者を使用して送金することを許可する提案について、一般からの意見を募集する。",
+      "context": "FedNowサービスに関する提案に対する意見募集",
+      "analysis": "FedNowサービスの利用拡大に向けた重要な一歩。仲介業者の活用により、より多くの金融機関がリアルタイム決済システムにアクセスできるようになる。金融システムの効率化とイノベーションを促進する可能性がある。",
+      "importance": "medium",
+      "tags": [
+        "FedNow",
+        "決済システム",
+        "金融機関",
+        "イノベーション",
+        "FRB"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
     }
   ],
-  "generated_at": "2026-04-12T07:21:43.450623",
+  "generated_at": "2026-04-12T09:51:50.196238",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
