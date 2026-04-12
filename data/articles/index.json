@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-12",
-    "summary": "中東情勢が極めて不安定。米イラン間の停戦協議は難航し、トランプ大統領がホルムズ海峡封鎖を示唆。ウクライナ情勢も停戦合意違反が相次ぎ、世界経済への影響が深刻化。地政学的リスクは全体的に高まっている。",
-    "overall_risk_level": "critical",
+    "summary": "ウクライナ情勢は停戦合意が破綻し、戦闘が継続。米イラン間の停戦交渉も難航し、レバノンへの攻撃が激化。世界的な食糧安全保障への懸念が高まっている。地政学的リスクは全体的に高い水準を維持。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "medium",
+      "southeast_asia": "low",
       "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
-      "africa": "medium",
-      "north_america": "high",
-      "south_america": "none"
+      "africa": "high",
+      "north_america": "medium",
+      "south_america": "low"
     },
-    "generated_at": "2026-04-12T18:57:02.385082"
+    "generated_at": "2026-04-12T21:39:57.354601"
   },
   {
     "date": "2026-04-11",

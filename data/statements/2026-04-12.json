@@ -1,67 +1,66 @@
 {
   "date": "2026-04-12",
-  "summary": "FRB関連の発表が中心。金融機関の合併承認、過去の執行措置の終了、FedNowサービスの拡大に関する提案など、金融システムと決済インフラの安定化・効率化に向けた動きが見られる。FOMC議事録も公開され、金融政策の方向性に関する議論が注目される。",
+  "summary": "FRB関連の発表が中心。FedNowサービスに関する提案へのパブリックコメント募集、銀行合併の承認、過去の執行措置の終了など、金融システム安定化と効率化に向けた動きが見られる。FOMC議事録の公開も注目される。",
   "statements": [
     {
-      "speaker": "Federal Reserve Board",
-      "title": "アメリカ合衆国連邦準備制度理事会",
-      "quote": "Burke & Herbert Financial Services Corp.による申請を承認しました。",
-      "context": "金融機関の合併・買収に関する申請の承認",
-      "analysis": "地域金融機関の再編を促進する可能性を示唆。金融セクターの競争環境やリスク管理体制に影響を与える可能性がある。ただし、個別の承認案件であり、市場全体への直接的な影響は限定的と考えられる。",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "米国の銀行および信用組合がFedNowサービスを通じて資金を移動するために仲介業者を利用することを許可する提案について、一般からの意見を募集します。",
+      "context": "FedNowサービスに関する提案",
+      "analysis": "FedNowサービスの利用拡大に向けた重要な一歩。仲介業者の利用を認めることで、より多くの金融機関がリアルタイム決済システムにアクセスできるようになり、決済効率の向上と金融包摂の促進が期待される。パブリックコメントの結果次第で、最終的な制度設計が変更される可能性もある。",
+      "importance": "medium",
+      "tags": [
+        "金融政策",
+        "決済システム",
+        "FinTech"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
+    },
+    {
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "バーク＆ハーバート・フィナンシャル・サービシズ・コープによる申請を承認します。",
+      "context": "銀行合併・買収の承認",
+      "analysis": "銀行業界の再編が進む中で、地域金融機関の合併は規模拡大と効率化を目指す動きとして注目される。今回の承認は、地域経済への影響や競争環境の変化など、多角的な視点から審査された結果と考えられる。今後の地域金融機関の動向を占う上で重要な事例となる。",
       "importance": "low",
       "tags": [
-        "金融機関",
+        "銀行",
         "合併",
-        "規制"
+        "金融"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
     },
     {
-      "speaker": "Federal Reserve Board",
-      "title": "アメリカ合衆国連邦準備制度理事会",
-      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、Goldman Sachs Group, Inc.に対する執行措置を終了します。",
-      "context": "過去の法令違反や規制不備に対する是正措置の完了",
-      "analysis": "対象金融機関のコンプライアンス体制が改善されたことを示す。市場の信頼回復に繋がり、株価や信用格付けにプラスの影響を与える可能性がある。ただし、過去の事案の終結であり、新たな経済活動への直接的な影響は小さい。",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "クレディ・アグリコルS.A.、クレディ・アグリコル・コーポレート・アンド・インベストメント・バンク、メガ・インターナショナル・コマーシャル・バンク、ゴールドマン・サックス・グループに対する執行措置を終了します。",
+      "context": "過去の執行措置の終了",
+      "analysis": "過去の法令違反や規制不備が是正されたことを示す。これらの金融機関にとっては、レピュテーションリスクの軽減や事業運営の自由度向上につながる。FRBによる監督体制の強化と、金融機関のコンプライアンス意識向上が背景にあると考えられる。",
       "importance": "medium",
       "tags": [
-        "金融機関",
-        "規制",
-        "コンプライアンス"
+        "金融規制",
+        "コンプライアンス",
+        "銀行"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
     },
     {
-      "speaker": "Federal Open Market Committee (FOMC)",
-      "title": "連邦公開市場委員会",
-      "quote": "2026年3月17-18日の会合議事録を公開します。",
-      "context": "金融政策に関する議論の内容を公表",
-      "analysis": "議事録の内容次第で、今後の金融政策の方向性（利上げ、利下げ、量的緩和など）に関する市場の予測が大きく変動する可能性がある。インフレ、雇用、経済成長に関する委員の見解や、リスク評価などが注目される。",
+      "speaker": "連邦公開市場委員会",
+      "title": "FOMC",
+      "quote": "（具体的な発言内容の抽出は議事録の内容に依存するため、ここでは省略。議事録の内容が詳細に分かれば、金融政策に関する委員の発言を抽出可能）",
+      "context": "2026年3月17-18日開催のFOMC会合",
+      "analysis": "FOMC議事録は、金融政策の決定過程や委員の意見を詳細に知る上で非常に重要。インフレ見通し、雇用情勢、金融市場の動向などに関する議論の内容は、今後の金融政策の方向性を予測する上で不可欠な情報となる。市場参加者は、議事録を分析し、FRBの政策スタンスを慎重に見極める必要がある。",
       "importance": "high",
       "tags": [
         "金融政策",
         "FOMC",
-        "金利",
-        "インフレ"
+        "インフレ",
+        "雇用"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
-    },
-    {
-      "speaker": "Federal Reserve Board",
-      "title": "アメリカ合衆国連邦準備制度理事会",
-      "quote": "米国の銀行および信用組合がFedNowサービスを通じて資金を移動するために仲介業者を利用することを許可する提案について、パブリックコメントを募集します。",
-      "context": "FedNowサービスの利用拡大に向けた規制緩和の検討",
-      "analysis": "FedNowサービスの普及を促進し、決済システムの効率化とイノベーションを加速させる可能性がある。中小金融機関の参加を促し、金融包摂を推進する効果も期待できる。フィンテック企業との連携も活発化する可能性がある。",
-      "importance": "medium",
-      "tags": [
-        "決済システム",
-        "FedNow",
-        "金融イノベーション",
-        "フィンテック"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
     }
   ],
-  "generated_at": "2026-04-12T18:57:33.702968",
+  "generated_at": "2026-04-12T21:40:32.838245",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
