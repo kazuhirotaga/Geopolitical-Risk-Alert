@@ -1,16 +1,16 @@
 [
   {
     "date": "2026-04-13",
-    "summary": "地政学的リスクが急増。米国のイラン封鎖措置により原油価格が急騰し、アジア市場は下落。米中間の緊張も高まり、世界経済の不確実性が増大している。暗号資産市場も地政学的リスクに影響を受け、ボラティリティが高まっている。",
-    "overall_risk_level": "high",
+    "summary": "ホルムズ海峡封鎖による原油価格高騰と、米中間の緊張激化が市場を揺るがす。暗号資産市場は停滞し、債券市場も不安定化。地政学的リスクが金融市場全体に深刻な影響を与えている。",
+    "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "critical",
       "north_america": "medium",
-      "europe": "medium",
+      "europe": "low",
       "east_asia": "high"
     },
-    "generated_at": "2026-04-13T08:11:32.986135"
+    "generated_at": "2026-04-13T10:50:57.351020"
   },
   {
     "date": "2026-04-12",

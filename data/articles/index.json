@@ -1,8 +1,8 @@
 [
   {
     "date": "2026-04-13",
-    "summary": "米イラン間の緊張が再燃し、アメリカがイラン海上封鎖を発表。原油価格が急騰し、世界経済への影響が懸念される。ウクライナ情勢も停戦合意が揺らぎ、不安定な状況が続く。地政学リスクは全体的に高まっている。",
-    "overall_risk_level": "high",
+    "summary": "中東情勢が極めて不安定化。米国のイラン海上封鎖により、軍事衝突の可能性が高まり、エネルギー危機が深刻化する恐れ。ウクライナ情勢も停戦合意が破綻し、予断を許さない状況。世界的な地政学リスクが急上昇。",
+    "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
@@ -10,12 +10,12 @@
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
+      "europe": "high",
       "africa": "high",
-      "north_america": "medium",
+      "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-04-13T08:11:12.546616"
+    "generated_at": "2026-04-13T10:50:33.502029"
   },
   {
     "date": "2026-04-12",
