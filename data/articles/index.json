@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-13",
-    "summary": "中東情勢が急速に悪化。アメリカによるイラン海上封鎖開始で緊張が高まり、原油価格高騰や世界経済への影響が懸念される。ウクライナ情勢も停戦合意が崩れ、不安定な状況が続く。",
-    "overall_risk_level": "critical",
-    "article_count": 10,
+    "summary": "ホルムズ海峡封鎖による中東情勢緊迫化、ウクライナ情勢の膠着、南シナ海における中国の活動など、地政学的リスクが複合的に高まっている。世界的な食糧危機への懸念も浮上。",
+    "overall_risk_level": "high",
+    "article_count": 9,
     "region_risk_map": {
-      "east_asia": "high",
-      "southeast_asia": "low",
-      "south_asia": "high",
+      "east_asia": "medium",
+      "southeast_asia": "medium",
+      "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
-      "africa": "medium",
-      "north_america": "high",
-      "south_america": "low"
+      "africa": "high",
+      "north_america": "low",
+      "south_america": "none"
     },
-    "generated_at": "2026-04-13T19:19:28.820911"
+    "generated_at": "2026-04-13T21:54:37.965929"
   },
   {
     "date": "2026-04-12",

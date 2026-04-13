@@ -1,108 +1,73 @@
 {
   "date": "2026-04-13",
-  "summary": "世界全体では、インド各地で発生した労働者デモが暴徒化し、車両の放火や警察との衝突が発生するなど、地域的に深刻な社会不安が高まっています。特にNoida地域では、政府が「陰謀」と見なすほどの混乱が生じており、社会秩序に大きな影響を与えています。また、IMFからはステーブルコインの潜在的な取り付け騒ぎリスクについて警告が出されており、グローバルな金融システムの安定性に対する懸念が示されています。その他の地域では、政治的な抗議デモが散見されるものの、社会秩序が広範に崩壊するようなパニックは報告されていません。",
-  "global_panic_index": 50,
+  "summary": "現在、世界の社会不安は主にインドのノイダにおける大規模な労働争議が暴力化し、車両放火や交通遮断を伴う事態にまで発展している点が特徴です。この混乱は周辺地域にも波及し、労働問題とエネルギー不足が顕在化しています。一方で、国際通貨基金（IMF）はステーブルコインの安定性に関する警告を発しており、潜在的な金融システムへの不安も指摘されていますが、現時点での取り付け騒ぎは確認されていません。",
+  "global_panic_index": 55,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "政治的抗議活動、限定的なデモ中の混乱",
+      "region": "southeast_asia",
+      "panic_index": 85,
+      "status": "volatile",
+      "main_cause": "労働争議、賃金問題、エネルギー不足",
       "incidents": [
         {
-          "title": "パレスチナ未承認への反発デモ",
-          "location": "イタリア各地",
-          "severity": 30,
-          "description": "イタリア各地で、パレスチナ国家未承認に対する抗議デモが発生しました。これは政治的な意思表示であり、社会秩序の混乱を伴うパニックには至っていません。",
-          "source": "佐賀新聞"
+          "title": "Noida労働者抗議デモの暴力化",
+          "location": "Noida, India",
+          "severity": 88,
+          "description": "賃上げを求める労働者の抗議デモが暴力化し、車両放火、投石、器物損壊、主要道路の遮断が発生。警察と衝突し、社会秩序に深刻な影響を及ぼしている。",
+          "source": "The Economic Times, NDTV, MSN, Moneycontrol.com など"
         },
         {
-          "title": "デモ中のパニック",
-          "location": "トルコ",
-          "severity": 20,
-          "description": "市街地での抗議デモ中に、人が溺れるという事故が発生し、一時的にパニック状態が生じました。これは広範な社会不安というよりは、個別の事故に起因するものでした。",
-          "source": "Haberler.com"
+          "title": "労働不安の周辺地域への拡大",
+          "location": "Bulandshahr, Faridabad, Delhi-NCR, India",
+          "severity": 75,
+          "description": "Noidaでの労働争議がHaryana州FaridabadやBulandshahrにも波及。Delhi警察も警戒態勢に入るなど、地域全体の労働不安が拡大している。",
+          "source": "The Times of India, India.Com"
+        },
+        {
+          "title": "CMによる「陰謀」発言と政府の対応",
+          "location": "Uttar Pradesh, India",
+          "severity": 70,
+          "description": "CM Yogi AdityanathはNoidaの騒動を「陰謀」と呼び、事態の背景に「部外者」の扇動があると指摘。政府は高レベルパネルを設置し、鎮静化を図っている。",
+          "source": "MSN, NDTV, India TV News など"
+        },
+        {
+          "title": "HyderabadでのLPG不足抗議デモ",
+          "location": "Hyderabad, India",
+          "severity": 60,
+          "description": "オートタクシー運転手らがLPG（液化石油ガス）不足に抗議し、主要道路を封鎖。交通網に混乱が生じ、エネルギー供給への不安が表面化している。",
+          "source": "Dailyhunt"
         }
       ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 15,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
     },
     {
       "region": "east_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "労働争議による大規模な抗議デモと暴動",
-      "incidents": [
-        {
-          "title": "Noida労働者暴動",
-          "location": "インド、Noida",
-          "severity": 90,
-          "description": "賃上げ要求を巡る労働者デモが暴徒化し、車両の放火、石投げ、警察車両の破壊、道路封鎖などが広範に発生。CM Yogi Adityanathは「陰謀」と発言し、高レベルの調査委員会が設置されるなど、社会秩序が大きく混乱しています。",
-          "source": "The Economic Times, The Times of India, Moneycontrol.com 他多数"
-        },
-        {
-          "title": "IMT-Manesarでの抗議デモ",
-          "location": "インド、Gurugram (IMT-Manesar)",
-          "severity": 70,
-          "description": "IMT-Manesarでの抗議デモ中に「不穏な動き」が発生し、警察はこれを「計画的な陰謀」の一部と見ています。労働争議が各地で過激化する傾向が見られます。",
-          "source": "Hindustan Times"
-        },
-        {
-          "title": "Bulandshahrへの労働不安の波及",
-          "location": "インド、Bulandshahr (Sikandrabad)",
-          "severity": 65,
-          "description": "Noidaでの暴動後、労働不安がBulandshahrのSikandrabadにある工場にも波及し、労働者による抗議活動が報告されています。不安が周辺地域に広がる兆候が見られます。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Faridabadへの労働不安の波及と警察の警戒",
-          "location": "インド、Haryana (Faridabad)",
-          "severity": 60,
-          "description": "Noidaに続き、労働不安がハリヤナ州のFaridabadにまで広がり、デリー警察が高警戒態勢を敷いています。労働争議の地域的な連鎖が懸念されます。",
-          "source": "India.Com"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
       "panic_index": 25,
-      "status": "stable",
-      "main_cause": "政治的抗議活動",
+      "status": "normal",
+      "main_cause": "社会的な差別問題",
       "incidents": [
         {
-          "title": "イラン攻撃への反対デモ",
-          "location": "場所不明（イラン関連）",
+          "title": "藤沢駅前での差別扇動デモ",
+          "location": "Fujisawa, Japan",
           "severity": 25,
-          "description": "イラン攻撃への反対デモが発生し、政治的なメッセージを伝えるための「人形」が出現しました。これは特定の政治的主張を示すもので、広範なパニック状況ではありません。",
-          "source": "ニューズウィーク日本版 オフィシャルサイト"
+          "description": "藤沢駅前でイスラム教徒への差別を煽動するデモが発生。ヘイトスピーチに対する罰則条例の必要性が議論されるなど、社会的な懸念は存在するが、パニックには至っていない。",
+          "source": "カナロコ"
         }
       ]
     },
     {
-      "region": "africa",
-      "panic_index": 15,
+      "region": "europe",
+      "panic_index": 35,
       "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
-    },
-    {
-      "region": "south_america",
-      "panic_index": 15,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 15,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
+      "main_cause": "抗議活動中の事故",
+      "incidents": [
+        {
+          "title": "抗議デモ中の溺死事故",
+          "location": "Turkey",
+          "severity": 35,
+          "description": "都市広場での抗議デモ中に人が溺れる事故が発生し、「パニックの瞬間」と報じられたが、社会全体を揺るがす広範囲なパニックには至っていない。",
+          "source": "Haberler.com"
+        }
+      ]
     }
   ]
 }
