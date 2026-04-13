@@ -1,143 +1,124 @@
 {
   "date": "2026-04-13",
-  "summary": "世界全体では、エネルギー不足とそれに伴うコスト高騰が欧州とアジアの一部で大規模な抗議デモや供給網の混乱を引き起こし、社会不安を増大させています。中東地域では、継続する紛争が人道危機を深刻化させ、暴力と反体制活動が社会秩序を脅かし、極めて危険な状態にあります。一部地域では、金融システムへの不信感やフェイクニュースが不安を煽る兆候も見られます。全体として、特定の地域で警戒状態にあり、グローバルな連鎖反応への懸念が高まっています。",
-  "global_panic_index": 55,
+  "summary": "世界各地で社会不安が高まっています。インドでは労働者の賃上げ要求デモが暴徒化し、車両放火や交通麻痺が発生、近隣地域への波及も懸念されます。アイルランドでは燃料不足と価格高騰に対する大規模デモが続き、政府が緊急対策を発表。ガザ地区では戦争下で薬剤不足が深刻化し、人道危機に瀕しています。米国では政治的緊張と金融不安の兆候が見られ、一部でデモが混乱状態に陥っています。全体的に、経済的困窮、資源不足、政治的不満が主要な要因となり、複数の地域で社会秩序の不安定化が見られます。",
+  "global_panic_index": 65,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "エネルギー不足とコスト高騰、これに伴う大規模な抗議デモ",
-      "incidents": [
-        {
-          "title": "アイルランドでの燃料価格高騰に対する大規模抗議デモ",
-          "location": "ダブリン、アイルランド",
-          "severity": 75,
-          "description": "燃料価格の急騰を受け、ダブリン中心部で数日間にわたる大規模な抗議デモが発生。警察がデモ隊を排除し、政府は税金引き下げなどの対策を発表したが、供給不安は継続している。",
-          "source": "Los Angeles Times, politico.eu, CBC, Sky News, BBC"
-        },
-        {
-          "title": "フランスの広範なガソリンスタンドでの燃料切れ",
-          "location": "フランス",
-          "severity": 60,
-          "description": "フランス国内の数百のガソリンスタンドで燃料が枯渇し、供給網の深刻な混乱が発生。市民の間ではエネルギー不足に対する不安が広がり、日常生活に支障をきたし始めている。",
-          "source": "logos-pres.md"
-        },
-        {
-          "title": "北アイルランドへの燃料抗議デモの拡大",
-          "location": "北アイルランド、イギリス",
-          "severity": 65,
-          "description": "アイルランドでの燃料危機が北アイルランドにも波及し、同地で初の燃料抗議デモが発生。さらなる封鎖が示唆されており、社会不安が広範囲に拡大する懸念がある。",
-          "source": "The Irish News"
-        },
-        {
-          "title": "ロンドンにおける特定の食料品（ピクルス）の供給不足",
-          "location": "ロンドン、イギリス",
-          "severity": 30,
-          "description": "特定の人気飲食店で重要な食料品であるピクルスの供給不足が報告された。大規模な食料危機ではないものの、サプライチェーンの脆弱性に対する軽微な懸念を引き起こしている。",
-          "source": "London Centric"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
+      "region": "southeast_asia",
       "panic_index": 75,
-      "status": "critical",
-      "main_cause": "紛争と人道危機、地政学的緊張、反体制活動",
+      "status": "volatile",
+      "main_cause": "労働者の賃金不満による暴力的抗議デモ、エネルギー不足",
       "incidents": [
         {
-          "title": "ガザ地区での医薬品不足と治療を求める逃避の訴え",
-          "location": "ガザ地区、パレスチナ",
-          "severity": 85,
-          "description": "イスラエル軍の攻撃と医薬品不足により、ガザ地区の腎臓病患者が国外での治療を必死に求めている。紛争が人道危機を深刻化させ、命に関わるパニック状態にある。",
-          "source": "Anadolu Ajansı"
+          "title": "インド・ノイダでの賃上げデモが暴徒化し車両放火",
+          "location": "インド、ノイダ",
+          "severity": 80,
+          "description": "労働者による賃上げ要求デモが暴徒化し、多数の車両が放火され、投石や器物損壊が発生。警察は催涙ガスを使用し、主要道路は封鎖され交通が麻痺した。",
+          "source": "The Economic Times 他多数"
         },
         {
-          "title": "ヨルダン川西岸での暴力の激化とパレスチナ人殺害",
-          "location": "ヨルダン川西岸、パレスチナ",
+          "title": "ノイダの労働不安が周辺地域に拡大",
+          "location": "インド、ファリダバード、デリー",
           "severity": 70,
-          "description": "ヨルダン川西岸でイスラエル兵によるパレスチナ人男性の殺害が報じられ、紛争関連の暴力が再び激化している。地域住民の安全と社会秩序に対する深刻な不安が増大している。",
-          "source": "New Haven Register, Morning Star"
+          "description": "ノイダでの労働不安が近隣のハリヤナ州ファリダバードにも拡大し、デリー警察が厳戒態勢に入るなど、社会不安の波及が懸念されている。",
+          "source": "India.Com"
         },
         {
-          "title": "イランにおける反体制活動と政権の統制力低下",
-          "location": "イラン",
-          "severity": 70,
-          "description": "組織的な反体制活動と処刑が続く中、イラン政権の国民に対する統制力が低下していることが報じられた。これは大規模な社会不安と政治的混乱の兆候を示している。",
-          "source": "irannewsupdate.com"
-        },
-        {
-          "title": "ホルムズ海峡封鎖の可能性示唆による地政学的緊張",
-          "location": "ホルムズ海峡",
-          "severity": 65,
-          "description": "米元大統領がホルムズ海峡の即時封鎖を示唆し、世界のエネルギー供給に甚大な影響を与える可能性が浮上。これは国際市場と中東地域の潜在的なパニック要因となっている。",
-          "source": "Radio Free Europe/Radio Liberty"
+          "title": "インド国内でのLPG供給危機",
+          "location": "インド",
+          "severity": 60,
+          "description": "国内でLPG（液化石油ガス）の供給危機が報じられ、供給不足への懸念から政府系石油会社が対応策を検討している。",
+          "source": "MSN"
         }
       ]
     },
     {
-      "region": "east_asia",
+      "region": "europe",
       "panic_index": 60,
       "status": "unstable",
-      "main_cause": "エネルギー不足、社会秩序の乱れ、金融システムへの不信",
+      "main_cause": "燃料不足と価格高騰による大規模デモ",
       "incidents": [
         {
-          "title": "インドにおけるLPG供給危機と抗議デモ",
-          "location": "インド",
+          "title": "アイルランドで燃料危機に対する抗議デモが続く",
+          "location": "アイルランド、ダブリン",
           "severity": 65,
-          "description": "インドではLPG（液化石油ガス）の供給危機が深刻化し、国営石油会社が10kgシリンダーの導入を検討。これに対し、オートリキシャ運転手らがLPG供給を求めるデモを実施している。",
-          "source": "MSN, The Times of India"
+          "description": "燃料不足と価格高騰に対する全国的な抗議デモが数日間続き、一部のガソリンスタンドでは燃料が枯渇。政府は燃料税の減税措置を発表した。",
+          "source": "Sky News, CBC"
         },
         {
-          "title": "パキスタンにおける武装強盗の横行と治安の悪化",
-          "location": "シャー・ファイサル橋、パキスタン",
-          "severity": 70,
-          "description": "パキスタンのシャー・ファイサル橋で武装した強盗が頻発し、市民の安全が深刻に脅かされている。これは社会秩序の著しい乱れと略奪に近い状況を示唆している。",
-          "source": "The Express Tribune"
-        },
-        {
-          "title": "インド国営銀行詐欺事件後の金融システムへの不信感",
-          "location": "インド",
-          "severity": 45,
-          "description": "国営銀行での大規模詐欺事件を受け、インド準備銀行総裁が監督権限の強化を要求。取り付け騒ぎには至っていないものの、金融システムへの不信感が高まっている。",
-          "source": "AOL.com"
-        },
-        {
-          "title": "インドでのデモ関連誤情報動画拡散と逮捕",
-          "location": "マネサール、インド",
-          "severity": 40,
-          "description": "マネサールの抗議デモに関連して、誤解を招く動画を投稿した人物が逮捕された。フェイクニュースが社会不安を増幅させる可能性があり、情報統制が課題となっている。",
-          "source": "Hindustan Times"
+          "title": "ダブリン中心部で燃料抗議デモ参加者が排除される",
+          "location": "アイルランド、ダブリン",
+          "severity": 55,
+          "description": "燃料価格の高騰に対するデモがダブリン中心部で行われ、交通の混乱を避けるため警察がデモ参加者を排除する事態となった。",
+          "source": "Los Angeles Times"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "特筆すべきパニック事象なし",
-      "incidents": []
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "政治的対立、金融不安、社会的不満",
+      "incidents": [
+        {
+          "title": "トランプ氏の精神状態に関する懸念と抗議デモ",
+          "location": "米国、ワシントンD.C.",
+          "severity": 40,
+          "description": "トランプ氏の精神状態に関する懸念から国民が「パニック」に陥り、米議会議事堂外で抗議デモが発生するなど、政治的緊張が高まっている。",
+          "source": "AOL.com"
+        },
+        {
+          "title": "シャドーバンクで大規模な資金引き出しが発生",
+          "location": "米国（金融市場）",
+          "severity": 60,
+          "description": "シャドーバンクBlue Owlで投資家が54億ドルを引き出そうとし、払い戻しに上限が設定された。金融市場における不安の兆候が見られる。",
+          "source": "MSN"
+        },
+        {
+          "title": "ロサンゼルスで大規模デモが混乱状態に",
+          "location": "米国、ロサンゼルス",
+          "severity": 55,
+          "description": "「No Kings」と題された大規模な抗議デモが混乱状態に陥り、多数の参加者が逮捕された。社会的不満が表面化している。",
+          "source": "MSN"
+        }
+      ]
     },
     {
-      "region": "south_america",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "特筆すべきパニック事象なし",
-      "incidents": []
+      "region": "middle_east",
+      "panic_index": 70,
+      "status": "critical",
+      "main_cause": "戦争、薬剤不足、人道危機",
+      "incidents": [
+        {
+          "title": "ガザ地区で薬剤不足、腎臓病患者が国外治療を要求",
+          "location": "パレスチナ自治区、ガザ",
+          "severity": 80,
+          "description": "イスラエル軍の攻撃と深刻な薬剤不足により、ガザ地区の腎臓病患者は国外での治療を強く要求しており、人道危機が深刻化している。",
+          "source": "Anadolu Ajansı"
+        },
+        {
+          "title": "イスラエルでイランデモ支持の抗議活動",
+          "location": "イスラエル",
+          "severity": 45,
+          "description": "イスラエルでイランのデモ参加者を支持する抗議活動が行われた。これはイラン国内の数週間にわたる不安に対する間接的な反応を示している。",
+          "source": "MSN"
+        }
+      ]
     },
     {
-      "region": "africa",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "特筆すべきパニック事象なし",
-      "incidents": []
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "特筆すべきパニック事象なし",
-      "incidents": []
+      "region": "australia",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "燃料不足の懸念",
+      "incidents": [
+        {
+          "title": "イランがオーストラリアの燃料不足を揶揄",
+          "location": "オーストラリア",
+          "severity": 30,
+          "description": "イランのメディアがオーストラリアの燃料不足を『マッドマックス』に例えて揶揄した。国内の燃料不足に対する懸念が示唆されているが、具体的なパニック行動は報じられていない。",
+          "source": "The Nightly"
+        }
+      ]
     }
   ]
 }
