@@ -1,58 +1,108 @@
 {
   "date": "2026-04-13",
-  "summary": "世界各地で社会不安の兆候が見られます。特にインドのNoidaでは、労働者による大規模な賃上げ抗議デモが暴徒化し、車両放火や警察との衝突が発生、社会秩序の混乱が見られます。アイルランドでは燃料危機に端を発する抗議デモが発生しましたが、政府の対策発表により沈静化の方向に向かっています。金融市場ではIMFがステーブルコインの準備資産の安定性に警鐘を鳴らし、潜在的な取り付け騒ぎのリスクを指摘しており、国際的な金融不安の芽が燻っています。",
-  "global_panic_index": 58,
+  "summary": "世界全体では、インド各地で発生した労働者デモが暴徒化し、車両の放火や警察との衝突が発生するなど、地域的に深刻な社会不安が高まっています。特にNoida地域では、政府が「陰謀」と見なすほどの混乱が生じており、社会秩序に大きな影響を与えています。また、IMFからはステーブルコインの潜在的な取り付け騒ぎリスクについて警告が出されており、グローバルな金融システムの安定性に対する懸念が示されています。その他の地域では、政治的な抗議デモが散見されるものの、社会秩序が広範に崩壊するようなパニックは報告されていません。",
+  "global_panic_index": 50,
   "regions": [
     {
-      "region": "southeast_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "労働者の賃金・労働条件を巡る社会不安",
+      "region": "europe",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "政治的抗議活動、限定的なデモ中の混乱",
       "incidents": [
         {
-          "title": "Noida労働者デモの暴徒化、車両放火と衝突",
-          "location": "インド、Noida",
-          "severity": 85,
-          "description": "NoidaのSamvardhana Motherson社の労働者による賃金引き上げ要求デモが暴徒化。車両が放火され、警察車両が破壊され、石が投げられた。警察は催涙ガスを使用し、多数の逮捕者が出ている。主要道路が封鎖され、交通が麻痺した。",
-          "source": "The Economic Times, The Times of India, India Today など多数"
+          "title": "パレスチナ未承認への反発デモ",
+          "location": "イタリア各地",
+          "severity": 30,
+          "description": "イタリア各地で、パレスチナ国家未承認に対する抗議デモが発生しました。これは政治的な意思表示であり、社会秩序の混乱を伴うパニックには至っていません。",
+          "source": "佐賀新聞"
         },
         {
-          "title": "Noida労働者デモにおける広範な社会秩序の混乱",
-          "location": "インド、Noida",
-          "severity": 80,
-          "description": "賃上げを求める労働者デモが激化し、地域全体で衝突と混乱が発生。交通遮断、器物損壊、警察との対立が常態化し、企業活動にも影響が出ている。政府は事態を「陰謀」と見ており、広範な社会不安を懸念している。",
-          "source": "Moneycontrol.com, News18, The Statesman"
-        },
-        {
-          "title": "労働不安の近隣地域への波及",
-          "location": "インド、ファリーダーバード、ビワディ",
-          "severity": 70,
-          "description": "Noidaでの暴動後、労働不安はハリヤーナ州のファリーダーバードやビワディにも拡大する兆候を見せており、デリー警察は厳戒態勢を敷いている。近隣地域への社会不安の波及が懸念される。",
-          "source": "India.Com, ABP News"
-        },
-        {
-          "title": "IMT-Manesarでのデモと計画的陰謀の指摘",
-          "location": "インド、IMT-Manesar",
-          "severity": 65,
-          "description": "IMT-Manesarでの抗議デモ中に発生した騒乱が「計画的な陰謀」の一部であるとグルグラム警察が指摘。誤情報動画の拡散者も逮捕されており、デモの背後に組織的な動きが存在する可能性が示唆されている。",
-          "source": "Hindustan Times"
+          "title": "デモ中のパニック",
+          "location": "トルコ",
+          "severity": 20,
+          "description": "市街地での抗議デモ中に、人が溺れるという事故が発生し、一時的にパニック状態が生じました。これは広範な社会不安というよりは、個別の事故に起因するものでした。",
+          "source": "Haberler.com"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "エネルギー不足",
+      "region": "north_america",
+      "panic_index": 15,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "労働争議による大規模な抗議デモと暴動",
       "incidents": [
         {
-          "title": "アイルランドにおける燃料危機抗議デモ",
-          "location": "アイルランド",
-          "severity": 55,
-          "description": "数日間にわたる燃料危機に関する抗議デモが発生。市民生活への影響が懸念されたが、アイルランド政府が燃料危機を緩和するための措置を発表し、事態は沈静化の方向に向かっている。",
-          "source": "Sky News"
+          "title": "Noida労働者暴動",
+          "location": "インド、Noida",
+          "severity": 90,
+          "description": "賃上げ要求を巡る労働者デモが暴徒化し、車両の放火、石投げ、警察車両の破壊、道路封鎖などが広範に発生。CM Yogi Adityanathは「陰謀」と発言し、高レベルの調査委員会が設置されるなど、社会秩序が大きく混乱しています。",
+          "source": "The Economic Times, The Times of India, Moneycontrol.com 他多数"
+        },
+        {
+          "title": "IMT-Manesarでの抗議デモ",
+          "location": "インド、Gurugram (IMT-Manesar)",
+          "severity": 70,
+          "description": "IMT-Manesarでの抗議デモ中に「不穏な動き」が発生し、警察はこれを「計画的な陰謀」の一部と見ています。労働争議が各地で過激化する傾向が見られます。",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Bulandshahrへの労働不安の波及",
+          "location": "インド、Bulandshahr (Sikandrabad)",
+          "severity": 65,
+          "description": "Noidaでの暴動後、労働不安がBulandshahrのSikandrabadにある工場にも波及し、労働者による抗議活動が報告されています。不安が周辺地域に広がる兆候が見られます。",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Faridabadへの労働不安の波及と警察の警戒",
+          "location": "インド、Haryana (Faridabad)",
+          "severity": 60,
+          "description": "Noidaに続き、労働不安がハリヤナ州のFaridabadにまで広がり、デリー警察が高警戒態勢を敷いています。労働争議の地域的な連鎖が懸念されます。",
+          "source": "India.Com"
         }
       ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "政治的抗議活動",
+      "incidents": [
+        {
+          "title": "イラン攻撃への反対デモ",
+          "location": "場所不明（イラン関連）",
+          "severity": 25,
+          "description": "イラン攻撃への反対デモが発生し、政治的なメッセージを伝えるための「人形」が出現しました。これは特定の政治的主張を示すもので、広範なパニック状況ではありません。",
+          "source": "ニューズウィーク日本版 オフィシャルサイト"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 15,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "south_america",
+      "panic_index": 15,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 15,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
     }
   ]
 }
