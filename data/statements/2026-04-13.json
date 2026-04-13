@@ -1,67 +1,67 @@
 {
   "date": "2026-04-13",
-  "summary": "FRB関連の発表が中心。金融機関の合併・買収承認、過去の執行措置の終了、FedNowサービスの拡大に関する提案など、金融システムと決済インフラの安定化・効率化を目指す動きが見られる。FOMC議事録からは、金融政策の議論内容を窺い知れる。",
+  "summary": "FRB関連の発表が中心。FedNowサービスに関する提案へのパブリックコメント募集や、過去のFOMC議事録公開など、金融政策の透明性向上と決済インフラの改善に向けた動きが見られる。個別の銀行に対する執行措置の終了も発表された。",
   "statements": [
     {
       "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "Burke & Herbert Financial Services Corp.による申請を承認",
-      "context": "プレスリリース",
-      "analysis": "地域金融機関の再編を促進する可能性を示唆。金融セクターの競争環境やリスク管理体制に影響を与える可能性がある。承認の背景には、地域経済の活性化や金融システムの安定化への期待があると考えられる。",
+      "title": "連邦準備制度理事会",
+      "quote": "U.S. banks and credit unionsがFedNow Serviceを通じて資金を移動するためにintermediariesを利用することを許可する提案について、パブリックコメントを募集します。",
+      "context": "FedNow Serviceに関する提案",
+      "analysis": "FedNow Serviceの利用拡大に向けた動きであり、決済システムの効率化と金融包摂の促進が期待される。パブリックコメントの結果次第で、今後の金融機関の戦略やフィンテック企業のビジネスモデルに影響を与える可能性がある。",
       "importance": "medium",
       "tags": [
-        "金融機関",
-        "合併・買収",
-        "規制"
+        "FedNow",
+        "決済システム",
+        "金融包摂",
+        "フィンテック"
       ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
-    },
-    {
-      "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、Goldman Sachs Group, Inc.に対する執行措置を終了",
-      "context": "プレスリリース",
-      "analysis": "過去の不正行為や規制違反に対する対応が完了したことを意味する。これらの金融機関のコンプライアンス体制が改善されたことを示唆し、市場の信頼回復に繋がる可能性がある。ただし、具体的な違反内容や改善策については不明。",
-      "importance": "medium",
-      "tags": [
-        "金融規制",
-        "コンプライアンス",
-        "執行措置"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
     },
     {
       "speaker": "Federal Open Market Committee (FOMC)",
-      "title": "米連邦公開市場委員会",
-      "quote": "2026年3月17-18日の会合議事録",
-      "context": "プレスリリース",
-      "analysis": "金融政策の決定プロセスや委員間の議論内容を知る上で重要な情報源。今後の金融政策の方向性や、経済見通しに対するFOMCの認識を把握できる。市場参加者は、議事録の内容を詳細に分析し、今後の投資戦略に役立てるだろう。",
+      "title": "連邦公開市場委員会",
+      "quote": "2026年3月17-18日のFOMC議事録を公開します。",
+      "context": "FOMC議事録の公開",
+      "analysis": "議事録の内容次第で、今後の金融政策の方向性に関する市場の憶測が強まる可能性がある。特に、インフレ見通し、利上げペース、量的引き締めに関する議論は、市場参加者にとって重要な情報となるだろう。",
       "importance": "high",
       "tags": [
-        "金融政策",
         "FOMC",
-        "議事録",
-        "経済見通し"
+        "金融政策",
+        "インフレ",
+        "利上げ",
+        "量的引き締め"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
     },
     {
       "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "米国の銀行および信用組合がFedNowサービスを通じて資金を移動するために仲介業者を利用することを許可する提案に関するパブリックコメントを募集",
-      "context": "プレスリリース",
-      "analysis": "FedNowサービスの利用拡大に向けた重要な一歩。中小金融機関の参加を促進し、決済システムの効率化と競争力強化に貢献する可能性がある。パブリックコメントの結果次第で、最終的な規制内容が変更される可能性がある。",
-      "importance": "medium",
+      "title": "連邦準備制度理事会",
+      "quote": "Crédit Agricole S.A. and Crédit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.に対する執行措置を終了します。",
+      "context": "特定の金融機関に対する執行措置の終了",
+      "analysis": "これらの金融機関が規制当局の要求を満たし、コンプライアンス体制が改善されたことを示唆する。市場への直接的な影響は限定的だが、金融機関の健全性に対する信頼感向上に繋がる可能性がある。",
+      "importance": "low",
       "tags": [
-        "決済システム",
-        "FedNow",
-        "金融イノベーション",
-        "規制"
+        "金融規制",
+        "コンプライアンス",
+        "金融機関"
       ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
+    },
+    {
+      "speaker": "Federal Reserve Board",
+      "title": "連邦準備制度理事会",
+      "quote": "Burke & Herbert Financial Services Corp.の申請を承認します。",
+      "context": "銀行の申請承認",
+      "analysis": "個別の銀行の申請承認であり、市場全体への影響は小さい。地域金融機関の健全性を示す一つの指標となりうる。",
+      "importance": "low",
+      "tags": [
+        "銀行",
+        "金融機関"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
     }
   ],
-  "generated_at": "2026-04-13T10:51:08.378110",
+  "generated_at": "2026-04-13T13:48:46.965334",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

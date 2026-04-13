@@ -1,54 +1,19 @@
 {
   "date": "2026-04-13",
-  "summary": "ホルムズ海峡封鎖による原油価格高騰と、米中間の緊張激化が市場を揺るがす。暗号資産市場は停滞し、債券市場も不安定化。地政学的リスクが金融市場全体に深刻な影響を与えている。",
-  "overall_risk_level": "critical",
+  "summary": "ホルムズ海峡封鎖の脅威と米中間の緊張の高まりにより、原油価格が急騰し、インフレ懸念が再燃。株式市場は下落し、暗号資産市場も圧力を受けている。地政学的リスクが金融市場に大きな影響を与えている。",
+  "overall_risk_level": "high",
   "articles": [
     {
-      "title": "Crypto markets stall as oil surges past $100 on Strait of Hormuz blockade",
+      "title": "Dow falls more than 300 points as oil prices jump with the U.S. set to block the Strait of Hormuz: Live updates",
       "region": "global",
       "risk_level": "high",
-      "summary": "ホルムズ海峡封鎖による原油価格高騰が暗号資産市場の停滞を招く。地政学的リスクが金融市場全体に影響。",
-      "analysis": "ホルムズ海峡の封鎖は原油価格を急騰させ、インフレ懸念を高めている。これにより、リスク資産である暗号資産への投資意欲が減退し、市場全体が停滞している。特に、原油価格高騰はエネルギーコストの上昇を通じて、暗号資産マイニングの収益性を悪化させる可能性もある。地政学的リスクとインフレリスクが複合的に作用し、暗号資産市場にネガティブな影響を与えている。今後の見通しとしては、地政学的緊張が緩和されない限り、暗号資産市場の低迷が続く可能性が高い。",
+      "summary": "米国がホルムズ海峡を封鎖する可能性が高まり、原油価格が急騰。ダウ平均は300ポイント以上下落。紛争終結への期待感から先週は好調だったが、地政学的リスクが市場を圧迫。",
+      "analysis": "ホルムズ海峡の封鎖は、世界の原油供給に深刻な影響を与え、原油価格のさらなる上昇を招く恐れがある。これはインフレを加速させ、中央銀行の金融引き締めを促す可能性がある。株式市場は、景気後退への懸念から下落傾向を強める可能性があり、投資家はリスク回避姿勢を強めるだろう。特にエネルギー依存度の高い国や地域への影響が大きいと考えられる。",
       "key_entities": [
-        "Bitcoin",
-        "石油",
+        "ダウ平均",
+        "原油価格",
+        "米国",
         "ホルムズ海峡"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Stock futures fall after Trump announces Strait of Hormuz blockade as talks fail: Live updates",
-      "region": "global",
-      "risk_level": "critical",
-      "summary": "トランプ大統領によるホルムズ海峡封鎖発表後、株式先物が下落。地政学的リスクが市場心理を悪化させる。",
-      "analysis": "イランとの和平交渉決裂とトランプ大統領によるホルムズ海峡封鎖の発表は、市場に大きな衝撃を与えた。株式先物の下落は、投資家が地政学的リスクを回避する動きを反映している。特に、ホルムズ海峡は世界の原油輸送の要であり、封鎖による原油価格の高騰は、インフレ懸念をさらに強める可能性がある。今後の見通しとしては、地政学的緊張がさらに高まる場合、株式市場は一段安となる可能性があり、安全資産への逃避が進むと考えられる。",
-      "key_entities": [
-        "トランプ大統領",
-        "ホルムズ海峡",
-        "株式先物"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "米海軍によるイラン港封鎖を受け、原油価格が100ドルを超えて急騰。中東情勢の緊迫化がエネルギー市場を揺るがす。",
-      "analysis": "米海軍によるイラン港封鎖は、原油供給の混乱を引き起こし、原油価格を急騰させた。これは、世界経済にインフレ圧力をかけるとともに、エネルギー依存度の高い国々にとっては大きな負担となる。特に、中東地域は地政学的に不安定であり、今回の封鎖はさらなる紛争の火種となる可能性がある。今後の見通しとしては、封鎖が長期化する場合、世界経済の成長鈍化やスタグフレーションのリスクが高まる。",
-      "key_entities": [
-        "原油",
-        "イラン",
-        "米海軍"
       ],
       "sources": [
         "CNBC - Top News"
@@ -61,11 +26,12 @@
       "title": "Trump threatens 50% tariffs on China as report suggests plans for arms shipment to Iran",
       "region": "east_asia",
       "risk_level": "high",
-      "summary": "トランプ大統領が中国への50%関税をちらつかせ、米中間の緊張が激化。貿易摩擦が世界経済に悪影響を及ぼす懸念。",
-      "analysis": "中国がイランへの武器輸送を計画しているとの報道を受け、トランプ大統領が中国への50%関税をちらつかせたことは、米中間の貿易摩擦を激化させる可能性がある。これは、サプライチェーンの混乱や世界経済の成長鈍化につながる恐れがある。特に、両国間の貿易規模は大きく、関税引き上げは双方の経済に深刻な影響を与える。今後の見通しとしては、米中間の対立がエスカレートする場合、世界経済はさらなる不確実性に直面することになる。",
+      "summary": "トランプ大統領が、中国がイランへの武器輸送を計画しているとの報道を受け、中国製品への50%の関税を課すと脅迫。米中間の貿易摩擦が激化する可能性が高まっている。",
+      "analysis": "米中間の貿易摩擦の激化は、世界経済の成長を阻害する要因となる。関税の引き上げは、サプライチェーンの混乱を招き、企業収益を圧迫する可能性がある。特に、中国に依存度の高い企業や産業への影響が大きいと考えられる。また、地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株式市場や新興国市場からの資金流出を招く可能性がある。",
       "key_entities": [
-        "トランプ大統領",
+        "ドナルド・トランプ",
         "中国",
+        "イラン",
         "関税"
       ],
       "sources": [
@@ -79,12 +45,13 @@
       "title": "Treasury yields rise as collapse of Iran talks clouds inflation outlook",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "イランとの交渉決裂がインフレ見通しを不透明にし、米国債利回りが上昇。金利上昇が経済に与える影響に注目。",
-      "analysis": "イランとの交渉決裂は、原油価格の上昇を通じてインフレ見通しを不透明にし、米国債利回りを上昇させた。これは、企業の借入コストの増加や住宅ローンの金利上昇につながり、経済活動を抑制する可能性がある。特に、インフレが長期化する場合、FRBはさらなる利上げを余儀なくされ、景気後退のリスクが高まる。今後の見通しとしては、インフレ動向とFRBの金融政策に注目する必要がある。",
+      "summary": "米国とイランの交渉決裂により、インフレ見通しが不透明になり、米国債利回りが上昇。地政学的リスクの高まりが、インフレ懸念を再燃させている。",
+      "analysis": "イランとの交渉決裂は、中東地域の地政学的リスクを高め、原油価格の上昇を招く可能性がある。これはインフレを加速させ、中央銀行の金融引き締めを促す可能性がある。米国債利回りの上昇は、企業の借入コストを増加させ、経済成長を抑制する可能性がある。投資家は、インフレリスクと金利上昇リスクに警戒する必要がある。",
       "key_entities": [
         "米国債",
         "イラン",
-        "インフレ"
+        "インフレ",
+        "米国"
       ],
       "sources": [
         "CNBC - Top News"
@@ -94,14 +61,14 @@
       ]
     },
     {
-      "title": "Bitcoin slips below $71,000 as Trump orders U.S. to join Iran in blockade of Strait of Hormuz",
-      "region": "middle_east",
+      "title": "Crypto markets stall as oil surges past $100 on Strait of Hormuz blockade",
+      "region": "global",
       "risk_level": "medium",
-      "summary": "トランプ大統領がホルムズ海峡封鎖を命じたことで、ビットコインが71,000ドルを下回る。地政学的リスクが暗号資産市場にも波及。",
-      "analysis": "トランプ大統領によるホルムズ海峡封鎖命令は、地政学的リスクを高め、リスクオフの動きを誘発した。これにより、ビットコインをはじめとする暗号資産市場も下落した。特に、暗号資産はボラティリティが高く、地政学的リスクに敏感に反応する傾向がある。今後の見通しとしては、地政学的緊張が緩和されない限り、暗号資産市場の不安定な状況が続く可能性がある。",
+      "summary": "ホルムズ海峡封鎖の脅威により原油価格が100ドルを超え、暗号資産市場は停滞。地政学的リスクが、暗号資産市場にも影響を与えている。",
+      "analysis": "地政学的リスクの高まりは、リスク資産である暗号資産市場にマイナスの影響を与える。原油価格の上昇は、インフレ懸念を再燃させ、中央銀行の金融引き締めを促す可能性がある。これは、暗号資産市場からの資金流出を招く可能性がある。また、地政学的リスクの高まりは、暗号資産の規制強化を促す可能性もある。",
       "key_entities": [
-        "Bitcoin",
-        "トランプ大統領",
+        "暗号資産",
+        "原油価格",
         "ホルムズ海峡"
       ],
       "sources": [
@@ -112,50 +79,31 @@
       ]
     },
     {
-      "title": "Commodity traders are getting debanked due to Iran war, pushing them to rely on stablecoins",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "イラン戦争の影響で、商品トレーダーが銀行口座を閉鎖され、ステーブルコインへの依存度が高まる。規制リスクに注意。",
-      "analysis": "イラン戦争の影響で、商品トレーダーが銀行口座を閉鎖されるケースが増加しており、代替手段としてステーブルコインへの依存度が高まっている。これは、従来の金融システムへのアクセスが制限された場合に、暗号資産が代替手段として機能する可能性を示唆している。しかし、ステーブルコインは規制リスクが高く、今後の規制動向によっては、商品トレーダーの活動に大きな影響を与える可能性がある。今後の見通しとしては、ステーブルコインの規制動向と、商品トレーダーが従来の金融システムへのアクセスを回復できるかどうかに注目する必要がある。",
-      "key_entities": [
-        "ステーブルコイン",
-        "商品トレーダー",
-        "イラン戦争"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Jamie Dimon says America's $39 trillion debt will mean volatile markets and rising rates",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "ジェイミー・ダイモン氏が米国の39兆ドルの債務は市場の変動と金利上昇を意味すると警告。財政リスクへの懸念。",
-      "analysis": "JPモルガン・チェースのCEOであるジェイミー・ダイモン氏が、米国の巨額な債務が市場の変動と金利上昇を引き起こすと警告したことは、財政リスクに対する懸念を示唆している。巨額の債務は、将来の世代への負担となるだけでなく、金利上昇を通じて経済成長を抑制する可能性がある。今後の見通しとしては、米国の財政政策と債務削減に向けた取り組みに注目する必要がある。",
-      "key_entities": [
-        "ジェイミー・ダイモン",
-        "米国債務",
-        "金利"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Best money market account rates today, April 13, 2026 (Earn up to 4.01% APY)",
+      "title": "Goldman Sachs tops estimates on record equities trading — here's why the stock is falling",
       "region": "global",
       "risk_level": "low",
-      "summary": "MMFの金利が最大4.01% APY。安全資産への需要が高まる中、MMFの魅力が増す。",
-      "analysis": "高金利のMMF（マネー・マーケット・ファンド）の存在は、リスク回避的な投資家にとって魅力的な選択肢となっている。特に、市場の不確実性が高まる中、安全資産への需要が高まっており、MMFへの資金流入が増加する可能性がある。しかし、MMFは預金保険の対象外であるため、信用リスクには注意が必要である。今後の見通しとしては、市場の変動が激しい状況が続く場合、MMFの需要はさらに高まる可能性がある。",
+      "summary": "ゴールドマン・サックスは、株式取引の記録的な収益により予想を上回る業績を達成したが、株価は下落。市場は、今後の経済状況に対する懸念を抱いている可能性がある。",
+      "analysis": "ゴールドマン・サックスの好調な業績は、株式市場の活況を反映している。しかし、株価の下落は、市場が今後の経済状況に対する懸念を抱いていることを示唆している。特に、インフレリスクや金利上昇リスク、地政学的リスクなどが、市場の不確実性を高めている。投資家は、今後の経済指標や企業業績を注視する必要がある。",
       "key_entities": [
-        "MMF",
-        "金利"
+        "ゴールドマン・サックス",
+        "株式市場"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Strategy Buys $1 Billion Of Bitcoin Using Preferred Stock",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "Strategy社が優先株式を利用して10億ドル相当のビットコインを購入。機関投資家の暗号資産への関心は依然として高い。",
+      "analysis": "Strategy社による大規模なビットコイン購入は、機関投資家の暗号資産への関心が依然として高いことを示している。しかし、暗号資産市場は、依然としてボラティリティが高く、規制リスクも存在するため、投資には注意が必要である。特に、地政学的リスクの高まりは、暗号資産市場にもマイナスの影響を与える可能性がある。",
+      "key_entities": [
+        "ビットコイン",
+        "Strategy"
       ],
       "sources": [
         "Yahoo Finance"
@@ -165,18 +113,72 @@
       ]
     },
     {
-      "title": "Market makers are fleeing public blockchains to protect their secret trading playbooks",
+      "title": "Gas prices will probably 'return to climbing' as oil surges back above $100",
       "region": "global",
       "risk_level": "medium",
-      "summary": "マーケットメーカーが秘密の取引戦略を保護するため、パブリックブロックチェーンから離脱。流動性リスクに注意。",
-      "analysis": "マーケットメーカーが秘密の取引戦略を保護するためにパブリックブロックチェーンから離脱していることは、暗号資産市場の流動性低下につながる可能性がある。流動性が低下すると、価格変動が大きくなり、市場の安定性が損なわれる恐れがある。今後の見通しとしては、マーケットメーカーの動向と、流動性低下に対する対策に注目する必要がある。",
+      "summary": "原油価格が100ドルを超え、ガソリン価格の上昇が予想される。インフレへの影響が懸念される。",
+      "analysis": "原油価格の上昇は、ガソリン価格の上昇を通じて、消費者物価に影響を与える。これは、インフレを加速させ、中央銀行の金融引き締めを促す可能性がある。特に、エネルギー依存度の高い国や地域への影響が大きいと考えられる。",
       "key_entities": [
-        "マーケットメーカー",
-        "ブロックチェーン",
-        "流動性"
+        "原油価格",
+        "ガソリン価格",
+        "インフレ"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "AI agents are set to power crypto payments, but a hidden flaw could expose wallets",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "AIエージェントが暗号資産決済を強化する一方、潜在的な欠陥がウォレットを危険にさらす可能性。技術的なリスクが浮上。",
+      "analysis": "AI技術の進展は、暗号資産決済の効率化に貢献する可能性がある。しかし、AIエージェントの潜在的な欠陥は、セキュリティリスクを高める可能性がある。特に、ハッキングや不正アクセスによるウォレットからの資金流出のリスクに注意が必要である。暗号資産の利用者は、セキュリティ対策を徹底する必要がある。",
+      "key_entities": [
+        "AI",
+        "暗号資産",
+        "セキュリティ"
       ],
       "sources": [
         "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Tesco partners with Adobe to ramp up AI‑driven personalised marketing",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "TescoがAdobeと提携し、AIを活用したパーソナライズされたマーケティングを強化。AI技術の商業利用が進展。",
+      "analysis": "TescoとAdobeの提携は、AI技術の商業利用が進んでいることを示している。AIを活用したパーソナライズされたマーケティングは、顧客体験の向上や売上増加に貢献する可能性がある。しかし、個人情報の取り扱いに関する倫理的な問題や、AIによる差別的なマーケティングのリスクにも注意が必要である。",
+      "key_entities": [
+        "Tesco",
+        "Adobe",
+        "AI",
+        "マーケティング"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Noble Corporation plc (NE) Gained from Energy Price Hike",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "Noble Corporation plc (NE)はエネルギー価格の上昇により業績を伸ばした。エネルギー関連企業の株価は原油価格に左右されやすい。",
+      "analysis": "エネルギー価格の上昇は、エネルギー関連企業の収益を押し上げる要因となる。しかし、エネルギー価格は、地政学的リスクや需給バランスなど、様々な要因によって変動するため、投資には注意が必要である。特に、再生可能エネルギーへの移行が進む中で、エネルギー関連企業の長期的な成長性には不確実性が存在する。",
+      "key_entities": [
+        "Noble Corporation plc",
+        "エネルギー価格"
+      ],
+      "sources": [
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
@@ -184,12 +186,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "critical",
+    "global": "high",
     "north_america": "medium",
-    "europe": "low",
+    "europe": "medium",
     "east_asia": "high"
   },
-  "generated_at": "2026-04-13T10:50:57.351020",
+  "generated_at": "2026-04-13T13:48:36.555471",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
