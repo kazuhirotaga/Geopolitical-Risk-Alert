@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-13",
-    "summary": "中東情勢が極めて不安定化。米イラン間の緊張激化に加え、イスラエル・パレスチナ間の衝突も継続。ウクライナ情勢も停戦合意が履行されず、世界経済への影響が懸念される。日本も外交努力を行う意向。",
+    "summary": "アメリカによるイラン海上封鎖開始と、それに伴うイランの反発により、中東地域の緊張が極度に高まっている。ウクライナ情勢も依然として不安定であり、世界的な地政学リスクは高い水準にある。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "medium",
+      "southeast_asia": "low",
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
       "africa": "medium",
-      "north_america": "high",
-      "south_america": "none"
+      "north_america": "medium",
+      "south_america": "low"
     },
-    "generated_at": "2026-04-13T13:48:15.116999"
+    "generated_at": "2026-04-13T16:18:18.056759"
   },
   {
     "date": "2026-04-12",

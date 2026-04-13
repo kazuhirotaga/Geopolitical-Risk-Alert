@@ -1,100 +1,56 @@
 {
   "date": "2026-04-13",
-  "summary": "世界的には、インドのNoidaを中心とした労働者デモが最も深刻な社会不安を引き起こしており、車両放火や警察との衝突が発生し、他地域への波及も懸念されます。アイルランドでは燃料税に対する全国的な抗議活動が見られましたが、政府の対応により沈静化傾向にあります。米国では政治的分断に基づく抗議や、一部金融機関での資金流出の兆候があり、潜在的な不安要素となっています。国際通貨基金(IMF)はステーブルコインに関する潜在的な取り付け騒ぎリスクを警告しており、金融システムに対する世界的な警戒感は依然として存在します。全体としては広範なパニックには至っていませんが、地域的な不安定要素が散見され、金融市場への懸念も継続しています。",
-  "global_panic_index": 55,
+  "summary": "世界各地で社会不安の兆候が見られます。特にインドのNoidaでは、労働者による大規模な賃上げ抗議デモが暴徒化し、車両放火や警察との衝突が発生、社会秩序の混乱が見られます。アイルランドでは燃料危機に端を発する抗議デモが発生しましたが、政府の対策発表により沈静化の方向に向かっています。金融市場ではIMFがステーブルコインの準備資産の安定性に警鐘を鳴らし、潜在的な取り付け騒ぎのリスクを指摘しており、国際的な金融不安の芽が燻っています。",
+  "global_panic_index": 58,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "政治的・社会的分断、金融不安",
+      "region": "southeast_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "労働者の賃金・労働条件を巡る社会不安",
       "incidents": [
         {
-          "title": "トランプ氏の精神状態に関する懸念と抗議デモ",
-          "location": "米国、ワシントンD.C.",
-          "severity": 50,
-          "description": "トランプ氏の「精神状態」に関する懸念が広がる中、米議事堂外で抗議デモが発生。政治的分断が社会不安を助長し、市民の一部に強い不安が広がっている。",
-          "source": "AOL.com"
+          "title": "Noida労働者デモの暴徒化、車両放火と衝突",
+          "location": "インド、Noida",
+          "severity": 85,
+          "description": "NoidaのSamvardhana Motherson社の労働者による賃金引き上げ要求デモが暴徒化。車両が放火され、警察車両が破壊され、石が投げられた。警察は催涙ガスを使用し、多数の逮捕者が出ている。主要道路が封鎖され、交通が麻痺した。",
+          "source": "The Economic Times, The Times of India, India Today など多数"
         },
         {
-          "title": "シャドーバンクBlue Owlでの資金流出と償還制限",
-          "location": "米国",
-          "severity": 45,
-          "description": "シャドーバンクのBlue Owlで、投資家が54億ドルを引き出そうとしたため、償還が制限された。これは取り付け騒ぎの初期兆候であり、金融市場の潜在的な不安を示唆する。",
-          "source": "MSN"
+          "title": "Noida労働者デモにおける広範な社会秩序の混乱",
+          "location": "インド、Noida",
+          "severity": 80,
+          "description": "賃上げを求める労働者デモが激化し、地域全体で衝突と混乱が発生。交通遮断、器物損壊、警察との対立が常態化し、企業活動にも影響が出ている。政府は事態を「陰謀」と見ており、広範な社会不安を懸念している。",
+          "source": "Moneycontrol.com, News18, The Statesman"
+        },
+        {
+          "title": "労働不安の近隣地域への波及",
+          "location": "インド、ファリーダーバード、ビワディ",
+          "severity": 70,
+          "description": "Noidaでの暴動後、労働不安はハリヤーナ州のファリーダーバードやビワディにも拡大する兆候を見せており、デリー警察は厳戒態勢を敷いている。近隣地域への社会不安の波及が懸念される。",
+          "source": "India.Com, ABP News"
+        },
+        {
+          "title": "IMT-Manesarでのデモと計画的陰謀の指摘",
+          "location": "インド、IMT-Manesar",
+          "severity": 65,
+          "description": "IMT-Manesarでの抗議デモ中に発生した騒乱が「計画的な陰謀」の一部であるとグルグラム警察が指摘。誤情報動画の拡散者も逮捕されており、デモの背後に組織的な動きが存在する可能性が示唆されている。",
+          "source": "Hindustan Times"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 40,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "燃料価格高騰への不満",
+      "main_cause": "エネルギー不足",
       "incidents": [
         {
-          "title": "燃料税引き下げを求める全国的な抗議デモ",
+          "title": "アイルランドにおける燃料危機抗議デモ",
           "location": "アイルランド",
-          "severity": 40,
-          "description": "燃料税引き上げに対する全国規模の抗議デモが広がり、政府は燃料税の引き下げを発表。市民の経済的負担への不満が背景にあるが、政府の迅速な対応により沈静化に向かっている。",
-          "source": "politico.eu"
-        },
-        {
-          "title": "政府による燃料危機緩和措置の発表",
-          "location": "アイルランド",
-          "severity": 40,
-          "description": "燃料危機を緩和するため、アイルランド政府が追加措置を発表。数日間の抗議デモを経て、政府が市民の不満に対応する姿勢を示したことで、事態の収束が期待される。",
+          "severity": 55,
+          "description": "数日間にわたる燃料危機に関する抗議デモが発生。市民生活への影響が懸念されたが、アイルランド政府が燃料危機を緩和するための措置を発表し、事態は沈静化の方向に向かっている。",
           "source": "Sky News"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "労働条件・賃金不満、社会経済格差",
-      "incidents": [
-        {
-          "title": "Noida労働者デモが暴徒化、車両放火・投石",
-          "location": "インド、Noida",
-          "severity": 80,
-          "description": "賃上げ要求デモが暴徒化し、車両が放火され、石が投げられるなど、激しい衝突が発生。社会秩序の深刻な混乱と高い緊張状態を示し、警察が催涙ガスを使用する事態に発展している。",
-          "source": "The Economic Times"
-        },
-        {
-          "title": "Noida労働者デモで警察が催涙ガスを使用",
-          "location": "インド、Noida",
-          "severity": 75,
-          "description": "賃金問題がエスカレートし、労働者デモが暴力化。警察が群衆を鎮圧するために催涙ガスを使用する事態となり、混乱が拡大。当局は「陰謀」の可能性も指摘している。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Bhiwadiで数千人規模の労働者抗議デモと警察介入",
-          "location": "インド、Bhiwadi",
-          "severity": 70,
-          "description": "Noidaに続き、Bhiwadiでも数千人の労働者が抗議デモを行い、状況を制御するために警察が介入。労働不安が他の地域にも波及し、地域全体の不安定化を招いている。",
-          "source": "ABP News"
-        },
-        {
-          "title": "Noidaの労働不安がFaridabadに波及",
-          "location": "インド、Faridabad",
-          "severity": 65,
-          "description": "Noidaでの大規模な労働不安がハリヤナ州のファリーダーバードにも波及し、デリー警察も厳戒態勢に入るなど、首都圏周辺の地域的な緊張が高まっている。",
-          "source": "India.Com"
-        }
-      ]
-    },
-    {
-      "region": "oceania",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "燃料供給の不安定化",
-      "incidents": [
-        {
-          "title": "イランによるオーストラリア燃料不足への言及",
-          "location": "オーストラリア",
-          "severity": 25,
-          "description": "イランがオーストラリアの燃料不足を「マッドマックス」状態と揶揄。具体的なパニック状況の報告はないものの、燃料供給の不安定化が潜在的な社会不安要因として懸念される。",
-          "source": "The Nightly"
         }
       ]
     }
