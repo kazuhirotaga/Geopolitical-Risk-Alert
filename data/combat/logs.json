@@ -1,5 +1,126 @@
 [
   {
+    "date": "2026-04-13",
+    "summary": "ホルムズ海峡における米イラン間の緊張激化、米国はイランへの軍事行動を辞さず。和平交渉は決裂し、ウクライナはドローン共同生産を模索。ロシアはイランへのサイバー支援を継続。",
+    "events": [
+      {
+        "id": "event_001",
+        "timestamp": "2026-04-12",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米国海軍によるホルムズ海峡封鎖",
+        "content": "トランプ大統領の指示により、米国海軍がホルムズ海峡の封鎖を開始。イランへの軍事的圧力を強化し、緊張が高まっている。",
+        "involved_parties": [
+          "アメリカ海軍",
+          "イラン"
+        ],
+        "event_type": "blockade",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
+      },
+      {
+        "id": "event_002",
+        "timestamp": "2026-04-12",
+        "location": "パキスタン",
+        "region": "middle_east",
+        "title": "米イラン和平交渉が決裂",
+        "content": "21時間に及ぶ米国とイランの和平交渉が決裂。双方が相手の責任を非難し、数千人が死亡し、世界経済を混乱させている戦闘の終結は見通せず。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/"
+      },
+      {
+        "id": "event_003",
+        "timestamp": "2026-04-07",
+        "location": "イラン、ハルグ島",
+        "region": "middle_east",
+        "title": "米軍、イランのハルグ島に軍事目標への攻撃",
+        "content": "米軍がイランのハルグ島にある軍事目標を攻撃。JD Vance副大統領は、この攻撃が米国の戦略の変更ではないと述べた。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/07/us-hits-military-targets-on-irans-kharg-island/"
+      },
+      {
+        "id": "event_004",
+        "timestamp": "2026-04-07",
+        "location": "中東地域",
+        "region": "middle_east",
+        "title": "イスラエルと米国によるイランのWMD関連施設への攻撃",
+        "content": "イスラエルと米国がイランのWMD関連施設を攻撃し、イランのWMDプログラムは壊滅的な状態にある。",
+        "involved_parties": [
+          "イスラエル",
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/07/irans-other-would-be-wmd-program-lies-in-ruins-following-strikes-by-israel-and-the-us/"
+      },
+      {
+        "id": "event_005",
+        "timestamp": "2026-04-07",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "ロシアによるイランへのサイバー支援と偵察画像の提供",
+        "content": "ウクライナの情報評価によると、ロシアはイランに対し、米国軍を攻撃するためのサイバー支援とスパイ衛星画像を提供している。",
+        "involved_parties": [
+          "ロシア",
+          "イラン",
+          "アメリカ"
+        ],
+        "event_type": "cyber",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/middle-east/2026/04/07/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/"
+      },
+      {
+        "id": "event_006",
+        "timestamp": "2026-04-07",
+        "location": "アメリカ",
+        "region": "middle_east",
+        "title": "トランプ大統領がイランとの2週間の停戦に合意",
+        "content": "トランプ大統領はイランとの2週間の停戦に合意したと発表。この期間中に最終的な合意が成立することを期待している。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/07/trump-says-he-has-agreed-to-two-week-ceasefire-with-iran/"
+      },
+      {
+        "id": "event_007",
+        "timestamp": "2026-04-09",
+        "location": "北大西洋",
+        "region": "europe",
+        "title": "英国がロシアの潜水艦攻撃を阻止するため軍事展開",
+        "content": "英国は、海底ケーブルへのロシアの潜水艦攻撃を阻止するため、軍隊を展開した。ノルウェーもP-8哨戒機とフリゲート艦を展開。",
+        "involved_parties": [
+          "イギリス軍",
+          "ロシア軍",
+          "ノルウェー軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-12",
     "summary": "アメリカとイランの緊張が継続。ホルムズ海峡の封鎖、及び過去の攻撃に対する報復措置が示唆される一方、和平交渉は決裂。ウクライナへの安全保障も懸念される状況。",
     "events": [
@@ -4634,185 +4755,6 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/your-military/2026/03/09/us-iran-spar-over-status-of-iranian-warship-sunk-by-submarine/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-14",
-    "summary": "アメリカ軍によるイランのハルグ島への爆撃、中東地域へのアメリカ軍の増派、レバノンに対するイスラエルの爆撃、イラクでのアメリカ軍KC-135墜落事故などが発生。イラン戦争に関連した動きが活発化している。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-03-14",
-        "location": "イラン・ハルグ島",
-        "region": "middle_east",
-        "title": "アメリカ軍によるハルグ島爆撃",
-        "content": "トランプ大統領が、アメリカ軍がイランの石油拠点であるハルグ島の全ての軍事目標を「完全に破壊した」と発表。イランの石油関連施設に対する攻撃が行われた模様。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "bombing",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/flashpoints/2026/03/14/us-bombs-key-iranian-island-amid-oil-concerns/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-03-13",
-        "location": "中東",
-        "region": "middle_east",
-        "title": "アメリカ軍、中東への戦力増強",
-        "content": "アメリカ海軍の強襲揚陸艦トリポリ、揚陸艦ニューオーリンズ、ドック型揚陸艦サンディエゴ、及び第31海兵遠征部隊が、作戦「Epic Fury」を支援するため中東へ派遣される。",
-        "involved_parties": [
-          "アメリカ軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/13/pentagon-reportedly-sending-more-warships-and-marines-to-middle-east/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-03-13",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ、AI開発のための戦闘データ共有",
-        "content": "ウクライナが、自律型ドローンシステムのAIモデル訓練のため、国際的なパートナーや防衛企業に対し、実際の戦闘データの利用を許可する。",
-        "involved_parties": [
-          "ウクライナ",
-          "国際パートナー"
-        ],
-        "event_type": "cyber",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/flashpoints/ukraine/2026/03/13/ukraine-opens-battlefield-ai-data-to-allies-in-world-first-move/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-03-13",
-        "location": "レバノン",
-        "region": "middle_east",
-        "title": "イスラエルによるレバノンへの砲撃",
-        "content": "イスラエルによる砲撃を受け、レバノン政府は国内の混乱を回避しようと努める。レバノン軍は、国内が砲撃を受けている状況下でヒズボラの武器を捜索できる状況にない。",
-        "involved_parties": [
-          "イスラエル",
-          "レバノン"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/13/lebanese-government-tries-to-avoid-internal-strife-amid-israeli-bombardment/"
-      },
-      {
-        "id": "event-5",
-        "timestamp": "2026-03-13",
-        "location": "イラク西部",
-        "region": "middle_east",
-        "title": "アメリカ軍KC-135空中給油機墜落事故",
-        "content": "アメリカ中央軍（CENTCOM）は、イラク西部に墜落したアメリカ軍KC-135空中給油機に搭乗していた乗員6名全員の死亡を確認したと発表。",
-        "involved_parties": [
-          "アメリカ軍"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/13/four-us-airmen-killed-in-kc-135-crash-in-iraq/"
-      },
-      {
-        "id": "event-6",
-        "timestamp": "2026-03-12",
-        "location": "トルコ",
-        "region": "europe",
-        "title": "NATO、トルコにパトリオットシステムを派遣",
-        "content": "NATOは、トルコ国内の重要な防空レーダーを保護するため、パトリオットミサイルシステムを派遣。2基目のパトリオットシステムは、ドイツ・ラムシュタインのNATO連合空軍司令部から派遣される。",
-        "involved_parties": [
-          "NATO",
-          "トルコ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/12/nato-sends-patriot-system-to-protect-key-air-defense-radar-in-turkey/"
-      },
-      {
-        "id": "event-7",
-        "timestamp": "2026-03-11",
-        "location": "NATO演習地域（ノルウェー）",
-        "region": "europe",
-        "title": "ノルウェーF-35戦闘機、ロシア偵察機を捕捉",
-        "content": "NATOが実施しているCold Response 2026演習中に、ノルウェーのF-35戦闘機がロシアの偵察機を捕捉した。",
-        "involved_parties": [
-          "ノルウェー軍",
-          "ロシア軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/11/norwegian-f-35s-intercept-russian-spy-aircraft-during-nato-drill/"
-      },
-      {
-        "id": "event-8",
-        "timestamp": "2026-03-11",
-        "location": "中東",
-        "region": "middle_east",
-        "title": "オーストラリア、早期警戒機を中東に派遣",
-        "content": "オーストラリアがイランによる攻撃を受けている中東地域に早期警戒機を派遣。ただし、オーストラリア政府は、イスラエルやアメリカ軍の戦闘作戦には関与しない方針を表明。",
-        "involved_parties": [
-          "オーストラリア"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/11/australia-deploys-early-warning-aircraft-to-the-middle-east-amid-iran-attacks/"
-      },
-      {
-        "id": "event-9",
-        "timestamp": "2026-03-10",
-        "location": "インド、スリランカ",
-        "region": "east_asia",
-        "title": "イラン軍艦2隻がインドとスリランカに避難",
-        "content": "アメリカ海軍の潜水艦によるイラン軍艦の撃沈が、外交問題に発展。撃沈された艦の避難のため、2隻のイラン軍艦がインドとスリランカに避難した。",
-        "involved_parties": [
-          "イラン",
-          "アメリカ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/10/two-iranian-warships-take-sanctuary-in-india-and-sri-lanka/"
-      },
-      {
-        "id": "event-10",
-        "timestamp": "2026-03-09",
-        "location": "インド洋",
-        "region": "middle_east",
-        "title": "アメリカ軍潜水艦によるイラン軍艦撃沈",
-        "content": "アメリカ軍とイランが、先週インド洋で発生したイラン軍艦の撃沈をめぐり、互いに異なる主張を展開。アメリカ軍による攻撃であることはほぼ確実。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/09/us-iran-spar-over-status-of-iranian-warship-sunk-by-submarine/"
-      },
-      {
-        "id": "event-11",
-        "timestamp": "2026-03-09",
-        "location": "イギリス・フェアフォード空軍基地",
-        "region": "europe",
-        "title": "アメリカ軍B-1Bランサー爆撃機がフェアフォード空軍基地に到着",
-        "content": "イギリス国防省が、アメリカ軍が「特定の防衛作戦」のためにフェアフォード空軍基地の使用を開始したことを確認。B-1Bランサー爆撃機が到着し、イランへの攻撃が激化。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イギリス"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/09/us-b-1b-lancers-arrive-at-raf-fairford-as-strikes-on-iran-intensify/"
       }
     ]
   }
