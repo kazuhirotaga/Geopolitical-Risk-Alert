@@ -1,17 +1,38 @@
 {
   "date": "2026-04-14",
-  "summary": "中東情勢の緊迫化とエネルギー価格の高騰が、世界経済に不確実性をもたらしている。一方で、米国の金融政策や暗号資産市場の動向も注目されており、市場は複雑な要因に左右されている。",
-  "overall_risk_level": "high",
+  "summary": "中東情勢の緩和期待から世界的に株価が上昇しているものの、中国の輸出減速やエネルギーコスト上昇、暗号資産市場の不安定性など、複数のリスク要因が混在している状況です。",
+  "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "China exports growth in March misses estimates, imports surge most in over four years",
+      "title": "European markets rise on hopes that Iran peace talks can resume",
+      "region": "europe",
+      "risk_level": "low",
+      "summary": "イラン和平交渉再開への期待から、欧州株式市場は上昇して始まった。",
+      "analysis": "中東和平への期待は、リスク資産への投資意欲を高め、欧州市場の株価を押し上げる要因となっています。しかし、米国の対イラン制裁が継続されているため、交渉の進展には不確実性が残ります。原油価格の変動や地政学的リスクの再燃には注意が必要です。",
+      "key_entities": [
+        "Iran",
+        "Europe",
+        "CNBC"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Asia markets mostly higher amid hopes of a U.S.-Iran deal; China exports miss estimates",
       "region": "east_asia",
       "risk_level": "medium",
-      "summary": "中国の3月輸出成長率は予想を下回り、エネルギーコストの高騰が製造業を圧迫。輸入は4年超ぶりの大幅増。イラン戦争が供給を混乱させている。",
-      "analysis": "中国の貿易データは、世界経済の減速と地政学的リスクの影響を示唆している。輸出の減速は、世界的な需要の低下を反映している可能性があり、輸入の急増は、国内需要の回復とエネルギー価格の高騰が複合的に影響していると考えられる。イラン戦争による供給網の混乱は、中国経済にさらなる下方圧力を加える可能性がある。",
+      "summary": "米イラン間の合意期待でアジア市場は概ね上昇。ただし、中国の輸出は予想を下回った。",
+      "analysis": "アジア市場も中東和平への期待から上昇していますが、中国の輸出データが予想を下回ったことが懸念材料です。エネルギーコストの上昇が製造業に影響を与え、貿易収支に悪影響を及ぼしています。米中関係や世界経済の減速リスクも考慮する必要があります。",
       "key_entities": [
-        "中国税関総署",
-        "中国商務部"
+        "U.S.",
+        "Iran",
+        "China",
+        "Asia-Pacific",
+        "CNBC"
       ],
       "sources": [
         "CNBC - Top News"
@@ -23,12 +44,14 @@
     {
       "title": "Oil falls as Vance comments raise hopes for a diplomatic resolution to Mideast conflict",
       "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "米国のJD Vance副大統領の発言を受け、米国とイランの和平交渉への期待が高まり、原油価格が下落。",
-      "analysis": "地政学的リスクの緩和期待は、一時的に原油価格を下押しする可能性がある。しかし、中東地域の不安定な情勢は依然として続いており、今後の交渉の進展次第では、再び原油価格が上昇するリスクも存在する。エネルギー市場は、地政学的リスクに非常に敏感であり、今後の動向を注視する必要がある。",
+      "risk_level": "low",
+      "summary": "米国のJD Vance副大統領の発言を受け、中東紛争の外交的解決への期待が高まり、原油価格が下落。",
+      "analysis": "中東和平への期待は原油価格の下落を招き、エネルギー関連企業の収益に影響を与える可能性があります。しかし、地政学的リスクが完全に解消されたわけではないため、今後の交渉の進展や中東地域の情勢には引き続き注意が必要です。原油価格の変動は、インフレや経済成長にも影響を及ぼします。",
       "key_entities": [
+        "U.S.",
+        "Iran",
         "JD Vance",
-        "イラン政府"
+        "CNBC"
       ],
       "sources": [
         "CNBC - Top News"
@@ -38,67 +61,50 @@
       ]
     },
     {
-      "title": "Middle East oil production plunges due to Iran war, OPEC data shows",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "イラン戦争によりホルムズ海峡経由の輸出が困難になり、湾岸アラブ諸国の石油生産量が急減。",
-      "analysis": "中東地域の石油生産量の急減は、世界的なエネルギー供給に深刻な影響を与える可能性がある。特に、ホルムズ海峡は世界の石油輸送の重要なルートであり、その封鎖は原油価格の急騰を招き、世界経済に大きな打撃を与える可能性がある。OPECの対応や他の産油国の増産が、供給不足を緩和できるかが焦点となる。",
-      "key_entities": [
-        "OPEC",
-        "湾岸アラブ諸国",
-        "イラン"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "The Iran war is compounding California's energy crunch",
-      "region": "north_america",
-      "risk_level": "high",
-      "summary": "イラン戦争は、米国の国内原油生産に依存しているカリフォルニア州のエネルギー危機を悪化させている。",
-      "analysis": "カリフォルニア州は、エネルギー政策において独自の課題を抱えており、イラン戦争による原油供給の混乱は、その脆弱性を露呈させている。再生可能エネルギーへの移行を加速させる必要性が高まっているが、短期的にはエネルギー価格の高騰や供給不足のリスクに直面する可能性がある。",
-      "key_entities": [
-        "カリフォルニア州政府",
-        "米国エネルギー省"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Ether outpaces bitcoin as ETF flows split and Ethereum activity jumps 41% on-week",
-      "region": "europe",
+      "title": "China exports growth in March misses estimates, imports surge most in over four years",
+      "region": "east_asia",
       "risk_level": "medium",
-      "summary": "ETFの資金流入が分散し、Ethereumの活動が週41%増加したため、EtherがBitcoinを上回るパフォーマンス。",
-      "analysis": "Ethereumの活動増加は、DeFiやNFTなどの分野での利用拡大を反映している可能性がある。ETFの資金流入分散は、投資家のリスク選好の変化を示唆している可能性があり、今後の暗号資産市場の動向に影響を与える可能性がある。規制の動向も注視する必要がある。",
+      "summary": "3月の中国の輸出成長は予想を下回り、輸入は4年超ぶりの大幅な増加。",
+      "analysis": "中国の輸出減速は、世界経済の減速を示唆する可能性があります。エネルギーコストの上昇が製造業に影響を与え、サプライチェーンの混乱も輸出に悪影響を及ぼしています。一方、輸入の増加は内需の回復を示唆するものの、貿易収支の悪化につながる可能性があります。",
       "key_entities": [
-        "Ethereum Foundation",
-        "SEC"
+        "China",
+        "CNBC"
       ],
       "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "U.S. lawmakers take another swing at crypto tax policy with revised bill",
+      "title": "S&P 500 futures tick higher after index erases Iran war losses: Live updates",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "米国の議員が、暗号資産の税制に関する法案を再検討。",
-      "analysis": "暗号資産の税制は、依然として不透明な部分が多く、投資家や企業にとって大きな課題となっている。法案の内容次第では、暗号資産市場の成長を阻害する可能性もある。明確な規制フレームワークの確立が求められている。",
+      "risk_level": "low",
+      "summary": "S&P500先物は、イラン戦争による損失を解消した後、わずかに上昇。",
+      "analysis": "ウォール街は地政学的な不確実性に対して回復力があることを示しました。これは、市場が現在の地政学的リスクを一時的なものと見なしているか、または他の要因（例えば、低金利環境）がリスクを上回っていることを示唆しています。",
       "key_entities": [
-        "米国議会",
-        "SEC",
-        "IRS"
+        "S&P 500",
+        "Iran",
+        "CNBC"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Japan's central bank cools rate hike expectations, removing a key risk for bitcoin's rally",
+      "region": "east_asia",
+      "risk_level": "low",
+      "summary": "日銀が利上げ期待を抑制したことで、ビットコイン上昇の主要なリスクが軽減された。",
+      "analysis": "日銀の金融緩和政策の継続は、リスク資産への投資を促進し、ビットコイン価格を押し上げる可能性があります。しかし、金融政策の変更は市場に大きな影響を与えるため、今後の日銀の動向には注意が必要です。また、暗号資産市場は規制や市場の変動に影響を受けやすいため、投資には慎重な判断が必要です。",
+      "key_entities": [
+        "Japan",
+        "Bitcoin",
+        "CoinDesk"
       ],
       "sources": [
         "CoinDesk"
@@ -111,11 +117,12 @@
       "title": "Bitcoin erases weekend decline, returns to $73,400 as oil retreats back under $100",
       "region": "global",
       "risk_level": "medium",
-      "summary": "原油価格が100ドルを下回ったため、Bitcoinは週末の下落を消し、73,400ドルに戻る。",
-      "analysis": "Bitcoin価格の変動は、地政学的リスクやエネルギー価格の影響を受けやすいことを示している。原油価格の下落は、一時的にBitcoin価格を押し上げる可能性があるが、長期的なトレンドは、マクロ経済の動向や規制の動向に左右されると考えられる。",
+      "summary": "ビットコインは週末の下落を解消し、73,400ドルに戻り、原油価格は100ドルを下回った。",
+      "analysis": "ビットコイン価格の変動は、市場のセンチメントやリスク許容度を反映しています。原油価格の下落とともにビットコインが回復したことは、市場が地政学的リスクを一時的なものと見なしていることを示唆する可能性があります。しかし、暗号資産市場はボラティリティが高いため、投資には注意が必要です。",
       "key_entities": [
         "Bitcoin",
-        "主要暗号資産取引所"
+        "CoinDesk",
+        "Oil"
       ],
       "sources": [
         "CoinDesk"
@@ -125,52 +132,56 @@
       ]
     },
     {
-      "title": "BlackRock raises view on U.S. stocks on belief that war is over, profits are up",
+      "title": "Middle East oil production plunges due to Iran war, OPEC data shows",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "イラン戦争により中東の石油生産が急減。湾岸アラブ諸国はホルムズ海峡を通じた輸出が困難になっている。",
+      "analysis": "イラン戦争による石油生産の減少は、世界のエネルギー供給に深刻な影響を与える可能性があります。原油価格の上昇は、インフレを加速させ、世界経済の成長を阻害する要因となります。また、中東地域の地政学的リスクが高まり、投資家のリスク回避姿勢を強める可能性があります。",
+      "key_entities": [
+        "Iran",
+        "OPEC",
+        "Middle East",
+        "CNBC"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Ether outpaces bitcoin as ETF flows split and Ethereum activity jumps 41% on-week",
       "region": "europe",
-      "risk_level": "low",
-      "summary": "BlackRockは、戦争終結と企業収益の増加を予想し、米国株の評価を「中立」から「オーバーウェイト」に引き上げ。",
-      "analysis": "BlackRockの評価引き上げは、市場心理にプラスの影響を与える可能性がある。しかし、地政学的リスクやインフレ圧力は依然として存在しており、今後の市場の動向は、経済指標や企業業績に左右されると考えられる。",
-      "key_entities": [
-        "BlackRock",
-        "米国企業"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Intel's stock on historic 9-day winning streak, up 58% over that run",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Intelの株価は、GoogleやElon Muskとの最近の取引発表を受け、9日間の連騰で58%上昇。",
-      "analysis": "Intelの株価上昇は、半導体市場の回復と、同社の戦略的な投資が奏功していることを示唆している。しかし、競争は激化しており、今後の技術革新や市場シェアの拡大が、持続的な成長の鍵となる。",
-      "key_entities": [
-        "Intel",
-        "Google",
-        "Elon Musk"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Crypto exchange Kraken targeted in extortion attempt but says there was no breach and no client funds at risk",
-      "region": "global",
       "risk_level": "medium",
-      "summary": "暗号資産取引所Krakenが脅迫の標的になったが、侵害はなく、顧客資金にリスクはないと発表。",
-      "analysis": "暗号資産取引所に対する脅迫事件は、セキュリティリスクの深刻さを示している。Krakenの迅速な対応は評価されるが、他の取引所もセキュリティ対策を強化する必要がある。規制当局は、暗号資産取引所のセキュリティ基準を明確化し、監督を強化する必要がある。",
+      "summary": "ETFのフローが分散し、イーサリアムの活動が1週間で41%増加したため、イーサリアムがビットコインを上回った。",
+      "analysis": "イーサリアムの活動増加は、DeFi（分散型金融）やNFT（非代替性トークン）などの分野での利用拡大を示唆しています。ETFのフロー分散は、投資家の関心がビットコインからイーサリアムにシフトしている可能性を示唆しています。しかし、暗号資産市場は規制や技術的なリスクに影響を受けやすいため、投資には慎重な判断が必要です。",
       "key_entities": [
-        "Kraken",
-        "主要暗号資産取引所"
+        "Ether",
+        "Bitcoin",
+        "CoinDesk",
+        "ETF"
       ],
       "sources": [
         "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Oracle pops nearly 13%, leading bounce back rally in software stocks",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "Oracleが約13%上昇し、ソフトウェア株の反発ラリーを牽引。",
+      "analysis": "Oracleの株価上昇は、AI分野での競争激化に対する懸念が和らいだことを示唆しています。ソフトウェア株全体の反発は、テクノロジーセクターへの投資意欲が回復していることを示唆する可能性があります。しかし、AI分野の競争は依然として激しく、今後の技術革新や市場動向には注意が必要です。",
+      "key_entities": [
+        "Oracle",
+        "CNBC",
+        "AI"
+      ],
+      "sources": [
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -179,11 +190,11 @@
   ],
   "region_risk_map": {
     "global": "medium",
-    "north_america": "high",
-    "europe": "medium",
+    "north_america": "medium",
+    "europe": "low",
     "east_asia": "medium"
   },
-  "generated_at": "2026-04-14T05:29:16.667426",
+  "generated_at": "2026-04-14T07:54:20.960290",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
