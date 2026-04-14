@@ -1,72 +1,66 @@
 {
   "date": "2026-04-14",
-  "summary": "FRB関連の発表が中心。FedNowサービスに関する提案へのパブリックコメント募集、銀行合併の承認、過去の執行措置の終了など、金融政策の微調整と金融機関の健全性維持に向けた動きが見られる。",
+  "summary": "FRB関連の発表が中心。FedNowサービスの拡大に関する提案や、過去の執行措置の終了など、金融機関の運営に関わる動きが見られる。FOMC議事録の公開も、今後の金融政策を占う上で注目される。",
   "statements": [
     {
-      "speaker": "Federal Reserve Board",
-      "title": "連邦準備制度理事会",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
       "quote": "米国の銀行および信用組合がFedNowサービスを通じて資金を移動するために仲介業者を利用することを許可する提案について、一般からの意見を募集します。",
-      "context": "プレスリリース",
-      "analysis": "FedNowサービスの利用拡大に向けた動きであり、決済システムの効率化と金融包摂の促進を目指している。仲介業者の利用を認めることで、より多くの金融機関がFedNowサービスにアクセスできるようになり、決済の迅速化とコスト削減が期待される。パブリックコメントの結果次第で、最終的な規制内容が変更される可能性がある。",
+      "context": "FedNowサービスの利用拡大に関する提案",
+      "analysis": "FedNowサービスの利用促進は、決済システムの効率化と迅速化を目指すFRBの取り組みの一環。仲介業者の利用を認めることで、より多くの金融機関がFedNowサービスにアクセスできるようになり、決済インフラの改善に繋がる可能性がある。ただし、仲介業者の選定や監督に関する課題も考慮する必要がある。",
       "importance": "medium",
       "tags": [
-        "FedNow",
+        "金融政策",
         "決済システム",
-        "金融包摂",
-        "規制"
+        "FedNow"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
     },
     {
-      "speaker": "Federal Reserve Board",
-      "title": "連邦準備制度理事会",
-      "quote": "バーク＆ハーバート・フィナンシャル・サービシズ・コープによる申請を承認します。",
-      "context": "プレスリリース",
-      "analysis": "銀行合併の承認は、金融セクターの再編を示す兆候の一つ。個別の銀行の健全性や競争環境に影響を与える可能性がある。今回の承認が他の銀行の合併・買収の動きを加速させるかどうか、今後の動向を注視する必要がある。",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "Crédit Agricole S.A. and Crédit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.に対する執行措置を終了します。",
+      "context": "過去の違反行為に対する措置の終了",
+      "analysis": "FRBが特定の金融機関に対する執行措置を終了することは、これらの機関が過去の違反行為を是正し、規制遵守体制を改善したことを示唆する。これは、金融システムの健全性維持に向けたFRBの監督努力の成果を示すものと言える。ただし、具体的な違反内容や改善策については、追加の情報が必要となる。",
       "importance": "low",
       "tags": [
-        "銀行合併",
-        "金融セクター",
-        "規制"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
-    },
-    {
-      "speaker": "Federal Reserve Board",
-      "title": "連邦準備制度理事会",
-      "quote": "クレディ・アグリコルS.A.、クレディ・アグリコル・コーポレート・アンド・インベストメント・バンク、メガ・インターナショナル・コマーシャル・バンク、ゴールドマン・サックス・グループに対する執行措置を終了します。",
-      "context": "プレスリリース",
-      "analysis": "過去の不正行為や規制違反に対する執行措置の終了は、これらの金融機関が一定の改善を達成したことを示唆する。しかし、過去の違反内容や改善策の詳細を分析することで、より深い洞察が得られる可能性がある。金融市場における信頼回復につながる可能性がある。",
-      "importance": "medium",
-      "tags": [
-        "執行措置",
-        "規制",
-        "金融機関",
-        "コンプライアンス"
+        "金融規制",
+        "コンプライアンス",
+        "金融機関"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
     },
     {
-      "speaker": "Federal Open Market Committee",
-      "title": "連邦公開市場委員会",
-      "quote": "2026年3月17-18日の連邦公開市場委員会の議事録",
-      "context": "プレスリリース",
-      "analysis": "FOMC議事録は、金融政策の決定過程や委員の意見を知る上で非常に重要。インフレ、雇用、経済成長に関する議論の内容を分析することで、今後の金融政策の方向性を予測することができる。特に、利上げ、利下げ、量的緩和などの具体的な政策に関する議論は、市場に大きな影響を与える。",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "Burke & Herbert Financial Services Corp.による申請を承認します。",
+      "context": "銀行の合併・買収、または新規事業に関する申請の承認",
+      "analysis": "個別の金融機関の申請承認は、金融セクターの再編や競争環境の変化を示唆する可能性がある。Burke & Herbert Financial Services Corp.の具体的な申請内容を精査することで、地域経済や金融市場への影響をより詳細に分析できる。",
+      "importance": "low",
+      "tags": [
+        "金融機関",
+        "銀行",
+        "合併・買収"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
+    },
+    {
+      "speaker": "連邦公開市場委員会",
+      "title": "FOMC",
+      "quote": "（議事録より）今後の金融政策に関する議論がなされました。",
+      "context": "2026年3月17-18日のFOMC会合",
+      "analysis": "FOMC議事録は、FRBの金融政策決定プロセスを理解する上で重要な情報源。議事録の内容を分析することで、FRBメンバーの経済見通し、インフレリスクに対する認識、今後の利上げ・利下げの可能性などを推測できる。市場参加者は、議事録の内容を注意深く分析し、今後の投資戦略に役立てるだろう。",
       "importance": "high",
       "tags": [
-        "FOMC",
         "金融政策",
-        "インフレ",
-        "雇用",
-        "経済成長",
-        "利上げ",
-        "利下げ",
-        "量的緩和"
+        "FOMC",
+        "金利",
+        "インフレ"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
     }
   ],
-  "generated_at": "2026-04-14T02:54:47.809430",
+  "generated_at": "2026-04-14T05:29:26.805988",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
