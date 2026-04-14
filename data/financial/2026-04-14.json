@@ -1,18 +1,35 @@
 {
   "date": "2026-04-14",
-  "summary": "ホルムズ海峡封鎖の可能性、原油価格の変動、インフレデータ、AIの労働市場への影響、暗号資産市場の動向など、複数のリスク要因が複合的に絡み合い、金融市場の不確実性を高めている。特に地政学的リスクとインフレ動向が注目される。",
-  "overall_risk_level": "high",
+  "summary": "地政学的リスクの後退と好調な企業業績により株式市場は上昇。しかし、中東情勢の不安定さ、高水準の米国債務、暗号資産市場のセキュリティリスクなど、潜在的なリスク要因も依然として存在。AI関連銘柄は引き続き好調。",
+  "overall_risk_level": "medium",
   "articles": [
+    {
+      "title": "S&P 500 marches higher one day after benchmark wipes out Iran war losses: Live updates",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "イラン戦争による損失を帳消しにした後、ウォール街は再び回復力を見せた。地政学的リスクは依然として存在。",
+      "analysis": "S&P500が地政学的リスクによる下落から回復したことは、市場の底堅さを示唆する。しかし、中東情勢は依然として不安定であり、今後の動向次第では再び市場に影響を与える可能性がある。特に、ホルムズ海峡の封鎖は世界的な景気後退を引き起こす可能性があるという警告も出ているため、注視が必要。",
+      "key_entities": [
+        "S&P 500",
+        "イラン"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
     {
       "title": "Global recession is inevitable if Strait of Hormuz stays shut, says Citadel's Ken Griffin",
       "region": "global",
-      "risk_level": "critical",
-      "summary": "シタデルのケン・グリフィン氏、ホルムズ海峡の封鎖が6～12ヶ月続けば、世界的なリセッションは避けられないと警告。",
-      "analysis": "ホルムズ海峡は世界の原油輸送の重要なルートであり、封鎖は原油価格の急騰を引き起こし、世界経済に深刻な影響を与える可能性がある。特にエネルギー輸入依存度の高い国々や、インフレ抑制に苦慮している国々にとっては大きな打撃となる。サプライチェーンの混乱も予想され、企業収益の悪化や失業率の上昇につながる可能性がある。地政学的リスクが経済に直接的な影響を与える典型的な事例であり、今後の動向を注視する必要がある。",
+      "risk_level": "high",
+      "summary": "ホルムズ海峡が6～12ヶ月閉鎖されれば、世界的な景気後退は避けられないとシタデルのケン・グリフィン氏が警告。",
+      "analysis": "ホルムズ海峡の封鎖は、原油価格の高騰を通じて世界経済に深刻な影響を与える可能性がある。特に、原油価格が100ドルを超えている状況では、インフレ圧力が高まり、景気後退を招くリスクが高まる。地政学的リスクが経済に与える影響を改めて認識する必要がある。",
       "key_entities": [
-        "Citadel",
-        "Ken Griffin",
-        "Strait of Hormuz"
+        "ホルムズ海峡",
+        "シタデル",
+        "ケン・グリフィン"
       ],
       "sources": [
         "CNBC - Top News"
@@ -22,32 +39,14 @@
       ]
     },
     {
-      "title": "U.S. oil prices fall 6% on hope Iran peace talks will continue",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "イランとの和平交渉継続への期待から、米国の原油価格が6%下落。JD Vance副大統領は、今後の交渉はテヘラン次第と発言。",
-      "analysis": "原油価格の変動は、インフレ率に直接的な影響を与える。和平交渉の進展は原油価格の安定化に繋がり、インフレ抑制に寄与する可能性がある。しかし、交渉が決裂すれば、原油価格は再び上昇し、インフレ圧力が強まる可能性がある。中東地域の地政学的リスクは、常に原油市場を不安定化させる要因となるため、注意が必要である。",
-      "key_entities": [
-        "Iran",
-        "JD Vance",
-        "Oil Prices"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "CEOs are betting AI will augment work rather than displace all workers",
+      "title": "JPMorgan tops estimates on Wall Street results, Dimon flags 'increasingly complex' economic risks",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Semafor World Economy conferenceのパネリスト、AIは既存の業務を補完し、量と質を向上させるとの見解を示す。",
-      "analysis": "AIの導入は生産性向上に繋がる可能性がある一方、労働市場の構造変化を引き起こす可能性もある。CEOたちがAIによる労働者の完全な代替を想定していないことは、短期的には雇用への影響が限定的であることを示唆する。しかし、長期的にはAIの進化に伴い、雇用構造の変化やスキルシフトが求められる可能性があり、人材育成や社会保障制度の見直しが必要となる。",
+      "summary": "JPモルガンは市場予想を上回る業績を上げたが、ジェイミー・ダイモンCEOは世界市場における「ますます複雑化するリスク」を指摘。",
+      "analysis": "JPモルガンの好調な業績は、金融セクターの健全性を示唆する。しかし、ダイモンCEOが指摘するように、世界経済は多くのリスクに直面している。高水準の米国債務、インフレ、地政学的リスクなどが複合的に影響し、市場のボラティリティを高める可能性がある。今後の金融政策や経済指標の発表に注意が必要。",
       "key_entities": [
-        "AI",
-        "Semafor World Economy conference"
+        "JPモルガン",
+        "ジェイミー・ダイモン"
       ],
       "sources": [
         "CNBC - Top News"
@@ -57,14 +56,13 @@
       ]
     },
     {
-      "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
+      "title": "Nvidia stock is on a 10-day winning streak and up 18% over that stretch",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "ベセント財務長官は利下げを支持する一方、FRBが利下げを待つことを理解すると発言。以前は利下げを強く主張していた。",
-      "analysis": "財務長官の発言は、FRBの金融政策に対する政府のスタンスを示す。利下げの遅延は、景気回復の遅れや企業収益の悪化につながる可能性がある。一方、早期の利下げはインフレを再燃させるリスクがある。FRBは、経済状況を慎重に見極めながら、適切な金融政策を決定する必要がある。",
+      "risk_level": "low",
+      "summary": "Nvidia株は10日連続で上昇し、その期間で18%上昇。AI関連需要が株価を押し上げている。",
+      "analysis": "Nvidia株の急騰は、AI関連市場の成長期待を反映している。半導体セクター全体も好調であり、テクノロジー株が市場を牽引している。ただし、株価の過熱感には注意が必要であり、今後の業績や市場環境の変化によっては調整が入る可能性もある。",
       "key_entities": [
-        "Treasury Secretary Bessent",
-        "Federal Reserve"
+        "Nvidia"
       ],
       "sources": [
         "CNBC - Top News"
@@ -74,47 +72,14 @@
       ]
     },
     {
-      "title": "Bitcoin climbs to highest level since Feb. 5 crash that sent price plunging to $60,000",
+      "title": "Popular DeFi platform warns users to stay away from its site after security breach",
       "region": "global",
       "risk_level": "high",
-      "summary": "ビットコインが2月5日の暴落以来の高値を更新。価格は60,000ドルまで急落していた。",
-      "analysis": "ビットコイン価格の急騰は、暗号資産市場への投資意欲の高まりを示す。しかし、価格変動が激しい暗号資産市場は、依然として高いリスクを伴う。規制の動向や市場心理の変化によって、価格が急落する可能性も考慮する必要がある。",
+      "summary": "人気のあるDeFiプラットフォームがセキュリティ侵害を受け、ユーザーにサイトから離れるよう警告。",
+      "analysis": "DeFiプラットフォームのセキュリティ侵害は、暗号資産市場におけるセキュリティリスクの深刻さを示している。ハッキングや詐欺のリスクは依然として高く、投資家は十分な注意が必要。Ethereum Foundationが監査補助金プログラムを発表したが、セキュリティ対策の強化は喫緊の課題。",
       "key_entities": [
-        "Bitcoin"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Goldman Sachs files for bitcoin income ETF in crypto push",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "ゴールドマン・サックスがビットコイン収入ETFを申請。暗号資産への取り組みを強化。",
-      "analysis": "大手金融機関が暗号資産関連商品に参入することは、暗号資産市場の成熟度が高まっていることを示す。しかし、規制の不確実性や価格変動リスクは依然として存在するため、投資家は慎重な判断が必要となる。",
-      "key_entities": [
-        "Goldman Sachs",
-        "Bitcoin ETF"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Deutsche Börse takes 1.5% stake in crypto exchange Kraken for $200 million",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "ドイツ証券取引所が暗号資産取引所Krakenの1.5%の株式を2億ドルで取得。",
-      "analysis": "伝統的な金融機関が暗号資産取引所に出資することは、暗号資産市場への関心の高まりを示す。欧州における暗号資産市場の規制整備が進むにつれて、機関投資家の参入が加速する可能性がある。",
-      "key_entities": [
-        "Deutsche Börse",
-        "Kraken"
+        "DeFi",
+        "Ethereum Foundation"
       ],
       "sources": [
         "CoinDesk"
@@ -126,9 +91,9 @@
     {
       "title": "A fake Ledger app on the Apple App Store drained $9.5 million in crypto",
       "region": "global",
-      "risk_level": "high",
-      "summary": "Apple App Storeで公開された偽のLedgerアプリにより、950万ドルの暗号資産が不正に引き出された。",
-      "analysis": "暗号資産関連の詐欺事件は、投資家保護の重要性を示す。規制当局は、暗号資産関連の詐欺行為に対する監視を強化し、投資家への啓発活動を推進する必要がある。",
+      "risk_level": "critical",
+      "summary": "Apple App Store上の偽Ledgerアプリが950万ドルの暗号資産を不正に引き出した。",
+      "analysis": "偽アプリによる大規模な詐欺事件は、暗号資産市場におけるセキュリティリスクの深刻さを浮き彫りにしている。Apple App Storeのような信頼できるプラットフォームでもセキュリティ侵害が発生する可能性があることを示しており、ユーザーはより一層の注意を払う必要がある。規制当局による監視強化も求められる。",
       "key_entities": [
         "Ledger",
         "Apple App Store"
@@ -141,14 +106,48 @@
       ]
     },
     {
-      "title": "Japan's central bank cools rate hike expectations, removing a key risk for bitcoin's rally",
-      "region": "east_asia",
+      "title": "Fed nominee Warsh filings detail vast wealth, far exceeding past chairs",
+      "region": "global",
       "risk_level": "low",
-      "summary": "日銀が利上げ期待を抑制。ビットコインの価格上昇に対する主要なリスクが軽減。",
-      "analysis": "日本の金融緩和政策の継続は、円安を招き、相対的にビットコインの価格を押し上げる要因となる。しかし、日本の金融政策の変更は、世界経済に大きな影響を与える可能性があるため、今後の動向を注視する必要がある。",
+      "summary": "次期FRB議長候補のウォーシュ氏の資産が、過去の議長を大幅に上回ることが明らかになった。",
+      "analysis": "FRB議長候補の資産状況は、政策決定に影響を与える可能性があり、透明性が求められる。ウォーシュ氏の資産規模が政策にどのような影響を与えるか、今後の発言や行動を注視する必要がある。",
       "key_entities": [
-        "Bank of Japan",
-        "Bitcoin"
+        "FRB",
+        "ケビン・ウォーシュ"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "財務長官ベセントは利下げを支持するが、FRBが待つことを望むなら理解できると述べた。",
+      "analysis": "財務長官の発言は、FRBの金融政策に影響を与える可能性がある。利下げのタイミングに関する意見の相違は、市場の不確実性を高める要因となる。今後のインフレ指標や経済状況を踏まえ、FRBがどのような判断を下すか注目される。",
+      "key_entities": [
+        "FRB",
+        "財務長官ベセント"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Goldman Sachs files for bitcoin income ETF in crypto push",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "ゴールドマン・サックスがビットコイン収入ETFを申請。暗号資産市場への参入を強化。",
+      "analysis": "大手金融機関によるビットコインETFの申請は、暗号資産市場の成熟度が高まっていることを示唆する。機関投資家の参入が進むことで、市場の流動性が向上し、価格の安定化に繋がる可能性がある。ただし、規制の動向や市場のボラティリティには注意が必要。",
+      "key_entities": [
+        "ゴールドマン・サックス",
+        "ビットコイン"
       ],
       "sources": [
         "CoinDesk"
@@ -158,17 +157,16 @@
       ]
     },
     {
-      "title": "JPMorgan tops estimates on Wall Street results, Dimon flags 'increasingly complex' economic risks",
+      "title": "Bitcoin climbs to highest level since Feb. 5 crash that sent price plunging to $60,000",
       "region": "global",
       "risk_level": "medium",
-      "summary": "JPモルガンがウォール街の予想を上回る業績を達成。ジェイミー・ダイモンCEOは、経済リスクの複雑化を指摘。",
-      "analysis": "JPモルガンの好調な業績は、金融市場の安定を示す一方で、ダイモンCEOの警告は、今後の経済状況に対する警戒感を示唆する。地政学的リスク、インフレ、金利変動など、複数のリスク要因が複合的に絡み合っている状況であり、今後の市場の変動に注意が必要である。",
+      "summary": "ビットコインが2月5日の暴落以来、最高値を更新。75,000ドルを突破し、強気相場が継続。",
+      "analysis": "ビットコイン価格の上昇は、暗号資産市場への投資家の関心が高まっていることを示唆する。しかし、過去の暴落を考慮すると、価格変動リスクには注意が必要。規制の動向やマクロ経済環境の変化によって、価格が大きく変動する可能性がある。",
       "key_entities": [
-        "JPMorgan",
-        "Jamie Dimon"
+        "ビットコイン"
       ],
       "sources": [
-        "CNBC - Top News"
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -179,9 +177,9 @@
     "global": "critical",
     "north_america": "medium",
     "europe": "medium",
-    "east_asia": "low"
+    "east_asia": "medium"
   },
-  "generated_at": "2026-04-14T16:11:27.790873",
+  "generated_at": "2026-04-14T19:23:28.015782",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
