@@ -1,5 +1,32 @@
 [
   {
+    "id": "0f58af8dd26e",
+    "title": "スーダン衝突3年 5万人以上が死亡 人道状況の悪化続く",
+    "summary": "アフリカのスーダンでは、軍と準軍事組織の戦闘が始まってから15日で3年となり、5万人以上が死亡したとも伝えられる中、人道状況の悪化が続いています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260415/k10015099481000.html",
+    "published": "2026-04-15T06:53:44+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "cede70179dc6",
+    "title": "対立するイスラエルとレバノンの大使が協議 アメリカが仲介",
+    "summary": "イスラエルと、イランが支援するレバノンのイスラム教シーア派組織ヒズボラとの間で戦闘が続く中、アメリカのルビオ国務長官が仲介する形で、イスラエルとレバノン双方のアメリカに駐在する大使が協議に臨みました。今後停戦などをめぐって進展が見られるかが焦点です。",
+    "url": "http://www3.nhk.or.jp/news/html/20260415/k10015099691000.html",
+    "published": "2026-04-15T06:46:43+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
     "id": "a86dda8043fc",
     "title": "ゼレンスキー大統領 “無人の兵器だけで陣地を奪還”",
     "summary": "ウクライナのゼレンスキー大統領は、無人の兵器だけで、初めてロシア軍から陣地を奪還したと明らかにし、兵器の開発をさらに進める考えを強調しました。",
@@ -10,6 +37,45 @@
     "language": "ja",
     "regions": [
       "europe"
+    ]
+  },
+  {
+    "id": "8533a848c6fe",
+    "title": "Canada faces calls to rescind planned cuts to refugee healthcare scheme",
+    "summary": "Health workers and rights advocates say co-payments, set to take effect on May 1, amount to 'de facto denial of care'.",
+    "url": "https://www.aljazeera.com/news/2026/4/14/canada-faces-calls-to-rescind-planned-cuts-to-refugee-healthcare-scheme?traffic_source=rss",
+    "published": "2026-04-14T21:02:23+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "north_america"
+    ]
+  },
+  {
+    "id": "aa89d352c819",
+    "title": "Israeli attack kills several people in Gaza refugee camp",
+    "summary": "Palestinians in Gaza recorded victims of an Israeli strike on the Shati refugee camp being rushed to a medical facility.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-attack-kills-several-people-in-gaza-refugee-camp?traffic_source=rss",
+    "published": "2026-04-14T20:35:55+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "60d7c2e3a566",
+    "title": "How US blockade on Iran will worsen energy crisis",
+    "summary": "With the US military blockade of Iranian ports now in force, global energy markets are already reacting.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/how-us-blockade-on-iran-will-worsen-energy-crisis?traffic_source=rss",
+    "published": "2026-04-14T20:10:34+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -24,6 +90,19 @@
     "regions": [
       "east_asia",
       "europe"
+    ]
+  },
+  {
+    "id": "d524c193834f",
+    "title": "Why are global views of the US getting worse?",
+    "summary": "We discuss the global standing of the US after launching war against Iran and years of worsening views of the nation.",
+    "url": "https://www.aljazeera.com/video/the-stream/2026/4/14/why-are-global-views-of-the-us-getting-worse?traffic_source=rss",
+    "published": "2026-04-14T19:30:00+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -96,7 +175,7 @@
   {
     "id": "87fc44d0a5e3",
     "title": "Video: UN chief Antonio Guterres says talks on Iran war likely to restart",
-    "summary": "UN Secretary-General Antonio Guterres says it’s “highly probably” talks to end the US-Israel war on Iran will resume.",
+    "summary": "UN Secretary-General Antonio Guterres says it’s “highly probable” talks to end the US-Israel war on Iran will resume.",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/video-un-chief-antonio-guterres-says-talks-on-iran-war-likely-to-restart?traffic_source=rss",
     "published": "2026-04-14T18:16:23+00:00",
     "source_name": "Al Jazeera",
@@ -117,59 +196,6 @@
     "language": "en",
     "regions": [
       "middle_east"
-    ]
-  },
-  {
-    "id": "ceeb47e1965b",
-    "title": "It is time for a ceasefire in Sudan and a new way forward",
-    "summary": "The SAF and the RSF cannot shape the future of Sudan alone. All political actors and the Sudanese people must join.",
-    "url": "https://www.aljazeera.com/opinions/2026/4/14/it-is-time-for-a-ceasefire-in-sudan-and-a-new-way-forward?traffic_source=rss",
-    "published": "2026-04-14T17:16:03+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
-    "id": "f88751335376",
-    "title": "Lula asks US to send ex-intelligence chief to Brazil after ICE arrest",
-    "summary": "Brazil's president says he expects Alexandre Ramagem to be returned to Brazil to serve prison sentence there.",
-    "url": "https://www.aljazeera.com/news/2026/4/14/lula-asks-us-to-send-ex-intelligence-chief-to-brazil-after-ice-arrest?traffic_source=rss",
-    "published": "2026-04-14T16:58:07+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "south_america"
-    ]
-  },
-  {
-    "id": "88ca78baaa5f",
-    "title": "After three years of war, what is the situation like in Sudan?",
-    "summary": "Sudan’s war has displaced millions and caused thousands of deaths, with no clear end in sight to the ongoing violence.",
-    "url": "https://www.aljazeera.com/news/2026/4/14/after-three-years-of-war-what-is-the-situation-like-in-sudan?traffic_source=rss",
-    "published": "2026-04-14T16:49:45+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa",
-      "north_america"
-    ]
-  },
-  {
-    "id": "fa40ffae825c",
-    "title": "Ukraine strikes drone production, military support deal with Germany",
-    "summary": "Germany will get access to Ukraine's cutting-edge drone expertise in return for extra help in war against Russia.",
-    "url": "https://www.aljazeera.com/news/2026/4/14/ukraine-strikes-drone-production-deal-with-germany?traffic_source=rss",
-    "published": "2026-04-14T16:23:17+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
     ]
   },
   {
@@ -200,19 +226,6 @@
     ]
   },
   {
-    "id": "42d0931efcbd",
-    "title": "Sudan’s war still misunderstood after three years",
-    "summary": "April 15, 2026, marks three years since the war in Sudan broke out.",
-    "url": "https://www.aljazeera.com/video/africa-now/2026/4/14/sudans-war-still-misunderstood-after-three-years?traffic_source=rss",
-    "published": "2026-04-14T13:30:32+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
     "id": "dbab6edd0913",
     "title": "日英外相 来週都内で会談の方向で調整 中東情勢など協議か",
     "summary": "茂木外務大臣は、来週、東京都内でイギリスのクーパー外相と会談する方向で調整しています。ホルムズ海峡をめぐる緊張が再び高まる中、中東情勢について協議が行われる見通しで、事態の沈静化に向けた緊密な連携を確認したい考えです。",
@@ -236,6 +249,45 @@
     "language": "ja",
     "regions": [
       "east_asia"
+    ]
+  },
+  {
+    "id": "8d50e293128e",
+    "title": "World failing Sudan as war enters a fourth year, UN relief chief warns",
+    "summary": "Sudan remains the world’ s largest humanitarian and displacement crisis, UN agencies and partners said on Tuesday, calling for an end to the war between rival militaries on the eve of the three-year mark.",
+    "url": "https://news.un.org/feed/view/en/story/2026/04/1167301",
+    "published": "2026-04-14T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "57b68fe6ac6e",
+    "title": "Yemenis are ‘hanging by a thread’ top aid official warns Security Council",
+    "summary": "Yemen must not be drawn into the escalating conflict in the Middle East, the Security Council heard on Tuesday, stressing the need for de-escalation, political progress and urgent humanitarian funding for beleaguered civilians battered by years of grinding war.",
+    "url": "https://news.un.org/feed/view/en/story/2026/04/1167300",
+    "published": "2026-04-14T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "5784be9b185b",
+    "title": "‘Time for diplomacy over escalation’ in Middle East war: Guterres",
+    "summary": "As the war in the Middle East continues, the United Nations Secretary-General issued a passionate call for “serious negotiations” between the US and Iran to resume, warning that respect for international law “is being trampled” underfoot.",
+    "url": "https://news.un.org/feed/view/en/story/2026/04/1167299",
+    "published": "2026-04-14T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
