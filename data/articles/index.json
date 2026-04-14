@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-14",
+    "summary": "中東情勢が極めて不安定化。米イラン間の緊張激化に加え、中国の中東への関与がリスクを高めている。ウクライナ情勢も停戦合意が崩れ、予断を許さない状況。世界的な食糧危機への懸念も高まっている。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "medium",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "low",
+      "north_america": "high",
+      "south_america": "low"
+    },
+    "generated_at": "2026-04-14T02:54:17.094363"
+  },
+  {
     "date": "2026-04-13",
     "summary": "ホルムズ海峡封鎖による中東情勢緊迫化、ウクライナ情勢の膠着、南シナ海における中国の活動など、地政学的リスクが複合的に高まっている。世界的な食糧危機への懸念も浮上。",
     "overall_risk_level": "high",

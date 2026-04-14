@@ -1,71 +1,78 @@
 {
-  "date": "2026-04-13",
-  "summary": "現在、世界の社会不安は主にインドのノイダにおける大規模な労働争議が暴力化し、車両放火や交通遮断を伴う事態にまで発展している点が特徴です。この混乱は周辺地域にも波及し、労働問題とエネルギー不足が顕在化しています。一方で、国際通貨基金（IMF）はステーブルコインの安定性に関する警告を発しており、潜在的な金融システムへの不安も指摘されていますが、現時点での取り付け騒ぎは確認されていません。",
+  "date": "2026-04-14",
+  "summary": "世界的には、インドのノイダ地区を中心に大規模な労働者抗議デモが暴徒化し、車両放火や警察との衝突など深刻な社会不安が広がっています。政府が陰謀説を指摘し、近隣地域にも波及する兆候が見られます。一方、米国では政治的なテーマに関する抗議デモが散見されますが、社会秩序の崩壊には至っていません。金融面では、IMFがステーブルコインの安定性に対する潜在的なリスクを警告しており、将来的な銀行取り付け騒ぎへの懸念が表明されています。全体として、インドの局地的な緊張が最も高く、他地域は比較的安定しているものの、潜在的な金融リスクには注意が必要です。",
   "global_panic_index": 55,
   "regions": [
     {
-      "region": "southeast_asia",
-      "panic_index": 85,
-      "status": "volatile",
-      "main_cause": "労働争議、賃金問題、エネルギー不足",
+      "region": "north_america",
+      "panic_index": 38,
+      "status": "unstable",
+      "main_cause": "政治的抗議",
       "incidents": [
         {
-          "title": "Noida労働者抗議デモの暴力化",
-          "location": "Noida, India",
-          "severity": 88,
-          "description": "賃上げを求める労働者の抗議デモが暴力化し、車両放火、投石、器物損壊、主要道路の遮断が発生。警察と衝突し、社会秩序に深刻な影響を及ぼしている。",
-          "source": "The Economic Times, NDTV, MSN, Moneycontrol.com など"
+          "title": "トランプ元大統領の精神状態を巡る抗議デモ",
+          "location": "ワシントンD.C., アメリカ",
+          "severity": 40,
+          "description": "トランプ元大統領の精神状態に関する懸念から、米議会議事堂前で抗議デモが発生。政治的な緊張感は高いものの、広範なパニックや社会秩序の混乱には至っていません。",
+          "source": "AOL.com"
         },
         {
-          "title": "労働不安の周辺地域への拡大",
-          "location": "Bulandshahr, Faridabad, Delhi-NCR, India",
+          "title": "イスラエルへの武器売却阻止を求めるデモ",
+          "location": "ニューヨーク, アメリカ",
+          "severity": 35,
+          "description": "イスラエルへの武器売却阻止を求める大規模な抗議デモがニューヨークで発生し、約100人が拘束されました。民主党幹部の事務所前でも同様のデモが行われています。",
+          "source": "QAB 琉球朝日放送 他"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 64,
+      "status": "volatile",
+      "main_cause": "労働者の賃上げ要求と暴動",
+      "incidents": [
+        {
+          "title": "Noida労働者抗議デモの暴徒化",
+          "location": "Noida, インド",
           "severity": 75,
-          "description": "Noidaでの労働争議がHaryana州FaridabadやBulandshahrにも波及。Delhi警察も警戒態勢に入るなど、地域全体の労働不安が拡大している。",
-          "source": "The Times of India, India.Com"
+          "description": "インドのノイダ地区で賃上げを求める労働者による大規模な抗議デモが暴徒化。車両が放火され、投石や道路封鎖が発生し、警察と衝突するなど、社会秩序の混乱が深刻化しています。",
+          "source": "The Economic Times 他多数"
         },
         {
-          "title": "CMによる「陰謀」発言と政府の対応",
-          "location": "Uttar Pradesh, India",
-          "severity": 70,
-          "description": "CM Yogi AdityanathはNoidaの騒動を「陰謀」と呼び、事態の背景に「部外者」の扇動があると指摘。政府は高レベルパネルを設置し、鎮静化を図っている。",
-          "source": "MSN, NDTV, India TV News など"
+          "title": "Noidaデモにおける陰謀説と外部勢力関与の指摘",
+          "location": "Noida, インド",
+          "severity": 65,
+          "description": "ノイダの労働者デモに対し、州首相が「陰謀」の可能性を指摘し、外部勢力の関与を捜査。事態の背景に組織的な動きがある可能性が浮上し、政府がハイレベルパネルを設置しています。",
+          "source": "MSN 他多数"
         },
         {
-          "title": "HyderabadでのLPG不足抗議デモ",
-          "location": "Hyderabad, India",
+          "title": "労働不安の近隣地域への波及",
+          "location": "ブーランダシャール、ファリダバード, インド",
           "severity": 60,
-          "description": "オートタクシー運転手らがLPG（液化石油ガス）不足に抗議し、主要道路を封鎖。交通網に混乱が生じ、エネルギー供給への不安が表面化している。",
+          "description": "ノイダの労働不安がブーランダシャール、ハリヤーナ州ファリダバードなど近隣地域に拡大し、工場前での抗議活動が発生。警察はデリーNCR地域全体で警戒態勢を強化しています。",
+          "source": "The Times of India 他"
+        },
+        {
+          "title": "LPG不足による自動車運転手の抗議と交通混乱",
+          "location": "ハイデラバード, インド",
+          "severity": 55,
+          "description": "ハイデラバードでLPG（液化石油ガス）の不足に抗議する自動車運転手らによるデモが発生。主要高速道路が封鎖され、交通に大きな支障が出ており、市民生活に影響が出ています。",
           "source": "Dailyhunt"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 25,
-      "status": "normal",
-      "main_cause": "社会的な差別問題",
+      "region": "global",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "金融システムへの懸念",
       "incidents": [
         {
-          "title": "藤沢駅前での差別扇動デモ",
-          "location": "Fujisawa, Japan",
-          "severity": 25,
-          "description": "藤沢駅前でイスラム教徒への差別を煽動するデモが発生。ヘイトスピーチに対する罰則条例の必要性が議論されるなど、社会的な懸念は存在するが、パニックには至っていない。",
-          "source": "カナロコ"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 35,
-      "status": "normal",
-      "main_cause": "抗議活動中の事故",
-      "incidents": [
-        {
-          "title": "抗議デモ中の溺死事故",
-          "location": "Turkey",
-          "severity": 35,
-          "description": "都市広場での抗議デモ中に人が溺れる事故が発生し、「パニックの瞬間」と報じられたが、社会全体を揺るがす広範囲なパニックには至っていない。",
-          "source": "Haberler.com"
+          "title": "IMFによるステーブルコインの安定性に関する警告",
+          "location": "世界",
+          "severity": 50,
+          "description": "国際通貨基金（IMF）がステーブルコインの安定性について警告を発し、その準備金の透明性の欠如が潜在的な銀行取り付け騒ぎに繋がるリスクを強調。世界的な金融不安に警鐘を鳴らしています。",
+          "source": "bloomingbit 他"
         }
       ]
     }
