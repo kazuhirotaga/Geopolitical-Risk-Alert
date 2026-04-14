@@ -1,68 +1,66 @@
 {
   "date": "2026-04-14",
-  "summary": "FRB関連の発表が中心。金融機関の合併承認、過去の執行措置の終了、FedNowサービスに関する提案など、金融システムと決済インフラの整備・監督に関する動きが見られる。FOMC議事録も公開され、金融政策の議論内容が示唆されている。",
+  "summary": "FRB関連の発表が中心。FedNowサービスに関する提案へのパブリックコメント募集、銀行合併の承認、過去の執行措置の終了など、金融政策の微調整と金融機関の健全性維持に向けた動きが見られる。",
   "statements": [
     {
       "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "Burke & Herbert Financial Services Corp.による申請を承認した。",
-      "context": "発表",
-      "analysis": "地域金融機関の合併・買収に関するFRBの姿勢を示す。特定の金融機関の動きを承認することは、金融セクターの再編や競争環境に影響を与える可能性がある。ただし、個別案件であり、市場全体への影響は限定的と考えられる。",
+      "title": "連邦準備制度理事会",
+      "quote": "米国の銀行および信用組合がFedNowサービスを通じて資金を移動するために仲介業者を利用することを許可する提案について、パブリックコメントを募集します。",
+      "context": "プレスリリース",
+      "analysis": "FedNowサービスの利用拡大に向けた動きであり、決済システムの効率化と金融包摂の促進を目指している。パブリックコメントの結果次第で、今後の金融機関のオペレーションに影響を与える可能性がある。",
+      "importance": "medium",
+      "tags": [
+        "FedNow",
+        "決済システム",
+        "金融包摂"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
+    },
+    {
+      "speaker": "Federal Reserve Board",
+      "title": "連邦準備制度理事会",
+      "quote": "Burke & Herbert Financial Services Corp.によるアプリケーションを承認しました。",
+      "context": "プレスリリース",
+      "analysis": "銀行合併は金融セクターの再編を示す兆候であり、地域経済への影響も考慮される。承認は、FRBが当該合併を金融システムの安定に資すると判断したことを意味する。",
       "importance": "low",
       "tags": [
-        "金融機関",
-        "合併",
-        "規制"
+        "銀行合併",
+        "金融セクター",
+        "地域経済"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
     },
     {
       "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、およびGoldman Sachs Group, Inc.に対する執行措置を終了する。",
-      "context": "発表",
-      "analysis": "過去の不正行為や規制違反に対する対応が完了したことを意味する。これらの金融機関にとっては、規制上の負担が軽減され、事業運営の自由度が高まる。市場への直接的な影響は小さいが、FRBの監督体制の進捗を示す。",
+      "title": "連邦準備制度理事会",
+      "quote": "Crédit Agricole S.A. and Crédit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.に対する執行措置を終了します。",
+      "context": "プレスリリース",
+      "analysis": "過去の法令違反や規制不備が是正されたことを示唆する。金融機関のコンプライアンス体制強化を促すとともに、市場の信頼回復に繋がる可能性がある。",
       "importance": "medium",
       "tags": [
-        "金融機関",
-        "規制",
-        "執行措置"
+        "コンプライアンス",
+        "金融規制",
+        "市場の信頼"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
     },
     {
-      "speaker": "Federal Open Market Committee (FOMC)",
-      "title": "米連邦公開市場委員会",
-      "quote": "2026年3月17-18日のFOMC議事録を公開する。",
-      "context": "発表",
-      "analysis": "議事録の内容次第で、今後の金融政策の方向性に関する手がかりが得られる可能性がある。インフレ、雇用、経済成長に関する委員たちの議論や見通しは、市場参加者にとって重要な情報源となる。特に、利上げ、利下げ、量的緩和に関する議論は注目される。",
+      "speaker": "Federal Open Market Committee",
+      "title": "連邦公開市場委員会",
+      "quote": "2026年3月17-18日の連邦公開市場委員会の議事録。",
+      "context": "プレスリリース",
+      "analysis": "議事録の内容次第で、今後の金融政策の方向性に関する手がかりが得られる可能性がある。特に、インフレ、雇用、経済成長に関する委員の意見や、利上げ、量的緩和縮小などの政策手段に関する議論が注目される。",
       "importance": "high",
       "tags": [
         "金融政策",
-        "FOMC",
-        "議事録",
         "インフレ",
-        "雇用"
+        "雇用",
+        "FOMC"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
-    },
-    {
-      "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "米国の銀行および信用組合がFedNowサービスを通じて資金を移動するために仲介業者を利用することを許可する提案について、一般からの意見を募集する。",
-      "context": "発表",
-      "analysis": "FedNowサービスの利用拡大に向けた動きであり、決済システムの効率化とアクセスの向上を目指している。仲介業者の利用を認めることで、より多くの金融機関がFedNowサービスを利用できるようになり、決済の迅速化やコスト削減につながる可能性がある。フィンテック企業など、新たなプレーヤーの参入を促す可能性もある。",
-      "importance": "medium",
-      "tags": [
-        "決済システム",
-        "FedNow",
-        "金融機関",
-        "フィンテック"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
     }
   ],
-  "generated_at": "2026-04-14T13:53:34.912209",
+  "generated_at": "2026-04-14T16:11:38.172437",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
