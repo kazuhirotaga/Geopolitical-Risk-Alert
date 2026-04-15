@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-15",
-    "summary": "中東情勢が極めて不安定。米イラン間の緊張が緩和に向かう兆しがある一方、停戦合意後も攻撃が継続。ウクライナ情勢も膠着状態。NATOの日本訪問は中国を牽制する動き。スーダンでは人道危機が深刻化。",
-    "overall_risk_level": "high",
+    "summary": "中東情勢が極めて不安定。アメリカとイランの停戦合意後も攻撃が続き、米軍は増派。ウクライナ情勢も膠着状態。スーダンでは人道危機が深刻化。NATOの日本訪問は中国を牽制する動き。",
+    "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "none",
-      "south_asia": "medium",
+      "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
       "africa": "critical",
-      "north_america": "medium",
+      "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-04-15T16:09:28.655117"
+    "generated_at": "2026-04-15T19:24:28.502845"
   },
   {
     "date": "2026-04-14",

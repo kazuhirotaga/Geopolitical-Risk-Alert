@@ -1,13 +1,13 @@
 {
   "date": "2026-04-15",
-  "summary": "本日は、連邦準備制度理事会（FRB）関連の公的文書公開が中心。金融政策や金融機関に対する規制・監督に関する情報が示唆されているが、具体的な要人発言は確認できないため、市場への直接的な影響は限定的と考えられる。",
+  "summary": "本日は、FRB関連の発表が中心。金融政策に関する具体的な発言は見当たらず、金融機関の認可や過去の措置の終了に関するものが主。市場への直接的な影響は限定的と考えられる。",
   "statements": [
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "2026年2月9日および3月18日の割引率会合の議事録を公開。",
-      "context": "FRBによる金融政策に関する透明性確保の一環としての情報公開。",
-      "analysis": "割引率会合の議事録は、FRB内部における金融政策に関する議論の詳細を提供する。市場参加者は、これらの議事録を分析することで、今後の金融政策の方向性を予測しようとする。ただし、議事録自体は過去の議論を反映したものであり、即時的な市場への影響は限定的。",
+      "quote": "2026年2月9日および3月18日の割引率に関する理事会会議の議事録を公開。",
+      "context": "FRBの公式発表",
+      "analysis": "割引率に関する議論の内容が詳細に示されることで、今後の金融政策の方向性に関するヒントが得られる可能性がある。市場参加者は議事録を精査し、FRBの政策スタンスを評価すると考えられるが、本発表自体は過去の議事録公開であり、即時的な市場への影響は限定的。",
       "importance": "medium",
       "tags": [
         "金融政策",
@@ -19,47 +19,33 @@
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "Burke & Herbert Financial Services Corp.の申請を承認。",
-      "context": "FRBによる金融機関に対する規制・監督の一環。",
-      "analysis": "金融機関の申請承認は、個別の金融機関の経営状況や戦略に影響を与える。しかし、今回の承認が金融市場全体に与える影響は小さいと考えられる。",
+      "quote": "Burke & Herbert Financial Services Corp.による申請を承認。",
+      "context": "FRBの公式発表",
+      "analysis": "金融機関の合併・買収や事業拡大に関する認可は、金融セクターの健全性や競争環境に影響を与える可能性がある。今回の承認が特定の地域経済や金融市場に与える影響は限定的と考えられるが、金融機関の再編動向を示す一例として注目される。",
       "importance": "low",
       "tags": [
         "金融機関",
-        "規制",
-        "監督"
+        "認可",
+        "規制"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
     },
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、およびGoldman Sachs Group, Inc.に対する執行措置の終了を発表。",
-      "context": "FRBによる金融機関に対する規制・監督の終了。",
-      "analysis": "過去の違反行為に対する執行措置の終了は、対象となる金融機関のコンプライアンス体制の改善を示す可能性がある。市場は、これらの措置の終了を、対象機関のリスク管理能力に対する信頼の回復と解釈する可能性がある。",
-      "importance": "medium",
+      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、およびThe Goldman Sachs Group, Inc.に対する執行措置の終了を発表。",
+      "context": "FRBの公式発表",
+      "analysis": "過去の法令違反や規制違反に対する措置が終了したことは、対象金融機関のコンプライアンス体制が改善されたことを示す。市場の信頼回復に繋がり、株価や信用格付けにプラスの影響を与える可能性がある。ただし、過去の事案であるため、市場への影響は限定的。",
+      "importance": "low",
       "tags": [
         "金融機関",
         "規制",
         "コンプライアンス"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
-    },
-    {
-      "speaker": "連邦公開市場委員会",
-      "title": "FOMC",
-      "quote": "2026年3月17〜18日の連邦公開市場委員会（FOMC）議事録を公開。",
-      "context": "FRBによる金融政策に関する透明性確保の一環としての情報公開。",
-      "analysis": "FOMC議事録は、金融政策の決定過程に関する詳細な情報を提供する。市場参加者は、これらの議事録を分析することで、今後の金融政策の方向性を予測しようとする。特に、メンバー間の意見の相違や、経済見通しに関する議論は、市場の注目を集める。",
-      "importance": "high",
-      "tags": [
-        "金融政策",
-        "FOMC",
-        "FRB"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
     }
   ],
-  "generated_at": "2026-04-15T16:10:04.801775",
+  "generated_at": "2026-04-15T19:25:00.205544",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
