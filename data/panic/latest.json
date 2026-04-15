@@ -1,123 +1,139 @@
 {
   "date": "2026-04-15",
-  "summary": "世界各地では、経済的な困難、エネルギー供給の不安、そして労働環境への不満が主要因となり、社会不安の兆候が見られます。特にインドでは、賃上げを求める大規模な労働争議が広がり、一部で暴徒化や警察の介入といった緊迫した状況が継続しています。また、燃料不足に対する過激な抗議活動も多発しています。ヨーロッパではジェット燃料供給への懸念が浮上し、アフリカでは学生の集団逃走という具体的なパニック事象も発生しました。全体として警戒レベルが上昇しており、一部地域では社会秩序への影響が懸念される状況です。",
-  "global_panic_index": 65,
+  "summary": "世界全体では、インドにおける深刻な労働者騒乱とエネルギー不足が社会不安を増大させ、複数の都市で暴力や警察との衝突が発生し、治安が極めて不安定な状態にあります。ヨーロッパではジェット燃料不足による航空インフラへの懸念が高まり、北米では社会保障制度の将来に対する国民の経済的パニックが顕在化しています。アフリカでは公的サービスの機能不全が抗議活動を引き起こし、南米では経済苦境が続く中で制裁緩和の動きが見られます。日本を含む東アジアでは民主的な抗議活動が確認されるものの、全体的な社会秩序の崩壊には至っていません。",
+  "global_panic_index": 55,
   "regions": [
     {
-      "region": "south_asia",
-      "panic_index": 80,
+      "region": "north_america",
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "労働賃金不足、エネルギー供給不足、教育・生活環境への不満",
+      "main_cause": "Financial insecurity",
       "incidents": [
         {
-          "title": "Noidaにおける大規模かつ継続的な労働争議",
-          "location": "インド、Noida/Dadri/Greater Noida",
-          "severity": 85,
-          "description": "賃上げ要求を巡る大規模な労働争議が複数地域で継続。一部では暴徒化し、警察による300人以上の拘束、機動隊配備、石投げなどが報告されています。政府は陰謀論を示唆するなど、社会の緊迫が深刻化しています。",
-          "source": "MSN, Republic World, The New Indian Expressなど"
+          "title": "Retirement panic over Social Security fund depletion",
+          "location": "United States",
+          "severity": 80,
+          "description": "米国で社会保障基金の枯渇予測日が設定され、将来への広範な経済的パニックが発生。国民の老後に対する深刻な不安が募っている。",
+          "source": "MSN"
         },
         {
-          "title": "CNG・LPG燃料不足に対する過激な抗議活動",
-          "location": "インド、Hyderabad/Jind/デリー",
-          "severity": 75,
-          "description": "CNGやLPGなど生活に不可欠な燃料の不足が深刻化し、各地で大規模な抗議デモが発生。Hyderabadでは自動車運転手がモバイルタワーに登って抗議し、Jindでは警察が配備されるなど、緊迫度が高い状況です。",
-          "source": "MSN, Republic World"
-        },
-        {
-          "title": "学生デモの暴力化と逮捕者",
-          "location": "インド、Sopore",
-          "severity": 65,
-          "description": "教師によるハラスメント疑惑に対する学生の抗議デモが暴力化し、8人が逮捕されました。教育機関における管理体制や治安に対する不安が高まっています。",
-          "source": "DNA India"
-        },
-        {
-          "title": "食料の質に対する学生抗議",
-          "location": "インド、Sonepur",
-          "severity": 45,
-          "description": "政府系技術専門学校で女子学生が提供される食料の質に抗議を行いました。大規模なパニックには至っていませんが、生活環境に対する不満が表面化しています。",
-          "source": "Sambad English"
+          "title": "Anti-war protest in New York",
+          "location": "New York, USA",
+          "severity": 20,
+          "description": "ニューヨークで反戦デモが実施された。平和的な抗議活動であり、社会秩序への直接的なパニックには至っていない。",
+          "source": "MSN / Yahoo!ニュース"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "エネルギー供給懸念",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "Energy shortage",
       "incidents": [
         {
-          "title": "欧州におけるジェット燃料不足の懸念",
-          "location": "ヨーロッパ全域",
+          "title": "Systemic jet fuel shortage threatens flights",
+          "location": "Europe",
+          "severity": 75,
+          "description": "ヨーロッパ全域でジェット燃料の系統的不足が進行中であり、航空便に深刻な影響が出る恐れがある。経済活動や移動の混乱が懸念される。",
+          "source": "CNBC"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "Labor unrest, Energy shortage, Economic disparity",
+      "incidents": [
+        {
+          "title": "Noida workers' protest escalating to violence and widespread unrest",
+          "location": "Noida, India",
+          "severity": 90,
+          "description": "インドのNoidaで労働者による大規模な抗議が周辺都市に拡大。賃上げ後も騒乱は続き、投石や警察との衝突、300人以上の拘束が発生し、治安が極めて不安定。",
+          "source": "Republic World / The New Indian Express"
+        },
+        {
+          "title": "CNG shortage triggers dangerous protests by auto drivers",
+          "location": "Hyderabad, India",
+          "severity": 85,
+          "description": "インドのハイデラバードでCNG不足によりオートドライバーが携帯電話の塔に登って抗議。エネルギー不足が市民生活と交通インフラを混乱させ、危険な行動に繋がっている。",
+          "source": "MSN"
+        },
+        {
+          "title": "LPG shortage leads to widespread protests and police deployment",
+          "location": "Jind, India",
+          "severity": 80,
+          "description": "インド各地でLPG不足が抗議活動を引き起こし、警察が出動。生活必需品の供給危機が社会不安を増大させ、政治的な議論にも影響を与えている。",
+          "source": "MSN"
+        },
+        {
+          "title": "Food quality protest at Sonepur Government Polytechnic",
+          "location": "Sonepur, India",
+          "severity": 50,
+          "description": "インドのソネプール政府ポリテクニックで女子学生が食事の質に抗議し、騒乱が発生。基本的な生活環境への不満が表面化している。",
+          "source": "Sambad English"
+        },
+        {
+          "title": "Political unrest case in Garo Hills",
+          "location": "Garo Hills, India",
           "severity": 60,
-          "description": "「システム的」なジェット燃料不足が欧州で顕在化しつつあり、航空便に大きな打撃を与える可能性が指摘されています。現状で直接的なパニックは確認されていませんが、重要な社会インフラへの影響が懸念されており、広範な警戒を要します。",
-          "source": "CNBC, Business Traveller"
+          "description": "インドのガロヒルズでの騒乱事件に関連し、元MLAが投降。政治的な背景を持つ騒乱が地域社会に不安を与えている。",
+          "source": "The Morning Voice"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "社会不安、教育環境への不満",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "Public service failure, Governance issues",
       "incidents": [
         {
-          "title": "学校からの女子学生集団逃走事案",
-          "location": "ケニア、Embu",
-          "severity": 70,
-          "description": "Kangaru Girls学校で、多数の女子学生が夜間に集団で学校から逃走し、市街で目撃されました。ニュースでは「パニック」という言葉が用いられており、集団心理による動揺や逃避行動が発生したことを示しています。",
-          "source": "MSN"
+          "title": "School closure due to teacher shortage protests",
+          "location": "South Africa (assumed)",
+          "severity": 55,
+          "description": "教員不足に対する生徒の抗議により学校が閉鎖。教育システムの機能不全が顕在化し、若年層の不満が高まっている。",
+          "source": "Daily Dispatch"
         },
         {
-          "title": "教員不足に対する学生の抗議と学校閉鎖",
-          "location": "南アフリカ（推定）",
-          "severity": 50,
-          "description": "教員不足に抗議するため、生徒たちがデモ活動を行い学校が閉鎖される事態が発生しました。教育環境への不満が社会的な混乱を引き起こしています。",
-          "source": "Daily Dispatch"
+          "title": "Protest over local government fund tussle",
+          "location": "Osun, Nigeria",
+          "severity": 40,
+          "description": "ナイジェリアのオスン州で地方政府の資金問題を巡り裁判所で抗議活動が発生。地方行政の混乱が市民の不満を引き起こしている。",
+          "source": "The Nation Newspaper"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "Political expression",
+      "incidents": [
+        {
+          "title": "Anti-government protests in front of the Diet",
+          "location": "Tokyo, Japan",
+          "severity": 25,
+          "description": "日本の国会前でデモが継続的に実施されており、市民が民主主義に関する意見を表明している。社会秩序への影響は軽微。",
+          "source": "朝日新聞"
         }
       ]
     },
     {
       "region": "south_america",
-      "panic_index": 45,
+      "panic_index": 30,
       "status": "unstable",
-      "main_cause": "経済危機",
+      "main_cause": "Economic woes",
       "incidents": [
         {
-          "title": "ベネズエラの経済苦境に対する銀行制裁緩和",
-          "location": "ベネズエラ",
-          "severity": 40,
-          "description": "米国がベネズエラの経済的困窮に対応し、銀行制裁を緩和したと報じられました。これは、ベネズエラが依然として根深い経済危機に直面しており、それが広範な社会不安の潜在的原因となっていることを示唆しています。",
-          "source": "Axios"
+          "title": "US eases sanctions on Venezuelan banks amid economic woes",
+          "location": "Venezuela",
+          "severity": 30,
+          "description": "米国がベネズエラ国営銀行への制裁を緩和。経済苦境が続く同国に対し、金融面でのわずかな改善が期待される。",
+          "source": "BBC / Axios"
         }
       ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "N/A",
-      "incidents": []
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "N/A",
-      "incidents": []
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "N/A",
-      "incidents": []
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "N/A",
-      "incidents": []
     }
   ]
 }

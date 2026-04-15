@@ -1,8 +1,8 @@
 [
   {
     "date": "2026-04-15",
-    "summary": "ペルシャ湾における石油施設への攻撃、米イラン間の緊張、ウクライナ情勢の悪化、スーダン内戦の長期化など、地政学的リスクが高まっている。特に中東地域は、紛争の激化と封鎖措置により、経済的な不安定性が増大している。",
-    "overall_risk_level": "high",
+    "summary": "中東情勢が極めて不安定。アメリカとイランの対立激化、イスラエルとレバノンの緊張、停戦合意後のペルシャ湾での攻撃など、地政学的リスクが世界的に高まっている。ウクライナ情勢も依然として深刻。",
+    "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
@@ -12,10 +12,10 @@
       "middle_east": "critical",
       "europe": "high",
       "africa": "high",
-      "north_america": "medium",
-      "south_america": "low"
+      "north_america": "high",
+      "south_america": "none"
     },
-    "generated_at": "2026-04-15T10:19:53.879445"
+    "generated_at": "2026-04-15T13:47:32.746537"
   },
   {
     "date": "2026-04-14",
