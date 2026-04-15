@@ -4,7 +4,7 @@
     "title": "トランプ大統領 イランとの再協議を示唆 仲介外交も活発に",
     "summary": "イラン情勢をめぐりアメリカのトランプ大統領は「この2日以内に何かが起きる可能性がある」と述べ、イランとの協議が近く再びパキスタンで行われる可能性を示唆しました。パキスタンもシャリフ首相が周辺国を訪問する仲介外交を活発化させていて、事態の進展につながるかが焦点です。",
     "url": "http://www3.nhk.or.jp/news/html/20260415/k10015099491000.html",
-    "published": "2026-04-15T22:41:35+09:00",
+    "published": "2026-04-15T23:28:37+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
@@ -102,17 +102,121 @@
     ]
   },
   {
-    "id": "c99e7be0785e",
-    "title": "Starmer 'not going to yield' to pressure from Trump on Iran war",
+    "id": "54c7be90b828",
+    "title": "Trump escalates threats to fire US Federal Reserve Chair Powell",
+    "summary": "In a Fox Business interview, Trump says he will fire Powell if he does not vacate his board seat when his term ends.",
+    "url": "https://www.aljazeera.com/economy/2026/4/15/trump-escalates-threats-to-fire-us-federal-reserve-chair-powell?traffic_source=rss",
+    "published": "2026-04-15T15:44:09+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "b8da112a332f",
+    "title": "Can Japan’s arms industry gain from Trump trust loss?",
+    "summary": "Japan's announcement comes at a time when the country is looking to rapidly expand its defence exports.",
+    "url": "https://www.aljazeera.com/news/2026/4/15/can-japans-arms-industry-gain-from-trump-trust-loss?traffic_source=rss",
+    "published": "2026-04-15T15:42:23+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia"
+    ]
+  },
+  {
+    "id": "6852c2841e78",
+    "title": "Iran warns US naval blockade threatens ceasefire",
+    "summary": "Iran says it will halt all trade in the Gulf if the US continues blocking its vessels.",
+    "url": "https://www.aljazeera.com/news/2026/4/15/iran-warns-us-naval-blockade-threatens-ceasefire?traffic_source=rss",
+    "published": "2026-04-15T15:29:38+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "645c173b5ee0",
+    "title": "US sending 10,000 more troops to Middle East despite Iran ceasefire",
+    "summary": "The US is sending additional troops to the Middle East this month, according to The Washington Post.",
+    "url": "https://www.aljazeera.com/news/2026/4/15/us-sending-10000-more-troops-to-middle-east-despite-iran-ceasefire?traffic_source=rss",
+    "published": "2026-04-15T15:27:37+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "6ac1c668e2fa",
+    "title": "Starmer says he's 'not going to yield' to pressure from Trump on Iran war",
     "summary": "It follows a warning from the US president that America's trade deal with the UK \"can always be changed\".",
     "url": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-15T13:25:06+00:00",
+    "published": "2026-04-15T15:27:22+00:00",
     "source_name": "BBC - World",
     "source_type": "media",
     "language": "en",
     "regions": [
       "middle_east",
       "europe"
+    ]
+  },
+  {
+    "id": "e7193586e702",
+    "title": "‘Erosion of a country’s future’: What has the war cost Sudan?",
+    "summary": "Sudan's civil war, which erupted three years ago, has devastated civilian infrastructure, pushed millions into misery.",
+    "url": "https://www.aljazeera.com/news/2026/4/15/erosion-of-a-countrys-future-what-has-the-war-cost-sudan?traffic_source=rss",
+    "published": "2026-04-15T14:24:12+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "275b7309662d",
+    "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
+    "summary": "Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell.",
+    "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-15T14:14:41+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "409c424554f4",
+    "title": "Every 27 minutes, someone is killed in Sudan’s war",
+    "summary": "Every day, over the last three years in Sudan, 53 people on average are killed.",
+    "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/15/every-27-minutes-someone-is-killed-in-sudans-war-2?traffic_source=rss",
+    "published": "2026-04-15T14:03:10+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "40be93cc0ed4",
+    "title": "US-Iran talks: What’s the latest on mediation efforts?",
+    "summary": "Tehran rejects US conditions on nuclear arms; sanctions relief and strait control fuel diplomatic deadlock in Islamabad.",
+    "url": "https://www.aljazeera.com/news/2026/4/15/us-iran-talks-whats-the-latest-on-mediation-efforts?traffic_source=rss",
+    "published": "2026-04-15T13:55:40+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -126,6 +230,19 @@
     "language": "en",
     "regions": [
       "middle_east"
+    ]
+  },
+  {
+    "id": "365ab62c489f",
+    "title": "SECURITY COUNCIL LIVE:  Security fears rise in eastern DR Congo",
+    "summary": "The Security Council holds an open briefing top of the hour on the deteriorating security situation in the Democratic Republic of the Congo and wider Great Lakes region. Special Envoy Huang Xia and UN Women’s Sima Bahous will update ambassadors on the recent escalation of violence. Despite mediation efforts in Doha and Washington, regional tensions between the DRC, Rwanda, and Burundi remain acute. Follow live below from our Meetings Coverage team, and app users can click here.",
+    "url": "https://news.un.org/feed/view/en/story/2026/04/1167304",
+    "published": "2026-04-15T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "africa"
     ]
   },
   {
@@ -288,19 +405,6 @@
     ]
   },
   {
-    "id": "b53a557d052d",
-    "title": "‘Food is unifying’: How Lebanon’s migrants are feeding the war-displaced",
-    "summary": "Often overlooked in Lebanon's society, the migrant community is filling the gaps of the state by feeding their own.",
-    "url": "https://www.aljazeera.com/features/2026/4/15/food-is-unifying-how-lebanons-migrants-are-feeding-the-war-displaced?traffic_source=rss",
-    "published": "2026-04-15T08:21:12+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
     "id": "c5918552c477",
     "title": "モスクワ・ピョンヤン直行便 「観光客ほぼいない」ロシア報道",
     "summary": "去年就航したロシアの首都モスクワと北朝鮮の首都ピョンヤンを結ぶ直行便について、ロシアメディアは、利用する観光客はほとんどいないと報じ、観光分野での関係強化は軍事面ほどには進んでいない実態がうかがえます。",
@@ -324,33 +428,6 @@
     "source_type": "media",
     "language": "ja",
     "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "1407b050332a",
-    "title": "Iran war: What is happening on day 47 of the US-Iran conflict?",
-    "summary": "US President Donald Trump has signalled a possible second round of talks with Iran in the coming days.",
-    "url": "https://www.aljazeera.com/news/2026/4/15/iran-war-what-is-happening-on-day-47-of-the-us-iran-conflict?traffic_source=rss",
-    "published": "2026-04-15T07:41:44+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "b062cef70bca",
-    "title": "Trump turns on Meloni, saying she lacks ‘courage’ over US-Israel war on Iran",
-    "summary": "The US president says he is 'shocked at her', delivering a blunt public rebuke to one of his closest European allies.",
-    "url": "https://www.aljazeera.com/news/2026/4/15/trump-turns-on-meloni-saying-she-lacks-courage-over-us-israel-war-on-iran?traffic_source=rss",
-    "published": "2026-04-15T07:05:19+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
       "europe"
     ]
   },
@@ -379,47 +456,6 @@
     "regions": [
       "middle_east",
       "north_america"
-    ]
-  },
-  {
-    "id": "9c5e09b33d1a",
-    "title": "China’s Xi meets Russian FM Lavrov, calls relations with Moscow ‘precious’",
-    "summary": "Russian Foreign Minister Sergey Lavrov met with top Chinese leadership to discuss the Iran war and other concerns.",
-    "url": "https://www.aljazeera.com/news/2026/4/15/chinas-xi-meets-russian-fm-lavrov-calls-relations-with-moscow-precious?traffic_source=rss",
-    "published": "2026-04-15T06:37:14+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia",
-      "middle_east",
-      "europe"
-    ]
-  },
-  {
-    "id": "266c33b55d53",
-    "title": "Iran says $270bn war loss must be compensated, as fresh talks with US loom",
-    "summary": "Iran demands compensation for war damages caused by US and Israeli attacks on critical infrastructure.",
-    "url": "https://www.aljazeera.com/news/2026/4/15/iran-says-270bn-war-loss-must-be-compensated-as-fresh-talks-with-us-loom?traffic_source=rss",
-    "published": "2026-04-15T06:28:34+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "e4fd05e941bb",
-    "title": "US military says blockade of Iran ports ‘completely’ halts economic trade",
-    "summary": "US Central Command say more than 10,000 armed forces members, as well as warships and planes, are involved in blockade.",
-    "url": "https://www.aljazeera.com/economy/2026/4/15/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade?traffic_source=rss",
-    "published": "2026-04-15T05:17:44+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
@@ -647,19 +683,6 @@
       "east_asia",
       "middle_east",
       "north_america"
-    ]
-  },
-  {
-    "id": "17379b7fc9f8",
-    "title": "Watch: What are Harry and Meghan doing in Australia?",
-    "summary": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.",
-    "url": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-14T09:41:22+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   },
   {

@@ -1,99 +1,19 @@
 {
   "date": "2026-04-15",
-  "summary": "地政学的リスク（イラン戦争）とインフレ懸念が市場を圧迫。AllbirdsのAI転換やBank of Americaの好調など個別企業の動きも見られるが、全体的にリスクオフの傾向。暗号資産市場はボラティリティが高い状態が継続。",
+  "summary": "イラン戦争の影響が米国経済に顕在化し、原油価格高騰やサプライチェーンの混乱を引き起こしている。主要国の金融政策は据え置きが見込まれる一方、市場は過熱気味であり、注意が必要。暗号資産市場は地政学的リスクと規制動向に左右され、ボラティリティが高い。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "Allbirds announces stunning pivot from shoes to AI, stock explodes more than 300%",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "AllbirdsがAI事業への転換を発表。知的財産をAmerican Exchange Groupに売却し、株価が急騰。",
-      "analysis": "AllbirdsのAI事業への転換は、既存事業の不振を打開するための戦略転換と見られる。株価の急騰は一時的なものであり、AI事業の具体的な内容や収益性が見えてこない限り、持続的な上昇は期待できない。知的財産の売却は、短期的な資金調達には有効だが、長期的な成長戦略としては疑問が残る。市場全体への影響は限定的だが、AI関連銘柄への関心を高める可能性がある。",
-      "key_entities": [
-        "Allbirds",
-        "American Exchange Group"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bank of America tops estimates as CEO Brian Moynihan says consumer banking is 'healthy'",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Bank of Americaが市場予想を上回る業績を発表。消費者金融部門の健全性を示唆。",
-      "analysis": "Bank of Americaの好調な業績は、米国経済の底堅さを示唆する。しかし、金利据え置きの見通しやインフレ懸念が残る中、今後の金融政策や経済状況の変化によっては、業績が悪化する可能性もある。消費者金融部門の健全性は、個人消費の動向を左右するため、今後の経済指標に注目する必要がある。",
-      "key_entities": [
-        "Bank of America"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "TeraWulf stock declines on $900 million share sale to fund AI data center expansion",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "TeraWulfがAIデータセンター拡張のため9億ドルの株式売却を発表。株価は下落。",
-      "analysis": "TeraWulfの株式売却は、AIデータセンターへの投資意欲の高さを示す。しかし、株式の希薄化により株価が下落しており、資金調達のタイミングや規模が適切であったか疑問が残る。AIデータセンター市場は競争が激化しており、TeraWulfが競争優位性を確立できるかどうかが今後の成長を左右する。",
-      "key_entities": [
-        "TeraWulf"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Cleveland Fed President Hammack expects interest rates to stay on hold 'for a good while'",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "クリーブランド連銀のハマック総裁が、当面の間、金利据え置きの見通しを示す。",
-      "analysis": "ハマック総裁の発言は、FRBがインフレ抑制と景気後退リスクのバランスを重視していることを示唆する。金利据え置きは、短期的に株式市場を支援する可能性があるが、インフレが長期化するリスクも孕んでいる。今後の経済指標次第では、FRBの金融政策が転換する可能性もあるため、注意が必要である。",
-      "key_entities": [
-        "FRB",
-        "Hammack"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Iran war 'very close to over,' Trump says — and the stock market 'is going to boom'",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "トランプ氏がイラン戦争の終結が近いと発言。株式市場の急騰を予測。",
-      "analysis": "トランプ氏の発言は、地政学的リスクの緩和を示唆する可能性がある。しかし、発言の真偽や今後の情勢変化によっては、市場が大きく変動するリスクも存在する。イラン戦争の終結は、原油価格の低下やサプライチェーンの正常化につながる可能性があるが、同時に新たな地政学的リスクを生み出す可能性もある。",
-      "key_entities": [
-        "Trump",
-        "Iran"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Luxury stocks fall as Iran war weighs on earnings; Hermes sinks 14%",
+      "title": "Here are all the ways the Iran war has affected the U.S. economy so far",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イラン戦争の影響で高級ブランド株が下落。エルメスは14%下落。",
-      "analysis": "イラン戦争は、中東地域における経済活動の停滞やサプライチェーンの混乱を引き起こし、高級ブランドの業績に悪影響を与えている。エルメスの株価下落は、地政学的リスクが企業業績に与える影響を明確に示す事例である。今後の地政学的リスクの高まりによっては、他の高級ブランド株も下落する可能性がある。",
+      "summary": "イラン戦争が米国経済に様々な影響を与え始めている。原油価格の上昇、サプライチェーンの混乱、インフレ圧力などが懸念される。",
+      "analysis": "イラン戦争は、原油価格の高騰を通じて米国経済に直接的な影響を与えている。エネルギー価格の上昇は、輸送コストの増加や消費者の購買力低下につながり、インフレを加速させる可能性がある。また、ホルムズ海峡の封鎖リスクは、グローバルサプライチェーンに深刻な影響を及ぼし、企業の生産活動を阻害する恐れがある。地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株式市場の不安定化を招く可能性もあるため、注意が必要。",
       "key_entities": [
-        "Hermes"
+        "米国経済",
+        "イラン",
+        "ホルムズ海峡",
+        "原油価格"
       ],
       "sources": [
         "CNBC - Top News"
@@ -103,47 +23,37 @@
       ]
     },
     {
-      "title": "Russia offers China energy lifeline as the Iran war strangles global supply",
+      "title": "ASML stock drops 5% as China segment takes hit from export bans",
       "region": "east_asia",
-      "risk_level": "high",
-      "summary": "ロシアがイラン戦争による供給不足を補うため、中国にエネルギー供給を提案。",
-      "analysis": "ロシアと中国のエネルギー協力は、地政学的リスクの高まりを背景に、両国の関係強化を示唆する。イラン戦争によるエネルギー供給の混乱は、世界経済に悪影響を与える可能性があるが、ロシアと中国の協力によって、その影響を緩和できる可能性がある。しかし、同時に、両国の影響力拡大に対する懸念も高まる。",
+      "risk_level": "medium",
+      "summary": "ASMLの株価が5%下落。中国向け輸出規制の影響で、中国セグメントが打撃を受けている。",
+      "analysis": "半導体製造装置大手ASMLの株価下落は、米中間の貿易摩擦が半導体産業に与える影響を示唆している。中国への輸出規制は、ASMLの収益を圧迫するだけでなく、中国の半導体産業の発展を遅らせる可能性もある。地政学的リスクが、特定の企業の業績だけでなく、産業全体のサプライチェーンに影響を与える事例として注目される。今後の米中関係の動向が、半導体市場の安定性を左右するだろう。",
       "key_entities": [
-        "Russia",
-        "China"
+        "ASML",
+        "中国",
+        "半導体",
+        "輸出規制"
       ],
       "sources": [
-        "CNBC - Top News"
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Why BLTs and salad just got more expensive — tariffs, war send tomato prices soaring",
+      "title": "Jim Cramer says the stock market is so overbought that we have to tread carefully",
       "region": "global",
       "risk_level": "medium",
-      "summary": "関税と戦争の影響でトマト価格が急騰。",
-      "analysis": "トマト価格の上昇は、インフレの加速を示唆する。関税や戦争によるサプライチェーンの混乱は、食料価格の上昇につながり、家計を圧迫する。今後の貿易政策や地政学的リスクによっては、他の食料品価格も上昇する可能性がある。",
-      "key_entities": [],
+      "summary": "ジム・クレイマー氏は、株式市場が過熱気味であるため、慎重な行動が必要だと警告している。",
+      "analysis": "著名な投資家であるジム・クレイマー氏の警告は、現在の株式市場の状況に対する懸念を示している。市場が過熱状態にある場合、調整局面に入るリスクが高まり、投資家は損失を被る可能性がある。特に、金利据え置きの見通しが続く中で、過剰なリスクテイクが蔓延する可能性があり、注意が必要。投資家は、ポートフォリオのリスク管理を徹底し、慎重な投資判断を行うべきである。",
+      "key_entities": [
+        "株式市場",
+        "ジム・クレイマー",
+        "金利"
+      ],
       "sources": [
         "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Pakistan lifts seven-year ban, allowing banks to service crypto providers",
-      "region": "south_asia",
-      "risk_level": "low",
-      "summary": "パキスタンが7年間の禁止を解除し、銀行が暗号資産プロバイダーにサービスを提供することを許可。",
-      "analysis": "パキスタンの暗号資産規制緩和は、暗号資産市場の成長を促進する可能性がある。しかし、マネーロンダリングやテロ資金供与などのリスクも高まるため、適切な規制体制の構築が不可欠である。パキスタンにおける暗号資産市場の動向は、他の発展途上国における暗号資産規制のあり方にも影響を与える可能性がある。",
-      "key_entities": [
-        "Pakistan"
-      ],
-      "sources": [
-        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -153,13 +63,128 @@
       "title": "Bitcoin pulls back as $75,000 remains 'both the milestone and the ceiling'",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインが75,000ドルを突破できず反落。依然として抵抗線となっている。",
-      "analysis": "ビットコインの価格変動は、暗号資産市場のボラティリティの高さを改めて示す。75,000ドルは心理的な抵抗線となっており、突破にはさらなる買い材料が必要となる。今後の金融政策や規制動向によっては、ビットコイン価格が大きく変動する可能性がある。",
+      "summary": "ビットコインは75,000ドルが抵抗線となり、価格が後退している。",
+      "analysis": "ビットコイン価格が75,000ドルを突破できずにいることは、市場の不確実性を示唆している。地政学的リスクや規制動向など、外部要因がビットコイン価格に影響を与えている可能性がある。また、過去のデータからは、高値圏での調整は珍しくなく、投資家は慎重な姿勢を維持する必要がある。ただし、長期的な視点では、機関投資家の参入やインフレヘッジとしての需要が、ビットコイン価格を支える要因となる可能性がある。",
       "key_entities": [
-        "Bitcoin"
+        "ビットコイン",
+        "暗号資産",
+        "地政学的リスク"
       ],
       "sources": [
         "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Pakistan lifts seven-year ban, allowing banks to service crypto providers",
+      "region": "south_asia",
+      "risk_level": "low",
+      "summary": "パキスタンが7年間禁止していた暗号資産サービスプロバイダーへの銀行サービス提供を解禁した。",
+      "analysis": "パキスタンの暗号資産規制緩和は、暗号資産市場のグローバルな普及を促進する動きとして評価できる。銀行が暗号資産関連企業へのサービス提供を開始することで、暗号資産取引の利便性が向上し、市場参加者の増加につながる可能性がある。ただし、マネーロンダリングやテロ資金供与などのリスクも考慮する必要があり、適切な規制体制の構築が重要となる。",
+      "key_entities": [
+        "パキスタン",
+        "暗号資産",
+        "銀行"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Luxury stocks fall as Iran war weighs on earnings; Hermes sinks 14%",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "イラン戦争が業績に影響し、高級ブランド株が下落。エルメスは14%下落した。",
+      "analysis": "イラン戦争が高級ブランドの業績に悪影響を与えていることは、地政学的リスクが企業活動に及ぼす影響の典型的な例である。中東地域における販売減少は、現地の消費者の購買力低下や観光客の減少などが原因と考えられる。また、サプライチェーンの混乱も、高級ブランドの生産活動に影響を与えている可能性がある。地政学的リスクは、特定の地域だけでなく、グローバルな経済活動全体に影響を及ぼす可能性があるため、注意が必要。",
+      "key_entities": [
+        "高級ブランド",
+        "エルメス",
+        "イラン戦争"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Nearly 60% of U.S. farmers say their finances are getting worse as fertilizer, fuel costs rise: Survey",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "米国の農家の約60%が、肥料や燃料コストの上昇により、財政状況が悪化していると回答。",
+      "analysis": "肥料や燃料コストの上昇は、米国の農業経営を圧迫し、食料価格の上昇につながる可能性がある。グローバルな輸送混乱が肥料価格の高騰を招き、イラン戦争が燃料価格を押し上げている。農業生産の減少は、食料安全保障上のリスクを高めるだけでなく、関連産業にも悪影響を及ぼす可能性がある。政府は、農家への支援策を強化し、食料サプライチェーンの安定化を図る必要がある。",
+      "key_entities": [
+        "米国",
+        "農業",
+        "肥料",
+        "燃料",
+        "イラン戦争"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Cleveland Fed President Hammack expects interest rates to stay on hold 'for a good while'",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "クリーブランド連銀のハマック総裁は、米国の金利が「しばらくの間」据え置かれると予想している。",
+      "analysis": "クリーブランド連銀総裁の発言は、FRBが当面の間、金融政策の現状維持を重視する姿勢を示唆している。インフレ抑制と景気後退リスクのバランスを考慮し、慎重な政策運営を行うことが予想される。金利据え置きは、企業の資金調達コストを抑制し、設備投資を促進する効果が期待できる一方、インフレが加速するリスクも存在する。FRBの今後の政策判断は、経済指標の動向に大きく左右されるだろう。",
+      "key_entities": [
+        "FRB",
+        "金利",
+        "インフレ",
+        "米国経済"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Gold and silver prices today, Wednesday, April 15: Prices open at highest levels in a month",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "金と銀の価格が、過去1ヶ月で最高値で取引を開始した。",
+      "analysis": "金と銀の価格上昇は、地政学的リスクの高まりやインフレ懸念を背景とした安全資産への需要増加を示唆している。特に、イラン戦争の激化は、投資家のリスク回避姿勢を強め、金や銀への投資を促進する要因となっている。また、インフレ懸念も、金や銀の実質価値を維持する手段としての魅力を高めている。金と銀の価格動向は、今後の地政学的リスクやインフレ動向を予測する上で重要な指標となる。",
+      "key_entities": [
+        "金",
+        "銀",
+        "インフレ",
+        "地政学的リスク"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Trump threatens to fire Powell if the Fed chair doesn't leave office on his own",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "トランプ前大統領は、パウエルFRB議長が自ら辞任しない場合、解任すると脅迫している。",
+      "analysis": "トランプ前大統領によるFRB議長への圧力は、中央銀行の独立性に対する脅威として捉えられる。政治的な介入は、金融政策の信頼性を損ない、市場の混乱を招く可能性がある。FRBの独立性は、経済の安定を維持するために不可欠であり、政治的な圧力から守られるべきである。今後の政局の動向が、FRBの政策運営に与える影響に注目する必要がある。",
+      "key_entities": [
+        "FRB",
+        "パウエル",
+        "トランプ",
+        "金融政策"
+      ],
+      "sources": [
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -169,10 +194,10 @@
   "region_risk_map": {
     "global": "high",
     "north_america": "medium",
-    "europe": "medium",
-    "east_asia": "high"
+    "europe": "low",
+    "east_asia": "medium"
   },
-  "generated_at": "2026-04-15T13:51:33.993370",
+  "generated_at": "2026-04-15T16:09:54.132214",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

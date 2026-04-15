@@ -1,85 +1,100 @@
 {
   "date": "2026-04-15",
-  "summary": "世界全体では、インドにおける深刻な労働者騒乱とエネルギー不足が社会不安を増大させ、複数の都市で暴力や警察との衝突が発生し、治安が極めて不安定な状態にあります。ヨーロッパではジェット燃料不足による航空インフラへの懸念が高まり、北米では社会保障制度の将来に対する国民の経済的パニックが顕在化しています。アフリカでは公的サービスの機能不全が抗議活動を引き起こし、南米では経済苦境が続く中で制裁緩和の動きが見られます。日本を含む東アジアでは民主的な抗議活動が確認されるものの、全体的な社会秩序の崩壊には至っていません。",
+  "summary": "世界各地で経済不安、資源不足、労働問題が顕在化し、広範な社会不安を引き起こしています。特にインドでは、賃金不満やCNG・LPGなどの生活必需品不足が大規模な抗議デモに発展し、一部で警察介入や治安強化が行われるなど、不安定な状況が続いています。北米では社会保障制度の財源枯渇見込みによる退職不安が国民に広がり、南米やアフリカでも経済的な不満や公共サービス不足に対する抗議活動が見られます。エネルギー供給への懸念も散見され、世界全体として不安が増大している状況です。",
   "global_panic_index": 55,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "Financial insecurity",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "経済不安（社会保障制度）",
       "incidents": [
         {
-          "title": "Retirement panic over Social Security fund depletion",
-          "location": "United States",
-          "severity": 80,
-          "description": "米国で社会保障基金の枯渇予測日が設定され、将来への広範な経済的パニックが発生。国民の老後に対する深刻な不安が募っている。",
+          "title": "社会保障財源枯渇見込みによる退職不安",
+          "location": "米国",
+          "severity": 50,
+          "description": "社会保障制度の財源が枯渇する見込みが報じられ、退職世代を中心に経済的な不安が広範に広がっています。直接的な社会秩序の混乱はないものの、将来への不透明感が国民の間に根強く存在します。",
           "source": "MSN"
-        },
-        {
-          "title": "Anti-war protest in New York",
-          "location": "New York, USA",
-          "severity": 20,
-          "description": "ニューヨークで反戦デモが実施された。平和的な抗議活動であり、社会秩序への直接的なパニックには至っていない。",
-          "source": "MSN / Yahoo!ニュース"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "Energy shortage",
+      "region": "south_america",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "経済不安（低賃金）",
       "incidents": [
         {
-          "title": "Systemic jet fuel shortage threatens flights",
-          "location": "Europe",
-          "severity": 75,
-          "description": "ヨーロッパ全域でジェット燃料の系統的不足が進行中であり、航空便に深刻な影響が出る恐れがある。経済活動や移動の混乱が懸念される。",
-          "source": "CNBC"
+          "title": "地方公務員による低賃金抗議",
+          "location": "ベネズエラ",
+          "severity": 45,
+          "description": "米国の制裁緩和が報じられる一方で、ベネズエラの地方公務員が低賃金に対する抗議デモを実施。長引く経済苦境が国民の不満として表面化しており、社会不安の背景となっています。",
+          "source": "International Business Times"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 35,
+      "status": "stable",
+      "main_cause": "エネルギー供給不安",
+      "incidents": [
+        {
+          "title": "日本での製油所稼働率低下",
+          "location": "日本",
+          "severity": 30,
+          "description": "中東原油不足を背景に、日本の製油所稼働率が67.8%に低下。現時点での大規模なパニックには至っていないが、将来的なエネルギー供給への懸念が高まり、国民の不安要素となっています。",
+          "source": "energynews.pro"
+        },
+        {
+          "title": "オーストラリアでの燃料不足への言及",
+          "location": "オーストラリア",
+          "severity": 35,
+          "description": "オーストラリアでの燃料不足について、イランが皮肉を込めて言及する報道。具体的な買いだめや暴動の報告はないものの、燃料供給への懸念が他国からも注目されており、潜在的な不安要素です。",
+          "source": "The Nightly"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "Labor unrest, Energy shortage, Economic disparity",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "経済不安、エネルギー・生活必需品不足、労働問題",
       "incidents": [
         {
-          "title": "Noida workers' protest escalating to violence and widespread unrest",
-          "location": "Noida, India",
-          "severity": 90,
-          "description": "インドのNoidaで労働者による大規模な抗議が周辺都市に拡大。賃上げ後も騒乱は続き、投石や警察との衝突、300人以上の拘束が発生し、治安が極めて不安定。",
-          "source": "Republic World / The New Indian Express"
+          "title": "インド・ノイダでの大規模労働者抗議デモ",
+          "location": "インド（ノイダ）",
+          "severity": 75,
+          "description": "賃金不満を訴える労働者による大規模な抗議デモがノイダ全域に広がり、警察が治安を強化し一部で逮捕者も出ました。交通渋滞や企業活動への影響も出ており、社会秩序の不安定化が深刻化しています。",
+          "source": "The Indian Express, MSN, NDTV Profit, Republic World 他多数"
         },
         {
-          "title": "CNG shortage triggers dangerous protests by auto drivers",
-          "location": "Hyderabad, India",
-          "severity": 85,
-          "description": "インドのハイデラバードでCNG不足によりオートドライバーが携帯電話の塔に登って抗議。エネルギー不足が市民生活と交通インフラを混乱させ、危険な行動に繋がっている。",
+          "title": "ハイデラバードでのCNG不足に対する抗議",
+          "location": "インド（ハイデラバード）",
+          "severity": 60,
+          "description": "CNG（圧縮天然ガス）不足に抗議するため、オートリクシャーの運転手が携帯電話のタワーに登るという過激な行動に出ました。エネルギー不足が市民生活に深刻な影響を与え、切迫した抗議に繋がっています。",
           "source": "MSN"
         },
         {
-          "title": "LPG shortage leads to widespread protests and police deployment",
-          "location": "Jind, India",
-          "severity": 80,
-          "description": "インド各地でLPG不足が抗議活動を引き起こし、警察が出動。生活必需品の供給危機が社会不安を増大させ、政治的な議論にも影響を与えている。",
+          "title": "インド各地でのLPG不足に対する抗議デモ",
+          "location": "インド（ジンド、MCDハウスなど）",
+          "severity": 65,
+          "description": "LPG（液化石油ガス）の供給不足が原因で、各地で市民や議員による抗議デモが発生。生活必需品であるLPGの不足は、買いだめや社会不安を誘発しやすい状況にあり、当局は対応を迫られています。",
           "source": "MSN"
         },
         {
-          "title": "Food quality protest at Sonepur Government Polytechnic",
-          "location": "Sonepur, India",
-          "severity": 50,
-          "description": "インドのソネプール政府ポリテクニックで女子学生が食事の質に抗議し、騒乱が発生。基本的な生活環境への不満が表面化している。",
+          "title": "学生による食堂の食品品質への抗議",
+          "location": "インド（ソネプール）",
+          "severity": 45,
+          "description": "ソネプールの政府系専門学校で、女子学生が食堂の食品品質に抗議する騒動が発生。特定の施設内の問題ではあるが、食料の品質問題は住民の健康や安心感に直結し、不安の広がりを示唆します。",
           "source": "Sambad English"
         },
         {
-          "title": "Political unrest case in Garo Hills",
-          "location": "Garo Hills, India",
-          "severity": 60,
-          "description": "インドのガロヒルズでの騒乱事件に関連し、元MLAが投降。政治的な背景を持つ騒乱が地域社会に不安を与えている。",
-          "source": "The Morning Voice"
+          "title": "ノイダ抗議活動における誤情報と不安拡大",
+          "location": "インド（ノイダ）",
+          "severity": 55,
+          "description": "ノイダの労働者抗議活動に関して、ソーシャルメディア上で誤情報が拡散し、不安をさらに煽っていることが報告されています。誤情報が社会不安を増幅させ、秩序維持を困難にする一因となっています。",
+          "source": "MSN"
         }
       ]
     },
@@ -87,51 +102,21 @@
       "region": "africa",
       "panic_index": 45,
       "status": "unstable",
-      "main_cause": "Public service failure, Governance issues",
+      "main_cause": "公共サービス不足、政治的対立",
       "incidents": [
         {
-          "title": "School closure due to teacher shortage protests",
-          "location": "South Africa (assumed)",
-          "severity": 55,
-          "description": "教員不足に対する生徒の抗議により学校が閉鎖。教育システムの機能不全が顕在化し、若年層の不満が高まっている。",
+          "title": "教師不足による学校閉鎖と生徒の抗議",
+          "location": "南アフリカ",
+          "severity": 40,
+          "description": "教師不足を理由に学校が閉鎖され、生徒が抗議活動を実施しました。教育環境の悪化は若年層の不満を高め、将来的な社会不安の要因となる可能性があります。",
           "source": "Daily Dispatch"
         },
         {
-          "title": "Protest over local government fund tussle",
-          "location": "Osun, Nigeria",
-          "severity": 40,
-          "description": "ナイジェリアのオスン州で地方政府の資金問題を巡り裁判所で抗議活動が発生。地方行政の混乱が市民の不満を引き起こしている。",
+          "title": "地方政府資金を巡る抗議活動",
+          "location": "ナイジェリア（オスン）",
+          "severity": 50,
+          "description": "地方政府の資金問題に関連し、オスンの裁判所前で抗議活動が発生しました。政治的な対立や資金の不透明性が、社会の安定を揺るがす要因となっています。",
           "source": "The Nation Newspaper"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "Political expression",
-      "incidents": [
-        {
-          "title": "Anti-government protests in front of the Diet",
-          "location": "Tokyo, Japan",
-          "severity": 25,
-          "description": "日本の国会前でデモが継続的に実施されており、市民が民主主義に関する意見を表明している。社会秩序への影響は軽微。",
-          "source": "朝日新聞"
-        }
-      ]
-    },
-    {
-      "region": "south_america",
-      "panic_index": 30,
-      "status": "unstable",
-      "main_cause": "Economic woes",
-      "incidents": [
-        {
-          "title": "US eases sanctions on Venezuelan banks amid economic woes",
-          "location": "Venezuela",
-          "severity": 30,
-          "description": "米国がベネズエラ国営銀行への制裁を緩和。経済苦境が続く同国に対し、金融面でのわずかな改善が期待される。",
-          "source": "BBC / Axios"
         }
       ]
     }

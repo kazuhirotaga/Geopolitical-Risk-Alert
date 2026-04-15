@@ -1,82 +1,65 @@
 {
   "date": "2026-04-15",
-  "summary": "本日公表されたFRB関連のニュースは、主に金融政策の決定議事録、銀行関連の承認、執行措置の終了、FedNowサービスに関する提案への意見募集など、金融システムの安定と効率化に向けたFRBの継続的な取り組みを示唆している。",
+  "summary": "本日は、連邦準備制度理事会（FRB）関連の公的文書公開が中心。金融政策や金融機関に対する規制・監督に関する情報が示唆されているが、具体的な要人発言は確認できないため、市場への直接的な影響は限定的と考えられる。",
   "statements": [
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "2026年2月9日と3月18日の公定歩合に関する理事会会合の議事録を公開。",
-      "context": "FRBによる金融政策決定プロセスの透明性確保の一環。",
-      "analysis": "公定歩合に関する議論の内容は、今後の金融政策の方向性を示唆する可能性がある。市場参加者は、インフレ抑制や景気刺激策に関する手がかりを探るだろう。議事録の内容次第では、短期金利や債券市場に影響を与える可能性がある。",
+      "quote": "2026年2月9日および3月18日の割引率会合の議事録を公開。",
+      "context": "FRBによる金融政策に関する透明性確保の一環としての情報公開。",
+      "analysis": "割引率会合の議事録は、FRB内部における金融政策に関する議論の詳細を提供する。市場参加者は、これらの議事録を分析することで、今後の金融政策の方向性を予測しようとする。ただし、議事録自体は過去の議論を反映したものであり、即時的な市場への影響は限定的。",
       "importance": "medium",
       "tags": [
         "金融政策",
-        "公定歩合",
-        "議事録"
+        "割引率",
+        "FRB"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm"
     },
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "Burke & Herbert Financial Services Corp.による申請を承認。",
-      "context": "銀行セクターの健全性維持と競争促進のための規制活動の一環。",
-      "analysis": "銀行の合併・買収や新規設立の承認は、金融セクターの構造変化を示す。今回の承認が、地域経済や金融市場にどのような影響を与えるか注視する必要がある。特に、地域銀行の競争環境やサービス提供に変化が生じる可能性がある。",
+      "quote": "Burke & Herbert Financial Services Corp.の申請を承認。",
+      "context": "FRBによる金融機関に対する規制・監督の一環。",
+      "analysis": "金融機関の申請承認は、個別の金融機関の経営状況や戦略に影響を与える。しかし、今回の承認が金融市場全体に与える影響は小さいと考えられる。",
       "importance": "low",
       "tags": [
-        "銀行",
-        "承認",
-        "金融規制"
+        "金融機関",
+        "規制",
+        "監督"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
     },
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、およびThe Goldman Sachs Group, Inc.に対する執行措置の終了を発表。",
-      "context": "金融機関のコンプライアンス遵守状況の改善を受けた措置。",
-      "analysis": "執行措置の終了は、対象金融機関の内部統制やリスク管理体制が改善されたことを意味する。これは、金融システムの安定性向上に貢献する。しかし、過去の違反行為の内容や改善策については、引き続き監視が必要である。",
+      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、およびGoldman Sachs Group, Inc.に対する執行措置の終了を発表。",
+      "context": "FRBによる金融機関に対する規制・監督の終了。",
+      "analysis": "過去の違反行為に対する執行措置の終了は、対象となる金融機関のコンプライアンス体制の改善を示す可能性がある。市場は、これらの措置の終了を、対象機関のリスク管理能力に対する信頼の回復と解釈する可能性がある。",
       "importance": "medium",
       "tags": [
         "金融機関",
-        "執行措置",
+        "規制",
         "コンプライアンス"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
     },
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "2026年3月17〜18日の連邦公開市場委員会（FOMC）の議事録を公開。",
-      "context": "FRBによる金融政策決定プロセスの透明性確保の一環。",
-      "analysis": "FOMC議事録は、金融政策の現状認識、将来の政策変更の可能性、および経済見通しに関する重要な情報源である。市場参加者は、インフレ、雇用、成長に関する委員会の議論を分析し、今後の金融政策の方向性を予測しようとするだろう。議事録の内容は、株式市場、債券市場、為替市場に大きな影響を与える可能性がある。",
+      "speaker": "連邦公開市場委員会",
+      "title": "FOMC",
+      "quote": "2026年3月17〜18日の連邦公開市場委員会（FOMC）議事録を公開。",
+      "context": "FRBによる金融政策に関する透明性確保の一環としての情報公開。",
+      "analysis": "FOMC議事録は、金融政策の決定過程に関する詳細な情報を提供する。市場参加者は、これらの議事録を分析することで、今後の金融政策の方向性を予測しようとする。特に、メンバー間の意見の相違や、経済見通しに関する議論は、市場の注目を集める。",
       "importance": "high",
       "tags": [
         "金融政策",
         "FOMC",
-        "議事録",
-        "インフレ",
-        "雇用"
+        "FRB"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "米国の銀行および信用組合がFedNowサービスを通じて資金を移動するために仲介業者を利用できるようにする提案に関するパブリックコメントを募集。",
-      "context": "FedNowサービスの普及促進と効率化を目的とした提案。",
-      "analysis": "FedNowサービスの利用拡大は、決済システムの効率化とイノベーションを促進する可能性がある。仲介業者の利用を認めることで、より多くの金融機関がFedNowサービスにアクセスできるようになり、決済コストの削減や迅速な決済の実現が期待される。パブリックコメントの結果は、最終的な規制の形に影響を与える可能性がある。",
-      "importance": "medium",
-      "tags": [
-        "FedNow",
-        "決済システム",
-        "イノベーション",
-        "パブリックコメント"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
     }
   ],
-  "generated_at": "2026-04-15T13:51:47.659908",
+  "generated_at": "2026-04-15T16:10:04.801775",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

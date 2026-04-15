@@ -1,8 +1,8 @@
 [
   {
     "date": "2026-04-15",
-    "summary": "中東情勢が極めて不安定。アメリカとイランの対立激化、イスラエルとレバノンの緊張、停戦合意後のペルシャ湾での攻撃など、地政学的リスクが世界的に高まっている。ウクライナ情勢も依然として深刻。",
-    "overall_risk_level": "critical",
+    "summary": "中東情勢が極めて不安定。米イラン間の緊張が緩和に向かう兆しがある一方、停戦合意後も攻撃が継続。ウクライナ情勢も膠着状態。NATOの日本訪問は中国を牽制する動き。スーダンでは人道危機が深刻化。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
@@ -11,11 +11,11 @@
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
-      "africa": "high",
-      "north_america": "high",
+      "africa": "critical",
+      "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-04-15T13:47:32.746537"
+    "generated_at": "2026-04-15T16:09:28.655117"
   },
   {
     "date": "2026-04-14",
