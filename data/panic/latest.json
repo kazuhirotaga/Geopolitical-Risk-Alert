@@ -1,95 +1,123 @@
 {
   "date": "2026-04-15",
-  "summary": "現在、世界各地で地域的な社会不安が散見されます。特にインドでは、労働者の賃金問題やエネルギー不足を背景とした大規模な抗議デモが頻発し、一部では暴徒化、オフィスへの侵入、従業員へのパニック誘発といった深刻な事態に発展しています。多数の逮捕者や誤情報の拡散も確認され、社会秩序の一部が混乱している状況です。南米やアフリカでも経済的苦境や公共サービス不足に対する不満が表面化していますが、広範なパニックには至っていません。全体としては「警戒状態」にあり、特定の地域での事態悪化が懸念されます。",
-  "global_panic_index": 68,
+  "summary": "世界各地では、経済的な困難、エネルギー供給の不安、そして労働環境への不満が主要因となり、社会不安の兆候が見られます。特にインドでは、賃上げを求める大規模な労働争議が広がり、一部で暴徒化や警察の介入といった緊迫した状況が継続しています。また、燃料不足に対する過激な抗議活動も多発しています。ヨーロッパではジェット燃料供給への懸念が浮上し、アフリカでは学生の集団逃走という具体的なパニック事象も発生しました。全体として警戒レベルが上昇しており、一部地域では社会秩序への影響が懸念される状況です。",
+  "global_panic_index": 65,
   "regions": [
     {
-      "region": "south_america",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "経済危機、金融不安",
+      "region": "south_asia",
+      "panic_index": 80,
+      "status": "volatile",
+      "main_cause": "労働賃金不足、エネルギー供給不足、教育・生活環境への不満",
       "incidents": [
         {
-          "title": "米国、ベネズエラの経済苦境を受けて銀行制裁を緩和",
-          "location": "ベネズエラ",
-          "severity": 50,
-          "description": "経済的苦境が続くベネズエラに対し、米国が銀行制裁を緩和した。これは直接的なパニックではないものの、経済問題が根深く、潜在的な社会不安があることを示唆している。",
-          "source": "Axios"
+          "title": "Noidaにおける大規模かつ継続的な労働争議",
+          "location": "インド、Noida/Dadri/Greater Noida",
+          "severity": 85,
+          "description": "賃上げ要求を巡る大規模な労働争議が複数地域で継続。一部では暴徒化し、警察による300人以上の拘束、機動隊配備、石投げなどが報告されています。政府は陰謀論を示唆するなど、社会の緊迫が深刻化しています。",
+          "source": "MSN, Republic World, The New Indian Expressなど"
+        },
+        {
+          "title": "CNG・LPG燃料不足に対する過激な抗議活動",
+          "location": "インド、Hyderabad/Jind/デリー",
+          "severity": 75,
+          "description": "CNGやLPGなど生活に不可欠な燃料の不足が深刻化し、各地で大規模な抗議デモが発生。Hyderabadでは自動車運転手がモバイルタワーに登って抗議し、Jindでは警察が配備されるなど、緊迫度が高い状況です。",
+          "source": "MSN, Republic World"
+        },
+        {
+          "title": "学生デモの暴力化と逮捕者",
+          "location": "インド、Sopore",
+          "severity": 65,
+          "description": "教師によるハラスメント疑惑に対する学生の抗議デモが暴力化し、8人が逮捕されました。教育機関における管理体制や治安に対する不安が高まっています。",
+          "source": "DNA India"
+        },
+        {
+          "title": "食料の質に対する学生抗議",
+          "location": "インド、Sonepur",
+          "severity": 45,
+          "description": "政府系技術専門学校で女子学生が提供される食料の質に抗議を行いました。大規模なパニックには至っていませんが、生活環境に対する不満が表面化しています。",
+          "source": "Sambad English"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "エネルギー供給懸念",
+      "incidents": [
+        {
+          "title": "欧州におけるジェット燃料不足の懸念",
+          "location": "ヨーロッパ全域",
+          "severity": 60,
+          "description": "「システム的」なジェット燃料不足が欧州で顕在化しつつあり、航空便に大きな打撃を与える可能性が指摘されています。現状で直接的なパニックは確認されていませんが、重要な社会インフラへの影響が懸念されており、広範な警戒を要します。",
+          "source": "CNBC, Business Traveller"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "公共サービス不足",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "社会不安、教育環境への不満",
       "incidents": [
         {
-          "title": "教員不足に対する生徒の抗議で学校閉鎖",
+          "title": "学校からの女子学生集団逃走事案",
+          "location": "ケニア、Embu",
+          "severity": 70,
+          "description": "Kangaru Girls学校で、多数の女子学生が夜間に集団で学校から逃走し、市街で目撃されました。ニュースでは「パニック」という言葉が用いられており、集団心理による動揺や逃避行動が発生したことを示しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "教員不足に対する学生の抗議と学校閉鎖",
           "location": "南アフリカ（推定）",
-          "severity": 60,
-          "description": "教員の不足に抗議して生徒がデモを行い、学校が閉鎖された。教育サービスへの不満が表面化し、社会機能の一部に支障が出ている。",
+          "severity": 50,
+          "description": "教員不足に抗議するため、生徒たちがデモ活動を行い学校が閉鎖される事態が発生しました。教育環境への不満が社会的な混乱を引き起こしています。",
           "source": "Daily Dispatch"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 40,
-      "status": "stable",
-      "main_cause": "社会・政治的意見の表明",
+      "region": "south_america",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "経済危機",
       "incidents": [
         {
-          "title": "ニューヨークで反戦デモ",
-          "location": "米国、ニューヨーク",
+          "title": "ベネズエラの経済苦境に対する銀行制裁緩和",
+          "location": "ベネズエラ",
           "severity": 40,
-          "description": "ニューヨークで反戦デモが開催された。具体的な規模や混乱の報告はないものの、社会的な不満や懸念が存在することを示す。",
-          "source": "ｄメニューニュース"
+          "description": "米国がベネズエラの経済的困窮に対応し、銀行制裁を緩和したと報じられました。これは、ベネズエラが依然として根深い経済危機に直面しており、それが広範な社会不安の潜在的原因となっていることを示唆しています。",
+          "source": "Axios"
         }
       ]
     },
     {
+      "region": "north_america",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
       "region": "east_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "労働者の賃金問題、エネルギー不足、政府政策への不満、社会秩序の一部混乱",
-      "incidents": [
-        {
-          "title": "ノイダでの労働者抗議が暴徒化、350人以上逮捕",
-          "location": "インド、ノイダ",
-          "severity": 90,
-          "description": "労働者の賃金問題を巡る抗議デモが暴徒化し、350人以上が逮捕された。事態は極めて深刻で、大規模な社会秩序の混乱が見られる。",
-          "source": "Mid-day"
-        },
-        {
-          "title": "労働抗議者がオフィス侵入、従業員にパニックを引き起こす",
-          "location": "インド、ノイダ",
-          "severity": 95,
-          "description": "労働者の抗議活動がエスカレートし、オフィスビルに侵入。従業員に実際のパニック状態を引き起こした。社会心理的な影響が極めて大きい。",
-          "source": "Indian Startup News"
-        },
-        {
-          "title": "ソポールで学生抗議が暴徒化、8人逮捕",
-          "location": "インド、ソポール",
-          "severity": 85,
-          "description": "教師による嫌がらせ疑惑を巡る学生の抗議デモが暴徒化し、8人が逮捕された。教育現場の不満が暴力的な行動につながっている。",
-          "source": "DNA India"
-        },
-        {
-          "title": "CNG不足に抗議し、オートリキシャ運転手が携帯電話タワーに登る",
-          "location": "インド、ハイデラバード",
-          "severity": 75,
-          "description": "CNG燃料不足に抗議するため、オートリキシャ運転手が携帯電話タワーに登るという過激な行動に出た。エネルギー不足が市民生活に深刻な影響を与えている。",
-          "source": "MSN"
-        },
-        {
-          "title": "国会前で3万人規模の反戦デモ",
-          "location": "日本",
-          "severity": 60,
-          "description": "国会前で3万人規模の反戦デモが行われ、戦争に対する強い危機感が表明された。大規模なデモではあるが、秩序は保たれている。",
-          "source": "岐阜新聞デジタル 他"
-        }
-      ]
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": []
     }
   ]
 }

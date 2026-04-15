@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-15",
-    "summary": "ウクライナ情勢の長期化に加え、アメリカとイランの対立激化により中東情勢が緊迫化。米中ロの外交駆け引きが活発化し、地政学リスクは全体的に高い水準で推移。スーダンなど人道危機も深刻化。",
+    "summary": "ペルシャ湾における石油施設への攻撃、米イラン間の緊張、ウクライナ情勢の悪化、スーダン内戦の長期化など、地政学的リスクが高まっている。特に中東地域は、紛争の激化と封鎖措置により、経済的な不安定性が増大している。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "medium",
+      "east_asia": "high",
       "southeast_asia": "none",
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
       "africa": "high",
-      "north_america": "high",
-      "south_america": "medium"
+      "north_america": "medium",
+      "south_america": "low"
     },
-    "generated_at": "2026-04-15T07:54:31.647079"
+    "generated_at": "2026-04-15T10:19:53.879445"
   },
   {
     "date": "2026-04-14",
