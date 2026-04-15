@@ -1,13 +1,13 @@
 {
   "date": "2026-04-15",
-  "summary": "本日は、FRB関連の発表が中心。金融政策に関する具体的な発言は見当たらず、金融機関の認可や過去の措置の終了に関するものが主。市場への直接的な影響は限定的と考えられる。",
+  "summary": "本日は、FRB関連の発表が中心。金融政策に関する具体的な発言は見当たらず、割引率会議の議事録公開、金融機関の申請承認、執行措置の終了に関する発表に留まる。市場への直接的な影響は限定的と考えられる。",
   "statements": [
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
       "quote": "2026年2月9日および3月18日の割引率に関する理事会会議の議事録を公開。",
-      "context": "FRBの公式発表",
-      "analysis": "割引率に関する議論の内容が詳細に示されることで、今後の金融政策の方向性に関するヒントが得られる可能性がある。市場参加者は議事録を精査し、FRBの政策スタンスを評価すると考えられるが、本発表自体は過去の議事録公開であり、即時的な市場への影響は限定的。",
+      "context": "連邦準備制度理事会のプレスリリース",
+      "analysis": "割引率会議の議事録公開は、今後の金融政策の方向性を探る上で重要な情報源となる。ただし、過去の議事録であるため、即時的な市場への影響は小さい。議事録の内容を精査し、今後の政策変更の可能性を予測する必要がある。",
       "importance": "medium",
       "tags": [
         "金融政策",
@@ -20,32 +20,33 @@
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
       "quote": "Burke & Herbert Financial Services Corp.による申請を承認。",
-      "context": "FRBの公式発表",
-      "analysis": "金融機関の合併・買収や事業拡大に関する認可は、金融セクターの健全性や競争環境に影響を与える可能性がある。今回の承認が特定の地域経済や金融市場に与える影響は限定的と考えられるが、金融機関の再編動向を示す一例として注目される。",
+      "context": "連邦準備制度理事会のプレスリリース",
+      "analysis": "金融機関の申請承認は、金融システムの安定性維持に向けたFRBの取り組みの一環。個別の金融機関の動向に関する発表であり、市場全体への影響は限定的。",
       "importance": "low",
       "tags": [
         "金融機関",
-        "認可",
-        "規制"
+        "申請",
+        "FRB"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
     },
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、およびThe Goldman Sachs Group, Inc.に対する執行措置の終了を発表。",
-      "context": "FRBの公式発表",
-      "analysis": "過去の法令違反や規制違反に対する措置が終了したことは、対象金融機関のコンプライアンス体制が改善されたことを示す。市場の信頼回復に繋がり、株価や信用格付けにプラスの影響を与える可能性がある。ただし、過去の事案であるため、市場への影響は限定的。",
+      "quote": "Crédit Agricole S.A.、Crédit Agricole Corporate and Investment Bank、Mega International Commercial Bank Co., Ltd、およびThe Goldman Sachs Group, Inc.に対する執行措置を終了。",
+      "context": "連邦準備制度理事会のプレスリリース",
+      "analysis": "執行措置の終了は、対象となる金融機関のコンプライアンス体制が改善されたことを示す。金融システム全体の健全性向上に寄与する可能性があるが、個別の事案であり、市場への直接的な影響は小さい。",
       "importance": "low",
       "tags": [
         "金融機関",
-        "規制",
+        "執行措置",
+        "FRB",
         "コンプライアンス"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
     }
   ],
-  "generated_at": "2026-04-15T19:25:00.205544",
+  "generated_at": "2026-04-15T21:57:38.342183",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
