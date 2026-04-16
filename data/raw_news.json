@@ -1,10 +1,23 @@
 [
   {
+    "id": "3b3d38ab8f6b",
+    "title": "ローマ教皇「世界は暴君により荒廃」と指導者批判",
+    "summary": "ローマ教皇レオ14世は16日、演説で「世界は一握りの暴君たちによって荒廃させられている」と述べるなど、戦争を主導する指導者たちを強く批判しました。",
+    "url": "http://www3.nhk.or.jp/news/html/20260417/k10015101311000.html",
+    "published": "2026-04-17T06:00:04+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "global"
+    ]
+  },
+  {
     "id": "dcdb62ed84f0",
     "title": "トランプ氏 イスラエルとレバノン 10日間の停戦で合意と発表",
     "summary": "アメリカのトランプ大統領は16日、SNSにイスラエルのネタニヤフ首相、およびレバノンのアウン大統領と話し合いを行ったと投稿しました。このなかで、「両首脳は両国間の平和を実現するため、アメリカ東部時間午後5時から正式に10日間の停戦を開始することで合意した」と発表しました。これに先立って、レバノンの大統領府は16日、アウン大統領が、トランプ大統領やルビオ国務長官とそれぞれ電話会談を行い、アメリカ側による停戦に向けた対応に謝意を示したなどと発表していました。イスラエルと、レバノンのイスラム教シーア派組織ヒズボラは、これまでのところ公式には反応を示していません。",
     "url": "http://www3.nhk.or.jp/news/html/20260417/k10015101301000.html",
-    "published": "2026-04-17T02:31:17+09:00",
+    "published": "2026-04-17T05:03:34+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
@@ -14,14 +27,159 @@
     ]
   },
   {
-    "id": "6aa356ea47f1",
-    "title": "ウクライナ全土で少なくとも15人死亡 ロシア軍による攻撃",
-    "summary": "ウクライナでは、16日朝にかけてロシア軍による大規模な攻撃があり、全土であわせて少なくとも15人が死亡したと発表され、ことしに入って最悪の攻撃だと伝えられています。ゼレンスキー大統領は、イラン情勢が緊迫する中にあっても各国が約束したウクライナへの軍事支援は実行してほしいと求めました。",
-    "url": "http://www3.nhk.or.jp/news/html/20260416/k10015101071000.html",
-    "published": "2026-04-17T00:33:49+09:00",
-    "source_name": "NHK World",
+    "id": "39c3834b65cc",
+    "title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
+    "summary": "The US president invites the two countries' leaders to Washington as Israel's prime minister insists troops will not leave southern Lebanon.",
+    "url": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-16T21:18:31+00:00",
+    "source_name": "BBC - World",
     "source_type": "media",
-    "language": "ja",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "901f5bd14f9b",
+    "title": "Pope Leo urges peace in visit to Cameroon’s conflict-hit northwest",
+    "summary": "Pope Leo XIV was in Bamenda in conflict-hit northwest Cameroon, urging peace in a region beset by deadly fighting.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/pope-leo-urges-peace-in-visit-to-cameroons-conflict-hit-northwest?traffic_source=rss",
+    "published": "2026-04-16T21:11:56+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "4b1997233fa6",
+    "title": "A ceasefire in Lebanon — will it hold?",
+    "summary": "After rare talks, a ceasefire in Lebanon raises one question: what happens on the ground next?",
+    "url": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-aj_tt_leb_wartalks_full_v1-160426?traffic_source=rss",
+    "published": "2026-04-16T20:58:40+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "01b11a39854c",
+    "title": "Qatar hosts talks aimed at putting Iran peace process back on track",
+    "summary": "Pakistan's PM arrived in Doha Thursday for regional talks across the Middle East in a possibility to end the war.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/qatar-hosts-talks-aimed-at-putting-iran-peace-process-back-on-track?traffic_source=rss",
+    "published": "2026-04-16T20:54:03+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_asia",
+      "middle_east"
+    ]
+  },
+  {
+    "id": "f8f71b9dc4f1",
+    "title": "Who is keeping the fight alive in Sudan’s war?",
+    "summary": "What three years of war have done to Sudan.",
+    "url": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-sdn_anniversary26_av_v2-1404266?traffic_source=rss",
+    "published": "2026-04-16T20:46:06+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "0ffc11f68d77",
+    "title": "More than $5 trillion in US taxes. Who gets it?",
+    "summary": "From war spending to healthcare cuts, US budget choices have real impacts. So who is the system really working for?",
+    "url": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-tt_usa_taxday_v3_soundmix-150426?traffic_source=rss",
+    "published": "2026-04-16T20:40:28+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "8f7ff5ddd0e7",
+    "title": "AOC, Boebert join calls for sexual misconduct accountability in Congress",
+    "summary": "Lawmakers who represent  leftward and rightward flanks of their parties call for reform after Congress members resign.",
+    "url": "https://www.aljazeera.com/news/2026/4/16/aoc-boebert-join-calls-for-sexual-misconduct-accountability-in-congress?traffic_source=rss",
+    "published": "2026-04-16T20:40:05+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "222bce05ab3d",
+    "title": "What role is China playing in the Iran war and how is it affected?",
+    "summary": "Beijing balancing Tehran alliance with its wider global interests",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/4/16/what-role-is-china-playing-in-the-iran-war-and-how-is-it-affected?traffic_source=rss",
+    "published": "2026-04-16T20:34:19+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia",
+      "middle_east"
+    ]
+  },
+  {
+    "id": "96e04b9ad7c1",
+    "title": "UK’s Starmer under fire over report Mandelson failed security vetting",
+    "summary": "Gov's spokesperson says Starmer had no knowledge of the Foreign Office overriding the security recommendation.",
+    "url": "https://www.aljazeera.com/news/2026/4/16/uks-starmer-under-fire-over-report-mandelson-failed-security-vetting?traffic_source=rss",
+    "published": "2026-04-16T20:22:38+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "c5597155763c",
+    "title": "Displaced Lebanese in Beirut uncertain if they can trust ceasefire",
+    "summary": "Displaced Lebanese in Beirut said they do not yet trust whether the ceasefire between Israel and Lebanon will hold.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/displaced-lebanese-in-beirut-uncertain-if-they-can-trust-ceasefire?traffic_source=rss",
+    "published": "2026-04-16T20:10:16+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "305b9234a3e7",
+    "title": "Sectarian fears increase as a Beirut area says no to displacement centre",
+    "summary": "Tensions rise in Karantina as civil war-era sectarian fears resurface over a cancelled displacement centre project.",
+    "url": "https://www.aljazeera.com/news/2026/4/16/sectarian-fears-increase-as-a-beirut-area-says-no-to-displacement-centre?traffic_source=rss",
+    "published": "2026-04-16T20:08:25+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "445e8696d5fc",
+    "title": "Senate vote on arms sale shows ‘massive cracks’ in US support for Israel",
+    "summary": "Rights advocates hail 'historic' shift as 40 out of 47 Democratic senators vote to block military bulldozers to Israel.",
+    "url": "https://www.aljazeera.com/news/2026/4/16/senate-vote-on-arms-sale-shows-massive-cracks-in-us-support-for-israel?traffic_source=rss",
+    "published": "2026-04-16T20:03:08+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
     "regions": [
       "middle_east",
       "europe"
@@ -39,6 +197,45 @@
     "regions": [
       "east_asia",
       "europe"
+    ]
+  },
+  {
+    "id": "b54144271bf8",
+    "title": "Cuban president defiant amid US pressure and energy blockade threats",
+    "summary": "Miguel Diaz-Canel marks anniversary of socialist revolutionary declaration under threat of US attacks.",
+    "url": "https://www.aljazeera.com/news/2026/4/16/cuban-president-defiant-amid-us-pressure-and-energy-blockade-threats?traffic_source=rss",
+    "published": "2026-04-16T19:42:15+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "4970660b85d6",
+    "title": "Hezbollah strikes north Israel ahead of Lebanon ceasefire announcement",
+    "summary": "Firefighters worked to extinguish a fire after a rocket attack from Hezbollah hit Kiryat Shmona in northern Israel.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/hezbollah-strikes-north-israel-ahead-of-lebanon-ceasefire-announcement?traffic_source=rss",
+    "published": "2026-04-16T19:19:17+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "7a515f67ff71",
+    "title": "Lionel Messi buys Barcelona-based Spanish football club Cornella",
+    "summary": "The Argentina and Inter Miami forward has bought Cornella, who play in the same city as his former club Barcelona.",
+    "url": "https://www.aljazeera.com/sports/2026/4/16/lionel-messi-buys-barcelona-based-spanish-club-cornella?traffic_source=rss",
+    "published": "2026-04-16T19:19:03+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_america"
     ]
   },
   {
@@ -98,33 +295,6 @@
     ]
   },
   {
-    "id": "70262eaf5e48",
-    "title": "10-day Lebanon-Israel ceasefire announced by Trump",
-    "summary": "Israel and Lebanon have agreed to a 10-day ceasefire starting at 21:00 GMT on Thursday, said US President Donald Trump.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/10-day-lebanon-israel-ceasefire-announced-by-trump?traffic_source=rss",
-    "published": "2026-04-16T17:35:46+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "0e3f34fbf59f",
-    "title": "No date set for US-Iran talks, as Pakistan pushes to keep diplomacy alive",
-    "summary": "Pakistan's prime minister and army chief are both travelling to key players in the war, attempting to keep talks going.",
-    "url": "https://www.aljazeera.com/news/2026/4/16/no-date-set-for-us-iran-talks-as-pakistan-pushes-to-keep-diplomacy-alive?traffic_source=rss",
-    "published": "2026-04-16T17:03:36+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "south_asia",
-      "middle_east"
-    ]
-  },
-  {
     "id": "e1e86c27aea3",
     "title": "Pope lashes out at foreigners who exploit Africa",
     "summary": "The pontiff has been unusually forthright during his visit to conflict-hit Cameroon.",
@@ -135,19 +305,6 @@
     "language": "en",
     "regions": [
       "africa"
-    ]
-  },
-  {
-    "id": "0995984bcced",
-    "title": "US general clarifies Iranian ports under blockade, not Strait of Hormuz",
-    "summary": "A US general had to clarify that the US military is only blockading Iranian ports, not the entire Strait of Hormuz.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/us-general-clarifies-iranian-ports-under-blockade-not-strait-of-hormuz?traffic_source=rss",
-    "published": "2026-04-16T16:55:34+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
@@ -168,110 +325,16 @@
     ]
   },
   {
-    "id": "d1a4be6984af",
-    "title": "Trump says Israel and Lebanon agree to temporary ceasefire",
-    "summary": "Lebanese Prime Minister Nawaf Salam welcomes Donald Trump's announcement of 10-day truce that takes effect on Thursday.",
-    "url": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanon-agree-to-temporary-ceasefire?traffic_source=rss",
-    "published": "2026-04-16T15:52:19+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "f04afcbb9595",
-    "title": "Israel says it’s West’s defender, but cares little for European critics",
-    "summary": "Israel’s widening wars and disregard for its traditional allies are deepening international criticism and isolation.",
-    "url": "https://www.aljazeera.com/news/2026/4/16/israel-says-its-wests-defender-but-cares-little-for-european-critics?traffic_source=rss",
-    "published": "2026-04-16T15:47:56+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "europe"
-    ]
-  },
-  {
-    "id": "683c19ed484a",
-    "title": "Jet fuel shortage: Why Iran war could ground flights in Europe",
-    "summary": "Europe's aviation faces fuel shortages as Hormuz tensions threaten travel at the start of the summer season.",
-    "url": "https://www.aljazeera.com/news/2026/4/16/jet-fuel-shortage-why-iran-war-could-ground-flights-in-europe?traffic_source=rss",
-    "published": "2026-04-16T15:44:23+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "europe"
-    ]
-  },
-  {
-    "id": "1d13a28b7ea9",
-    "title": "Thousands of bees swarm southern Israel",
-    "summary": "Residents in Israel have been documenting thousands of bees swarming the southern city of Netivot.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/thousands-of-bees-swarm-southern-israel?traffic_source=rss",
-    "published": "2026-04-16T15:39:25+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "north_america"
-    ]
-  },
-  {
-    "id": "63fd7f0df961",
-    "title": "US strike on Pacific vessel kills three",
-    "summary": "US military footage released Wednesday shows its latest strike on a vessel in the eastern Pacific, killing three people.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/us-strike-on-pacific-vessel-kills-three?traffic_source=rss",
-    "published": "2026-04-16T15:10:41+00:00",
-    "source_name": "Al Jazeera",
+    "id": "79ba9c0a3147",
+    "title": "Watch: Rising prices threaten Minnesota's meat raffles",
+    "summary": "Popular in local bars across the US, the games are facing higher meat prices, squeezing some of the charities that benefit from them.",
+    "url": "https://www.bbc.com/news/videos/cp86pj0eppro?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-16T15:35:25+00:00",
+    "source_name": "BBC - World",
     "source_type": "media",
     "language": "en",
     "regions": [
       "global"
-    ]
-  },
-  {
-    "id": "45fc0360e6f7",
-    "title": "Turkiye’s Roketsan eyes top 10 exporter rank amid Middle East conflict",
-    "summary": "Turkiye has rapidly expanded its defence industry to become a leading global missile exporter amid rising conflict.",
-    "url": "https://www.aljazeera.com/economy/2026/4/16/turkiyes-roketsan-eyes-top-10-exporter-rank-amid-middle-east-conflict?traffic_source=rss",
-    "published": "2026-04-16T14:24:38+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "b8ab97240cfa",
-    "title": "After three years of war, Sudan army and RSF locked in military impasse",
-    "summary": "As the war enters its fourth year, neither side has achieved a decisive victory as humanitarian situation remains grim.",
-    "url": "https://www.aljazeera.com/news/2026/4/16/after-three-years-of-war-sudan-army-and-rsf-locked-in-military-impasse?traffic_source=rss",
-    "published": "2026-04-16T14:19:16+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
-    "id": "5aa03e872dd9",
-    "title": "Pentagon chief Hegseth warns Iran blockade to last ‘as long as takes’",
-    "summary": "US urges resolution through talks, but says Washington 'locked and loaded' to resume attacks.",
-    "url": "https://www.aljazeera.com/news/2026/4/16/hegseth-says-us-blockade-to-continue-ready-for-new-attacks-on-iran-energy?traffic_source=rss",
-    "published": "2026-04-16T13:56:32+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
@@ -355,19 +418,6 @@
     ]
   },
   {
-    "id": "16f925a31da5",
-    "title": "Meghan says she was 'most trolled person in the world'",
-    "summary": "Alongside her husband, the Duchess of Sussex was speaking to young people in Melbourne about the harms of social media.",
-    "url": "https://www.bbc.com/news/articles/c8r48l0kd2do?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-16T08:24:35+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "c90f348da618",
     "title": "トランプ大統領“中国はイランに武器送らないことに合意”主張",
     "summary": "アメリカのトランプ大統領は中国の習近平国家主席に対しイランに武器を供与しないよう求める書簡を送ったとしたうえで、「彼らは武器を送らないことに合意した」と主張しました。",
@@ -380,46 +430,6 @@
       "east_asia",
       "middle_east",
       "north_america"
-    ]
-  },
-  {
-    "id": "486faf2d13f8",
-    "title": "China's economy grows faster than expected despite Iran war",
-    "summary": "The better-than-expected GDP data comes as Asian countries have been hit hard by the impact of the conflict.",
-    "url": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-16T07:08:52+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia",
-      "middle_east"
-    ]
-  },
-  {
-    "id": "1327a68200e2",
-    "title": "Former US Marine pilot loses appeal against extradition from Australia",
-    "summary": "Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa.",
-    "url": "https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-16T02:17:38+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
-    "id": "275b7309662d",
-    "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
-    "summary": "Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell.",
-    "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-16T01:55:12+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   },
   {
@@ -603,19 +613,6 @@
     ]
   },
   {
-    "id": "58399eb7774a",
-    "title": "Moment gunman tackled by school principal",
-    "summary": "CCTV footage shows a high school principal charging towards a former student who was armed in Oklahoma.",
-    "url": "https://www.bbc.com/news/videos/c8dll87rrm4o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-15T09:03:51+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "ce0e6fe68f19",
     "title": "イタリア イスラエルと防衛協定更新せず 米とも関係冷え込み",
     "summary": "イタリアのメローニ首相は、今月予定されていたイスラエルとの防衛協定の自動的な更新を見送ると発表しました。イタリアはイラン情勢をめぐってアメリカとイスラエルの軍事作戦に関与しない立場を示し、両国との関係の冷え込みが鮮明になっています。",
@@ -627,19 +624,6 @@
     "regions": [
       "middle_east",
       "north_america"
-    ]
-  },
-  {
-    "id": "87e607dd01cc",
-    "title": "The human cost of the war in Sudan, three years on",
-    "summary": "The conflict, which erupted in 2023, has left behind a human toll which is \"simply staggering\", reports the BBC's Barbara Plett Usher.",
-    "url": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-15T08:38:36+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
     ]
   },
   {
