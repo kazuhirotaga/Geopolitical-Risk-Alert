@@ -1,51 +1,50 @@
 {
   "date": "2026-04-16",
-  "summary": "本日は、FRB関連の発表が中心。金融政策に関する具体的な発言は見当たらず、割引率に関する議事録公開、金融機関の申請承認、および過去の執行措置の終了に関する発表に留まる。市場への直接的な影響は限定的と考えられる。",
+  "summary": "本日は、米連邦準備制度理事会（FRB）関連の発表が中心。金融機関への規制措置や承認に関する情報公開が行われたが、金融政策に関する直接的な発言は確認されず、市場への直接的な影響は限定的と考えられる。",
   "statements": [
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "2026年2月9日および3月18日の割引率に関する理事会会合の議事録を公開。",
-      "context": "FRBのプレスリリース",
-      "analysis": "議事録の公開は、FRBの政策決定プロセス透明性向上の一環。内容次第では、将来の金融政策の方向性に関するヒントが含まれている可能性があり、市場参加者は詳細な分析を行う必要がある。ただし、現時点では具体的な政策変更を示唆するものではない。",
+      "quote": "Community Bankshares, Inc.に対し、執行措置を発令した。",
+      "context": "FRBによるプレスリリース",
+      "analysis": "Community Bankshares, Inc.に対する具体的な執行措置の内容は不明だが、FRBが金融機関の監督・規制を継続的に実施していることを示す。個別の金融機関への影響はあるものの、市場全体への影響は小さいと考えられる。",
+      "importance": "low",
+      "tags": [
+        "金融規制",
+        "金融機関"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260416a.htm"
+    },
+    {
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "2月9日と3月18日の公定歩合に関する理事会会合の議事録を公開した。",
+      "context": "FRBによるプレスリリース",
+      "analysis": "議事録の内容次第では、今後の金融政策の方向性に関するヒントが得られる可能性がある。ただし、過去の会合に関する情報であり、即時的な市場への影響は限定的と考えられる。詳細な分析が必要。",
       "importance": "medium",
       "tags": [
         "金融政策",
-        "割引率",
-        "透明性"
+        "公定歩合",
+        "議事録"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm"
     },
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "バーク＆ハーバート・ファイナンシャル・サービシズ・コープの申請を承認。",
-      "context": "FRBのプレスリリース",
-      "analysis": "金融機関の申請承認は、金融システムの安定性維持と健全な競争環境の促進を目的とするFRBの通常の業務の一環。個別の金融機関の動向を示すものではあるが、マクロ経済全体への影響は小さい。",
+      "quote": "Burke & Herbert Financial Services Corp.による申請を承認した。",
+      "context": "FRBによるプレスリリース",
+      "analysis": "金融機関の合併・買収や事業拡大に関する申請承認は、業界再編の動向を示す。Burke & Herbert Financial Services Corp.の規模や事業内容によっては、地域経済への影響も考えられるが、全体としては限定的。",
       "importance": "low",
       "tags": [
         "金融機関",
-        "申請承認",
-        "規制"
+        "合併",
+        "承認"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "クレディ・アグリコルS.A.、クレディ・アグリコル・コーポレート・アンド・インベストメント・バンク、メガ・インターナショナル・コマーシャル・バンク、ゴールドマン・サックス・グループに対する執行措置を終了。",
-      "context": "FRBのプレスリリース",
-      "analysis": "過去の違反行為に対する是正措置が完了したことを示す。これらの金融機関にとっては規制上の負担軽減となるが、市場全体への影響は限定的。FRBが金融機関のコンプライアンス状況を継続的に監視していることを示唆する。",
-      "importance": "low",
-      "tags": [
-        "金融機関",
-        "執行措置",
-        "コンプライアンス"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm"
     }
   ],
-  "generated_at": "2026-04-16T13:57:36.794653",
+  "generated_at": "2026-04-16T16:25:52.201943",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

@@ -1,8 +1,72 @@
 [
   {
     "date": "2026-04-16",
-    "summary": "ホルムズ海峡での緊張、イラン戦争のコストと影響、ウクライナでの武器性能評価、防衛装備への投資などが注目される。米国とイランの和平交渉は決裂し、両国間の緊張が続いている。",
+    "summary": "ホルムズ海峡におけるアメリカ軍の機雷除去作戦の可能性が議論される一方、アメリカとイランの和平交渉は決裂。イラン戦争のコストに関する情報が不足している。また、イエメンのフーシ派による紅海封鎖の可能性も指摘されている。",
     "events": [
+      {
+        "id": "event-20260416-001",
+        "timestamp": "2026-04-16",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "アメリカ軍によるホルムズ海峡の機雷除去作戦の検討",
+        "content": "アメリカ軍が、ドローン、爆発物を搭載したロボット、ヘリコプターを使用してホルムズ海峡の機雷除去作戦を行う可能性を検討。ただし、イランからの攻撃に対する脆弱性が懸念される。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/16/how-the-us-military-could-clear-mines-from-the-strait-of-hormuz/"
+      },
+      {
+        "id": "event-20260416-002",
+        "timestamp": "2026-04-16",
+        "location": "紅海",
+        "region": "middle_east",
+        "title": "イエメンのフーシ派による紅海封鎖の可能性",
+        "content": "専門家が、イエメンのフーシ派が紅海を封鎖する可能性について警告。ホルムズ海峡だけでなく、紅海も潜在的なチョークポイントとなりうる。",
+        "involved_parties": [
+          "イエメンのフーシ派",
+          "その他関係国"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/14/amid-focus-on-strait-of-hormuz-experts-sound-warning-on-yemens-houthis-and-red-sea/"
+      },
+      {
+        "id": "event-20260416-003",
+        "timestamp": "2026-04-16",
+        "location": "ワシントンD.C.",
+        "region": "middle_east",
+        "title": "レバノンとイスラエルの交渉開始",
+        "content": "レバノンとイスラエルの交渉がワシントンで開始。両国は1948年以来、技術的には戦争状態にあるため、まれな外交的関与となる。",
+        "involved_parties": [
+          "レバノン",
+          "イスラエル"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/14/lebanon-and-israel-talks-set-to-begin-in-washington/"
+      },
+      {
+        "id": "event-20260416-004",
+        "timestamp": "2026-04-16",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ドイツ製兵器のウクライナにおける性能評価",
+        "content": "ドイツ政府が、ウクライナでの戦闘におけるドイツ製兵器（Panzerhaubitze 2000、RCH-155、IRIS-T）の性能に関するデータ共有協定を締結。",
+        "involved_parties": [
+          "ドイツ",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/"
+      },
       {
         "id": "CE003",
         "timestamp": "2026-04-15",
@@ -217,6 +281,38 @@
         "region": "middle_east",
         "title": "米イラン和平交渉が決裂",
         "content": "米国とイランの和平交渉がパキスタンで21時間に及んだが、合意に至らず決裂。双方とも相手に責任を転嫁。数千人が死亡し、世界経済が混乱している。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/"
+      },
+      {
+        "id": "event-20260412-001",
+        "timestamp": "2026-04-12",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "アメリカ海軍によるホルムズ海峡封鎖",
+        "content": "トランプ大統領がホルムズ海峡の封鎖を即時実施すると発表。イランからの攻撃に対しては断固とした対応を取る姿勢を示す。",
+        "involved_parties": [
+          "アメリカ海軍",
+          "イラン"
+        ],
+        "event_type": "blockade",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
+      },
+      {
+        "id": "event-20260412-002",
+        "timestamp": "2026-04-12",
+        "location": "パキスタン",
+        "region": "middle_east",
+        "title": "アメリカ・イラン和平交渉の決裂",
+        "content": "21時間に及ぶアメリカとイランの和平交渉が決裂。双方とも相手に責任を転嫁しており、数千人の死者を出した紛争の終結は見通せない。",
         "involved_parties": [
           "アメリカ",
           "イラン"
