@@ -1,122 +1,115 @@
 {
   "date": "2026-04-16",
-  "summary": "世界各地で経済的な不安、エネルギー供給懸念、社会保障制度への不信感からくる社会不安が増大しています。インドでは大規模な労働争議と燃料不足による抗議が多発し、一部で緊張が高まっています。ベネズエラでは経済苦境が続き、米国では社会保障の将来に対する懸念が顕在化。全体的に「不安の増大」から「警戒状態」への移行が見られます。",
-  "global_panic_index": 58,
+  "summary": "世界各地で経済的な不満、エネルギー供給問題、労働争議に起因する社会不安が顕在化しています。特にインドでは大規模な労働者抗議デモやLPG不足に伴う混乱が複数の都市で発生し、社会の緊張が高まっています。日本やオーストラリアでもエネルギー供給への懸念が見られ、ベネズエラやナイジェリアでも政治的・経済的な抗議活動が報告されています。全体として、社会の安定性が試される警戒状態に入りつつあります。",
+  "global_panic_index": 60,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 60,
-      "status": "volatile",
-      "main_cause": "社会保障制度への不安、大規模な抗議活動",
-      "incidents": [
-        {
-          "title": "米国における退職後の社会保障財源枯渇へのパニック",
-          "location": "米国",
-          "severity": 70,
-          "description": "社会保障の財源が枯渇する期日が設定されたと報じられ、退職後の生活設計に関する広範なパニックと不安が引き起こされている状況。",
-          "source": "MSN"
-        },
-        {
-          "title": "ロサンゼルスでの「No Kings」抗議デモが混乱状態に",
-          "location": "ロサンゼルス、米国",
-          "severity": 65,
-          "description": "ロサンゼルスで発生した大規模な抗議デモが混乱状態に陥り、多数の逮捕者が出る事態に発展し、一時的に社会秩序が乱れた。",
-          "source": "MSN"
-        }
-      ]
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "該当なし",
+      "incidents": []
     },
     {
       "region": "south_america",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "経済困難、低賃金への不満",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "経済不安、低賃金",
       "incidents": [
         {
-          "title": "ベネズエラにおける低賃金への抗議活動と経済的苦境",
+          "title": "ベネズエラ地方公務員の低賃金抗議",
           "location": "ベネズエラ",
-          "severity": 68,
-          "description": "米国の銀行制裁緩和が報じられる中、ベネズエラの地方公務員が低賃金に抗議。根深い経済的苦境が社会不安を増幅させている。",
+          "severity": 45,
+          "description": "米国による銀行制裁緩和と並行し、地方公務員が低賃金に対し抗議デモを実施。経済的な不満が背景にあり、社会不安の兆候が見られます。",
           "source": "International Business Times"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "エネルギー供給への潜在的懸念",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "エネルギー不足、政治的抗議",
       "incidents": [
         {
-          "title": "中東原油不足による日本の製油所稼働率低下",
+          "title": "日本の製油所稼働率低下、中東原油不足",
           "location": "日本",
-          "severity": 35,
-          "description": "中東原油の不足により、日本の製油所稼働率が67.8%にとどまっており、将来的なエネルギー供給への潜在的な懸念が存在する。",
+          "severity": 55,
+          "description": "中東原油不足を背景に、日本の製油所稼働率が67.8%に低下。直接的なパニックには至っていないものの、将来的なエネルギー供給への不安が高まっています。",
           "source": "energynews.pro"
+        },
+        {
+          "title": "日本全国160カ所以上で改憲反対デモ",
+          "location": "日本",
+          "severity": 45,
+          "description": "全国160カ所以上で同時発生した大規模な改憲反対デモ。民主主義的プロセスの一環としての抗議活動であり、社会秩序の崩壊には至っていません。",
+          "source": "東京新聞デジタル"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "該当なし",
+      "incidents": []
+    },
+    {
+      "region": "africa",
+      "panic_index": 35,
+      "status": "unstable",
+      "main_cause": "地方政府資金問題",
+      "incidents": [
+        {
+          "title": "ナイジェリア・オスン州で地方政府資金問題に関する抗議",
+          "location": "ナイジェリア・オスン州",
+          "severity": 35,
+          "description": "地方政府の資金問題に関連し、裁判所前で住民による抗議デモが発生。政治的な不満表明であり、広範なパニックではないものの、一定の社会不安を示唆します。",
+          "source": "The Nation Newspaper"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "経済不安、低賃金",
+      "incidents": [
+        {
+          "title": "ベネズエラ地方公務員の低賃金抗議",
+          "location": "ベネズエラ",
+          "severity": 45,
+          "description": "米国による銀行制裁緩和と並行し、地方公務員が低賃金に対し抗議デモを実施。経済的な不満が背景にあり、社会不安の兆候が見られます。",
+          "source": "International Business Times"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 75,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "労働争議、エネルギー不足",
+      "main_cause": "労働争議、エネルギー不足、食料問題",
       "incidents": [
         {
-          "title": "インド・ノイダでの大規模労働争議と社会不安のエスカレート",
-          "location": "ノイダ、インド",
-          "severity": 80,
-          "description": "ノイダで労働者による大規模な抗議デモが続き、労働争議がエスカレート。政府は陰謀論を示唆し、警察は警戒態勢を強化している。",
-          "source": "MSN, The Indian Express, Republic World"
+          "title": "インド・ノイダおよび周辺地域での大規模労働者抗議",
+          "location": "インド・ノイダ、グレーターノイダ、ダドリ",
+          "severity": 75,
+          "description": "賃金や労働条件を巡る抗議デモがノイダとその周辺地域で大規模に発生。一部で暴力的な衝突や300人以上の拘束者が出ており、政府は治安を強化。社会不安が深刻化しています。",
+          "source": "MSN, The Indian Express, Republic World 他多数"
         },
         {
-          "title": "ハイデラバードでCNG不足に抗議しオートドライバーがモバイルタワーに",
-          "location": "ハイデラバード、インド",
-          "severity": 70,
-          "description": "CNG（圧縮天然ガス）不足に不満を抱いたオートリクシャドライバーが抗議のためモバイルタワーに登る異例の事態が発生した。",
-          "source": "MSN"
-        },
-        {
-          "title": "LPG不足に抗議する住民デモ、警官出動で緊張高まる",
-          "location": "ジンド、インド",
+          "title": "インド各地でLPG不足とそれに伴う抗議",
+          "location": "インド・ジンド、クルチョレム、ベンガルール",
           "severity": 65,
-          "description": "LPG（液化石油ガス）の不足が住民による抗議デモを引き起こし、警察が配備される事態となり、現地に緊張が走っている。",
-          "source": "MSN"
+          "description": "ジンドやクルチョレムなどでLPG（液化石油ガス）の長期的な不足が発生し、住民が抗議デモを実施。ベンガルールではLPG不足と闇市場の活況が報じられ、生活インフラへの不安が広がっています。",
+          "source": "MSN, The Goan"
         },
         {
-          "title": "20日間のLPG不足に抗議する住民のデモ",
-          "location": "カーチョーレム、インド",
-          "severity": 60,
-          "description": "20日間にわたるLPG（液化石油ガス）供給不足に対し、住民が抗議活動を行い、生活必需品の供給不安が顕在化している。",
-          "source": "The Goan"
-        },
-        {
-          "title": "大学学生が給食の質に抗議し騒動",
-          "location": "ソネプール、インド",
-          "severity": 55,
-          "description": "大学の女子学生が給食の質の悪さに抗議し、騒動が発生。基本的な生活環境への不満が社会不安につながっている。",
+          "title": "インド・ソネプールでの女子学生による食料品質抗議",
+          "location": "インド・ソネプール",
+          "severity": 45,
+          "description": "ソネプールの政府系専門学校で、女子学生たちが提供される食料の品質に抗議。食料の質に対する不満は、基本的な生活保障への不安につながる可能性があります。",
           "source": "Sambad English"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "公共サービスへの不満、地方行政への抗議",
-      "incidents": [
-        {
-          "title": "教師不足に抗議する生徒により学校閉鎖",
-          "location": "南アフリカ",
-          "severity": 55,
-          "description": "教師不足に不満を抱く生徒たちが抗議活動を行い、学校が閉鎖される事態が発生。教育現場での混乱が報告されている。",
-          "source": "Daily Dispatch"
-        },
-        {
-          "title": "ガーナ・ワレワレで若者が行政事務所を閉鎖し抗議",
-          "location": "ワレワレ、ガーナ",
-          "severity": 50,
-          "description": "ワレワレの若者たちが、地方行政のコーディネートディレクター事務所を施錠し、行政への不満を表明する抗議活動を行った。",
-          "source": "MyJoyOnline"
         }
       ]
     }

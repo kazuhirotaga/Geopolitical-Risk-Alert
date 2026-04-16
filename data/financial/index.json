@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-04-16",
-    "summary": "米イラン和平への期待から世界的に株価が上昇する一方、中東のエネルギーインフラ被害や米中関係の緊張など地政学的リスクも顕在化。暗号資産市場ではビットコインが75,000ドルで足踏みし、規制動向も注視される。",
+    "summary": "中東情勢の緊迫化と、それに伴う原油価格の高騰が市場の不確実性を高めている。一方で、AI関連技術への投資と、暗号資産市場の動向も注目される。全体としてリスクは中程度。",
     "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
       "global": "medium",
       "north_america": "medium",
-      "europe": "none",
-      "east_asia": "low"
+      "europe": "medium",
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "high"
     },
-    "generated_at": "2026-04-16T02:58:59.345598"
+    "generated_at": "2026-04-16T05:37:29.779914"
   },
   {
     "date": "2026-04-15",
