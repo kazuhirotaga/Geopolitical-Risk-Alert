@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-16",
-    "summary": "中東情勢は依然として緊迫しており、アメリカとイランの対立、イスラエルとレバノンの衝突が継続。パキスタンの仲介による米イラン協議の進展に期待が集まる一方、停戦合意後もペルシャ湾の石油施設への攻撃が報告されている。ウクライナ情勢も依然として不安定。",
+    "summary": "中東情勢は依然として不安定であり、アメリカとイランの停戦交渉は継続中だが、ペルシャ湾での攻撃やイスラエル・レバノン間の緊張も続いている。ウクライナ情勢も膠着状態が続き、スーダンでは人道危機が深刻化している。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -9,13 +9,13 @@
       "southeast_asia": "none",
       "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "critical",
+      "middle_east": "high",
       "europe": "medium",
       "africa": "high",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "low"
     },
-    "generated_at": "2026-04-16T07:54:25.031058"
+    "generated_at": "2026-04-16T10:18:39.118782"
   },
   {
     "date": "2026-04-15",
