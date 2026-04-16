@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-16",
+    "summary": "中東情勢が極めて不安定。米イラン間の緊張が継続し、停戦合意後も攻撃が続く。ウクライナ情勢も悪化の一途。スーダンでは人道危機が深刻化。世界経済への影響も懸念される。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "high",
+      "southeast_asia": "none",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "high",
+      "north_america": "high",
+      "south_america": "none"
+    },
+    "generated_at": "2026-04-16T02:58:38.233332"
+  },
+  {
     "date": "2026-04-15",
     "summary": "中東情勢が極めて不安定。米イラン間の緊張が継続し、停戦合意後も攻撃が続発。ウクライナ情勢も膠着状態。スーダンでは人道危機が深刻化。米国内では政治的混乱も発生しており、地政学リスクは全体的に高い。",
     "overall_risk_level": "high",
