@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-16",
-    "summary": "ウクライナでのロシア軍による大規模攻撃で多数の死者。中東では、イラン情勢が依然として不安定で、イスラエルとレバノンの緊張も継続。G20財務相・中央銀行総裁会議では世界経済の安定化が議論される見込み。",
+    "summary": "中東情勢は依然として不安定。アメリカ主導の停戦交渉が進む一方で、イランへの封鎖は継続。ウクライナではロシアの攻撃が激化し、人道状況が悪化。スーダン内戦も長期化し、アフリカ全体で地政学的リスクが高まっている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -11,11 +11,11 @@
       "central_asia": "none",
       "middle_east": "high",
       "europe": "high",
-      "africa": "medium",
+      "africa": "high",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-04-16T16:25:22.584063"
+    "generated_at": "2026-04-16T19:22:42.351318"
   },
   {
     "date": "2026-04-15",
