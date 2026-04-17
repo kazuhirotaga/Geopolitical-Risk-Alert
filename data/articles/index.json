@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-17",
-    "summary": "中東情勢が緊迫化。トランプ大統領の仲介によるイスラエルとレバノンの停戦合意が発表されたものの、その持続性には疑念が残る。イランを巡る国際的な緊張も継続しており、世界経済への影響が懸念される。",
+    "summary": "ウクライナ情勢の緊迫化に加え、イスラエル・レバノン間の停戦合意、イランを巡る米中対立など、地政学的リスクが複合的に高まっている。特に中東地域は不安定要素が多く、世界経済への影響も懸念される。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -9,13 +9,13 @@
       "southeast_asia": "none",
       "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "high",
-      "europe": "medium",
+      "middle_east": "critical",
+      "europe": "high",
       "africa": "medium",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "low"
     },
-    "generated_at": "2026-04-17T02:54:35.136262"
+    "generated_at": "2026-04-17T05:32:41.427144"
   },
   {
     "date": "2026-04-16",

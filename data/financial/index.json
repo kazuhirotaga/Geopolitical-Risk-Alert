@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-04-17",
-    "summary": "中東情勢の緩和期待から原油価格が下落し、アジア市場は下落。米株式市場は最高値を更新するも、過度な投機への警戒感が強まっている。暗号資産市場では、ビットコインが75,000ドル付近で推移する一方、量子コンピュータによる攻撃への懸念が再燃。",
+    "summary": "中東情勢の緩和期待とAI関連の投機的動きが交錯する中、株式市場は高値を更新。しかし、原油価格は下落し、暗号資産市場はボラティリティが高い状態が続いている。金融政策や規制に関する不確実性もリスク要因として残る。",
     "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
-      "europe": "medium",
-      "east_asia": "medium"
+      "europe": "high",
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "medium"
     },
-    "generated_at": "2026-04-17T02:55:01.835618"
+    "generated_at": "2026-04-17T05:33:04.005926"
   },
   {
     "date": "2026-04-16",
