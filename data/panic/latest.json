@@ -1,79 +1,107 @@
 {
   "date": "2026-04-17",
-  "summary": "世界各地で地域的な社会不安が散見される。ヨーロッパでは夏季の旅行シーズンを前にジェット燃料不足が深刻化し、航空便のキャンセルや遅延への懸念が広がり、広範な旅行者心理に影響を与えている。インドでは大規模な労働者抗議デモが継続し、一部で暴徒化や外部勢力の関与が指摘されるなど、社会秩序に動揺が見られる。また、生活必需品であるLPGの不足も抗議を引き起こしている。中東では長年の紛争に起因する政治的抗議デモが活発であり、北米では政治的指導者の資質に関する懸念がデモに繋がるなど、地域ごとの不安定要因が存在する。",
+  "summary": "世界各地で、地政学的緊張、労働問題、インフラの脆弱性、政治的分断に起因する社会不安が増大しています。特にインドでは、労働者による暴力を伴うデモや、エネルギー・水といった生活基盤の不足が重なり、警戒レベルに達しています。欧州ではジェット燃料不足が旅行業界に広範な影響を及ぼし、経済活動への懸念が高まっています。北米では政治的抗議や治安悪化の兆候が見られますが、広範なパニックには至っていません。中東では地域紛争に関連する抗議が続いています。",
   "global_panic_index": 58,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、金融不安",
+      "region": "north_america",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "政治的対立、治安悪化、地政学的な供給懸念",
       "incidents": [
         {
-          "title": "ジェット燃料不足による航空便キャンセルの懸念",
-          "location": "ヨーロッパ全域",
-          "severity": 75,
-          "description": "欧州のエネルギー機関責任者が「6週間分のジェット燃料しか残っていない可能性」を警告。イラン戦争の影響で価格高騰と供給不足が深刻化し、夏季のフライトキャンセルが相次ぐ恐れがあり、旅行者の間で不安が広がっている。",
-          "source": "AP News, New York Post, The Times"
+          "title": "米国でATM破壊未遂と銃撃事件が発生",
+          "location": "Blythewood, Cherry Hill (米国)",
+          "severity": 40,
+          "description": "Blythewoodでトラックを使ったATM破壊未遂が発生し、Cherry Hillの銀行プラザでは銃撃事件が報告されました。これらは一般的な犯罪行為ですが、治安悪化を示すものです。",
+          "source": "WLTX, 6abc Philadelphia"
         },
         {
-          "title": "ポーランドの暗号通貨取引所Zondaが引き出し危機に直面",
-          "location": "ポーランド",
-          "severity": 60,
-          "description": "Zonda取引所が4,503ビットコインへのアクセスを失い、顧客の引き出しが滞る事態が発生。金融システムへの信頼性に対する懸念が高まり、暗号通貨市場のユーザー間で不安が広がっている。",
-          "source": "bloomingbit"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "政治的緊張",
-      "incidents": [
+          "title": "米国防総省がミサイル備蓄枯渇で「パニックモード」と報道",
+          "location": "米国 (ペンタゴン)",
+          "severity": 50,
+          "description": "イラン戦争によりミサイル備蓄が減少し、米国防総省が民間企業に増産を促していると報じられました。これは地政学的緊張下での国家レベルの供給不安を示します。",
+          "source": "Hindustan Times"
+        },
         {
-          "title": "トランプの「精神的能力」に関する懸念と米国議会議事堂外での抗議デモ",
-          "location": "アメリカ合衆国（ワシントンD.C.）",
+          "title": "米国議会前で政治的抗議、トランプ氏への懸念",
+          "location": "ワシントンD.C. (米国)",
           "severity": 45,
-          "description": "元大統領の精神的能力を巡る懸念が広がり、米国議会議事堂外で抗議デモが発生。国民の間に政治的な不信感と分断が深まり、社会的な緊張が高まっている。",
+          "description": "トランプ元大統領の精神的能力を巡る懸念から、議会前で抗議活動が行われました。これは深刻な政治的分断と社会不安の兆候です。",
           "source": "AOL.com"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 50,
+      "region": "europe",
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "政治的・社会的緊張",
+      "main_cause": "エネルギー供給不足、地政学的紛争の影響",
       "incidents": [
         {
-          "title": "イスラエルで西岸地区の入植者暴力に抗議する大規模デモ",
-          "location": "イスラエル（テルアビブ）",
-          "severity": 50,
-          "description": "数百人のイスラエル人およびパレスチナ人が、西岸地区における入植者の暴力に抗議するため大規模なデモを実施。長年にわたる地域紛争が社会秩序に影響を与え、緊張が高まっている。",
-          "source": "The Jerusalem Post, Haaretz"
+          "title": "欧州でジェット燃料不足が深刻化、航空便欠航と旅行不安",
+          "location": "欧州全域",
+          "severity": 65,
+          "description": "イラン戦争の影響でホルムズ海峡の混乱からジェット燃料不足に陥り、欧州で多数の航空便が欠航。夏の旅行を控える人々に広範な不安をもたらしています。",
+          "source": "TODAY.com 他"
         }
       ]
     },
     {
-      "region": "south_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "労働問題、生活必需品不足",
+      "region": "middle_east",
+      "panic_index": 35,
+      "status": "unstable",
+      "main_cause": "地域紛争、政治的緊張",
       "incidents": [
         {
-          "title": "インド・Noidaでの労働者抗議デモが継続し治安悪化、逮捕者も発生",
-          "location": "インド（Noida）",
-          "severity": 70,
-          "description": "Noidaの工場労働者による抗議デモが続き、暴徒化。治安部隊が強化され、300人以上の逮捕者が出たほか、外部勢力やパキスタンからの扇動が示唆されており、社会秩序が揺らいでいる。",
-          "source": "MSN, The Hindu, The Times of India"
+          "title": "テルアビブで西岸地区入植者暴力に抗議デモ",
+          "location": "テルアビブ (イスラエル)",
+          "severity": 35,
+          "description": "テルアビブで数百人が西岸地区の入植者暴力に抗議するデモを実施。これは地域内の継続的な紛争と社会不安を示しています。",
+          "source": "The Jerusalem Post"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "労働問題、エネルギー・水不足",
+      "incidents": [
+        {
+          "title": "Noida地区で労働者抗議デモが暴動化、外部勢力関与の疑い",
+          "location": "Noida (インド)",
+          "severity": 75,
+          "description": "Noidaで労働者の大規模な抗議デモが暴力行為に発展。外部からの扇動や「計画された陰謀」の可能性が指摘され、地域は極めて不安定な状態にあります。",
+          "source": "MSN, The Hindu 他"
         },
         {
-          "title": "インド・JindでLPG不足が抗議デモを引き起こし、警官が配備",
-          "location": "インド（Jind）",
+          "title": "インドJindでLPG不足抗議、警官配備",
+          "location": "Jind (インド)",
           "severity": 65,
-          "description": "生活に不可欠なLPG（液化石油ガス）の深刻な不足が、住民による大規模な抗議デモを引き起こした。状況を鎮静化するため、警察部隊が配備されており、社会不安が顕在化している。",
+          "description": "JindでLPG不足への抗議デモが発生し、警察が配備されました。生活必需品の不足が直接的な社会不安を引き起こしており、状況は緊迫しています。",
           "source": "MSN"
+        },
+        {
+          "title": "ムンバイで8日間水道停止、水不足の危機",
+          "location": "ムンバイ (インド)",
+          "severity": 70,
+          "description": "ムンバイで8日間の給水停止が発表され、多くの地域で水不足に直面します。生活に不可欠なインフラの停止は、住民のパニックや広範な不満を引き起こす可能性があります。",
+          "source": "Mint"
+        },
+        {
+          "title": "ムンバイで5,000人規模の労働組合デモ",
+          "location": "ムンバイ (インド)",
+          "severity": 60,
+          "description": "ムンバイの労働委員会事務所前で5,000人もの労働者が抗議デモを実施。これは広範な労働不安と、社会の不安定化を示すものです。",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "タミル・ナードゥ州で大学生が服装規定に抗議",
+          "location": "タミル・ナードゥ州 (インド)",
+          "severity": 30,
+          "description": "国立法科大学の学生が副学長の発言と服装規定に抗議しました。これは若年層の間でも社会的な不満が存在することを示します。",
+          "source": "Telangana Today"
         }
       ]
     }
