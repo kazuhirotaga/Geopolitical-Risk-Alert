@@ -1,50 +1,51 @@
 {
   "date": "2026-04-17",
-  "summary": "本日は、米連邦準備制度理事会（FRB）関連の発表が中心。金融機関への規制強化や承認に関する情報公開が行われたが、金融政策に関する直接的な言及は確認されず、市場への直接的な影響は限定的と考えられる。",
+  "summary": "本日は、FRB関連の報道発表が中心。金融機関への執行措置、割引率会合議事録、金融サービス企業の申請承認など、金融政策や規制に関する情報公開が行われた。市場への直接的な影響は限定的だが、金融システム全体の安定性に対するFRBの姿勢が示唆される。",
   "statements": [
     {
       "speaker": "連邦準備制度理事会",
-      "title": "米連邦準備制度理事会",
-      "quote": "Community Bankshares, Inc.に対し、執行措置を発令。",
-      "context": "公式プレスリリース",
-      "analysis": "Community Bankshares, Inc.に対する具体的な執行措置の内容は不明だが、FRBが金融機関への監督・規制を継続的に実施していることを示唆する。個別の金融機関に対する措置であり、市場全体への影響は小さいと考えられる。",
-      "importance": "low",
+      "title": "FRB",
+      "quote": "Community Bankshares, Inc. に対する執行措置を発令。",
+      "context": "報道発表",
+      "analysis": "具体的な執行措置の内容は不明だが、金融機関に対する監視と規制の強化を示すものと考えられる。地域金融機関の健全性に対する懸念が背景にある可能性もある。今後の類似事例の増加や、より詳細な情報公開が注目される。",
+      "importance": "medium",
       "tags": [
         "金融規制",
-        "金融機関"
+        "金融機関",
+        "執行措置"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260416a.htm"
     },
     {
       "speaker": "連邦準備制度理事会",
-      "title": "米連邦準備制度理事会",
-      "quote": "2月9日と3月18日の公定歩合に関する理事会会合の議事録を公開。",
-      "context": "公式プレスリリース",
-      "analysis": "議事録の内容次第では、今後の金融政策の方向性に関するヒントが得られる可能性がある。ただし、議事録の公開自体は定例的なものであり、内容を精査する必要がある。",
+      "title": "FRB",
+      "quote": "2026年2月9日および3月18日の割引率会合議事録を公開。",
+      "context": "報道発表",
+      "analysis": "割引率に関する議論の内容が示される。金融政策の方向性や、各地区連銀の経済状況認識を知る上で重要な情報源となる。議事録の詳細な分析を通じて、今後の金融政策の変更を予測する手がかりが得られる可能性がある。",
       "importance": "medium",
       "tags": [
         "金融政策",
-        "公定歩合",
+        "割引率",
         "議事録"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm"
     },
     {
       "speaker": "連邦準備制度理事会",
-      "title": "米連邦準備制度理事会",
-      "quote": "Burke & Herbert Financial Services Corp.の申請を承認。",
-      "context": "公式プレスリリース",
-      "analysis": "Burke & Herbert Financial Services Corp.の申請内容が不明なため、具体的な影響は不明。金融機関の合併・買収や新規事業に関する申請である可能性があり、個別の金融機関の動向として注視する必要がある。",
+      "title": "FRB",
+      "quote": "Burke & Herbert Financial Services Corp. による申請を承認。",
+      "context": "報道発表",
+      "analysis": "具体的な申請内容（合併、買収、新規事業など）は不明だが、金融機関の再編や事業拡大の動きを反映している可能性がある。承認された背景や条件などを分析することで、今後の金融業界のトレンドを予測できるかもしれない。",
       "importance": "low",
       "tags": [
         "金融機関",
-        "承認",
-        "申請"
+        "申請",
+        "承認"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
     }
   ],
-  "generated_at": "2026-04-17T07:55:39.192315",
+  "generated_at": "2026-04-17T10:17:12.959774",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
