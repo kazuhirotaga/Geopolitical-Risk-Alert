@@ -1,17 +1,16 @@
 [
   {
     "date": "2026-04-17",
-    "summary": "中東情勢の緩和により原油価格が急落し、株式市場は一時上昇。しかし、市場の投機過熱への警戒感も高まっている。暗号資産市場はボラティリティが高く、ビットコインは76,000ドル付近で停滞。米国の金融政策や税制変更も注視が必要。",
+    "summary": "原油価格急落とS&P500最高値更新が同時に発生。イラン情勢の緩和とAI関連技術への投資が市場を牽引する一方、過度な投機と金融政策の不透明感がリスク要因として存在する。",
     "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
-      "north_america": "medium",
+      "north_america": "none",
       "europe": "medium",
-      "east_asia": "none",
-      "south_america": "none"
+      "east_asia": "none"
     },
-    "generated_at": "2026-04-17T13:28:05.631302"
+    "generated_at": "2026-04-17T16:04:37.420871"
   },
   {
     "date": "2026-04-16",
