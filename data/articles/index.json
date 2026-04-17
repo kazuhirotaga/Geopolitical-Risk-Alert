@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-17",
+    "summary": "中東情勢が緊迫化。トランプ大統領の仲介によるイスラエルとレバノンの停戦合意が発表されたものの、その持続性には疑念が残る。イランを巡る国際的な緊張も継続しており、世界経済への影響が懸念される。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "high",
+      "europe": "medium",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-04-17T02:54:35.136262"
+  },
+  {
     "date": "2026-04-16",
     "summary": "中東情勢は依然として不安定。トランプ大統領がイスラエルとレバノンの停戦を発表するも、現地では懐疑的な見方が強い。イランを巡る緊張も継続し、G20での議論が注目される。ウクライナ情勢も膠着状態が続き、世界経済への影響が懸念される。",
     "overall_risk_level": "high",

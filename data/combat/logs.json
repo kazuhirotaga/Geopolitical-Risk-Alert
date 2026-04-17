@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-04-17",
+    "summary": "ホルムズ海峡を巡る緊張が継続。アメリカはイランへの封鎖を検討、イランは紅海における影響力を行使する可能性も指摘される。ウクライナではドイツ製兵器のデータ共有が進む一方、ヨーロッパ各国は防衛投資を拡大。",
+    "events": [
+      {
+        "id": "event-001",
+        "timestamp": "2026-04-12",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "アメリカ海軍、ホルムズ海峡の封鎖を示唆",
+        "content": "トランプ大統領が、イランに対するホルムズ海峡の封鎖を「即時」に実施すると発言。イランがアメリカ軍または平和的な船舶に発砲した場合、「地獄に吹き飛ばす」と警告。",
+        "involved_parties": [
+          "アメリカ海軍",
+          "イラン"
+        ],
+        "event_type": "blockade",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
+      },
+      {
+        "id": "event-002",
+        "timestamp": "2026-04-12",
+        "location": "パキスタン",
+        "region": "middle_east",
+        "title": "米イラン和平交渉、合意に至らず",
+        "content": "アメリカとイランの和平交渉が21時間に及んだものの、決裂。双方が相手側の責任を主張し、数千人の死者を出した戦闘は継続、世界経済への影響も懸念される。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/"
+      },
+      {
+        "id": "event-003",
+        "timestamp": "2026-04-16",
+        "location": "ホルムズ海峡、紅海",
+        "region": "middle_east",
+        "title": "イエメン・フーシ派、紅海における脅威",
+        "content": "ホルムズ海峡に焦点が集まる中、専門家はイランとその代理勢力であるイエメンのフーシ派が紅海を封鎖する可能性を警告。紛争における潜在的なチョークポイントとして指摘。",
+        "involved_parties": [
+          "イラン",
+          "フーシ派"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/14/amid-focus-on-strait-of-hormuz-experts-sound-warning-on-yemens-houthis-and-red-sea/"
+      },
+      {
+        "id": "event-004",
+        "timestamp": "2026-04-15",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ドイツ製兵器のウクライナでの運用データ共有",
+        "content": "ドイツ政府は、ウクライナにおけるドイツ製兵器（Panzerhaubitze 2000、RCH-155自走砲、IRIS-T防空システム）の運用データを共有する二国間協定を締結。",
+        "involved_parties": [
+          "ドイツ",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/"
+      },
+      {
+        "id": "event-005",
+        "timestamp": "2026-04-16",
+        "location": "ワシントンD.C.",
+        "region": "middle_east",
+        "title": "レバノンとイスラエルの交渉開始",
+        "content": "レバノンとイスラエルの交渉がワシントンで開始。両国は1948年以来、技術的には戦争状態にあり、今回の交渉は稀な外交的取り組みとなる。",
+        "involved_parties": [
+          "レバノン",
+          "イスラエル"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/14/lebanon-and-israel-talks-set-to-begin-in-washington/"
+      },
+      {
+        "id": "event-006",
+        "timestamp": "2026-04-16",
+        "location": "ヨーロッパ",
+        "region": "europe",
+        "title": "EU、ウクライナ戦争の教訓を基に防衛研究開発へ10億ドル超を投資",
+        "content": "EUが、ウクライナ戦争の教訓を基に、徘徊型兵器や安価な大量ドローン生産など、21世紀の戦争に焦点を当てた防衛研究開発プロジェクトに10億ドル以上を投資。",
+        "involved_parties": [
+          "EU"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/16/eu-pumps-over-1-billion-into-defense-rd-centered-around-ukraine-war-lessons/"
+      },
+      {
+        "id": "event-007",
+        "timestamp": "2026-04-16",
+        "location": "アメリカ",
+        "region": "middle_east",
+        "title": "アメリカ上院、イスラエルへの軍事装備品販売を承認",
+        "content": "アメリカ上院は、イスラエルへの約4億5000万ドル相当の爆弾とブルドーザーの販売を阻止する決議を否決。",
+        "involved_parties": [
+          "アメリカ",
+          "イスラエル"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/16/senate-republicans-back-trump-military-sales-to-israel/"
+      },
+      {
+        "id": "event-008",
+        "timestamp": "2026-04-10",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "イギリスとトランプ政権、ホルムズ海峡における軍事的選択肢を協議",
+        "content": "イギリスのスターマーとトランプ政権がホルムズ海峡における軍事的選択肢について協議。マクロン大統領も戦争終結後にヨーロッパが海峡の安全を確保する可能性を示唆。",
+        "involved_parties": [
+          "イギリス",
+          "アメリカ",
+          "フランス"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/10/uks-starmer-and-trump-discussed-military-options-for-strait-of-hormuz/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-16",
     "summary": "ホルムズ海峡における米国の機雷除去作戦の可能性、イラン戦争による英国軍の弱体化、EUのウクライナ戦争の教訓を取り入れた防衛研究開発への投資、米国によるイラン封鎖の可能性、レバノンとイスラエルの和平交渉開始などが注目される。",
     "events": [
@@ -4845,106 +4979,6 @@
         "urgency": "low",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/03/16/norways-elite-arctic-soldiers-still-dig-their-own-snow-caves-to-hide-from-drones/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-18",
-    "summary": "中東地域におけるイランとアメリカの軍事衝突が激化。ホルムズ海峡の封鎖を巡る緊張が高まる。ウクライナではAI技術を用いた戦闘データ共有が開始。NATOはトルコにパトリオットミサイルシステムを配備。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-03-16",
-        "location": "サウジアラビア",
-        "region": "middle_east",
-        "title": "イランによるミサイル攻撃、KC-135空中給油機5機に損傷",
-        "content": "イランがサウジアラビア国内の飛行場にミサイル攻撃を実施。KC-135空中給油機5機が駐機中に損傷を受けた。航空機の破壊は免れた模様。",
-        "involved_parties": [
-          "イラン",
-          "サウジアラビア"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-03-14",
-        "location": "ハルグ島",
-        "region": "middle_east",
-        "title": "アメリカ軍、イランの主要な島を爆撃",
-        "content": "アメリカ軍がイランの石油拠点であるハルグ島に対して爆撃を実施。トランプ大統領は、島内の全ての軍事目標を「完全に破壊した」と発表。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "bombing",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/flashpoints/2026/03/14/us-bombs-key-iranian-island-amid-oil-concerns/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-03-13",
-        "location": "イラク西部",
-        "region": "middle_east",
-        "title": "アメリカ軍KC-135空中給油機がイラクで墜落、乗員6名全員死亡",
-        "content": "アメリカ中央軍（CENTCOM）は、イラク西部でKC-135空中給油機が墜落し、搭乗していた6名の乗員全員が死亡したと発表。",
-        "involved_parties": [
-          "アメリカ"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/13/four-us-airmen-killed-in-kc-135-crash-in-iraq/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-03-11",
-        "location": "Evenes, Norway",
-        "region": "europe",
-        "title": "ノルウェー軍F-35戦闘機、NATO演習中にロシアの偵察機を捕捉",
-        "content": "NATOのCold Response 2026演習中に、ノルウェー軍のF-35戦闘機がロシアの偵察機を捕捉し、迎撃した。",
-        "involved_parties": [
-          "ノルウェー",
-          "ロシア"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/11/norwegian-f-35s-intercept-russian-spy-aircraft-during-nato-drill/"
-      },
-      {
-        "id": "event-5",
-        "timestamp": "2026-03-13",
-        "location": "レバノン",
-        "region": "middle_east",
-        "title": "イスラエル軍によるレバノンへの爆撃",
-        "content": "イスラエル軍がレバノンを爆撃。レバノン政府は国内の混乱を避けようとしている。レバノン軍はイスラエルによる爆撃下でヒズボラの武器を捜索できる状況にない。",
-        "involved_parties": [
-          "イスラエル",
-          "レバノン"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/13/lebanese-government-tries-to-avoid-internal-strife-amid-israeli-bombardment/"
-      },
-      {
-        "id": "event-6",
-        "timestamp": "2026-03-16",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "インドのタンカー2隻、ホルムズ海峡を安全に通過",
-        "content": "インドがエネルギー輸入を確保するため外交的働きかけを強化した後、インドのタンカー2隻がホルムズ海峡を土曜日に安全に通過した。",
-        "involved_parties": [
-          "インド"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/16/two-india-carriers-secure-safe-passage-through-strait-of-hormuz/"
       }
     ]
   }
