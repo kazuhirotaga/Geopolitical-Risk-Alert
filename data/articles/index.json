@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-17",
-    "summary": "ウクライナ情勢の緊迫化に加え、イスラエル・レバノン間の停戦合意、イランを巡る米中対立など、地政学的リスクが複合的に高まっている。特に中東地域は不安定要素が多く、世界経済への影響も懸念される。",
+    "summary": "ウクライナ侵攻継続、イスラエル・レバノン停戦合意も不安定。米イラン間の緊張緩和交渉は継続中だが、ペルシャ湾での被害報告も。スーダン情勢悪化、AIリスクも顕在化し、地政学リスクは依然として高い。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
       "southeast_asia": "none",
-      "south_asia": "medium",
+      "south_asia": "none",
       "central_asia": "none",
-      "middle_east": "critical",
+      "middle_east": "high",
       "europe": "high",
-      "africa": "medium",
-      "north_america": "medium",
-      "south_america": "low"
+      "africa": "high",
+      "north_america": "none",
+      "south_america": "none"
     },
-    "generated_at": "2026-04-17T05:32:41.427144"
+    "generated_at": "2026-04-17T07:55:08.826173"
   },
   {
     "date": "2026-04-16",
