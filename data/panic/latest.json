@@ -1,157 +1,128 @@
 {
   "date": "2026-04-18",
-  "summary": "世界各地で資源不足（水、燃料）に起因する社会不安が増大しています。特にアフリカの一部地域では武装集団による襲撃が発生し、住民の無秩序な逃避が報告されるなど、極めて危機的な状況にあります。インドでは大規模な労働者デモが暴力化し、外部勢力の関与が疑われるなど治安悪化の懸念が高まっています。欧州でも燃料不足への懸念が広がり、交通への影響が顕在化しており、世界全体で警戒感が高まっています。",
-  "global_panic_index": 73,
+  "summary": "世界各地で多様な社会不安が見られます。インドのノイダにおける労働争議は暴力的衝突、大規模な逮捕、外部勢力関与の疑いを伴い、極めて高い緊張状態にあります。アフリカの一部地域では武装集団によるパニックと住民の逃避が報告されており、危機的な状況です。欧州ではジェット燃料不足への懸念が広がり、北米では限定的な資源不足や政策に対する抗議活動が続いています。全体として、特定の地域で社会秩序が大きく揺らぐ事態が発生しており、世界的な緊迫度は中程度から高レベルに達しています。",
+  "global_panic_index": 70,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 60,
-      "status": "volatile",
-      "main_cause": "資源不足（水、アルコール）、抗議デモ、局地的な犯罪",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "特定の資源供給不足、政策への抗議",
       "incidents": [
         {
-          "title": "アリゾナ州での水不足深刻化",
-          "location": "アリゾナ州、アメリカ",
-          "severity": 65,
-          "description": "アリゾナ州で長引く水不足により、洗車やプール利用が制限され、住民の生活様式に深刻な影響が出ており、不安が拡大しています。",
+          "title": "Anti-ICE Citizens Bank protests return to Connecticut",
+          "location": "Connecticut, United States",
+          "severity": 45,
+          "description": "移民関税執行局（ICE）への抗議活動がコネチカット州で再び実施され、市民の政策に対する不満が示されていますが、大規模な混乱には至っていません。",
+          "source": "News-Times"
+        },
+        {
+          "title": "No car washes, no pools: Surviving the Arizona water shortage",
+          "location": "Arizona, United States",
+          "severity": 40,
+          "description": "アリゾナ州では水不足が深刻化し、洗車やプール利用の制限など、住民の日常生活に影響が出ており、不安が高まっています。",
           "source": "KTAR News 92.3 FM"
         },
         {
-          "title": "ミシシッピ州で酒類品薄",
-          "location": "ミシシッピ州、アメリカ",
-          "severity": 50,
-          "description": "州の流通遅延により、ミシシッピ州の酒販店で酒類が品薄状態となっており、消費者の不満と軽微な社会不安を引き起こしています。",
+          "title": "Mississippi Liquor Stores Run Dry Amid State Distribution Delays",
+          "location": "Mississippi, United States",
+          "severity": 35,
+          "description": "ミシシッピ州の酒類販売店で、州の流通遅延により商品が枯渇する事態が発生。消費者の不満を引き起こしていますが、広範なパニックは見られません。",
           "source": "The New York Times"
         },
         {
-          "title": "ATM強盗未遂事件",
-          "location": "ブライズウッド、アメリカ",
-          "severity": 45,
-          "description": "トラックを使ってATMを地面から引き抜こうとする強盗未遂事件が発生。金銭は奪われなかったものの、局地的な社会不安の兆候が見られます。",
+          "title": "Someone used a truck to rip an ATM from the ground in Blythewood",
+          "location": "Blythewood, United States",
+          "severity": 25,
+          "description": "サウスカロライナ州ブライズウッドでATMがトラックで引き抜かれる事件が発生。現金強奪は未遂に終わりましたが、地域の治安への懸念を呼びました。",
           "source": "WLTX"
-        },
-        {
-          "title": "市民銀行に対する抗議デモ再燃",
-          "location": "コネチカット州、アメリカ",
-          "severity": 40,
-          "description": "移民税関捜査局(ICE)に対する市民銀行への抗議デモがコネチカット州で再び行われ、市民の間で意見の対立と不安が広がっています。",
-          "source": "CT Insider"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、大規模な抗議デモ",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "エネルギー（ジェット燃料）不足",
       "incidents": [
         {
-          "title": "アイルランドで燃料抗議デモ長期化",
-          "location": "アイルランド、M50高速道路",
-          "severity": 70,
-          "description": "燃料価格高騰に対する抗議デモが4日目に突入し、M50高速道路の一部が完全に閉鎖されるなど、交通網に深刻な影響を与えています。",
-          "source": "MSN"
+          "title": "What are my rights if flights are cancelled and holidays disrupted due to fuel shortage?",
+          "location": "Europe",
+          "severity": 55,
+          "description": "ジェット燃料不足によるフライトキャンセルや旅行の中断に関する懸念が広がり、旅行者の権利や航空業界への影響について議論されています。",
+          "source": "The Guardian"
         },
         {
-          "title": "欧州でのジェット燃料不足への懸念",
-          "location": "欧州",
-          "severity": 55,
-          "description": "欧州でのジェット燃料不足に関する懸念が高まり、航空便の欠航や旅行計画の混乱が広範に予想されており、旅行者の間で不安が広がっています。",
+          "title": "Air travel concerns over European jet fuel shortage grow",
+          "location": "Europe",
+          "severity": 50,
+          "description": "欧州でのジェット燃料不足に対する航空業界や旅行者の懸念が高まっており、潜在的な混乱が予想されます。",
           "source": "The Points Guy"
         },
         {
-          "title": "フランスで大規模デモが頻発",
-          "location": "フランス",
-          "severity": 65,
-          "description": "マクロン政権に対する「黄色いベスト運動」などの大規模デモが頻発し、社会的な緊張と政情不安が高まりつつあります。",
-          "source": "東洋経済オンライン"
-        },
-        {
-          "title": "イタリア・ミラノ市内のデモに関する注意喚起",
-          "location": "ミラノ、イタリア",
-          "severity": 40,
-          "description": "ミラノ市内で予定されているデモ活動に関して、日本総領事館から注意喚起が出されており、潜在的な社会不安の兆候が見られます。",
-          "source": "日本橋夢屋"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "政治的緊張、大規模なデモ、社会的分断",
-      "incidents": [
-        {
-          "title": "イラン、ライフル武装の女性が政府支持デモ",
-          "location": "イラン",
-          "severity": 75,
-          "description": "イランの政権を支持するデモ行進に軍用車に乗りライフルを手にした女性が参加。社会の緊張と対立が視覚的に示されています。",
-          "source": "CNN"
-        },
-        {
-          "title": "シリア首都で反政府デモ、社会分断",
-          "location": "シリア、首都",
-          "severity": 70,
-          "description": "シリアの首都で「法と尊厳の座り込み」と称する反対デモが妨害され、国民の間での自由と分断に関する対立が深まっています。",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "イラン首都で反米・反イスラエル大規模抗議デモ",
-          "location": "テヘラン、イラン",
-          "severity": 65,
-          "description": "イランの首都で数千人の女性と少女が米国とイスラエルに抗議する大規模なデモに集結。国際情勢を巡る国民の不満が高まっています。",
-          "source": "CNN"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 95,
-      "status": "critical",
-      "main_cause": "武装集団による襲撃、治安悪化",
-      "incidents": [
-        {
-          "title": "ナイジェリア、武装集団襲撃で住民が命がけで逃避",
-          "location": "クワラ州イドフィン・オド・アシェ、ナイジェリア",
-          "severity": 95,
-          "description": "ナイジェリアのクワラ州イドフィン・オド・アシェのコミュニティが武装集団に侵入され、住民が命からがら逃避するパニック状態に陥っています。",
-          "source": "Sahara Reporters"
+          "title": "Europe Discovered Too Late That It, Too, Can Run Out of Jet Fuel",
+          "location": "Europe",
+          "severity": 50,
+          "description": "欧州がジェット燃料不足のリスクを過小評価していたことが指摘されており、今後の航空交通への影響が懸念されています。",
+          "source": "The European Conservative"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 70,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "大規模な抗議デモ、治安悪化、資源不足（水）、経済減速の懸念",
+      "main_cause": "労働争議、外部勢力の扇動疑惑、水不足、金融サービスの一時的混乱",
       "incidents": [
         {
-          "title": "ノイダの労働者デモ暴力化、外部勢力関与の疑い",
-          "location": "ノイダ、インド",
-          "severity": 75,
-          "description": "ノイダの労働者抗議デモが暴力化し、警察は「外部勢力」や「組織的グループ」による扇動、パキスタンとの関連を疑い、治安強化と捜査が進められています。",
+          "title": "Noida workers’ protest: Pakistan link under scanner, 300 people arrested, wages hiked",
+          "location": "Noida, India",
+          "severity": 80,
+          "description": "ノイダでの大規模な労働者抗議デモは、パキスタンとの関連が捜査され、300人が逮捕される事態に発展。政府は賃金引き上げで対応を試みています。",
           "source": "MSN"
         },
         {
-          "title": "インド経済減速の可能性",
-          "location": "インド",
-          "severity": 50,
-          "description": "インド経済が減速に向かう可能性が指摘されており、これは広範な社会不安や経済的な不確実性の潜在的な原因となり得ます。",
-          "source": "Bloomberg"
+          "title": "Noida violence: Pakistan link under probe; UP minister calls unrest 'planned conspiracy'",
+          "location": "Noida, India",
+          "severity": 78,
+          "description": "ノイダの暴力事件でパキスタンとの関連が調査され、ウッタルプラデーシュ州の閣僚は計画的な陰謀であると発言し、事態の深刻さが増しています。",
+          "source": "MSN"
         },
         {
-          "title": "カリアン住民、水不足に抗議",
-          "location": "カリアン、インド",
-          "severity": 60,
-          "description": "カリアンの住民が水不足に対してデベロッパーの約束不履行を訴え、抗議デモを実施。生活に不可欠な資源不足が深刻化しています。",
+          "title": "Noida protest violence: ‘Outsiders’ among arrested, UP govt links unrest to organised groups",
+          "location": "Noida, India",
+          "severity": 75,
+          "description": "ノイダでの抗議デモの暴力事件では、逮捕者の中に部外者が含まれ、ウッタルプラデーシュ州政府は組織的な集団が関与していると発表しました。",
+          "source": "MSN"
+        },
+        {
+          "title": "SBI ATMs Run Dry in Guwahati During Bihu Holidays, Customers Left Stranded",
+          "location": "Guwahati, India",
+          "severity": 65,
+          "description": "ビフーの祝日中にグワーハーティーのSBI ATMで現金が枯渇し、多くの顧客が困窮しました。金融サービスの一時的な混乱が社会不安を引き起こしています。",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Kalyan residents protest water shortage at Birla Vanya",
+          "location": "Kalyan, India",
+          "severity": 55,
+          "description": "カリヤンの住民が水不足に対して抗議デモを実施。開発業者による約束不履行を訴え、生活インフラへの不満が顕在化しています。",
           "source": "The Times of India"
-        },
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 90,
+      "status": "critical",
+      "main_cause": "武装集団による治安悪化",
+      "incidents": [
         {
-          "title": "サンガレッディで1ヶ月間の水不足に抗議デモ",
-          "location": "サンガレッディ、インド",
-          "severity": 60,
-          "description": "ジェブラ・タンダ村の住民が1ヶ月にわたる水不足に対し抗議デモを行っています。長期的な水供給の問題が住民の不満を高めています。",
-          "source": "Telangana Today"
+          "title": "Panic In Kwara Community As Bandits Invade Idofin Odo Ashe, Residents Flee For Lives",
+          "location": "Kwara, Nigeria",
+          "severity": 90,
+          "description": "ナイジェリアのクワラ州で武装集団がコミュニティを襲撃し、住民が命の危険を感じて無秩序に逃避するパニック状態に陥っています。",
+          "source": "Sahara Reporters"
         }
       ]
     }
