@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-04-18",
+    "summary": "世界経済は、中東情勢の不安定化とインフレ圧力の継続により、依然として高いリスクにさらされている。特に、ホルムズ海峡の混乱と、量子コンピュータによる暗号資産への脅威が懸念される。一方で、テクノロジー株は好調を維持している。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "critical",
+      "north_america": "high",
+      "europe": "medium",
+      "east_asia": "none"
+    },
+    "generated_at": "2026-04-18T05:11:42.877395"
+  },
+  {
     "date": "2026-04-17",
     "summary": "地政学的リスクの緩和と好調な企業業績により株式市場は上昇。しかし、インフレと労働市場の不確実性からFRBは政策金利を据え置き。暗号資産市場はボラティリティが高く、規制動向も注視が必要。",
     "overall_risk_level": "medium",

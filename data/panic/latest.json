@@ -1,86 +1,135 @@
 {
   "date": "2026-04-18",
-  "summary": "世界各地で社会不安が顕在化しており、特にエネルギー供給の懸念と労働者の大規模抗議デモが目立ちます。ヨーロッパではジェット燃料不足による航空便への影響が深刻化し、インドでは労働争議が暴力や外部勢力の関与を疑われるまでに発展しています。米国でも政治・社会問題への抗議デモが継続しており、一部地域では生活必需品の供給不安も散見されます。全体として、市民の不満が高まり、社会の安定性が揺らぎつつある状況です。",
-  "global_panic_index": 58,
+  "summary": "世界各地でパニックや社会不安が散見され、特にアフリカの一部地域では武装集団の襲撃により住民の生命に関わる危機的な状況にあります。ヨーロッパではエネルギー不足に起因する航空便の運航停止と旅行への懸念が拡大し、アジアでは大規模な労働者抗議活動が暴力や政治問題化を伴って継続しており、さらに都市部での深刻な水不足が報じられています。北米では散発的なデモや犯罪、品不足が見られますが、他の地域と比較すると局所的な事象にとどまっています。",
+  "global_panic_index": 74,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 48,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "社会・政治問題への抗議、特定商品の供給不安",
+      "main_cause": "抗議活動、局所的犯罪、特定商品の品不足",
       "incidents": [
         {
-          "title": "反ICE組織の抗議デモがコネチカット州で再燃",
-          "location": "米国、コネチカット州",
-          "severity": 50,
-          "description": "移民税関執行局（ICE）への抗議活動がCitizens Bankを対象にコネチカット州で再び活発化。複数の集会が開催され、市民の不満が表明されています。",
-          "source": "New Haven Register"
+          "title": "'No Kings' protest in Los Angeles turns chaotic",
+          "location": "ロサンゼルス, アメリカ",
+          "severity": 65,
+          "description": "大規模な抗議デモが混乱し、多数の逮捕者が出た。社会秩序の不安定化を示す事象だが、広範な都市パニックには至っていない。",
+          "source": "MSN"
         },
         {
-          "title": "NYでイスラエルへの武器売却阻止を訴える座り込みデモ、警察が参加者を拘束",
-          "location": "米国、ニューヨーク",
+          "title": "Anti-ICE Citizens Bank protests return to Connecticut Saturday",
+          "location": "コネチカット州, アメリカ",
+          "severity": 45,
+          "description": "特定の銀行に対する抗議デモが再度発生。社会的不満の表れであり、市民の活動は活発だが、直接的なパニックには繋がっていない。",
+          "source": "Stamford Advocate"
+        },
+        {
+          "title": "Someone used a truck to rip an ATM from the ground in Blythewood",
+          "location": "ブライズウッド, アメリカ",
           "severity": 55,
-          "description": "約300人の参加者がニューヨークで座り込みデモを行い、「戦争反対」を叫び、イスラエルへの武器売却停止を訴えました。一部参加者は警察によって拘束されています。",
-          "source": "Yahoo!ニュース"
+          "description": "トラックを使ってATMが地面から引き剥がされる事件が発生したが、現金は奪われなかった。地域社会の治安に対する不安を招く犯罪行為。",
+          "source": "WLTX"
         },
         {
-          "title": "ミシシッピ州で酒類販売店が品切れ、州の流通遅延が原因",
-          "location": "米国、ミシシッピ州",
-          "severity": 40,
-          "description": "ミシシッピ州で州の流通システムの遅延により、酒類販売店が在庫切れの状態に陥っています。特定商品の供給不足は市民の不満につながりやすい状況です。",
+          "title": "Mississippi Liquor Stores Run Dry Amid State Distribution Delays",
+          "location": "ミシシッピ州, アメリカ",
+          "severity": 45,
+          "description": "州の流通遅延により、ミシシッピ州の酒屋で酒類が品切れ状態に。特定商品の不足は消費者の不満を引き起こす可能性がある。",
           "source": "The New York Times"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 65,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "エネルギー不足、国際情勢",
+      "main_cause": "エネルギー不足、旅行不安",
       "incidents": [
         {
-          "title": "欧州でのジェット燃料不足への懸念が高まり、航空便欠航が多発",
-          "location": "欧州広域",
-          "severity": 65,
-          "description": "イラン戦争の影響によるジェット燃料不足と価格高騰により、欧州を中心に航空会社のフライトキャンセルが相次いでいます。これにより旅行者の間で大きな不安が広がっています。",
-          "source": "The Points Guy / TODAY.com / Business Insider / The Sun / Yorkshire Post"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 68,
-      "status": "volatile",
-      "main_cause": "労働争議、資源不足",
-      "incidents": [
-        {
-          "title": "インド・Noidaで労働者抗議デモが激化、治安当局は警戒を強化",
-          "location": "インド、Noida/Greater Noida",
+          "title": "Airlines are canceling flights as they face jet fuel shortages and rising prices brought on by the Iran war",
+          "location": "ヨーロッパ、世界各地",
           "severity": 75,
-          "description": "Noida地区で労働者による大規模な抗議デモが続き、暴力行為も発生。当局は外部勢力の関与や組織的な活動の可能性を指摘し、治安を強化しています。賃金問題などが主な原因とされています。",
-          "source": "MSN / NewsBytes"
+          "description": "イラン戦争に起因するジェット燃料不足と価格高騰により、多数の航空会社がフライトをキャンセル。旅行計画への広範な影響と不安が拡大している。",
+          "source": "Business Insider"
         },
         {
-          "title": "ムンバイで8日間の断水、水道供給が5%削減される見込み",
-          "location": "インド、ムンバイ",
-          "severity": 60,
-          "description": "ムンバイ市内で8日間にわたり水道供給が5%削減されることが発表されました。広範囲にわたる断水は市民生活に大きな影響を与え、水不足への懸念が高まっています。",
-          "source": "Mint"
+          "title": "Nine airlines that have cancelled flights as Iran war fuel crisis continues",
+          "location": "ヨーロッパ、世界各地",
+          "severity": 75,
+          "description": "イラン戦争による燃料危機が続き、9つの航空会社がフライトをキャンセル。航空業界全体に深刻な影響を与え、旅行者のパニックを誘発。",
+          "source": "The Sun"
+        },
+        {
+          "title": "Travel Concerns Grow Amid Looming Jet Fuel Shortage in Europe",
+          "location": "ヨーロッパ",
+          "severity": 65,
+          "description": "ヨーロッパで差し迫るジェット燃料不足により、旅行に関する懸念が増大。夏季の旅行シーズンを前に、消費者心理に大きな影響を与えている。",
+          "source": "TODAY.com"
+        },
+        {
+          "title": "Jet fuel warning sparks holiday fears – what you need to know about flight refunds",
+          "location": "イギリス",
+          "severity": 65,
+          "description": "ジェット燃料の警告が休日の旅行不安を引き起こし、フライトの払い戻しに関する情報が求められている。消費者の不確実性が高まっている。",
+          "source": "Yorkshire Post"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "国際政治情勢への抗議",
+      "region": "south_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "労働者抗議、インフラ不足、政治的緊張",
       "incidents": [
         {
-          "title": "イラン首都で数千人の女性と少女が米国とイスラエルに抗議集結",
-          "location": "イラン、テヘラン",
-          "severity": 50,
-          "description": "イランの首都テヘランで数千人の女性と少女が集結し、米国とイスラエルの政策に抗議するデモが行われました。これは地域の緊張の高まりを反映しています。",
-          "source": "CNN"
+          "title": "Noida violence: Pakistan link under probe; UP minister calls unrest 'planned conspiracy'",
+          "location": "ノイダ, インド",
+          "severity": 75,
+          "description": "ノイダでの暴力的な抗議活動にパキスタンの関与が疑われ、州大臣は「計画された陰謀」と主張。国際的な緊張と国内の社会不安が増大している。",
+          "source": "MSN"
+        },
+        {
+          "title": "Mumbai taps to run dry for 8 days: BMC to cut water supply by 5%",
+          "location": "ムンバイ, インド",
+          "severity": 75,
+          "description": "ムンバイで8日間、5%の断水が実施される見込み。基本的な生活インフラの長期的な制限は、住民の深刻な不安と生活混乱を引き起こす。",
+          "source": "Mint"
+        },
+        {
+          "title": "Noida workers’ protest: Pakistan link under scanner, 300 people arrested, wages hiked",
+          "location": "ノイダ, インド",
+          "severity": 75,
+          "description": "ノイダの労働者抗議で、パキスタンの関与が捜査され、300人が逮捕。賃上げが実施されたが、混乱の根は深く、社会の安定に影響を及ぼしている。",
+          "source": "MSN"
+        },
+        {
+          "title": "Workers protest: Security beefed up as unrest continues in Noida",
+          "location": "ノイダ, インド",
+          "severity": 70,
+          "description": "ノイダでの労働者抗議活動が続き、警備が強化されている。当局は緊張状態にあり、社会不安が継続していることを示している。",
+          "source": "MSN"
+        },
+        {
+          "title": "Noida protest violence: ‘Outsiders’ among arrested, UP govt links unrest to organised groups",
+          "location": "ノイダ, インド",
+          "severity": 65,
+          "description": "ノイダでの抗議活動中に発生した暴力で「部外者」が逮捕され、政府は組織的な関与を指摘。抗議活動の性質が変化し、社会の混乱を深めている。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 95,
+      "status": "critical",
+      "main_cause": "武装集団による襲撃、住民の生命の危機",
+      "incidents": [
+        {
+          "title": "Panic In Kwara Community As Bandits Invade Idofin Odo Ashe, Residents Flee For Lives",
+          "location": "クワラ州, ナイジェリア",
+          "severity": 95,
+          "description": "クワラ州のコミュニティが武装集団の襲撃を受け、住民が命からがら逃避。生命の危険に直面した住民による大規模な無秩序な逃避行が発生しており、極めて深刻なパニック状態。",
+          "source": "Sahara Reporters"
         }
       ]
     }

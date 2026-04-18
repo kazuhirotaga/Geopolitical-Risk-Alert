@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-18",
+    "summary": "中東情勢が緊迫化。イランとアメリカの対立、イスラエル・レバノンの停戦合意後も攻撃報道があり不安定。ウクライナ情勢も継続。南スーダンでは飢饉の危機。AIの軍事利用に関する議論も注目される。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "high",
+      "central_asia": "none",
+      "middle_east": "high",
+      "europe": "medium",
+      "africa": "critical",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-04-18T05:11:16.863174"
+  },
+  {
     "date": "2026-04-17",
     "summary": "中東情勢は、アメリカとイランの停戦交渉が進展する兆しを見せる一方で、イスラエルとレバノンの停戦合意後の攻撃報道など、依然として不安定な状況が続いている。ウクライナ情勢も膠着状態が続き、世界経済への影響が懸念される。",
     "overall_risk_level": "high",
