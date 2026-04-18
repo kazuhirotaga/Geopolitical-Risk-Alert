@@ -1,5 +1,122 @@
 [
   {
+    "date": "2026-04-18",
+    "summary": "本日、米国とイランの和平交渉が決裂し、イラン戦争が継続。米国はホルムズ海峡の封鎖を決定。ウクライナではドイツ製兵器の戦闘データ共有が進む。中国は台湾に対する情報戦を展開。EUはウクライナ戦争の教訓を活かした防衛研究開発に投資を強化。",
+    "events": [
+      {
+        "id": "event-001",
+        "timestamp": "2026-04-12",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米海軍、ホルムズ海峡を封鎖",
+        "content": "トランプ大統領が、ホルムズ海峡の封鎖を即時実施すると発表。イランによる攻撃に対しては断固たる措置を取ると警告。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "blockade",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
+      },
+      {
+        "id": "event-002",
+        "timestamp": "2026-04-12",
+        "location": "パキスタン",
+        "region": "middle_east",
+        "title": "米イラン和平交渉が決裂",
+        "content": "21時間にわたる和平交渉が決裂。双方が相手の責任を主張。数千人が死亡し、世界経済が混乱。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/"
+      },
+      {
+        "id": "event-003",
+        "timestamp": "2026-04-16",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "ホルムズ海峡の機雷除去作戦の可能性",
+        "content": "米軍は、ドローンやロボットを活用したホルムズ海峡の機雷除去作戦を検討。イランからの攻撃に対する脆弱性も指摘。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/16/how-the-us-military-could-clear-mines-from-the-strait-of-hormuz/"
+      },
+      {
+        "id": "event-004",
+        "timestamp": "2026-04-17",
+        "location": "台湾周辺",
+        "region": "east_asia",
+        "title": "中国、台湾に対する情報戦を展開",
+        "content": "中国軍が台湾周辺で大規模な軍事演習を実施する一方で、スマートフォンを通じて情報戦を展開。台湾国内の声を悪用する。",
+        "involved_parties": [
+          "中国",
+          "台湾"
+        ],
+        "event_type": "cyber",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/17/china-turns-taiwans-own-voices-against-it-in-information-war/"
+      },
+      {
+        "id": "event-005",
+        "timestamp": "2026-04-15",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ドイツ製兵器の戦闘データ共有",
+        "content": "ドイツとウクライナ間で、Panzerhaubitze 2000、RCH-155、IRIS-Tの戦闘データ共有に関する新たな合意が締結。",
+        "involved_parties": [
+          "ドイツ",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-German-weapons-performance-in-ukraine/"
+      },
+      {
+        "id": "event-006",
+        "timestamp": "2026-04-16",
+        "location": "ヨーロッパ",
+        "region": "europe",
+        "title": "EU、防衛研究開発に10億ドル投資",
+        "content": "EUがウクライナ戦争の教訓を活かし、徘徊型兵器や低コスト大量生産ドローンなどの防衛研究開発に10億ドル以上を投資。",
+        "involved_parties": [
+          "EU"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/16/eu-pumps-over-1-billion-into-defense-rd-centered-around-ukraine-war-lessons/"
+      },
+      {
+        "id": "event-007",
+        "timestamp": "2026-04-16",
+        "location": "レバノン",
+        "region": "middle_east",
+        "title": "レバノンとイスラエル、ワシントンで会談開始",
+        "content": "レバノンとイスラエルが、1948年以来となる外交的会合をワシントンで開始。両国は技術的には戦争状態。",
+        "involved_parties": [
+          "レバノン",
+          "イスラエル"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/14/lebanon-and-israel-talks-set-to-begin-in-washington/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-17",
     "summary": "今週は、アメリカとイランの対立激化、ウクライナでの戦闘継続、台湾をめぐる情報戦、ヨーロッパの防衛強化策などが注目された。和平交渉は決裂し、ホルムズ海峡の封鎖、イラン戦争などが懸念される。ヨーロッパではウクライナの戦訓に基づいた防衛投資が進み、アジア太平洋地域では中国の情報戦や日本の武器輸出緩和が注目されている。",
     "events": [
@@ -4831,154 +4948,6 @@
         "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/13/lebanese-government-tries-to-avoid-internal-strife-amid-israeli-bombardment/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-19",
-    "summary": "中東におけるイランとアメリカの緊張激化が継続。ホルムズ海峡の安全確保を巡り、アメリカが同盟国に協力を要請するも難航。一方、ウクライナはAIを活用したドローン開発のため、戦闘データの共有を開始。",
-    "events": [
-      {
-        "id": "event_20260316_01",
-        "timestamp": "2026-03-16",
-        "location": "サウジアラビア",
-        "region": "middle_east",
-        "title": "イランによるミサイル攻撃、サウジアラビアのKC-135タンカー5機に損害",
-        "content": "イランがミサイル攻撃を実施。サウジアラビアに駐機中のKC-135空中給油機5機が損傷を受けた。機体は破壊を免れた模様。",
-        "involved_parties": [
-          "イラン",
-          "サウジアラビア"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/"
-      },
-      {
-        "id": "event_20260314_01",
-        "timestamp": "2026-03-14",
-        "location": "イラン・ハルグ島",
-        "region": "middle_east",
-        "title": "アメリカ軍、イランの主要な島を爆撃",
-        "content": "アメリカ軍が、イランの石油拠点であるハルグ島に対し爆撃を実施。トランプ大統領は、島の全ての軍事目標を「完全に破壊した」と発表。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "bombing",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/flashpoints/2026/03/14/us-bombs-key-iranian-island-amid-oil-concerns/"
-      },
-      {
-        "id": "event_20260313_01",
-        "timestamp": "2026-03-13",
-        "location": "レバノン",
-        "region": "middle_east",
-        "title": "イスラエルによるレバノンへの爆撃",
-        "content": "イスラエルがレバノンを爆撃。レバノン軍は、イスラエルの爆撃下でヒズボラの武器を捜索することが困難な状況。",
-        "involved_parties": [
-          "イスラエル",
-          "レバノン"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/13/lebanese-government-tries-to-avoid-internal-strife-amid-israeli-bombardment/"
-      },
-      {
-        "id": "event_20260313_02",
-        "timestamp": "2026-03-13",
-        "location": "イラク西部",
-        "region": "middle_east",
-        "title": "アメリカ軍KC-135空中給油機がイラクで墜落、搭乗員6名全員死亡",
-        "content": "アメリカ軍のKC-135空中給油機がイラク西部で墜落。搭乗していた6名全員が死亡したとCENTCOMが発表。",
-        "involved_parties": [
-          "アメリカ軍"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/13/four-us-airmen-killed-in-kc-135-crash-in-iraq/"
-      },
-      {
-        "id": "event_20260318_01",
-        "timestamp": "2026-03-18",
-        "location": "トルコ",
-        "region": "europe",
-        "title": "トルコ、イランのミサイルに対抗するため3基目のNATOパトリオットシステムを配備",
-        "content": "トルコが、イランのミサイル攻撃に対抗するため、3基目のNATOパトリオットミサイルシステムを配備。トルコに配備されたNATOのパトリオットバッテリーの数は合計3基となる。",
-        "involved_parties": [
-          "トルコ",
-          "NATO",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/18/turkey-deploys-third-nato-patriot-system-to-repel-iranian-missiles/"
-      },
-      {
-        "id": "event_20260312_01",
-        "timestamp": "2026-03-12",
-        "location": "トルコ",
-        "region": "europe",
-        "title": "NATO、トルコの主要な防空レーダーを保護するためパトリオットシステムを派遣",
-        "content": "NATOが、トルコの重要な防空レーダーを保護するため、2基目のパトリオットミサイルシステムを派遣。ドイツ・ラムシュタインのNATO連合空軍司令部から派遣された。",
-        "involved_parties": [
-          "NATO",
-          "トルコ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/12/nato-sends-patriot-system-to-protect-key-air-defense-radar-in-turkey/"
-      },
-      {
-        "id": "event_20260316_02",
-        "timestamp": "2026-03-16",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "インドの空母2隻がホルムズ海峡を安全に通過",
-        "content": "インドのタンカー2隻が、ニューデリーがエネルギー輸入を確保するために外交的関与を強化した後、土曜日に海峡を通過。",
-        "involved_parties": [
-          "インド"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/16/two-india-carriers-secure-safe-passage-through-strait-of-hormuz/"
-      },
-      {
-        "id": "event_20260313_03",
-        "timestamp": "2026-03-13",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ、実戦AIデータを同盟国に公開",
-        "content": "ウクライナは、自律型ドローンシステムのAIモデルを訓練するため、国際的なパートナーや防衛企業に実際の戦闘データへのアクセスを提供。",
-        "involved_parties": [
-          "ウクライナ",
-          "国際的パートナー"
-        ],
-        "event_type": "cyber",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/flashpoints/ukraine/2026/03/13/ukraine-opens-battlefield-ai-data-to-allies-in-world-first-move/"
-      },
-      {
-        "id": "event_20260316_03",
-        "timestamp": "2026-03-16",
-        "location": "北極圏",
-        "region": "europe",
-        "title": "ノルウェーの精鋭部隊、ドローンから身を隠すため雪洞を掘る",
-        "content": "敵のドローンから身を隠すほか、ノルウェーの偵察兵は敵を偵察するために独自の無人機を試験的に使用。",
-        "involved_parties": [
-          "ノルウェー"
-        ],
-        "event_type": "other",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/16/norways-elite-arctic-soldiers-still-dig-their-own-snow-caves-to-hide-from-drones/"
       }
     ]
   }
