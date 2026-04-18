@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-04-18",
-    "summary": "金融市場は、地政学的リスクと技術的リスクが混在する状況。中東情勢の安定化の兆しが見られる一方、量子コンピュータによる暗号資産への脅威や、AIチップ市場の競争激化など、新たなリスクも顕在化している。",
-    "overall_risk_level": "medium",
+    "summary": "中東情勢の緊迫化と量子コンピュータによる暗号資産への脅威が金融市場の不確実性を高めている。原油価格の変動、インフレ懸念、そしてAI関連株の動向も注視する必要がある。全体としてリスクは高まっている。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "critical",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "none"
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "high"
     },
-    "generated_at": "2026-04-18T07:15:18.346930"
+    "generated_at": "2026-04-18T09:53:31.368946"
   },
   {
     "date": "2026-04-17",

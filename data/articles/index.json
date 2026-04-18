@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-18",
-    "summary": "中東情勢が緊迫化。アメリカとイランの停戦交渉は継続中だが、イスラエルとレバノンの停戦合意後も攻撃報道があり、不安定な状況。ホルムズ海峡の開放は原油価格に影響を与えている。ウクライナ情勢も依然として深刻。",
+    "summary": "中東情勢が依然として不安定であり、イランとアメリカの対立、イスラエルとレバノンの停戦合意後の状況が懸念される。ウクライナ情勢も継続しており、世界経済への影響も注視が必要。AIの軍事利用に関する議論も新たなリスク要因。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "medium",
+      "southeast_asia": "low",
       "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "high",
-      "europe": "high",
-      "africa": "critical",
+      "middle_east": "critical",
+      "europe": "medium",
+      "africa": "high",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-04-18T07:14:54.888172"
+    "generated_at": "2026-04-18T09:53:08.074485"
   },
   {
     "date": "2026-04-17",
