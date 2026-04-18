@@ -1,19 +1,16 @@
 [
   {
     "date": "2026-04-18",
-    "summary": "地政学的リスク（イラン戦争）の緩和と好調な企業業績により、株式市場は上昇傾向。しかし、インフレ懸念や金融政策の不確実性、暗号資産市場の変動、AI技術の進展に伴うリスクも依然として存在し、全体として中程度のリスクレベルと判断される。",
-    "overall_risk_level": "medium",
+    "summary": "中東情勢の緊迫化（イラン戦争、ホルムズ海峡封鎖）が原油価格高騰とインフレ懸念を引き起こし、金融市場に大きな影響を与えている。米国の金融政策の不確実性も重なり、全体的なリスクレベルは高い。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "medium",
-      "north_america": "medium",
+      "global": "high",
+      "north_america": "high",
       "europe": "medium",
-      "east_asia": "none",
-      "south_america": "none",
-      "africa": "none",
-      "middle_east": "high"
+      "east_asia": "low"
     },
-    "generated_at": "2026-04-18T15:41:20.888812"
+    "generated_at": "2026-04-18T18:58:18.815225"
   },
   {
     "date": "2026-04-17",
