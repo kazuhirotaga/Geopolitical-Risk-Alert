@@ -1,15 +1,55 @@
 [
   {
-    "id": "72f181fd7d59",
-    "title": "レバノンで国連部隊1人死亡 イスラエルと停戦合意後も攻撃続く",
-    "summary": "隣国イスラエルとの間で停戦合意が発効したレバノンで18日、国境地帯の平和維持活動を担う国連の部隊が攻撃されてフランス人の兵士1人が死亡しました。レバノンでは前日にもイスラエル軍による攻撃で1人が死亡したと伝えられるなど、依然として緊迫した状況が続いています。",
-    "url": "http://www3.nhk.or.jp/news/html/20260419/k10015102741000.html",
-    "published": "2026-04-19T02:27:35+09:00",
+    "id": "bd7428453c0c",
+    "title": "【速報中】北朝鮮 弾道ミサイルの可能性あるもの発射 防衛省",
+    "summary": "防衛省は北朝鮮から弾道ミサイルの可能性のあるものが発射されたと発表しました。日本への影響がないか情報の収集を進めています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260419/k10015102781000.html",
+    "published": "2026-04-19T06:35:26+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia"
+    ]
+  },
+  {
+    "id": "8a9883d4a489",
+    "title": "米が戦闘終結へ新提案提示か イラン船舶への取締り強化 報道も",
+    "summary": "アメリカとイランによる2回目の対面協議が近く行われると伝えられるなか、イランの最高安全保障委員会は18日、アメリカ側から戦闘終結に関する新たな提案が示されたと発表しました。一方、アメリカ軍が中東地域以外でもイランと関係のある船舶への取り締まりを行うための準備を進めているとアメリカメディアが伝え、イランへの圧力を強めるねらいもあるとみられます。",
+    "url": "http://www3.nhk.or.jp/news/html/20260419/k10015102751000.html",
+    "published": "2026-04-19T06:33:45+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
     "regions": [
       "middle_east",
+      "north_america"
+    ]
+  },
+  {
+    "id": "72f181fd7d59",
+    "title": "レバノンで国連部隊1人死亡 イスラエルと停戦合意後も攻撃続く",
+    "summary": "隣国イスラエルとの間で停戦合意が発効したレバノンで18日、国境地帯の平和維持活動を担う国連の部隊が攻撃されてフランス人の兵士1人が死亡しました。レバノンでは前日にもイスラエル軍による攻撃で1人が死亡したと伝えられるなど、依然として緊迫した状況が続いています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260419/k10015102741000.html",
+    "published": "2026-04-19T05:58:42+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "europe"
+    ]
+  },
+  {
+    "id": "ce17e736abcc",
+    "title": "キーウで銃撃 6人死亡 容疑者はロシア出身か テロとみて捜査",
+    "summary": "ウクライナの首都キーウで18日、銃撃事件があり、これまでに6人が死亡し、容疑者は駆けつけた警察にその場で射殺されました。容疑者はロシア出身だということで、捜査当局はテロ事件とみて調べています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260419/k10015102771000.html",
+    "published": "2026-04-19T05:46:41+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
       "europe"
     ]
   },
@@ -27,6 +67,60 @@
     ]
   },
   {
+    "id": "fa718c393440",
+    "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
+    "summary": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
+    "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-18T21:27:56+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "north_america"
+    ]
+  },
+  {
+    "id": "ff70877de68b",
+    "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
+    "summary": "Tehran is blaming a US blockade for its actions, saying it breaches the ceasefire the two reached.",
+    "url": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-18T21:19:46+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "ae7de60d9fd5",
+    "title": "Iran military orders Indian ship to abort Strait of Hormuz passage",
+    "summary": "Video shows the moment Iran’s military ordered an Indian ship to abort its passage of the Strait of Hormuz.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/iran-military-orders-indian-ship-to-abort-strait-of-hormuz-passage?traffic_source=rss",
+    "published": "2026-04-18T21:06:13+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_asia",
+      "middle_east"
+    ]
+  },
+  {
+    "id": "2f35c66adf42",
+    "title": "Mexico, Spain and Brazil call for Cuba’s sovereignty to be protected",
+    "summary": "The three countries pledge more aid to Cuba and say Cubans must decide their own future amid a US pressure campaign.",
+    "url": "https://www.aljazeera.com/news/2026/4/18/mexico-spain-and-brazil-call-for-cubas-sovereignty-to-be-protected?traffic_source=rss",
+    "published": "2026-04-18T21:05:50+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "north_america",
+      "south_america"
+    ]
+  },
+  {
     "id": "896836ac2ad4",
     "title": "イラン外相 条件をつけた上で “ホルムズ海峡を商船に開放”",
     "summary": "ホルムズ海峡をめぐりイランのアラグチ外相は17日、条件をつけた上で「すべての商業船舶に対し、残りの停戦期間中、完全に開放される」とSNSに投稿しました。こうした中、アメリカとイランの次の対面協議が19日に仲介国のパキスタンで行われる見込みだとの報道もあり、戦闘の終結につながるかが焦点です。",
@@ -39,6 +133,45 @@
       "south_asia",
       "middle_east",
       "north_america"
+    ]
+  },
+  {
+    "id": "76302b2080a1",
+    "title": "Will Keir Starmer resign?",
+    "summary": "UK PM says he was unaware Mandelson failed security clearance.",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/4/18/will-keir-starmer-resign?traffic_source=rss",
+    "published": "2026-04-18T19:58:02+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "86e3508a783a",
+    "title": "Mazzucato on the Iran war’s economic shock: Who pays the price?",
+    "summary": "Redi Tlhabi speaks to economist Mariana Mazzucato on the Iran war's economic fallout and who’s really paying the price.",
+    "url": "https://www.aljazeera.com/video/upfront/2026/4/18/mazzucato-on-the-iran-wars-economic-shock-who-pays-the-price?traffic_source=rss",
+    "published": "2026-04-18T19:29:42+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "6e994ed55704",
+    "title": "Sudanese refugees trapped between borders and bureaucracy in Morocco",
+    "summary": "A growing number of Sudanese refugees are arriving into Morocco after fleeing war, but find themselves stuck.",
+    "url": "https://www.aljazeera.com/features/longform/2026/4/18/sudanese-refugees-trapped-between-borders-and-bureaucracy-in-morocco?traffic_source=rss",
+    "published": "2026-04-18T18:51:05+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
     ]
   },
   {
@@ -201,32 +334,6 @@
     ]
   },
   {
-    "id": "0160f791c4e7",
-    "title": "Hormuz: Spin in the Strait",
-    "summary": "The blockade saga in Hormuz and the tactics of war versus tactics of propaganda.",
-    "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/18/hormuz-spin-in-the-strait?traffic_source=rss",
-    "published": "2026-04-18T10:48:10+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "c9f9fcca70da",
-    "title": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges",
-    "summary": "Brent crude falls over 9 percent after Iran said it will reopen waterway, only to shut it again over US blockade.",
-    "url": "https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges?traffic_source=rss",
-    "published": "2026-04-18T10:29:06+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
     "id": "163c050d628d",
     "title": "NPT再検討会議前に議長 “NPTは唯一の希望” 合意へ意欲",
     "summary": "世界の核軍縮の方向性を議論するNPT＝核拡散防止条約の再検討会議の議長が記者会見し、アメリカとロシアの核軍縮条約が失効するなか、NPTは「残された唯一の希望だ」と述べ合意をまとめることに意欲を示しました。",
@@ -238,19 +345,6 @@
     "regions": [
       "europe",
       "north_america"
-    ]
-  },
-  {
-    "id": "7c1661138789",
-    "title": "Iran has learned that the Strait of Hormuz is its strongest deterrent",
-    "summary": "Donald Heflin, a senior fellow at Tufts University, says Iran has shown it doesn’t need nuclear weapons as a deterrent.",
-    "url": "https://www.aljazeera.com/video/quotable/2026/4/18/iran-has-learned-that-the-strait-of-hormuz-is-its-strongest-deterrent?traffic_source=rss",
-    "published": "2026-04-18T08:25:24+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
@@ -331,19 +425,6 @@
     "regions": [
       "east_asia",
       "europe"
-    ]
-  },
-  {
-    "id": "eb0bfef1d066",
-    "title": "Suspected crime boss Daniel Kinahan arrested in Dubai",
-    "summary": "Kinahan, in his 40s, was arrested in Dubai on foot of an arrest warrant issued by the Irish courts.",
-    "url": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-17T17:48:13+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   },
   {
@@ -544,19 +625,6 @@
     "language": "en",
     "regions": [
       "middle_east"
-    ]
-  },
-  {
-    "id": "81c74bcac609",
-    "title": "Avengers reassemble and Top Gun flies back - Hollywood studios preview their new movies",
-    "summary": "Some of the most hotly anticipated new films of the next couple of years are previewed at CinemaCon.",
-    "url": "https://www.bbc.com/news/articles/cwyk2xrkvnzo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-17T08:30:34+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   },
   {

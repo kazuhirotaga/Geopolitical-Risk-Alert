@@ -1,84 +1,40 @@
 {
   "date": "2026-04-18",
-  "summary": "世界各地で複数の社会不安が顕在化しています。特にインドでは、大規模な労働者デモが暴力化し、水不足抗議やATM現金枯渇といった生活基盤に関わる問題が頻発し、状況は「危機的」と評価されます。中国では銀行関連のデモが暴力化し、金融システムへの不信感が懸念されています。欧州ではジェット燃料不足への懸念が広がり、航空業界への影響が報じられています。北米では水不足の懸念や混乱を伴うデモが散見され、全体的に生活必需品や金融システムへの不信感、社会的不満が募る緊迫した状況が続いています。",
-  "global_panic_index": 60,
+  "summary": "世界全体では、一部地域で深刻な社会不安とパニックの兆候が見られます。特に南アジアのインドでは、労働者デモの暴力化やLPG・水の深刻な不足による住民抗議が広がり、社会秩序の混乱が顕著です。東アジアの中国でも銀行前での暴力的な抗議デモが発生し、金融システムへの不安が表面化しています。北米では資源不足の懸念や政治的緊張が見られる一方、ヨーロッパは比較的安定しているものの、燃料不足の潜在的な懸念があります。全体的な緊迫度は中程度ですが、特定地域での警戒は必要です。",
+  "global_panic_index": 45,
   "regions": [
     {
-      "region": "southeast_asia",
-      "panic_index": 75,
-      "status": "critical",
-      "main_cause": "労働不安、資源（水）不足、金融サービス障害",
-      "incidents": [
-        {
-          "title": "Noida労働者デモ、暴力化し組織的陰謀が浮上",
-          "location": "India (Noida)",
-          "severity": 85,
-          "description": "Noidaで発生した大規模な労働者デモが暴力的な衝突に発展し、外部勢力による組織的扇動の疑いが浮上。多数の逮捕者が出、治安が強化され、最低賃金引き上げで対応が図られたが、不安は残る。",
-          "source": "MSN, The Statesman, The New Indian Express, ABP News, etc."
-        },
-        {
-          "title": "インド各地で水不足に対する住民の抗議デモが多発",
-          "location": "India (Kalyan, Sangareddy, Vadakarai)",
-          "severity": 70,
-          "description": "Kalyan、Sangareddy、Vadakaraiなどインド各地で、住民や農民が深刻な水不足に対し、政府や開発者の対応を求めて抗議活動を実施。生活に直結する資源不足への不満が顕在化している。",
-          "source": "The Times of India, Telangana Today, The Hindu"
-        },
-        {
-          "title": "グワーハーティーでSBI ATMが現金枯渇、住民に混乱",
-          "location": "India (Guwahati)",
-          "severity": 65,
-          "description": "Bihu休暇中にグワーハーティーのSBI ATMで現金が不足し、多くの利用者が立ち往生。金融サービスへのアクセスに支障が出たことで、住民の不満と混乱が広がっている。",
-          "source": "The Sentinel"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "金融不安、抗議デモの暴力化",
-      "incidents": [
-        {
-          "title": "中国鄭州の銀行前デモが暴力化",
-          "location": "China (Zhengzhou)",
-          "severity": 75,
-          "description": "鄭州の銀行前で行われた預金引き出しを求めるデモが暴力的な衝突に発展。金融システムへの不信感が背景にあるとみられ、社会秩序への影響が懸念される状況となっている。",
-          "source": "NTD News"
-        }
-      ]
-    },
-    {
       "region": "north_america",
-      "panic_index": 45,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "資源不足の懸念、社会的不満によるデモ",
+      "main_cause": "資源不足、政治的緊張",
       "incidents": [
         {
-          "title": "アリゾナ州の町で水不足の懸念が深刻化",
-          "location": "USA (Arizona)",
-          "severity": 55,
-          "description": "アリゾナ州の一部の町で7月までに水源が枯渇する可能性が報じられ、住民の間で水不足への深刻な懸念と不安が広がっている。生活インフラへの影響が懸念される。",
+          "title": "アリゾナ州の町で水不足の危機",
+          "location": "アメリカ合衆国アリゾナ州",
+          "severity": 70,
+          "description": "アリゾナ州の複数の町で7月までに水が枯渇する可能性が指摘されており、住民の間で生活に不可欠な水の確保に対する深刻な不安が広がっている。",
           "source": "moneywise.com"
         },
         {
-          "title": "ロサンゼルスで「No Kings」デモが混乱、多数逮捕",
-          "location": "USA (Los Angeles)",
-          "severity": 50,
-          "description": "ロサンゼルスで行われた「No Kings」抗議デモが混乱し、多数の参加者が逮捕された。大規模なデモが治安当局との衝突に発展する傾向が見られる。",
-          "source": "MSN"
+          "title": "米国議事堂外で抗議デモ、トランプの精神状態に懸念",
+          "location": "アメリカ合衆国ワシントンD.C.",
+          "severity": 60,
+          "description": "トランプ前大統領の精神状態を巡り国民の間にパニックが生じ、米国議事堂外で抗議デモが発生。政治的な緊張と不安が高まっている状況。",
+          "source": "AOL.com"
         },
         {
-          "title": "コネチカット州で反ICE Citizens Bank抗議デモが再燃",
-          "location": "USA (Connecticut)",
+          "title": "コネチカット州で反ICE Citizens Bankデモが再燃",
+          "location": "アメリカ合衆国コネチカット州",
           "severity": 40,
-          "description": "コネチカット州で、移民関税執行局（ICE）との関連を巡るCitizens Bankに対する抗議デモが再開。複数回の集会が行われ、継続的な社会的不満が示されている。",
-          "source": "News-Times, Yahoo"
+          "description": "移民関税執行局(ICE)との関係に抗議するデモがCitizens Bank前で複数回開催された。大規模な混乱には至っていないが、社会的な対立が見られる。",
+          "source": "Darien Times"
         },
         {
-          "title": "ミシシッピ州で酒類販売店が品切れに直面",
-          "location": "USA (Mississippi)",
-          "severity": 35,
-          "description": "ミシシッピ州で州の流通遅延により酒類販売店が品切れ状態となり、一部で買いだめや供給不安につながる可能性が懸念されている。限定的ではあるが生活への影響が見られる。",
+          "title": "ミシシッピ州で酒類店が品切れ、州の流通遅延が原因",
+          "location": "アメリカ合衆国ミシシッピ州",
+          "severity": 40,
+          "description": "州内の流通遅延により、多くの酒類店で商品が品切れ状態に陥り、消費者の不満が高まっている。生活必需品ではないが供給問題の兆候。",
           "source": "The New York Times"
         }
       ]
@@ -86,24 +42,117 @@
     {
       "region": "europe",
       "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "エネルギー供給不安",
+      "status": "stable",
+      "main_cause": "燃料不足、国際情勢への抗議",
       "incidents": [
         {
-          "title": "欧州でジェット燃料不足への懸念が拡大、航空便に影響",
-          "location": "Europe (General)",
+          "title": "燃料不足による航空便欠航と旅行中断の権利に関する懸念",
+          "location": "英国/グローバル",
           "severity": 50,
-          "description": "欧州でのジェット燃料不足への懸念が高まり、航空会社の運航や旅行計画への影響が報じられている。フライトキャンセルや旅行の中断が発生し、旅行者の不安が増大している。",
-          "source": "The Points Guy, The Guardian"
+          "description": "燃料不足が原因で航空便の欠航や旅行の中断が発生する可能性があり、旅行者の権利と補償について潜在的な懸念が広がっている。",
+          "source": "The Guardian"
         },
         {
-          "title": "スウェーデン首都でパレスチナ関連の抗議デモ",
-          "location": "Sweden (Stockholm)",
+          "title": "スウェーデン首都でイスラエル政策に抗議デモ",
+          "location": "スウェーデンストックホルム",
           "severity": 30,
-          "description": "ストックホルムで、イスラエルのヨルダン川西岸併合計画やレバノンへの攻撃を非難する抗議デモが行われた。国際問題への市民の関心を示すもので、直接的な国内パニックではない。",
-          "source": "TRT World, Anadolu Ajansı, Middle East Monitor"
+          "description": "スウェーデン首都で、イスラエルによるヨルダン川西岸併合計画やレバノンへの攻撃に反対する抗議デモが行われた。国際問題に対する表現活動。",
+          "source": "Middle East Monitor"
+        },
+        {
+          "title": "ワールドカップ期間中にビール不足の可能性",
+          "location": "英国/グローバル",
+          "severity": 30,
+          "description": "ワールドカップ開催中にビールの供給が滞る可能性が報じられ、愛好家の間で軽微な不安が広がっているが、社会的なパニックには至っていない。",
+          "source": "The Telegraph"
         }
       ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 85,
+      "status": "volatile",
+      "main_cause": "金融不安、社会秩序の混乱",
+      "incidents": [
+        {
+          "title": "中国鄭州の銀行前デモが暴力化",
+          "location": "中国鄭州市",
+          "severity": 85,
+          "description": "銀行前での抗議活動がエスカレートし、暴力的な衝突に発展。金融システムへの不安が社会秩序の混乱を引き起こす可能性があり、警戒が必要。",
+          "source": "NTD News"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "該当事象なし",
+      "incidents": []
+    },
+    {
+      "region": "africa",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "該当事象なし",
+      "incidents": []
+    },
+    {
+      "region": "south_america",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "該当事象なし",
+      "incidents": []
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "労働争議の暴力化、生活必需品（LPG, 水）不足",
+      "incidents": [
+        {
+          "title": "ノイダの労働者デモが暴徒化、車両放火・道路封鎖",
+          "location": "インドノイダ",
+          "severity": 90,
+          "description": "労働者の抗議デモが暴徒化し、投石、主要道路の封鎖、車両放火などが発生。社会秩序の深刻な混乱と治安悪化が懸念される危機的状況。",
+          "source": "MSN"
+        },
+        {
+          "title": "ジンドでLPG不足抗議デモ、警官隊出動",
+          "location": "インドジンド",
+          "severity": 80,
+          "description": "液化石油ガス(LPG)の深刻な不足が原因で住民が抗議デモを行い、事態沈静化のため警官隊が配備された。生活必需品の不足が不安を煽る。",
+          "source": "MSN"
+        },
+        {
+          "title": "カリヤン住民が水不足に抗議、開発業者に不満",
+          "location": "インドカリヤン",
+          "severity": 80,
+          "description": "集合住宅の住民が深刻な水不足に対し、開発業者の約束不履行を訴え抗議デモを実施。生活基盤を脅かす問題として不満が爆発している。",
+          "source": "The Times of India"
+        },
+        {
+          "title": "サンガレディの村人が1ヶ月続く水不足に抗議",
+          "location": "インドサンガレディ",
+          "severity": 80,
+          "description": "1ヶ月にも及ぶ慢性的な水不足に対し、村人たちが抗議デモを実施。生命維持に関わる重要な資源の不足が深刻な社会不安を引き起こしている。",
+          "source": "Telangana Today"
+        },
+        {
+          "title": "ノイダ労働者デモにパキスタン関連疑惑、300人逮捕、賃上げ",
+          "location": "インドノイダ",
+          "severity": 80,
+          "description": "暴力化した労働者デモに外部勢力（パキスタン関連）の関与が疑われ、300人以上が逮捕された。政府は賃上げで事態沈静化を図っている。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "該当事象なし",
+      "incidents": []
     }
   ]
 }

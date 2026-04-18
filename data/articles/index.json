@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-18",
-    "summary": "中東情勢は依然として不安定であり、イスラエル・レバノン停戦合意後も攻撃が継続。ホルムズ海峡を巡る緊張も継続。東アジアでは中国が台湾海峡通過の自衛隊艦艇に警告。ウクライナ情勢も膠着状態が続く。",
+    "summary": "北朝鮮ミサイル発射、レバノンでの停戦合意後の攻撃、ウクライナでのテロ事件など、地政学リスクが高まっています。特に中東情勢は不安定で、ホルムズ海峡の封鎖や米イラン間の緊張が継続しています。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "medium",
+      "east_asia": "high",
       "southeast_asia": "medium",
-      "south_asia": "none",
+      "south_asia": "high",
       "central_asia": "none",
-      "middle_east": "high",
+      "middle_east": "critical",
       "europe": "high",
-      "africa": "none",
+      "africa": "medium",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "medium"
     },
-    "generated_at": "2026-04-18T18:57:57.634763"
+    "generated_at": "2026-04-18T21:40:31.131151"
   },
   {
     "date": "2026-04-17",

@@ -1,16 +1,16 @@
 [
   {
     "date": "2026-04-18",
-    "summary": "中東情勢の緊迫化（イラン戦争、ホルムズ海峡封鎖）が原油価格高騰とインフレ懸念を引き起こし、金融市場に大きな影響を与えている。米国の金融政策の不確実性も重なり、全体的なリスクレベルは高い。",
+    "summary": "中東情勢の緊迫化と暗号資産市場の脆弱性が金融市場全体のリスクを高めている。特にイラン戦争の影響によるスタグフレーション懸念、暗号資産取引所のハッキング、規制強化の動きが注目される。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
-      "north_america": "high",
+      "global": "critical",
+      "north_america": "medium",
       "europe": "medium",
       "east_asia": "low"
     },
-    "generated_at": "2026-04-18T18:58:18.815225"
+    "generated_at": "2026-04-18T21:40:58.275201"
   },
   {
     "date": "2026-04-17",
