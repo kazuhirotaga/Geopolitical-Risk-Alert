@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-19",
-    "summary": "中東におけるイスラエル・イラン間の緊張激化、北朝鮮のミサイル発射、米韓関係の悪化など、地政学リスクが高まっている。特に中東情勢は、ホルムズ海峡の封鎖の可能性やレバノンでの停戦合意の不安定さなど、予断を許さない状況。",
+    "summary": "中東における米イラン間の緊張激化、レバノン・イスラエル間の停戦合意後も攻撃が継続。東アジアでは北朝鮮のミサイル発射と米韓の情報連携に亀裂の兆候。ウクライナ情勢も依然として不安定。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -12,10 +12,10 @@
       "middle_east": "critical",
       "europe": "medium",
       "africa": "medium",
-      "north_america": "medium",
+      "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-04-19T13:10:27.529814"
+    "generated_at": "2026-04-19T15:41:33.965995"
   },
   {
     "date": "2026-04-18",
