@@ -1,115 +1,56 @@
 {
   "date": "2026-04-19",
-  "summary": "世界各地では、一部地域で深刻なパニック状況が散見される。特に中国では銀行関連の抗議が暴力化し、中東では入植者による放火暴力が発生。これらは社会秩序の混乱を直接的に示している。インドでは大規模な労働争議が政治化・暴力化し、エネルギーや水といった資源不足への抗議も相次ぎ、高い緊張感が続く。米国でも水不足が深刻化し、政治的懸念から抗議デモが発生するなど、地域によって異なる要因で社会不安が増大している。広範な買いだめや略奪、無秩序な逃避行といった事態には至っていないものの、一部地域では警戒レベルが非常に高く、世界全体で社会不安は中程度の水準にある。",
-  "global_panic_index": 55,
+  "summary": "世界各地では、労働争議の激化、エネルギーや水といった資源不足の懸念、そして地域紛争に起因する緊張が社会不安を増大させています。特にインドでは労働者の大規模な抗議活動が暴動化し、中東では地域紛争に伴う暴力行為が報告されています。北米でも政治的分裂や資源不足の懸念が高まっています。一方で、金融システムへの不安も散見されますが、全体として大規模な社会インフラのマヒや無秩序な逃避といったパニック状態には至っていません。",
+  "global_panic_index": 49,
   "regions": [
     {
-      "region": "middle_east",
-      "panic_index": 75,
+      "region": "southeast_asia",
+      "panic_index": 63,
       "status": "volatile",
-      "main_cause": "紛争、治安悪化",
+      "main_cause": "金融不安、雇用不安",
       "incidents": [
         {
-          "title": "ヨルダン川西岸での入植者による放火暴力",
-          "location": "West Bank",
-          "severity": 80,
-          "description": "覆面入植者が家屋と車に放火する事件が発生。地域住民への直接的な暴力と破壊行為であり、住民に深刻な恐怖と不安をもたらす、極めて緊迫した事態。",
-          "source": "The Jerusalem Post"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "資源不足、政治的混乱",
-      "incidents": [
-        {
-          "title": "米アリゾナ州の町で水枯渇の危機",
-          "location": "Arizona, USA",
-          "severity": 70,
-          "description": "米アリゾナ州の町で7月までに水が枯渇する可能性が報じられ、住民の生命維持に関わる深刻な不安を引き起こしている。食料・水不足は直接的なパニックに繋がりやすい。",
-          "source": "moneywise.com"
-        },
-        {
-          "title": "トランプ氏の「精神的能力」に関する懸念と抗議デモ",
-          "location": "US Capitol, USA",
-          "severity": 55,
-          "description": "米国議会議事堂前でトランプ氏の「精神的能力」に関する懸念から抗議デモが発生。「パニック」という言葉が使われており、政治的な不安定感が国民に不安をもたらしている。",
-          "source": "AOL.com"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "金融不安、抗議デモの暴力化",
-      "incidents": [
-        {
-          "title": "中国鄭州の銀行前での抗議が暴力化",
-          "location": "Zhengzhou, China",
-          "severity": 85,
-          "description": "中国鄭州の銀行前での抗議デモが暴力沙汰に発展。預金引き出し制限など、金融不安が背景にあると見られ、社会秩序の混乱と市民の怒りが顕在化している。",
-          "source": "NTD News"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "労働不安、資源不足、治安悪化",
-      "incidents": [
-        {
-          "title": "インド・ノイダ大規模労働者抗議の激化",
-          "location": "Noida, India",
+          "title": "APD銀行の取り付け騒ぎと資本増強",
+          "location": "カンボジア",
           "severity": 75,
-          "description": "インド・ノイダで大規模な労働者抗議デモがエスカレート。暴力行為、外部勢力関与疑惑、多数の逮捕者、治安当局による厳戒態勢が敷かれ、企業活動や地域経済に深刻な影響を与えている。",
-          "source": "MSN, The New Indian Express, The Hindu"
+          "description": "3月に発生したAPD銀行への取り付け騒ぎを受け、同行は2億2500万ドルの資本増強を実施しました。これは過去の金融パニック事例であり、市場の信頼回復が課題となっています。",
+          "source": "Kiripost"
         },
         {
-          "title": "インド・ジンドでLPG不足抗議と警察配備",
-          "location": "Jind, India",
-          "severity": 65,
-          "description": "インド・ジンドでLPG不足を原因とする抗議デモが発生し、警察が配備された。生活必需品の不足は住民の直接的な不安につながり、社会秩序を揺るがす可能性がある。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド・サンガレディ村での長期水不足抗議",
-          "location": "Sangareddy, India",
-          "severity": 60,
-          "description": "インド・サンガレディの村で1ヶ月以上にわたる水不足に対し住民が抗議。生命維持に不可欠な資源の長期的な不足は、住民に深刻な不安と混乱をもたらす。",
-          "source": "Telangana Today"
-        },
-        {
-          "title": "バングラデシュ・モティージェルでの銀行員復職要求デモ",
-          "location": "Motijheel, Bangladesh",
-          "severity": 45,
-          "description": "バングラデシュのモティージェルで、解雇されたイスラム系銀行職員らが復職を求め大規模な集会を実施。複数の銀行に関連しており、雇用不安と金融機関への不信感を示す。",
-          "source": "The Daily Star, Jagonews24.com, The Business Standard"
+          "title": "イスラム系銀行解雇職員による大規模デモ",
+          "location": "Motijheel, バングラデシュ",
+          "severity": 50,
+          "description": "複数のイスラム系銀行で解雇された職員数百人が、モティジールで再雇用を求める大規模な抗議デモを実施しました。「弱体化した銀行」への言及は金融システムへの懸念も示唆しています。",
+          "source": "The Daily Star, The Business Standard, Jagonews24.com"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "国際政治問題への抗議、軽微な商品不足",
+      "region": "middle_east",
+      "panic_index": 58,
+      "status": "unstable",
+      "main_cause": "地域紛争、住民間の緊張",
       "incidents": [
         {
-          "title": "スウェーデンでの国際問題に対する抗議デモ",
-          "location": "Stockholm, Sweden",
-          "severity": 40,
-          "description": "スウェーデンの首都で、イスラエルのヨルダン川西岸併合計画やレバノンへの攻撃を非難する抗議デモが発生。大規模な集会だが、国内のパニックには直結しない。",
-          "source": "Middle East Monitor, TRT World"
+          "title": "マスクをした入植者による家屋・車両への放火",
+          "location": "ヨルダン川西岸",
+          "severity": 60,
+          "description": "ヨルダン川西岸で、マスクをした入植者らが家屋と車に放火しました。これは地域住民に対する暴力と緊張が高まっていることを示しています。",
+          "source": "The Jerusalem Post"
         },
         {
-          "title": "ワールドカップ期間中のビール不足の可能性",
-          "location": "UK",
-          "severity": 25,
-          "description": "ワールドカップ期間中にビールが不足する可能性が報じられた。消費者にとっては不便だが、食料やエネルギーのような基幹的な不足ではないため、深刻な社会不安には繋がりにくい。",
-          "source": "The Telegraph"
+          "title": "非暴力の学生デモに対する兵士の鎮圧",
+          "location": "Masafer Yatta, ヨルダン川西岸",
+          "severity": 55,
+          "description": "マサフェル・ヤッタで非暴力の学生デモが兵士によって鎮圧されました。武力によるデモ鎮圧は、社会の緊張状態と表現の自由への抑圧を示唆しています。",
+          "source": "IMEMC News"
+        },
+        {
+          "title": "スウェーデン首都での対イスラエル抗議デモ",
+          "location": "ストックホルム, スウェーデン",
+          "severity": 35,
+          "description": "スウェーデンの首都で、イスラエルのヨルダン川西岸併合計画とレバノンへの攻撃を非難する抗議デモが発生。中東地域の緊張が国際社会に波及しています。",
+          "source": "Middle East Monitor, TRT World"
         }
       ]
     },
@@ -117,23 +58,103 @@
       "region": "south_america",
       "panic_index": 20,
       "status": "stable",
-      "main_cause": "経済状況の変化（安定化方向）",
+      "main_cause": "経済制裁の緩和 (改善方向)",
       "incidents": [
         {
-          "title": "米国によるベネズエラ国営銀行への制裁緩和",
-          "location": "Venezuela",
+          "title": "米国によるベネズエラ国有銀行への制裁緩和",
+          "location": "ベネズエラ",
           "severity": 20,
-          "description": "米国がベネズエラの国営銀行に対する制裁を緩和。これは経済状況の改善に繋がり、潜在的な金融不安の緩和に寄与する可能性があるため、パニックの兆候ではない。",
+          "description": "米国がベネズエラの国有銀行に対する制裁を緩和しました。これにより、これまでの制裁によって引き起こされた社会不安が緩和され、経済状況の改善が期待されます。",
           "source": "AOL.com"
         }
       ]
     },
     {
-      "region": "africa",
-      "panic_index": 0,
-      "status": "normal",
-      "main_cause": "N/A",
-      "incidents": []
+      "region": "north_america",
+      "panic_index": 63,
+      "status": "volatile",
+      "main_cause": "政治的分裂、資源不足懸念 (エネルギー・水)",
+      "incidents": [
+        {
+          "title": "ジェット燃料不足と価格高騰による航空便欠航",
+          "location": "グローバル (特に北米の航空会社に影響)",
+          "severity": 65,
+          "description": "イラン戦争に起因するジェット燃料の不足と価格高騰により、航空会社が多数のフライトを欠航しています。移動インフラの混乱は経済と社会に広範囲な不安をもたらしています。",
+          "source": "Business Insider"
+        },
+        {
+          "title": "トランプ前大統領に関する「パニック」と議事堂前抗議デモ",
+          "location": "US Capitol, アメリカ",
+          "severity": 60,
+          "description": "トランプ前大統領の精神的能力に関する懸念が「パニック」を引き起こし、連邦議会議事堂前で抗議デモが発生しました。米国の政治的緊張の高さを示唆しています。",
+          "source": "AOL.com"
+        },
+        {
+          "title": "アリゾナ州の町で水不足の懸念",
+          "location": "アリゾナ州の町, アメリカ",
+          "severity": 65,
+          "description": "アリゾナ州のある町で、7月までに水源が枯渇する可能性が指摘されています。生活に必須な水の不足は、住民に深刻なパニックや移住を誘発しかねません。",
+          "source": "moneywise.com"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "国際問題への抗議、限定的な物資不足懸念",
+      "incidents": [
+        {
+          "title": "ワールドカップ期間中のビール不足懸念",
+          "location": "グローバル (特に消費国)",
+          "severity": 25,
+          "description": "ワールドカップ開催期間中、ビール供給に支障が出る可能性が報じられました。生活必需品ではないものの、特定のイベントでの供給不足は消費者心理に軽微な不安を与えています。",
+          "source": "The Telegraph"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 57,
+      "status": "unstable",
+      "main_cause": "労働不安、エネルギー不足、水不足",
+      "incidents": [
+        {
+          "title": "ノイダでの労働者デモ暴動化と大規模な逮捕",
+          "location": "Noida, インド",
+          "severity": 70,
+          "description": "ノイダで労働者による大規模な抗議活動が暴動化し、多数の逮捕者が出ました。外部勢力の関与やパキスタンとの関連も浮上し、地域社会に深刻な混乱と不安をもたらしています。",
+          "source": "MSN, DNA India 他多数"
+        },
+        {
+          "title": "LPG不足による抗議デモと警官出動",
+          "location": "Jind, インド",
+          "severity": 70,
+          "description": "インドのジンドでLPG（液化石油ガス）不足に対する抗議デモが発生し、警察が出動しました。生活必需品の供給不足は住民の強い不満を引き起こし、社会の緊張を高めています。",
+          "source": "MSN"
+        },
+        {
+          "title": "水供給を求める農民の抗議デモ",
+          "location": "インド",
+          "severity": 65,
+          "description": "インドで農民がバダカライ運河への水供給を求めて抗議デモを実施しました。水不足は農業生産に深刻な影響を与え、地域経済と食料供給に対する懸念を高めています。",
+          "source": "The Hindu"
+        },
+        {
+          "title": "マネサールでの不穏状態と逮捕",
+          "location": "Manesar, インド",
+          "severity": 50,
+          "description": "マネサールで不穏な事態が発生し、6人が逮捕されました。警察は容疑者がコミッション詐欺を計画していたと述べており、地域の治安に対する懸念があります。",
+          "source": "MSN"
+        },
+        {
+          "title": "銀行支店長による大規模な不正融資詐欺",
+          "location": "インド",
+          "severity": 30,
+          "description": "インドのユニオン銀行の元支店長が、数千万ルピー規模の不正融資詐欺に関与したとして逮捕されました。これは金融機関への信頼を揺るがす事態です。",
+          "source": "MSN"
+        }
+      ]
     }
   ]
 }

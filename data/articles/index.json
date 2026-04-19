@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-19",
-    "summary": "中東情勢が緊迫化。イランとアメリカの協議は停滞し、ホルムズ海峡の緊張も高まっている。北朝鮮は弾道ミサイルを発射し、東アジアの安全保障も不安定化。ウクライナではロシア出身者によるテロ事件が発生し、ヨーロッパの緊張も継続。",
+    "summary": "中東情勢が極めて不安定。アメリカとイランの対立激化、イスラエルとレバノンの停戦合意後も攻撃が継続。北朝鮮による弾道ミサイル発射も確認され、地政学的リスクが全体的に高まっている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
-      "southeast_asia": "medium",
+      "east_asia": "medium",
+      "southeast_asia": "low",
       "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
+      "europe": "medium",
       "africa": "medium",
-      "north_america": "medium",
-      "south_america": "low"
+      "north_america": "low",
+      "south_america": "none"
     },
-    "generated_at": "2026-04-19T07:26:15.670657"
+    "generated_at": "2026-04-19T09:51:44.079129"
   },
   {
     "date": "2026-04-18",
