@@ -1,10 +1,10 @@
 [
   {
-    "id": "bd7428453c0c",
-    "title": "【速報中】北朝鮮 弾道ミサイルの可能性あるもの発射 防衛省",
-    "summary": "防衛省は北朝鮮から弾道ミサイルの可能性のあるものが発射されたと発表しました。日本への影響がないか情報の収集を進めています。",
+    "id": "dd58b699d65b",
+    "title": "北朝鮮 日本海へ短距離弾道ミサイル数発発射 韓国軍発表",
+    "summary": "韓国軍は、北朝鮮が19日朝に東部シンポ（新浦）付近から日本海に向けて短距離弾道ミサイルを数発発射したと発表しました。シンポには潜水艦の基地があるとされ、韓国メディアはSLBM＝潜水艦発射弾道ミサイルが発射された可能性があると伝えています。",
     "url": "http://www3.nhk.or.jp/news/html/20260419/k10015102781000.html",
-    "published": "2026-04-19T06:35:26+09:00",
+    "published": "2026-04-19T12:12:18+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
@@ -13,16 +13,29 @@
     ]
   },
   {
-    "id": "8a9883d4a489",
-    "title": "米が戦闘終結へ新提案提示か イラン船舶への取締り強化 報道も",
-    "summary": "アメリカとイランによる2回目の対面協議が近く行われると伝えられるなか、イランの最高安全保障委員会は18日、アメリカ側から戦闘終結に関する新たな提案が示されたと発表しました。一方、アメリカ軍が中東地域以外でもイランと関係のある船舶への取り締まりを行うための準備を進めているとアメリカメディアが伝え、イランへの圧力を強めるねらいもあるとみられます。",
+    "id": "f381c13646df",
+    "title": "アメリカとイラン 2回目の協議 先行き見通せず",
+    "summary": "アメリカとイランの停戦期限が近づくなか、アメリカのトランプ大統領は、側近らを集めて会議を開いたものの、イランとの2回目の協議の日程は未定のままだと伝えられました。またイラン議会のガリバフ議長は「アメリカとの間で依然として大きな隔たりがある」と述べ、協議の先行きは見通せない状況となっています。",
     "url": "http://www3.nhk.or.jp/news/html/20260419/k10015102751000.html",
-    "published": "2026-04-19T06:33:45+09:00",
+    "published": "2026-04-19T11:56:41+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
     "regions": [
       "middle_east",
+      "north_america"
+    ]
+  },
+  {
+    "id": "79b55d1f927a",
+    "title": "ローマ教皇 トランプ大統領との議論 “全く関心事ではない”",
+    "summary": "ローマ教皇レオ14世は18日、アメリカのトランプ大統領との議論について「私にとって全く関心事ではない」述べました。イタリアメディアの一部は「教皇は、緊張を和らげようとしている」と伝えています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260419/k10015102761000.html",
+    "published": "2026-04-19T07:13:13+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
       "north_america"
     ]
   },
@@ -54,6 +67,19 @@
     ]
   },
   {
+    "id": "ff98b76bbed4",
+    "title": "North Korea launches ballistic missiles towards sea off its east coast",
+    "summary": "Multiple ballistic missiles fired from eastern Sinpo area in seventh such test this year.",
+    "url": "https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast?traffic_source=rss",
+    "published": "2026-04-19T00:28:45+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia"
+    ]
+  },
+  {
     "id": "61c8993650ca",
     "title": "中国軍 台湾海峡を通過した海上自衛隊の護衛艦の映像を公開",
     "summary": "中国軍は、海上自衛隊の護衛艦が17日、中国大陸と台湾の間にある台湾海峡を通過した際に撮影したとする映像を公開し「あらゆる外部からの干渉の企てを断固として阻止する」などと主張しました。",
@@ -64,6 +90,32 @@
     "language": "ja",
     "regions": [
       "east_asia"
+    ]
+  },
+  {
+    "id": "d1d1285ef15e",
+    "title": "Iran war live: Tehran says no date set for US talks, Hormuz Strait closed",
+    "summary": "IRGC says the Strait of Hormuz will remain closed until the US stops blockading Iranian ports.",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed?traffic_source=rss",
+    "published": "2026-04-19T00:00:00+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "3fd349a41ae6",
+    "title": "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’",
+    "summary": "Top negotiator Mohammad Bagher Ghalibaf says US naval blockade of Iran's ports is 'a clumsy and ignorant decision'.",
+    "url": "https://www.aljazeera.com/news/2026/4/18/iran-reasserts-control-of-hormuz-strait-as-trump-warns-against-blackmail?traffic_source=rss",
+    "published": "2026-04-18T21:41:06+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -82,7 +134,7 @@
   {
     "id": "ff70877de68b",
     "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
-    "summary": "Tehran is blaming a US blockade for its actions, saying it breaches the ceasefire the two reached.",
+    "summary": "Iran is blaming a US blockade for the closure, saying it breaches the ceasefire reached between the two countries.",
     "url": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
     "published": "2026-04-18T21:19:46+00:00",
     "source_name": "BBC - World",
@@ -292,32 +344,6 @@
     "language": "en",
     "regions": [
       "global"
-    ]
-  },
-  {
-    "id": "552ede85e80e",
-    "title": "Displaced Lebanese return as Israeli shelling violates ceasefire in south",
-    "summary": "Al Jazeera correspondents on the ground report that Israeli bulldozers are also continuing home demolitions.",
-    "url": "https://www.aljazeera.com/news/2026/4/18/displaced-lebanese-return-as-israeli-shelling-violates-ceasefire-in-south?traffic_source=rss",
-    "published": "2026-04-18T11:53:02+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "3f3c95a92a11",
-    "title": "Turkiye woos investors amid Iran war fallout in Gulf economies",
-    "summary": "Turkish officials are promoting Istanbul as a regional financial hub amid the war's fallout on the Gulf economies.",
-    "url": "https://www.aljazeera.com/economy/2026/4/18/turkiye-woos-investors-amid-iran-war-fallout-in-gulf-economies?traffic_source=rss",
-    "published": "2026-04-18T11:52:33+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {

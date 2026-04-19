@@ -1,5 +1,106 @@
 [
   {
+    "date": "2026-04-19",
+    "summary": "ホルムズ海峡でイランが船舶への銃撃と航行阻止を実施。中国は台湾周辺で大規模な軍事演習と並行して情報戦を展開。米国はホルムズ海峡の機雷除去計画を検討。イラン戦争によりイギリス軍の弱体化が露呈。一方、EUはウクライナ戦争の教訓を活かした防衛研究開発に投資。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-04-18",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "イラン海軍によるホルムズ海峡封鎖と船舶への銃撃",
+        "content": "イラン海軍がホルムズ海峡を通過しようとする商船に対し、航行を許可しない旨を伝え、一部船舶が銃撃を受けた。イランは再びホルムズ海峡を封鎖したと発表。",
+        "involved_parties": [
+          "イラン海軍",
+          "商船"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/18/vessels-report-being-hit-by-gunfire-as-iran-says-strait-of-hormuz-shut-again/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-04-17",
+        "location": "台湾周辺",
+        "region": "east_asia",
+        "title": "中国軍による台湾周辺での軍事演習と情報戦",
+        "content": "中国軍が台湾周辺で大規模な軍事演習を実施。同時に、台湾国内の声を逆手に取った情報戦を展開し、台湾社会に影響を与えようと試みている。",
+        "involved_parties": [
+          "中国軍",
+          "台湾"
+        ],
+        "event_type": "cyber",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/17/china-turns-taiwans-own-voices-against-it-in-information-war/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-04-16",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米国によるホルムズ海峡の機雷除去作戦計画",
+        "content": "米国がホルムズ海峡における機雷除去作戦の計画を検討。ドローン、爆発物を搭載したロボット、ヘリコプターなどの利用を想定するも、イランからの攻撃に対する脆弱性が指摘されている。",
+        "involved_parties": [
+          "米軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/16/how-the-us-military-could-clear-mines-from-the-strait-of-hormuz/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-04-16",
+        "location": "イギリス",
+        "region": "europe",
+        "title": "イラン戦争によるイギリス軍の弱体化",
+        "content": "イランとの戦争によって、イギリス軍の弱体化が露呈。戦力低下の規模と現在の能力に関する詳細が明らかにされた。",
+        "involved_parties": [
+          "イギリス軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/16/iran-war-exposes-weakened-state-of-britains-armed-forces/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-04-16",
+        "location": "EU",
+        "region": "europe",
+        "title": "EUによる防衛研究開発への大規模投資",
+        "content": "EUがウクライナ戦争の教訓を踏まえ、10億ドル以上を防衛研究開発に投資。特に、徘徊型兵器や低コストの大量生産ドローンの開発が重視されている。",
+        "involved_parties": [
+          "EU"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/16/eu-pumps-over-1-billion-into-defense-rd-centered-around-ukraine-war-lessons/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-04-12",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米海軍によるホルムズ海峡の封鎖",
+        "content": "トランプ大統領が、米海軍によるホルムズ海峡の封鎖を「即時有効」と宣言。イラン軍が米国または平和的な船舶に発砲した場合、「地獄に吹き飛ばされる」と警告。",
+        "involved_parties": [
+          "米海軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-18",
     "summary": "ホルムズ海峡におけるイランとアメリカの緊張激化、台湾周辺での中国の軍事演習、ウクライナにおける兵器データ共有、防衛装備の近代化と増産に向けた各国の動きが確認された。",
     "events": [
@@ -4828,126 +4929,6 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/03/18/turkey-deploys-third-nato-patriot-system-to-repel-iranian-missiles/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-20",
-    "summary": "中東地域におけるイラン関連の軍事活動が活発化。ホルムズ海峡では米軍がイランの高速艇を攻撃。イランはサウジアラビアの米軍機にミサイル攻撃。イスラエルはレバノンのヒズボラに対する地上侵攻を継続。米国はイランの地下ミサイル貯蔵施設を攻撃。トルコはイランのミサイルに対抗するため、NATOのパトリオットシステムを配備。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-03-19",
-        "location": "レバノン",
-        "region": "middle_east",
-        "title": "イスラエル軍、レバノンでヒズボラに対する地上侵攻",
-        "content": "イスラエル軍がレバノン領内へ地上侵攻を開始。作戦は、アメリカとイスラエルによる対イラン戦争とは別であるが、相互に影響し合う可能性あり。",
-        "involved_parties": [
-          "イスラエル軍",
-          "ヒズボラ"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/19/israel-forges-ahead-on-ground-incursion-against-hezbollah-in-lebanon/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-03-19",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "A-10攻撃機、ホルムズ海峡でイラン高速攻撃艇を攻撃",
-        "content": "アメリカ軍のA-10攻撃機が、イランの高速攻撃艇をホルムズ海峡で標的に攻撃を実施。作戦は「オペレーション・エピック・フューリー」の一環。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/a-10-warthogs-target-iranian-fast-attack-craft-in-strait-of-hormuz/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-03-19",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "米軍、イランの地下ミサイル貯蔵施設を攻撃",
-        "content": "米軍がイランの地下ミサイル貯蔵施設を5,000ポンドの貫通爆弾で攻撃。この爆弾は今回の作戦で初めて実戦投入された。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/us-strikes-iranian-underground-missile-storage-with-5000-pound-penetrator/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-03-16",
-        "location": "サウジアラビア",
-        "region": "middle_east",
-        "title": "イランによるミサイル攻撃、サウジアラビアのKC-135空中給油機に損害",
-        "content": "イランによるミサイル攻撃により、サウジアラビアに駐機されていた5機のKC-135空中給油機が損傷。機体は破壊は免れた模様。",
-        "involved_parties": [
-          "イラン軍",
-          "サウジアラビア軍"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/"
-      },
-      {
-        "id": "event-5",
-        "timestamp": "2026-03-14",
-        "location": "イラン、ハルグ島",
-        "region": "middle_east",
-        "title": "米軍、イランの主要な島を爆撃",
-        "content": "トランプ大統領によると、米軍はイランの石油拠点であるハルグ島のすべての軍事目標を「完全に破壊」したとのこと。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/flashpoints/2026/03/14/us-bombs-key-iranian-island-amid-oil-concerns/"
-      },
-      {
-        "id": "event-6",
-        "timestamp": "2026-03-18",
-        "location": "トルコ",
-        "region": "europe",
-        "title": "トルコ、イランのミサイルを撃退するため、3番目のNATOパトリオットシステムを配備",
-        "content": "最新の配備により、トルコに駐留するNATOのパトリオットバッテリーの数は3つになる。",
-        "involved_parties": [
-          "トルコ軍",
-          "NATO",
-          "イラン軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/18/turkey-deploys-third-nato-patriot-system-to-repel-iranian-missiles/"
-      },
-      {
-        "id": "event-7",
-        "timestamp": "2026-03-13",
-        "location": "レバノン",
-        "region": "middle_east",
-        "title": "イスラエルによる爆撃の中、レバノン政府は内紛を避けようとする",
-        "content": "レバノン軍はイスラエルの爆撃を受けている間、ヒズボラの武器を捜索できる状況ではない。",
-        "involved_parties": [
-          "レバノン政府",
-          "イスラエル軍",
-          "ヒズボラ"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/13/lebanese-government-tries-to-avoid-internal-strife-amid-israeli-bombardment/"
       }
     ]
   }
