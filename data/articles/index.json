@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-19",
-    "summary": "中東における米国とイランの対立激化、ウクライナ情勢の泥沼化、東アジアにおける緊張の高まりなど、地政学的リスクが複合的に増大している。世界経済への影響も懸念される。",
-    "overall_risk_level": "high",
+    "summary": "中東におけるイスラエルとイランの戦争が激化し、ガザ地区での軍事拠点拡大やレバノンとの停戦合意の不安定化が懸念される。ウクライナ情勢も依然として不安定であり、ロシアへの制裁解除を巡る米欧間の意見の相違が表面化している。",
+    "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
-      "southeast_asia": "medium",
+      "southeast_asia": "low",
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
       "africa": "medium",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "medium"
     },
-    "generated_at": "2026-04-19T18:57:59.711667"
+    "generated_at": "2026-04-19T21:40:31.840201"
   },
   {
     "date": "2026-04-18",

@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-19",
-    "summary": "ホルムズ海峡でイランが船舶に発砲し航行を遮断。台湾周辺では中国軍が軍事演習を実施、情報戦も展開。ウクライナでの戦闘から教訓を得たEUが防衛研究開発に大規模投資。イラン戦争のコストは不明確。",
+    "summary": "ホルムズ海峡でイランが船舶への銃撃を実施、航行を再び遮断。中国は台湾周辺で軍事演習を実施し、情報戦を展開。EUはウクライナ戦争の教訓を基に防衛R&Dに投資。",
     "events": [
       {
         "id": "event-1",
@@ -34,6 +34,22 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/17/china-turns-taiwans-own-voices-against-it-in-information-war/"
+      },
+      {
+        "id": "8",
+        "timestamp": "2026-04-17",
+        "location": "紅海",
+        "region": "middle_east",
+        "title": "イエメンのフーシ派が紅海で脅威となる可能性",
+        "content": "ホルムズ海峡に加え、イエメンのフーシ派が紅海を掌握し、航行を妨害する可能性が専門家から指摘されている。イランの代理勢力による新たな脅威が懸念されている。",
+        "involved_parties": [
+          "フーシ派",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/14/amid-focus-on-strait-of-hormuz-experts-sound-warning-on-yemens-houthis-and-red-sea/"
       },
       {
         "id": "event-3",
@@ -81,6 +97,38 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/04/16/eu-pumps-over-1-billion-into-defense-rd-centered-around-ukraine-war-lessons/"
+      },
+      {
+        "id": "7",
+        "timestamp": "2026-04-16",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ政府、イラン戦争の費用について明確な見解を示さず",
+        "content": "アメリカ政府は、議会に対しイラン戦争の費用について具体的な見積もりを示さず、軍事費の増額を求めている。不透明な財政状況が懸念されている。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/16/white-house-offers-no-hint-of-iran-war-cost-as-it-seeks-military-funding-surge/"
+      },
+      {
+        "id": "9",
+        "timestamp": "2026-04-14",
+        "location": "ワシントン",
+        "region": "middle_east",
+        "title": "レバノンとイスラエルの協議がワシントンで開始",
+        "content": "1948年以来、技術的に戦争状態にあるレバノンとイスラエルの間で、稀な外交的協議がワシントンで開始された。",
+        "involved_parties": [
+          "レバノン",
+          "イスラエル"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/14/lebanon-and-israel-talks-set-to-begin-in-washington/"
       },
       {
         "id": "event-6",

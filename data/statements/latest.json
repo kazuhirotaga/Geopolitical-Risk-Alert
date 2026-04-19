@@ -1,38 +1,36 @@
 {
   "date": "2026-04-19",
-  "summary": "本日は、米連邦準備制度理事会（FRB）関連の発表が中心。金融政策の方向性に関する直接的な発言は見られないものの、金融機関への規制強化の姿勢が示唆されており、金融市場への影響は限定的と考えられる。",
+  "summary": "本日は、米連邦準備制度理事会（FRB）関連の発表が中心。金融政策に関する具体的な発言は見当たらず、金融機関への監督・執行関連の情報公開に留まる。市場への直接的な影響は限定的と考えられる。",
   "statements": [
     {
       "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "Community Bankshares, Inc. に対し、執行措置を発令した。",
+      "title": "政府機関",
+      "quote": "Community Bankshares, Inc.に対する執行措置を発表。",
       "context": "プレスリリース",
-      "analysis": "具体的な内容は不明だが、FRBが金融機関に対する監督・規制を強化していることを示唆する。中小金融機関の経営健全性に対する懸念が背景にある可能性があり、今後の金融政策に影響を与える可能性がある。",
-      "importance": "medium",
+      "analysis": "Community Bankshares, Inc.に対する具体的な執行措置の内容は不明だが、FRBが金融機関の監督を継続的に行っていることを示唆する。個別の金融機関に対する措置であり、市場全体への影響は小さいと考えられる。",
+      "importance": "low",
       "tags": [
         "金融規制",
-        "金融機関",
-        "FRB"
+        "金融機関監督"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260416a.htm"
     },
     {
       "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "2026年2月9日および3月18日の公定歩合に関する理事会会合の議事録を公開した。",
+      "title": "政府機関",
+      "quote": "2026年2月9日と3月18日の公定歩合に関する理事会会合の議事録を公開。",
       "context": "プレスリリース",
-      "analysis": "議事録の内容次第では、今後の金融政策の方向性に関する手がかりが得られる可能性がある。特に、インフレ見通しや経済成長に対する評価、金融市場の安定性に関する議論は注目される。",
+      "analysis": "議事録の内容次第では、今後の金融政策の方向性に関する手がかりが得られる可能性がある。ただし、議事録の公開は過去の会合に関するものであり、即時的な市場への影響は限定的と考えられる。内容を精査する必要がある。",
       "importance": "medium",
       "tags": [
         "金融政策",
         "公定歩合",
-        "FRB",
-        "議事録"
+        "FRB"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm"
     }
   ],
-  "generated_at": "2026-04-19T18:58:26.336069",
+  "generated_at": "2026-04-19T21:41:02.963371",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
