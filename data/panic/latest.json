@@ -1,131 +1,139 @@
 {
   "date": "2026-04-19",
-  "summary": "世界各地で、エネルギーや水資源の不足、及びそれに伴う社会不安が深刻化しています。特にインドでは、労働者デモが暴力的な暴動へと発展し、社会秩序に深刻な影響を及ぼしています。中国では銀行関連の抗議デモが暴力化し、金融システムへの懸念が高まっています。また、イラン戦争に起因するジェット燃料不足は世界的な航空便欠航を引き起こし、移動や物流に混乱をもたらしています。各国は、物価高騰や資源不足に対する国民の不満を抑制するため、対応を迫られています。",
-  "global_panic_index": 75,
+  "summary": "世界各地では、一部地域で深刻なパニック状況が散見される。特に中国では銀行関連の抗議が暴力化し、中東では入植者による放火暴力が発生。これらは社会秩序の混乱を直接的に示している。インドでは大規模な労働争議が政治化・暴力化し、エネルギーや水といった資源不足への抗議も相次ぎ、高い緊張感が続く。米国でも水不足が深刻化し、政治的懸念から抗議デモが発生するなど、地域によって異なる要因で社会不安が増大している。広範な買いだめや略奪、無秩序な逃避行といった事態には至っていないものの、一部地域では警戒レベルが非常に高く、世界全体で社会不安は中程度の水準にある。",
+  "global_panic_index": 55,
   "regions": [
+    {
+      "region": "middle_east",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "紛争、治安悪化",
+      "incidents": [
+        {
+          "title": "ヨルダン川西岸での入植者による放火暴力",
+          "location": "West Bank",
+          "severity": 80,
+          "description": "覆面入植者が家屋と車に放火する事件が発生。地域住民への直接的な暴力と破壊行為であり、住民に深刻な恐怖と不安をもたらす、極めて緊迫した事態。",
+          "source": "The Jerusalem Post"
+        }
+      ]
+    },
     {
       "region": "north_america",
       "panic_index": 60,
       "status": "unstable",
-      "main_cause": "水資源不足、政治的不安",
+      "main_cause": "資源不足、政治的混乱",
       "incidents": [
         {
-          "title": "アリゾナ州の町で水資源枯渇の懸念",
-          "location": "アメリカ合衆国（アリゾナ州）",
+          "title": "米アリゾナ州の町で水枯渇の危機",
+          "location": "Arizona, USA",
           "severity": 70,
-          "description": "アリゾナ州のある町で、7月までに水供給が完全に停止する可能性が報じられており、住民の生活不安が高まっています。水不足は長期的な問題として懸念されています。",
+          "description": "米アリゾナ州の町で7月までに水が枯渇する可能性が報じられ、住民の生命維持に関わる深刻な不安を引き起こしている。食料・水不足は直接的なパニックに繋がりやすい。",
           "source": "moneywise.com"
         },
         {
-          "title": "トランプ氏の精神状態に関する不安と議事堂外での抗議",
-          "location": "アメリカ合衆国（ワシントンD.C.）",
-          "severity": 45,
-          "description": "ドナルド・トランプ元大統領の「精神的能力」に関する懸念が報じられ、これに関連して米議事堂外で抗議活動が発生しました。政治的な分断と不安が示されています。",
+          "title": "トランプ氏の「精神的能力」に関する懸念と抗議デモ",
+          "location": "US Capitol, USA",
+          "severity": 55,
+          "description": "米国議会議事堂前でトランプ氏の「精神的能力」に関する懸念から抗議デモが発生。「パニック」という言葉が使われており、政治的な不安定感が国民に不安をもたらしている。",
           "source": "AOL.com"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "燃料価格高騰、生活費高騰、供給網混乱",
-      "incidents": [
-        {
-          "title": "イラン戦争起因のジェット燃料不足と価格高騰による航空便欠航",
-          "location": "世界各地（影響元: イラン）",
-          "severity": 65,
-          "description": "イラン戦争の影響でジェット燃料が不足し、価格が高騰。これにより航空会社が多数のフライトをキャンセルしており、世界的な移動や物流に混乱が生じています。",
-          "source": "Business Insider, The Guardian"
-        },
-        {
-          "title": "アイルランドでの燃料価格高騰抗議デモと主要道路閉鎖",
-          "location": "アイルランド（M50高速道路）",
-          "severity": 60,
-          "description": "アイルランドで燃料価格高騰に対する抗議デモが4日間にわたり行われ、主要高速道路M50の一部が完全に閉鎖される事態となりました。国民生活への影響が懸念されています。",
-          "source": "MSN"
-        },
-        {
-          "title": "アイルランドでの生活費高騰に対する抗議デモ",
-          "location": "アイルランド",
-          "severity": 55,
-          "description": "アイルランド政府に対する生活費高騰への不満が高まり、各地で抗議デモが発生しています。政府への怒りと政治的空白が指摘されています。",
-          "source": "Irish Examiner"
-        },
-        {
-          "title": "ワールドカップ期間中のビール不足懸念（英国）",
-          "location": "英国",
-          "severity": 35,
-          "description": "ワールドカップ開催中にビール供給が不足する可能性が報じられています。日常生活への直接的な必需品ではないものの、広範な不満や社会不安の兆候が見られます。",
-          "source": "The Telegraph"
-        }
-      ]
-    },
-    {
       "region": "east_asia",
-      "panic_index": 75,
+      "panic_index": 85,
       "status": "critical",
-      "main_cause": "金融不安、社会秩序の乱れ",
+      "main_cause": "金融不安、抗議デモの暴力化",
       "incidents": [
         {
-          "title": "中国・鄭州の銀行前で抗議デモが暴力化",
-          "location": "中国（鄭州）",
-          "severity": 75,
-          "description": "鄭州の銀行前で発生した預金者による抗議デモが暴力的な衝突へと発展しました。金融システムへの不信感が高まる中、当局は治安維持に努めています。",
+          "title": "中国鄭州の銀行前での抗議が暴力化",
+          "location": "Zhengzhou, China",
+          "severity": 85,
+          "description": "中国鄭州の銀行前での抗議デモが暴力沙汰に発展。預金引き出し制限など、金融不安が背景にあると見られ、社会秩序の混乱と市民の怒りが顕在化している。",
           "source": "NTD News"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "労働者暴動、エネルギー・水不足",
+      "region": "south_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "労働不安、資源不足、治安悪化",
       "incidents": [
         {
-          "title": "インド・ノイダでの労働者暴動と社会インフラへの影響",
-          "location": "インド（ノイダ）",
-          "severity": 85,
-          "description": "ノイダで労働者デモが激化し、投石、道路封鎖、車両への放火などの暴力行為が発生。外部勢力の関与も指摘され、治安部隊が出動。社会秩序が一時的に麻痺する事態となっています。",
-          "source": "MSN, The New Indian Express, The Statesman 他"
+          "title": "インド・ノイダ大規模労働者抗議の激化",
+          "location": "Noida, India",
+          "severity": 75,
+          "description": "インド・ノイダで大規模な労働者抗議デモがエスカレート。暴力行為、外部勢力関与疑惑、多数の逮捕者、治安当局による厳戒態勢が敷かれ、企業活動や地域経済に深刻な影響を与えている。",
+          "source": "MSN, The New Indian Express, The Hindu"
         },
         {
-          "title": "インド・ジンドでのLPG不足抗議デモと警察出動",
-          "location": "インド（ジンド）",
-          "severity": 70,
-          "description": "家庭用LPG（液化石油ガス）の不足が深刻化し、ジンドで大規模な抗議デモが発生。住民の生活に不可欠な資源の不足が治安悪化の一因となっています。",
+          "title": "インド・ジンドでLPG不足抗議と警察配備",
+          "location": "Jind, India",
+          "severity": 65,
+          "description": "インド・ジンドでLPG不足を原因とする抗議デモが発生し、警察が配備された。生活必需品の不足は住民の直接的な不安につながり、社会秩序を揺るがす可能性がある。",
           "source": "MSN"
         },
         {
-          "title": "インド・サンガレッディでの長期水不足に対する村人の抗議",
-          "location": "インド（サンガレッディ）",
-          "severity": 65,
-          "description": "サンガレッディの村々で、1ヶ月にわたる深刻な水不足に対し、住民が抗議デモを行っています。生活用水の確保が困難となり、住民の不満が爆発しています。",
+          "title": "インド・サンガレディ村での長期水不足抗議",
+          "location": "Sangareddy, India",
+          "severity": 60,
+          "description": "インド・サンガレディの村で1ヶ月以上にわたる水不足に対し住民が抗議。生命維持に不可欠な資源の長期的な不足は、住民に深刻な不安と混乱をもたらす。",
           "source": "Telangana Today"
         },
         {
-          "title": "インド・ヴァダカライでの農業用水不足に対する農民の抗議",
-          "location": "インド（ヴァダカライ）",
-          "severity": 60,
-          "description": "ヴァダカライ運河への水放出を求める農民が抗議デモを実施。農業生産への影響だけでなく、地域の食料供給不安にも繋がりかねない事態です。",
-          "source": "The Hindu"
+          "title": "バングラデシュ・モティージェルでの銀行員復職要求デモ",
+          "location": "Motijheel, Bangladesh",
+          "severity": 45,
+          "description": "バングラデシュのモティージェルで、解雇されたイスラム系銀行職員らが復職を求め大規模な集会を実施。複数の銀行に関連しており、雇用不安と金融機関への不信感を示す。",
+          "source": "The Daily Star, Jagonews24.com, The Business Standard"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "地域紛争、エネルギー供給不安",
+      "region": "europe",
+      "panic_index": 35,
+      "status": "stable",
+      "main_cause": "国際政治問題への抗議、軽微な商品不足",
       "incidents": [
         {
-          "title": "イラン戦争が引き起こすジェット燃料価格高騰と不足",
-          "location": "中東地域（影響元: イラン）",
-          "severity": 65,
-          "description": "イラン戦争が継続する中、中東地域からのジェット燃料供給に支障が生じ、価格が高騰しています。これは世界的な航空便欠航の主要因の一つであり、広範な経済的影響をもたらしています。",
-          "source": "Business Insider"
+          "title": "スウェーデンでの国際問題に対する抗議デモ",
+          "location": "Stockholm, Sweden",
+          "severity": 40,
+          "description": "スウェーデンの首都で、イスラエルのヨルダン川西岸併合計画やレバノンへの攻撃を非難する抗議デモが発生。大規模な集会だが、国内のパニックには直結しない。",
+          "source": "Middle East Monitor, TRT World"
+        },
+        {
+          "title": "ワールドカップ期間中のビール不足の可能性",
+          "location": "UK",
+          "severity": 25,
+          "description": "ワールドカップ期間中にビールが不足する可能性が報じられた。消費者にとっては不便だが、食料やエネルギーのような基幹的な不足ではないため、深刻な社会不安には繋がりにくい。",
+          "source": "The Telegraph"
         }
       ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "経済状況の変化（安定化方向）",
+      "incidents": [
+        {
+          "title": "米国によるベネズエラ国営銀行への制裁緩和",
+          "location": "Venezuela",
+          "severity": 20,
+          "description": "米国がベネズエラの国営銀行に対する制裁を緩和。これは経済状況の改善に繋がり、潜在的な金融不安の緩和に寄与する可能性があるため、パニックの兆候ではない。",
+          "source": "AOL.com"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": []
     }
   ]
 }

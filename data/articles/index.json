@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-19",
-    "summary": "中東情勢が極めて不安定。イランとアメリカの停戦協議は難航し、ホルムズ海峡が再び閉鎖。レバノンでは停戦合意後も攻撃が継続。北朝鮮は弾道ミサイル発射実験を実施し、東アジアの緊張も高まっている。",
-    "overall_risk_level": "critical",
+    "summary": "中東情勢が緊迫化。イランとアメリカの協議は停滞し、ホルムズ海峡の緊張も高まっている。北朝鮮は弾道ミサイルを発射し、東アジアの安全保障も不安定化。ウクライナではロシア出身者によるテロ事件が発生し、ヨーロッパの緊張も継続。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
-      "southeast_asia": "low",
+      "southeast_asia": "medium",
       "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
+      "europe": "high",
       "africa": "medium",
       "north_america": "medium",
       "south_america": "low"
     },
-    "generated_at": "2026-04-19T03:19:56.912009"
+    "generated_at": "2026-04-19T07:26:15.670657"
   },
   {
     "date": "2026-04-18",
