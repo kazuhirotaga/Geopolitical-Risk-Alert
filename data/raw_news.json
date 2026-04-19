@@ -1,5 +1,19 @@
 [
   {
+    "id": "e65115f0c7a3",
+    "title": "【詳細】ロシア ウクライナに軍事侵攻（4月19日の動き）",
+    "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる19日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
+    "url": "http://www3.nhk.or.jp/news/html/20260420/k10015079701000.html",
+    "published": "2026-04-20T03:02:40+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "europe"
+    ]
+  },
+  {
     "id": "b18592089271",
     "title": "韓国メディア “統一相発言に米抗議 北朝鮮情報の提供制限か”",
     "summary": "北朝鮮のウラン濃縮施設の所在地をめぐる韓国の統一相の国会発言を受けて、アメリカが抗議し、北朝鮮に関する情報の提供を一部制限したと韓国の複数のメディアが伝えました。米韓の軍事面での連携に懸念の声が出ています。",
@@ -25,6 +39,32 @@
     "regions": [
       "middle_east",
       "north_america"
+    ]
+  },
+  {
+    "id": "8afb5f296335",
+    "title": "Iran and Israel: From friends to enemies",
+    "summary": "Israel and the US have been at war with Iran since Feb 28th. All sides have suffered, but it wasn’t always this way.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-and-israel-from-friends-to-enemies?traffic_source=rss",
+    "published": "2026-04-19T18:02:17+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "de15210bc962",
+    "title": "Satellite images reveal Israel expanding Gaza military sites",
+    "summary": "Images show Israel building permanent military bases in Gaza as US-backed reconstruction plans stall.",
+    "url": "https://www.aljazeera.com/news/2026/4/19/satellite-images-reveal-israel-expanding-gaza-military-sites?traffic_source=rss",
+    "published": "2026-04-19T15:38:52+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -78,20 +118,6 @@
     "language": "en",
     "regions": [
       "global"
-    ]
-  },
-  {
-    "id": "83029a6a965c",
-    "title": "Trump says US negotiators to head to Pakistan for Iran talks",
-    "summary": "US president announces talks in Islamabad and accuses Iran of violating truce, warning Tehran of severe repercussions.",
-    "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-negotiators-will-head-to-pakistan-for-iran-ceasefire-talks?traffic_source=rss",
-    "published": "2026-04-19T12:38:11+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "south_asia",
-      "middle_east"
     ]
   },
   {
@@ -252,19 +278,6 @@
     ]
   },
   {
-    "id": "8d4d404ce16b",
-    "title": "Lionel Messi scores twice as Inter Miami defeat Rapids in MLS",
-    "summary": "Argentine forward's brace included the match winner against Colorado Rapids in front of over 75,000 fans in Denver.",
-    "url": "https://www.aljazeera.com/sports/2026/4/19/lionel-messi-scores-twice-as-inter-miami-defeat-rapids-in-mls?traffic_source=rss",
-    "published": "2026-04-19T08:05:28+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "79b55d1f927a",
     "title": "ローマ教皇 トランプ大統領との議論 “全く関心事ではない”",
     "summary": "ローマ教皇レオ14世は18日、アメリカのトランプ大統領との議論について「私にとって全く関心事ではない」述べました。イタリアメディアの一部は「教皇は、緊張を和らげようとしている」と伝えています。",
@@ -292,19 +305,6 @@
     ]
   },
   {
-    "id": "270e8d74bfbc",
-    "title": "Cash shortages grip Yemen despite currency stabilisation",
-    "summary": "Cash-strapped Yemenis face rising frustration as exchange firms limit currency conversion amid ongoing liquidity crisis.",
-    "url": "https://www.aljazeera.com/news/2026/4/19/cash-shortages-grip-yemen-despite-currency-stabilisation?traffic_source=rss",
-    "published": "2026-04-19T05:51:58+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
     "id": "ce17e736abcc",
     "title": "キーウで銃撃 6人死亡 容疑者はロシア出身か テロとみて捜査",
     "summary": "ウクライナの首都キーウで18日、銃撃事件があり、これまでに6人が死亡し、容疑者は駆けつけた警察にその場で射殺されました。容疑者はロシア出身だということで、捜査当局はテロ事件とみて調べています。",
@@ -315,19 +315,6 @@
     "language": "ja",
     "regions": [
       "europe"
-    ]
-  },
-  {
-    "id": "73bde1d9d084",
-    "title": "Bulgarians head to polls for eighth time in five years",
-    "summary": "Bulgaria votes to elect a new parliament after mass protests brought down the previous government in December.",
-    "url": "https://www.aljazeera.com/news/2026/4/19/bulgarians-head-to-polls-to-elect-parliament-for-eighth-time-in-5-years?traffic_source=rss",
-    "published": "2026-04-19T05:35:54+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   },
   {
@@ -747,8 +734,8 @@
     ]
   },
   {
-    "id": "e81d31e723bb",
-    "title": "【随時更新】ロシア ウクライナに軍事侵攻（4月16日の動き）",
+    "id": "40c88d7597ab",
+    "title": "【詳細】ロシア ウクライナに軍事侵攻（4月16日の動き）",
     "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる16日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
     "url": "http://www3.nhk.or.jp/news/html/20260416/k10015079671000.html",
     "published": "2026-04-16T19:47:24+09:00",
@@ -1299,62 +1286,6 @@
     "language": "ja",
     "regions": [
       "north_america"
-    ]
-  },
-  {
-    "id": "d0fbd455bd48",
-    "title": "【詳細】米“ホルムズ封鎖” イラン側「海賊行為に等しい」",
-    "summary": "アメリカのトランプ大統領は、イランの港に出入りする海上交通の封鎖を日本時間の13日午後11時から始めるとしています。イラン側は「違法であり、海賊行為に等しい」と強く反発し、軍事的緊張の高まりが懸念されています。",
-    "url": "http://www3.nhk.or.jp/news/html/20260412/k10015097851000.html",
-    "published": "2026-04-13T19:56:10+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "east_asia",
-      "middle_east",
-      "north_america"
-    ]
-  },
-  {
-    "id": "3d9c1b52a1a0",
-    "title": "【詳細】ロシア ウクライナに軍事侵攻（4月13日の動き）",
-    "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる13日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
-    "url": "http://www3.nhk.or.jp/news/html/20260413/k10015075041000.html",
-    "published": "2026-04-13T19:55:24+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "east_asia",
-      "europe"
-    ]
-  },
-  {
-    "id": "11404f773f21",
-    "title": "トランプ大統領 “限定攻撃再開検討も 外交排除せず” 米報道",
-    "summary": "イランとの協議が合意に至らなかった中、アメリカのトランプ大統領がイランに対する限定的な軍事攻撃の再開を検討していると12日、アメリカメディアが報じました。",
-    "url": "http://www3.nhk.or.jp/news/html/20260413/k10015098021000.html",
-    "published": "2026-04-13T10:12:30+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "middle_east",
-      "north_america"
-    ]
-  },
-  {
-    "id": "2526c612a97b",
-    "title": "ウクライナ キリスト教復活祭で一時停戦期間も 双方が攻撃主張",
-    "summary": "ロシアとウクライナは、キリスト教の復活祭に合わせた一時的な停戦期間を設けるとしていましたが、双方が相手の攻撃を受けたと主張し、停戦の実効性を疑問視する声が上がっています。",
-    "url": "http://www3.nhk.or.jp/news/html/20260413/k10015097811000.html",
-    "published": "2026-04-13T05:58:14+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "europe"
     ]
   }
 ]
