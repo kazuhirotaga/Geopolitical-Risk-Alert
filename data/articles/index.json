@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-20",
-    "summary": "米イラン間の緊張が激化し、ホルムズ海峡付近で軍事衝突が発生。北朝鮮は弾道ミサイル発射実験を実施。ウクライナ情勢も依然として不安定であり、地政学リスクは全体的に高い水準にある。",
+    "summary": "米イラン間の緊張が激化し、ホルムズ海峡付近で軍事衝突が発生。ウクライナ情勢も依然として不安定。北朝鮮は弾道ミサイル発射実験を実施。グローバルな地政学的リスクが高まっている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -10,12 +10,12 @@
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
-      "africa": "low",
+      "europe": "high",
+      "africa": "medium",
       "north_america": "medium",
-      "south_america": "medium"
+      "south_america": "low"
     },
-    "generated_at": "2026-04-20T03:22:04.380612"
+    "generated_at": "2026-04-20T08:15:52.228657"
   },
   {
     "date": "2026-04-19",
