@@ -1,114 +1,114 @@
 {
   "date": "2026-04-20",
-  "summary": "DeFi市場で大規模なハッキングと数十億ドル規模の資金流出が発生し、取り付け騒ぎに近い金融パニックが世界規模で広がっています。一方、インドでは飲料水やLPGなど生活必需品の不足が暴動に発展し、労働者デモや地域紛争も激化、各地で社会秩序の混乱が見られます。中東でも経済的な不安や政治的抑圧に対する抗議活動が継続しており、世界的に社会不安が高まっている状況です。",
-  "global_panic_index": 75,
+  "summary": "世界各地で多様な要因による社会不安とパニックが増加しています。仮想通貨市場では大規模なハッキングによる取り付け騒ぎが発生し、金融不安が深刻化。南アジア（主にインド）では、生活必需品の不足、労働者デモの暴力化、地域紛争の激化が複合的に重なり、一部地域で機能不全に陥る危機的状況です。中東では政治的抑圧と経済的不安定が広範な抗議活動を引き起こし、通貨安の懸念も浮上しています。東アジアでは政府が社会不安の兆候に警戒を強め、北米では限定的な物資供給の遅延が見られます。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "Supply chain issues, potential financial risk concerns.",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "物資供給の遅延",
       "incidents": [
         {
-          "title": "Mississippi Liquor Stores Run Dry",
-          "location": "Mississippi, USA",
-          "severity": 30,
-          "description": "州の流通遅延により、ミシシッピ州の酒類販売店で商品が品切れ状態となり、消費者に軽度の不満と不安が広がっています。特定の商品の供給不足が示唆されます。",
+          "title": "ミシシッピ州の酒類が品薄に",
+          "location": "Mississippi, US",
+          "severity": 40,
+          "description": "州の流通遅延により、ミシシッピ州の酒屋で酒類が品薄状態に。特定の嗜好品に限定されるが、供給網の脆弱性を示唆し、消費者の軽微な不満や買いだめを誘発する可能性。",
           "source": "The New York Times"
-        },
-        {
-          "title": "Banking Regulators Are Making it Easier for Big Banks to Hide Risks",
-          "location": "USA",
-          "severity": 20,
-          "description": "金融規制当局が大手銀行のリスク隠蔽を容易にしているとの指摘があり、将来的な金融システムの安定性に対する潜在的な懸念が専門家の間で提起されています。",
-          "source": "Americans for Financial Reform"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "Economic instability, political oppression, lingering social unrest.",
+      "panic_index": 71,
+      "status": "volatile",
+      "main_cause": "政治的抑圧と金融不安",
       "incidents": [
         {
-          "title": "UAE officials warned they may be forced to use yuan or other currencies if they run low on dollars",
+          "title": "イランの抗議デモに対する弾圧と社会不安",
+          "location": "Iran",
+          "severity": 75,
+          "description": "1月の抗議デモに対する政府の弾圧が100日経過し、社会全体に広がる不満と緊張状態が継続。政府による強硬な鎮圧は社会の深い分断と不安定さを示している。",
+          "source": "ایران اینترنشنال"
+        },
+        {
+          "title": "UAE当局、ドル不足で他通貨使用の可能性を警告",
           "location": "UAE",
-          "severity": 45,
-          "description": "アラブ首長国連邦当局者が、ドル不足の場合に人民元など他の通貨の使用を余儀なくされる可能性について警告しました。これは金融市場の不確実性と経済的安定性への懸念を示唆します。",
+          "severity": 70,
+          "description": "UAE当局がドル不足の場合、人民元などの他通貨使用を強いられる可能性を警告。国家レベルでの通貨不安は経済への信頼を揺るがし、国民の金融不安を増大させるリスク。",
           "source": "Fortune"
         },
         {
-          "title": "As barbed wire blocks kids from class, Palestinians stage ‘Freedom School’",
+          "title": "パレスチナで教育制限に対する「自由学校」開設",
           "location": "Palestine",
-          "severity": 50,
-          "description": "有刺鉄線によって子供たちの学校へのアクセスが阻害される中、パレスチナ人が「フリーダムスクール」を組織し抗議活動を行っています。教育の機会喪失は社会に深い不安を与えています。",
+          "severity": 65,
+          "description": "有刺鉄線で子供たちが学校に通えない状況に対し、パレスチナ人が「自由学校」を設置。教育機会の剥奪は深刻な社会不安の兆候であり、住民の抵抗と不満が高まっている。",
           "source": "Al Jazeera"
-        },
-        {
-          "title": "100 days on: the anatomy of Iran’s January crackdown / why Iran’s January protests spread across social classes",
-          "location": "Iran",
-          "severity": 50,
-          "description": "100日前に発生したイランでの抗議活動とその弾圧に関する分析が報じられています。社会階層を超えて広がった抗議活動は、根深い社会不安と政府への不満が継続していることを示唆します。",
-          "source": "ایران اینترنشنال"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 78,
-      "status": "critical",
-      "main_cause": "Energy/Water shortages, labor unrest, political violence.",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "社会不安への政府の警戒",
       "incidents": [
         {
-          "title": "Noida protest violence escalates, 'outsiders' arrested, conspiracy alleged",
-          "location": "Noida, India",
-          "severity": 70,
-          "description": "Noidaでの大規模な労働者抗議デモが暴力化し、多数の逮捕者が出ています。政府は組織的な関与を主張しており、社会秩序の広範な混乱と治安維持の緊張が見られます。",
-          "source": "MSN, The Hindu"
-        },
-        {
-          "title": "Protest over drinking water shortage turns violent at BHU",
-          "location": "BHU, India",
-          "severity": 75,
-          "description": "バナーラス・ヒンドゥー大学（BHU）で、飲料水不足に対する抗議活動が暴力的にエスカレートし、学生5人に対して警察がFIRを登録しました。水不足は深刻な社会不安を引き起こしています。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Clashes reported across Manipur as protests over bombing intensify",
-          "location": "Manipur, India",
-          "severity": 75,
-          "description": "マニプール州で爆弾事件に対する抗議が激化し、地域全体で衝突が発生、5日間のシャットダウンが呼びかけられました。地域紛争と暴力の連鎖が社会を混乱させています。",
-          "source": "National Herald, NewsGram"
-        },
-        {
-          "title": "Protest over LPG shortage by AAP councillors, widespread labour fury in NCR",
-          "location": "NCR, India",
-          "severity": 65,
-          "description": "LPG（液化石油ガス）不足に対する抗議活動が市議会を混乱させ、NCR地域全体で「労働者の怒り」が広がっています。生活必需品の不足が社会不安の大きな要因となっています。",
-          "source": "MSN, The New Indian Express"
-        },
-        {
-          "title": "China’s armed police mull riot control with zero human contact",
+          "title": "中国武装警察、非接触型暴動鎮圧策を検討",
           "location": "China",
-          "severity": 40,
-          "description": "中国の武装警察が、人間との接触を伴わない暴動鎮圧技術の検討を進めています。これは、国内での潜在的な社会不安や大規模な抗議活動への政府の警戒姿勢を示唆します。",
+          "severity": 60,
+          "description": "中国の武装警察が人間との接触なしで暴動を鎮圧する策を検討。これは、政府が潜在的な大規模な社会不安や抗議活動のリスクを警戒している状況を明確に示唆する。",
           "source": "South China Morning Post"
+        },
+        {
+          "title": "韓国産業銀行、商業銀行にサムスン融資損失受け入れを圧力",
+          "location": "South Korea",
+          "severity": 50,
+          "description": "韓国政府系の韓国産業銀行が、商業銀行に対しサムスン関連融資の損失受け入れを圧力。企業間の問題だが、金融システム全体への影響が懸念され、経済の不確実性が増している。",
+          "source": "Seoul Economic Daily"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 40,
-      "status": "stable",
-      "main_cause": "Labor disputes.",
+      "panic_index": 82,
+      "status": "critical",
+      "main_cause": "生活必需品不足、紛争、労働者デモの暴力化",
       "incidents": [
         {
-          "title": "Sacked staff of six Islamic banks rally in Motijheel, demand reinstatement",
-          "location": "Motijheel, Bangladesh",
-          "severity": 40,
-          "description": "バングラデシュのモチジールで、6つのイスラム銀行の解雇された職員が再雇用を求めて集会を開きました。これは特定の金融セクターにおける労働争議と不安を示しています。",
-          "source": "The Daily Star"
+          "title": "マニプール州の社会不安激化、暴力化と5日間シャットダウン",
+          "location": "Manipur, India",
+          "severity": 90,
+          "description": "マニプール州での爆発事件への抗議が激化し、暴力化。5日間のシャットダウンが呼びかけられ、地域社会の機能が停止。紛争と社会不安が極めて深刻なレベルに達している。",
+          "source": "NewsGram"
+        },
+        {
+          "title": "インドで飲用水不足への抗議が暴力化",
+          "location": "India",
+          "severity": 80,
+          "description": "ベナレス・ヒンドゥー大学で飲用水不足への抗議が暴力化し、5人の学生が告発された。生活必需品の欠乏が直接的な暴動に繋がり、社会秩序が脅かされている。",
+          "source": "The Times of India"
+        },
+        {
+          "title": "ナガランド州で原因不明の燃料パニック買い",
+          "location": "Nagaland, India",
+          "severity": 80,
+          "description": "ナガランド州で原因不明の燃料パニック買いが発生し、給油所に長い列が形成。供給不安による消費者の典型的なパニック行動であり、社会インフラへの圧力が増大している。",
+          "source": "MorungExpress"
+        },
+        {
+          "title": "インド・ジンド市でLPG不足が抗議デモを誘発",
+          "location": "Jind, India",
+          "severity": 75,
+          "description": "ジンド市でLPG（液化石油ガス）不足が抗議デモを引き起こし、警官が配備された。エネルギー不足が生活に直結し、市民の不満が爆発し、治安維持に当局が介入する事態。",
+          "source": "MSN"
+        },
+        {
+          "title": "ノイダの労働者抗議デモが暴力化",
+          "location": "Noida, India",
+          "severity": 70,
+          "description": "ノイダでの労働者抗議デモが暴力化し、逮捕者が出る事態に。州政府は組織的グループとの関連を指摘しており、社会不安が広範にわたる可能性が懸念される。",
+          "source": "MSN"
         }
       ]
     }
