@@ -1,160 +1,96 @@
 {
   "date": "2026-04-20",
-  "summary": "世界各地で多様な社会不安が表面化しています。特にインドを中心とする東南アジアでは、労働者の大規模な抗議デモが暴徒化し、生活必需品の不足や金融不安が深刻化しています。中東では地政学的な緊張と政治的抑圧による広範な抗議が続き、一部では治安部隊との衝突も発生。仮想通貨市場では巨額の資金流出が発生し、実質的な取り付け騒ぎの様相を呈しています。全体としては中程度の緊迫状態にあり、一部地域では危機的な状況にあります。",
-  "global_panic_index": 62,
+  "summary": "世界各地では、経済的ストレス、生活必需品不足、政治的緊張を背景とした社会不安が顕著に高まっています。特にインドでは労働者デモや燃料・水不足による抗議活動が多発し、一部で暴力化しています。中東では長引く紛争と政治的抑圧が根深い社会不安を助長。デジタル金融市場では大規模な資金流出が警戒され、グローバルな金融安定性への懸念も浮上しています。全体として警戒状態にあり、特定の地域ではパニックの兆候が見られます。",
+  "global_panic_index": 60,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "政治的二極化と社会不安",
+      "region": "middle_east",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "政治的抑圧、教育アクセス制限、入植者暴力、長期的な紛争",
       "incidents": [
         {
-          "title": "米国議会前での抗議活動",
-          "location": "米国、ワシントンD.C.",
+          "title": "西岸地区における教育アクセス拒否と入植者暴力への抗議",
+          "location": "西岸地区（パレスチナ）",
+          "severity": 65,
+          "description": "西岸地区では、教育アクセス拒否に対する学生や住民の抗議デモが頻発し、イスラエル軍による鎮圧が行われています。また、入植者による暴力も報告されており、地域住民の生活と社会秩序に深刻な影響を与え、緊張が高まっています。",
+          "source": "Al Jazeera, Anadolu Ajansı, tovima.com"
+        },
+        {
+          "title": "イランでの広範な抗議デモと弾圧の継続",
+          "location": "イラン",
+          "severity": 70,
+          "description": "イランでは100日間にわたり、社会階層を超えた広範な抗議デモが継続しており、政府による厳しい弾圧が行われています。この状況は国民の深い不満と広範な社会不安が根強く存在することを示唆しています。",
+          "source": "ایران اینترنشنال"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "労働問題、生活必需品不足、民族・地域間対立、経済的ストレス",
+      "incidents": [
+        {
+          "title": "ノイダにおける労働者抗議デモの暴力化と賃上げ交渉",
+          "location": "インド、ノイダ",
+          "severity": 60,
+          "description": "インドのノイダで発生した労働者の大規模な抗議デモが暴力化し、多数の逮捕者が出ました。政府は最低賃金の引き上げで対応していますが、外部組織による扇動も指摘され、企業の操業に影響を与え、地域社会に緊張をもたらしています。",
+          "source": "MSN, The Hindu, The New Indian Express"
+        },
+        {
+          "title": "マニプールでの爆撃抗議デモの暴力化と地域閉鎖",
+          "location": "インド、マニプール",
+          "severity": 65,
+          "description": "インドのマニプール州では、爆撃事件への抗議デモが激化し、地域全体で衝突が報告されています。事態の暴力化を受けて5日間のシャットダウンが実施されるなど、州内の社会秩序と住民の生活が大きく混乱し、パニック状態に陥っています。",
+          "source": "National Herald, NewsGram"
+        },
+        {
+          "title": "インド各地での燃料・水不足と抗議デモ",
+          "location": "インド（コルハン、BHUなど各地）",
           "severity": 55,
-          "description": "トランプ元大統領の精神状態に関する懸念から、議会議事堂前で抗議活動が発生。政治的な不信感が社会不安として現れています。",
-          "source": "AOL.com"
+          "description": "インドのコルハン地域ではガソリンポンプが枯渇し、一部地域ではLPGや飲用水の不足も発生。これら生活必需品の不足に対する抗議デモが各地で報告され、特にバラナシ・ヒンドゥー大学では暴力的な衝突に発展しています。",
+          "source": "MSN, The Times of India, The Avenue Mail, The New Indian Express"
+        },
+        {
+          "title": "バングラデシュの銀行員解雇に対する抗議デモ",
+          "location": "バングラデシュ、モチジール",
+          "severity": 45,
+          "description": "イスラム系銀行6行で解雇された従業員が、モチジールで再雇用を求める大規模な抗議デモを実施しました。これは特定の業界における雇用不安が社会不安につながる可能性を示唆しています。",
+          "source": "The Daily Star"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 45,
+      "panic_index": 40,
       "status": "unstable",
-      "main_cause": "社会秩序維持への懸念、潜在的な金融不安",
+      "main_cause": "潜在的な社会不安への政府の警戒、金融システム内部の圧力",
       "incidents": [
         {
-          "title": "中国武装警察の暴動鎮圧技術検討",
+          "title": "中国の武装警察によるゼロ接触暴動鎮圧技術の検討",
           "location": "中国",
-          "severity": 50,
-          "description": "中国の武装警察が人間との接触を伴わない暴動鎮圧技術を検討していると報じられ、潜在的な社会不安への政府の警戒姿勢が伺えます。",
+          "severity": 40,
+          "description": "中国の武装警察が、人間との接触を伴わない暴動鎮圧技術の導入を検討していると報じられました。これは、将来的な大規模な社会不安やデモの発生に備え、政府が警戒を強めていることを示唆しています。",
           "source": "South China Morning Post"
         },
         {
-          "title": "韓国における銀行間の損失負担問題",
-          "location": "韓国、ソウル",
+          "title": "韓国の国有銀行による商業銀行への損失受入れ圧力",
+          "location": "韓国",
           "severity": 30,
-          "description": "国営KDBが商業銀行に対し、サムスン関連融資の損失受け入れを圧力。金融システム内部の潜在的な不安定要因として注目されます。",
+          "description": "韓国の国有銀行であるKDBが、サムスン関連融資における損失を受け入れるよう商業銀行に圧力をかけていることが報じられました。これは金融システム内部の構造的な問題を示唆しており、潜在的な緊張をもたらしています。",
           "source": "Seoul Economic Daily"
         }
       ]
-    },
+    }
+  ],
+  "global_incidents_not_tied_to_region": [
     {
-      "region": "middle_east",
-      "panic_index": 60,
-      "status": "volatile",
-      "main_cause": "地政学的緊張、政治的抑圧、教育・アクセス権の剥奪",
-      "incidents": [
-        {
-          "title": "イランにおける広範な抗議デモと弾圧",
-          "location": "イラン",
-          "severity": 65,
-          "description": "1月に発生した抗議デモが社会階級を超えて広がり、政府による大規模な弾圧が行われました。社会の根深い不満が表面化しています。",
-          "source": " ایران اینترنشنال"
-        },
-        {
-          "title": "パレスチナ人による「自由の学校」設置",
-          "location": "パレスチナ、ヨルダン川西岸",
-          "severity": 40,
-          "description": "有刺鉄線によって学校へのアクセスが遮断されたパレスチナの子供たちが「自由の学校」を開設。教育権の剥奪に対する抗議の動きです。",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "イスラエル軍による学生デモ鎮圧",
-          "location": "ヨルダン川西岸",
-          "severity": 45,
-          "description": "教育へのアクセス拒否に抗議する学生デモがイスラエル軍によって鎮圧されました。現地の緊張状態が続いています。",
-          "source": "Anadolu Ajansı"
-        },
-        {
-          "title": "入植者の暴力に対する批判",
-          "location": "ヨルダン川西岸",
-          "severity": 50,
-          "description": "元イスラエル首相がヨルダン川西岸における入植者の暴力行為を強く批判。地域内の社会不安を助長する要因となっています。",
-          "source": "tovima.com"
-        },
-        {
-          "title": "UAEによる金融システムリスク言及",
-          "location": "アラブ首長国連邦 (UAE)",
-          "severity": 40,
-          "description": "UAEがイラン戦争の余波についてトランプを非難し、ドル不足の場合には人民元への切り替えも検討していると報道。地政学的リスクが金融に波及する可能性が示唆されています。",
-          "source": "Moneycontrol.com"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "地域紛争への連帯、政治的抗議",
-      "incidents": [
-        {
-          "title": "モロッコにおけるパレスチナ連帯デモ",
-          "location": "モロッコ",
-          "severity": 45,
-          "description": "モロッコでイスラエルの死刑制度に抗議する親パレスチナ集会が開催されました。中東情勢がアフリカ大陸にも影響を及ぼしています。",
-          "source": "Ahram Online"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 70,
-      "status": "critical",
-      "main_cause": "労働争議、生活必需品不足、金融危機、地域紛争の激化",
-      "incidents": [
-        {
-          "title": "インド・Noidaでの労働者抗議デモの暴徒化と逮捕",
-          "location": "インド、Noida",
-          "severity": 75,
-          "description": "大規模な労働者抗議が暴力化し、300人以上の逮捕者が出る事態に。賃上げ等の要求が出され、治安が強化されています。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド・マニプールでの衝突激化とシャットダウン",
-          "location": "インド、マニプール",
-          "severity": 75,
-          "description": "爆撃への抗議デモが暴力的な衝突に発展し、5日間のシャットダウンが宣言されるなど、地域紛争が深刻なパニック状況にあります。",
-          "source": "NewsGram"
-        },
-        {
-          "title": "協同組合銀行での現金危機と口座保有者による抗議",
-          "location": "インド",
-          "severity": 70,
-          "description": "協同組合銀行が深刻な現金危機に陥り、口座保有者が銀行を封鎖する事態に発展。金融システムへの信頼が揺らいでいます。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド・Kolhanにおける燃料危機",
-          "location": "インド、Kolhan",
-          "severity": 70,
-          "description": "Kolhan地域で燃料危機が発生し、多くのガソリンスタンドでガソリンが枯渇。生活に不可欠なエネルギー供給の不安が広がっています。",
-          "source": "The Avenue Mail"
-        },
-        {
-          "title": "インドにおけるLPG供給危機",
-          "location": "インド",
-          "severity": 60,
-          "description": "LPGの供給危機により、一般家庭の調理用ガス不足が深刻化。これに対する抗議活動も活発化し、社会不安を増大させています。",
-          "source": "MSN / The New Indian Express"
-        }
-      ]
-    },
-    {
-      "region": "global_finance",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "デジタル資産の脆弱性、流動性危機",
-      "incidents": [
-        {
-          "title": "DeFi市場からの100億ドル引き出し",
-          "location": "グローバル (デジタル通貨市場)",
-          "severity": 70,
-          "description": "約2.92億ドルのエクスプロイトをきっかけに、DeFi（分散型金融）市場から100億ドルもの資金が引き出されました。これはデジタル資産市場における実質的な取り付け騒ぎに相当します。",
-          "source": "CryptoSlate / CryptoRank / BitPinas"
-        }
-      ]
+      "title": "DeFi市場での大規模な資金流出とハッキングによる「デジタル取り付け騒ぎ」",
+      "location": "グローバル（デジタル資産市場）",
+      "severity": 70,
+      "description": "約3億ドルのハッキング事件が引き金となり、分散型金融（DeFi）市場から100億ドル規模の資金が流出しました。これはAaveなどの主要プラットフォームで流動性危機とデジタル資産の取り付け騒ぎを引き起こし、投資家の間でパニックが広がっています。",
+      "source": "CryptoSlate, CryptoRank, Businessday NG, HarianBasis.co, BitPinas"
     }
   ]
 }
