@@ -1,100 +1,149 @@
 {
-  "date": "2026-04-19",
-  "summary": "各地で社会不安が顕在化しており、特に南アジア地域（東南アジアとして集計）では、大規模な労働者抗議デモが暴力化し、爆発による集団パニックも発生。燃料不足や金融不安も深刻化し、社会秩序が脅かされています。中東では民族対立に起因する暴力や抗議活動が続き、情勢は依然として緊迫。北米、欧州、アフリカ、東アジアでも限定的な抗議や政治的対立が見られますが、広範なパニックには至っていません。",
-  "global_panic_index": 60,
+  "date": "2026-04-20",
+  "summary": "現在、世界全体では中程度の社会不安が見られます。特に中東では地域紛争と政治的緊張による暴力が継続し、東アジアではインドを中心に労働者の不満、基本的な生活必需品（水、LPG）の不足による抗議デモが広範に発生しています。一部では暴力化や組織的な扇動の兆候が見られ、金融セクターの雇用問題も懸念材料です。全体的に、経済格差、資源不足、政治的抑圧が主要な不安要因となっています。",
+  "global_panic_index": 50,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "政治的不安定、社会的分断",
+      "region": "middle_east",
+      "panic_index": 60,
+      "status": "volatile",
+      "main_cause": "政治的抑圧、地域紛争、民族間対立",
       "incidents": [
         {
-          "title": "トランプ氏の精神能力に関する懸念と抗議デモ",
-          "location": "米国（US Capitol）",
-          "severity": 45,
-          "description": "米国議会議事堂外で、ドナルド・トランプ元大統領の精神的能力に関する懸念から抗議デモが発生。政治的な緊張が高まり、社会的な不安が報じられているが、広範な混乱には至っていない。",
-          "source": "AOL.com"
+          "title": "West Bank settler violence, arson",
+          "location": "West Bank",
+          "severity": 70,
+          "description": "ヨルダン川西岸で覆面をした入植者による家屋や車両への放火事件が発生。地域住民への直接的な暴力がエスカレートしており、社会の緊張が高まっている。",
+          "source": "The Jerusalem Post"
+        },
+        {
+          "title": "Former Israeli Prime Minister Blasts West Bank Settler Violence",
+          "location": "West Bank",
+          "severity": 70,
+          "description": "元イスラエル首相がヨルダン川西岸の入植者暴力に対し「恥ずべき、容認できない」と非難。地域における暴力の深刻化と社会の分断を浮き彫りにする。",
+          "source": "tovima.com"
+        },
+        {
+          "title": "Iran’s January protests spread across social classes",
+          "location": "Iran",
+          "severity": 65,
+          "description": "イランで1月以降、社会階級を越えて広範にわたる抗議デモが100日以上続き、社会に根深い不満と動揺が広がっている。",
+          "source": "ایران اینترنشنال"
+        },
+        {
+          "title": "100 days on: the anatomy of Iran’s January crackdown",
+          "location": "Iran",
+          "severity": 65,
+          "description": "イランにおける1月のデモに対する弾圧が100日経った今も分析されている。政府による厳しい対応は、社会の緊張と不安定さを反映している。",
+          "source": "ایران اینترنشنال"
+        },
+        {
+          "title": "Israeli forces quell West Bank student protest",
+          "location": "West Bank",
+          "severity": 40,
+          "description": "ヨルダン川西岸で、教育へのアクセス拒否に対する学生の抗議デモが発生し、イスラエル軍によって鎮圧された。地域住民の不満が顕在化している状況。",
+          "source": "Anadolu Ajansı"
         }
       ]
     },
     {
-      "region": "middle_east",
+      "region": "east_asia",
       "panic_index": 65,
       "status": "volatile",
-      "main_cause": "民族・政治的対立、社会的不満",
+      "main_cause": "資源不足（水・エネルギー）、労働条件への不満、経済格差",
       "incidents": [
         {
-          "title": "武装した入植者による家屋と車の放火",
-          "location": "ウエストバンク",
-          "severity": 65,
-          "description": "武装した入植者がウエストバンクで家屋と車に放火する事件が発生。地域の治安情勢が著しく悪化しており、住民間の緊張と報復の連鎖が懸念される、危険な状態。",
-          "source": "The Jerusalem Post"
+          "title": "LPG supply crisis: 10 kg cylinder soon?",
+          "location": "India",
+          "severity": 70,
+          "description": "インドでLPG供給危機が報じられ、不足が懸念されている。政府系石油会社が対応を検討しているが、生活必需品の不足は国民の不安を高める。",
+          "source": "MSN"
         },
         {
-          "title": "ウエストバンクでの学生抗議デモの鎮圧",
-          "location": "ウエストバンク、マサファー・ヤッタ",
-          "severity": 40,
-          "description": "教育へのアクセス拒否やその他の不満を訴える学生の非暴力抗議デモが、イスラエル軍や兵士によって鎮圧された。社会的不満がくすぶり、さらなる対立の火種となっている。",
-          "source": "Anadolu Ajansı / IMEMC News"
+          "title": "Noida workers’ protest: Pakistan link under scanner, 300 people arrested, wages hiked",
+          "location": "Noida, India",
+          "severity": 70,
+          "description": "ノイダの労働者デモでパキスタンとの関連が捜査され、300人が逮捕された。最低賃金の引き上げが行われたが、外部勢力介入の疑いは社会不安を増幅させる。",
+          "source": "MSN"
+        },
+        {
+          "title": "Labour fury: As kitchen stoves went cold, fire spread across NCR",
+          "location": "NCR, India",
+          "severity": 70,
+          "description": "NCR地域でLPG不足によりキッチンの火が消える事態が発生し、労働者の怒りが広がっている。エネルギー不足が社会不安を深刻化させている状況。",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "No Water for 3 Months: Palewada Residents Warn of Protest",
+          "location": "Palewada, India",
+          "severity": 70,
+          "description": "パレワダの住民が3ヶ月間の水不足に対し抗議デモを警告している。基本的な生活インフラの長期的な不足が、住民の深刻な不満と社会不安を引き起こしている。",
+          "source": "Prudent Media"
+        },
+        {
+          "title": "FIR against 5 BHU students after protest over drinking water shortage turns violent",
+          "location": "BHU, India",
+          "severity": 65,
+          "description": "BHUで飲料水不足に対する抗議デモが暴力化し、学生5人に対してFIRが提出された。生活必需品の不足が住民の行動を過激化させている。",
+          "source": "The Times of India"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 75,
-      "status": "critical",
-      "main_cause": "労働問題、金融不安、エネルギー不足、治安の悪化",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "金融不安、雇用問題",
       "incidents": [
         {
-          "title": "インドのレッドフォート付近での爆発と集団パニック",
-          "location": "インド（レッドフォート地域）",
-          "severity": 80,
-          "description": "インドのレッドフォート付近で爆発が発生し、人々が一斉に避難する集団パニックの様子が報じられた。突発的な事態による住民の恐怖と混乱が広がり、治安の悪化が懸念される。",
-          "source": "MSN"
-        },
-        {
-          "title": "ノイダ労働者抗議デモ：暴力、パキスタン関連の疑い、大規模逮捕",
-          "location": "インド（ノイダ）",
-          "severity": 70,
-          "description": "インドのノイダで発生した労働者抗議デモは暴力を伴い、パキスタンとの関連も疑われ、300人以上が逮捕された。事態は国際的な緊張をはらみ、社会秩序への影響が大きい。",
-          "source": "MSN"
-        },
-        {
-          "title": "カンボジアAPD銀行の取り付け騒ぎと資本増強",
-          "location": "カンボジア",
-          "severity": 70,
-          "description": "3月に発生した銀行の取り付け騒ぎを受け、APD銀行が2億2500万ドルの資本増強を実施。過去の取り付け騒ぎが依然として金融システムへの不信感を引き起こす可能性を示唆している。",
+          "title": "APD Bank Raises Capital to $225M After Bank Run in March",
+          "location": "Cambodia",
+          "severity": 75,
+          "description": "3月にAPD銀行で取り付け騒ぎが発生し、同行は2億2500万ドルの増資で対応した。過去の事象だが、金融システムへの不信感を示唆する。",
           "source": "Kiripost"
         },
         {
-          "title": "インドでのLPG供給危機",
-          "location": "インド",
-          "severity": 65,
-          "description": "インドではLPG（液化石油ガス）の供給危機が報じられ、10kgシリンダー導入の計画が進められている。生活必需品の不足は消費者の買いだめ行動や広範な社会不安を引き起こす可能性がある。",
-          "source": "MSN"
+          "title": "IU students lock admin building, main gate demanding justice for slain teacher",
+          "location": "IU, Bangladesh",
+          "severity": 50,
+          "description": "IUの学生が殺害された教師の正義を求め、管理棟と正門を封鎖した。学生の強い不満が大学の機能に影響を与えている。",
+          "source": "The Business Standard"
         },
         {
-          "title": "ネパールにおける燃料価格高騰と資材不足による建設業への打撃",
-          "location": "ネパール（チトワン）",
-          "severity": 65,
-          "description": "ネパールのチトワンでは、燃料価格の高騰と建設資材の不足により、プロジェクト建設が深刻な影響を受けている。経済活動への広範な悪影響が懸念され、国民生活にも影響が及ぶ可能性。",
-          "source": "myRepublica"
+          "title": "Hundreds gather in Motijheel demanding job reinstatement in five weak banks, return of S Alam",
+          "location": "Motijheel, Bangladesh",
+          "severity": 50,
+          "description": "モティジールで数百人が集まり、5つの弱体化した銀行での復職とS Alam氏の復帰を求めた。金融セクターにおける雇用不安が深刻化している。",
+          "source": "The Business Standard"
+        },
+        {
+          "title": "Sacked staff of six Islamic banks rally in Motijheel, demand reinstatement",
+          "location": "Motijheel, Bangladesh",
+          "severity": 45,
+          "description": "モティジールで6つのイスラム系銀行の解雇された従業員が集会を開き、復職を要求した。銀行セクターにおける労働不安が示唆される。",
+          "source": "The Daily Star"
+        },
+        {
+          "title": "Dismissed Bank Employees Demand Return of Islami Bank to S Alam",
+          "location": "Bangladesh",
+          "severity": 45,
+          "description": "解雇された銀行従業員がイスラミ銀行のS Alam氏への復帰を要求した。金融業界における雇用不安が表面化している。",
+          "source": "The Daily Campus"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 35,
+      "region": "north_america",
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "社会的分断、企業経営への不満",
+      "main_cause": "政治的二極化、意見の対立",
       "incidents": [
         {
-          "title": "チェルシーとストラスブールのファンによるオーナーシップに対する抗議",
-          "location": "イギリス（スタンフォード・ブリッジ）",
-          "severity": 35,
-          "description": "サッカークラブのチェルシーとストラスブールのファンが、共同オーナーであるBlueCoに対する抗議デモをスタンフォード・ブリッジで実施。特定の集団による不満表明であり、広範な社会パニックではない。",
-          "source": "Goal.com"
+          "title": "Americans panic over Trump 'mental capabilities' as protest erupts outside US Capitol",
+          "location": "US Capitol, USA",
+          "severity": 55,
+          "description": "トランプ氏の精神能力を巡る懸念が「パニック」として報じられ、米国議会議事堂外で抗議デモが発生した。政治的緊張が国民の間に不安を広げている。",
+          "source": "AOL.com"
         }
       ]
     },
@@ -102,29 +151,44 @@
       "region": "africa",
       "panic_index": 50,
       "status": "unstable",
-      "main_cause": "政治的不満、国際情勢",
+      "main_cause": "国際政治問題への抗議",
       "incidents": [
         {
-          "title": "モロッコでのイスラエル死刑法に反対する親パレスチナ集会",
-          "location": "モロッコ",
+          "title": "Moroccans protest Israel death penalty law at pro-Palestinian rally",
+          "location": "Morocco",
           "severity": 50,
-          "description": "モロッコで、イスラエルの死刑法に反対し、ガザでの戦争を巡る親パレスチナ集会が開催された。国際情勢に対する国民の不満が表明されているが、国内の混乱は限定的。",
+          "description": "モロッコで親パレスチナ集会が開かれ、イスラエルの死刑法に抗議した。これは国際的な問題が国内の社会不安を引き起こしている例である。",
           "source": "Ahram Online"
         }
       ]
     },
     {
-      "region": "east_asia",
+      "region": "australia",
       "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "経済的不平等",
+      "status": "stable",
+      "main_cause": "不明（経済的な影響を伴う長期的な社会問題）",
       "incidents": [
         {
-          "title": "SK hynixのボーナス配分を巡る論争",
-          "location": "韓国",
+          "title": "Australia’s oldest panic is now its most expensive one",
+          "location": "Australia",
           "severity": 40,
-          "description": "SK hynixが記録的なボーナスを出す中で、その一部を国民と共有すべきかという主張が議論を呼び、騒動となっている。経済的格差に対する社会的不満が表面化している状況。",
-          "source": "The Korea Times"
+          "description": "オーストラリアで「最古のパニック」が最も高価なものになっていると報じられた。具体的な事象は不明だが、過去からの社会不安が経済的影響を及ぼしている可能性。",
+          "source": "Neos Kosmos"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "特定グループの不満",
+      "incidents": [
+        {
+          "title": "Chelsea and Strasbourg fans unite in Stamford Bridge protest against BlueCo ownership",
+          "location": "London, UK",
+          "severity": 30,
+          "description": "チェルシーとストラスブールのファンがスタンフォード・ブリッジでBlueCoオーナーシップに抗議するデモを行った。特定のスポーツクラブの運営に対する不満が示された。",
+          "source": "Goal.com"
         }
       ]
     }

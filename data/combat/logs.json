@@ -1,5 +1,91 @@
 [
   {
+    "date": "2026-04-20",
+    "summary": "ペルシャ湾・ホルムズ海峡周辺で緊張が高まる。米海軍がイランへ向かう貨物船を攻撃、イラン海軍はホルムズ海峡を再び封鎖。ウクライナではドイツ製兵器のデータ共有が進む一方、バルト三国へのロシア侵攻の可能性も指摘されている。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-04-20",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "米海軍駆逐艦がイランへ向かう貨物船を攻撃",
+        "content": "米海軍駆逐艦スプルーアンスが、イランの港へ向かおうとした貨物船トゥスカのエンジンルームに5インチ砲を複数発射し、航行不能にした。CENTCOMが発表。",
+        "involved_parties": [
+          "アメリカ海軍",
+          "貨物船Touska"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/20/us-navy-destroyer-fires-on-cargo-vessel-attempting-to-sail-to-iranian-port/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-04-18",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "イラン海軍がホルムズ海峡を再び封鎖",
+        "content": "土曜日、ホルムズ海峡を通過しようとした商船がイラン海軍から無線メッセージを受け、通行を許可されなかった。複数の船舶が銃撃を受けたと報告。",
+        "involved_parties": [
+          "イラン海軍",
+          "商船"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/18/vessels-report-being-hit-by-gunfire-as-iran-says-strait-of-hormuz-shut-again/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2025-12",
+        "location": "台湾周辺海域",
+        "region": "east_asia",
+        "title": "中国軍が台湾周辺で大規模な軍事演習を実施",
+        "content": "中国軍の軍艦と戦闘機が2025年12月に台湾周辺で大規模な軍事演習を実施。同時に、スマートフォンを通じて台湾に対する情報戦を展開。",
+        "involved_parties": [
+          "中国軍",
+          "台湾"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/17/china-turns-taiwans-own-voices-against-it-in-information-war/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-04-15",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ドイツ製兵器のウクライナにおける戦闘データ共有協定",
+        "content": "ドイツ製兵器（Panzerhaubitze 2000、RCH-155、IRIS-T）のウクライナにおける戦闘データ共有に関する新たな二国間協定が締結。ドイツは実戦データを収集。",
+        "involved_parties": [
+          "ドイツ",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-04-13",
+        "location": "バルト三国",
+        "region": "europe",
+        "title": "ロシアが90日間でバルト三国を制圧可能との研究",
+        "content": "ロシアがNATO加盟国であるバルト三国を攻撃した場合、90日間で制圧可能とする研究結果が発表された。ただし、当局者やアナリストの間ではロシアの侵攻意欲に対する見解が分かれている。",
+        "involved_parties": [
+          "ロシア",
+          "バルト三国"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/13/study-suggests-russia-could-conquer-baltic-states-in-90-days/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-19",
     "summary": "ホルムズ海峡でイランが船舶への銃撃を実施、航行を再び遮断。中国は台湾周辺で軍事演習を実施し、情報戦を展開。EUはウクライナ戦争の教訓を基に防衛R&Dに投資。",
     "events": [
@@ -4859,124 +4945,6 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/03/20/two-suspected-iranian-spies-reportedly-arrested-near-uk-submarine-base/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-21",
-    "summary": "中東地域で緊張が高まる。アメリカ軍はイランのミサイル施設を攻撃し、ホルムズ海峡ではA-10攻撃機がイランの高速艇を標的とした。イスラエルはレバノンでヒズボラに対する地上侵攻を継続。ウクライナは中東5か国にドローン迎撃部隊を派遣。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-03-19",
-        "location": "レバノン",
-        "region": "middle_east",
-        "title": "イスラエル軍、レバノンでヒズボラに対する地上侵攻を開始",
-        "content": "イスラエル軍がレバノンにおいて、ヒズボラに対する地上侵攻を開始。アメリカとイスラエルの対イラン戦争とは別だが、両紛争の動向は相互に影響を与えるとみられる。",
-        "involved_parties": [
-          "イスラエル軍",
-          "ヒズボラ"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/19/israel-forges-ahead-on-ground-incursion-against-hezbollah-in-lebanon/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-03-19",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "アメリカ軍、イランの地下ミサイル貯蔵施設を攻撃",
-        "content": "アメリカ軍が、新型の5,000ポンド貫通爆弾を使用し、イランの地下ミサイル貯蔵施設を攻撃した。これが同爆弾の初の戦闘使用となる。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "bombing",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/us-strikes-iranian-underground-missile-storage-with-5000-pound-penetrator/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-03-19",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "A-10攻撃機、ホルムズ海峡でイランの高速艇を攻撃",
-        "content": "A-10攻撃機が、ホルムズ海峡において作戦行動を実施し、イランの高速攻撃艇を攻撃した。アメリカ空軍がA-10の退役を進める中での今回の派遣となった。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-air-force/2026/03/19/a-10-warthogs-target-iranian-fast-attack-craft-in-strait-of-hormuz/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-03-20",
-        "location": "中東5か国",
-        "region": "middle_east",
-        "title": "ウクライナ、中東5か国にドローン迎撃部隊を派遣",
-        "content": "ウクライナが、中東の5か国にドローン迎撃部隊を派遣。支援の見返りとして資金と技術を要求しており、アメリカも支援を求めた国の一つであると報じられている。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "中東各国軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/20/ukraine-deploys-units-to-5-middle-east-countries-to-intercept-drones/"
-      },
-      {
-        "id": "event-5",
-        "timestamp": "2026-03-16",
-        "location": "サウジアラビア",
-        "region": "middle_east",
-        "title": "イランのミサイル攻撃でサウジアラビアのKC-135タンカー5機が損傷",
-        "content": "イランによるミサイル攻撃により、サウジアラビアに駐機されていたKC-135空中給油機5機が損傷した。航空機は破壊を免れた。",
-        "involved_parties": [
-          "イラン軍",
-          "サウジアラビア軍"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/"
-      },
-      {
-        "id": "event-6",
-        "timestamp": "2026-03-20",
-        "location": "スコットランド",
-        "region": "europe",
-        "title": "イギリスの原子力潜水艦基地付近でイランのスパイ容疑者2名を逮捕",
-        "content": "イギリスのスコットランドにある原子力潜水艦基地への侵入を試みたとして、イランのスパイ容疑者2名が逮捕されたと報道された。",
-        "involved_parties": [
-          "イギリス当局",
-          "イラン諜報機関"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/20/two-suspected-iranian-spies-reportedly-arrested-near-uk-submarine-base/"
-      },
-      {
-        "id": "event-7",
-        "timestamp": "2026-03-18",
-        "location": "トルコ",
-        "region": "europe",
-        "title": "トルコ、イランのミサイルを迎撃するため3基目のNATOパトリオットシステムを配備",
-        "content": "トルコがイランのミサイル攻撃に対抗するため、3基目のNATOパトリオットミサイルシステムを配備した。これにより、トルコに配備されたNATOのパトリオットバッテリーは3基となる。",
-        "involved_parties": [
-          "トルコ軍",
-          "NATO"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/18/turkey-deploys-third-nato-patriot-system-to-repel-iranian-missiles/"
       }
     ]
   }

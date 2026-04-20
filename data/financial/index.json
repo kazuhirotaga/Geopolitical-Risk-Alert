@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-04-20",
+    "summary": "中東情勢の緊迫化が原油価格高騰と市場の不確実性を招き、暗号資産市場では大規模ハッキングや規制強化の懸念が強まっています。AI分野への投資は活発ですが、既存産業との軋轢も生じています。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "high",
+      "north_america": "low",
+      "europe": "medium",
+      "east_asia": "medium"
+    },
+    "generated_at": "2026-04-20T03:22:28.776219"
+  },
+  {
     "date": "2026-04-19",
     "summary": "米国とイランの緊張激化によるエネルギー価格高騰、DeFiハッキングによる暗号資産市場の混乱、AI分野への投資集中がリスク要因。一方、株式市場は債券利回りの低下と主要テック企業の回復により底堅さを見せている。",
     "overall_risk_level": "high",
