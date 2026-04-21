@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-21",
-    "summary": "中東情勢が緊迫化し、米イラン間の対立が深刻化。ウクライナ情勢も依然として不安定で、東アジアでは中国の軍事活動が活発化。世界全体で地政学的リスクが高まっている。",
+    "summary": "中東における米イラン間の緊張激化、ウクライナ情勢の悪化、北朝鮮の軍事挑発など、地政学的リスクが高まっている。特に中東情勢は停戦協議の不確実性から、さらなる紛争拡大の懸念がある。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
-      "southeast_asia": "medium",
-      "south_asia": "medium",
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "high",
       "central_asia": "none",
-      "middle_east": "critical",
-      "europe": "medium",
+      "middle_east": "high",
+      "europe": "high",
       "africa": "medium",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-04-21T05:31:51.970799"
+    "generated_at": "2026-04-21T19:19:49.872831"
   },
   {
     "date": "2026-04-20",
