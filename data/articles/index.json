@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-21",
+    "summary": "中東情勢が極めて不安定。イランを巡る米国の動き、イスラエルとレバノンの衝突、ホルムズ海峡の緊張などリスク要因が集中。ウクライナ情勢も依然として深刻。東アジアでは中国の軍事活動と輸出規制が懸念される。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "high",
+      "southeast_asia": "medium",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "medium",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-04-21T02:55:15.510404"
+  },
+  {
     "date": "2026-04-20",
     "summary": "中東における米イラン間の緊張が激化し、ウクライナ情勢も依然として不安定。東アジアでは中国の軍事活動が活発化し、地政学的リスクが高まっている。エネルギー市場への影響も懸念される。",
     "overall_risk_level": "high",
