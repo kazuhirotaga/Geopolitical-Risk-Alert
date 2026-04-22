@@ -1,5 +1,19 @@
 [
   {
+    "id": "9bad05bf09ab",
+    "title": "米イラン停戦延長「３～５日」報道も イラン側は封鎖解除迫る",
+    "summary": "イランとの停戦の期限が迫る中、アメリカのトランプ大統領は「停戦を延長する」と明らかにし、アメリカのメディアは、トランプ大統領が追加で3日から5日の停戦期間を与える意向だと伝えました。一方、イラン側では、イラバニ国連大使がアメリカによる海上封鎖を停戦違反だとして改めて解除を迫るなど、双方の立場の隔たりは大きく、今後の協議の行方は不透明な状況が続いています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260422/k10015105251000.html",
+    "published": "2026-04-22T19:13:42+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
     "id": "af9956bdbd27",
     "title": "【随時更新】ロシア ウクライナに軍事侵攻（4月22日の動き）",
     "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる22日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
@@ -11,20 +25,6 @@
     "regions": [
       "east_asia",
       "europe"
-    ]
-  },
-  {
-    "id": "957e8f791ab4",
-    "title": "トランプ大統領 停戦延長も海上封鎖は継続 協議の行方は不透明",
-    "summary": "アメリカのトランプ大統領は、イランとの停戦の期限が迫るなか、「停戦を延長する」と明らかにした一方、アメリカ軍にイランの港に出入りする船舶への封鎖措置の継続を指示しました。イラン側では「海上封鎖の継続は敵対行為に等しい」と伝えられるなど、双方の立場の隔たりは大きく、今後の協議の行方は不透明な状況です。",
-    "url": "http://www3.nhk.or.jp/news/html/20260422/k10015105251000.html",
-    "published": "2026-04-22T16:11:21+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "middle_east",
-      "north_america"
     ]
   },
   {
@@ -71,6 +71,74 @@
     ]
   },
   {
+    "id": "9b79b02c3c8a",
+    "title": "Russia strikes Ukraine’s Odesa port, kills railway worker in Zaporizhia",
+    "summary": "Ukraine's deputy prime minister says the attacks on the country's civilian infrastructure are 'another proof of terrorism'.",
+    "url": "https://www.aljazeera.com/news/2026/4/22/russian-drone-attacks-in-ukraine-strike-odesa-port-and-kill-railway-worker?traffic_source=rss",
+    "published": "2026-04-22T09:16:22+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "7d463f8933dd",
+    "title": "Israel attacks mosque in Lebanon in another ceasefire violation",
+    "summary": "Israel attacks mosque in Lebanon in another ceasefire violation",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israel-attacks-mosque-in-lebanon-in-another-ceasefire-violation?traffic_source=rss",
+    "published": "2026-04-22T09:15:13+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "b89b52631f8e",
+    "title": "Gaza’s unseen casualties: A surge in stillbirths and birth defects",
+    "summary": "Gaza sees a 140% rise in stillbirths and a doubling of congenital anomalies as the devastating impacts of war linger.",
+    "url": "https://www.aljazeera.com/features/2026/4/22/gazas-unseen-casualties-a-surge-in-stillbirths-and-birth-defects?traffic_source=rss",
+    "published": "2026-04-22T09:02:55+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east",
+      "africa"
+    ]
+  },
+  {
+    "id": "6e1f258b756c",
+    "title": "South Korean fighter jets collided due to pilots snapping pictures, report finds",
+    "summary": "One of the pilots has been fined thousands of dollars by the military to cover repair costs.",
+    "url": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-22T08:35:34+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia",
+      "north_america"
+    ]
+  },
+  {
+    "id": "2dc316ab3ea9",
+    "title": "How China is gaining from Iran war by showing it is different from US",
+    "summary": "Beijing has leveraged its strong economic relationship with the US, Israel, Iran and the Gulf to keep its stakes safe.",
+    "url": "https://www.aljazeera.com/news/2026/4/22/how-china-is-gaining-from-iran-war-by-showing-it-is-different-from-us?traffic_source=rss",
+    "published": "2026-04-22T08:24:25+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia",
+      "middle_east"
+    ]
+  },
+  {
     "id": "6c75bca21a49",
     "title": "プーチン大統領は侵攻継続意向 ゼレンスキー大統領は対抗方針",
     "summary": "ロシアのプーチン大統領は「われわれの結束があってこそ、特別軍事作戦の目標を達成できる」と述べ、ウクライナ侵攻を継続する意向を改めて示しました。一方、ウクライナのゼレンスキー大統領はロシアに対抗する作戦を継続する方針を重ねて強調しました。",
@@ -81,6 +149,19 @@
     "language": "ja",
     "regions": [
       "europe"
+    ]
+  },
+  {
+    "id": "f4392888dc6f",
+    "title": "Iran’s UN ambassador responds to US ceasefire extension",
+    "summary": "Iran’s UN Ambassador has responded to US President Donald Trump’s announcement of an extension to the ceasefire.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/irans-un-ambassador-responds-to-us-ceasefire-extension?traffic_source=rss",
+    "published": "2026-04-22T07:33:42+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -165,7 +246,7 @@
   {
     "id": "47c341aa8c9e",
     "title": "Trump buys time for Iran deal after frantic day of diplomacy",
-    "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time",
+    "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
     "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
     "published": "2026-04-22T00:32:10+00:00",
     "source_name": "BBC - World",
@@ -176,8 +257,8 @@
     ]
   },
   {
-    "id": "89b7cb1ffd29",
-    "title": "Iran war live: Trump says ceasefire extended as talks with Tehran in limbo",
+    "id": "f28bade35b09",
+    "title": "Iran war live: IRGC seizes two vessels in Strait of Hormuz amid US blockade",
     "summary": "Lebanon's disaster management unit raises death toll from weeks of Israeli attacks to 2,454, with 7,658 people injured.",
     "url": "https://www.aljazeera.com/news/liveblog/2026/4/22/iran-war-live-trump-says-ceasefire-extended-as-talks-with-tehran-in-limbo?traffic_source=rss",
     "published": "2026-04-22T00:00:00+00:00",
@@ -215,6 +296,19 @@
     ]
   },
   {
+    "id": "1be17fe5318e",
+    "title": "Meta to track workers' clicks and keystrokes to train AI",
+    "summary": "The firm will take data from the way employees work for its artificial intelligence models.",
+    "url": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-21T22:47:56+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
     "id": "b275e80d2408",
     "title": "Real Madrid close on Barcelona as Mbappe and Vinicius net against Alaves",
     "summary": "Real Madrid beat relegation-threatened Alaves 2-1 in La Liga to close the gap with leaders Barcelona to six points.",
@@ -225,33 +319,6 @@
     "language": "en",
     "regions": [
       "global"
-    ]
-  },
-  {
-    "id": "4e9a0137f5ba",
-    "title": "Myanmar’s military government rebuffed on peace talks offer",
-    "summary": "Min Aung Hlaing elected by parliament as president earlier this month after election derided as a sham.",
-    "url": "https://www.aljazeera.com/news/2026/4/21/myanmars-military-government-rebuffed-on-peace-talk-offer?traffic_source=rss",
-    "published": "2026-04-21T21:21:37+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "southeast_asia"
-    ]
-  },
-  {
-    "id": "62f8be3f49bb",
-    "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
-    "summary": "The Trump administration targets 14 individuals and entities over alleged links to Iran's arms industry.",
-    "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss",
-    "published": "2026-04-21T20:42:21+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "south_asia",
-      "middle_east"
     ]
   },
   {
@@ -269,59 +336,6 @@
     ]
   },
   {
-    "id": "fcfc11d78204",
-    "title": "EU eyes options as Iran conflict threatens jet fuel shortages",
-    "summary": "The blockade of the Strait of Hormuz is causing concern in Europe, which relies heavily on imported jet fuel.",
-    "url": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss",
-    "published": "2026-04-21T20:33:13+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "europe"
-    ]
-  },
-  {
-    "id": "55c755bf961e",
-    "title": "Sudan refugees returning home face new ‘struggle for survival’: UN",
-    "summary": "Returnees find chronic need for investment with homes, water supplies, health provision, electricity 'heavily damaged'.",
-    "url": "https://www.aljazeera.com/news/2026/4/21/sudan-refugees-returning-home-face-new-struggle-for-survival-un?traffic_source=rss",
-    "published": "2026-04-21T20:32:32+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
-    "id": "e348ef305a0a",
-    "title": "Trump announces Iran ceasefire extension but says blockade remains",
-    "summary": "US president says attacks will be held off until Iranian leaders 'come up with a unified proposal' to end war.",
-    "url": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains?traffic_source=rss",
-    "published": "2026-04-21T20:22:17+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "ac76f47ed3a6",
-    "title": "Trump’s US Fed nominee Warsh vows independence, says he’s no ‘sock puppet’",
-    "summary": "Kevin Warsh's confirmation hearing shines spotlight on doubts over his independence as Trump pushes again for rate cuts.",
-    "url": "https://www.aljazeera.com/economy/2026/4/21/trumps-us-fed-nominee-warsh-vows-independence-says-hes-no-sock-puppet?traffic_source=rss",
-    "published": "2026-04-21T20:05:52+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "7ccface39e97",
     "title": "米イラン協議 停戦期限迫る中 実現に向けて駆け引き続く",
     "summary": "アメリカとイランの2回目の対面協議をめぐり、アメリカのメディアは、バンス副大統領が21日朝までに仲介国パキスタンの首都イスラマバードに向けて出発する見込みだとしたほか、イラン側も最高指導者モジタバ・ハメネイ師が協議への参加を許可したと伝えました。ただイラン議会のガリバフ議長はアメリカ側の対応が変わらないかぎり、協議に参加しないとしていて、停戦の期限が迫る中、双方の駆け引きが続いています。",
@@ -334,6 +348,19 @@
       "south_asia",
       "middle_east",
       "north_america"
+    ]
+  },
+  {
+    "id": "036f843ae58f",
+    "title": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
+    "summary": "He denied making a deal with Donald Trump on interest rates and backed \"policy regime change\" at the central bank.",
+    "url": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-21T18:59:39+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
     ]
   },
   {
@@ -468,19 +495,6 @@
     ]
   },
   {
-    "id": "b72ef001af1e",
-    "title": "The Onion launches new effort to turn Infowars into parody website",
-    "summary": "The new proposal would involve the publication licensing Alex Jones's company, which faces liquidation.",
-    "url": "https://www.bbc.com/news/articles/ckgr7dw55lwo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-21T09:28:46+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "249cb7512f79",
     "title": "原油などの対ロ制裁再解除に ロシア“重要性 踏まえた対応を”",
     "summary": "アメリカがイラン情勢に伴いロシア産の原油などを対象とした制裁を再び解除したことについて、ロシア大統領府の報道官は「ロシアの供給量を無視することは非常に困難だ」と述べ、各国はエネルギー市場でのロシアの重要性を踏まえた対応をとるべきだという認識を示しました。",
@@ -517,19 +531,6 @@
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
-    "regions": [
-      "east_asia"
-    ]
-  },
-  {
-    "id": "18f05f2360d0",
-    "title": "Japan on high alert for 'huge' second quake after lifting tsunami warning",
-    "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week.",
-    "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-21T01:31:27+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
     "regions": [
       "east_asia"
     ]
@@ -776,19 +777,6 @@
     "language": "ja",
     "regions": [
       "east_asia",
-      "europe"
-    ]
-  },
-  {
-    "id": "b2286a9c9b64",
-    "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
-    "summary": "A DNA and legal project has identified the fathers of 20 children born near a military base in Kenya.",
-    "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-19T23:07:52+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
       "europe"
     ]
   },
