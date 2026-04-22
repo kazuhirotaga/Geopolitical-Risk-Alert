@@ -1,8 +1,23 @@
 [
   {
     "date": "2026-04-22",
-    "summary": "中東地域で緊張が高まる。ホルムズ海峡が再び封鎖され、イランに向かう貨物船が攻撃を受ける。バルト三国はイラン戦争の影響で武器の輸送遅延に直面。一方、米国は自律型部隊を立ち上げ、各国は防衛投資を拡大。",
+    "summary": "中東地域における緊張が継続。ホルムズ海峡が再び封鎖され、アメリカ海軍がイランに向かう貨物船を攻撃。バルト三国はイラン戦争による武器供給遅延に警戒。一方、各国は防衛戦略と装備の近代化を推進。",
     "events": [
+      {
+        "id": "event-004",
+        "timestamp": "2026-04-21",
+        "location": "米国",
+        "region": "etc",
+        "title": "米南方軍が自律型部隊を立ち上げ",
+        "content": "米南方軍が、自律型、半自律型、無人プラットフォームに対応するための自律型部隊を立ち上げ。この新部隊は、あらゆる領域における脅威に対抗することを目的とする。",
+        "involved_parties": [
+          "米南方軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/21/us-southern-command-stands-up-autonomous-unit/"
+      },
       {
         "id": "event-001",
         "timestamp": "2026-04-20",
@@ -54,19 +69,54 @@
         "source_url": "https://www.defensenews.com/global/europe/2026/04/20/baltic-nations-brace-for-impact-of-iran-war-delaying-us-weapons-shipments/"
       },
       {
-        "id": "event-004",
-        "timestamp": "2026-04-21",
-        "location": "米国",
-        "region": "etc",
-        "title": "米南方軍が自律型部隊を立ち上げ",
-        "content": "米南方軍が、自律型、半自律型、無人プラットフォームに対応するための自律型部隊を立ち上げ。この新部隊は、あらゆる領域における脅威に対抗することを目的とする。",
+        "id": "event-20260420-001",
+        "timestamp": "2026-04-20",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "イラン、ホルムズ海峡を再封鎖",
+        "content": "イラン海軍がホルムズ海峡を通過しようとする商船に対し、通過を許可しないと無線で警告。複数の船舶が銃撃を受けたと報告。",
         "involved_parties": [
-          "米南方軍"
+          "イラン海軍",
+          "商船"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/18/vessels-report-being-hit-by-gunfire-as-iran-says-strait-of-hormuz-shut-again/"
+      },
+      {
+        "id": "event-20260420-002",
+        "timestamp": "2026-04-20",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "米海軍、イランへ向かう貨物船を攻撃",
+        "content": "米海軍駆逐艦USSスプルーアンスが、イランの港へ向かおうとした貨物船Touskaのエンジンルームに対し、5インチ砲で複数回発砲、航行不能にしたとCENTCOMが発表。",
+        "involved_parties": [
+          "アメリカ海軍",
+          "貨物船Touska"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/20/us-navy-destroyer-fires-on-cargo-vessel-attempting-to-sail-to-iranian-port/"
+      },
+      {
+        "id": "event-20260420-003",
+        "timestamp": "2026-04-20",
+        "location": "バルト三国",
+        "region": "europe",
+        "title": "バルト三国、イラン戦争による武器供給遅延を懸念",
+        "content": "イラン戦争の影響で、アメリカからの弾薬供給の遅延が発生。バルト三国は、HIMARSユーザーとして、非ロッキードマーチン製のロケット弾の使用許可について検討の可能性。",
+        "involved_parties": [
+          "エストニア",
+          "ラトビア",
+          "リトアニア",
+          "アメリカ"
         ],
         "event_type": "other",
-        "urgency": "low",
+        "urgency": "medium",
         "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/21/us-southern-command-stands-up-autonomous-unit/"
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/20/baltic-nations-brace-for-impact-of-iran-war-delaying-us-weapons-shipments/"
       },
       {
         "id": "event-005",
@@ -75,6 +125,22 @@
         "region": "east_asia",
         "title": "中国、台湾に対する情報戦を展開",
         "content": "中国軍が台湾周辺で大規模な軍事演習を実施する一方で、スマートフォン画面上では並行して情報戦が展開されている。中国は台湾自身の声を逆手に取り、情報操作を行っている。",
+        "involved_parties": [
+          "中国",
+          "台湾"
+        ],
+        "event_type": "cyber",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/17/china-turns-taiwans-own-voices-against-it-in-information-war/"
+      },
+      {
+        "id": "event-20260417-001",
+        "timestamp": "2026-04-17",
+        "location": "台湾周辺",
+        "region": "east_asia",
+        "title": "中国、台湾に対する情報戦を展開",
+        "content": "中国軍が台湾周辺で大規模な軍事演習を実施した際、スマートフォンを通じて情報戦を展開。台湾国内の声を逆手に取り、世論を操作する試みを実施。",
         "involved_parties": [
           "中国",
           "台湾"

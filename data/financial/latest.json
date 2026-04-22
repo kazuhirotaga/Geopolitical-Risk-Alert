@@ -1,14 +1,65 @@
 {
   "date": "2026-04-22",
-  "summary": "地政学的リスクと金融政策の不確実性が市場を揺るがす。トランプ政権の政策動向、特にイランとの停戦延長や関税政策が、原油価格や株式市場に影響を与えている。暗号資産市場では、規制強化の動きや技術的な脆弱性が懸念される。",
+  "summary": "中東情勢の不安定化とインフレ懸念が市場を圧迫。日経平均は最高値を更新するも、アジア市場は概ね下落。原油価格は一時下落も、インフレ圧力は継続。暗号資産市場はボラティリティが高く、規制リスクも顕在化。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "Bitcoin climbs to $77,500 on Trump ceasefire extension, Strategy's $2.5 billion buy",
+      "title": "Japan's Nikkei 225 rises to record high in mixed Asia trading as Trump extends Iran ceasefire",
+      "region": "east_asia",
+      "risk_level": "medium",
+      "summary": "トランプ大統領によるイランとの一時停戦延長にもかかわらず、中東紛争の不確実性が高まり、アジア市場はまちまちの展開。日経平均は最高値を更新。",
+      "analysis": "日経平均の最高値更新は、一時的な楽観視によるものと考えられる。中東情勢の不安定化は、サプライチェーンの混乱や原油価格の高騰を通じて、アジア経済全体に悪影響を及ぼす可能性がある。特に、エネルギー輸入依存度の高い国は注意が必要。地政学的リスクがアジア市場の重石となる可能性が高い。",
+      "key_entities": [
+        "Nikkei 225",
+        "Trump"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "UK inflation jumps to 3.3% in March as fuel prices surge amid Iran war",
+      "region": "europe",
+      "risk_level": "high",
+      "summary": "イラン戦争の影響で燃料価格が急騰し、英国のインフレ率が3.3%に上昇。3年以上で最大の燃料価格上昇を記録。",
+      "analysis": "燃料価格の高騰は、輸送コストの増加や消費者物価の上昇を通じて、英国経済に深刻な影響を与える。インフレ率の上昇は、英国中央銀行による利上げを促し、景気後退のリスクを高める可能性がある。中東情勢の悪化が、欧州経済に直接的なインフレ圧力をもたらしている。",
+      "key_entities": [
+        "ONS",
+        "Bank of England"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Oil edges lower after Trump extends ceasefire with Iran",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "トランプ大統領によるイランとの停戦延長後、原油価格は一時的に下落したが、米国とイランの紛争の行方に対する不確実性は依然として残る。",
+      "analysis": "停戦延長は一時的な緩和をもたらしたが、根本的な問題は解決されていない。中東地域の地政学的リスクは依然として高く、原油価格の変動要因となる。今後の和平交渉の進展や、紛争再燃の可能性など、複数のシナリオを想定しておく必要がある。",
+      "key_entities": [
+        "Trump",
+        "Iran"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin climbs to $78,100 on Trump ceasefire extension, Strategy's $2.5 billion buy",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインがトランプ政権の停戦延長とStrategy社の巨額購入により77,500ドルまで上昇。市場心理の改善が見られる。",
-      "analysis": "ビットコイン価格の上昇は、地政学的リスクの緩和と機関投資家の参入が複合的に影響している。しかし、停戦の不安定さや規制リスクは依然として存在し、価格変動の要因となる可能性がある。Strategy社の巨額購入は市場にポジティブな影響を与える一方、特定の企業への依存度を高めるリスクも考慮する必要がある。今後の市場動向は、地政学的状況と機関投資家の動向に左右されるだろう。",
+      "summary": "トランプ大統領の停戦延長とStrategy社による25億ドルの購入により、ビットコインが78,100ドルまで上昇。",
+      "analysis": "ビットコイン価格の上昇は、地政学的リスクの緩和と大規模な買い支えによる複合的な要因によるものと考えられる。しかし、暗号資産市場は依然としてボラティリティが高く、規制リスクも存在する。今後の価格変動には注意が必要。",
       "key_entities": [
         "Bitcoin",
         "Strategy"
@@ -24,12 +75,13 @@
       "title": "Tron's Justin Sun sues Trump-linked World Liberty Financial over frozen assets",
       "region": "global",
       "risk_level": "medium",
-      "summary": "TronのJustin Sun氏が、トランプ政権と関連のあるWorld Liberty Financialを資産凍結を巡り提訴。法的リスクが浮上。",
-      "analysis": "Justin Sun氏の提訴は、暗号資産業界における規制リスクと法的紛争の増加を示唆している。World Liberty Financialがトランプ政権と関連がある場合、政治的な影響も考慮する必要がある。この訴訟の結果は、Tronだけでなく、他の暗号資産プロジェクトにも影響を与える可能性がある。特に、規制当局との関係や資産管理の透明性が重要となる。",
+      "summary": "TronのJustin Sun氏が、トランプ大統領と関係のあるWorld Liberty Financial社を、凍結された資産をめぐって提訴。",
+      "analysis": "この訴訟は、暗号資産業界における規制の不確実性と、政治的な影響力を示唆している。Tronの評判や、暗号資産市場全体への影響も注視する必要がある。",
       "key_entities": [
-        "Tron",
         "Justin Sun",
-        "World Liberty Financial"
+        "Tron",
+        "World Liberty Financial",
+        "Trump"
       ],
       "sources": [
         "CoinDesk"
@@ -39,77 +91,11 @@
       ]
     },
     {
-      "title": "Japan's Nikkei 225 rises to record high as Trump extends Iran ceasefire",
-      "region": "east_asia",
-      "risk_level": "low",
-      "summary": "日経平均株価がトランプ政権のイラン停戦延長を受け過去最高値を更新。アジア市場では対照的な動き。",
-      "analysis": "日経平均株価の上昇は、地政学的リスクの緩和が市場心理を改善させたことを示している。しかし、アジア市場全体では下落が見られることから、地域的な要因も考慮する必要がある。日本の経済状況や企業業績も株価上昇の要因と考えられる。今後の市場動向は、イラン情勢の安定化と日本の経済成長に左右されるだろう。",
-      "key_entities": [
-        "Nikkei 225"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Oil edge lower as fragile Iran ceasefire extension clouds outlook",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "原油価格がイラン停戦延長の不確実性から下落。中東情勢の不安定さが市場に影響。",
-      "analysis": "原油価格の下落は、停戦の脆弱性が供給不安を招き、市場心理を悪化させていることを示唆している。米国とイランの関係悪化は、原油市場に大きな影響を与える可能性があり、地政学的リスクを注視する必要がある。今後の原油価格は、中東情勢の安定化とOPECの生産動向に左右されるだろう。",
-      "key_entities": [
-        "Oil",
-        "Iran"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "DOJ charges Southern Poverty Law Center with fraud over secret funding of extremist groups",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "司法省がSouthern Poverty Law Centerを過激派組織への秘密資金提供で詐欺罪で告発。社会的混乱のリスク。",
-      "analysis": "Southern Poverty Law Centerへの告発は、社会的な信頼を損ない、政治的な緊張を高める可能性がある。この事件は、非営利団体の資金調達と活動に対する監視を強化するきっかけとなるかもしれない。社会的な分断が深まることで、市場のボラティリティが高まるリスクも考慮する必要がある。",
-      "key_entities": [
-        "Southern Poverty Law Center",
-        "Department of Justice"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "United Airlines slashes 2026 forecast as fuel costs surge",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "ユナイテッド航空が燃料費の高騰を受け2026年の業績予想を下方修正。航空業界への影響。",
-      "analysis": "ユナイテッド航空の業績予想下方修正は、燃料費の高騰が航空業界全体に悪影響を与えていることを示唆している。地政学的リスクの高まりや原油価格の変動は、航空会社の収益を圧迫する可能性がある。今後の航空業界の動向は、燃料価格の安定化と需要回復に左右されるだろう。",
-      "key_entities": [
-        "United Airlines"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
       "title": "New York sues Coinbase, Gemini over prediction market offerings",
       "region": "global",
       "risk_level": "high",
-      "summary": "ニューヨーク州がCoinbaseとGeminiを予測市場の提供を巡り提訴。暗号資産規制の強化。",
-      "analysis": "ニューヨーク州の提訴は、暗号資産に対する規制が強化される可能性を示唆している。予測市場の合法性や規制の明確化は、業界全体の成長に影響を与える可能性がある。CoinbaseとGeminiの訴訟の結果は、他の暗号資産取引所にも影響を与えるだろう。",
+      "summary": "ニューヨーク州が、予測市場の提供をめぐってCoinbaseとGeminiを提訴。",
+      "analysis": "この訴訟は、暗号資産関連企業に対する規制当局の監視が強化されていることを示している。予測市場の合法性や、暗号資産取引プラットフォームのビジネスモデルに影響を与える可能性がある。",
       "key_entities": [
         "Coinbase",
         "Gemini",
@@ -123,11 +109,27 @@
       ]
     },
     {
-      "title": "Core Scientific seeks $3.3 billion bond sale to further AI data center pivot",
+      "title": "United Airlines slashes 2026 forecast as fuel costs surge",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Core ScientificがAIデータセンターへの転換を加速するため33億ドルの債券発行を計画。資金調達リスク。",
-      "analysis": "Core Scientificの債券発行計画は、AI分野への投資意欲の高まりを示している。しかし、巨額の資金調達は、金利上昇や市場環境の悪化によりリスクとなる可能性がある。AIデータセンターの競争激化も考慮する必要がある。今後のCore Scientificの動向は、資金調達の成功とAI市場での競争力に左右されるだろう。",
+      "summary": "燃料コストの急騰により、ユナイテッド航空が2026年の業績予想を下方修正。",
+      "analysis": "燃料コストの増加は、航空業界全体の収益性を圧迫する要因となる。中東情勢の不安定化が、航空業界に間接的な影響を与えている。",
+      "key_entities": [
+        "United Airlines"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Core Scientific seeks $3.3 billion bond sale to further AI data center pivot",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "Core ScientificがAIデータセンターへの転換を加速させるため、33億ドルの債券発行を計画。",
+      "analysis": "AIデータセンターへの投資は、将来的な成長を見込んだ戦略的な動きと考えられる。しかし、大規模な債券発行は、財務リスクを高める可能性もある。",
       "key_entities": [
         "Core Scientific"
       ],
@@ -139,33 +141,35 @@
       ]
     },
     {
-      "title": "Crypto's massive exploit may force big banks to rethink their blockchain plans, Jefferies warns",
+      "title": "DOJ charges Southern Poverty Law Center with fraud over secret funding of extremist groups",
       "region": "global",
-      "risk_level": "high",
-      "summary": "暗号資産の大規模なエクスプロイトにより、大手銀行がブロックチェーン計画を見直す可能性。セキュリティリスク。",
-      "analysis": "暗号資産のエクスプロイトは、ブロックチェーン技術のセキュリティリスクを浮き彫りにし、大手銀行の参入を躊躇させる可能性がある。セキュリティ対策の強化は、ブロックチェーン技術の普及に不可欠である。今後の大手銀行の動向は、セキュリティ技術の進歩と規制の明確化に左右されるだろう。",
+      "risk_level": "medium",
+      "summary": "司法省が、過激派グループへの秘密資金提供をめぐり、Southern Poverty Law Centerを詐欺で告発。",
+      "analysis": "この告発は、非営利団体の資金調達や活動に対する監視が強化される可能性を示唆している。社会的な影響も大きく、今後の展開を注視する必要がある。",
       "key_entities": [
-        "Blockchain",
-        "Jefferies"
+        "Southern Poverty Law Center",
+        "Department of Justice"
       ],
       "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Aave’s core markets hit 100% utilization at once, and that's not a good thing",
+      "title": "Tim Cook Is Stepping Down as Apple CEO, AAPL Stock Dips in After-Hours Trading",
       "region": "global",
-      "risk_level": "high",
-      "summary": "Aaveの主要市場が100%稼働率に達し、流動性リスクが懸念される。DeFi市場の脆弱性。",
-      "analysis": "Aaveの稼働率100%は、流動性不足や市場の過熱を示唆しており、DeFi市場全体の脆弱性を示す可能性がある。このような状況は、連鎖的な清算や価格暴落を引き起こすリスクがある。DeFi市場の安定化には、流動性の確保とリスク管理の強化が不可欠である。",
+      "risk_level": "low",
+      "summary": "ティム・クックがApple CEOを辞任、時間外取引でAAPL株が下落。",
+      "analysis": "CEOの交代は、企業の戦略や株価に影響を与える可能性がある。後任者の選定や、今後のAppleの方向性について、市場の関心が高まるだろう。",
       "key_entities": [
-        "Aave"
+        "Tim Cook",
+        "Apple",
+        "AAPL"
       ],
       "sources": [
-        "CoinDesk"
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
@@ -174,11 +178,11 @@
   ],
   "region_risk_map": {
     "global": "high",
-    "north_america": "high",
-    "europe": "medium",
-    "east_asia": "low"
+    "north_america": "medium",
+    "europe": "high",
+    "east_asia": "medium"
   },
-  "generated_at": "2026-04-22T05:30:33.735657",
+  "generated_at": "2026-04-22T07:56:23.291087",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
