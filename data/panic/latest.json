@@ -1,78 +1,70 @@
 {
-  "date": "2026-04-21",
-  "summary": "世界各地で複数のパニックと社会不安の兆候が見られます。特にインドでは、マニプール州での深刻な暴動と労働争議が社会秩序を脅かし、LPG供給危機も生活不安を増大させています。金融市場ではDeFiプラットフォームでの取り付け騒ぎが発生。また、一部地域での燃料不足懸念やパニック買いも報告されており、全体的に緊張感が高まっています。",
-  "global_panic_index": 68,
+  "date": "2026-04-22",
+  "summary": "世界全体では、インドを中心とする東南アジア地域で、複数の要因による深刻な社会不安が蔓延しています。政治的・社会的混乱、労働者の大規模な抗議活動、銀行の預金不払い問題、そして生活必需品の供給不足が顕著です。また、世界的な航空燃料不足が夏季の旅行シーズンに混乱をもたらし、一部地域では燃料のパニック買いも報告されています。北米地域は、個別の犯罪を除き、広範な社会パニックを示す兆候は見られず、比較的安定した状況です。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "エネルギー供給不安",
-      "incidents": [
-        {
-          "title": "Jet Fuel Shortage Threatens Summer Travel Chaos",
-          "location": "United States (Global Airlines)",
-          "severity": 55,
-          "description": "イラン戦争の影響によるジェット燃料不足の懸念が浮上し、夏季の旅行シーズンに航空便の運航混乱が予測され、広範な社会不安を引き起こす可能性が高まっている。",
-          "source": "CNN, the-sun.com, The Sun"
-        }
-      ]
+      "panic_index": 15,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
     },
     {
       "region": "southeast_asia",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "雇用不安、労働争議",
+      "panic_index": 72,
+      "status": "volatile",
+      "main_cause": "政治・社会不安、労働問題、金融不安、エネルギー・医療サービス不足",
       "incidents": [
         {
-          "title": "Sacked Staff of Islamic Banks Protest in Motijheel",
-          "location": "Motijheel, Bangladesh",
-          "severity": 40,
-          "description": "バングラデシュのモティジールで、6つのイスラム銀行から解雇された職員が復職を求めて抗議集会を実施。雇用不安が社会的な動揺を引き起こす可能性をはらむ。",
-          "source": "The Daily Star"
+          "title": "マニプール州での社会不安拡大",
+          "location": "マニプール州、インド",
+          "severity": 85,
+          "description": "子どもの死亡事件と隊列攻撃を機に、マニプール州で広範な抗議デモと双方向シャットダウンが発生。殺害や逮捕も続き、社会秩序が大きく乱れ、住民の間に深刻な不安が広がっている。",
+          "source": "MSN, The Statesman, The Sunday Guardian, ABP News"
+        },
+        {
+          "title": "SCARD銀行預金者による預金不払い抗議",
+          "location": "ジャム・カシミール州、インド",
+          "severity": 75,
+          "description": "SCARD銀行の預金者が満期預金の払い出しを求めて大規模な抗議デモを実施。預金不払いが金融システムへの不信感と広範な金融不安を引き起こす恐れがある。",
+          "source": "Daily Excelsior, Kashmir Life"
+        },
+        {
+          "title": "ノイダにおける労働者大規模抗議デモ",
+          "location": "ノイダ、インド",
+          "severity": 70,
+          "description": "賃金未払いなど労働条件改善を求める労働者による大規模な抗議デモが継続。政府が陰謀論を提起し、警備が強化されるなど、社会的な緊張状態が高まっている。",
+          "source": "MSN, Devdiscourse"
+        },
+        {
+          "title": "LPG（液化石油ガス）供給危機",
+          "location": "インド",
+          "severity": 65,
+          "description": "LPGの供給危機と不足が深刻化し、消費者間で生活必需品への懸念が強まっている。政府は10kgシリンダー導入を検討するなど、供給安定化が急務となっている。",
+          "source": "MSN"
+        },
+        {
+          "title": "バニハル病院の医師不足に対する抗議",
+          "location": "バニハル、インド",
+          "severity": 60,
+          "description": "医師不足を訴える抗議デモが発生し、地元政治家が病院の門を閉鎖する事態に。地域住民の医療サービスへのアクセスが脅かされ、不安が高まっている。",
+          "source": "Hindustan Times, Daily Excelsior, Devdiscourse"
         }
       ]
     },
     {
-      "region": "south_asia",
-      "panic_index": 78,
-      "status": "critical",
-      "main_cause": "政治的暴動、労働争議、エネルギー不足、金融不安",
+      "region": "europe",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "エネルギー不足、交通の混乱",
       "incidents": [
         {
-          "title": "Manipur Unrest Deepens Following Child Deaths and Convoy Attacks",
-          "location": "Manipur, India",
-          "severity": 85,
-          "description": "インドのマニプール州で子どもの死と襲撃事件を受け、全州閉鎖を伴う大規模な抗議と社会不安が深刻化。社会秩序が崩壊寸前の状態にある。",
-          "source": "MSN, The Statesman, Hindustan Times"
-        },
-        {
-          "title": "Noida Workers Protest Escalates Amidst Arrests and Conspiracy Claims",
-          "location": "Noida, India",
-          "severity": 75,
-          "description": "インドのノイダで労働者が大規模な抗議デモを展開し、300人以上の逮捕者が出た。政府は陰謀論を指摘し、状況は緊迫しており社会不安を引き起こしている。",
-          "source": "MSN"
-        },
-        {
-          "title": "Panic Buying of Fuel Amidst Petrol Station Shortages",
-          "location": "Australia",
-          "severity": 70,
-          "description": "オーストラリアでドライバーによる燃料のパニック買いが発生し、多くのガソリンスタンドで燃料が枯渇。広範な交通・物流混乱と社会不安が懸念される。",
-          "source": "MSN"
-        },
-        {
-          "title": "LPG Supply Crisis and Black Market Surge in India",
-          "location": "Bengaluru (and wider India)",
-          "severity": 65,
-          "description": "インド各地でLPG供給危機が深刻化し、特にベンガルールでは闇市場が活発化。生活必需品の不足は国民の間にパニック買いと不安を広げている。",
-          "source": "MSN"
-        },
-        {
-          "title": "Major Hack Leads to 'Run' on DeFi Platforms",
-          "location": "Global (Decentralized Finance Market)",
-          "severity": 60,
-          "description": "分散型金融（DeFi）プラットフォームで大規模ハッキングが発生し巨額の資金が流出。利用率100%に達し取り付け騒ぎが起きており、市場全体に信頼危機をもたらしている。",
-          "source": "CoinDesk, TradingView, Modern Consensus."
+          "title": "航空燃料不足によるフライト混乱",
+          "location": "ヨーロッパ（広範な航空会社の運航影響）",
+          "severity": 50,
+          "description": "欧州の航空会社EasyJetが夏季休暇を前に燃料不足の情報を更新。広範な航空便の混乱が予想され、旅行者の間で交通インフラへの不安が広がっている。",
+          "source": "The Sun"
         }
       ]
     }
