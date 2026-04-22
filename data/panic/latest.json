@@ -1,70 +1,92 @@
 {
   "date": "2026-04-22",
-  "summary": "世界全体では、インドを中心とする東南アジア地域で、複数の要因による深刻な社会不安が蔓延しています。政治的・社会的混乱、労働者の大規模な抗議活動、銀行の預金不払い問題、そして生活必需品の供給不足が顕著です。また、世界的な航空燃料不足が夏季の旅行シーズンに混乱をもたらし、一部地域では燃料のパニック買いも報告されています。北米地域は、個別の犯罪を除き、広範な社会パニックを示す兆候は見られず、比較的安定した状況です。",
-  "global_panic_index": 65,
+  "summary": "世界全体では、南アジアのインドを中心に広範な社会不安が深刻化しており、特に労働争議の暴力化、地方の治安悪化、生活必需品（LPG）不足、金融機関への不信感から警戒状態に達しています。一方、欧州ではジェット燃料不足が航空インフラに影響を及ぼし、夏の旅行シーズンを前に懸念が高まっています。北米では金融市場の一部の不確実性が報告されているものの、全体的な社会パニックの兆候は限定的です。",
+  "global_panic_index": 70,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 15,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 72,
-      "status": "volatile",
-      "main_cause": "政治・社会不安、労働問題、金融不安、エネルギー・医療サービス不足",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "金融市場の不確実性",
       "incidents": [
         {
-          "title": "マニプール州での社会不安拡大",
-          "location": "マニプール州、インド",
-          "severity": 85,
-          "description": "子どもの死亡事件と隊列攻撃を機に、マニプール州で広範な抗議デモと双方向シャットダウンが発生。殺害や逮捕も続き、社会秩序が大きく乱れ、住民の間に深刻な不安が広がっている。",
-          "source": "MSN, The Statesman, The Sunday Guardian, ABP News"
-        },
-        {
-          "title": "SCARD銀行預金者による預金不払い抗議",
-          "location": "ジャム・カシミール州、インド",
-          "severity": 75,
-          "description": "SCARD銀行の預金者が満期預金の払い出しを求めて大規模な抗議デモを実施。預金不払いが金融システムへの不信感と広範な金融不安を引き起こす恐れがある。",
-          "source": "Daily Excelsior, Kashmir Life"
-        },
-        {
-          "title": "ノイダにおける労働者大規模抗議デモ",
-          "location": "ノイダ、インド",
-          "severity": 70,
-          "description": "賃金未払いなど労働条件改善を求める労働者による大規模な抗議デモが継続。政府が陰謀論を提起し、警備が強化されるなど、社会的な緊張状態が高まっている。",
-          "source": "MSN, Devdiscourse"
-        },
-        {
-          "title": "LPG（液化石油ガス）供給危機",
-          "location": "インド",
-          "severity": 65,
-          "description": "LPGの供給危機と不足が深刻化し、消費者間で生活必需品への懸念が強まっている。政府は10kgシリンダー導入を検討するなど、供給安定化が急務となっている。",
-          "source": "MSN"
-        },
-        {
-          "title": "バニハル病院の医師不足に対する抗議",
-          "location": "バニハル、インド",
-          "severity": 60,
-          "description": "医師不足を訴える抗議デモが発生し、地元政治家が病院の門を閉鎖する事態に。地域住民の医療サービスへのアクセスが脅かされ、不安が高まっている。",
-          "source": "Hindustan Times, Daily Excelsior, Devdiscourse"
+          "title": "ウォールストリート、仮想通貨への信頼喪失",
+          "location": "米国",
+          "severity": 45,
+          "description": "老舗投資銀行がウォールストリートで仮想通貨への信頼が失われていると指摘。広範な取り付け騒ぎには至っていないものの、金融市場に間接的な不確実性をもたらしています。",
+          "source": "thestreet.com"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "エネルギー不足、交通の混乱",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、交通インフラへの影響",
       "incidents": [
         {
-          "title": "航空燃料不足によるフライト混乱",
-          "location": "ヨーロッパ（広範な航空会社の運航影響）",
+          "title": "欧州におけるジェット燃料不足の懸念",
+          "location": "欧州",
           "severity": 50,
-          "description": "欧州の航空会社EasyJetが夏季休暇を前に燃料不足の情報を更新。広範な航空便の混乱が予想され、旅行者の間で交通インフラへの不安が広がっている。",
-          "source": "The Sun"
+          "description": "欧州ではジェット燃料不足が迫っており、航空業界に深刻な影響を与える可能性があります。夏の旅行シーズンを前に、今後の供給状況が懸念されています。",
+          "source": "U.S. News & World Report"
+        },
+        {
+          "title": "大手航空会社によるフライト欠航と燃料価格高騰",
+          "location": "グローバル (欧州中心)",
+          "severity": 65,
+          "description": "世界の大手航空会社がジェット燃料不足と価格高騰に直面し、多数のフライト欠航を余儀なくされています。これにより、旅行計画に大きな混乱が生じています。",
+          "source": "Business Insider"
+        },
+        {
+          "title": "夏の旅行シーズンを前にジェット燃料不足で混乱の懸念",
+          "location": "グローバル (欧州中心)",
+          "severity": 70,
+          "description": "夏の休暇シーズンを前に、航空会社がジェット燃料不足に陥る可能性があり、旅行者たちは大規模な混乱に備えています。旅行業界全体に不安が広がっています。",
+          "source": "the-sun.com"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "社会不安、エネルギー不足、金融不安、医療インフラ問題",
+      "incidents": [
+        {
+          "title": "Noidaにおける労働争議の暴力化と逮捕者",
+          "location": "インド、Noida",
+          "severity": 75,
+          "description": "Noidaで労働者による抗議デモがエスカレートし、暴動化。多数の逮捕者が出ており、政府は組織化されたグループが関与している可能性を示唆しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "Manipurにおける広範な抗議デモ、シャットダウン、治安悪化",
+          "location": "インド、Manipur",
+          "severity": 85,
+          "description": "子供の死と襲撃をきっかけに、Manipurで社会不安が拡大。地域はツインシャットダウン状態にあり、殺害や逮捕が続くなど、社会秩序が深刻に乱れています。",
+          "source": "MSN"
+        },
+        {
+          "title": "インドにおけるLPG供給危機とガスボンベ不足",
+          "location": "インド",
+          "severity": 70,
+          "description": "インドではLPG供給危機が発生し、家庭用ガスボンベが不足しています。生活必需品の不足は市民の不安を募らせ、政府が対策を検討しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "SCARD銀行預金者による貯蓄未払いを巡る大規模抗議デモ",
+          "location": "インド、Jammu",
+          "severity": 75,
+          "description": "SCARD銀行の預金者たちが、満期を迎えた定期預金の支払いを求めて大規模な抗議デモを実施。政府への要請活動も行われており、金融不安が高まっています。",
+          "source": "Daily Excelsior"
+        },
+        {
+          "title": "医師不足への抗議として病院の門が閉鎖",
+          "location": "インド、J&K Banihal",
+          "severity": 65,
+          "description": "BJPの指導者が医師不足に抗議し、病院の門を施錠する事態が発生。医療インフラへのアクセスが阻害され、地域住民の健康と安全に懸念が生じています。",
+          "source": "Hindustan Times"
         }
       ]
     }
