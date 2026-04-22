@@ -1,37 +1,8 @@
 {
   "date": "2026-04-22",
-  "summary": "本日は、FRBによる金融機関へのエンフォースメントアクションに関する報道のみが確認されました。市場への直接的な影響は限定的と考えられますが、金融システム全体の健全性に対する監視強化の姿勢を示唆しています。",
-  "statements": [
-    {
-      "speaker": "連邦準備制度理事会 (Federal Reserve Board)",
-      "title": "政府機関",
-      "quote": "First Financial Bankの元従業員に対するエンフォースメントアクションを発令。",
-      "context": "プレスリリース",
-      "analysis": "FRBが金融機関の従業員に対する監督責任を重視していることを示唆しています。個別の事例ではありますが、金融機関全体へのコンプライアンス遵守の徹底を促す可能性があります。市場への直接的な影響は小さいと考えられます。",
-      "importance": "low",
-      "tags": [
-        "金融規制",
-        "コンプライアンス",
-        "FRB"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260422a.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会 (Federal Reserve Board)",
-      "title": "政府機関",
-      "quote": "Community Bankshares, Inc.に対するエンフォースメントアクションを発令。",
-      "context": "プレスリリース",
-      "analysis": "FRBがCommunity Bankshares, Inc.に対してエンフォースメントアクションを発令したことは、地域金融機関に対する監視の目を強めていることを示唆します。金融システム全体のリスク管理強化を目的とした措置と考えられます。市場全体への影響は限定的ですが、地域金融機関の経営状況には注意が必要です。",
-      "importance": "low",
-      "tags": [
-        "金融規制",
-        "地域金融機関",
-        "FRB"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260416a.htm"
-    }
-  ],
-  "generated_at": "2026-04-22T19:20:48.974528",
+  "summary": "本日は、FRBによる金融機関に対する執行措置に関する発表のみであり、要人発言は確認されませんでした。市場や政治への直接的な影響は限定的と考えられます。",
+  "statements": [],
+  "generated_at": "2026-04-22T21:54:04.444161",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
