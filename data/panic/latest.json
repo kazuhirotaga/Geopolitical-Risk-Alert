@@ -1,107 +1,121 @@
 {
   "date": "2026-04-22",
-  "summary": "現在の世界情勢は、地域によって顕著な差が見られます。南アジア、特にインドでは、エネルギー不足、労働争議の激化、医療インフラの機能不全、そして地域紛争に関連する暴動が複合的に発生し、深刻な社会不安が高まっています。一方、ヨーロッパではジェット燃料不足が旅行業界に混乱をもたらしており、潜在的な不安要素となっています。北米や東アジア（日本）は比較的安定した状況を維持していますが、グローバルな供給網の不安定化や経済的圧力は、潜在的なリスクとして注視が必要です。",
-  "global_panic_index": 45,
+  "summary": "世界全体では、燃料供給の不安定化が航空業界と旅行者に広範な不安をもたらしています。特にインドを中心とする東アジア地域では、マニプールでの大規模な社会秩序の混乱、全国的なLPG供給危機、銀行預金者のデモによる金融不安、医療インフラの機能不全など、生活と社会基盤を揺るがす深刻なパニック事象が多発しており、極めて緊迫した状況にあります。一方、北米や中東では比較的落ち着いた状況が続いていますが、個別の抗議活動や経済的な懸念は存在します。",
+  "global_panic_index": 70,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 25,
+      "panic_index": 30,
       "status": "stable",
-      "main_cause": "散発的な抗議活動、限定的な金融市場の不確実性",
+      "main_cause": "特定の政治的抗議",
       "incidents": [
         {
-          "title": "反ICE活動家による銀行本部への抗議",
-          "location": "米国、プロビデンス",
+          "title": "Anti-ICE活動家によるCitizens Bankへの抗議",
+          "location": "Providence, USA",
           "severity": 30,
-          "description": "反ICE活動家が市民銀行本部前で抗議デモを実施。特定の政治的・社会的問題に対する意見表明であり、広範なパニックや金融機関への直接的な取り付け騒ぎには至っていません。",
+          "description": "移民税関執行局(ICE)との取引を巡り、活動家がCitizens Bank本社前で抗議デモを実施。特定の政治的テーマに対する抗議であり、広範な社会パニックには至っていない。",
           "source": "The Providence Journal"
         },
         {
-          "title": "仮想通貨市場の信頼低下",
-          "location": "米国、ウォールストリート",
-          "severity": 20,
-          "description": "一部の投資銀行が仮想通貨市場への信頼低下を指摘。これは投資市場の動向であり、一般市民の金融パニックや社会不安に直結する事象ではありません。",
-          "source": "thestreet.com"
+          "title": "West CaldwellのCitizens Bankに対する抗議",
+          "location": "West Caldwell, USA",
+          "severity": 30,
+          "description": "ICEとの取引停止を求める抗議デモがウェストコールドウェルのCitizens Bank前でも発生。地域的な社会不安の兆候が見られる。",
+          "source": "New Jersey Hills Media Group"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "エネルギー供給不安、航空業界の混乱",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "エネルギー供給不安",
       "incidents": [
         {
           "title": "ヨーロッパにおけるジェット燃料不足の懸念",
-          "location": "ヨーロッパ全域",
-          "severity": 60,
-          "description": "ヨーロッパでジェット燃料不足が深刻化する兆候が見られ、夏期の旅行シーズンに向けて航空便の欠航や遅延が頻発。旅行計画への影響が大きく、広範な混乱と不満を引き起こす可能性があります。",
+          "location": "Europe",
+          "severity": 70,
+          "description": "ヨーロッパでジェット燃料不足が目前に迫っており、航空業界に深刻な懸念をもたらしている。夏の旅行シーズンを控え、広範な混乱が予想される。",
           "source": "U.S. News & World Report"
         },
         {
-          "title": "航空会社の欠航と運賃上昇",
-          "location": "グローバル（主にヨーロッパ発着）",
-          "severity": 50,
-          "description": "世界の主要航空会社がジェット燃料不足と価格高騰によりフライトをキャンセル。旅行業界に混乱をもたらし、市民の移動計画に大きな影響を与え、社会不安を高める要因となっています。",
-          "source": "Business Insider"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 80,
-      "status": "volatile",
-      "main_cause": "地域紛争、労働争議、医療・エネルギー供給の機能不全、金融不安",
-      "incidents": [
-        {
-          "title": "マニプールでの大規模抗議と社会不安",
-          "location": "インド、マニプール州インパール",
-          "severity": 90,
-          "description": "子供の死亡事件と護送車への襲撃を受け、マニプールで双子のシャットダウンと大規模な抗議活動が発生。広範な社会不安と混乱が支配し、地域は危機的状況にあります。",
-          "source": "MSN"
-        },
-        {
-          "title": "ノイダでの労働争議激化",
-          "location": "インド、ノイダ",
+          "title": "ジェット燃料不足によるフライトキャンセル",
+          "location": "Global (主にヨーロッパ)",
           "severity": 75,
-          "description": "労働者による抗議デモが激化し、政府は暴動への「外部勢力」の関与を指摘。賃上げ要求が暴力的な衝突に発展しており、地域の社会秩序が不安定化しています。",
-          "source": "MSN"
+          "description": "世界の大手航空会社がジェット燃料不足と価格高騰のためフライトをキャンセルせざるを得ない状況にあり、旅行業界に多大な混乱を引き起こしている。",
+          "source": "Business Insider"
         },
         {
-          "title": "LPG供給危機と対策検討",
-          "location": "インド全域",
-          "severity": 80,
-          "description": "家庭用LPG（液化石油ガス）の供給危機が報じられ、10kgシリンダー導入が検討されている。生活必需品の供給不安は、国民の間に広範な買いだめやパニックを引き起こす可能性があります。",
-          "source": "MSN"
-        },
-        {
-          "title": "銀行預金者による抗議デモ",
-          "location": "インド、ジャンムー",
+          "title": "夏の旅行シーズンに向けた混乱への準備",
+          "location": "Global (主にヨーロッパ)",
           "severity": 70,
-          "description": "SCARD銀行の預金者が預金未払いを巡り抗議デモを実施。貯蓄が引き出せない状況は金融機関への不信感を高め、取り付け騒ぎのようなパニック行動に発展する潜在的なリスクを抱えています。",
-          "source": "Kashmir Media Service / Daily Excelsior"
-        },
-        {
-          "title": "医師不足に対する病院閉鎖抗議",
-          "location": "インド、ジャンムー・カシミール州バニハル",
-          "severity": 65,
-          "description": "BJP指導者が医師不足に抗議し、バニハル病院の門をロック。医療インフラの機能不全は地域住民の生命と健康に直接影響し、公衆衛生上の危機とそれに伴う不安を引き起こしています。",
-          "source": "Hindustan Times"
+          "description": "夏休みシーズンを前に、航空会社のジェット燃料切れが予測され、旅行者たちは大規模な混乱を覚悟している状況。移動に関する不安が高まっている。",
+          "source": "the-sun.com"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 15,
-      "status": "stable",
-      "main_cause": "政治的抗議活動（平和的）",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "社会秩序の混乱、生活必需品不足、金融不安、医療崩壊",
       "incidents": [
         {
-          "title": "安保政策反対デモ",
-          "location": "日本、福岡",
-          "severity": 10,
-          "description": "「生存に安心を」と安保政策に反対するデモが福岡で開催され、若者の参加が増加。これは民主主義の枠内での意見表明であり、社会秩序を乱すパニックではありません。",
-          "source": "毎日新聞"
+          "title": "マニプールでの抗議、シャットダウン、暴動",
+          "location": "Imphal, Manipur, India",
+          "severity": 90,
+          "description": "子どもたちの死と車列攻撃後、マニプールで2度のシャットダウンと大規模な暴動が発生。社会秩序が著しく混乱し、長期的な緊迫状態が続いている。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド全土でのLPG供給危機",
+          "location": "India",
+          "severity": 85,
+          "description": "インド全土で生活必需品であるLPG（液化石油ガス）の供給危機が深刻化し、国営企業が新たな対策を検討。広範な消費者層に不安が広がっている。",
+          "source": "MSN"
+        },
+        {
+          "title": "銀行預金者による貯蓄未払いを巡る抗議デモ",
+          "location": "Jammu, India",
+          "severity": 80,
+          "description": "SCARD銀行の預金者が貯蓄の未払いに対し大規模な抗議デモを実施。金融システムへの信頼が揺らぎ、取り付け騒ぎに発展するリスクが高まっている。",
+          "source": "Daily Excelsior"
+        },
+        {
+          "title": "医師不足に抗議し病院の門を封鎖",
+          "location": "Banihal, Jammu and Kashmir, India",
+          "severity": 75,
+          "description": "医師不足に抗議して、BJPの党首が病院の門を封鎖する事態が発生。医療サービスへのアクセスが妨げられ、公衆の健康と安全への不安が増大している。",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Noidaでの労働者デモの暴力化",
+          "location": "Noida, India",
+          "severity": 70,
+          "description": "Noidaでの労働者デモが暴力沙汰に発展し、逮捕者の中に外部の人間が確認された。政府はこれを組織的な活動と見ている。社会不安が高まっている。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "国際政治の動向（直接的な社会パニックなし）",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "政府による抗議デモ弾圧",
+      "incidents": [
+        {
+          "title": "インドネシアでの抗議デモ弾圧における人権侵害",
+          "location": "Indonesia",
+          "severity": 50,
+          "description": "インドネシアの人権団体が、2025年の抗議デモ弾圧において組織的な人権侵害があったと報告。政府の行動に対する社会の緊張が高まっている。",
+          "source": "The Online Citizen"
         }
       ]
     }
