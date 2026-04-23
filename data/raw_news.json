@@ -1,15 +1,28 @@
 [
   {
-    "id": "6b8edc3aa43c",
-    "title": "イラン革命防衛隊 “船舶2隻拿捕” 戦闘終結協議実現見通せず",
-    "summary": "アメリカのトランプ大統領がイランとの停戦を延長すると明らかにする中、ホルムズ海峡をめぐって、イランの革命防衛隊は船舶2隻を拿捕（だほ）したことを明らかにしました。イランが船舶を拿捕するのはアメリカとイスラエルによる軍事作戦が始まって以降初めてとみられ、緊張が高まる中、今後戦闘の終結に向けた協議が実現するのかどうかが焦点です。",
+    "id": "58124066ae7c",
+    "title": "ホルムズ海峡めぐり米とイランで隔たり 協議実現するかが焦点",
+    "summary": "アメリカのトランプ大統領がイランとの停戦の延長を明らかにする中、ホルムズ海峡をめぐってイラン側は、船舶2隻を拿捕（だほ）したほか「通航の再開は不可能だ」などと主張しています。一方、アメリカ側は「彼らは海峡を支配できていない」と主張するなど、双方の間に大きな隔たりがあり、今後、戦闘の終結に向けた協議が実現するのかどうかが焦点です。",
     "url": "http://www3.nhk.or.jp/news/html/20260423/k10015105831000.html",
-    "published": "2026-04-23T11:27:56+09:00",
+    "published": "2026-04-23T14:23:52+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
     "regions": [
       "middle_east",
+      "north_america"
+    ]
+  },
+  {
+    "id": "8cdfc3de9828",
+    "title": "米海軍長官が辞任 国防総省が明らかに 事実上の更迭か",
+    "summary": "アメリカ国防総省はフィラン海軍長官の辞任を明らかにしました。ヘグセス国防長官は高官を相次いで交代させていて、今回の辞任も事実上の更迭とみられています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260423/k10015106311000.html",
+    "published": "2026-04-23T13:55:50+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
       "north_america"
     ]
   },
@@ -56,6 +69,45 @@
     ]
   },
   {
+    "id": "4ebd6592eb21",
+    "title": "Democrats up in Virginia, but US voters may pay price for redistricting war",
+    "summary": "Experts say unprecedented flurry of tit-for-tat congressional redistricting risks surge in gerrymandering.",
+    "url": "https://www.aljazeera.com/news/2026/4/23/democrats-up-in-virginia-but-us-voters-may-pay-price-for-redistricting-war?traffic_source=rss",
+    "published": "2026-04-23T05:09:34+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "e68c9069f458",
+    "title": "Protesters stabbed at London rally against war on Iran",
+    "summary": "Videos show multiple individuals with what appear to be knife wounds, who were taking part in a protest in London.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/protesters-stabbed-at-london-rally-against-war-on-iran?traffic_source=rss",
+    "published": "2026-04-23T04:53:35+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "e681e0081831",
+    "title": "Lebanon accuses Israel of targeting journalist killed in airstrike",
+    "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
+    "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-23T04:25:30+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
     "id": "4d0763b73617",
     "title": "Ultra-Orthodox Jews burn Israeli flags to protest national day",
     "summary": "Ultra-Orthodox Jewish protesters have burned Israeli flags and brandished anti-Zionist banners in West Jerusalem.",
@@ -67,6 +119,19 @@
     "regions": [
       "middle_east",
       "north_america"
+    ]
+  },
+  {
+    "id": "2a8d639da522",
+    "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
+    "summary": "US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months.",
+    "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-23T01:56:20+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
     ]
   },
   {
@@ -110,6 +175,20 @@
     ]
   },
   {
+    "id": "d09195a1d4ae",
+    "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
+    "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
+    "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-22T21:23:25+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia",
+      "middle_east"
+    ]
+  },
+  {
     "id": "ed3427b485d3",
     "title": "Warner Bros and Paramount merger could reshape US media landscape",
     "summary": "The deal faces regulatory scrutiny both for influence on media landscape, but also for foreign investments to fund it.",
@@ -120,20 +199,6 @@
     "language": "en",
     "regions": [
       "global"
-    ]
-  },
-  {
-    "id": "475d26ad27d3",
-    "title": "Did UK universities pay to ‘spy’ on pro‑Palestine students?",
-    "summary": "UK universities allegedly hired a security firm with military intelligence ties to monitor pro-Palestine students.",
-    "url": "https://www.aljazeera.com/video/the-take-2/2026/4/22/aje-onl-tt_gbr_unispying_av_v2-220426?traffic_source=rss",
-    "published": "2026-04-22T18:21:41+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "europe"
     ]
   },
   {
