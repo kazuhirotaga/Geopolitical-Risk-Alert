@@ -1,13 +1,13 @@
 [
   {
     "date": "2026-04-23",
-    "summary": "ホルムズ海峡を巡る米イランの対立、ウクライナ情勢の緊迫化、米国内の政治的混乱など、地政学的リスクが高まっている。特に中東地域は、偶発的な衝突や封鎖による経済的影響が懸念される。",
+    "summary": "ウクライナ情勢の緊迫化、米イラン間の緊張、アメリカ国内の政治的混乱、AI規制に関する議論など、地政学リスクが複合的に高まっている。特に中東情勢は、停戦延長後も不安定な状況が続いている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "medium",
+      "east_asia": "high",
       "southeast_asia": "low",
-      "south_asia": "medium",
+      "south_asia": "critical",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
@@ -15,7 +15,7 @@
       "north_america": "medium",
       "south_america": "medium"
     },
-    "generated_at": "2026-04-23T05:36:03.711088"
+    "generated_at": "2026-04-23T10:24:01.873503"
   },
   {
     "date": "2026-04-22",
