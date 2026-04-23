@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-04-23",
-    "summary": "中東情勢の緊迫化による原油価格高騰、AI関連企業の動向、暗号資産市場の不安定化が金融市場全体のリスクを高めている。特にエネルギー安全保障への懸念が深刻化しており、インフレ圧力の増大に繋がる可能性がある。",
+    "summary": "地政学的リスクとインフレ懸念から原油価格が上昇し、株式市場は軟調。AI需要の高まりで半導体関連株は急騰する一方、ソフトウェア株はAIへの過度な期待から下落。暗号資産市場は規制の不確実性とセキュリティ上の懸念が継続。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "medium"
+      "east_asia": "low",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-04-23T19:17:41.206710"
+    "generated_at": "2026-04-23T21:51:59.618417"
   },
   {
     "date": "2026-04-22",

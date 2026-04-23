@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-23",
-    "summary": "ウクライナ情勢の緊迫化、米イラン間の緊張、アメリカ国内の政治的混乱、AI規制に関する議論など、地政学リスクが複合的に高まっている。特に中東情勢は、停戦延長後も不安定な状況が続いている。",
+    "summary": "中東における緊張緩和の兆しが見える一方で、ウクライナ情勢は依然として不安定。米中間の対立も継続し、世界経済への影響が懸念される。人道危機も深刻化しており、複合的なリスクが顕在化している。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
-      "southeast_asia": "low",
-      "south_asia": "critical",
+      "east_asia": "medium",
+      "southeast_asia": "medium",
+      "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
-      "africa": "medium",
+      "africa": "critical",
       "north_america": "medium",
-      "south_america": "medium"
+      "south_america": "none"
     },
-    "generated_at": "2026-04-23T10:24:01.873503"
+    "generated_at": "2026-04-23T21:51:37.683401"
   },
   {
     "date": "2026-04-22",
