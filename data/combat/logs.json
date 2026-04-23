@@ -1,39 +1,23 @@
 [
   {
     "date": "2026-04-23",
-    "summary": "ホルムズ海峡でイランとアメリカの緊張が高まる。アメリカ海軍がイランへ向かう貨物船を砲撃し、イランはホルムズ海峡を再び封鎖。バルト三国はイラン戦争の影響でアメリカからの武器供給遅延に備える。",
+    "summary": "ウクライナで無人艇がShahedドローンを撃墜。イラン海軍はホルムズ海峡を再び封鎖し、船舶への銃撃が発生。米海軍はイランに向かう貨物船を攻撃。ロシアはウクライナ侵攻後、NATOとの紛争に備えている可能性が指摘される。",
     "events": [
       {
-        "id": "event-1",
-        "timestamp": "2026-04-20",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "イラン、ホルムズ海峡を再び封鎖",
-        "content": "イラン海軍が、ホルムズ海峡を通過しようとする商船に対し、通過を許可しない旨の無線メッセージを送信。複数の船舶が銃撃を受けたと報告されている。",
+        "id": "combat_event_1",
+        "timestamp": "2026-04-23",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ無人艇によるShahedドローン撃墜",
+        "content": "ウクライナの無人艇が、ロシアのShahedドローンを撃墜。交渉におけるロシアの譲歩を困難にする可能性。",
         "involved_parties": [
-          "イラン海軍",
-          "商船"
+          "ウクライナ軍",
+          "ロシア軍"
         ],
-        "event_type": "other",
-        "urgency": "high",
+        "event_type": "attack",
+        "urgency": "medium",
         "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/18/vessels-report-being-hit-by-gunfire-as-iran-says-strait-of-hormuz-shut-again/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-20",
-        "location": "ペルシャ湾",
-        "region": "middle_east",
-        "title": "米海軍、イランへ向かう貨物船を攻撃",
-        "content": "米海軍の駆逐艦USS Spruanceが、イランの港へ向かおうとした貨物船Touskaに対し、5インチ砲で複数回攻撃。Touskaの推進システムを破壊した。",
-        "involved_parties": [
-          "米海軍",
-          "貨物船Touska"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/20/us-navy-destroyer-fires-on-cargo-vessel-attempting-to-sail-to-iranian-port/"
+        "source_url": "https://www.defensenews.com/industry/techwatch/2026/04/23/in-first-ukrainian-unmanned-vessel-launches-interceptor-to-knock-out-shahed-drone/"
       },
       {
         "id": "event-3",
@@ -67,6 +51,22 @@
         "source_url": "https://www.defensenews.com/global/europe/2026/04/22/germany-unveils-strategy-for-becoming-europes-strongest-military-by-2039/"
       },
       {
+        "id": "combat_event_4",
+        "timestamp": "2026-04-22",
+        "location": "不明",
+        "region": "europe",
+        "title": "ロシアのNATO紛争準備の可能性",
+        "content": "オランダの情報報告によると、ロシアはウクライナでの作戦後、NATOとの紛争に備えている可能性がある。軍事的な勝利ではなく、限定的な領土獲得によるNATOの分断が目的。",
+        "involved_parties": [
+          "ロシア",
+          "NATO"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/22/russia-could-be-ready-for-nato-conflict-year-after-ukraine-dutch-warn/"
+      },
+      {
         "id": "event-5",
         "timestamp": "2026-04-21",
         "location": "台湾",
@@ -81,6 +81,70 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/your-military/2026/04/21/us-commander-warns-taiwan-not-to-starve-the-chicken-on-defense/"
+      },
+      {
+        "id": "event-1",
+        "timestamp": "2026-04-20",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "イラン、ホルムズ海峡を再び封鎖",
+        "content": "イラン海軍が、ホルムズ海峡を通過しようとする商船に対し、通過を許可しない旨の無線メッセージを送信。複数の船舶が銃撃を受けたと報告されている。",
+        "involved_parties": [
+          "イラン海軍",
+          "商船"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/18/vessels-report-being-hit-by-gunfire-as-iran-says-strait-of-hormuz-shut-again/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-04-20",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "米海軍、イランへ向かう貨物船を攻撃",
+        "content": "米海軍の駆逐艦USS Spruanceが、イランの港へ向かおうとした貨物船Touskaに対し、5インチ砲で複数回攻撃。Touskaの推進システムを破壊した。",
+        "involved_parties": [
+          "米海軍",
+          "貨物船Touska"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/20/us-navy-destroyer-fires-on-cargo-vessel-attempting-to-sail-to-iranian-port/"
+      },
+      {
+        "id": "combat_event_3",
+        "timestamp": "2026-04-20",
+        "location": "不明（イランに向かう航路）",
+        "region": "middle_east",
+        "title": "米海軍駆逐艦による貨物船への攻撃",
+        "content": "米海軍の駆逐艦USSスプルーアンスが、イランの港に向かおうとした貨物船「Touska」に対し、5インチ砲でエンジンルームを攻撃し、航行不能にした。",
+        "involved_parties": [
+          "アメリカ海軍",
+          "貨物船Touska"
+        ],
+        "event_type": "attack",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/20/us-navy-destroyer-fires-on-cargo-vessel-attempting-to-sail-to-iranian-port/"
+      },
+      {
+        "id": "combat_event_2",
+        "timestamp": "2026-04-18",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "イラン海軍によるホルムズ海峡封鎖と船舶への銃撃",
+        "content": "イラン海軍がホルムズ海峡を再び封鎖し、海峡を通過しようとする商船に対し無線で通行を禁止。船舶への銃撃が発生。",
+        "involved_parties": [
+          "イラン海軍",
+          "商船"
+        ],
+        "event_type": "attack",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/18/vessels-report-being-hit-by-gunfire-as-iran-says-strait-of-hormuz-shut-again/"
       },
       {
         "id": "event-6",
