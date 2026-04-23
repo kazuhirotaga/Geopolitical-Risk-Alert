@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-23",
+    "summary": "中東情勢が極めて不安定。イランによる船舶拿捕、イスラエルによるレバノン攻撃など緊張が激化。米イラン間の停戦交渉は難航し、ホルムズ海峡の安全保障が懸念される。ウクライナ情勢も膠着状態が続く。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "medium"
+    },
+    "generated_at": "2026-04-23T02:56:44.425557"
+  },
+  {
     "date": "2026-04-22",
     "summary": "中東情勢が極めて不安定。イラン革命防衛隊による船舶拿捕、米イラン間の停戦交渉の不確実性、ホルムズ海峡の緊張が複合的に作用し、地政学リスクを高めている。ウクライナ情勢も依然として深刻で、世界経済への影響が懸念される。",
     "overall_risk_level": "high",

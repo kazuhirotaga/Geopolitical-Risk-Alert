@@ -1,92 +1,115 @@
 {
-  "date": "2026-04-22",
-  "summary": "世界各地では、経済的懸念、政治・社会問題、資源不足が主要な社会不安の要因となっています。特に南アジアでは、労働争議、エネルギー不足、医療インフラの混乱、大規模デモが多発し、社会秩序に重大な影響を及ぼしています。ウクライナでは戦争による防衛資源の深刻な不足が国家的危機感を高め、北米では金融市場の一部の信頼低下や政治的抗議活動が見られます。全体として、複数の地域で「警戒状態」を示す事象が確認されており、市民の不安が高まっています。",
-  "global_panic_index": 65,
+  "date": "2026-04-23",
+  "summary": "世界各地でエネルギー不足、労働争議、政治的不満が社会不安を引き起こしており、特に南アジアとアフリカでは抗議活動が暴力化し、地域によっては都市機能が麻痺する危機的な状況が見られます。ヨーロッパでは燃料不足の懸念が拡大し、インフラや生活必需品への不安が全体的な緊迫感を高めています。",
+  "global_panic_index": 58,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 35,
-      "status": "unstable",
-      "main_cause": "金融市場の不確実性、政治・社会問題への抗議",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "社会活動家の抗議",
       "incidents": [
         {
-          "title": "反ICE活動家による銀行本社への抗議デモ",
-          "location": "プロビデンス、米国",
-          "severity": 40,
-          "description": "反ICE活動家がCitizens Bank本社前で抗議デモを実施。特定の政治・社会問題に対する市民の不満が表明されていますが、広範な混乱には至っていません。",
-          "source": "The Providence Journal"
-        },
-        {
-          "title": "ウォール街における仮想通貨への信頼低下",
-          "location": "ウォール街、米国",
+          "title": "Anti-ICE activist protest Citizens Bank headquarters",
+          "location": "Providence, US",
           "severity": 30,
-          "description": "老舗投資銀行がウォール街で仮想通貨への信頼が失われていると指摘。直接的な取り付け騒ぎではないが、金融市場の一部のセクターで投資家の不安が募っています。",
-          "source": "thestreet.com"
-        },
-        {
-          "title": "米国の弾薬備蓄不足に関する懸念",
-          "location": "米国",
-          "severity": 45,
-          "description": "将来の紛争に向けた弾薬備蓄の不足が懸念されており、国家安全保障と地政学的な不安を引き起こす可能性があります。直接的な市民パニックではないが、広範な不安要素です。",
-          "source": "DNA India"
+          "description": "反ICE活動家がプロビデンスのシティズンズ銀行本社前で抗議デモを実施。特定の政府政策に対する反対表明であり、一般的な金融不安や広範な社会パニックには発展していません。",
+          "source": "The Providence Journal"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "戦争による防衛資源の深刻な不足",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、戦争の影響",
       "incidents": [
         {
-          "title": "ウクライナにおける防空・ミサイル不足",
-          "location": "ウクライナ",
-          "severity": 90,
-          "description": "ゼレンスキー大統領が防空システムとミサイルの深刻な不足を表明。戦争が続く中で、国民の安全保障に対する極度の不安と危機感が醸成されており、国家存亡に関わる重大な懸念となっています。",
-          "source": "Прямий, RBC-Ukraine"
+          "title": "Europe faces potential fuel shortage amid Iran war",
+          "location": "Europe",
+          "severity": 70,
+          "description": "イラン戦争の継続により、ヨーロッパ全体で数週間以内に燃料が枯渇する可能性が指摘されており、広範なエネルギー危機への深刻な懸念が高まっています。これは経済活動や日常生活に大きな影響を及ぼす恐れがあります。",
+          "source": "MSN"
+        },
+        {
+          "title": "Ukraine's air defense missiles running out 'any week'",
+          "location": "Ukraine",
+          "severity": 60,
+          "description": "ウクライナのゼレンスキー大統領が、防空システムとミサイルの深刻な不足を訴え、数週間以内に枯渇する可能性に言及。これは市民の安全保障に対する広範な不安を増大させています。",
+          "source": "RBC-Ukraine"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 66,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、労働不安、政治・社会問題、医療インフラ不足",
+      "incidents": [
+        {
+          "title": "LPG shortage triggers protest in Jind, cops deployed",
+          "location": "Jind, India",
+          "severity": 70,
+          "description": "インドのジンドで、LPG（液化石油ガス）不足が激しい抗議デモを引き起こし、警察が配備される事態に発展しました。生活必需品の不足が住民の不満を爆発させています。",
+          "source": "MSN"
+        },
+        {
+          "title": "Manipur protest: Twin shutdowns, unrest disrupt Imphal",
+          "location": "Imphal, India",
+          "severity": 75,
+          "description": "インドのマニプール州インパールで、子供の死亡事件と護送車への攻撃を受け、二重のシャットダウンと大規模な社会不安が発生。地域社会の秩序が著しく乱れ、緊迫した状況が続いています。",
+          "source": "MSN"
+        },
+        {
+          "title": "Noida protest violence, government links unrest to organised groups",
+          "location": "Noida, India",
+          "severity": 70,
+          "description": "インドのノイダで発生した抗議デモが暴力化し、逮捕者の中には「部外者」が含まれると報じられ、ウッタルプラデーシュ州政府は組織的グループによる不安扇動を指摘しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "Nepal Protest 2026: Thousands protesting against PM Shah",
+          "location": "Nepal",
+          "severity": 70,
+          "description": "ネパールで数千人規模の国民が新関税規則に抗議し、全国的な怒りが爆発。首相への大規模な抗議活動が社会の不安定化を招き、政府への不信感が高まっています。",
+          "source": "The Sunday Guardian"
+        },
+        {
+          "title": "BJP leader detained over locking hospital to protest doctor shortage",
+          "location": "Jammu and Kashmir, India",
+          "severity": 70,
+          "description": "インドのジャンムー・カシミール州バニハルで、医師不足に抗議するため病院を閉鎖したBJP指導者が逮捕・勾留されました。医療インフラの機能不全が住民の強い不満を募らせています。",
+          "source": "ThePrint"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "労働問題、資源不足、政府政策への反発、医療インフラの不備",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "開発プロジェクトへの反対",
       "incidents": [
         {
-          "title": "ノイダにおける労働者抗議と暴力の激化",
-          "location": "ノイダ、インド",
-          "severity": 80,
-          "description": "ノイダでの労働者抗議デモが激化し、暴力や逮捕者が発生。外部勢力の関与も示唆され、企業活動にも影響が出ています。政府が最低賃金を引き上げるなど、社会不安の深刻さがうかがえます。",
-          "source": "MSN, The News Mill"
-        },
+          "title": "Protest at BPK over Poso Hydropower Project",
+          "location": "Poso, Indonesia",
+          "severity": 45,
+          "description": "インドネシアのポソで水力発電プロジェクトに対する抗議活動が発生。地域住民の不満が表明されており、環境問題や土地の権利を巡る懸念が背景にあります。",
+          "source": "VOI.id"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "政治的・社会的不満",
+      "incidents": [
         {
-          "title": "マニプール州での抗議、シャットダウン、社会不安",
-          "location": "インパール、マニプール、インド",
+          "title": "Protest leaves EC city in ruins in Nigeria",
+          "location": "Nigeria",
           "severity": 85,
-          "description": "子供の死亡事件と護送車襲撃を受け、マニプール州インパールで双子シャットダウンと抗議デモが発生。広範な社会不安が地域を混乱させており、深刻な事態に発展しています。",
-          "source": "MSN"
-        },
-        {
-          "title": "LPG供給危機と抗議活動",
-          "location": "インド各地（特にタミル・ナードゥ州）",
-          "severity": 70,
-          "description": "インドでLPG供給危機が報告され、不足への懸念が高まっています。タミル・ナードゥ州では活動家がLPGシリンダーの模擬葬儀を行うなど、市民の不満が象徴的な形で表現されています。",
-          "source": "MSN"
-        },
-        {
-          "title": "ネパールにおける大規模な反政府抗議デモ",
-          "location": "ネパール",
-          "severity": 75,
-          "description": "数千人が新関税規則に抗議し、PMバラエンドラ・シャーに対して全国的な怒りを示すデモを実施。政府政策に対する広範な民衆の反発が社会の安定を脅かしています。",
-          "source": "The Sunday Guardian"
-        },
-        {
-          "title": "医師不足に抗議し病院を閉鎖した事案",
-          "location": "バニハル、ジャム・カシミール、インド",
-          "severity": 70,
-          "description": "医師不足に抗議するため、BJPリーダーがバニハルの病院を閉鎖。これにより医療サービスが混乱し、地域の住民の健康と安全に直接的な不安と影響を与えています。",
-          "source": "ThePrint, Hindustan Times"
+          "description": "ナイジェリアで発生した抗議デモが東部中央の都市を廃墟と化すほどに暴力化。政府は市民に対し、外出を控えるよう呼びかけており、深刻な社会秩序の崩壊が起きていると報じられています。",
+          "source": "IOL"
         }
       ]
     }
