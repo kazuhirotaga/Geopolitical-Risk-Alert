@@ -1,158 +1,164 @@
 {
   "date": "2026-04-23",
-  "summary": "世界全体では、特に南アジアとアフリカにおいて、資源不足、地域紛争、労働争議に起因する深刻な社会不安と暴力的な騒乱が頻発し、一部地域では社会秩序の崩壊が懸念される危機的な状況にあります。ヨーロッパも戦争と広範なエネルギー不足により高い警戒レベルが続いています。北米、東アジア、東南アジアでは比較的安定しているものの、経済格差やインフラ問題による大規模な抗議活動や金融市場の潜在的な不安が見られ、全体として警戒を要する状態が続いています。",
-  "global_panic_index": 70,
+  "summary": "世界各地で金融不安、エネルギー不足、労働争議、政治的抗議が散見され、全体として社会不安が増大しています。特に、欧州では燃料不足と地政学的緊張による防衛問題が、南アジアではLPG不足と大規模デモによる治安悪化が顕著です。北米では銀行の取り付け騒ぎや暗号通貨市場の動揺が見られ、一部地域では暴徒化の兆候も見られるものの、広範な社会インフラのマヒや無秩序な逃避といったパニック状態には至っていません。",
+  "global_panic_index": 58,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 45,
+      "panic_index": 58,
       "status": "unstable",
-      "main_cause": "経済的困窮、特定の金融市場不安",
+      "main_cause": "金融不安、社会的不満、政治的対立",
       "incidents": [
         {
-          "title": "カナダのフードバンク需要増大とサービス削減",
-          "location": "Canada",
-          "severity": 55,
-          "description": "未曾有の需要増加により、カナダ各地のフードバンクがサービス提供を削減。経済的困窮が広がり、食料アクセスに不安を抱える市民が増加しており、社会不安の兆候が見られます。",
-          "source": "MSN"
+          "title": "ニューヨークの銀行取り付け騒ぎ",
+          "location": "New York, USA",
+          "severity": 75,
+          "description": "ニューヨークの19th Ward Bankで取り付け騒ぎが発生。顧客が預金を引き出すために銀行に殺到し、金融システムへの不信感が増大しています。",
+          "source": "WFMZ.com"
         },
         {
-          "title": "プライベートクレジット市場でのパニック",
-          "location": "Global (主に米国市場を指すことが多い)",
-          "severity": 45,
-          "description": "プライベートクレジット市場で「パニック」が発生し、特定の投資商品が割引価格で取引される状況。広範な社会パニックではないが、金融市場の一部に不透明感と不安が広がっています。",
+          "title": "ロス抗議デモと海兵隊派遣への反発",
+          "location": "Los Angeles, USA",
+          "severity": 65,
+          "description": "ロサンゼルスでの抗議デモに対し、海兵隊派遣が検討される中で、市民がこれに反発。社会秩序維持のための軍事介入がさらなる緊張を生んでいます。",
+          "source": "佐賀新聞"
+        },
+        {
+          "title": "プライベートクレジット市場のパニック",
+          "location": "Global (Financial Market)",
+          "severity": 60,
+          "description": "プライベートクレジット市場で「パニック」という言葉が使われる状況。特定の金融市場セグメントで投資家の不安が高まり、価格下落を引き起こしています。",
           "source": "Investing.com"
         },
         {
-          "title": "米国市民銀行への反ICE活動家による抗議デモ",
-          "location": "Providence, US / Cape Cod, US",
-          "severity": 30,
-          "description": "米国各地で反移民・税関執行局（ICE）活動家が市民銀行に抗議デモを実施。政治的・社会的な不満を表す一般的なデモ活動であり、直接的なパニックや暴動には至っていません。",
-          "source": "Cape Cod Times / MSN"
+          "title": "暗号通貨ハッキングとDeFiの取り付け騒ぎ",
+          "location": "Global (Crypto Market)",
+          "severity": 50,
+          "description": "暗号通貨市場でのハッキングやDeFi（分散型金融）プラットフォームでの取り付け騒ぎが発生。デジタル資産に対する信頼性の揺らぎが懸念されています。",
+          "source": "Bank Policy Institute"
+        },
+        {
+          "title": "反ICE活動家による銀行への抗議",
+          "location": "Cape Cod, USA",
+          "severity": 40,
+          "description": "反ICE（米国移民関税執行局）活動家がCitizens Bankに対して抗議デモを実施。政治的・社会的な不満が特定の企業に向けられています。",
+          "source": "Cape Cod Times"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 75,
+      "panic_index": 71,
       "status": "volatile",
-      "main_cause": "戦争による資源不足、エネルギー危機、政治的暴力",
+      "main_cause": "エネルギー不足、軍事的脅威、社会不安",
       "incidents": [
         {
-          "title": "ウクライナ、防空ミサイル枯渇の可能性",
-          "location": "Ukraine",
-          "severity": 90,
-          "description": "ウクライナのゼレンスキー大統領が、防空ミサイルの在庫が数週間以内に枯渇する可能性を警告。戦争下における国家の安全保障に関わる極めて深刻な危機であり、市民の不安を高めています。",
-          "source": "RBC-Ukraine / Прямий"
-        },
-        {
-          "title": "イラン戦争によりヨーロッパで燃料不足の可能性",
+          "title": "欧州での燃料不足危機",
           "location": "Europe",
-          "severity": 85,
-          "description": "イラン戦争の継続により、ヨーロッパが数週間以内に燃料不足に陥る可能性があると報じられています。広範囲なエネルギー危機は、経済活動と市民生活に甚大な影響を及ぼし、パニックを引き起こす懸念があります。",
+          "severity": 80,
+          "description": "イラン戦争の継続により、欧州が数週間以内に燃料不足に陥る可能性が指摘されています。広範なエネルギー危機は経済活動と市民生活に深刻な影響を与えかねません。",
           "source": "MSN"
         },
         {
-          "title": "アルバニアでデモ、ロケット花火が飛び交う",
+          "title": "ウクライナの防空ミサイル不足の可能性",
+          "location": "Ukraine",
+          "severity": 75,
+          "description": "ゼレンスキー大統領が、ウクライナが数週間以内に防空ミサイルが枯渇する可能性があると発表。戦時下の国民に深刻な不安を与えています。",
+          "source": "RBC-Ukraine"
+        },
+        {
+          "title": "アルバニアでのロケット花火を伴うデモ",
           "location": "Albania",
           "severity": 70,
-          "description": "アルバニアで実施されたデモ中にロケット花火が飛び交う暴力的な事態が発生。抗議活動がエスカレートし、社会秩序が一部で乱れている状況は、市民の治安への不安を増大させています。",
+          "description": "アルバニアで発生したデモでは、ロケット花火が飛び交うなど暴徒化の兆候が見られます。社会秩序の不安定化が懸念されます。",
           "source": "ABEMA"
         },
         {
-          "title": "夏の休暇に危機、ジェット燃料在庫不足",
+          "title": "ウクライナの防空・ミサイル不足の発表",
+          "location": "Ukraine",
+          "severity": 70,
+          "description": "ゼレンスキー大統領が防空・ミサイルの不足を公表。進行中の戦争において、国民の安全保障に対する懸念を深めています。",
+          "source": "Прямий"
+        },
+        {
+          "title": "夏期休暇中のジェット燃料不足危機",
           "location": "Europe",
           "severity": 60,
-          "description": "ジェット燃料の在庫不足が夏の休暇シーズンに危機をもたらす可能性が報じられています。旅行計画への影響や経済的不安が懸念され、広範な不満につながる可能性があります。",
+          "description": "欧州で夏の休暇シーズンにジェット燃料の在庫が不足する危機が迫っています。広範な旅行の混乱や経済活動への影響が懸念されます。",
           "source": "The Times"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 60,
+      "panic_index": 50,
       "status": "unstable",
-      "main_cause": "労働争議、経済格差",
+      "main_cause": "労働争議",
       "incidents": [
         {
-          "title": "サムスン労働者が大規模な賃上げ抗議、ストライキの脅威",
+          "title": "Samsung労働者の賃金格差抗議とストライキ脅威",
           "location": "South Korea",
-          "severity": 60,
-          "description": "サムスンの労働者が賃金格差に抗議し、大規模なストライキの可能性を示唆しています。主要企業の労働争議は経済全体への影響が懸念され、社会的な不安が増大しています。",
+          "severity": 50,
+          "description": "Samsungの労働者がSK Hynixとの賃金格差に抗議し、大規模なストライキを警告しています。主要産業の混乱は経済全体に影響を及ぼす可能性があります。",
           "source": "Reuters"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "民族紛争、労働争議、エネルギー不足、インフラ問題",
+      "panic_index": 66,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、公共サービス不足、社会的不満、治安悪化",
       "incidents": [
         {
-          "title": "マニプールで騒乱、シャットダウンと襲撃が発生",
+          "title": "マニプールでのシャットダウンと混乱",
           "location": "Manipur, India",
-          "severity": 95,
-          "description": "子供の死と襲撃を背景に、マニプール州インパールでツインシャットダウンと大規模な騒乱が発生。社会活動が広範に停止し、暴力が伴うことで市民生活が麻痺する極めて危機的な状況にあります。",
+          "severity": 80,
+          "description": "子供の死亡事件と護送車襲撃を受け、マニプール州インパールでツインシャットダウンと大規模な混乱が発生。治安が悪化し、市民生活が大きく妨げられています。",
           "source": "Dailyhunt"
         },
         {
-          "title": "Noidaでの工場労働者騒乱、暴力と計画的活動の疑い",
-          "location": "Noida, India",
-          "severity": 85,
-          "description": "Noida地域で工場労働者による大規模な抗議活動が暴力的にエスカレートし、騒乱が継続。政府は組織的な計画性を示唆し、治安部隊が強化されており、社会秩序が深刻に脅かされています。",
-          "source": "MSN / Times Now"
-        },
-        {
-          "title": "インド各地でLPG供給危機と抗議デモ",
-          "location": "Jind, India / Tamil Nadu, India",
-          "severity": 80,
-          "description": "LPG供給不足が深刻化し、インド各地で住民による抗議デモが発生。特にJindでは警官が出動し、タミル・ナードゥ州では州首相が政府の責任を非難するなど、生活必需品の不足が社会不安を増幅させています。",
+          "title": "インド全土でのLPG供給危機",
+          "location": "India",
+          "severity": 70,
+          "description": "インドでLPG（液化石油ガス）の供給危機が深刻化し、10kgシリンダーの導入が検討されています。家庭用燃料の不足は国民の生活に直接的な影響を与え、不安を煽っています。",
           "source": "MSN"
         },
         {
-          "title": "タミル・ナードゥ州でバス不足による乗客抗議",
-          "location": "Kilambakkam, Tamil Nadu, India",
+          "title": "ノイダの抗議デモでの暴力と混乱",
+          "location": "Noida, India",
           "severity": 65,
-          "description": "タミル・ナードゥ州の選挙期間中、Kilambakkamでバス不足により多くの乗客が抗議し、投票を断念して帰宅。公共交通インフラの機能不全が市民生活と民主主義プロセスに影響を及ぼし、不満が高まっています。",
-          "source": "News9live"
+          "description": "ノイダでの抗議デモで暴力行為が発生し、逮捕者が出ています。政府は組織的なグループによる混乱と関連付けており、治安の悪化が懸念されます。",
+          "source": "MSN"
         },
         {
-          "title": "5,000人規模の労働者による大規模抗議デモ",
-          "location": "India",
-          "severity": 50,
-          "description": "労働組合に所属する約5,000人の労働者が労働委員会事務所前で抗議デモを実施。労働条件や賃金への不満が大規模な集団行動に繋がり、社会的な不安要素となっています。",
+          "title": "ジンドでLPG不足による抗議デモ、警官配備",
+          "location": "Jind, India",
+          "severity": 60,
+          "description": "LPG不足を巡ってジンドで抗議デモが発生し、警官が配備されました。エネルギー不足が市民の不満を引き起こし、警察との衝突につながる可能性があります。",
+          "source": "MSN"
+        },
+        {
+          "title": "タミル・ナードゥ州でのバス不足抗議",
+          "location": "Tamil Nadu, India",
+          "severity": 55,
+          "description": "タミル・ナードゥ州のキラムバッカムで、バス不足により乗客が抗議デモを実施。投票に行けずに帰宅する事態が発生し、公共交通機関の機能不全が社会不安を招いています。",
           "source": "MSN"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "治安悪化、社会不安、違法行為",
-      "incidents": [
-        {
-          "title": "ダーバン中心部で騒乱、違法行為への警告",
-          "location": "Durban, South Africa",
-          "severity": 85,
-          "description": "南アフリカのダーバン中心部で騒乱が発生し、警察が抗議者に対し違法な捜索や脅迫行為を警告。治安の悪化と略奪行為の可能性が示唆され、市民の安全に深刻な懸念が生じています。",
-          "source": "East Coast Radio"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 50,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "開発プロジェクトへの不満",
+      "main_cause": "労働争議",
       "incidents": [
         {
-          "title": "ポソ水力発電プロジェクトへの抗議デモ",
-          "location": "Poso, Indonesia",
-          "severity": 50,
-          "description": "インドネシアのポソ水力発電プロジェクトに対し、住民らが抗議デモを実施。開発計画が地域社会や環境に与える影響への懸念が表明されており、社会的な意見対立が生じています。",
-          "source": "VOI.id"
+          "title": "ナイジェリアの銀行元従業員による未払い給付金抗議",
+          "location": "Nigeria",
+          "severity": 45,
+          "description": "Sterling Bankの元従業員が、解雇から約1年が経過しても未払い給付金があるとして抗議デモを実施。労働争議が長期化し、社会的不満が高まっています。",
+          "source": "Daily Report Nigeria"
         }
       ]
     }
