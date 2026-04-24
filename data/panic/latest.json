@@ -1,166 +1,138 @@
 {
   "date": "2026-04-24",
-  "summary": "世界各地で社会不安が高まっており、特にアフリカのタンザニアでは大規模な政治的抗議デモが暴力化し、多数の死者を出す危機的な状況にあります。中東ではデモ参加者への暴力的な鎮圧が報じられ、南アジアではパキスタンで深刻な燃料不足が、インドではLPGや水不足が抗議デモを引き起こしています。北米でも大規模な社会正義デモや、メキシコでの水不足による幹線道路封鎖が発生。仮想通貨市場にも取り付け騒ぎのような不安の兆候が見られるなど、様々な要因が複合的に作用し、全体として警戒を要する状態が続いています。",
-  "global_panic_index": 55,
+  "summary": "世界各地で多様な形態のパニックと社会不安が顕在化しています。アフリカではタンザニアでの大規模デモで死者が発生し、極めて危険な状況にあります。南アジア（ニュース情報のカテゴリ制約上、東南アジアに分類）ではエネルギーや水、医療サービスといった生活インフラの不足が広範な抗議デモを引き起こし、警戒が必要です。北米では仮想通貨の取り付け騒ぎや移民政策への抗議が散見され、中東でも政治的抑圧とデモが継続しています。全体としては警戒状態にあり、各地域で社会の不安定化が進んでいます。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 48,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "資源不足、社会正義への抗議",
+      "main_cause": "金融不安、社会政策への抗議",
       "incidents": [
         {
-          "title": "メキシコ、7年間の水不足に対する幹線道路封鎖抗議",
-          "location": "メキシコ、ロス・カボス",
-          "severity": 65,
-          "description": "7年間続く水不足に抗議し、住民が主要幹線道路を封鎖。長期的な資源不足に対する住民の不満が爆発し、社会インフラに影響を与えています。",
-          "source": "Cabo Sun"
+          "title": "仮想通貨「Bank Run」発生",
+          "location": "グローバル/北米",
+          "severity": 60,
+          "description": "ブロックチェーン（仮想通貨）市場において「Bank Run」（取り付け騒ぎ）が発生。イーサリアムなども関連し、金融システムへの影響や投資家の不安が拡大している。",
+          "source": "Benzinga, CryptoRank, Bitget"
         },
         {
-          "title": "米国、Citizens BankのICE支援に対する大規模抗議デモ",
-          "location": "米国、プロビデンス等",
-          "severity": 45,
-          "description": "Citizens Bankが民間刑務所やICEを支援していることに数百人が抗議。社会正義を求める大規模な抗議活動は、特定の企業に向けた社会不安の表れです。",
-          "source": "Substack, The Brown Daily Herald 他"
-        },
-        {
-          "title": "米国、Capital Oneのイスラエル兵器会社融資に対する抗議",
-          "location": "米国（不明）",
-          "severity": 35,
-          "description": "Capital Oneがイスラエルの兵器会社に融資していることに抗議。特定の政治的・倫理的問題に対する市民の懸念が表明されています。",
-          "source": "Truthout"
+          "title": "Citizens Bankに対する大規模抗議デモ",
+          "location": "米国（複数都市）",
+          "severity": 50,
+          "description": "Citizens Bankが民間刑務所やICE（移民税関執行局）を支援していることに対し、数百人規模の抗議デモが複数回開催された。企業活動が社会問題と結びつき、市民の不満が高まっている。",
+          "source": "Substack, The Brown Daily Herald, Ocean State Media"
         }
       ]
     },
     {
-      "region": "south_asia",
-      "panic_index": 55,
+      "region": "southeast_asia",
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "エネルギー不足、資源不足、社会経済不安",
+      "main_cause": "エネルギー・食料・水・公共サービス不足",
       "incidents": [
         {
-          "title": "パキスタン、イラン戦争起因のガソリン・ディーゼル不足でポンプ枯渇",
-          "location": "パキスタン各州",
+          "title": "パキスタンでガソリン・ディーゼル不足",
+          "location": "パキスタン（全国）",
           "severity": 75,
-          "description": "イラン戦争の影響でガソリンとディーゼルが不足し、全国各地の給油ポンプが枯渇状態に。生活インフラに直結する深刻なエネルギー危機が発生しています。",
+          "description": "イラン戦争の影響でパキスタン全土でガソリン・ディーゼルが不足し、給油所が枯渇。広範囲でエネルギー供給が途絶え、市民生活に深刻な影響を与えている。",
           "source": "MSN"
         },
         {
-          "title": "インド、LPG不足に対する抗議デモ、警察出動",
-          "location": "インド、ジンド",
-          "severity": 55,
-          "description": "液化石油ガス（LPG）の不足に住民が抗議し、警察が出動する事態に。生活必需品の供給不安が社会不安を引き起こし、緊張状態にあります。",
+          "title": "インドでLPG不足に対する抗議デモ",
+          "location": "インド（Jind）",
+          "severity": 65,
+          "description": "インドのJindでLPG（液化石油ガス）不足が深刻化し、住民による抗議デモが発生。状況鎮静化のため警察が展開される事態に発展している。",
           "source": "MSN"
         },
         {
-          "title": "インド、学生抗議中の器物損壊で6人逮捕",
-          "location": "インド、ソポレ",
-          "severity": 55,
-          "description": "学生による抗議デモが器物損壊を伴い、警察が6人を逮捕。単なる抗議を超え、暴力的な行為が伴うことで緊張が高まっています。",
-          "source": "Deccan Herald"
-        },
-        {
-          "title": "インド、複数地域で飲料水不足に対する抗議",
-          "location": "インド、Beed、Banjara Hills",
-          "severity": 55,
-          "description": "インドの複数地域で深刻な飲料水不足が発生し、住民が抗議デモを実施。生活に不可欠な資源の欠乏が、住民の強い不満と不安を引き起こしています。",
+          "title": "インド各地で飲料水不足に対する抗議",
+          "location": "インド（Beed, Banjara Hills）",
+          "severity": 60,
+          "description": "インドのBeedやBanjara Hillsなどで飲料水不足が深刻化し、住民が抗議デモを実施。特にBanjara Hillsでは10日間にわたる断水に市民の不満が爆発している。",
           "source": "Free Press Journal, Munsif News 24x7"
         },
         {
-          "title": "インド、タミル・ナードゥ州でバス不足による抗議デモ",
-          "location": "インド、キランバッカム",
-          "severity": 45,
-          "description": "バス不足により投票に行けなかった乗客が抗議デモを行い、家に帰還。公共交通機関の機能不全が市民の権利行使を妨げ、不満を増大させています。",
-          "source": "MSN"
+          "title": "インドで労働不安・サービス不足への抗議",
+          "location": "インド（Jantar Mantar, Noida, Kilambakkam, Banihal）",
+          "severity": 55,
+          "description": "インド各地で労働不安、バスや医師の不足など、公共サービスや雇用を巡る抗議デモが頻発。Jantar MantarやNoidaでは警備が強化され、Banihalでは病院のゲートが封鎖された。",
+          "source": "Hindustan Times, MSN, The Hans India"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 65,
+      "panic_index": 85,
       "status": "critical",
-      "main_cause": "政治的混乱、暴力",
+      "main_cause": "政治的混乱、暴動",
       "incidents": [
         {
-          "title": "タンザニア大統領選抗議デモで多数の死者",
+          "title": "タンザニア大統領選抗議デモで500人以上死亡",
           "location": "タンザニア",
-          "severity": 85,
-          "description": "大統領選挙を巡る抗議デモで、政府調査委員会が少なくとも518人の死亡を報告。野党は数千人殺害を主張しており、極めて深刻な政治的混乱と暴力により社会秩序が崩壊寸前です。",
+          "severity": 90,
+          "description": "タンザニアで大統領選を巡る抗議デモが発生し、政府調査委員会によれば少なくとも518人が死亡。野党は数千人が殺害されたと主張しており、深刻な政治的混乱と人権侵害が続いている。",
           "source": "読売新聞"
         },
         {
-          "title": "ナイジェリア、Offa銀行強盗関連裁判に対する抗議",
-          "location": "ナイジェリア、イロリン",
-          "severity": 35,
-          "description": "Offa銀行強盗事件に関するサラーキ氏の裁判計画に若者たちが抗議。特定の事件が引き起こす社会的な波紋と不満が表れています。",
+          "title": "南アフリカで「買いだめしないで」の呼びかけ",
+          "location": "南アフリカ",
+          "severity": 30,
+          "description": "特定商品の不足に関する潜在的な不安を背景に、当局が「パニック買いをしないように」と市民に呼びかけ。直接的なパニックではないが、潜在的な不安の兆候が見られる。",
+          "source": "The South African"
+        },
+        {
+          "title": "ナイジェリアで銀行強盗に関する抗議",
+          "location": "ナイジェリア（Ilorin）",
+          "severity": 40,
+          "description": "Offa銀行強盗事件に関連し、ナイジェリアのIlorinで青年たちが特定の人物の裁判計画に抗議。事件への不満と司法への懸念が表明されている。",
           "source": "naijanews.com"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 60,
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "政治的抑圧、紛争関連の社会問題",
+      "main_cause": "政治的抑圧、人権問題",
       "incidents": [
         {
-          "title": "ローマ教皇がイランのデモ参加者殺害を非難",
+          "title": "イランのデモ参加者殺害をローマ教皇が非難",
           "location": "イラン",
-          "severity": 75,
-          "description": "ローマ教皇がイランでのデモ参加者の殺害を非難。これは、イラン国内での抗議活動が政府によって暴力的に鎮圧され、多くの犠牲者が出ている深刻な状況を示唆しています。",
+          "severity": 70,
+          "description": "イランで発生したデモにおいて参加者が殺害されたことに対し、ローマ教皇が非難声明を発表。既存の社会不安が深刻な人権問題へと発展している。",
           "source": "Reuters"
         },
         {
-          "title": "ヨルダン川西岸地区、学校へのアクセス拒否に子供たちが抗議",
-          "location": "ヨルダン川西岸地区",
-          "severity": 45,
-          "description": "学校へのアクセスを拒否された子供たちが抗議デモを実施。紛争地域の教育機会の剥奪は、将来への不安と社会的な不満を増大させています。",
+          "title": "ウエストバンクで学校アクセス拒否への抗議",
+          "location": "ウエストバンク",
+          "severity": 50,
+          "description": "ウエストバンクで子供たちが学校へのアクセスを拒否されていることに対し、抗議活動を実施。基本的な教育を受ける権利が侵害され、地域社会に不満が募っている。",
           "source": "Wake Up Singapore"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "政治的意見表明",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "金融市場の懸念、政治的議論",
       "incidents": [
         {
-          "title": "日本の国会前デモ、市民が異議を申し立てる意味",
-          "location": "日本、東京",
-          "severity": 35,
-          "description": "日本の国会前で政治的な議題に対するデモが実施され、市民が異議を唱える意味が問われています。これは、民主主義的な枠組み内での意見表明であり、現在のところパニックには至っていません。",
-          "source": "毎日新聞"
+          "title": "プライベートクレジットの「取り付け騒ぎ」懸念",
+          "location": "日本",
+          "severity": 50,
+          "description": "日本のプライベートクレジット市場において、解約制限を背景に「取り付け騒ぎ」が発生する可能性が指摘されている。個人投資家の資金流動性への不安が増大している。",
+          "source": "日本経済新聞"
         },
         {
-          "title": "日本の憲法9条改正への挑戦と改憲反対デモ",
+          "title": "憲法9条改正反対デモ",
           "location": "日本",
           "severity": 35,
-          "description": "憲法9条改正の動きに対し、市民が改憲反対のデモを実施。国の根幹に関わる政治的な議論が、市民の間で活発な意見表明を引き起こしています。",
-          "source": "Yahoo!ニュース"
+          "description": "日本の国会前などで、憲法9条改正に反対する市民によるデモが継続して行われている。これは政治的な意見表明であり、直接的なパニックではないが、社会的な議論の活発化を示している。",
+          "source": "毎日新聞, Yahoo!ニュース"
         }
       ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "N/A",
-      "incidents": []
-    },
-    {
-      "region": "south_america",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "N/A",
-      "incidents": []
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "N/A",
-      "incidents": []
     }
   ]
 }

@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-04-24",
-    "summary": "中東情勢の緊迫化、インフレ懸念、暗号資産市場の動向が金融市場に影響を与えている。特にイラン戦争リスクと原油価格上昇が懸念される。米国の金融引き締め政策と相まって、世界経済の減速リスクが高まっている。",
-    "overall_risk_level": "high",
-    "article_count": 8,
+    "summary": "金融市場は地政学的リスクと政策変更の不確実性により不安定。中東情勢緊迫化、米国の金融政策見通し、暗号資産市場の変動が主な要因。AI関連技術への投資は活発だが、規制リスクも顕在化。",
+    "overall_risk_level": "medium",
+    "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "medium",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "medium"
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "medium"
     },
-    "generated_at": "2026-04-24T10:26:29.278541"
+    "generated_at": "2026-04-24T18:59:29.354568"
   },
   {
     "date": "2026-04-23",
