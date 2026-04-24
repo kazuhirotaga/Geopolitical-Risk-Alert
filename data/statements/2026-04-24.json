@@ -1,37 +1,65 @@
 {
   "date": "2026-04-24",
-  "summary": "本日は、米連邦準備制度理事会（FRB）関連の発表が中心。コミュニティバンクのレバレッジ比率に関する規制変更と、金融機関の元従業員に対する執行措置が発表された。市場への直接的な影響は限定的と考えられる。",
+  "summary": "本日は、FRBによる金融機関の申請承認と、地域銀行のレバレッジ比率に関する変更が発表された。直接的な要人発言は確認できず、市場への影響は限定的と考えられる。",
   "statements": [
     {
-      "speaker": "連邦準備制度理事会",
+      "speaker": "連邦準備制度理事会 (FRB)",
       "title": "政府機関",
-      "quote": "コミュニティバンクのレバレッジ比率を強化するための変更を最終決定",
+      "quote": "OceanFirst Financial Corp.の申請を承認",
       "context": "プレスリリース",
-      "analysis": "コミュニティバンクの健全性維持を目的とした規制変更。地域経済への影響を考慮しつつ、金融システムの安定化を図る意図が見られる。中小規模の金融機関にとっては、業務運営に一定の影響がある可能性がある。",
+      "analysis": "OceanFirst Financial Corp.の申請承認は、金融機関の再編や事業拡大の動きを示唆する。個別の金融機関の動向ではあるが、金融セクター全体の健全性や競争環境に影響を与える可能性がある。",
+      "importance": "low",
+      "tags": [
+        "金融機関",
+        "承認",
+        "規制"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm"
+    },
+    {
+      "speaker": "連邦準備制度理事会 (FRB)",
+      "title": "政府機関",
+      "quote": "Banco de Credito del Peruの申請を承認",
+      "context": "プレスリリース",
+      "analysis": "Banco de Credito del Peruの申請承認は、南米地域における金融機関の活動拡大を示唆する。国際的な金融機関の動向は、地域経済の発展や金融システムの安定に影響を与える可能性がある。",
+      "importance": "low",
+      "tags": [
+        "金融機関",
+        "承認",
+        "南米"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm"
+    },
+    {
+      "speaker": "連邦準備制度理事会 (FRB)",
+      "title": "政府機関",
+      "quote": "地域銀行のレバレッジ比率を強化するための変更を最終決定",
+      "context": "プレスリリース",
+      "analysis": "地域銀行のレバレッジ比率の変更は、金融システムの安定性を高めることを目的としている。規制強化は、地域銀行の融資活動や収益性に影響を与える可能性がある。中小企業への影響も注視する必要がある。",
       "importance": "medium",
       "tags": [
         "金融規制",
-        "コミュニティバンク",
+        "地域銀行",
         "レバレッジ比率"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260423a.htm"
     },
     {
-      "speaker": "連邦準備制度理事会",
+      "speaker": "連邦準備制度理事会 (FRB)",
       "title": "政府機関",
-      "quote": "ファースト・フィナンシャル・バンクの元従業員に対する執行措置を発令",
+      "quote": "First Financial Bankの元従業員に対する執行措置を発行",
       "context": "プレスリリース",
-      "analysis": "個別の金融機関の元従業員に対する執行措置であり、金融システムの健全性維持を目的としたFRBの監視体制の一環。具体的な違反内容や影響範囲は不明だが、内部統制の重要性を示唆している。",
+      "analysis": "First Financial Bankの元従業員に対する執行措置は、金融機関における不正行為に対するFRBの姿勢を示す。個別の事例ではあるが、コンプライアンス体制の重要性を再認識させる。",
       "importance": "low",
       "tags": [
-        "金融規制",
-        "執行措置",
-        "内部統制"
+        "金融機関",
+        "不正行為",
+        "執行措置"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260422a.htm"
     }
   ],
-  "generated_at": "2026-04-24T18:59:37.994278",
+  "generated_at": "2026-04-24T21:52:53.011892",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
