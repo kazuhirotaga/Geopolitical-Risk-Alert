@@ -1,150 +1,158 @@
 {
   "date": "2026-04-24",
-  "summary": "世界各地で金融システムの不安定化、資源不足、大規模な抗議活動が複合的に発生し、社会不安が増大しています。特に北米では仮想通貨市場の混乱と一部銀行での取り付け騒ぎが報告され、中東では燃料不足が深刻化し、イランではデモが暴力的な状況に発展しています。東アジア（主にインド）では暴動や資源不足による大規模デモが頻発し、欧州でも燃料供給への懸念が高まるなど、全体的に警戒レベルが上昇しています。",
-  "global_panic_index": 68,
+  "summary": "世界各地で金融不安、エネルギー・資源不足、そして暴力的な抗議活動が顕著となり、社会不安が高まっています。特にアジアとヨーロッパでは燃料不足やLPG供給危機が深刻化し、広範な市民生活への影響が懸念されています。北米では銀行の取り付け騒ぎや金融市場のパニックの兆候が見られ、中東とアフリカの一部地域では政府の対応に対する大規模なデモが暴力的な衝突に発展しています。",
+  "global_panic_index": 70,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 65,
+      "panic_index": 52,
       "status": "volatile",
-      "main_cause": "金融不安、大規模デモ、資源不足",
+      "main_cause": "金融不安、社会問題への抗議",
       "incidents": [
         {
-          "title": "ニューヨークの銀行で取り付け騒ぎ",
-          "location": "New York, USA",
-          "severity": 90,
-          "description": "ニューヨークの第19区の銀行で取り付け騒ぎが発生。市民が預金を引き出そうと殺到し、金融システムへの不信感が高まっている。",
+          "title": "ニューヨークの地方銀行で取り付け騒ぎ",
+          "location": "米国、ニューヨーク",
+          "severity": 70,
+          "description": "ニューヨークの19th Ward Bankで取り付け騒ぎが発生した模様。詳細な状況は不明だが、預金者が銀行に殺到する事態は、地域社会の金融不安が顕在化したことを示唆している。",
           "source": "WFMZ.com"
         },
         {
-          "title": "仮想通貨市場でハッキングとDeFi取り付け騒ぎ",
-          "location": "USA",
-          "severity": 80,
-          "description": "仮想通貨DeFi（分散型金融）市場でハッキング被害と取り付け騒ぎが発生。投資家の間で信頼が揺らぎ、市場の不安定化を招いている。",
-          "source": "Bank Policy Institute"
+          "title": "仮想通貨DeFi市場で「取り付け騒ぎ」",
+          "location": "グローバル（金融市場）",
+          "severity": 65,
+          "description": "イーサリアムやAaveなどの分散型金融（DeFi）市場において、「Bank Run」に類似する現象が発生。資金の引き出しが加速し、DeFiシステムの信頼性への懸念が高まっている。",
+          "source": "CryptoRank, Bitget, Modern Consensus"
         },
         {
-          "title": "ICEへの資金提供を巡る大規模抗議デモ",
-          "location": "Providence, USA",
-          "severity": 70,
-          "description": "Citizens Bank本社前で、数百人が米国移民関税執行局（ICE）への資金提供に抗議する大規模デモを実施。銀行の社会的責任が問われている。",
-          "source": "Truthout"
-        },
-        {
-          "title": "7年間の水不足に抗議し幹線道路封鎖",
-          "location": "Los Cabos, Mexico",
-          "severity": 85,
-          "description": "ロス・カボスで7年続く水不足に怒る住民が主要幹線道路を封鎖し抗議。生活インフラの不備が社会不安を引き起こしている。",
-          "source": "Cabo Sun"
-        },
-        {
-          "title": "プライベートクレジット市場のパニック懸念",
-          "location": "USA",
-          "severity": 75,
-          "description": "プライベートクレジット市場において、一部投資家がパニック的な資金引き揚げの動きを見せているとの懸念が報じられている。",
+          "title": "プライベートクレジット市場におけるパニック",
+          "location": "米国（金融市場全体）",
+          "severity": 60,
+          "description": "プライベートクレジット市場で「パニック」という言葉が用いられ、特定の金融商品の取引が大きく影響を受けている。広範な金融システムへの不安が一部で高まる兆候が見られる。",
           "source": "Investing.com"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "エネルギー不足の懸念",
-      "incidents": [
+        },
         {
-          "title": "イラン戦争で欧州の燃料不足懸念",
-          "location": "Europe",
-          "severity": 70,
-          "description": "イラン戦争の継続により、欧州が数週間以内に燃料不足に陥る可能性が指摘されており、エネルギー供給への深刻な懸念が広がっている。",
-          "source": "MSN"
+          "title": "複数箇所での市民銀行への抗議デモ",
+          "location": "米国各地 (Providence, Rhode Islandなど)",
+          "severity": 45,
+          "description": "ICE（移民税関執行局）への資金提供やイスラエル兵器企業への融資停止を求める抗議デモが、シチズンズ銀行やキャピタルワンの支店・本社前で行われている。",
+          "source": "WPRI.com, Truthout, Ocean State Media, Cape Cod Times, AOL.com, Providence Business News"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、大規模デモ",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "政府への抗議、人権侵害",
       "incidents": [
         {
-          "title": "パキスタン全州でガソリン・ディーゼル不足",
-          "location": "Pakistan",
-          "severity": 90,
-          "description": "イラン戦争の影響でパキスタン全土でガソリンとディーゼルが不足し、ガソリンスタンドのポンプが枯渇状態。市民生活に大きな影響が出ている。",
-          "source": "MSN"
-        },
-        {
-          "title": "ローマ教皇がイランのデモ参加者殺害を非難",
-          "location": "Iran",
-          "severity": 85,
-          "description": "ローマ教皇がイラン当局によるデモ参加者の殺害を強く非難。イラン国内の大規模な抗議活動は、人権侵害の問題に発展している。",
+          "title": "イランでのデモ参加者殺害、ローマ教皇が非難",
+          "location": "イラン",
+          "severity": 80,
+          "description": "イランで大規模なデモが続き、政府がデモ参加者を殺害していると報じられている。ローマ教皇もこれを非難し、国内の社会不安は極めて深刻な状態にあり、国際社会の懸念も高まっている。",
           "source": "Reuters"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "大規模デモ、暴動、エネルギー不足",
+      "region": "southeast_asia",
+      "panic_index": 78,
+      "status": "critical",
+      "main_cause": "エネルギー不足、社会秩序の混乱",
       "incidents": [
         {
-          "title": "マニプールで大規模デモ、シャットダウン、暴動",
-          "location": "Manipur, India",
-          "severity": 95,
-          "description": "子供の死亡事件と護送車襲撃事件を受けてマニプールで大規模なデモ、双子シャットダウン、暴動が発生。インパール市内の秩序が混乱している。",
+          "title": "パキスタン全土でイラン戦争の影響による燃料不足",
+          "location": "パキスタン",
+          "severity": 85,
+          "description": "イラン戦争の影響でパキスタン全土のガソリンスタンドでガソリンとディーゼルが枯渇。広範な燃料不足が市民生活と経済活動に深刻な打撃を与え、大規模な社会パニックを誘発する恐れがある。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド・マニプール州で子どもの死亡と襲撃を受け、広範な社会不安",
+          "location": "インド、マニプール州インパール",
+          "severity": 85,
+          "description": "子どもの死亡と襲撃事件を受け、地域全体が閉鎖され、大規模な抗議デモと社会不安が拡大。深刻な人道問題と治安悪化を示唆し、住民のパニックを引き起こしかねない状況である。",
           "source": "Dailyhunt"
         },
         {
-          "title": "ノイダで賃金引き上げ要求デモが暴徒化",
-          "location": "Noida, India",
-          "severity": 90,
-          "description": "ノイダで賃金引き上げを求める労働者デモが暴徒化し、車が放火され投石が行われた。社会不安が深刻化している。",
-          "source": "MSN"
-        },
-        {
-          "title": "LPG供給危機、10kgシリンダー導入検討",
-          "location": "India",
+          "title": "インド・ノイダでの給与引き上げ抗議が暴徒化、車両放火と投石",
+          "location": "インド、ノイダ",
           "severity": 80,
-          "description": "インドでLPG供給危機が発生し、国営石油会社が10kgシリンダーの導入を検討。エネルギー不足が市民生活に影響を与えている。",
+          "description": "給与引き上げを求める抗議デモが暴徒化し、車両が放火され石が投げつけられる事態が発生。地域社会の治安と秩序が著しく乱されており、単なる抗議を超えた危険な状況だ。",
           "source": "MSN"
         },
         {
-          "title": "バス不足で乗客が抗議、投票できず帰宅",
-          "location": "Kilambakkam, India",
-          "severity": 70,
-          "description": "タミル・ナードゥ州キランバッカムでバス不足により乗客が抗議デモを行い、投票できずに帰宅。交通インフラの機能不全が社会問題化。",
-          "source": "MSN"
-        },
-        {
-          "title": "日本でもプライベートクレジット「取り付け騒ぎ」懸念",
-          "location": "Japan",
+          "title": "インドでLPG供給危機、10kgシリンダーの導入を検討",
+          "location": "インド",
           "severity": 75,
-          "description": "日本のプライベートクレジット市場において、解約制限を背景とした「取り付け騒ぎ」への懸念が浮上。個人マネー頼みの矛盾が指摘されている。",
-          "source": "日本経済新聞"
+          "description": "LPG（液化石油ガス）の供給危機が深刻化し、国営石油会社が対応を検討中。多くの家庭の調理や暖房に影響を与え、広範な社会的な不安と不満を引き起こしている。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド・タミル・ナードゥ州でバス不足により有権者が抗議",
+          "location": "インド、タミル・ナードゥ州キランバッカム",
+          "severity": 65,
+          "description": "バス不足により有権者が抗議デモを行い、投票所に行けずに帰宅する事態が発生。公共交通機関の機能不全が市民生活、特に民主的なプロセスに大きな影響を与え社会不安を引き起こしている。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "社会不安、労働争議",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "政府への抗議、治安悪化",
       "incidents": [
         {
-          "title": "ダーバンCBDで暴動、違法捜索・脅迫に警告",
-          "location": "Durban, South Africa",
-          "severity": 85,
-          "description": "ダーバンの中心業務地区で暴動が発生し、KZN SAPSがデモ参加者に対し、違法な捜索や脅迫行為をしないよう警告を発している。",
+          "title": "タンザニアでの抗議デモ、518人死亡という政府調査に批判",
+          "location": "タンザニア",
+          "severity": 90,
+          "description": "抗議デモに関して、政府が発表した「518人死亡」という調査結果に対し批判が殺到。デモは極めて暴力的かつ大規模な衝突に発展しており、国内の社会不安は臨界点に達している。",
+          "source": "日本経済新聞"
+        },
+        {
+          "title": "ダーバン市中心部での社会不安、違法捜索と脅迫に警察が警告",
+          "location": "南アフリカ、ダーバン",
+          "severity": 70,
+          "description": "社会不安が広がるダーバン中心部で、KZN警察が抗議者に対し違法な捜索や市民への脅迫行為をしないよう警告。抗議活動がエスカレートし、地域社会の治安が悪化している状況を示している。",
           "source": "East Coast Radio"
         },
         {
-          "title": "元銀行員が未払い退職金に抗議デモ",
-          "location": "Nigeria",
-          "severity": 65,
-          "description": "ナイジェリアのSterling Bankの元従業員が、解雇から約1年が経過しても未払いの退職金に抗議するデモを実施。社会的な不満が蓄積されている。",
+          "title": "ナイジェリアのスターリング銀行元従業員が未払い退職金で抗議",
+          "location": "ナイジェリア",
+          "severity": 50,
+          "description": "スターリング銀行の元従業員らが、解雇から約1年が経過しても未払いの退職金を求めて抗議活動を行っている。経済的な苦境と、企業に対する不満が社会不安につながっている。",
           "source": "Daily Report Nigeria"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 90,
+      "status": "critical",
+      "main_cause": "エネルギー不足",
+      "incidents": [
+        {
+          "title": "イラン戦争継続でヨーロッパが数週間以内に燃料枯渇の危機",
+          "location": "ヨーロッパ全域",
+          "severity": 90,
+          "description": "イラン戦争が続く中、ヨーロッパは数週間以内に燃料が枯渇する可能性があり、深刻な事態に直面している。この大規模なエネルギー危機は経済活動を停止させ、広範なパニックを引き起こす恐れがある。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "水不足、生活インフラの機能不全",
+      "incidents": [
+        {
+          "title": "7年続く水不足に抗議、メキシコ・ロス・カボスの主要幹線道路を封鎖",
+          "location": "メキシコ、ロス・カボス",
+          "severity": 70,
+          "description": "7年間続く水不足に抗議するため、住民が主要幹線道路を封鎖。生活に不可欠な資源の長期的な不足に対する住民の強い不満が、社会インフラを停止させる行動に発展している。",
+          "source": "Cabo Sun"
         }
       ]
     }

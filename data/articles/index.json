@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-24",
-    "summary": "中東における米国とイランの対立、ウクライナ情勢の悪化、その他地域での紛争や政治的緊張により、地政学リスクは全体的に高い水準を維持。世界経済への影響も懸念される。",
+    "summary": "中東における緊張緩和の兆しが見られる一方、ウクライナ情勢は依然として不安定。米中間の緊張も継続し、世界経済への影響が懸念される。人道危機も複数地域で深刻化しており、地政学リスクは全体的に高い水準を維持。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "medium",
-      "south_asia": "high",
+      "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "critical",
+      "middle_east": "high",
       "europe": "high",
-      "africa": "medium",
-      "north_america": "high",
+      "africa": "high",
+      "north_america": "medium",
       "south_america": "low"
     },
-    "generated_at": "2026-04-24T02:58:09.349295"
+    "generated_at": "2026-04-24T05:42:07.030061"
   },
   {
     "date": "2026-04-23",
