@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-25",
-    "summary": "中東情勢が緊迫化。イランを巡る米国との対立が継続し、イスラエルとレバノン、ガザ地区での衝突も発生。ウクライナ情勢も依然として不安定で、世界的な食料不安も深刻化している。",
+    "summary": "中東情勢が緊迫化。米イラン間の緊張が継続し、ガザ地区やレバノンでの戦闘も発生。ウクライナ情勢も依然として不安定。米中対立も継続し、世界的な食料不安も深刻化している。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "medium",
       "south_asia": "high",
       "central_asia": "none",
-      "middle_east": "critical",
+      "middle_east": "high",
       "europe": "medium",
       "africa": "low",
-      "north_america": "high",
+      "north_america": "medium",
       "south_america": "medium"
     },
-    "generated_at": "2026-04-25T07:24:18.364868"
+    "generated_at": "2026-04-25T09:56:25.672050"
   },
   {
     "date": "2026-04-24",

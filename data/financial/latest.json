@@ -1,14 +1,14 @@
 {
   "date": "2026-04-25",
-  "summary": "地政学的リスク（イラン戦争、ホルムズ海峡封鎖）とインフレ懸念が市場を圧迫。一方で、AI関連株は高騰し、ビットコインも回復基調。米連邦準備制度理事会（FRB）の動向も不透明で、金融市場全体に警戒感が漂う。",
+  "summary": "地政学的リスクとインフレ懸念が交錯し、市場のボラティリティが高まっている。特にイラン情勢と米国の金融政策の不確実性がリスクを高めている。暗号資産市場は規制強化の動きと技術的脆弱性への懸念が重なり、不安定な状況が続いている。",
   "overall_risk_level": "high",
   "articles": [
     {
       "title": "Nvidia stock closes at record, pushing market cap past $5 trillion",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "Nvidia株が過去最高値を更新し、時価総額が5兆ドルを超えた。Intel株の上昇も半導体セクター全体を押し上げた。",
-      "analysis": "Nvidiaの株価上昇は、AI需要の拡大を反映している。しかし、半導体セクター全体の過熱感も否めず、調整リスクも存在する。特に、金利上昇や景気後退が起きた場合、高PERのハイテク株は売られやすい。今後の決算発表や経済指標に注意が必要。",
+      "risk_level": "low",
+      "summary": "Nvidia株が過去最高値を更新し、時価総額が5兆ドルを超えた。Intelの株価上昇も半導体セクター全体を押し上げた。",
+      "analysis": "Nvidiaの株価上昇は、AIブームを背景とした半導体需要の拡大を反映している。しかし、PERなどの指標から見て割高感も否めず、今後の成長が鈍化した場合、調整リスクが高まる可能性がある。半導体セクター全体の過熱感にも注意が必要。",
       "key_entities": [
         "Nvidia",
         "Intel"
@@ -24,8 +24,8 @@
       "title": "Cramer's week ahead: Record highs meet a pivotal week for tech earnings",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ジム・クレイマーは、市場が「怪物」になったと述べ、今週のテクノロジー企業の決算が上昇トレンドを維持できるかどうかの試金石になると指摘。",
-      "analysis": "市場全体が高値圏にある中で、テクノロジー企業の決算が市場の方向性を左右する重要なイベントとなる。期待外れの決算が出た場合、調整局面に入る可能性もある。特に、AI関連企業の成長鈍化は、市場全体のセンチメントを悪化させる可能性がある。",
+      "summary": "ジム・クレイマーは、市場が「野獣」になったと述べ、テック企業の決算が相場を左右すると指摘。",
+      "analysis": "テック企業の決算発表は、現在の株高が正当化されるかどうかの試金石となる。予想を下回る結果が出た場合、大規模な調整が起こる可能性もある。特に、金利上昇やインフレ懸念がくすぶる中、市場のセンチメントは変わりやすい。",
       "key_entities": [],
       "sources": [
         "CNBC - Top News"
@@ -37,9 +37,9 @@
     {
       "title": "Strait of Hormuz may not fully reopen until second half of 2026, Baker Hughes says",
       "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "ホルムズ海峡のタンカー輸送量は依然として低水準。米国とイランが脆弱な停戦合意下で対立する封鎖を続けているため、完全な再開は2026年後半までずれ込む可能性。",
-      "analysis": "ホルムズ海峡の封鎖は、原油・LNGの供給に深刻な影響を与える。エネルギー価格の高騰は、インフレを加速させ、世界経済の成長を阻害する要因となる。地政学的リスクが金融市場に与える影響は大きく、今後の紛争激化や停戦交渉の行方に注目する必要がある。",
+      "risk_level": "high",
+      "summary": "ホルムズ海峡のタンカー交通量が依然として低く、2026年後半まで完全には再開しない可能性がある。",
+      "analysis": "ホルムズ海峡の閉鎖は、原油およびLNGの供給に深刻な影響を与える。地政学的リスクが高まり、エネルギー価格の上昇を通じてインフレを加速させる可能性がある。代替ルートの確保や備蓄の積み増しが急務となる。",
       "key_entities": [
         "Baker Hughes",
         "Iran"
@@ -53,10 +53,10 @@
     },
     {
       "title": "Kushner, Witkoff — not Vance — heading to Pakistan for 'direct talks' with Iran, White House says",
-      "region": "south_asia",
-      "risk_level": "high",
-      "summary": "トランプ大統領は、イランとの和平交渉を急がないと発言。イラン戦争が株式と原油価格に与える影響は予想よりも小さいと主張。",
-      "analysis": "イラン戦争の長期化は、地政学的リスクを高め、金融市場に不確実性をもたらす。和平交渉の進展は、リスクオフの動きを緩和する可能性があるが、交渉が決裂した場合、さらなる市場の混乱が予想される。トランプ政権の外交戦略が、今後の市場の変動に大きく影響する。",
+      "region": "middle_east",
+      "risk_level": "critical",
+      "summary": "クシュナー氏らがイランとの直接交渉のためパキスタンへ。トランプ大統領はイラン戦争が株価と原油価格に与える影響は予想より小さいと主張。",
+      "analysis": "イラン情勢は依然として予断を許さない。交渉の進展次第では市場の安定化につながる可能性があるが、決裂した場合、さらなる地政学的リスクの高まりと原油価格の急騰が予想される。トランプ大統領の発言は、市場を過小評価させている可能性があり、注意が必要。",
       "key_entities": [
         "Iran"
       ],
@@ -71,15 +71,33 @@
       "title": "Pirro could reopen Fed probe at any time, Democratic senators warn",
       "region": "europe",
       "risk_level": "medium",
-      "summary": "エリザベス・ウォーレン上院議員とディック・ダービン上院議員は、ジャニーヌ・ピロがFRB議長ジェローム・パウエルに対する調査を再開する可能性について懸念を表明。",
-      "analysis": "FRB議長に対する政治的な圧力は、金融政策の独立性を損なう恐れがある。パウエル議長の辞任や解任は、市場に大きな混乱をもたらす可能性があり、今後のFRBの政策運営に不透明感が増す。政治リスクが金融市場に与える影響を注視する必要がある。",
+      "summary": "民主党上院議員が、ジニー・ピロ氏によるFRB議長ジェローム・パウエル氏の調査再開の可能性に懸念を表明。",
+      "analysis": "FRB議長の交代や調査再開の可能性は、金融政策の不確実性を高め、市場の混乱を招く可能性がある。特に、インフレ抑制と景気後退回避の両立が難しい状況下では、政策の安定性が重要となる。",
       "key_entities": [
-        "Jerome Powell",
-        "Elizabeth Warren",
-        "Dick Durbin"
+        "Federal Reserve",
+        "Jerome Powell"
       ],
       "sources": [
         "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "DOJ ends Powell probe, lifts hurdle for Trump’s Fed chair nominee Warsh",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "司法省がパウエル議長への調査を終了。トランプ大統領がFRB議長にケビン・ウォーシュ氏を指名する障害が取り除かれた。",
+      "analysis": "パウエル議長の交代は、金融政策の方向性に大きな影響を与える可能性がある。ウォーシュ氏が指名された場合、市場は新たな政策方針を織り込む必要があり、ボラティリティが高まる可能性がある。",
+      "key_entities": [
+        "Federal Reserve",
+        "Jerome Powell",
+        "Kevin Warsh"
+      ],
+      "sources": [
+        "CNBC - Top News",
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -89,56 +107,11 @@
       "title": "Bitcoin is on track for its best month in a year. $5 billion USDT growth fuels the rebound",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインは今年最高の月になる見込み。50億ドルのUSDTの増加が回復を後押し。",
-      "analysis": "ビットコインの回復は、暗号資産市場全体のセンチメント改善を示唆する。しかし、USDTの増加が市場操作によるものである場合、価格急落のリスクも存在する。また、SpaceXのIPOが暗号資産市場の流動性を奪う可能性も指摘されており、今後の動向に注意が必要。",
+      "summary": "ビットコインは今年最高の月になる見込み。50億ドルのUSDT増加が回復を後押し。",
+      "analysis": "ビットコインの回復は、USDTの増加に支えられている。しかし、USDTの透明性や担保資産の安全性に対する懸念は依然として残っており、市場の安定性を脅かす可能性がある。",
       "key_entities": [
-        "Bitcoin"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Nuclear reactor company X-energy shares surge 27% as AI drives interest in its IPO",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "先進的な原子炉企業X-energyの株式が取引を開始。AIブームと広範な電化が原子力産業への関心を高め、株価は27%急騰。",
-      "analysis": "AI需要の拡大は、エネルギー需要の増加につながり、原子力発電への関心を高めている。X-energyのIPO成功は、原子力産業への投資意欲の高さを示す。しかし、原子力発電には安全性の問題や建設コストの問題も存在し、今後の成長には課題も多い。",
-      "key_entities": [
-        "X-energy"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Japan Consumer Inflation Picks Up as Mideast War Fuels Energy Costs",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "中東戦争がエネルギーコストを押し上げ、日本の消費者物価が上昇。",
-      "analysis": "日本のインフレ率は依然として低い水準にあるが、中東情勢の悪化がエネルギー価格を通じてインフレを加速させる可能性がある。日銀は、金融緩和政策の修正を迫られる可能性があり、今後の政策運営に注目が集まる。",
-      "key_entities": [],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "米商品先物取引委員会（CFTC）は、予測市場への規制強化のため、ニューヨーク州を提訴対象に追加。",
-      "analysis": "予測市場に対する規制強化は、市場の透明性を高める一方で、イノベーションを阻害する可能性もある。CFTCの規制方針が、今後の予測市場の発展に大きな影響を与える。",
-      "key_entities": [
-        "CFTC"
+        "Bitcoin",
+        "USDT"
       ],
       "sources": [
         "CoinDesk"
@@ -151,11 +124,43 @@
       "title": "SpaceX's $75 billion IPO could drain the liquidity that's helping lift bitcoin and crypto",
       "region": "global",
       "risk_level": "medium",
-      "summary": "SpaceXの750億ドルのIPOは、ビットコインや暗号資産の上昇を支えている流動性を奪う可能性がある。",
-      "analysis": "大型IPOは、市場全体の流動性を低下させ、暗号資産市場にも影響を与える可能性がある。SpaceXのIPO規模が大きいほど、暗号資産市場からの資金流出リスクが高まる。今後のIPOのスケジュールや市場の反応に注意が必要。",
+      "summary": "SpaceXの750億ドルのIPOは、ビットコインや暗号資産市場の流動性を奪う可能性がある。",
+      "analysis": "大規模なIPOは、他の資産クラスから資金を移動させる可能性がある。特に、暗号資産市場は流動性に敏感であり、資金流出は価格下落につながる可能性がある。",
       "key_entities": [
-        "SpaceX",
+        "Bitcoin",
+        "SpaceX"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Researcher wins 1 bitcoin bounty for 'largest quantum attack' on underlying tech",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "研究者が、基盤技術に対する「最大の量子攻撃」で1ビットコインの賞金を獲得。",
+      "analysis": "量子コンピュータによる暗号資産への攻撃は、長期的なリスク要因となる。量子コンピュータの発展に伴い、暗号資産の安全性が脅かされる可能性があり、技術的な対策が急務となる。",
+      "key_entities": [
         "Bitcoin"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "米CFTCは、予測市場への規制強化のため、ニューヨーク州を提訴対象に追加。",
+      "analysis": "予測市場に対する規制強化は、暗号資産関連ビジネスの成長を阻害する可能性がある。規制の不確実性は、投資家のリスク回避姿勢を強め、市場のボラティリティを高める可能性がある。",
+      "key_entities": [
+        "CFTC"
       ],
       "sources": [
         "CoinDesk"
@@ -171,7 +176,7 @@
     "europe": "medium",
     "east_asia": "medium"
   },
-  "generated_at": "2026-04-25T07:24:39.115342",
+  "generated_at": "2026-04-25T09:56:45.321744",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
