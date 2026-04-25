@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-04-25",
+    "summary": "世界経済は、地政学的リスク、インフレ、金融政策の不確実性により、依然として高いリスクにさらされている。特に、中東情勢の緊迫化、米国の金融政策の動向、暗号資産市場の変動が注目される。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "high",
+      "north_america": "medium",
+      "europe": "medium",
+      "east_asia": "medium"
+    },
+    "generated_at": "2026-04-25T02:47:44.233909"
+  },
+  {
     "date": "2026-04-24",
     "summary": "金融市場は地政学的リスクと政策変更の不確実性により不安定。中東情勢緊迫化、米国の金融政策見通し、暗号資産市場の変動が主な要因。AI関連技術への投資は活発だが、規制リスクも顕在化。",
     "overall_risk_level": "medium",
