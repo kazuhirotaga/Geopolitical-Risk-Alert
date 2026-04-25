@@ -1,23 +1,66 @@
 {
   "date": "2026-04-25",
-  "summary": "本日は、FRBによる金融機関の合併・買収承認、地域銀行のレバレッジ比率変更、および元従業員に対する執行措置に関する発表が中心です。直接的な要人発言は確認できませんでした。",
+  "summary": "本日は、FRB関連のニュースが中心。金融機関の合併・買収承認や、地域銀行のレバレッジ比率に関する規制変更が発表された。直接的な要人発言は確認できず、市場への直接的な影響は限定的と考えられる。",
   "statements": [
     {
-      "speaker": "該当なし",
-      "title": "該当なし",
-      "quote": "該当なし",
-      "context": "該当なし",
-      "analysis": "FRBの発表は、金融システムの安定性維持と健全な競争環境の促進を目的としています。個別の金融機関の動向は、市場全体への直接的な影響は限定的ですが、規制変更は地域銀行の経営戦略に影響を与える可能性があります。",
+      "speaker": "連邦準備制度理事会（FRB）",
+      "title": "アメリカ合衆国の中央銀行",
+      "quote": "OceanFirst Financial Corp.によるOceanFirst Bank, N.A.の株式取得申請を承認",
+      "context": "FRBによる金融機関の合併・買収申請の審査結果発表",
+      "analysis": "OceanFirst Financial Corp.の事業拡大を承認するもので、金融セクターにおける再編の動きを示唆する。ただし、個別の金融機関の事例であり、市場全体への影響は限定的。",
       "importance": "low",
       "tags": [
-        "金融規制",
-        "FRB",
-        "銀行"
+        "金融",
+        "合併・買収",
+        "規制"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm"
+    },
+    {
+      "speaker": "連邦準備制度理事会（FRB）",
+      "title": "アメリカ合衆国の中央銀行",
+      "quote": "Banco de Credito del Peruによるニューヨーク州銀行法に基づく支店開設申請を承認",
+      "context": "FRBによる外国銀行の米国支店開設申請の審査結果発表",
+      "analysis": "ペルーのBanco de Credito del Peruの米国進出を承認するもので、南米と米国間の金融取引の活発化を示唆する。ただし、個別の金融機関の事例であり、市場全体への影響は限定的。",
+      "importance": "low",
+      "tags": [
+        "金融",
+        "国際",
+        "規制",
+        "南米"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm"
+    },
+    {
+      "speaker": "連邦準備制度理事会（FRB）",
+      "title": "アメリカ合衆国の中央銀行",
+      "quote": "地域銀行のレバレッジ比率を向上させるための変更を最終決定",
+      "context": "FRB、FDIC、OCCによる共同発表",
+      "analysis": "地域銀行の健全性強化を目的とした規制変更。地域金融機関の経営安定化に繋がり、間接的に経済の安定に寄与する可能性がある。ただし、具体的な変更内容の詳細な分析が必要。",
+      "importance": "medium",
+      "tags": [
+        "金融",
+        "規制",
+        "地域銀行"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260423a.htm"
+    },
+    {
+      "speaker": "連邦準備制度理事会（FRB)",
+      "title": "アメリカ合衆国の中央銀行",
+      "quote": "First Financial Bankの元従業員に対する執行措置を発行",
+      "context": "FRBによる金融機関の不正行為に対する措置",
+      "analysis": "個別の不正行為に対する措置であり、金融システム全体への影響は限定的。ただし、同様の事例が多発している場合は、金融機関の内部統制に対する懸念が高まる可能性がある。",
+      "importance": "low",
+      "tags": [
+        "金融",
+        "不正行為",
+        "規制"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260422a.htm"
     }
   ],
-  "generated_at": "2026-04-25T15:43:37.363115",
+  "generated_at": "2026-04-25T19:00:46.368708",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

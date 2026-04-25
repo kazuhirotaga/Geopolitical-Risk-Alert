@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-25",
-    "summary": "中東情勢の緊迫化、ウクライナ情勢の長期化、米中対立の激化など、地政学リスクが複合的に高まっている。特にイランを巡る緊張は、世界経済や安全保障に広範囲な影響を及ぼす可能性があり、注視が必要。",
+    "summary": "中東情勢が不安定化。米イラン停戦は維持されるも、ホルムズ海峡の緊張がサプライチェーンに影響。ウクライナ情勢も依然として深刻。ガザ地区では選挙が実施される一方、人道状況は悪化の一途を辿る。核軍縮を巡る国際的な緊張も高まっている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -9,13 +9,13 @@
       "southeast_asia": "medium",
       "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "high",
-      "europe": "high",
+      "middle_east": "critical",
+      "europe": "critical",
       "africa": "medium",
-      "north_america": "high",
-      "south_america": "medium"
+      "north_america": "medium",
+      "south_america": "low"
     },
-    "generated_at": "2026-04-25T15:43:07.799800"
+    "generated_at": "2026-04-25T19:00:16.455456"
   },
   {
     "date": "2026-04-24",
