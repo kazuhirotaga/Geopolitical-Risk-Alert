@@ -1,136 +1,136 @@
 {
   "date": "2026-04-25",
-  "summary": "世界各地で、食料やエネルギーの不足が原因となる社会不安が増加しています。特に南アジアでは労働争議や生活必需品の欠乏に対する大規模な抗議が続き、一部では暴力も報告されています。ヨーロッパやパキスタンでは、国際情勢を背景とした燃料供給の危機が懸念され、既に不足が顕在化している地域もあります。全体として、基本的な生活インフラへの不安が広がり、一部で社会秩序の不安定化が見られます。",
-  "global_panic_index": 60,
+  "summary": "世界各地でエネルギー不足、金融不安、労働不安、外国人排斥を巡る社会不安が顕在化しています。特にパキスタンとヨーロッパではイラン戦争に起因する燃料供給の危機が深刻化し、南アフリカでは外国人排斥デモが警戒レベルに達しています。インドではエネルギー不足が大規模な抗議活動に発展し、金融機関のライセンス取り消しによる不安も高まっています。北米では銀行とICEの関連を巡るデモが散発しており、全体として国際情勢や国内の経済・社会問題が複雑に絡み合い、広範囲で緊迫した状況が続いています。",
+  "global_panic_index": 67,
   "regions": [
     {
-      "region": "south_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "労働問題、生活必需品不足、抗議の暴徒化",
+      "region": "north_america",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "金融機関の倫理問題と社会的不満、抗議デモ",
       "incidents": [
         {
-          "title": "インド：Noida労働者抗議と暴力",
-          "location": "インド、ノイダ",
-          "severity": 85,
-          "description": "労働者の賃金や労働条件に関する大規模な抗議が暴力に発展し、警備が強化され、誤情報が騒乱を助長しています。",
-          "source": "MSN, Google News"
+          "title": "シチズンズ銀行への抗議デモ（ICE支援）",
+          "location": "米国",
+          "severity": 40,
+          "description": "数百人がシチズンズ銀行の移民関税執行局（ICE）支援に抗議。組織的なデモで、企業の社会責任が問われ社会的な緊張が高まっている。",
+          "source": "Substack"
         },
         {
-          "title": "インド：Sopore学生抗議と学校破壊",
-          "location": "インド、ソポレ",
-          "severity": 80,
-          "description": "学生による抗議活動が暴徒化し、学校が破壊される事態が発生。騒乱を扇動したとして複数の人物が拘束されました。",
-          "source": "The Tribune, Kashmir Observer"
+          "title": "ICEによる銀行駐車場利用を巡る騒動",
+          "location": "ニューヨーク州クイーンズ",
+          "severity": 45,
+          "description": "ICEが銀行駐車場を移民関連業務に利用していることに住民が反発し、騒動が発生。地域住民の不満が噴出しており、社会不安が拡大する可能性がある。",
+          "source": "Documented"
         },
         {
-          "title": "インド：LPG不足による抗議",
-          "location": "インド、ジンド",
-          "severity": 70,
-          "description": "LPG（液化石油ガス）の深刻な不足が住民の抗議を引き起こし、警察が配備される事態となっています。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド：飲料水不足に対する抗議",
-          "location": "インド、ケンドラパラ/バンジャラ・ヒルズ",
-          "severity": 70,
-          "description": "10日間にわたる深刻な飲料水不足に対し、住民が路上で抗議活動を行い、基本的な生活への不満が高まっています。",
-          "source": "The Times of India, Munsif News 24x7"
-        },
-        {
-          "title": "パキスタン：イラン戦争起因の燃料不足",
-          "location": "パキスタン",
-          "severity": 75,
-          "description": "イラン戦争の影響により、パキスタン各地でガソリンとディーゼルの深刻な不足が発生し、給油ポンプが枯渇しています。",
-          "source": "MSN"
+          "title": "ブラウン大学組合がシチズンズ銀行からの資金引き出しを表明",
+          "location": "米国ボストン",
+          "severity": 50,
+          "description": "ブラウン大学の組合がICEとの関係を理由にシチズンズ銀行から資金50万ドルを引き出す動き。他の団体も追随の可能性があり、金融機関への不信が高まっている。",
+          "source": "The Boston Globe"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 65,
-      "status": "unstable",
-      "main_cause": "エネルギー不足の懸念",
+      "panic_index": 78,
+      "status": "volatile",
+      "main_cause": "エネルギー不足（イラン戦争起因）",
       "incidents": [
         {
-          "title": "英国：ガソリン・ディーゼル不足の可能性",
-          "location": "イギリス",
-          "severity": 60,
-          "description": "英国がガソリンやディーゼルの不足にどれだけ近づいているかという懸念が高まっており、潜在的な供給危機が報じられています。",
-          "source": "The Times"
+          "title": "イラン戦争継続による欧州の燃料枯渇懸念",
+          "location": "欧州全域",
+          "severity": 85,
+          "description": "イラン戦争の長期化により、ヨーロッパ全体で数週間以内に燃料が枯渇する可能性が指摘されている。エネルギー供給への極度の不安が広がり、社会機能麻痺の懸念がある。",
+          "source": "MSN"
         },
         {
-          "title": "欧州：燃料不足の危機予測",
-          "location": "ヨーロッパ",
-          "severity": 65,
-          "description": "イラン戦争の継続により、ヨーロッパが数週間以内に燃料不足に陥る可能性が指摘されており、供給危機への警戒が高まっています。",
-          "source": "MSN"
+          "title": "英国でのガソリン・ディーゼル不足懸念",
+          "location": "英国",
+          "severity": 70,
+          "description": "英国でガソリン・ディーゼル不足への懸念が高まっている。供給網の混乱や買いだめ行動が誘発され、市民生活や経済活動に影響を及ぼす恐れがある。",
+          "source": "The Times"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 45,
+      "region": "middle_east",
+      "panic_index": 58,
       "status": "unstable",
-      "main_cause": "社会・政治的抗議",
+      "main_cause": "エネルギー不足（イラン戦争起因）、社会不安",
       "incidents": [
         {
-          "title": "Citizens Bankに対する抗議デモ",
-          "location": "アメリカ",
-          "severity": 45,
-          "description": "数百人の人々が、Citizens Bankの私設刑務所とICE（移民税関捜査局）への支援に抗議する集会を開催しました。",
-          "source": "Substack"
+          "title": "イラン戦争によるパキスタンの燃料不足",
+          "location": "パキスタン全土",
+          "severity": 85,
+          "description": "イラン戦争の影響でパキスタン全土でガソリン・ディーゼルが不足し、給油所が枯渇状態。市民生活や物流に深刻な影響が出ており、大規模な社会混乱が懸念される。",
+          "source": "MSN"
         },
         {
-          "title": "QueensでのICEによる銀行駐車場利用への騒動",
-          "location": "アメリカ、クイーンズ",
-          "severity": 40,
-          "description": "ICEが銀行の駐車場を利用していることに対し、地域住民から大きな反発と騒動が起きています。",
-          "source": "Documented"
-        },
+          "title": "キャンパスの混乱に関連する抗議活動緩衝地帯法案が拒否",
+          "location": "イスラエル",
+          "severity": 30,
+          "description": "キャンパスの不安に関連する抗議活動緩衝地帯法案が拒否された。大学内での意見対立や社会的な不満が継続していることを示唆している。",
+          "source": "Israel National News"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 80,
+      "status": "volatile",
+      "main_cause": "外国人排斥デモ、社会不安、治安悪化",
+      "incidents": [
         {
-          "title": "全米各地での反トランプデモ",
-          "location": "アメリカ各地",
-          "severity": 35,
-          "description": "全米各地で移民摘発やイラン攻撃に対する批判を表明する反トランプデモが実施されています。",
-          "source": "山陽新聞デジタル"
+          "title": "南アフリカでの外国人排斥デモとナイジェリアの警告",
+          "location": "南アフリカ",
+          "severity": 80,
+          "description": "南アフリカで外国人に対する抗議デモが激化し、ナイジェリア政府が自国民に警告を発出。暴動や略奪、外国人排斥の動きが深刻化し、人道上の危機が懸念される。",
+          "source": "BBC"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 35,
-      "status": "normal",
-      "main_cause": "金融サービス問題",
+      "panic_index": 73,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、労働不安、金融不安、社会インフラ問題",
       "incidents": [
         {
-          "title": "カンボジア：Huione Pay顧客の抗議",
-          "location": "カンボジア",
-          "severity": 50,
-          "description": "Huione Payの顧客が国立銀行（NBC）前で抗議活動を実施。三度目の交渉決裂後、H-Payの清算が進められる見通しです。",
-          "source": "CamboJA News"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "政治的デモ",
-      "incidents": [
-        {
-          "title": "日本：国会前デモ報道の差し替え",
-          "location": "日本、国会前",
-          "severity": 25,
-          "description": "国会前で行われたデモの放送が直前に差し替えられたと報じられ、メディアの報道姿勢に対する議論を呼んでいます。",
-          "source": "朝日新聞"
+          "title": "オーストラリアのジェット燃料「危機的不足」",
+          "location": "オーストラリア",
+          "severity": 80,
+          "description": "オーストラリアでジェット燃料が「危機的不足」に陥っており、航空輸送に甚大な影響が出ている。経済活動の停滞や人々の移動の制限が広範な不安を引き起こしている。",
+          "source": "The Nightly"
         },
         {
-          "title": "日本：反高市デモ",
-          "location": "日本",
-          "severity": 25,
-          "description": "高市首相に対する抗議デモが実施され、参加者からは様々な政治的・社会的不満が表明されています。",
-          "source": "集英社オンライン"
+          "title": "LPG不足を巡るインドでの抗議デモと警察出動",
+          "location": "インド、ジンド",
+          "severity": 75,
+          "description": "インドのジンドでLPG不足を巡る抗議デモが発生し、警察が出動。生活必需品の供給不安が直接的な社会不安や混乱を招いており、事態の沈静化が急務となっている。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド準備銀行によるPaytm Payments Bankライセンス取り消し",
+          "location": "インド",
+          "severity": 75,
+          "description": "インド準備銀行がPaytm Payments Bankのライセンスを取り消し。預金者の資産保全に対する懸念が高まり、取り付け騒ぎなど金融パニックに発展するリスクがある。",
+          "source": "Finimize"
+        },
+        {
+          "title": "ノイダの抗議デモ暴力化と組織的関与の指摘",
+          "location": "インド、ノイダ",
+          "severity": 70,
+          "description": "インドのノイダでの労働者デモが暴力化し、逮捕者には外部の扇動者が含まれ、組織的な陰謀が指摘されている。暴動や社会秩序の崩壊への懸念が高まっている。",
+          "source": "MSN"
+        },
+        {
+          "title": "インドでのLPG供給危機",
+          "location": "インド",
+          "severity": 70,
+          "description": "インドでLPG供給危機が顕在化し、政府系企業が対応を模索。生活必需品の供給不安が広がり、買いだめや社会不安を誘発する恐れがあり、国民の生活に直接的な影響を及ぼしている。",
+          "source": "MSN"
         }
       ]
     }

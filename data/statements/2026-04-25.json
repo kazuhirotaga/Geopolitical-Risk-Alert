@@ -1,73 +1,65 @@
 {
   "date": "2026-04-25",
-  "summary": "本日は、FRB関連の発表が中心。金融機関の合併・買収承認、地域銀行のレバレッジ比率変更、および過去の不正行為に対する執行措置が発表された。直接的な要人発言は確認できず、市場への直接的な影響は限定的と考えられる。",
+  "summary": "本日は、FRB関連の発表が中心。金融機関の合併・買収承認や、地域銀行のレバレッジ比率に関する規制変更など、金融システム安定化に向けた動きが見られる。直接的な要人発言は確認できず。",
   "statements": [
     {
-      "speaker": "該当なし",
-      "title": "該当なし",
-      "quote": "該当なし",
-      "context": "該当なし",
-      "analysis": "FRBの発表は、金融システムの安定と健全性を維持するための継続的な取り組みを示している。OceanFirst Financial Corp.とBanco de Credito del Peruの申請承認は、それぞれ米国内および南米における金融サービスの拡大を意味する。地域銀行のレバレッジ比率変更は、リスク管理の強化を目的としている可能性がある。First Financial Bankの元従業員に対する執行措置は、金融機関のコンプライアンス遵守を促すものと考えられる。",
+      "speaker": "連邦準備制度理事会 (FRB)",
+      "title": "アメリカ合衆国の中央銀行",
+      "quote": "OceanFirst Financial Corp.による申請を承認",
+      "context": "プレスリリース",
+      "analysis": "OceanFirst Financial Corp.の申請承認は、金融機関の再編を促進する可能性を示唆する。ただし、個別の金融機関の承認であり、市場全体への影響は限定的と考えられる。",
       "importance": "low",
       "tags": [
-        "FRB",
-        "金融規制",
-        "銀行",
-        "レバレッジ比率",
-        "コンプライアンス"
+        "金融機関",
+        "合併・買収",
+        "規制"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm"
     },
     {
-      "speaker": "該当なし",
-      "title": "該当なし",
-      "quote": "該当なし",
-      "context": "該当なし",
-      "analysis": "FRBの発表は、金融システムの安定と健全性を維持するための継続的な取り組みを示している。OceanFirst Financial Corp.とBanco de Credito del Peruの申請承認は、それぞれ米国内および南米における金融サービスの拡大を意味する。地域銀行のレバレッジ比率変更は、リスク管理の強化を目的としている可能性がある。First Financial Bankの元従業員に対する執行措置は、金融機関のコンプライアンス遵守を促すものと考えられる。",
+      "speaker": "連邦準備制度理事会 (FRB)",
+      "title": "アメリカ合衆国の中央銀行",
+      "quote": "Banco de Credito del Peruによる申請を承認",
+      "context": "プレスリリース",
+      "analysis": "Banco de Credito del Peruの申請承認は、南米地域における金融活動の拡大を支援する可能性がある。ただし、個別の金融機関の承認であり、グローバル市場への影響は限定的と考えられる。",
       "importance": "low",
       "tags": [
-        "FRB",
-        "金融規制",
-        "銀行",
-        "レバレッジ比率",
-        "コンプライアンス"
+        "金融機関",
+        "南米",
+        "規制"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm"
     },
     {
-      "speaker": "該当なし",
-      "title": "該当なし",
-      "quote": "該当なし",
-      "context": "該当なし",
-      "analysis": "FRBの発表は、金融システムの安定と健全性を維持するための継続的な取り組みを示している。OceanFirst Financial Corp.とBanco de Credito del Peruの申請承認は、それぞれ米国内および南米における金融サービスの拡大を意味する。地域銀行のレバレッジ比率変更は、リスク管理の強化を目的としている可能性がある。First Financial Bankの元従業員に対する執行措置は、金融機関のコンプライアンス遵守を促すものと考えられる。",
-      "importance": "low",
+      "speaker": "連邦準備制度理事会 (FRB)",
+      "title": "アメリカ合衆国の中央銀行",
+      "quote": "地域銀行のレバレッジ比率を強化するための変更を最終決定",
+      "context": "プレスリリース",
+      "analysis": "地域銀行のレバレッジ比率の変更は、金融システムの安定性を高めることを目的としている。規制強化は、地域銀行の貸し出し能力に影響を与える可能性があり、地域経済への影響を注視する必要がある。",
+      "importance": "medium",
       "tags": [
-        "FRB",
         "金融規制",
-        "銀行",
-        "レバレッジ比率",
-        "コンプライアンス"
+        "地域銀行",
+        "レバレッジ比率"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260423a.htm"
     },
     {
-      "speaker": "該当なし",
-      "title": "該当なし",
-      "quote": "該当なし",
-      "context": "該当なし",
-      "analysis": "FRBの発表は、金融システムの安定と健全性を維持するための継続的な取り組みを示している。OceanFirst Financial Corp.とBanco de Credito del Peruの申請承認は、それぞれ米国内および南米における金融サービスの拡大を意味する。地域銀行のレバレッジ比率変更は、リスク管理の強化を目的としている可能性がある。First Financial Bankの元従業員に対する執行措置は、金融機関のコンプライアンス遵守を促すものと考えられる。",
+      "speaker": "連邦準備制度理事会 (FRB)",
+      "title": "アメリカ合衆国の中央銀行",
+      "quote": "First Financial Bankの元従業員に対する執行措置を発行",
+      "context": "プレスリリース",
+      "analysis": "個別の従業員に対する執行措置は、金融機関のコンプライアンス体制の重要性を示唆する。ただし、市場全体への影響は限定的と考えられる。",
       "importance": "low",
       "tags": [
-        "FRB",
-        "金融規制",
-        "銀行",
-        "レバレッジ比率",
-        "コンプライアンス"
+        "金融機関",
+        "コンプライアンス",
+        "執行措置"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260422a.htm"
     }
   ],
-  "generated_at": "2026-04-25T09:57:00.150439",
+  "generated_at": "2026-04-25T13:14:15.599862",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
