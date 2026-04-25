@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-04-25",
-    "summary": "ウクライナ情勢の緊迫化、米イラン間の緊張、中東地域での不安定化、米中対立など、地政学的リスクが高まっている。特に、イラン情勢は食料安全保障にも影響を与え、グローバルな懸念材料となっている。",
+    "summary": "中東情勢の緊迫化、ウクライナ情勢の長期化、米中対立の激化など、地政学リスクが複合的に高まっている。特にイランを巡る緊張は、世界経済や安全保障に広範囲な影響を及ぼす可能性があり、注視が必要。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -9,13 +9,13 @@
       "southeast_asia": "medium",
       "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "critical",
+      "middle_east": "high",
       "europe": "high",
-      "africa": "none",
+      "africa": "medium",
       "north_america": "high",
       "south_america": "medium"
     },
-    "generated_at": "2026-04-25T13:13:44.470336"
+    "generated_at": "2026-04-25T15:43:07.799800"
   },
   {
     "date": "2026-04-24",

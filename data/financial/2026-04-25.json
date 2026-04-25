@@ -1,54 +1,19 @@
 {
   "date": "2026-04-25",
-  "summary": "地政学的リスク（米イラン間の緊張）とAI関連技術の急速な発展が市場を大きく揺さぶる。半導体市場の過熱感、暗号資産の量子コンピュータ耐性、金融政策の不確実性などが複合的に影響し、全体的にリスクが高い状況。",
+  "summary": "地政学的リスク（イラン戦争）と金融政策の不確実性が市場を圧迫。特に暗号資産市場はボラティリティが高く、量子コンピュータによる攻撃リスクも浮上。AI関連銘柄は選別が進み、過熱感も警戒される。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "AI人材の獲得競争が激化。ソフトウェア業界からOpenAIへの人材流出が加速し、ソフトウェア企業の株価低迷を招く。",
-      "analysis": "AI人材の偏在は、特定の企業への技術集中を招き、市場の寡占化を促進する。ソフトウェア業界全体の競争力低下を招き、長期的な成長を阻害する可能性がある。投資家は、AI戦略と人材確保に成功している企業を選別する必要がある。",
-      "key_entities": [
-        "OpenAI",
-        "ソフトウェア企業"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Semiconductor names make up a big portion of this week’s most overbought stocks",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "半導体株が買われすぎの状態。Advanced Micro Devices、Microchip Technology、Texas Instrumentsなどが過熱銘柄に。",
-      "analysis": "半導体市場はAI需要の恩恵を受けているが、過熱感は調整リスクを高める。金利上昇や景気後退が起これば、半導体需要が減退し、株価が大幅に下落する可能性がある。投資家は、ポートフォリオのリスク分散を検討すべき。",
-      "key_entities": [
-        "Advanced Micro Devices",
-        "Microchip Technology",
-        "Texas Instruments",
-        "VanEck Semiconductor ETF (SMH)"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
       "title": "This little-known ETF is up over 600% amid U.S.-Iran war, a better trade than oil or energy stocks",
       "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "米イラン戦争の影響で、タンカー輸送ETF（BWET）が急騰。原油価格やエネルギー株よりも高いパフォーマンス。",
-      "analysis": "ホルムズ海峡の封鎖リスクがタンカー需要を押し上げている。地政学的リスクの高まりは、エネルギー市場の混乱を招き、サプライチェーンに深刻な影響を与える可能性がある。紛争の長期化は、世界経済の成長を阻害する要因となる。",
+      "risk_level": "high",
+      "summary": "米イラン戦争の影響で、原油やエネルギー株よりもタンカー輸送ETF（BWET）が600%以上急騰。ホルムズ海峡の封鎖が長期化する可能性も指摘されている。",
+      "analysis": "米イラン間の緊張状態が、エネルギー市場に大きな影響を与えている。ホルムズ海峡の封鎖長期化は、原油価格の高騰を招き、世界経済に悪影響を与える可能性がある。BWETの急騰は、地政学的リスクの高まりを反映しており、今後の動向に注意が必要。代替輸送ルートの確保やエネルギー政策の見直しが求められる。",
       "key_entities": [
         "Breakwave Tanker Shipping ETF (BWET)",
         "米国",
-        "イラン"
+        "イラン",
+        "ホルムズ海峡"
       ],
       "sources": [
         "CNBC - Top News"
@@ -58,11 +23,11 @@
       ]
     },
     {
-      "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi’s",
+      "title": "Bitcoin at $40,000 would be 'near-unprecedented' statistical outcome, analyst says",
       "region": "global",
-      "risk_level": "high",
-      "summary": "量子コンピュータの脅威がビットコインに迫る。690万BTCが盗難の危険に晒される可能性。",
-      "analysis": "量子コンピュータの実用化は、暗号資産のセキュリティを根底から覆す。ビットコインの耐量子化対策が急務であり、対策が遅れれば、市場の信頼を失い、価格が暴落する可能性がある。投資家は、量子コンピュータ対策が進んでいる暗号資産を選好する傾向が強まるだろう。",
+      "risk_level": "medium",
+      "summary": "アナリストは、ビットコインが40,000ドルまで下落すれば、統計的に「ほぼ前例のない」事態になると指摘。市場のボラティリティに対する警戒感を示唆。",
+      "analysis": "ビットコイン価格の変動リスクは依然として高い。40,000ドルへの下落は、市場心理の悪化や大規模な売りを引き起こす可能性がある。ただし、過去のデータに基づいた分析であり、将来の価格を保証するものではない。投資家はリスク管理を徹底し、慎重な投資判断が求められる。",
       "key_entities": [
         "Bitcoin"
       ],
@@ -74,15 +39,87 @@
       ]
     },
     {
-      "title": "DOJ ends Powell probe, lifts hurdle for Trump’s Fed chair nominee Warsh",
+      "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi’s",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "量子コンピュータの登場により、ビットコインが攻撃されるリスクが浮上。サトシの保有分を含む690万BTCが危険に晒される可能性も。",
+      "analysis": "量子コンピュータによる暗号資産への攻撃は、現実味を帯びてきている。ビットコインのセキュリティ対策が急務であり、開発コミュニティによる対応が求められる。量子耐性のある暗号技術への移行が不可欠であり、移行の遅れは市場の信頼を損なう可能性がある。",
+      "key_entities": [
+        "Bitcoin",
+        "Satoshi Nakamoto",
+        "量子コンピュータ"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
       "region": "global",
       "risk_level": "medium",
-      "summary": "米司法省がパウエルFRB議長の調査を終了。トランプ大統領が指名するウォルシュ氏の議長就任への道が開かれる。",
-      "analysis": "FRB議長の交代は、金融政策の方向性を大きく変える可能性がある。ウォルシュ氏が就任した場合、インフレ抑制よりも経済成長を重視する政策が採用される可能性があり、市場のボラティリティが高まる可能性がある。今後のFRBの動向に注目する必要がある。",
+      "summary": "AI人材の獲得競争が激化。ソフトウェア業界からOpenAIへの幹部流出が相次ぎ、ソフトウェア企業の株価低迷の一因となっている。",
+      "analysis": "AI分野における人材不足は深刻であり、企業間の競争が激化している。ソフトウェア企業の幹部流出は、技術力の低下やイノベーションの停滞を招く可能性がある。AI戦略の遅れは、企業の競争力を大きく損なうため、人材育成や獲得に向けた積極的な投資が求められる。",
       "key_entities": [
-        "Jerome Powell",
-        "Kevin Warsh",
-        "Federal Reserve"
+        "OpenAI",
+        "ソフトウェア業界"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Europe’s banks are going all in on crypto",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "ヨーロッパの銀行が暗号資産への関与を深めている。規制の整備が進む中で、新たなビジネスチャンスを模索する動きが活発化。",
+      "analysis": "ヨーロッパにおける暗号資産市場の成長は、銀行業界に新たな収益源をもたらす可能性がある。しかし、マネーロンダリングやテロ資金供与などのリスクも伴うため、厳格な規制と監視体制の構築が不可欠。銀行は、リスク管理を徹底し、コンプライアンスを遵守する必要がある。",
+      "key_entities": [
+        "ヨーロッパ",
+        "暗号資産",
+        "銀行"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Semiconductor names make up a big portion of this week’s most overbought stocks",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "半導体関連銘柄が今週の買われ過ぎ銘柄リストの大部分を占める。Advanced Micro Devices、Microchip Technology、Texas Instrumentsなどが含まれる。",
+      "analysis": "半導体市場はAI需要の拡大により活況を呈しているが、過熱感も高まっている。買われ過ぎの状態は、調整局面を迎える可能性を示唆しており、投資家は注意が必要。長期的な成長性を見据えつつも、短期的なリスク管理を徹底することが重要。",
+      "key_entities": [
+        "Advanced Micro Devices",
+        "Microchip Technology",
+        "Texas Instruments"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz may not fully reopen until second half of 2026, Baker Hughes says",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "米イラン間の脆弱な停戦合意の下、ホルムズ海峡のタンカー輸送は依然として低水準。Baker Hughesは、海峡の完全再開は2026年後半までずれ込む可能性があると予測。",
+      "analysis": "ホルムズ海峡の封鎖長期化は、原油やLNGの供給に深刻な影響を与える可能性がある。エネルギー価格の高騰は、世界経済のインフレを加速させ、景気後退のリスクを高める。代替輸送ルートの確保やエネルギー政策の見直しが急務であり、地政学的リスクに対する警戒が必要。",
+      "key_entities": [
+        "ホルムズ海峡",
+        "Baker Hughes",
+        "米国",
+        "イラン"
       ],
       "sources": [
         "CNBC - Top News"
@@ -95,8 +132,8 @@
       "title": "SpaceX's $75 billion IPO could drain the liquidity that's helping lift bitcoin and crypto",
       "region": "global",
       "risk_level": "medium",
-      "summary": "SpaceXの大型IPOが、ビットコインや暗号資産市場の流動性を奪う可能性。",
-      "analysis": "大型IPOは、市場全体の資金の流れを変える可能性がある。SpaceXのIPOが成功した場合、暗号資産市場から資金が流出し、価格が下落する可能性がある。投資家は、IPO後の市場の動向を注視する必要がある。",
+      "summary": "SpaceXの750億ドル規模のIPOが、ビットコインや暗号資産市場の流動性を奪う可能性がある。",
+      "analysis": "大型IPOは、市場全体の流動性を低下させる可能性がある。特に、個人投資家の資金がIPOに集中することで、暗号資産市場からの資金流出が加速する可能性がある。暗号資産市場は、流動性の低下に弱く、価格変動が激しくなるリスクがある。",
       "key_entities": [
         "SpaceX",
         "Bitcoin",
@@ -110,15 +147,14 @@
       ]
     },
     {
-      "title": "China to curb US investment in tech companies, Bloomberg News reports",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "中国が米国のテクノロジー企業への投資を制限する方針。米中間の緊張がさらに高まる可能性。",
-      "analysis": "米中間の貿易摩擦は、テクノロジー分野に深刻な影響を与える。中国の投資制限は、米国のテクノロジー企業の成長を阻害し、サプライチェーンの混乱を招く可能性がある。投資家は、米中関係の悪化によるリスクを考慮する必要がある。",
+      "title": "CNN’s data chief admits US stocks are up ‘like a rocket’ under Trump — suggests Democrats don’t want to talk about it",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "CNNのデータ責任者が、トランプ政権下で米国株が急騰していることを認める。政治的な要因が市場に影響を与えている可能性を示唆。",
+      "analysis": "政治と経済は密接に関わっており、政権交代や政策変更は市場に大きな影響を与える可能性がある。トランプ政権の政策が米国株の上昇に寄与した可能性は否定できないが、他の要因（金利政策、企業業績など）も考慮する必要がある。政治的なニュースに惑わされず、客観的な分析に基づいた投資判断が重要。",
       "key_entities": [
-        "中国",
         "米国",
-        "テクノロジー企業"
+        "トランプ政権"
       ],
       "sources": [
         "Yahoo Finance"
@@ -128,54 +164,17 @@
       ]
     },
     {
-      "title": "Charting the global economy: Euro Area business activity sags",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "ユーロ圏の景気活動が停滞。世界経済の減速懸念が強まる。",
-      "analysis": "ユーロ圏の景気減速は、世界経済全体に悪影響を及ぼす可能性がある。特に、輸出依存度の高い国や企業は、需要減少の影響を受けやすい。ECBの金融政策や各国の財政政策の効果が注目される。",
+      "title": "Some young Americans scale back dating as costs and apps add pressure, survey shows",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "若年層の間で、デート費用やアプリ利用料の負担が増加し、デートを控える傾向が見られる。",
+      "analysis": "経済的な負担が若年層の消費行動に影響を与えている。デート市場の縮小は、関連産業（飲食、エンターテイメントなど）にも影響を及ぼす可能性がある。若年層の経済状況の改善や、低価格なデートプランの提供などが求められる。",
       "key_entities": [
-        "ユーロ圏",
-        "ECB"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz may not fully reopen until second half of 2026, Baker Hughes says",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "ホルムズ海峡の完全再開は2026年後半までずれ込む可能性。米イランの緊張が続く。",
-      "analysis": "ホルムズ海峡の封鎖は、原油価格の高騰を招き、世界経済に深刻な影響を与える。代替ルートの確保やエネルギー源の多様化が急務となる。地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株式市場の不安定化を招く可能性がある。",
-      "key_entities": [
-        "ホルムズ海峡",
-        "米国",
-        "イラン",
-        "Baker Hughes"
+        "若年層",
+        "デート市場"
       ],
       "sources": [
         "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Europe’s markets watchdog warns cyber threats are growing as AI speeds up risks",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "AIの進化に伴い、サイバー攻撃のリスクが増大。欧州市場の監視機関が警告。",
-      "analysis": "AIを活用したサイバー攻撃は、従来のセキュリティ対策を無効化する可能性がある。金融機関や重要インフラへの攻撃は、経済活動に深刻な影響を与える。サイバーセキュリティ対策の強化が急務であり、国際的な連携も重要となる。",
-      "key_entities": [
-        "欧州市場監視機関",
-        "AI",
-        "サイバー攻撃"
-      ],
-      "sources": [
-        "Yahoo Finance"
       ],
       "source_types": [
         "media"
@@ -188,7 +187,7 @@
     "europe": "medium",
     "east_asia": "medium"
   },
-  "generated_at": "2026-04-25T13:14:05.497807",
+  "generated_at": "2026-04-25T15:43:30.221236",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
