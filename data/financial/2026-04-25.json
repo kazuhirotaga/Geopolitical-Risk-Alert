@@ -1,14 +1,14 @@
 {
   "date": "2026-04-25",
-  "summary": "テクノロジー株高と暗号資産市場の回復が見られる一方、地政学的リスク（イラン戦争、ホルムズ海峡封鎖）と金融政策の不確実性が依然として高い。予測市場への規制強化、連邦準備制度への政治的圧力もリスク要因。",
+  "summary": "地政学的リスク（イラン戦争、ホルムズ海峡封鎖）とインフレ懸念が市場を圧迫。一方で、AI関連株は高騰し、ビットコインも回復基調。米連邦準備制度理事会（FRB）の動向も不透明で、金融市場全体に警戒感が漂う。",
   "overall_risk_level": "high",
   "articles": [
     {
       "title": "Nvidia stock closes at record, pushing market cap past $5 trillion",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Nvidia株が過去最高値を更新し、時価総額が5兆ドルを超えた。Intel株の上昇も半導体セクター全体を押し上げている。",
-      "analysis": "Nvidiaの株価上昇は、AI需要の拡大を反映している。半導体セクター全体の好調は、テクノロジー市場の成長を牽引する可能性がある。ただし、高PERであるため、市場全体の調整やAI需要の減速があれば、下落リスクも高い。過熱感には注意が必要。",
+      "summary": "Nvidia株が過去最高値を更新し、時価総額が5兆ドルを超えた。Intel株の上昇も半導体セクター全体を押し上げた。",
+      "analysis": "Nvidiaの株価上昇は、AI需要の拡大を反映している。しかし、半導体セクター全体の過熱感も否めず、調整リスクも存在する。特に、金利上昇や景気後退が起きた場合、高PERのハイテク株は売られやすい。今後の決算発表や経済指標に注意が必要。",
       "key_entities": [
         "Nvidia",
         "Intel"
@@ -24,8 +24,8 @@
       "title": "Cramer's week ahead: Record highs meet a pivotal week for tech earnings",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ジム・クレイマーは、市場が「野獣」になったと述べ、今週のテクノロジー企業の決算が、上昇トレンドを維持できるかどうかの鍵を握ると指摘。",
-      "analysis": "テクノロジー企業の決算は、市場全体のセンチメントに大きな影響を与える可能性がある。好調な決算が続けば、株価はさらに上昇する可能性があるが、期待外れの決算が出れば、大幅な調整が入る可能性もある。特に、AI関連企業の動向が注目される。",
+      "summary": "ジム・クレイマーは、市場が「怪物」になったと述べ、今週のテクノロジー企業の決算が上昇トレンドを維持できるかどうかの試金石になると指摘。",
+      "analysis": "市場全体が高値圏にある中で、テクノロジー企業の決算が市場の方向性を左右する重要なイベントとなる。期待外れの決算が出た場合、調整局面に入る可能性もある。特に、AI関連企業の成長鈍化は、市場全体のセンチメントを悪化させる可能性がある。",
       "key_entities": [],
       "sources": [
         "CNBC - Top News"
@@ -37,13 +37,28 @@
     {
       "title": "Strait of Hormuz may not fully reopen until second half of 2026, Baker Hughes says",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "ホルムズ海峡のタンカー航行量は、米国とイランが脆弱な停戦合意下で対立する封鎖を続けているため、依然として低い。",
-      "analysis": "ホルムズ海峡の封鎖は、原油・LNGの供給に深刻な影響を与える可能性がある。供給不足は、エネルギー価格の上昇を招き、世界的なインフレを加速させるリスクがある。地政学的リスクが経済に与える影響は大きい。",
+      "risk_level": "critical",
+      "summary": "ホルムズ海峡のタンカー輸送量は依然として低水準。米国とイランが脆弱な停戦合意下で対立する封鎖を続けているため、完全な再開は2026年後半までずれ込む可能性。",
+      "analysis": "ホルムズ海峡の封鎖は、原油・LNGの供給に深刻な影響を与える。エネルギー価格の高騰は、インフレを加速させ、世界経済の成長を阻害する要因となる。地政学的リスクが金融市場に与える影響は大きく、今後の紛争激化や停戦交渉の行方に注目する必要がある。",
       "key_entities": [
         "Baker Hughes",
-        "Iran",
-        "United States"
+        "Iran"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Kushner, Witkoff — not Vance — heading to Pakistan for 'direct talks' with Iran, White House says",
+      "region": "south_asia",
+      "risk_level": "high",
+      "summary": "トランプ大統領は、イランとの和平交渉を急がないと発言。イラン戦争が株式と原油価格に与える影響は予想よりも小さいと主張。",
+      "analysis": "イラン戦争の長期化は、地政学的リスクを高め、金融市場に不確実性をもたらす。和平交渉の進展は、リスクオフの動きを緩和する可能性があるが、交渉が決裂した場合、さらなる市場の混乱が予想される。トランプ政権の外交戦略が、今後の市場の変動に大きく影響する。",
+      "key_entities": [
+        "Iran"
       ],
       "sources": [
         "CNBC - Top News"
@@ -56,35 +71,15 @@
       "title": "Pirro could reopen Fed probe at any time, Democratic senators warn",
       "region": "europe",
       "risk_level": "medium",
-      "summary": "エリザベス・ウォーレン上院議員とディック・ダービン上院議員は、ジャニーン・ピロがFRB議長ジェローム・パウエルの調査を再開する可能性について懸念を表明。",
-      "analysis": "FRB議長に対する政治的圧力は、金融政策の独立性を損なうリスクがある。政策決定の遅延や誤った判断は、市場の混乱を招き、経済成長を阻害する可能性がある。特に、インフレ抑制と景気後退回避の両立が困難になる。",
+      "summary": "エリザベス・ウォーレン上院議員とディック・ダービン上院議員は、ジャニーヌ・ピロがFRB議長ジェローム・パウエルに対する調査を再開する可能性について懸念を表明。",
+      "analysis": "FRB議長に対する政治的な圧力は、金融政策の独立性を損なう恐れがある。パウエル議長の辞任や解任は、市場に大きな混乱をもたらす可能性があり、今後のFRBの政策運営に不透明感が増す。政治リスクが金融市場に与える影響を注視する必要がある。",
       "key_entities": [
-        "Elizabeth Warren",
-        "Dick Durbin",
-        "Jeanine Pirro",
         "Jerome Powell",
-        "Federal Reserve"
+        "Elizabeth Warren",
+        "Dick Durbin"
       ],
       "sources": [
         "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "米商品先物取引委員会（CFTC）は、予測市場に対する規制強化のため、ニューヨーク州を提訴対象に追加。",
-      "analysis": "予測市場への規制強化は、市場の透明性を高める一方で、イノベーションを阻害する可能性もある。特に、暗号資産関連の予測市場は、規制の不確実性が高く、投資家保護の観点からも注意が必要。",
-      "key_entities": [
-        "CFTC",
-        "Polymarket",
-        "Kalshi"
-      ],
-      "sources": [
-        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -95,44 +90,12 @@
       "region": "global",
       "risk_level": "medium",
       "summary": "ビットコインは今年最高の月になる見込み。50億ドルのUSDTの増加が回復を後押し。",
-      "analysis": "ビットコインの回復は、暗号資産市場全体のセンチメント改善を示唆する。ただし、USDTの増加が市場操作によるものであれば、価格の急落リスクも存在する。規制当局の監視強化が求められる。",
+      "analysis": "ビットコインの回復は、暗号資産市場全体のセンチメント改善を示唆する。しかし、USDTの増加が市場操作によるものである場合、価格急落のリスクも存在する。また、SpaceXのIPOが暗号資産市場の流動性を奪う可能性も指摘されており、今後の動向に注意が必要。",
       "key_entities": [
-        "Bitcoin",
-        "USDT"
+        "Bitcoin"
       ],
       "sources": [
         "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin-holder Metaplanet raises $50 million to buy more BTC",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "ビットコイン保有企業のMetaplanetが、BTC買い増しのため5000万ドルを調達。",
-      "analysis": "MetaplanetのBTC買い増しは、ビットコインへの強気な姿勢を示す。ただし、企業が過度にビットコインに依存すると、価格変動の影響を受けやすくなる。分散投資の重要性が高まる。",
-      "key_entities": [
-        "Bitcoin",
-        "Metaplanet"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, April 24, 2026: Shorter-term loans move below 6%",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "住宅ローン金利が低下傾向。短期ローンは6%を下回る水準に。",
-      "analysis": "住宅ローン金利の低下は、住宅市場の活性化に繋がる可能性がある。ただし、金利低下が景気後退の兆候である場合もある。経済全体の状況を注視する必要がある。",
-      "key_entities": [],
-      "sources": [
-        "Yahoo Finance"
       ],
       "source_types": [
         "media"
@@ -142,8 +105,8 @@
       "title": "Nuclear reactor company X-energy shares surge 27% as AI drives interest in its IPO",
       "region": "global",
       "risk_level": "low",
-      "summary": "原子力発電会社X-energyの株価が27%急騰。AIブームが原子力産業への関心を高めている。",
-      "analysis": "AIの普及に伴い、電力需要が急増しており、原子力発電への期待が高まっている。X-energyの株価上昇は、エネルギー市場の構造変化を反映している。ただし、原子力発電には安全性の問題があり、規制当局の審査が厳格化される可能性がある。",
+      "summary": "先進的な原子炉企業X-energyの株式が取引を開始。AIブームと広範な電化が原子力産業への関心を高め、株価は27%急騰。",
+      "analysis": "AI需要の拡大は、エネルギー需要の増加につながり、原子力発電への関心を高めている。X-energyのIPO成功は、原子力産業への投資意欲の高さを示す。しかし、原子力発電には安全性の問題や建設コストの問題も存在し、今後の成長には課題も多い。",
       "key_entities": [
         "X-energy"
       ],
@@ -155,17 +118,47 @@
       ]
     },
     {
-      "title": "Wall Street's 'fear gauge' is doing something unusual. What it means",
+      "title": "Japan Consumer Inflation Picks Up as Mideast War Fuels Energy Costs",
+      "region": "east_asia",
+      "risk_level": "medium",
+      "summary": "中東戦争がエネルギーコストを押し上げ、日本の消費者物価が上昇。",
+      "analysis": "日本のインフレ率は依然として低い水準にあるが、中東情勢の悪化がエネルギー価格を通じてインフレを加速させる可能性がある。日銀は、金融緩和政策の修正を迫られる可能性があり、今後の政策運営に注目が集まる。",
+      "key_entities": [],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
       "region": "global",
       "risk_level": "medium",
-      "summary": "S&P500が過去最高値を更新する一方で、Cboeボラティリティ指数（VIX）は20付近で停滞し、5日前から上昇。",
-      "analysis": "VIXの上昇は、市場参加者がリスクを警戒していることを示唆する。株価上昇とVIX上昇の乖離は、調整局面の前兆である可能性もある。慎重な投資判断が求められる。",
+      "summary": "米商品先物取引委員会（CFTC）は、予測市場への規制強化のため、ニューヨーク州を提訴対象に追加。",
+      "analysis": "予測市場に対する規制強化は、市場の透明性を高める一方で、イノベーションを阻害する可能性もある。CFTCの規制方針が、今後の予測市場の発展に大きな影響を与える。",
       "key_entities": [
-        "S&P 500",
-        "Cboe Volatility Index (VIX)"
+        "CFTC"
       ],
       "sources": [
-        "CNBC - Top News"
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "SpaceX's $75 billion IPO could drain the liquidity that's helping lift bitcoin and crypto",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "SpaceXの750億ドルのIPOは、ビットコインや暗号資産の上昇を支えている流動性を奪う可能性がある。",
+      "analysis": "大型IPOは、市場全体の流動性を低下させ、暗号資産市場にも影響を与える可能性がある。SpaceXのIPO規模が大きいほど、暗号資産市場からの資金流出リスクが高まる。今後のIPOのスケジュールや市場の反応に注意が必要。",
+      "key_entities": [
+        "SpaceX",
+        "Bitcoin"
+      ],
+      "sources": [
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -178,7 +171,7 @@
     "europe": "medium",
     "east_asia": "medium"
   },
-  "generated_at": "2026-04-25T05:16:09.435803",
+  "generated_at": "2026-04-25T07:24:39.115342",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
