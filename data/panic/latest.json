@@ -1,130 +1,130 @@
 {
   "date": "2026-04-25",
-  "summary": "世界各地で経済不安、エネルギー供給の危機、社会的な不満が複合的に絡み合い、社会不安が増大しています。特に南アジアでは、燃料・LPG不足、労働者の大規模な抗議活動が暴力に発展し、一部地域では危機的状況に近づいています。欧州では燃料不足の懸念が高まり、アフリカでは反外国人デモが国際的な緊張を招いています。全体として、世界的な緊迫度は警戒状態にあります。",
-  "global_panic_index": 65,
+  "summary": "世界各地でエネルギー不足と大規模な抗議デモが社会不安を増大させています。特にアジア地域では、燃料不足による経済活動の停滞や、デモの暴力化による多数の負傷者が出ており、一部地域では社会秩序が危機に瀕しています。ヨーロッパと中東でも地政学的な要因によるエネルギー供給への懸念が高まり、広範囲なパニックの兆候が見られます。",
+  "global_panic_index": 69,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "群衆のパニック、治安への懸念",
-      "incidents": [
-        {
-          "title": "カーニバルでのパニックによる閉鎖",
-          "location": "米国 フェアフィールド",
-          "severity": 60,
-          "description": "銃声の報告や喧嘩、群衆の押し寄せにより、カーニバルが閉鎖された。市民の間に一時的なパニックと混乱が生じ、警察が出動する事態となった。",
-          "source": "CT Insider / Stamford Advocate"
-        }
-      ]
-    },
-    {
-      "region": "europe",
       "panic_index": 65,
       "status": "volatile",
-      "main_cause": "エネルギー不足の懸念、地政学的リスク",
+      "main_cause": "群衆パニック、一時的な治安悪化",
       "incidents": [
         {
-          "title": "英国における燃料枯渇の懸念",
-          "location": "英国",
-          "severity": 55,
-          "description": "英国におけるガソリンおよびディーゼル燃料の枯渇の可能性に関する懸念が報じられており、供給不安による買いだめや社会混乱につながるリスクがある。",
-          "source": "The Times"
-        },
-        {
-          "title": "イラン戦争による欧州の燃料不足危機",
-          "location": "欧州（広域）",
-          "severity": 70,
-          "description": "イラン戦争の継続により、ヨーロッパが数週間以内に燃料不足に陥る可能性があると報じられている。これは経済活動や市民生活に深刻な影響を及ぼし、広範な社会不安を引き起こす懸念がある。",
-          "source": "MSN"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "キャンパスでの社会不安、抗議活動",
-      "incidents": [
-        {
-          "title": "キャンパスでの社会不安関連法案への拒否権行使",
-          "location": "イスラエル",
-          "severity": 45,
-          "description": "キャンパスでの社会不安に対応するため、抗議活動のバッファーゾーンを設ける法案が提出されたが、拒否権が行使された。これは学生間の緊張と抗議活動の継続を示唆している。",
-          "source": "Israel National News"
+          "title": "銃声の報告と群衆の押し寄せによるカーニバル閉鎖",
+          "location": "Fairfield, US",
+          "severity": 65,
+          "description": "銃声の報告、乱闘、群衆の押し寄せによりカーニバルが閉鎖された。群衆の安全への懸念から大規模な動揺が発生したとみられる。",
+          "source": "CTPost"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 65,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "反外国人デモ、地域間の緊張",
+      "main_cause": "外国人排斥デモ、社会不安",
       "incidents": [
         {
-          "title": "南アフリカでの反外国人デモとナイジェリアの警告",
-          "location": "南アフリカ",
-          "severity": 65,
-          "description": "南アフリカで外国人排斥を求めるデモが発生しており、ナイジェリア政府が自国民に警告を発する事態となっている。これは地域間の緊張と治安悪化の懸念を高めている。",
+          "title": "南アフリカでの外国人排斥デモとナイジェリアからの警告",
+          "location": "South Africa",
+          "severity": 70,
+          "description": "南アフリカで外国人排斥を訴える大規模な抗議デモが発生し、ナイジェリア政府が自国民に注意喚起を行った。社会的分断と治安悪化の懸念が高まっている。",
           "source": "BBC"
         }
       ]
     },
     {
-      "region": "south_asia",
-      "panic_index": 75,
+      "region": "middle_east",
+      "panic_index": 80,
       "status": "critical",
-      "main_cause": "エネルギー不足、労働争議、食料不安、社会秩序の混乱",
+      "main_cause": "エネルギー不足、地政学的緊張",
       "incidents": [
         {
-          "title": "Noidaでの労働者抗議デモの暴力化と誤情報拡散",
-          "location": "インド ノイダ",
-          "severity": 75,
-          "description": "ノイダで労働者による大規模な抗議活動が暴力に発展し、逮捕者が出た。ソーシャルメディア上の誤情報が社会不安をさらに高め、政府は治安を強化している。",
-          "source": "MSN / The News Mill"
-        },
-        {
-          "title": "イラン戦争によるパキスタンの燃料不足",
-          "location": "パキスタン（各州）",
-          "severity": 70,
-          "description": "イラン戦争の影響でパキスタンの各州でガソリンとディーゼルが不足し、燃料ポンプが枯渇している。これは国家経済と市民生活に深刻な影響を与え、広範な社会不安を引き起こしている。",
+          "title": "イラン戦争によるパキスタンでのガソリン・ディーゼル不足",
+          "location": "Pakistan",
+          "severity": 85,
+          "description": "イラン戦争の影響でパキスタン全土でガソリン・ディーゼル燃料が不足し、給油所が枯渇状態に陥っている。国家レベルのエネルギー危機が市民生活に深刻な影響を与えている。",
           "source": "MSN"
         },
         {
-          "title": "インド全域でのLPG供給危機と抗議",
-          "location": "インド（ジンド、ムンバイなど広範）",
-          "severity": 68,
-          "description": "インド各地でLPG供給危機が発生し、ジンドでは抗議デモが勃発、ムンバイでは20%のレストランが営業停止に追い込まれている。これは市民生活と経済に大きな打撃を与えている。",
-          "source": "MSN"
-        },
-        {
-          "title": "農民によるトウモロコシ調達遅延への抗議",
-          "location": "インド ワランガル",
-          "severity": 55,
-          "description": "ワランガルでトウモロコシの調達遅延に抗議する農民デモが発生し、元閣僚も参加している。これは食料安全保障と農村部の経済不安に対する懸念を示している。",
-          "source": "Telangana Today"
-        },
-        {
-          "title": "医師不足への抗議で病院ゲート封鎖",
-          "location": "インド バニハル",
-          "severity": 50,
-          "description": "バニハルで医師不足に抗議し、地元政党の指導者が病院のゲートを封鎖した。これは公共医療サービスへの不満と、それに対する過激な行動を示している。",
-          "source": "MSN"
+          "title": "西岸地区・ガザでの地方選挙が公共の信頼を試す",
+          "location": "West Bank, Gaza",
+          "severity": 45,
+          "description": "西岸地区とガザの一部地域での地方選挙が、公共の信頼と政治的安定性を試すものとされている。地域の緊張感と不確実性が存在している。",
+          "source": "ABC News"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "労働争議、経済的サプライチェーンへの影響",
+      "panic_index": 75,
+      "status": "critical",
+      "main_cause": "エネルギー不足、大規模な抗議デモ、地域紛争",
       "incidents": [
         {
-          "title": "サムスン労働者抗議によるRAM不足悪化の懸念",
-          "location": "韓国",
-          "severity": 50,
-          "description": "サムスンの労働者抗議活動がRAM不足を悪化させる可能性があり、グローバルサプライチェーンへの影響が懸念されている。これは経済的な社会不安を引き起こす可能性がある。",
-          "source": "NewsBytes"
+          "title": "ムンバイでLPG不足が深刻化し飲食店が閉鎖",
+          "location": "Mumbai, India",
+          "severity": 80,
+          "description": "ムンバイでLPG不足が深刻化し、20%の飲食店が閉鎖に追い込まれている。市民生活と経済活動への直接的な打撃がパニックを引き起こしかねない状況。",
+          "source": "MSN"
+        },
+        {
+          "title": "マニプール州、デモ後の緊張と犠牲者遺族への訴え",
+          "location": "Manipur, India",
+          "severity": 80,
+          "description": "インド・マニプール州でデモ行進後に緊張が高まり、犠牲となった子どもの遺族に州首相が訴えかけている。死者を伴う暴力的な衝突が発生し、地域全体が危機的な状態にある。",
+          "source": "Times Now"
+        },
+        {
+          "title": "マニプール渓谷で抗議デモ後に衝突が発生し30人以上負傷",
+          "location": "Manipur, India",
+          "severity": 75,
+          "description": "マニプール渓谷で抗議デモ後に衝突が発生し、30人以上が負傷した。地域の治安が著しく悪化し、住民の不安が高まっている。",
+          "source": "India Today NE"
+        },
+        {
+          "title": "ノイダの暴力事件、パキスタンとの関連を調査",
+          "location": "Noida, India",
+          "severity": 70,
+          "description": "ノイダでの暴力事件について、パキスタンとの関連が調査されており、政府は「計画的な陰謀」と主張している。デモの暴力化と国際的な緊張が治安を悪化させている。",
+          "source": "MSN"
+        },
+        {
+          "title": "ジャンムー・カシミール州で医師不足抗議のため病院ゲートを封鎖",
+          "location": "Jammu & Kashmir, India",
+          "severity": 70,
+          "description": "インドのジャンムー・カシミール州で、医師不足に抗議して地元政党のリーダーが病院のゲートを封鎖した。医療インフラの機能不全が市民の生命と健康に直接的な脅威を与えている。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "エネルギー不足、地政学的緊張",
+      "incidents": [
+        {
+          "title": "イラン戦争継続によりヨーロッパが燃料不足に陥る可能性",
+          "location": "Europe (general)",
+          "severity": 85,
+          "description": "イラン戦争の継続により、ヨーロッパ全体が数週間以内に燃料不足に陥る可能性があると報じられている。大陸規模のエネルギー危機が経済と社会システムに深刻な混乱をもたらす恐れがある。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 40,
+      "status": "stable",
+      "main_cause": "潜在的な政治・社会不安（具体的な事象はなし）",
+      "incidents": [
+        {
+          "title": "タイの在留外国人向け安定性リスクダッシュボード",
+          "location": "Thailand",
+          "severity": 40,
+          "description": "タイの在留外国人向けに安定性リスクに関する情報が提供されている。具体的なパニック事象はないが、潜在的な社会不安要因が存在する可能性を示唆している。",
+          "source": "thetraveler.org"
         }
       ]
     }

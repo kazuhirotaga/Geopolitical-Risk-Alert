@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-25",
-    "summary": "中東情勢が不安定化。米イラン停戦は維持されるも、ホルムズ海峡の緊張がサプライチェーンに影響。ウクライナ情勢も依然として深刻。ガザ地区では選挙が実施される一方、人道状況は悪化の一途を辿る。核軍縮を巡る国際的な緊張も高まっている。",
+    "summary": "中東情勢が依然として不安定。アメリカとイランの停戦は維持されているものの、ホルムズ海峡の緊張は世界のサプライチェーンに影響を与えている。NATOの結束も揺らいでおり、地政学リスクは高い。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "medium",
       "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "critical",
-      "europe": "critical",
-      "africa": "medium",
+      "middle_east": "high",
+      "europe": "medium",
+      "africa": "none",
       "north_america": "medium",
-      "south_america": "low"
+      "south_america": "none"
     },
-    "generated_at": "2026-04-25T19:00:16.455456"
+    "generated_at": "2026-04-25T21:40:37.010796"
   },
   {
     "date": "2026-04-24",
