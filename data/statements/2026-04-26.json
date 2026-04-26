@@ -1,24 +1,71 @@
 {
   "date": "2026-04-26",
-  "summary": "本日は、FRBによる金融機関の申請承認と、地域銀行のレバレッジ比率に関する規制変更が発表されました。直接的な要人発言は確認できませんでしたが、金融政策の方向性を示す重要な情報です。",
+  "summary": "本日は、FRB関連の発表が中心。金融機関の合併・買収承認や、地域銀行のレバレッジ比率に関する変更など、金融規制に関する動きが見られた。直接的な要人発言は確認できず、市場への直接的な影響は限定的と考えられる。",
   "statements": [
     {
-      "speaker": "該当する発言者なし",
-      "title": "該当する発言者なし",
-      "quote": "該当する発言なし",
-      "context": "該当する発言なし",
-      "analysis": "FRBの発表は、OceanFirst Financial Corp.とBanco de Credito del Peruの申請承認を示しており、これらの金融機関の事業拡大を支援する可能性があります。地域銀行のレバレッジ比率の変更は、金融システムの安定化と地域経済への影響を考慮したものであり、今後の金融機関の経営戦略に影響を与える可能性があります。",
+      "speaker": "該当なし",
+      "title": "該当なし",
+      "quote": "該当なし",
+      "context": "該当なし",
+      "analysis": "FRBの発表は、金融機関の健全性維持と地域経済への貢献を目的としている。OceanFirst Financial Corp.とBanco de Credito del Peruの申請承認は、それぞれの地域における金融サービスの拡大を意味する。地域銀行のレバレッジ比率変更は、リスク管理の強化と融資能力のバランスを取ることを意図していると考えられる。",
+      "importance": "low",
+      "tags": [
+        "金融規制",
+        "FRB",
+        "銀行",
+        "レバレッジ比率",
+        "合併・買収"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm"
+    },
+    {
+      "speaker": "該当なし",
+      "title": "該当なし",
+      "quote": "該当なし",
+      "context": "該当なし",
+      "analysis": "Banco de Credito del Peruの申請承認は、南米地域における金融活動の活発化を示唆する可能性がある。FRBが外国銀行の活動を承認することは、国際的な金融連携を促進する上で重要な役割を果たす。",
+      "importance": "low",
+      "tags": [
+        "金融規制",
+        "FRB",
+        "銀行",
+        "南米"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm"
+    },
+    {
+      "speaker": "該当なし",
+      "title": "該当なし",
+      "quote": "該当なし",
+      "context": "該当なし",
+      "analysis": "地域銀行のレバレッジ比率の変更は、金融システムの安定性を高めるための継続的な取り組みの一環である。これにより、地域銀行はより健全な財務基盤を築き、地域経済への貢献を強化することが期待される。",
       "importance": "medium",
       "tags": [
-        "金融政策",
-        "銀行規制",
+        "金融規制",
+        "FRB",
+        "銀行",
         "レバレッジ比率",
-        "FRB"
+        "地域銀行"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260423a.htm"
+    },
+    {
+      "speaker": "該当なし",
+      "title": "該当なし",
+      "quote": "該当なし",
+      "context": "該当なし",
+      "analysis": "First Financial Bankの元従業員に対する執行措置の発行は、FRBが金融機関の不正行為に対して厳格な姿勢を示していることを意味する。これは、金融システムの信頼性を維持するために不可欠な措置である。",
+      "importance": "medium",
+      "tags": [
+        "金融規制",
+        "FRB",
+        "不正行為",
+        "銀行"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260422a.htm"
     }
   ],
-  "generated_at": "2026-04-26T13:15:43.473364",
+  "generated_at": "2026-04-26T15:48:11.412100",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
