@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-04-26",
+    "summary": "ウクライナで地上ロボットの戦線投入が進む一方、米国海軍はイランに向かう貨物船を攻撃。中東では米空母3隻が展開。欧州ではドイツが弾道ミサイル生産を検討、NATOはAWACSの更新を模索。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-03",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ軍、地上ロボットの戦線投入を拡大",
+        "content": "3月に9,000回以上の戦線ミッションを実施。これは11月の3倍の数。昨年夏には初めてロシア軍の拠点をロボットが占拠。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "occupy",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/unmanned/2026/04/24/ukraine-to-field-25000-ground-robots-in-push-to-replace-soldiers-for-frontline-logistics/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-04-20",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "米海軍、イランへ向かう貨物船を攻撃",
+        "content": "米海軍の駆逐艦USS Spruanceが、イランの港へ向かおうとした貨物船Touskaのエンジンルームに5インチ砲を複数発射し、航行不能にしたとCENTCOMが発表。",
+        "involved_parties": [
+          "アメリカ海軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/20/us-navy-destroyer-fires-on-cargo-vessel-attempting-to-sail-to-iranian-port/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-04-24",
+        "location": "中東",
+        "region": "middle_east",
+        "title": "米空母3隻が中東に展開",
+        "content": "アメリカ軍の航空母艦3隻が、2003年以来初めて中央軍の担当地域で作戦行動を実施。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-04-23",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ、無人艇からShahedドローン迎撃ミサイルを発射",
+        "content": "ウクライナが無人艇からShahedドローンを撃墜する新しい防衛手段を初めて展開。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/industry/techwatch/2026/04/23/in-first-ukrainian-unmanned-vessel-launches-interceptor-to-knock-out-shahed-drone/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-25",
     "summary": "ウクライナで地上ロボットの活用が進みロシア軍陣地を初めて占拠。米海軍はイランへ向かう貨物船を砲撃。米国は中東に空母3隻を展開。欧州では弾道ミサイル開発の動き、NATOはAWACSの機種転換を検討。",
     "events": [
@@ -4667,205 +4735,6 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/naval/2026/03/23/us-and-uk-teaming-up-to-destroy-underwater-drones/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-27",
-    "summary": "イスラエルとヒズボラの攻撃が激化しレバノンの戦闘地域が拡大。米国はイランに対し数百発のトマホークミサイルを使用。ウクライナのドローンがバルト三国に着弾。米軍はイランとの紛争で無人艇を初めて使用。",
-    "events": [
-      {
-        "id": "1",
-        "timestamp": "2026-03-27",
-        "location": "レバノン",
-        "region": "middle_east",
-        "title": "イスラエルとヒズボラの戦闘激化",
-        "content": "ヒズボラが防御線を維持するのではなく、攻撃に転じ、地形を利用して撤退。戦闘地域が拡大している。",
-        "involved_parties": [
-          "イスラエル",
-          "ヒズボラ"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
-      },
-      {
-        "id": "2",
-        "timestamp": "2026-03-27",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "アメリカ軍によるトマホークミサイル攻撃",
-        "content": "アメリカ軍がイランに対し数百発のトマホークミサイルを使用。その消費ペースにペンタゴン内部で懸念が出ている。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/27/us-uses-hundreds-of-tomahawk-missiles-on-iran-alarming-some-at-pentagon/"
-      },
-      {
-        "id": "3",
-        "timestamp": "2026-03-27",
-        "location": "バルト三国",
-        "region": "europe",
-        "title": "ウクライナのドローンがバルト三国に着弾",
-        "content": "ウクライナのドローンがバルト三国の全てに着弾。ロシアが意図的にリダイレクトした可能性も指摘されている。",
-        "involved_parties": [
-          "ウクライナ",
-          "ロシア？",
-          "バルト三国"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/"
-      },
-      {
-        "id": "EVENT_001",
-        "timestamp": "2026-03-26",
-        "location": "中東",
-        "region": "middle_east",
-        "title": "アメリカ、イランとの紛争で無人ドローン艇を実戦配備",
-        "content": "アメリカがイランとの紛争において、無人ドローン艇を初めて実戦配備したと報じられた。具体的な作戦内容や損害状況は不明。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
-      },
-      {
-        "id": "EVENT_002",
-        "timestamp": "2026-03-26",
-        "location": "中東",
-        "region": "middle_east",
-        "title": "ペンタゴン、ウクライナ軍事支援を中東へ転用検討",
-        "content": "ペンタゴンが、ウクライナ向けの軍事支援（NATO経由で購入した防空迎撃ミサイルなど）を中東へ転用することを検討していると報じられた。",
-        "involved_parties": [
-          "アメリカ国防総省",
-          "ウクライナ",
-          "NATO"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/03/26/pentagon-reportedly-weighs-diverting-ukraine-military-aid-to-middle-east/"
-      },
-      {
-        "id": "4",
-        "timestamp": "2026-03-26",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "アメリカ軍が無人艇をイランとの紛争に投入",
-        "content": "アメリカ軍がイランとの紛争において無人艇を初めて使用したことを発表。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
-      },
-      {
-        "id": "EVENT_003",
-        "timestamp": "2026-03-24",
-        "location": "南シナ海",
-        "region": "east_asia",
-        "title": "中国コルベット艦がフィリピンフリゲート艦に武器照射",
-        "content": "3月初旬、南シナ海において、中国のコルベット艦がフィリピンのフリゲート艦に対し武器を照射する事件が発生した。フィリピン当局は、中国による挑発行為であると非難。",
-        "involved_parties": [
-          "中国海軍",
-          "フィリピン海軍"
-        ],
-        "event_type": "clash",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/24/chinese-corvette-recently-trained-its-weapons-on-philippine-frigate-officials-confirm/"
-      },
-      {
-        "id": "5",
-        "timestamp": "2026-03-24",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "イランの学校への攻撃",
-        "content": "イランの学校への攻撃が発生。ウクライナのドローン開発者は、半自律型兵器の危険性を指摘。",
-        "involved_parties": [
-          "不明"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/24/deadly-iran-school-strike-casts-shadow-over-pentagons-ai-targeting-push/"
-      },
-      {
-        "id": "6",
-        "timestamp": "2026-03-24",
-        "location": "南シナ海",
-        "region": "east_asia",
-        "title": "中国艦艇がフィリピン艦艇に武器を向ける",
-        "content": "3月上旬、中国のコルベット艦がフィリピンのフリゲート艦に武器を向けた。挑発行為の一環とみられる。",
-        "involved_parties": [
-          "中国",
-          "フィリピン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/24/chinese-corvette-recently-trained-its-weapons-on-philippine-frigate-officials-confirm/"
-      },
-      {
-        "id": "EVENT_004",
-        "timestamp": "2026-03-23",
-        "location": "トルコ北部、ウニェ地区ユジェレル近郊の海岸",
-        "region": "europe",
-        "title": "アメリカ製 naval drone with active warhead がトルコで発見、爆破処理",
-        "content": "アメリカ製の兵器を搭載したnaval drone (AEGIR-W variant)がトルコ北部、ウニェ地区ユジェレル近郊の海岸で発見され爆破処理された。",
-        "involved_parties": [
-          "アメリカ軍",
-          "トルコ軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/23/us-made-naval-drone-with-active-warhead-washes-up-in-northern-turkey-gets-blown-up/"
-      },
-      {
-        "id": "EVENT_005",
-        "timestamp": "2026-03-23",
-        "location": "バーレーン",
-        "region": "middle_east",
-        "title": "パトリオットミサイルがバーレーンで爆発、多数の市民が負傷",
-        "content": "アメリカが運用する可能性のあるパトリオットミサイルがバーレーンで爆発。多数の市民が負傷し、家屋が損壊した。",
-        "involved_parties": [
-          "アメリカ軍",
-          "バーレーン"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/flashpoints/2026/03/23/patriot-missile-involved-in-bahrain-blast-likely-us-operated-analysis-finds/"
-      },
-      {
-        "id": "EVENT_006",
-        "timestamp": "2026-03-20",
-        "location": "スコットランド",
-        "region": "europe",
-        "title": "イギリスの原子力潜水艦基地付近でイランのスパイ容疑者2名逮捕",
-        "content": "イギリスの原子力潜水艦基地に侵入しようとしたイランのスパイ容疑者2名が逮捕された。",
-        "involved_parties": [
-          "イギリス",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/20/two-suspected-iranian-spies-reportedly-arrested-near-uk-submarine-base/"
       }
     ]
   }
