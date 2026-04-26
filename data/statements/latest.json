@@ -1,65 +1,24 @@
 {
   "date": "2026-04-26",
-  "summary": "本日は、FRB関連の発表が中心。金融機関の合併・買収承認、地域銀行のレバレッジ比率変更、および過去の不正行為に対する措置が発表された。直接的な要人発言は確認できず、市場への影響は限定的と予想される。",
+  "summary": "本日は、FRBによる金融機関の申請承認と、地域銀行のレバレッジ比率に関する規制変更が発表されました。直接的な要人発言は確認できませんでしたが、金融政策の方向性を示す重要な情報です。",
   "statements": [
     {
-      "speaker": "Federal Reserve Board",
-      "title": "アメリカ合衆国連邦準備制度理事会",
-      "quote": "OceanFirst Financial Corp.によるアプリケーションを承認",
-      "context": "プレスリリース",
-      "analysis": "OceanFirst Financial Corp.の申請承認は、金融機関の再編を促進する可能性を示唆する。地域金融機関の競争環境や、今後のM&A動向に注目する必要がある。ただし、個別案件であり、市場全体への影響は小さい。",
-      "importance": "low",
-      "tags": [
-        "金融機関",
-        "M&A",
-        "規制"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm"
-    },
-    {
-      "speaker": "Federal Reserve Board",
-      "title": "アメリカ合衆国連邦準備制度理事会",
-      "quote": "Banco de Credito del Peruによるアプリケーションを承認",
-      "context": "プレスリリース",
-      "analysis": "Banco de Credito del Peruの申請承認は、南米地域における金融活動の拡大を支援する。ペルー経済への影響や、地域金融市場の活性化に寄与する可能性がある。ただし、地域限定的な影響に留まるだろう。",
-      "importance": "low",
-      "tags": [
-        "金融機関",
-        "南米",
-        "ペルー"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm"
-    },
-    {
-      "speaker": "Federal Reserve Board",
-      "title": "アメリカ合衆国連邦準備制度理事会",
-      "quote": "地域銀行のレバレッジ比率を強化するための変更を最終決定",
-      "context": "プレスリリース",
-      "analysis": "地域銀行のレバレッジ比率の変更は、金融システムの安定性を高めることを目的とする。地域銀行の貸出能力や収益性に影響を与える可能性がある。中小企業への融資動向や地域経済への影響を注視する必要がある。",
+      "speaker": "該当する発言者なし",
+      "title": "該当する発言者なし",
+      "quote": "該当する発言なし",
+      "context": "該当する発言なし",
+      "analysis": "FRBの発表は、OceanFirst Financial Corp.とBanco de Credito del Peruの申請承認を示しており、これらの金融機関の事業拡大を支援する可能性があります。地域銀行のレバレッジ比率の変更は、金融システムの安定化と地域経済への影響を考慮したものであり、今後の金融機関の経営戦略に影響を与える可能性があります。",
       "importance": "medium",
       "tags": [
-        "金融規制",
-        "地域銀行",
-        "レバレッジ比率"
+        "金融政策",
+        "銀行規制",
+        "レバレッジ比率",
+        "FRB"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260423a.htm"
-    },
-    {
-      "speaker": "Federal Reserve Board",
-      "title": "アメリカ合衆国連邦準備制度理事会",
-      "quote": "First Financial Bankの元従業員に対する執行措置を発行",
-      "context": "プレスリリース",
-      "analysis": "First Financial Bankの元従業員に対する執行措置は、金融機関における不正行為に対するFRBの厳格な姿勢を示す。金融機関のコンプライアンス体制強化を促す可能性があるが、個別案件であり、市場全体への影響は限定的。",
-      "importance": "low",
-      "tags": [
-        "金融規制",
-        "不正行為",
-        "コンプライアンス"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260422a.htm"
     }
   ],
-  "generated_at": "2026-04-26T09:57:35.730189",
+  "generated_at": "2026-04-26T13:15:43.473364",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
