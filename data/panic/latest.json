@@ -1,137 +1,144 @@
 {
   "date": "2026-04-26",
-  "summary": "世界各地で食料・エネルギー不足、金融不安、大規模な抗議デモが散見され、一部地域では深刻なパニック状態に陥っています。特に南アジアでは燃料不足とパニック買い、労働争議の暴力化が顕著で、社会インフラの麻痺が懸念されます。北米でも群集パニックが発生しており、グローバルな金融システムでは初の取り付け騒ぎが報告されるなど、全体的に社会不安が増大し、警戒レベルが高まっています。",
-  "global_panic_index": 60,
+  "summary": "世界各地でエネルギー供給危機が深刻化しており、特にヨーロッパと南アジアで燃料不足による社会機能の麻痺が懸念され、地域のパニック指数を押し上げています。金融市場ではブロックチェーン関連で取り付け騒ぎが発生し、不安心理が蔓延。各地で大規模な抗議デモや暴力的な衝突が報告され、社会の分断と不満が表面化しています。特定の緊急事態による集団的パニックも散発的に発生しており、全体的に警戒が必要な状況です。",
+  "global_panic_index": 75,
   "regions": [
-    {
-      "region": "south_asia",
-      "panic_index": 74,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、金融不安、抗議デモの暴力化",
-      "incidents": [
-        {
-          "title": "インド、燃料不足とパニック買い",
-          "location": "ハイデラバード、インド",
-          "severity": 85,
-          "description": "中東情勢に起因するLPG及びガソリンの深刻な不足が発生し、ハイデラバードでは大規模なパニック買いが頻発。給油所が在庫切れとなり、社会機能の広範な麻痺が懸念されている。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド、ノイダで労働者抗議デモが暴力化",
-          "location": "ノイダ、インド",
-          "severity": 70,
-          "description": "賃金関連の抗議デモが暴徒化し、一部では暴力行為に発展。ソーシャルメディア上の誤情報が不安を煽り、組織的関与も指摘されている。政府は最低賃金引き上げで対応。",
-          "source": "MSN"
-        },
-        {
-          "title": "パキスタン、イラン戦争による広範な燃料不足",
-          "location": "パキスタン全土",
-          "severity": 75,
-          "description": "イラン戦争の影響でパキスタン全土でガソリンとディーゼルの供給が滞り、多くの給油所で燃料が枯渇。市民生活や経済活動への甚大な影響が懸念され、社会不安が高まっている。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド、Paytm Payments Bankのライセンス停止",
-          "location": "インド",
-          "severity": 65,
-          "description": "インド中央銀行（RBI）がPaytm Payments Bankのライセンスを停止。口座保有者に不安が広がり、金融システムへの信頼に揺らぎが生じる可能性がある。",
-          "source": "Dailyhunt"
-        },
-        {
-          "title": "インド、バンガロールで金銭詐欺に対する抗議デモ",
-          "location": "バンガロール、インド",
-          "severity": 55,
-          "description": "金融機関による金銭詐欺が発覚し、ベンガルール市内の銀行前で抗議デモが発生。金融機関への不信感が増大しており、大規模な金融不安に発展するリスクを抱えている。",
-          "source": "Deccan Herald"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 65,
-      "status": "unstable",
-      "main_cause": "政治的緊張、大規模な抗議活動",
-      "incidents": [
-        {
-          "title": "ウェストバンクでゼネスト、店舗閉鎖",
-          "location": "ウェストバンク、パレスチナ",
-          "severity": 65,
-          "description": "イスラエルによるパレスチナ人への死刑法案に抗議し、ウェストバンク全域でゼネラルストライキが実施され、多くの店舗が閉鎖。地域の政治的緊張と社会の分断が深刻化している。",
-          "source": "MSN"
-        }
-      ]
-    },
     {
       "region": "north_america",
       "panic_index": 73,
       "status": "volatile",
-      "main_cause": "群集パニック",
+      "main_cause": "公共の場での集団的パニック、暴力",
       "incidents": [
         {
-          "title": "米フェアフィールド、カーニバルで群集パニック発生",
-          "location": "フェアフィールド、アメリカ",
-          "severity": 80,
-          "description": "カーニバル会場で銃声の誤報、乱闘、群衆の押し寄せが発生し、大規模なパニックによりイベントが中止された。無秩序な状況が広がり、警察が出動して鎮圧にあたった。",
+          "title": "カーニバルでの銃撃報告によるパニックと閉鎖",
+          "location": "Fairfield, Connecticut, US",
+          "severity": 75,
+          "description": "銃声の報告、乱闘、群衆の急増により、フェアフィールドのカーニバルが閉鎖された。警察によると、これはパニックによるものであった。",
           "source": "CT Insider"
         },
         {
-          "title": "米バージニア州、メディアガラでパニックと混乱",
-          "location": "バージニア州、アメリカ",
-          "severity": 65,
-          "description": "華やかなメディアのガライベント中に突如パニックと混乱が発生。「伏せろ！」といった叫び声が飛び交い、参加者たちは一時的に騒然とした。詳細な原因は不明。",
+          "title": "派手なメディアの祭典でのパニックと混乱",
+          "location": "Central Virginia, US",
+          "severity": 70,
+          "description": "メディアのガラで「伏せろ！」という叫び声とともにパニックと混乱が発生。具体的な原因は不明だが、集団的な恐怖が広がる事態となった。",
           "source": "The Central Virginian"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "国際政治問題に対する抗議",
+      "panic_index": 83,
+      "status": "critical",
+      "main_cause": "エネルギー不足の危機、政治的抗議",
       "incidents": [
         {
-          "title": "イタリア各地でパレスチナ未承認への抗議デモ",
-          "location": "イタリア",
-          "severity": 45,
-          "description": "パレスチナ国家の未承認に対し、イタリア各地で大規模な抗議デモが行われた。国際政治問題への強い関心を示す動きだが、直接的な社会秩序の混乱には至っていない。",
+          "title": "イラン戦争継続による数週間以内の燃料枯渇危機",
+          "location": "Europe",
+          "severity": 85,
+          "description": "イラン戦争の継続により、ヨーロッパは深刻な状況にあり、数週間以内に燃料が枯渇する可能性が指摘されている。広範囲な社会機能麻痺のリスク。",
+          "source": "MSN"
+        },
+        {
+          "title": "パレスチナ未承認に反発しイタリア各地で抗議デモ",
+          "location": "Italy",
+          "severity": 50,
+          "description": "パレスチナの国家承認が進まないことへの反発から、イタリア各地で大規模な抗議デモが行われた。政治的緊張が高まっている。",
           "source": "福井新聞社"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 45,
+      "region": "middle_east",
+      "panic_index": 60,
       "status": "unstable",
-      "main_cause": "社会的分断、排外主義への抗議",
+      "main_cause": "政治的緊張、大規模抗議デモ",
       "incidents": [
         {
-          "title": "大阪で排外主義反対デモ「将来に不安」",
-          "location": "大阪、日本",
-          "severity": 45,
-          "description": "「外国人に暴力的」「将来に不安」を訴える排外主義に反対するデモが大阪で行われた。社会内の差別や分断に対する懸念が表明されており、社会不安の一端を映し出している。",
-          "source": "朝日新聞"
+          "title": "イスラエル死刑法案に反対しヨルダン川西岸で抗議・ストライキ",
+          "location": "West Bank, Palestine",
+          "severity": 60,
+          "description": "ヨルダン川西岸のパレスチナ人が、イスラエルの死刑法案に反対して大規模な抗議活動とストライキを実施。地域内の政治的緊張が顕著。",
+          "source": "MSN"
         }
       ]
     },
     {
-      "region": "global",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "デジタル金融不安、誤情報拡散",
+      "region": "south_asia",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "エネルギー不足、大規模な暴力的抗議、緊急事態によるパニック",
       "incidents": [
         {
-          "title": "ブロックチェーンで初の取り付け騒ぎが発生",
-          "location": "グローバル",
-          "severity": 65,
-          "description": "分散型金融（DeFi）プラットフォームで初めての取り付け騒ぎが発生。投資家の信頼が揺らぎ、従来の金融システムとは異なる形で、新たな金融パニックのリスクが浮上している。",
-          "source": "Sahm"
+          "title": "イラン戦争によるパキスタンでの燃料不足",
+          "location": "Pakistan",
+          "severity": 80,
+          "description": "イラン戦争の影響でパキスタン全土でガソリンスタンドが枯渇し、燃料不足が深刻化。社会活動への影響が懸念されている。",
+          "source": "MSN"
         },
         {
-          "title": "誤情報が社会不安を煽る「レイジベイト」現象",
-          "location": "グローバル",
-          "severity": 35,
-          "description": "事実に基づかない誤情報がソーシャルメディア上で拡散され、人々の怒りや不安を意図的に煽る「レイジベイト」現象が顕著に。社会心理的な混乱を引き起こし、対立を深めている。",
-          "source": "BBC"
+          "title": "ノイダでの暴力的抗議デモ、陰謀論と国際的関連を捜査",
+          "location": "Noida, Uttar Pradesh, India",
+          "severity": 80,
+          "description": "インド・ノイダでの暴力的抗議デモは、「部外者」の関与やパキスタンとの関連が捜査されており、UP州政府はこれを「計画的な陰謀」と見なすことで社会の混乱と不信を深めている。",
+          "source": "MSN"
+        },
+        {
+          "title": "デリー空港での航空機火災とパニック",
+          "location": "Delhi Airport, India",
+          "severity": 70,
+          "description": "デリー空港で離陸中のスイス航空機がエンジン故障で出火し、乗客6名が負傷。現場では乗客の間にパニックが発生した。",
+          "source": "Republic World"
+        },
+        {
+          "title": "ベンガルールで金銭貸付詐欺による銀行前抗議デモ",
+          "location": "Bengaluru, India",
+          "severity": 55,
+          "description": "金融詐欺事件が発生し、ベンガルールにある銀行の前で被害者らが抗議デモを実施。金融機関への不信感が表面化している。",
+          "source": "Deccan Herald"
+        },
+        {
+          "title": "タミル・ナードゥ州でのバス不足による選挙投票妨害抗議",
+          "location": "Kilambakkam, Tamil Nadu, India",
+          "severity": 50,
+          "description": "タミル・ナードゥ州のキラムバッカムでバス不足のため投票に行けなかった乗客が抗議。公共交通の不備が社会不安を招いている。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 53,
+      "status": "unstable",
+      "main_cause": "政治的・社会的抗議",
+      "incidents": [
+        {
+          "title": "大阪で排外主義に反対するデモ",
+          "location": "Osaka, Japan",
+          "severity": 55,
+          "description": "「外国人に暴力的」「将来に不安」といった排外主義的な動きに対し、大阪で市民が反対デモを実施。社会的な分断への懸念が表明された。",
+          "source": "朝日新聞"
+        },
+        {
+          "title": "東京で憲法改正反対と首相退陣を求める抗議行動",
+          "location": "Tokyo, Japan",
+          "severity": 50,
+          "description": "東京で憲法改正に反対し、首相の退陣を求める大規模な抗議行動が行われた。政治に対する市民の不満が高まっている。",
+          "source": "arabnews.jp"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "金融関連の抗議",
+      "incidents": [
+        {
+          "title": "カンボジアでのHuione Pay/H-Pay関連抗議者への支払い手続き説明",
+          "location": "Cambodia",
+          "severity": 55,
+          "description": "カンボジアのHuione PayおよびH-Payに関する抗議者に対し、国家銀行が支払い請求プロセスの明確化を発表。金融システムへの不満が背景にある。",
+          "source": "Khmer Times"
         }
       ]
     }
