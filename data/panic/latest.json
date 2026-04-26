@@ -1,144 +1,144 @@
 {
   "date": "2026-04-26",
-  "summary": "世界各地でエネルギー供給危機が深刻化しており、特にヨーロッパと南アジアで燃料不足による社会機能の麻痺が懸念され、地域のパニック指数を押し上げています。金融市場ではブロックチェーン関連で取り付け騒ぎが発生し、不安心理が蔓延。各地で大規模な抗議デモや暴力的な衝突が報告され、社会の分断と不満が表面化しています。特定の緊急事態による集団的パニックも散発的に発生しており、全体的に警戒が必要な状況です。",
-  "global_panic_index": 75,
+  "summary": "世界各地でエネルギー・食料不足、金融不安、労働不安が社会的な緊張を高めています。特に南アジアと北米では、生活インフラの混乱や公衆の場での突発的なパニック事象が頻発し、警戒レベルに達しています。また、ブロックチェーン分野での取り付け騒ぎや誤情報による社会不安の拡散など、新たな形態の危機も表面化しており、各国政府はこれらの複合的な脅威への対応が求められています。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 73,
+      "panic_index": 78,
       "status": "volatile",
-      "main_cause": "公共の場での集団的パニック、暴力",
+      "main_cause": "公衆の場での治安悪化と突発的な混乱",
       "incidents": [
         {
-          "title": "カーニバルでの銃撃報告によるパニックと閉鎖",
-          "location": "Fairfield, Connecticut, US",
-          "severity": 75,
-          "description": "銃声の報告、乱闘、群衆の急増により、フェアフィールドのカーニバルが閉鎖された。警察によると、これはパニックによるものであった。",
+          "title": "カーニバル閉鎖に至った銃声報告と群衆パニック",
+          "location": "Fairfield, CT, US",
+          "severity": 85,
+          "description": "カーニバル会場で発砲報告、乱闘、群衆の押し寄せによりパニックが発生し、イベントが中止された。地域住民に広がる安全への不安が深刻化している。",
           "source": "CT Insider"
         },
         {
-          "title": "派手なメディアの祭典でのパニックと混乱",
-          "location": "Central Virginia, US",
+          "title": "華やかなメディアガラでのパニックと混乱",
+          "location": "Virginia, US",
           "severity": 70,
-          "description": "メディアのガラで「伏せろ！」という叫び声とともにパニックと混乱が発生。具体的な原因は不明だが、集団的な恐怖が広がる事態となった。",
+          "description": "華やかなメディアガラで突如「伏せろ！」との叫び声が上がり、会場はパニックと混乱に陥った。具体的な原因は不明だが、突発的な恐怖が社会に影響を与えている。",
           "source": "The Central Virginian"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 83,
-      "status": "critical",
-      "main_cause": "エネルギー不足の危機、政治的抗議",
+      "region": "south_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "エネルギー・生活必需品不足、労働不安、政治的対立",
       "incidents": [
         {
-          "title": "イラン戦争継続による数週間以内の燃料枯渇危機",
-          "location": "Europe",
-          "severity": 85,
-          "description": "イラン戦争の継続により、ヨーロッパは深刻な状況にあり、数週間以内に燃料が枯渇する可能性が指摘されている。広範囲な社会機能麻痺のリスク。",
+          "title": "イラン情勢がパキスタン全土の燃料不足を誘発",
+          "location": "Pakistan",
+          "severity": 80,
+          "description": "イラン情勢の影響でパキスタン全土でガソリン・ディーゼル不足が深刻化し、給油所が閉鎖。生活インフラに支障をきたし、広範な社会不安を引き起こしている。",
           "source": "MSN"
         },
         {
-          "title": "パレスチナ未承認に反発しイタリア各地で抗議デモ",
-          "location": "Italy",
-          "severity": 50,
-          "description": "パレスチナの国家承認が進まないことへの反発から、イタリア各地で大規模な抗議デモが行われた。政治的緊張が高まっている。",
-          "source": "福井新聞社"
+          "title": "ノイダ労働者抗議デモの暴力化、パキスタンとの関連も",
+          "location": "Noida, India",
+          "severity": 78,
+          "description": "ノイダでの大規模な労働者抗議デモが暴力に発展し、300人が逮捕された。パキスタンとの関連が指摘され、労働不安が地政学的緊張と結びつき複雑化している。",
+          "source": "MSN"
+        },
+        {
+          "title": "ビジャヤワダで燃料不足と需要急増による給油所枯渇",
+          "location": "Vijayawada, India",
+          "severity": 75,
+          "description": "Vijayawada市内の燃料スタンドが需要の急増により枯渇し、給油ができなくなる状況が発生。燃料不足への懸念からパニック買いや買いだめが起きている模様。",
+          "source": "The Times of India"
+        },
+        {
+          "title": "LPG不足がジンドでの抗議デモを誘発し警察出動",
+          "location": "Jind, India",
+          "severity": 70,
+          "description": "LPG（液化石油ガス）の深刻な不足がジンでの抗議デモを誘発し、警察が出動する事態に。生活必需品の供給不安が直接的な社会不安と衝突を引き起こしている。",
+          "source": "MSN"
+        },
+        {
+          "title": "SBIが全国的な銀行ストライキの可能性を警告",
+          "location": "India",
+          "severity": 60,
+          "description": "インド最大の銀行SBIが全国的な銀行ストライキの可能性を顧客に警告。金融サービスの中断が予想され、経済活動や国民生活に広範な影響を与える恐れがある。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "政治的緊張、大規模抗議デモ",
+      "panic_index": 63,
+      "status": "volatile",
+      "main_cause": "政治的対立と社会秩序への影響",
       "incidents": [
         {
-          "title": "イスラエル死刑法案に反対しヨルダン川西岸で抗議・ストライキ",
+          "title": "ヨルダン川西岸全域で死刑法案への抗議ストライキ",
+          "location": "West Bank, Palestine",
+          "severity": 65,
+          "description": "イスラエルによるパレスチナ人への死刑法案に抗議し、ヨルダン川西岸全域でゼネラルストライキが実施され、商店が閉鎖。政治的緊張が経済活動を停滞させている。",
+          "source": "MSN"
+        },
+        {
+          "title": "死刑法案に反対するパレスチナ人の大規模な抗議活動",
           "location": "West Bank, Palestine",
           "severity": 60,
-          "description": "ヨルダン川西岸のパレスチナ人が、イスラエルの死刑法案に反対して大規模な抗議活動とストライキを実施。地域内の政治的緊張が顕著。",
-          "source": "MSN"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "エネルギー不足、大規模な暴力的抗議、緊急事態によるパニック",
-      "incidents": [
-        {
-          "title": "イラン戦争によるパキスタンでの燃料不足",
-          "location": "Pakistan",
-          "severity": 80,
-          "description": "イラン戦争の影響でパキスタン全土でガソリンスタンドが枯渇し、燃料不足が深刻化。社会活動への影響が懸念されている。",
-          "source": "MSN"
-        },
-        {
-          "title": "ノイダでの暴力的抗議デモ、陰謀論と国際的関連を捜査",
-          "location": "Noida, Uttar Pradesh, India",
-          "severity": 80,
-          "description": "インド・ノイダでの暴力的抗議デモは、「部外者」の関与やパキスタンとの関連が捜査されており、UP州政府はこれを「計画的な陰謀」と見なすことで社会の混乱と不信を深めている。",
-          "source": "MSN"
-        },
-        {
-          "title": "デリー空港での航空機火災とパニック",
-          "location": "Delhi Airport, India",
-          "severity": 70,
-          "description": "デリー空港で離陸中のスイス航空機がエンジン故障で出火し、乗客6名が負傷。現場では乗客の間にパニックが発生した。",
-          "source": "Republic World"
-        },
-        {
-          "title": "ベンガルールで金銭貸付詐欺による銀行前抗議デモ",
-          "location": "Bengaluru, India",
-          "severity": 55,
-          "description": "金融詐欺事件が発生し、ベンガルールにある銀行の前で被害者らが抗議デモを実施。金融機関への不信感が表面化している。",
-          "source": "Deccan Herald"
-        },
-        {
-          "title": "タミル・ナードゥ州でのバス不足による選挙投票妨害抗議",
-          "location": "Kilambakkam, Tamil Nadu, India",
-          "severity": 50,
-          "description": "タミル・ナードゥ州のキラムバッカムでバス不足のため投票に行けなかった乗客が抗議。公共交通の不備が社会不安を招いている。",
+          "description": "イスラエルの死刑法案に反対するパレスチナ人による大規模な抗議デモとストライキがヨルダン川西岸で発生。政治的不満が社会の混乱を引き起こしている。",
           "source": "MSN"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 53,
+      "panic_index": 48,
       "status": "unstable",
-      "main_cause": "政治的・社会的抗議",
+      "main_cause": "社会の分断、政治への不満",
       "incidents": [
         {
-          "title": "大阪で排外主義に反対するデモ",
-          "location": "Osaka, Japan",
-          "severity": 55,
-          "description": "「外国人に暴力的」「将来に不安」といった排外主義的な動きに対し、大阪で市民が反対デモを実施。社会的な分断への懸念が表明された。",
+          "title": "大阪で「外国人に暴力的」排外主義に反対するデモ",
+          "location": "大阪府, 日本",
+          "severity": 50,
+          "description": "大阪で排外主義的な動きに反対するデモが行われ、外国への暴力や将来への不安が表明された。社会の分断と人種差別問題が表面化し、懸念が高まっている。",
           "source": "朝日新聞"
         },
         {
           "title": "東京で憲法改正反対と首相退陣を求める抗議行動",
-          "location": "Tokyo, Japan",
-          "severity": 50,
-          "description": "東京で憲法改正に反対し、首相の退陣を求める大規模な抗議行動が行われた。政治に対する市民の不満が高まっている。",
+          "location": "東京, 日本",
+          "severity": 45,
+          "description": "東京で憲法改正に反対し、首相の退陣を求める抗議行動が行われた。政治への不満が可視化され、今後の社会情勢に影響を与える可能性がある。",
           "source": "arabnews.jp"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "金融関連の抗議",
+      "panic_index": 40,
+      "status": "stable",
+      "main_cause": "金融関連の抗議活動",
       "incidents": [
         {
-          "title": "カンボジアでのHuione Pay/H-Pay関連抗議者への支払い手続き説明",
+          "title": "Huione Pay, H-Pay抗議者への請求プロセスを中央銀行が明確化",
           "location": "Cambodia",
-          "severity": 55,
-          "description": "カンボジアのHuione PayおよびH-Payに関する抗議者に対し、国家銀行が支払い請求プロセスの明確化を発表。金融システムへの不満が背景にある。",
+          "severity": 40,
+          "description": "カンボジアの中央銀行が、Huione PayおよびH-Payに関する抗議者への請求処理プロセスを明確化。金融関連の問題が一部の社会不安を引き起こしている。",
           "source": "Khmer Times"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "気候変動政策への不満",
+      "incidents": [
+        {
+          "title": "NatWestが気候変動対策後退を巡り株主総会で対決",
+          "location": "UK",
+          "severity": 30,
+          "description": "NatWest銀行が気候変動対策への後退を巡り、年次株主総会で対決に直面。環境活動家からの抗議が予想され、企業活動における社会的な緊張を示している。",
+          "source": "The Guardian"
         }
       ]
     }
