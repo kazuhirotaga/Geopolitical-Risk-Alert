@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-04-26",
-    "summary": "イランを巡る緊張が激化し、中東情勢が極めて不安定。米イラン間の交渉は停滞し、イスラエルとヒズボラの衝突も継続。ウクライナ情勢も依然として深刻で、世界的な食料不安も増大している。米国内では政治的な不安定要素も顕在化。",
-    "overall_risk_level": "critical",
+    "summary": "米イラン間の緊張が継続し、和平協議は停滞。イスラエルとレバノンの間では停戦が延長されたものの、依然として不安定な状況。ウクライナ情勢も膠着状態が続く。世界的な食料不足も深刻化しており、複合的なリスクが高まっている。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "medium",
-      "south_asia": "critical",
+      "south_asia": "high",
       "central_asia": "none",
-      "middle_east": "critical",
-      "europe": "medium",
+      "middle_east": "high",
+      "europe": "high",
       "africa": "medium",
       "north_america": "medium",
       "south_america": "medium"
     },
-    "generated_at": "2026-04-26T07:45:36.801910"
+    "generated_at": "2026-04-26T09:57:06.677217"
   },
   {
     "date": "2026-04-25",

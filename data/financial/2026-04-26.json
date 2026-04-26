@@ -1,14 +1,14 @@
 {
   "date": "2026-04-26",
-  "summary": "地政学的リスク（イラン情勢、ホワイトハウス銃撃事件）、金融政策の不確実性、暗号資産市場の動向が複合的に影響し、市場のボラティリティが高まっています。特に地政学的リスクと暗号資産市場の変動に注意が必要です。",
+  "summary": "地政学的リスク、特にイラン情勢と米国大統領周辺の不安定要素が市場のボラティリティを高めている。暗号資産市場は規制動向と技術革新の両面で大きな影響を受けており、AI分野への人材流出も懸念される。",
   "overall_risk_level": "high",
   "articles": [
     {
       "title": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot",
       "region": "global",
       "risk_level": "high",
-      "summary": "ホワイトハウス記者夕食会で銃撃事件が発生。トランプ大統領も出席しており、シークレットサービスが警護。政治的緊張の高まりを示唆。",
-      "analysis": "政治的イベントにおけるセキュリティリスクが顕在化し、市場心理に悪影響を与える可能性があります。特に、トランプ大統領の動向に関連するイベントは、今後も警戒が必要です。類似の事件発生を抑制するためのセキュリティ強化策が求められ、関連業界への影響も考えられます。地政学的リスクと合わせて、投資家のリスク回避姿勢が強まる可能性があります。",
+      "summary": "トランプ大統領が出席したホワイトハウス記者夕食会で銃撃事件が発生。シークレットサービスが迅速に対応したが、政治的緊張の高まりを示す。",
+      "analysis": "政治的イベントにおけるセキュリティリスクが顕在化し、市場心理に悪影響を与える可能性がある。特に、大統領の安全に関する懸念は、政策決定の不確実性を増大させ、投資家のリスク回避姿勢を強める要因となる。今後の同様のイベントにおけるセキュリティ対策強化が求められる。",
       "key_entities": [
         "Donald Trump",
         "Secret Service"
@@ -24,8 +24,8 @@
       "title": "3 forces that drove another historic – yet volatile – week for the S&P 500",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イラン情勢、企業業績、ハードウェア・ソフトウェア株の分裂がS&P500のボラティリティを高めた。イラン戦争が主要因。",
-      "analysis": "イラン情勢の緊迫化が原油価格の上昇やサプライチェーンの混乱を引き起こし、世界経済に悪影響を与える可能性があります。企業業績への影響も懸念され、投資家のリスク回避姿勢が強まる可能性があります。特に、エネルギー関連株や地政学的リスクの影響を受けやすい地域に事業を展開する企業は注意が必要です。Breakwave Tanker Shipping ETF (BWET)が急騰していることからも、中東情勢緊迫化の影響が伺えます。",
+      "summary": "イラン情勢、企業業績、ハードウェア・ソフトウェア株の動向がS&P500のボラティリティを高めた。",
+      "analysis": "イラン情勢の緊迫化は原油価格の上昇やサプライチェーンの混乱を引き起こし、インフレ圧力を高める可能性がある。企業業績の変動は個別株だけでなく、市場全体のセンチメントに影響を与える。ハードウェア・ソフトウェア株の乖離は、AI関連投資の選別が進んでいることを示唆し、今後のセクターローテーションに注意が必要。",
       "key_entities": [
         "S&P 500",
         "Iran"
@@ -38,29 +38,11 @@
       ]
     },
     {
-      "title": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "トランプ氏がイランとの交渉をキャンセルしたとの報道を受け、ビットコインが下落。地政学的リスクと暗号資産市場の連動性を示す。",
-      "analysis": "地政学的リスクが暗号資産市場に直接影響を与える事例です。特に、トランプ大統領の政策決定や発言は、市場の変動要因となる可能性があります。今後のイラン情勢や米国の外交政策の動向に注目が必要です。ビットコインの価格変動は、他の暗号資産や金融市場にも波及する可能性があるため、注意が必要です。",
-      "key_entities": [
-        "Bitcoin",
-        "Donald Trump",
-        "Iran"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
       "title": "U.S. imposes sanctions on Chinese 'teapot' refinery for buying Iranian oil",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "米国がイラン産原油を購入した中国の精油所に制裁。米中関係の悪化とエネルギー市場への影響が懸念される。",
-      "analysis": "米国の対イラン制裁が強化され、中国との貿易摩擦が激化する可能性があります。エネルギー市場においては、原油供給の不安定化や価格上昇につながる可能性があります。特に、中国経済やエネルギー関連企業は、制裁の影響を受ける可能性があります。地政学的リスクと貿易リスクが複合的に作用し、世界経済の不確実性が高まる可能性があります。",
+      "summary": "米国がイラン産原油を購入したとして中国の製油所に制裁を発動。イランの影の艦隊に関わる海運会社や船舶も制裁対象。",
+      "analysis": "米国の対イラン制裁強化は、原油市場の供給不安を高め、価格上昇につながる可能性がある。米中間の緊張も高まり、貿易関係に悪影響を及ぼすリスクがある。制裁対象となった企業や関連業界は、事業戦略の見直しを迫られるだろう。",
       "key_entities": [
         "United States",
         "China",
@@ -74,11 +56,29 @@
       ]
     },
     {
+      "title": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "トランプ氏がイランとの交渉のために予定されていた側近の訪問をキャンセルしたとの報道を受け、ビットコインが下落。",
+      "analysis": "地政学的リスクの高まりが暗号資産市場に影響を与える事例。トランプ氏の動向が市場心理を左右する可能性を示唆している。今後のイラン情勢に関する報道や、トランプ氏の発言に注意が必要。",
+      "key_entities": [
+        "Bitcoin",
+        "Donald Trump",
+        "Iran"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
       "title": "BlackRock’s bitcoin ETF just hit a massive milestone that proves crypto is now a mainstream bet",
       "region": "global",
       "risk_level": "low",
       "summary": "BlackRockのビットコインETFが大きな節目を迎え、暗号資産が主流の投資対象になりつつあることを示唆。",
-      "analysis": "機関投資家の暗号資産への参入が進み、市場の成熟度が高まっています。しかし、暗号資産市場は依然としてボラティリティが高く、規制リスクも存在します。BlackRockのような大手金融機関の動向は、市場全体のトレンドを左右する可能性があるため、注意が必要です。暗号資産ETFの普及は、個人投資家にも影響を与える可能性があります。",
+      "analysis": "機関投資家の暗号資産への参入が進み、市場の成熟度が高まっている。ただし、規制リスクや価格変動リスクは依然として存在するため、注意が必要。ETFの動向は、今後の暗号資産市場の方向性を示す重要な指標となる。",
       "key_entities": [
         "BlackRock",
         "Bitcoin ETF"
@@ -91,28 +91,11 @@
       ]
     },
     {
-      "title": "Trump defends crypto legislation at private event featuring boxer Mike Tyson, Tether CEO",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "トランプ氏が暗号資産関連法を擁護。イベントにはマイク・タイソンやTether CEOも参加。政治と暗号資産の結びつきが強まる。",
-      "analysis": "トランプ氏の暗号資産に対する姿勢が変化しつつあり、今後の政策に影響を与える可能性があります。Tether CEOの参加は、ステーブルコイン規制に関する議論を活発化させる可能性があります。政治と暗号資産の結びつきが強まることで、規制の不確実性が高まる可能性があります。",
-      "key_entities": [
-        "Donald Trump",
-        "Tether"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
       "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
       "region": "global",
       "risk_level": "medium",
-      "summary": "AI人材獲得競争が激化し、ソフトウェア業界からOpenAIへの人材流出が加速。ソフトウェア企業の株価低迷の一因に。",
-      "analysis": "AI分野における人材獲得競争が激化し、既存のソフトウェア企業に大きな影響を与えています。OpenAIのようなAIスタートアップが、優秀な人材を積極的に獲得することで、業界の勢力図が変化する可能性があります。ソフトウェア企業の株価低迷は、AIによるDisruptionに対する懸念を反映しており、今後のAI技術の進化と市場への影響に注目が必要です。",
+      "summary": "AI分野の人材獲得競争が激化し、ソフトウェア業界からOpenAIへの人材流出が加速。ソフトウェア企業の業績悪化も懸念される。",
+      "analysis": "AI分野への人材集中は、既存のソフトウェア企業の競争力を低下させる可能性がある。AI技術の進化が加速する一方で、人材不足がボトルネックとなるリスクも存在する。ソフトウェア企業は、人材育成や待遇改善を通じて、人材流出を防ぐ必要がある。",
       "key_entities": [
         "OpenAI",
         "Software Industry"
@@ -125,31 +108,15 @@
       ]
     },
     {
-      "title": "Consumer Sentiment Plunges To All-Time Lows on Iran War. Why Are Markets At Record Highs?",
-      "region": "middle_east",
+      "title": "Semiconductor names make up a big portion of this week’s most overbought stocks",
+      "region": "global",
       "risk_level": "medium",
-      "summary": "イラン戦争の影響で消費者心理が過去最低に落ち込む一方、市場は最高値を更新。乖離の背景に注目。",
-      "analysis": "消費者心理の悪化と市場の好調の乖離は、市場の歪みを示唆している可能性があります。イラン戦争の影響が消費者心理に悪影響を与えている一方で、金融緩和政策や企業の好業績が市場を支えていると考えられます。しかし、消費者心理の悪化は、将来的な景気後退の兆候となる可能性もあり、注意が必要です。",
+      "summary": "半導体関連銘柄が今週の買われ過ぎ銘柄リストの大部分を占める。AMD、Microchip Technology、Texas Instrumentsなどが含まれる。",
+      "analysis": "半導体セクターへの過度な投資集中は、調整リスクを高める可能性がある。特に、AIブームに乗じた投機的な買いが増えている場合、市場全体のセンチメントが悪化すると、大幅な下落に見舞われる可能性がある。投資家は、企業のファンダメンタルズを慎重に分析し、過剰なリスクテイクを避けるべき。",
       "key_entities": [
-        "Iran War",
-        "Consumer Sentiment"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Pirro could reopen Fed probe at any time, Democratic senators warn",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "民主党議員が、Pirro氏がFRB議長パウエル氏の調査を再開する可能性について警告。金融政策の不確実性が高まる。",
-      "analysis": "FRB議長に対する政治的な圧力が高まり、金融政策の独立性が損なわれる可能性があります。調査が再開された場合、金融市場の混乱や金利政策の変更につながる可能性があります。特に、インフレ抑制と景気後退リスクのバランスが難しい状況下では、政治的な介入は市場のボラティリティを高める可能性があります。",
-      "key_entities": [
-        "Jerome Powell",
-        "Federal Reserve"
+        "AMD",
+        "Microchip Technology",
+        "Texas Instruments"
       ],
       "sources": [
         "CNBC - Top News"
@@ -162,8 +129,8 @@
       "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi’s",
       "region": "global",
       "risk_level": "medium",
-      "summary": "量子コンピュータの脅威に対するビットコインの脆弱性が指摘され、対策が急務。大量のBTCが盗まれる可能性も。",
-      "analysis": "量子コンピュータの技術進歩は、暗号資産のセキュリティを脅かす可能性があります。ビットコインのセキュリティ対策が遅れる場合、大規模な盗難事件が発生し、市場全体の信頼を損なう可能性があります。量子コンピュータ対策技術の開発と導入が急務であり、関連技術への投資が活発化する可能性があります。",
+      "summary": "量子コンピュータの脅威に対するビットコインの脆弱性が指摘され、サトシ・ナカモトの保有分を含む690万BTCが危険にさらされる可能性。",
+      "analysis": "量子コンピュータの技術進歩は、暗号資産のセキュリティを脅かす潜在的なリスクとなる。ビットコインの開発者は、量子耐性のある暗号技術への移行を急ぐ必要がある。この問題が解決されない場合、ビットコインの信頼性が損なわれ、価格が大幅に下落する可能性がある。",
       "key_entities": [
         "Bitcoin",
         "Quantum Computing"
@@ -174,15 +141,50 @@
       "source_types": [
         "media"
       ]
+    },
+    {
+      "title": "Europe’s banks are going all in on crypto",
+      "region": "europe",
+      "risk_level": "low",
+      "summary": "ヨーロッパの銀行が暗号資産への投資を積極的に進めている。",
+      "analysis": "ヨーロッパの銀行が暗号資産市場に参入することで、市場の流動性が向上し、価格の安定化に貢献する可能性がある。しかし、規制の不確実性やマネーロンダリングのリスクも存在する。銀行は、リスク管理体制を強化し、規制当局との連携を密にする必要がある。",
+      "key_entities": [
+        "European Banks",
+        "Cryptocurrency"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "This little-known ETF is up over 600% amid U.S.-Iran war, a better trade than oil or energy stocks",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "米イラン戦争の影響で、Breakwave Tanker Shipping ETF (BWET)が急騰。原油やエネルギー株よりもパフォーマンスが良い。",
+      "analysis": "地政学的リスクの高まりが、特定のセクターに大きな影響を与える事例。ホルムズ海峡の封鎖リスクなどがタンカー運賃を押し上げ、BWETのパフォーマンスを向上させている。ただし、地政学的リスクは予測が難しく、短期的な投機的取引には注意が必要。",
+      "key_entities": [
+        "Breakwave Tanker Shipping ETF",
+        "Iran",
+        "United States"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
     }
   ],
   "region_risk_map": {
     "global": "high",
-    "north_america": "medium",
-    "europe": "medium",
+    "north_america": "high",
+    "europe": "low",
     "east_asia": "medium"
   },
-  "generated_at": "2026-04-26T07:45:58.065738",
+  "generated_at": "2026-04-26T09:57:26.321416",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
