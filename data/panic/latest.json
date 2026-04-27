@@ -1,152 +1,114 @@
 {
   "date": "2026-04-27",
-  "summary": "世界各地で食料・エネルギー不足や社会経済的な不満に起因するパニックや社会不安が散見されます。特にパキスタンではイラン戦争の影響で全国的な燃料不足が深刻化し、社会インフラの麻痺寸前の状態にあります。インドでも労働者抗議デモの暴力化、LPGや電力などの生活インフラ不足に対する抗議が相次ぎ、治安が不安定化しています。ケニアでも政治集会が衝突に発展するなど、発展途上国を中心に警戒すべき状況が広がっています。",
-  "global_panic_index": 65,
+  "summary": "世界全体では、エネルギー不足に起因するパニック買いや大規模な抗議デモが特にインドとパキスタンで顕著に見られ、警戒状態にあります。ヨーロッパでも燃料不足の懸念が高まっており、潜在的な社会不安要因となっています。一方で、北米は金融システムへの潜在的リスク警告はあるものの、現時点での大規模なパニック行動は見られず、比較的安定しています。",
+  "global_panic_index": 61,
   "regions": [
     {
-      "region": "middle_east",
-      "panic_index": 90,
-      "status": "critical",
-      "main_cause": "エネルギー不足、地政学的紛争の影響",
+      "region": "southeast_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、大規模抗議、金融不安",
       "incidents": [
         {
-          "title": "イラン戦争による全国的な燃料不足",
-          "location": "パキスタン全土",
-          "severity": 95,
-          "description": "イラン戦争の影響でガソリン・ディーゼル燃料が全国的に不足し、ガソリンスタンドが枯渇。国民生活と経済活動に壊滅的な影響を与え、社会インフラが麻痺寸前の深刻なパニック状態にあります。",
+          "title": "LPG・ガソリン不足によるパニック買い",
+          "location": "Hyderabad, India",
+          "severity": 85,
+          "description": "インドのハイデラバードで、LPGおよびガソリン不足によりパニック買いが発生し、多くのガソリンスタンドで品切れの看板が掲げられました。市民の移動や生活に深刻な影響が出ています。",
           "source": "MSN"
         },
         {
-          "title": "ティラ危機の深化",
-          "location": "ティラ、パキスタン",
+          "title": "Noidaにおける労働者抗議と暴力",
+          "location": "Noida, India",
+          "severity": 75,
+          "description": "インドのノイダで、労働者による大規模な抗議デモが継続し、一部で暴力行為が発生。多数の逮捕者が出ており、政府は組織的なグループとの関連を指摘し社会不安が深刻化しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "LPG不足に起因する抗議デモと警官配備",
+          "location": "Jind, India",
           "severity": 65,
-          "description": "ティラ地域で危機が深化しており、地域の不安定化が懸念されます。紛争や社会秩序の混乱につながる可能性があり、警戒が必要です。",
+          "description": "インドのジンドでLPG不足に対する抗議デモが発生し、警察が配備されました。エネルギー供給の不安定さが住民の不満を増幅させ、社会不安につながっています。",
+          "source": "MSN"
+        },
+        {
+          "title": "予告なしの停電に対する「睡眠デモ」",
+          "location": "Kollam, India",
+          "severity": 60,
+          "description": "インドのコッラムで、予告なしの停電に抗議するため青年会議がKSEBオフィスで「睡眠デモ」を実施。電力供給の不安定さが社会的な不満を引き起こし、抗議活動が活発化しています。",
+          "source": "The Economic Times"
+        },
+        {
+          "title": "Paytm Payments Bankの銀行ライセンス取り消し",
+          "location": "India",
+          "severity": 55,
+          "description": "インド準備銀行（RBI）がPaytm Payments Bankの銀行ライセンスを取り消しました。直接的な取り付け騒ぎには至っていませんが、金融システムへの不信感や潜在的な不安要因となっています。",
+          "source": "MediaNama"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "エネルギー不足、地域紛争",
+      "incidents": [
+        {
+          "title": "イラン戦争によるパキスタンでの燃料不足",
+          "location": "Pakistan (across provinces)",
+          "severity": 80,
+          "description": "イラン戦争の影響でパキスタン全土でガソリンとディーゼルが不足し、ガソリンポンプが枯渇状態に陥っています。エネルギー危機が国民の生活に深刻な影響を及ぼし、広範なパニックを引き起こしています。",
+          "source": "MSN"
+        },
+        {
+          "title": "Tirah危機が悪化",
+          "location": "Tirah, Pakistan",
+          "severity": 65,
+          "description": "パキスタンのティラ地域で危機が悪化し、アフリーディ族の会議が招集されました。地域的な不安定さと衝突の懸念が高まっており、住民の間で不安が広がっています。",
           "source": "The Express Tribune"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "労働問題、エネルギー・交通インフラの不足、治安悪化",
-      "incidents": [
-        {
-          "title": "ノイダでの労働者抗議デモの暴力化と逮捕",
-          "location": "ノイダ、インド",
-          "severity": 80,
-          "description": "ノイダでの労働者抗議デモが暴力化し、300人もの逮捕者が出ました。当局は計画的陰謀や外部勢力の関与を指摘しており、社会秩序の重大な混乱と治安悪化が進行しています。",
-          "source": "MSN"
-        },
-        {
-          "title": "LPG不足に対する抗議と警察出動",
-          "location": "ジンド、インド",
-          "severity": 75,
-          "description": "液化石油ガス（LPG）の不足が市民の不満を爆発させ、抗議活動が発生し警察が出動しました。生活必需品の供給不安定が社会不安を増大させています。",
-          "source": "MSN"
-        },
-        {
-          "title": "労働者騒擾の鎮圧と数百人逮捕",
-          "location": "インド",
-          "severity": 70,
-          "description": "インド全土で高まる労働者騒擾を鎮圧するため、警察が数百人を逮捕しました。広範な労働者の不満が政府による強制的な対応を招いており、社会の緊張が高まっています。",
-          "source": "World Socialist Web Site"
-        },
-        {
-          "title": "無告知停電に対する「sleep protest」",
-          "location": "コッラム、インド",
-          "severity": 60,
-          "description": "ケーララ州コッラムで、予告なしの停電に対する抗議活動（sleep protest）が行われました。電力供給の不安定さが住民の生活に影響を与え、不満を表明するデモにつながっています。",
-          "source": "The Economic Times"
-        },
-        {
-          "title": "バス不足に対する抗議",
-          "location": "キランバッカム、インド",
-          "severity": 55,
-          "description": "タミル・ナードゥ州キランバッカムで、バス不足により選挙投票に行けなかった乗客が抗議活動を行いました。公共交通機関の不備が市民生活に直接的な影響を与え、不満を高めています。",
-          "source": "MSN"
-        }
-      ]
-    },
-    {
-      "region": "africa",
+      "region": "europe",
       "panic_index": 60,
       "status": "unstable",
-      "main_cause": "政治的抗議、治安悪化",
+      "main_cause": "エネルギー不足の懸念、社会不安",
       "incidents": [
         {
-          "title": "集会が暴力的衝突と騒擾を誘発",
-          "location": "キスム、ケニア",
-          "severity": 65,
-          "description": "リンダ・マンアンチ集会がキスムで暴力的衝突と騒擾を引き起こしました。政治的なデモが治安を不安定化させ、市民の安全に影響を及ぼしています。",
-          "source": "Capitalfm.co.ke"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "金融セキュリティ問題",
-      "incidents": [
+          "title": "イラン戦争継続によるヨーロッパの燃料不足懸念",
+          "location": "Europe",
+          "severity": 60,
+          "description": "イラン戦争の継続により、ヨーロッパが数週間以内に燃料不足に陥る可能性があると報じられています。この懸念は、地域全体で経済的および社会的な不安定さを引き起こす恐れがあります。",
+          "source": "MSN"
+        },
         {
-          "title": "サイバー窃盗に対する抗議",
-          "location": "スリランカ",
-          "severity": 55,
-          "description": "250万ドルのサイバー窃盗事件に対し、市民団体Sarvajana Balayaが抗議活動を行いました。金融セキュリティへの不信感が高まり、市民の怒りが表面化しています。",
-          "source": "Ada Derana"
+          "title": "アイルランドの社会不安",
+          "location": "Ireland",
+          "severity": 50,
+          "description": "アイルランドで社会不安が報告されており、自由主義的合意の限界が指摘されています。具体的なパニック行動は不明ですが、社会秩序に対する懸念が存在します。",
+          "source": "The Catholic Herald"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 35,
-      "status": "unstable",
-      "main_cause": "金融システムへの懸念",
-      "incidents": [
-        {
-          "title": "ステーブルコインの取り付け騒ぎリスクに関する警告",
-          "location": "米国",
-          "severity": 40,
-          "description": "米連邦準備制度理事会（FRB）のバー副議長がステーブルコインの「取り付け騒ぎ（run）」のリスクについて警告を発しました。これは現在のパニックではないものの、潜在的な金融不安への警鐘として注目されます。",
-          "source": "MSN"
-        }
-      ]
-    },
-    {
-      "region": "europe",
       "panic_index": 30,
-      "status": "unstable",
-      "main_cause": "環境問題、インフレ懸念、地政学的リスク",
+      "status": "stable",
+      "main_cause": "潜在的な金融リスク、根深い社会問題",
       "incidents": [
         {
-          "title": "NatWestが気候変動に関する株主総会での対立に直面",
-          "location": "英国",
-          "severity": 35,
-          "description": "NatWest銀行が気候変動対策の後退を巡り、年次株主総会で株主からの厳しい追及に直面しています。環境問題への関心の高まりが企業活動に影響を与え、社会的な議論を呼んでいます。",
-          "source": "The Guardian"
+          "title": "FRBによるステーブルコインの取り付け騒ぎリスク警告",
+          "location": "United States",
+          "severity": 40,
+          "description": "米連邦準備制度理事会（FRB）のバー副議長が、ステーブルコインの規制明確化を支持しつつも、取り付け騒ぎのリスクについて警告しました。潜在的な金融不安の兆候が見られます。",
+          "source": "MSN"
         },
         {
-          "title": "ホルムズ海峡危機がイギリスに影響を与える可能性",
-          "location": "英国",
+          "title": "ジョージ・フロイド暴動の扇動者特定",
+          "location": "United States",
           "severity": 30,
-          "description": "ホルムズ海峡での危機がイギリスのエネルギー供給に影響を及ぼす可能性が指摘されています。遠隔地の地政学的リスクが自国の生活に波及する懸念が広がっています。",
-          "source": "Arab News"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 25,
-      "status": "unstable",
-      "main_cause": "社会的・政治的緊張",
-      "incidents": [
-        {
-          "title": "アイルランドの騒擾",
-          "location": "アイルランド",
-          "severity": 25,
-          "description": "アイルランドで社会的な騒擾（unrest）が発生しており、リベラルな合意形成の限界が議論されています。特定の暴力や大規模な混乱は報じられていませんが、社会的な緊張が高まっています。",
-          "source": "The Catholic Herald"
+          "description": "ジョージ・フロイド暴動のきっかけを作った人物が白人至上主義者と特定されました。これは過去の社会不安の根本原因に関する情報であり、現在のパニックではないものの、社会の分断と不安定さの根深さを示唆しています。",
+          "source": "ABC News"
         }
       ]
     }
