@@ -1,144 +1,152 @@
 {
   "date": "2026-04-28",
-  "summary": "世界各地では、生活必需品の供給不安と金融システムへの不信が社会不安を増大させています。中東では水資源を巡る深刻な紛争、南アジアでは燃料不足と大規模な労働抗議が顕著です。金融面では、暗号資産の大規模な資金流出や、一部地域での現金引き出しの急増が警戒されます。暴力的なデモやインフラ破壊の報告もあり、複数の地域で緊迫した状況が続いています。",
-  "global_panic_index": 65,
+  "summary": "世界各地でエネルギー不足（燃料、LPG、ガス）に起因する大規模な抗議活動やパニック買いが顕著であり、特にインドとパキスタンでは燃料供給の枯渇と労働争議の暴力化が深刻な社会不安を引き起こしています。中東では水資源の供給停止、欧州では国際紛争による燃料危機予測が警戒されており、金融市場においても仮想通貨関連の巨額流出が懸念材料となっています。全体として、資源不足と社会経済的不満が重なり、多くの地域で社会秩序の不安定化が進んでいます。",
+  "global_panic_index": 75,
   "regions": [
     {
       "region": "middle_east",
-      "panic_index": 75,
+      "panic_index": 78,
       "status": "volatile",
-      "main_cause": "水資源紛争、政治的不安、金融システムへの不信",
+      "main_cause": "資源不足、地域紛争、政治的社会的不満",
       "incidents": [
         {
-          "title": "ヨルダン川西岸で水不足が深刻化",
-          "location": "ヨルダン川西岸",
-          "severity": 75,
-          "description": "イスラエル人入植者によるパイプ破壊や井戸の閉鎖により、ヨルダン川西岸の水道が干上がり、パレスチナ人の水供給が深刻な危機に瀕している。",
+          "title": "West Bank 水道施設破壊と水不足",
+          "location": "West Bank",
+          "severity": 80,
+          "description": "イスラエル人入植者による水道管破壊と井戸の封鎖により、ウェストバンクで水が枯渇し、パレスチナ人の生活基盤が深刻な影響を受けている。",
           "source": "Egypt Independent"
         },
         {
-          "title": "クウェートで凍結資金返還を求めるデモ",
-          "location": "クウェート",
-          "severity": 60,
-          "description": "詐欺関連の調査で凍結された資金の返還を求め、デモ参加者が抗議活動を行っている。金融システムへの不信感と怒りが高まっている。",
-          "source": "Kuwait Times"
-        },
-        {
-          "title": "イランで新たな抗議デモの波のリスク",
-          "location": "イラン",
-          "severity": 45,
-          "description": "イランの治安評議会が新たな抗議デモの波のリスクを検討していると報じられ、国内の政治的・社会的な緊張が高まっている。",
+          "title": "イラン、新たな抗議の波を警戒",
+          "location": "Iran",
+          "severity": 75,
+          "description": "イランの安全保障理事会が新たな抗議活動の波のリスクを検討しており、広範な社会的不満が政情不安に繋がる可能性が高まっている。",
           "source": "Caliber.Az"
         }
       ]
     },
     {
-      "region": "south_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "燃料不足、労働不安、金融システムへの不信",
+      "region": "east_asia",
+      "panic_index": 79,
+      "status": "critical",
+      "main_cause": "エネルギー不足、労働問題、金融システムへの不信",
       "incidents": [
         {
-          "title": "パキスタンで広範な燃料不足、給油所が枯渇",
-          "location": "パキスタン",
+          "title": "パキスタンでの燃料不足とガソリンスタンドの枯渇",
+          "location": "Pakistan (各州)",
+          "severity": 85,
+          "description": "イラン紛争の影響でパキスタン全土でガソリン・ディーゼル不足が発生し、ガソリンスタンドが枯渇。市民の生活と物流に深刻な影響を与えている。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド・ノイダでの大規模労働争議と暴力化",
+          "location": "India (Noida)",
+          "severity": 90,
+          "description": "ノイダで労働者による大規模な抗議活動が暴力化し、多数の逮捕者が出ている。政府は組織的関与や国際的繋がりを指摘し、賃上げで沈静化を図っている。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド・ハイデラバードでの燃料パニック買いと枯渇",
+          "location": "India (Hyderabad)",
+          "severity": 95,
+          "description": "ハイデラバードでLPGとガソリンのパニック買いが発生し、ガソリンスタンドは「在庫なし」の表示を掲げ、燃料が完全に枯渇する事態となっている。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド・ジンドでのLPG不足に対する抗議と警察配備",
+          "location": "India (Jind)",
           "severity": 75,
-          "description": "イラン戦争の影響で、パキスタン全土でガソリンとディーゼルの不足が発生し、多くの給油所が干上がる事態に直面。社会インフラの麻痺寸前。",
+          "description": "ジンドでLPG不足を巡る抗議デモが発生し、治安維持のため警察が配備された。生活必需品の不足が社会不安を煽っている。",
           "source": "MSN"
         },
         {
-          "title": "インド・ノイダで労働者の抗議が暴力化、多数逮捕",
-          "location": "ノイダ、インド",
-          "severity": 65,
-          "description": "ノイダの労働者による抗議デモが暴力的な衝突に発展し、300人が逮捕された。政府は組織的グループとの関連を疑い、緊張が高まっている。",
-          "source": "MSN"
-        },
-        {
-          "title": "銀行の煩雑な手続きで遺骨を持ち込む事態が発生",
-          "location": "オディシャ、インド",
-          "severity": 55,
-          "description": "死亡した姉妹の貯金引き出し手続きで銀行から死亡証明の追加要求を受け、男性が遺骨を銀行に持ち込むという絶望的な事象が発生。金融機関への不信を煽る。",
-          "source": "Hindustan Times"
-        },
-        {
-          "title": "LPG不足に抗議するデモが各地で発生",
-          "location": "ファグワラ、ジンド、ナーグプル他、インド",
-          "severity": 50,
-          "description": "インド各地でLPG（液化石油ガス）の供給不足に対する抗議デモが頻発。熱波と重なる地域もあり、生活必需品への不安が深刻化している。",
-          "source": "The Tribune 他"
-        },
-        {
-          "title": "バス不足で乗客が抗議、投票できず帰宅",
-          "location": "タミル・ナードゥ州、インド",
-          "severity": 40,
-          "description": "タミル・ナードゥ州キランバッカムでバス不足のため多くの乗客が投票せずに帰宅を余儀なくされ、抗議デモが発生。公共交通インフラへの不満が浮上。",
-          "source": "MSN"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 65,
-      "status": "unstable",
-      "main_cause": "金融サービスへの不満、治安悪化",
-      "incidents": [
-        {
-          "title": "カンボジアで金融サービスへの暴力的な抗議と逮捕",
-          "location": "カンボジア",
-          "severity": 65,
-          "description": "Huione Payの顧客による抗議デモが警察との暴力的な衝突に発展し、主導者が逮捕された。金融サービスへの不満が社会不安につながっている。",
-          "source": "Khmer Times"
+          "title": "インド・オリッサ州での遺骨持ち込み抗議と銀行不信",
+          "location": "India (Odisha)",
+          "severity": 60,
+          "description": "オリッサ州で姉の遺骨を銀行に持ち込み預金引き出しを求める男性の極端な抗議が発生。金融機関の対応不備が個人の絶望的な行動を招いた。",
+          "source": "The Times of India"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "地政学的な燃料供給不安、医療サービス不足",
-      "incidents": [
-        {
-          "title": "イラン戦争継続でヨーロッパの燃料不足懸念",
-          "location": "ヨーロッパ",
-          "severity": 70,
-          "description": "イラン戦争の継続により、ヨーロッパが数週間以内に燃料不足に陥る可能性があるとの警告が報じられており、広範な社会・経済的混乱への懸念が高まっている。",
-          "source": "MSN"
-        },
-        {
-          "title": "イタリア・オリスターノで医師不足が深刻化",
-          "location": "オリスターノ、イタリア",
-          "severity": 40,
-          "description": "オリスターノ市の市長らが地方保健当局に対し、医師不足で1,500人の患者が医療を受けられない状況に抗議しており、医療崩壊への不安が指摘されている。",
-          "source": "L'Unione Sarda English"
-        }
-      ]
-    },
-    {
-      "region": "oceania",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "金融システムへの不信",
+      "main_cause": "医療システムの問題、エネルギー不足、国際紛争の影響",
       "incidents": [
         {
-          "title": "オーストラリアで「数百万人が現金を急いで引き出し」",
-          "location": "オーストラリア",
-          "severity": 70,
-          "description": "オーストラリアで「数百万もの人々が競って現金を引き出している」と報じられ、金融システムへの不信感や経済的な不安が高まっている兆候が見られる。",
-          "source": "Herald Sun"
+          "title": "医師不足によるイタリア・オリスターノ市長らの抗議",
+          "location": "Italy (Oristano)",
+          "severity": 55,
+          "description": "イタリアのオリスターノ市長らが地方保健当局に対し、医師不足により1,500人の患者が医療を受けられない状況に抗議している。",
+          "source": "L'Unione Sarda English"
+        },
+        {
+          "title": "イラン紛争による欧州の燃料枯渇リスク",
+          "location": "Europe",
+          "severity": 85,
+          "description": "イラン紛争の継続により、数週間以内に欧州が燃料不足に陥る可能性が指摘されており、広範な社会不安と経済的打撃が懸念される。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 25,
+      "panic_index": 35,
       "status": "stable",
-      "main_cause": "地域住民の特定の計画への反対",
+      "main_cause": "地域開発への反対",
       "incidents": [
         {
-          "title": "バークレーで試験用養鶏場への住民抗議",
-          "location": "バークレー、アメリカ",
-          "severity": 25,
-          "description": "バークレーで住民が大学が計画する試験用養鶏場に反対する抗議デモを行っており、特定の地域課題に対する市民の懸念が示されている。",
+          "title": "バークレー住民による鶏舎計画への抗議",
+          "location": "US (Berkeley)",
+          "severity": 35,
+          "description": "バークレーの住民が大学の計画する鶏舎建設に反対し抗議デモを行っている。これは局所的な環境・地域問題に対する不満である。",
           "source": "East Bay Times"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "経済・金融関連の不満",
+      "incidents": [
+        {
+          "title": "カンボジアでの暴力的な抗議活動の首謀者逮捕",
+          "location": "Cambodia",
+          "severity": 70,
+          "description": "Huione Payの顧客2名が逮捕され、うち1名は暴力的な抗議活動の首謀者とされている。経済的または金融サービスへの不満が背景にあるとみられる。",
+          "source": "Kiripost"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "公共交通機関の不足",
+      "incidents": [
+        {
+          "title": "OAU学生による交通手段不足への抗議",
+          "location": "Nigeria (OAU)",
+          "severity": 45,
+          "description": "オバフェミ・アウォロウォ大学の学生がキャンパス内のバス不足に抗議し、交通手段の改善を要求している。",
+          "source": "thestar.ng"
+        }
+      ]
+    },
+    {
+      "region": "oceania",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "社会・経済政策への反対",
+      "incidents": [
+        {
+          "title": "キャッシュレス化反対「キャッシュアウトデー」実施",
+          "location": "Australia",
+          "severity": 40,
+          "description": "オーストラリア国民が「キャッシュレス社会」への移行に抗議するため「キャッシュアウトデー」を実施。特定の社会・経済政策に対する市民の懸念が示されている。",
+          "source": "MSN"
         }
       ]
     }
