@@ -1,85 +1,138 @@
 {
   "date": "2026-04-29",
-  "summary": "世界各地では、生活必需品の不足（燃料、水、電力、LPG、住宅、医療サービス）に対する抗議活動が多発しており、特にアジアの一部地域では大規模なデモや買いだめといった直接的なパニック行動が報告されています。ヨーロッパと北米では、懸念は存在するものの、現状は比較的安定しています。",
-  "global_panic_index": 47,
+  "summary": "世界全体では、一部地域で生活必需品の供給不安や経済的圧力、労働問題、そして政治・社会問題への大規模な抗議活動が警戒レベルに達しており、特に南アジアとアフリカで顕著です。北米や欧州でも不安要素は散見されますが、全体的なパニック状態には至っていません。金融市場では一部ショックが見られるものの、全体としては比較的安定を保っています。",
+  "global_panic_index": 58,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "生活必需品・サービス不足への不満",
-      "incidents": [
-        {
-          "title": "アイルランド、住宅不足に対する大規模抗議デモ",
-          "location": "アイルランド",
-          "severity": 50,
-          "description": "住宅不足の深刻化を訴え、数千人が議会前で大規模な抗議デモを実施。生活への影響に対する市民の不満が高まっており、社会不安の一因となっています。",
-          "source": "AOL.com"
-        },
-        {
-          "title": "イタリア、医師不足に対し市長らが抗議",
-          "location": "イタリア、オリスターノ",
-          "severity": 50,
-          "description": "医師不足が深刻化し1,500人以上の患者が医療を受けられない状況に対し、市長らが保健当局に抗議。公衆衛生への不安が広がり、サービス提供への不信感が高まっています。",
-          "source": "L'Unione Sarda.it"
-        }
-      ]
-    },
-    {
       "region": "north_america",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "エネルギー供給への懸念",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "エネルギー供給の懸念",
       "incidents": [
         {
-          "title": "アメリカ、石油供給に関する懸念とパニック否定",
-          "location": "アメリカ",
-          "severity": 30,
-          "description": "石油供給残量が25日分との報道があるものの、当局はパニックを否定。しかし、エネルギー供給への潜在的な懸念は存在し、情報に注意が払われている状況です。",
+          "title": "米国における石油供給不足の懸念と『パニックになるな』との呼びかけ",
+          "location": "米国",
+          "severity": 45,
+          "description": "米国における石油供給が25日分しかないという情報が報じられ、供給不足への懸念が高まる中、「パニックになるな」という呼びかけが行われています。",
           "source": "Jalopnik"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 61,
-      "status": "volatile",
-      "main_cause": "燃料・エネルギー不足、生活必需品不足、社会経済的要因",
+      "region": "europe",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "住宅不足に対する社会不安",
       "incidents": [
         {
-          "title": "パキスタン、燃料不足による買いだめと給油所の枯渇",
-          "location": "パキスタン",
+          "title": "アイルランド議会前での大規模な住宅不足抗議デモ",
+          "location": "アイルランド",
+          "severity": 50,
+          "description": "アイルランドでは、深刻化する住宅不足に対し、数千人規模の人々が国会議事堂前で抗議デモを実施。生活への影響が懸念されています。",
+          "source": "AOL.com"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "社会不安の再燃と指導層の懸念",
+      "incidents": [
+        {
+          "title": "イラン指導者が新たな公衆不安に備え緊急会議、『時間の問題』と報道",
+          "location": "イラン",
+          "severity": 55,
+          "description": "イランの指導者層は、新たな公衆不安の発生に備えて緊急会議を開催。社会不安の再燃が「時間の問題」であると報じられています。",
+          "source": "theweek.in"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "大規模な抗議活動とインフラ妨害",
+      "incidents": [
+        {
+          "title": "南アフリカ・アレクサンドラで住民が燃えるタイヤで道路を封鎖する抗議",
+          "location": "南アフリカ、アレクサンドラ",
+          "severity": 65,
+          "description": "南アフリカのアレクサンドラで住民による抗議活動が勃発し、燃えるタイヤを使って主要道路を封鎖。社会インフラへの妨害が発生しています。",
+          "source": "Central News South Africa"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "燃料・生活必需品不足、労働不安、経済圧力",
+      "incidents": [
+        {
+          "title": "インド全土で燃料のパニック買いと供給不足、政府は価格高騰を否定",
+          "location": "インド",
           "severity": 75,
-          "description": "イラン情勢の緊迫化を受け、ガソリンやディーゼルの不足が発生し、各地の給油所で列や枯渇が見られ、政府が価格高騰を否定する中でも燃料の買いだめ行動が顕著になっています。",
+          "description": "ガソリンスタンドで「パニック買い」が広がり、一部で在庫切れが発生。政府は選挙後の燃料価格高騰を否定するも、不安は継続しています。",
           "source": "MSN"
         },
         {
-          "title": "インド各地で生活必需品（電力・水・LPG・燃料）不足と抗議デモ",
-          "location": "インド、ルディアナ、バトマルー、ケンドラパラなど",
-          "severity": 60,
-          "description": "ルディアナでは電力危機、カシミールやケンドラパラでは飲料水不足、その他地域でLPGや燃料不足が報告され、これら生活必需品の供給不足に対する抗議デモが多発しています。",
-          "source": "Hindustan Times, Rising Kashmir, MSN, The Hans India"
-        },
-        {
-          "title": "インド・ノイダでの労働者抗議デモが一部暴力化",
+          "title": "インド・ノイダにおける労働不安の激化と暴力、警備を強化",
           "location": "インド、ノイダ",
           "severity": 65,
-          "description": "労働者の抗議活動が一部で暴力化し、治安当局が警備を強化。外部の組織が関与しているとの見方もあり、社会不安が継続しており、秩序が不安定な状況です。",
+          "description": "ノイダでは労働者の抗議活動がエスカレートし、一部で暴力が発生。政府は組織的関与を示唆しており、地域一帯の警備が強化されています。",
           "source": "MSN"
         },
         {
-          "title": "インド・BBAUで学生死亡を巡る大規模夜間デモ",
-          "location": "インド、BBAU",
-          "severity": 60,
-          "description": "学生の死を巡り、数千人の学生が大学の副学長ゲートを突破し夜間デモを実施。辞任を要求し、一時的に学内が混乱状態に陥り、深刻な社会問題として認識されています。",
-          "source": "Bhaskar English"
+          "title": "水、電力、交通インフラ不足に対する各地での住民抗議",
+          "location": "インド（ルディアナ、バトマルー、キランバッカム、ケンドラパラなど）",
+          "severity": 55,
+          "description": "水不足による道路封鎖、停電による電力危機、バス不足による投票妨害など、生活必需品・サービス不足への抗議が複数の地域で発生しています。",
+          "source": "Hindustan Times, Rising Kashmir, MSN"
         },
         {
-          "title": "タイ、戦争リスクによる物価上昇への懸念",
-          "location": "タイ",
-          "severity": 45,
-          "description": "中央銀行は戦争リスクによる物価上昇を警戒し、金融政策の調整を示唆。食料やエネルギー価格への懸念が消費者の間で広がりつつあり、潜在的な社会不安の要因となっています。",
-          "source": "Finimize"
+          "title": "インド・ルピーが過去最低値を記録し経済不安が増大",
+          "location": "インド",
+          "severity": 50,
+          "description": "インド・ルピーが過去最低値を記録。高騰する原油価格と資本流出が背景にあり、インドの金融市場に圧力がかかっています。",
+          "source": "Reuters"
+        },
+        {
+          "title": "学生死亡に端を発する大学での大規模夜間抗議デモ",
+          "location": "インド、BBAU",
+          "severity": 50,
+          "description": "学生の死を巡り、数千人の学生が夜間に抗議デモを決行。大学幹部の辞任を要求し、門に押し寄せる事態となっています。",
+          "source": "Bhaskar English"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 40,
+      "status": "stable",
+      "main_cause": "支払い関連の紛争",
+      "incidents": [
+        {
+          "title": "カンボジアで支払い関連紛争に対する抗議デモ発生",
+          "location": "カンボジア",
+          "severity": 40,
+          "description": "カンボジアのNBC（中央銀行）は、Huione Pay関連の紛争に対する抗議デモについて、自身の管轄外であると発表しました。",
+          "source": "Kiripost"
+        }
+      ]
+    },
+    {
+      "region": "oceania",
+      "panic_index": 40,
+      "status": "stable",
+      "main_cause": "キャッシュレス化への反発",
+      "incidents": [
+        {
+          "title": "オーストラリアでキャッシュレス化への移行に抗議する『キャッシュアウトデー』実施",
+          "location": "オーストラリア",
+          "severity": 40,
+          "description": "オーストラリアでは、キャッシュレス化への社会移行に反対するため、国民が銀行から現金を引き出す「キャッシュアウトデー」に参加する抗議活動が行われました。",
+          "source": "MSN"
         }
       ]
     }
