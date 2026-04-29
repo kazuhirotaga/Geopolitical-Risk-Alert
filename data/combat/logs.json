@@ -1,5 +1,92 @@
 [
   {
+    "date": "2026-04-29",
+    "summary": "ウクライナ、イランでの戦闘関連事象が発生。ウクライナでは無人艇によるShahedドローン迎撃、地上ロボットの戦線投入、ロシアとの停戦協議に関する動き。イランでは戦争の長期化懸念と戦費増大が報告。米軍はフィリピンで模擬防衛作戦を実施。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-04-29",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米海兵隊、フィリピンでの模擬防衛作戦でビーチ侵攻部隊を制圧",
+        "content": "米海兵隊がフィリピンでの模擬防衛作戦に参加。ビーチに侵攻する敵部隊を制圧し、撤退する敵に対し爆薬を搭載したドローンによる攻撃を実施。",
+        "involved_parties": [
+          "米海兵隊",
+          "模擬敵部隊"
+        ],
+        "event_type": "clash",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-04-23",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ無人艇がShahedドローン迎撃に成功",
+        "content": "ウクライナが無人艇から発射した迎撃ミサイルによりShahedドローンの撃墜に成功。将来的な交渉においてロシアの譲歩を引き出すための強力な防衛手段となる可能性。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "clash",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/industry/techwatch/2026/04/23/in-first-ukrainian-unmanned-vessel-launches-interceptor-to-knock-out-shahed-drone/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-04-24",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ軍、地上ロボットを前線での兵站に投入",
+        "content": "ウクライナ軍は25,000機の地上ロボットを前線での兵站任務に投入。3月には9,000回以上の前線ミッションを実施し、昨年夏には初めてロシア軍の陣地を占拠。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "clash",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/unmanned/2026/04/24/ukraine-to-field-25000-ground-robots-in-push-to-replace-soldiers-for-frontline-logistics/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-04-29",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "トランプ氏、プーチン氏とウクライナ停戦について協議",
+        "content": "トランプ氏がプーチン氏との電話会談で、ウクライナでの停戦について協議したと発言。",
+        "involved_parties": [
+          "アメリカ",
+          "ロシア",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-04-29",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "イラン戦争の費用、250億ドルに",
+        "content": "米国防総省関係者によると、イラン戦争にかかる費用は現在までに250億ドルに達しており、その大部分が軍需品に費やされている。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/"
+      }
+    ]
+  },
+  {
     "date": "2026-04-27",
     "summary": "ウクライナでは地上ロボットがロシア軍陣地を初めて占拠。無人艇によるShahedドローン迎撃も成功。米軍は中東に空母3隻を展開。欧州では弾道ミサイル開発の動き。",
     "events": [
@@ -4532,126 +4619,6 @@
         ],
         "event_type": "bombing",
         "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/24/deadly-iran-school-strike-casts-shadow-over-pentagons-ai-targeting-push/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-29",
-    "summary": "中東におけるイランとアメリカ間の緊張激化、レバノンにおけるイスラエルとヒズボラの戦闘激化、ウクライナでのドローン攻撃、中国とフィリピン間の緊張などが確認された。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-03-27",
-        "location": "レバノン",
-        "region": "middle_east",
-        "title": "イスラエルとヒズボラの攻撃激化",
-        "content": "レバノンにおいて、イスラエル軍とヒズボラの戦闘が激化。ヒズボラは防御線を維持せず、攻撃後に地形を利用して離脱する戦術を展開。戦闘地域が拡大。",
-        "involved_parties": [
-          "イスラエル軍",
-          "ヒズボラ"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-03-27",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "米国によるTomahawkミサイル大量使用",
-        "content": "米国がイランに対して数百発のTomahawkミサイルを使用。米軍関係者の中には、精密誘導兵器の消費ペースに懸念を示す者もいる。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/27/us-uses-hundreds-of-tomahawk-missiles-on-iran-alarming-some-at-pentagon/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-03-27",
-        "location": "バルト三国",
-        "region": "europe",
-        "title": "ウクライナのドローンがバルト三国に着弾",
-        "content": "ウクライナのドローンがバルト三国全てに着弾。ロシアがドローンを意図的に誘導したか、電子戦防御や飛行距離の結果かは不明。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "ロシア軍",
-          "バルト三国"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-03-26",
-        "location": "ペルシャ湾",
-        "region": "middle_east",
-        "title": "米国が無人ドローン艇をイランとの紛争に投入",
-        "content": "米国がイランとの紛争において、無人ドローン艇を初めて投入。ロイター通信が報じた。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
-      },
-      {
-        "id": "event-5",
-        "timestamp": "2026-03-24",
-        "location": "南シナ海",
-        "region": "east_asia",
-        "title": "中国コルベット艦がフィリピン艦艇に武器照準",
-        "content": "3月上旬、中国のコルベット艦がフィリピンのフリゲート艦に対して武器の照準を合わせた。フィリピン当局が発表。",
-        "involved_parties": [
-          "中国海軍",
-          "フィリピン海軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/24/chinese-corvette-recently-trained-its-weapons-on-philippine-frigate-officials-confirm/"
-      },
-      {
-        "id": "event-6",
-        "timestamp": "2026-03-28",
-        "location": "キエフ、ドーハ",
-        "region": "europe",
-        "title": "ウクライナとUAE、カタールが防衛協力合意",
-        "content": "カタールは、ドーハとキエフが対ミサイルおよびUASの専門知識の共有を含む防衛協力協定を締結したと発表した。",
-        "involved_parties": [
-          "ウクライナ",
-          "UAE",
-          "カタール"
-        ],
-        "event_type": "other",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/28/ukraines-zelenskyy-agrees-to-defense-cooperation-with-uae-qatar/"
-      },
-      {
-        "id": "event-7",
-        "timestamp": "2026-03-24",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "イランの学校への攻撃",
-        "content": "ウクライナのドローン開発者は、ミナブへの攻撃が半自律型戦争の危険性を明らかにしたと述べています。",
-        "involved_parties": [
-          "ウクライナ",
-          "イラン"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/your-military/2026/03/24/deadly-iran-school-strike-casts-shadow-over-pentagons-ai-targeting-push/"
       }
