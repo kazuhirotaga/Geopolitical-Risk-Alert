@@ -1,5 +1,19 @@
 [
   {
+    "id": "05b140f69afc",
+    "title": "協議停滞で米はイランへの経済締めつけ強化 イラン側はけん制",
+    "summary": "アメリカとイランの戦闘終結に向けた協議が停滞する中、アメリカ政府は、イランに関連する団体などを新たに制裁の対象に指定し、経済面での締めつけを強めました。一方、イランメディアは、イラン陸軍の報道官が「状況は依然として戦時下にある」と述べたと伝え、アメリカやイスラエルをけん制しました。",
+    "url": "http://www3.nhk.or.jp/news/html/20260429/k10015110691000.html",
+    "published": "2026-04-29T12:11:02+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
     "id": "72d6e4cb3f04",
     "title": "世界銀行 エネルギー価格がイラン情勢で去年比24％上昇見通し",
     "summary": "世界銀行はイラン情勢を背景に、ことしのエネルギー価格が去年からおよそ24％上昇し、ロシアによるウクライナ侵攻以降で最も高い水準になるとの見通しを示しました。",
@@ -11,20 +25,6 @@
     "regions": [
       "middle_east",
       "europe"
-    ]
-  },
-  {
-    "id": "e6a30e32fbc7",
-    "title": "イランの新提案に米は懐疑的 イランは米やイスラエルをけん制",
-    "summary": "アメリカとイランの戦闘終結に向けてイランが示した新たな提案をめぐり、アメリカメディアは、トランプ大統領が、提案に懐疑的な姿勢を示していると伝えています。一方、イランメディアは、イラン陸軍の報道官が「状況は依然として戦時下にある」と述べたと伝えていて、協議が停滞するなか、アメリカやイスラエルを強くけん制しました。",
-    "url": "http://www3.nhk.or.jp/news/html/20260429/k10015110691000.html",
-    "published": "2026-04-29T06:35:07+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "middle_east",
-      "north_america"
     ]
   },
   {
@@ -42,12 +42,25 @@
     ]
   },
   {
-    "id": "5ca1fb1c1625",
-    "title": "The biggest military spenders",
-    "summary": "Global military spending is up again, according to SIPRI’s latest report showing the 11th consecutive year of growth.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/the-biggest-military-spenders?traffic_source=rss",
-    "published": "2026-04-28T21:49:54+00:00",
+    "id": "5f174daeb8fc",
+    "title": "Mali’s military leader emerges after alleged coup attempt",
+    "summary": "Mali’s military leader says the country is ‘under control’ after what’s been described as an attempted coup.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/malis-military-leader-emerges-after-alleged-coup-attempt?traffic_source=rss",
+    "published": "2026-04-29T02:51:58+00:00",
     "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "09ed79890286",
+    "title": "Comey charged with threatening Trump's life in Instagram post",
+    "summary": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
+    "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-29T00:24:05+00:00",
+    "source_name": "BBC - World",
     "source_type": "media",
     "language": "en",
     "regions": [
@@ -55,12 +68,51 @@
     ]
   },
   {
-    "id": "9f2a4a7dbe38",
-    "title": "Former FBI director James Comey charged with threatening Trump's life",
-    "summary": "The indictment stems from a 2025 photo of seashells posted by Comey on social media that the justice department says is a call to violence against Trump.",
-    "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-28T21:48:11+00:00",
+    "id": "d4f1658314ac",
+    "title": "Iran war live: Trump says Tehran wants end to blockade; Israel kills medics",
+    "summary": "US president says Iran has reached out and asked Washington to lift its naval blockade on Iranian ports.",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/29/iran-war-live-trump-says-tehran-wants-end-to-blockade-israel-kills-medics?traffic_source=rss",
+    "published": "2026-04-29T00:00:00+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "090d04b3d29c",
+    "title": "As US-Iran talks remain ‘stalled’, experts warn of ‘long-term disruptions’",
+    "summary": "With the two sides locked in a standoff, oil prices have continued to soar.",
+    "url": "https://www.aljazeera.com/economy/2026/4/28/as-us-iran-talks-remain-stalled-experts-warn-of-long-term-disruptions?traffic_source=rss",
+    "published": "2026-04-28T22:08:54+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "10326a6bf63f",
+    "title": "Watch: Elderly woman rescued by robot from Ukraine's frontline",
+    "summary": "The Ukrainian army spotted the woman using a drone and sent the machine to her rescue as she was trying to leave her war-torn village.",
+    "url": "https://www.bbc.com/news/videos/cpqpjw1zdvjo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-28T21:58:17+00:00",
     "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "5ca1fb1c1625",
+    "title": "The biggest military spenders",
+    "summary": "Global military spending is up again, according to SIPRI’s latest report showing the 11th consecutive year of growth.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/the-biggest-military-spenders?traffic_source=rss",
+    "published": "2026-04-28T21:49:54+00:00",
+    "source_name": "Al Jazeera",
     "source_type": "media",
     "language": "en",
     "regions": [
@@ -255,19 +307,6 @@
     ]
   },
   {
-    "id": "ce6f70d48db7",
-    "title": "Bosnia signs up to Trump-linked pipeline to reduce Russian gas dependence",
-    "summary": "The European Union warns that the deal on the link to Croatia could jeopardise Bosnia’s bid to join the bloc.",
-    "url": "https://www.aljazeera.com/news/2026/4/28/bosnia-signs-up-to-trump-linked-pipeline-to-reduce-russian-gas-dependence?traffic_source=rss",
-    "published": "2026-04-28T17:17:43+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
     "id": "1392caea2731",
     "title": "Path cleared for Everest climbers after huge ice block",
     "summary": "Experts warn there are still risks of further ice collapses, and there are fears climbers will again have to queue to reach the summit.",
@@ -320,19 +359,6 @@
     "language": "en",
     "regions": [
       "africa"
-    ]
-  },
-  {
-    "id": "f78f71842cde",
-    "title": "UAE leaves OPEC in blow to oil cartel amid war on Iran",
-    "summary": "The United ‌Arab Emirates has announced it’s withdrawing from OPEC and OPEC+.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/uae-leaves-opec-in-blow-to-oil-cartel-amid-war-on-iran?traffic_source=rss",
-    "published": "2026-04-28T16:19:30+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
