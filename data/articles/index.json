@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-04-30",
+    "summary": "中東情勢が緊迫化し、原油価格が高騰。アメリカとイランの対立激化に加え、ウクライナ情勢も不安定化。東アジアでは米中の対立が鮮明になるなど、地政学リスクが全体的に高まっている。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "medium",
+      "central_asia": "low",
+      "middle_east": "high",
+      "europe": "medium",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "low"
+    },
+    "generated_at": "2026-04-30T16:23:39.408799"
+  },
+  {
     "date": "2026-04-27",
     "summary": "中東情勢はアメリカとイランの軍事作戦が継続し、和平交渉の行方が不透明なため、依然として高いリスクを抱えています。ウクライナ情勢も膠着状態が続いており、世界的な軍事費増加の背景となっています。アフリカではマリの政情不安が深刻化しています。",
     "overall_risk_level": "high",
