@@ -1,85 +1,35 @@
 {
-  "date": "2026-04-29",
-  "summary": "世界各地で社会不安の兆候が見られますが、特にインドを含む南アジア、中東、アフリカの一部地域で、生活必需品の不足や政治的緊張が原因で抗議デモが激化し、一部で暴力や公共秩序の乱れが報告されています。他方、欧米や東アジアでは、計画的な交通機関の停止や組織的な抗議活動は見られるものの、広範なパニック状態には至っていません。金融市場では一部の不安定要因があるものの、全体的な危機には至っておらず、地域間の状況に大きな差が見られます。",
-  "global_panic_index": 55,
+  "date": "2026-04-30",
+  "summary": "現在の世界情勢は、特に南アジア地域において、労働条件の悪化、生活必需品（エネルギー、水、医療）の不足、不正への抗議といった多岐にわたる問題が深刻化し、大規模かつ暴力的な抗議デモが頻発しています。アフリカ、東南アジア、南米でも経済政策への不満やインフラ問題、物価上昇への懸念から社会不安が顕在化しており、地域によっては一時的な社会秩序の混乱が見られます。全体として、局地的ながらも市民の不満が具体的な行動として表面化する傾向が強まっています。",
+  "global_panic_index": 62,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 15,
-      "status": "normal",
-      "main_cause": "交通機関の計画運休",
-      "incidents": [
-        {
-          "title": "英国での祝日における鉄道運休警告",
-          "location": "英国（サセックス、バックス、イングランド南東部）",
-          "severity": 10,
-          "description": "5月の連休中、英国の一部地域で鉄道が計画的に運休するため、乗客に事前確認が呼びかけられている。これはパニックを伴うものではなく、通常の運行調整である。",
-          "source": "SussexWorld, Bucks Free Press, RailAdvent"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "賃上げ要求、社会政策への抗議",
-      "incidents": [
-        {
-          "title": "日本でのメーデー賃上げデモ",
-          "location": "日本（山形市）",
-          "severity": 20,
-          "description": "小雨の中、労働者の権利向上を訴えるメーデー集会とデモ行進が実施された。組織的な抗議活動であり、広範な社会秩序の混乱は見られない。",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "日本での反対デモ中の機動隊員への暴行",
-          "location": "日本",
-          "severity": 30,
-          "description": "「昭和100年記念式典」反対デモの警備にあたっていた機動隊員に対し、中核派活動家が暴行し現行犯逮捕された。単一の暴力事象であり、広範なパニックではない。",
-          "source": "産経ニュース"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 75,
+      "region": "africa",
+      "panic_index": 60,
       "status": "volatile",
-      "main_cause": "食料・エネルギー・水不足、労働争議",
+      "main_cause": "住民の不満（公共サービスや生活水準への不満が示唆される）",
       "incidents": [
         {
-          "title": "インド・ノイダでの労働者抗議デモと暴力事件",
-          "location": "インド（ノイダ）",
-          "severity": 80,
-          "description": "労働者の抗議デモが暴力化し、治安部隊が強化された。政府は外部勢力の関与を主張しており、高い緊張状態にある。",
-          "source": "MSN"
-        },
+          "title": "Alexandraでの住民による抗議と道路封鎖",
+          "location": "Alexandra, South Africa",
+          "severity": 60,
+          "description": "南アフリカのアレクサンドラで住民がタイヤを燃やし、道路を封鎖して抗議デモを実施。不満が破壊行為を伴う形で表面化し、社会秩序が一時的に乱れた。",
+          "source": "Central News South Africa"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "経済政策への不満",
+      "incidents": [
         {
-          "title": "インド全土でのLPGシリンダー供給不足と抗議活動",
-          "location": "インド（全国規模）",
-          "severity": 75,
-          "description": "LPGシリンダーの深刻な供給不足に対し、野党主導の全州規模の抗議デモが計画・実行されている。エネルギー不足が市民生活に影響を与えている。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド各地での深刻な飲料水不足と住民の抗議",
-          "location": "インド（バタマルー、ケンドラパラなど）",
-          "severity": 70,
-          "description": "飲料水不足が深刻化し、住民が道路を封鎖して供給再開を求める抗議活動を行っている。生活必需品の不足が不安を引き起こしている。",
-          "source": "Greater Kashmir, Rising Kashmir, MSN"
-        },
-        {
-          "title": "インド・ランチでの燃料不足とガソリンスタンド枯渇",
-          "location": "インド（ランチ）",
-          "severity": 70,
-          "description": "市内で燃料不足が深刻化し、ガソリンスタンドで燃料が枯渇する事態が発生。市民の移動や物流に大きな影響を与えている。",
-          "source": "Maps of India"
-        },
-        {
-          "title": "インド・BBAUでの学生死亡を巡る大規模夜間抗議",
-          "location": "インド（BBAU）",
-          "severity": 70,
-          "description": "学生の死亡が発端となり、数千人規模の学生が夜間に大学幹部の門を突破して抗議。辞任を要求するなど、一部暴徒化の様相を呈している。",
-          "source": "Bhaskar English"
+          "title": "高金利に対する労働組合の抗議",
+          "location": "Brazil",
+          "severity": 40,
+          "description": "ブラジルで労働組合が高金利政策に抗議するデモを実施。経済状況に対する不満が表面化し、社会的な緊張の兆候が見られる。",
+          "source": "O Maringá"
         }
       ]
     },
@@ -87,72 +37,63 @@
       "region": "southeast_asia",
       "panic_index": 40,
       "status": "unstable",
-      "main_cause": "金融紛争、物価上昇リスク",
+      "main_cause": "決済システム問題、物価上昇への懸念",
       "incidents": [
         {
-          "title": "カンボジアでの金融決済関連紛争と抗議活動",
-          "location": "カンボジア",
-          "severity": 45,
-          "description": "金融決済サービスHuione Payに関する紛争後、抗議活動が発生。中央銀行が管轄外と発表しており、金融システムへの不安につながる可能性がある。",
+          "title": "カンボジアでの決済関連紛争に対する抗議",
+          "location": "Cambodia",
+          "severity": 40,
+          "description": "カンボジアでHuione Pay関連の紛争に対する抗議デモが発生。金融サービスへの不満が社会的な動きとして現れている。",
           "source": "Kiripost"
         },
         {
-          "title": "タイ中央銀行による戦争リスクに伴う物価上昇への政策対応",
-          "location": "タイ",
+          "title": "タイ中央銀行、戦争リスクによる物価上昇に対応",
+          "location": "Thailand",
           "severity": 35,
-          "description": "戦争リスクによる物価上昇に対応するため、タイ中央銀行が政策を一時停止。将来的なインフレや経済不安定への懸念を示唆している。",
+          "description": "戦争リスクに起因する物価上昇圧力に対し、タイ中央銀行が政策対応を発表。インフレへの懸念が経済全体に広がる可能性を示唆している。",
           "source": "Finimize"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "政治的不安、徴兵制への反発",
+      "region": "south_asia",
+      "panic_index": 75,
+      "status": "critical",
+      "main_cause": "労働条件、生活必需品（エネルギー、水、医療）の不足、不正",
       "incidents": [
         {
-          "title": "イラン指導部、新たな社会不安の発生を予測し緊急会議",
-          "location": "イラン",
-          "severity": 70,
-          "description": "イランの指導者たちが新たな社会不安の発生に備え、緊急会議を招集。「時間の問題」と表現されており、国内の緊張が高まっている。",
-          "source": "theweek.in"
+          "title": "インドNoidaでの大規模労働者抗議と暴力",
+          "location": "Noida, India",
+          "severity": 65,
+          "description": "インドのNoidaで大規模な労働者抗議デモが発生し、暴力行為や多数の逮捕者が出た。政府は組織的な関与を示唆しており、社会的な緊張が極めて高い。",
+          "source": "MSN"
         },
         {
-          "title": "イスラエルでの徴兵制抗議デモ隊による軍警察長官宅侵入",
-          "location": "イスラエル",
-          "severity": 65,
-          "description": "超正統派ユダヤ教徒の徴兵制を巡る抗議デモがエスカレートし、デモ隊が軍警察長官の私邸に侵入した。社会秩序の乱れが顕在化している。",
-          "source": "AFPBB News"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "住民の抗議、公共秩序の乱れ",
-      "incidents": [
+          "title": "LPG供給危機に対する全国規模の抗議計画",
+          "location": "India",
+          "severity": 60,
+          "description": "インドでLPG（液化石油ガス）の供給不足が深刻化し、与党連合が全国的な抗議デモを計画。生活必需品の不足が社会不安を増大させている。",
+          "source": "MSN"
+        },
         {
-          "title": "南アフリカ・アレクサンドラでタイヤを燃やし道路を封鎖する抗議デモ",
-          "location": "南アフリカ（アレクサンドラ）",
-          "severity": 75,
-          "description": "住民がタイヤを燃やして道路を封鎖するなど、激しい抗議活動が発生。公共秩序が乱れており、暴徒化の兆候が見られる。",
-          "source": "Central News South Africa"
-        }
-      ]
-    },
-    {
-      "region": "oceania",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "キャッシュレス化への反発",
-      "incidents": [
+          "title": "Batamalooでの飲料水不足に対する住民抗議と道路封鎖",
+          "location": "Batamaloo, India",
+          "severity": 55,
+          "description": "インドのBatamalooで深刻な飲料水不足が発生し、住民が道路を封鎖して抗議。生活に直結するインフラ問題が社会不安を引き起こしている。",
+          "source": "Greater Kashmir"
+        },
         {
-          "title": "オーストラリアでのキャッシュレス化反対「Cash Out Day」抗議活動",
-          "location": "オーストラリア",
-          "severity": 35,
-          "description": "キャッシュレス社会への移行に抗議するため、市民が現金を引き出す「Cash Out Day」が実施された。金融システムへの不満を示す組織的な抗議。",
+          "title": "学生死亡を巡るBBAUでの大規模夜間抗議",
+          "location": "BBAU, India",
+          "severity": 50,
+          "description": "インドのBBAUで学生の死を巡り、数千人の学生が夜間に抗議デモを実施し、大学幹部の退陣を要求。感情的な高まりが見られる。",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "Banihalでの医師不足に対する病院ゲート封鎖抗議",
+          "location": "Banihal, India",
+          "severity": 45,
+          "description": "インドのBanihalで、地域の指導者が医師不足に抗議し、病院のゲートを封鎖する事態が発生。医療インフラへの不満が具体的な行動に繋がっている。",
           "source": "MSN"
         }
       ]
