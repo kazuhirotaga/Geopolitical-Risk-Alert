@@ -1,35 +1,57 @@
 {
   "date": "2026-04-30",
-  "summary": "現在、世界各地で燃料価格高騰、資源不足、金融機関への不信、労働問題が複合的に社会不安を引き起こしています。南アフリカでは燃料不足によるパニック、インド・ノイダでは労働者デモの暴力化が見られ、警戒が必要です。アルゼンチン、イランでも抗議デモが続き、カンボジアでは金融不安の兆候が見られます。全体として、社会秩序が直接的に崩壊している地域は限定的ですが、潜在的な緊張は高まっています。",
-  "global_panic_index": 58,
+  "summary": "世界的に見て、複数の地域で社会不安とパニックの兆候が見られます。特に南アジアでは燃料不足や労働者による大規模な抗議デモが多発し、アフリカでも燃料価格高騰によるパニックが報告されています。南米では労働法改正への抗議や水不足、東南アジアでは金融不安が顕在化。北米や中東でも限定的な抗議活動が見られるものの、全体としては地域差が大きく、一部地域では市民生活に直結する資源の供給不安が深刻化しています。",
+  "global_panic_index": 50,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "資源不足（水不足）",
+      "panic_index": 30,
+      "status": "unstable",
+      "main_cause": "社会的不満",
       "incidents": [
         {
-          "title": "トリニダード・トバゴ、水不足に住民が抗議デモ",
-          "location": "トリニダード・トバゴ (Castara)",
-          "severity": 40,
-          "description": "水道局の不手際による長引く水不足に住民が抗議デモを実施。生活への影響から不満が高まっているものの、広範な社会秩序の混乱には至っていない。",
-          "source": "Trinidad Guardian"
+          "title": "Citizens Bankに対する抗議デモ",
+          "location": "コネチカット州、米国",
+          "severity": 30,
+          "description": "ICE収容センターに関与する刑務所企業に資金提供する市民銀行に対する抗議デモが発生。社会的不満が表面化しているが、広範なパニックには至っていない。",
+          "source": "News12 | Connecticut"
         }
       ]
     },
     {
       "region": "south_america",
-      "panic_index": 45,
+      "panic_index": 58,
       "status": "unstable",
-      "main_cause": "労働法改正への抗議",
+      "main_cause": "労働法改正、水不足",
       "incidents": [
         {
-          "title": "アルゼンチンで労働法改正に反対する抗議デモが発生",
+          "title": "アルゼンチン労働者、労働法改正に抗議",
           "location": "アルゼンチン",
-          "severity": 50,
-          "description": "政府が提案する労働法改正案に対し、労働者らが大規模な抗議デモを展開。経済状況への不満も背景にあり、広範な社会不安が懸念される状況となっている。",
+          "severity": 55,
+          "description": "アルゼンチンで労働法改正に反対する労働者による大規模な社会不安と抗議デモが発生。広範囲に及ぶ社会的な緊張と不満が顕著になっている。",
           "source": "Devdiscourse"
+        },
+        {
+          "title": "水不足が抗議デモを引き起こす",
+          "location": "カスタラ、トリニダード・トバゴ",
+          "severity": 60,
+          "description": "トリニダード・トバゴのカスタラで水不足が発生し、WASAが漏水修理を急ぐ中、住民による抗議デモが勃発。生活必需品の不足が社会不安を招いている。",
+          "source": "Trinidad Guardian"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "政治的圧力",
+      "incidents": [
+        {
+          "title": "イラン学生が3日連続で抗議",
+          "location": "イラン",
+          "severity": 50,
+          "description": "イランで米国からの圧力に反発し、学生が3日連続で抗議活動を実施。政治的な緊張が高まり、若年層の間で不満が噴出している。",
+          "source": "DD News"
         }
       ]
     },
@@ -37,44 +59,57 @@
       "region": "africa",
       "panic_index": 75,
       "status": "volatile",
-      "main_cause": "燃料価格高騰、供給不安",
+      "main_cause": "燃料価格高騰、エネルギー不足",
       "incidents": [
         {
-          "title": "南アフリカで燃料価格高騰によるガソリンスタンドでのパニック",
+          "title": "燃料価格高騰がガソリンスタンドでパニックを誘発",
           "location": "南アフリカ",
           "severity": 75,
-          "description": "燃料価格の急激な高騰を受け、各地のガソリンスタンドで市民が燃料を求めて殺到し、パニック状態が発生。買いだめも報告され、供給不安が深刻化している。",
+          "description": "南アフリカ全土のガソリンスタンドで燃料価格の高騰を背景にパニックが発生し、買いだめや供給不安が広がっている。生活に直結する資源の不足が深刻化している。",
           "source": "IOL"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "政府への不満、国際的圧力",
-      "incidents": [
-        {
-          "title": "イランで学生による抗議デモが3日連続",
-          "location": "イラン",
-          "severity": 55,
-          "description": "学生らによる抗議デモが3日連続で行われている。米国からの圧力が高まる中、政府に対する不満や社会不安が背景にあると見られ、情勢の悪化が懸念される。",
-          "source": "DD News"
-        }
-      ]
-    },
-    {
       "region": "east_asia",
-      "panic_index": 65,
+      "panic_index": 67,
       "status": "volatile",
-      "main_cause": "労働問題、組織的扇動",
+      "main_cause": "エネルギー不足、労働者抗議、社会秩序の混乱",
       "incidents": [
         {
-          "title": "インド・ノイダでの労働者デモが暴力化、多数逮捕",
-          "location": "インド (ノイダ)",
+          "title": "イラン戦争がパキスタンの燃料不足を引き起こす",
+          "location": "パキスタン",
+          "severity": 75,
+          "description": "イラン戦争の影響でパキスタン全土でガソリンとディーゼル燃料が不足し、ガソリンスタンドが枯渇。エネルギー供給の危機が広範なパニックを引き起こしている。",
+          "source": "MSN"
+        },
+        {
+          "title": "ノイダ労働者抗議デモ、パキスタンとの関連捜査",
+          "location": "ノイダ、インド",
           "severity": 70,
-          "description": "ノイダで発生した労働者の抗議デモが暴力的な衝突に発展し、多数の逮捕者が出た。一部には組織的な関与が指摘されており、地域社会の緊張が高まっている。",
-          "source": "Hindustan Times, MSN, The News Mill"
+          "description": "インドのノイダで大規模な労働者抗議デモが発生し、パキスタンとの関連が捜査され、300人が逮捕。賃上げ要求と外部勢力関与の疑いが社会不安を増幅させている。",
+          "source": "MSN"
+        },
+        {
+          "title": "アリススプリングス、暴力に包まれる",
+          "location": "アリススプリングス、オーストラリア",
+          "severity": 65,
+          "description": "オーストラリアのアリススプリングスで、殺人容疑者逮捕後、暴力と社会不安が拡大。地域社会の緊張が高まり、治安維持が課題となっている。",
+          "source": "Australian Broadcasting Corporation"
+        },
+        {
+          "title": "LPG供給危機、10kgシリンダー導入検討",
+          "location": "インド（推定）",
+          "severity": 65,
+          "description": "LPG供給危機が深刻化し、政府系石油会社が10kgシリンダー導入を検討。生活必需品の不足に対する消費者の不安が高まり、対策が急務となっている。",
+          "source": "MSN"
+        },
+        {
+          "title": "ノイダ抗議デモ、周到に計画された陰謀",
+          "location": "ノイダ、インド",
+          "severity": 60,
+          "description": "ノイダの抗議デモで逮捕された45人が労働者ではないことが判明し、背後に組織的な陰謀の可能性が浮上。社会の分断と不信感が深まっている。",
+          "source": "MSN"
         }
       ]
     },
@@ -82,16 +117,23 @@
       "region": "southeast_asia",
       "panic_index": 60,
       "status": "unstable",
-      "main_cause": "金融機関への不信",
+      "main_cause": "金融不安",
       "incidents": [
         {
-          "title": "カンボジアで金融機関への不信と預金喪失の懸念",
+          "title": "中央銀行がHuione顧客に裁判所での和解を促す",
           "location": "カンボジア",
           "severity": 60,
-          "description": "特定の金融機関（Huione）に対する顧客の信頼が揺らぎ、中央銀行が介入。複数の女性が貯蓄を失ったとの報道もあり、金融不安が広がりつつある。",
-          "source": "Cambodianess, Prag News"
+          "description": "カンボジアの中央銀行が、Huioneの顧客に対し裁判所での和解を促している。金融機関の破綻懸念により、多くの顧客が貯蓄を失う不安に直面している。",
+          "source": "Cambodianess"
         }
       ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
     }
   ]
 }
