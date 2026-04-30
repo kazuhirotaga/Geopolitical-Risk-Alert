@@ -1,131 +1,131 @@
 {
   "date": "2026-04-30",
-  "summary": "世界各地で複数の社会不安事象が報告されています。特に南アジアでは、労働者の抗議活動が激化し暴力や誤情報の拡散が見られるほか、燃料やLPGなどの資源不足、医療インフラへの影響を伴う抗議が広範囲で発生しており、社会的な緊張が高まっています。アフリカでは住民による暴力的抗議デモが報じられ、中東では政治的な抗議活動が継続しています。全体としては、深刻な資源不足や一部の暴徒化により、警戒を要する不安定な状況が複数地域で確認されています。",
-  "global_panic_index": 55,
+  "summary": "世界各地で生活必需品の供給不足や労働問題、社会不満に起因する社会不安が顕著に増加しています。特にインドでは燃料やLPG不足によるパニック買い、全国的な抗議デモが頻発し、労働者抗議では暴力的な衝突やデマ拡散も見られ、非常に緊迫した状況です。南アフリカやトリニダード・トバゴでも水不足や公共サービスへの不満から住民が抗議活動を展開し、中東では学生デモが継続しています。仮想通貨市場での大規模ハッキングによる信頼低下も見られますが、広範な社会パニックには至っていません。全体として、特定の地域で生活インフラに関する懸念から来る社会不安が深刻化している状況です。",
+  "global_panic_index": 62,
   "regions": [
     {
-      "region": "southeast_asia",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "金融問題、物価上昇懸念",
-      "incidents": [
-        {
-          "title": "カンボジアで金融関連の抗議デモ",
-          "location": "カンボジア",
-          "severity": 30,
-          "description": "フイオンペイに関連する紛争後、カンボジアのNBCが管轄外を主張。小規模な抗議活動が発生しているが、大規模なパニックには至っていない。",
-          "source": "Kiripost"
-        },
-        {
-          "title": "タイで戦争リスクによる物価上昇と中央銀行の対応",
-          "location": "タイ",
-          "severity": 35,
-          "description": "戦争リスクが物価を押し上げる中、タイ中央銀行が金融政策を一時停止。インフレ懸念が市民の不安につながる可能性がある。",
-          "source": "Finimize"
-        }
-      ]
+      "region": "east_asia",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "該当する事象なし",
+      "incidents": []
     },
     {
-      "region": "south_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "労働問題、資源不足（燃料、LPG、水）、医療サービス不足、政治的抗議、誤情報",
-      "incidents": [
-        {
-          "title": "インド・ノイダでの労働者抗議の激化と混乱",
-          "location": "ノイダ、インド",
-          "severity": 75,
-          "description": "ノイダでの労働者抗議が暴力化し、逮捕者が出る事態に。政府は組織的グループや外部勢力の関与を指摘し、警備が強化されている。ソーシャルメディア上の誤情報も不安を増幅させている。",
-          "source": "MSN, Google News"
-        },
-        {
-          "title": "インド・ランチーでの深刻な燃料不足",
-          "location": "ランチー、インド",
-          "severity": 60,
-          "description": "ランチーで燃料不足が発生し、多くのガソリンスタンドが在庫切れの状態に。市民生活に直接的な影響が出ており、パニック的な買いだめのリスクがある。",
-          "source": "Maps of India"
-        },
-        {
-          "title": "インド・バニハルで医師不足に抗議し病院ゲート封鎖",
-          "location": "バニハル、ジャンムー・カシミール、インド",
-          "severity": 70,
-          "description": "インド人民党の指導者が医師不足に抗議し、病院の門を封鎖。医療インフラの機能不全を招く行為であり、住民の生命と健康に関わる深刻な社会不安を引き起こしている。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド・BBAUでの学生死亡に端を発する大規模抗議",
-          "location": "BBAU、インド",
-          "severity": 70,
-          "description": "学生の死亡がきっかけとなり、数千人規模の学生が夜間に抗議活動を実施し、大学の副学長門を突破。大規模な騒乱と学内秩序の崩壊を示唆している。",
-          "source": "Bhaskar English"
-        },
-        {
-          "title": "インド各地でのLPG供給危機と抗議計画",
-          "location": "インド",
-          "severity": 60,
-          "description": "LPG供給の危機が続き、国営石油会社が対応を検討中。DMK主導の連合はLPG不足に対し州全体での大規模な抗議を計画しており、エネルギー不足が全国的な社会不安に発展している。",
-          "source": "MSN, Google News"
-        }
-      ]
+      "region": "europe",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "該当する事象なし",
+      "incidents": []
+    },
+    {
+      "region": "north_america",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "該当する事象なし",
+      "incidents": []
     },
     {
       "region": "middle_east",
-      "panic_index": 60,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "政治的抑圧、地政学的緊張",
+      "main_cause": "政治的・経済的圧力、抗議デモ",
       "incidents": [
         {
-          "title": "イランで学生による3日連続の抗議デモ",
+          "title": "イランの学生が3日間抗議活動を継続",
           "location": "イラン",
-          "severity": 60,
-          "description": "米国の圧力が強まる中、イランの学生が3日連続で抗議デモを実施。政治的な不満が継続的に表面化しており、社会的な緊張状態が続いている。",
+          "severity": 55,
+          "description": "米国からの圧力が高まる中、イランの学生が3日間にわたり抗議デモを継続。政治的・経済的な不満が背景にあると見られ、社会的な緊張が高まっている。",
           "source": "DD News"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 75,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "住民の不満、暴力的抗議",
+      "main_cause": "社会不満、暴力的な抗議デモ",
       "incidents": [
         {
-          "title": "南アフリカ・アレクサンドラで住民による暴力的抗議",
-          "location": "アレクサンドラ、南アフリカ",
-          "severity": 75,
-          "description": "アレクサンドラで住民による抗議活動が激化し、燃えるタイヤで主要道路が封鎖された。公共秩序が著しく乱されており、暴徒化の兆候が強い。",
+          "title": "アレクサンドラで抗議活動が勃発、道路封鎖",
+          "location": "南アフリカ - アレクサンドラ",
+          "severity": 70,
+          "description": "住民がタイヤを燃やして幹線道路を封鎖する抗議活動が発生。具体的な原因は不明だが、公共サービスへの不満などが背景にあると見られ、治安悪化の懸念が高まっている。",
           "source": "Central News South Africa"
         }
       ]
     },
     {
       "region": "south_america",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "水不足",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "水不足、抗議デモ",
       "incidents": [
         {
-          "title": "トリニダード・トバゴで水不足に対する抗議",
-          "location": "カスターラ、トリニダード・トバゴ",
-          "severity": 50,
-          "description": "カスターラ地域で深刻な水不足が発生し、これに対し住民が抗議デモを実施。生活必需品の供給不足が住民の不満を募らせている。",
+          "title": "水不足が抗議活動を引き起こし、WASAが漏水修理を急ぐ",
+          "location": "トリニダード・トバゴ - カスターラ",
+          "severity": 65,
+          "description": "水不足が住民の抗議デモを引き起こし、水道公社(WASA)が漏水修理に追われている。生活必需品の供給不安が直接的な社会不安につながっている。",
           "source": "Trinidad Guardian"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "なし",
-      "incidents": []
+      "region": "southeast_asia",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "労働問題、抗議デモ",
+      "incidents": [
+        {
+          "title": "NBCがHuione Pay関連紛争の抗議に対し管轄外と回答",
+          "location": "カンボジア",
+          "severity": 45,
+          "description": "カンボジア中央銀行(NBC)が、Huione Payに関連する給与紛争に対する抗議について、自身の管轄外であると回答。労働問題が社会的な不満を引き起こしている。",
+          "source": "Kiripost"
+        }
+      ]
     },
     {
-      "region": "europe",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "なし",
-      "incidents": []
+      "region": "south_asia",
+      "panic_index": 73,
+      "status": "critical",
+      "main_cause": "エネルギー・水不足、労働紛争、暴力的な抗議デモ",
+      "incidents": [
+        {
+          "title": "Noida労働者抗議で暴力発生、デマ拡散と政府が陰謀を示唆",
+          "location": "インド - Noida",
+          "severity": 75,
+          "description": "Noidaでの労働者抗議が暴力に発展し、治安が強化されている。政府は外部勢力の関与やソーシャルメディアでのデマ拡散を指摘しており、社会秩序の混乱が懸念される。",
+          "source": "MSN"
+        },
+        {
+          "title": "LPGシリンダー不足で州全体の抗議デモを計画",
+          "location": "インド",
+          "severity": 70,
+          "description": "与党DMK主導の連合が、LPGシリンダー不足に対し、3月15日に州全体で大規模な抗議デモを計画。エネルギー供給問題が広範な社会不安を引き起こしている。",
+          "source": "MSN"
+        },
+        {
+          "title": "ガソリンスタンドでパニック買い、品切れが発生",
+          "location": "インド",
+          "severity": 80,
+          "description": "各地のガソリンスタンドで燃料不足への懸念からパニック買いが発生し、品切れが相次いでいる。当局は一時的なものと説明しているが、生活必需品の供給不安が顕著。",
+          "source": "MSN"
+        },
+        {
+          "title": "飲料水不足に対し住民が抗議デモ",
+          "location": "インド - バタマルー（カシミール）",
+          "severity": 65,
+          "description": "カシミール地域のバタマルーで飲料水不足に対する住民の抗議デモが発生。生活に不可欠な資源の不足が直接的な社会不安と不満につながっている。",
+          "source": "Greater Kashmir"
+        },
+        {
+          "title": "LPG供給危機、10kgシリンダー導入を検討",
+          "location": "インド",
+          "severity": 60,
+          "description": "LPG供給危機が続く中、国営石油会社が10kgシリンダー導入などの対策を検討。長期的な供給不安への対応が急務となっている。",
+          "source": "MSN"
+        }
+      ]
     }
   ]
 }
