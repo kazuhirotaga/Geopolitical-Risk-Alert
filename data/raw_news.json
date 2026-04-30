@@ -1,5 +1,31 @@
 [
   {
+    "id": "a9b913176162",
+    "title": "“スー・チー氏 指定した住居で軟禁に” ミャンマー国営放送",
+    "summary": "ミャンマーの国営放送は4月30日、民主化運動の指導者で軍による拘束が続いているアウン・サン・スー・チー氏について、「指定した住居での軟禁に移された」と伝えました。4月に発足した軍の影響力が強い新政権として、スー・チー氏の解放を求める国際社会に対し柔軟な姿勢をアピールするねらいがあるとみられます。",
+    "url": "http://www3.nhk.or.jp/news/html/20260501/k10015112261000.html",
+    "published": "2026-05-01T04:20:23+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "southeast_asia"
+    ]
+  },
+  {
+    "id": "6f43159c844f",
+    "title": "イスラエル軍が地中海で“ガザ支援船”阻止 イタリアなど非難",
+    "summary": "パレスチナのガザ地区に支援物資を届けるとしてイタリアを出発した船団の一部が地中海の公海上でイスラエル軍に航行を阻止されました。乗っていた活動家も拘束され、イタリア政府はイスラエルの対応を非難するとともに、拘束された活動家の即時釈放などを求めました。",
+    "url": "http://www3.nhk.or.jp/news/html/20260501/k10015112271000.html",
+    "published": "2026-05-01T02:31:08+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
     "id": "7c47f2906497",
     "title": "トランプ大統領に新たな軍事行動説明へ 報道受け懸念広がる",
     "summary": "アメリカ軍がイランに対する海上封鎖を続けるなか、トランプ大統領が30日、新たな軍事行動の計画について軍から説明を受ける予定だと報じられました。30日のニューヨーク原油市場は国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝110ドル台と3週間ぶりの高値水準になるなど事態の長期化への懸念が広がっています。",
@@ -11,6 +37,34 @@
     "regions": [
       "middle_east",
       "north_america"
+    ]
+  },
+  {
+    "id": "6e3ea02271f3",
+    "title": "Iran confirmed to play at World Cup according to FIFA chief Infantino",
+    "summary": "Iran's place at the US cohosted 2026 event has been in doubt since the US-Israeli war on their country.",
+    "url": "https://www.aljazeera.com/sports/2026/4/30/iran-confirmed-to-play-at-world-cup-according-by-fifa-chief-infantino?traffic_source=rss",
+    "published": "2026-04-30T19:10:47+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "cf31219e6a89",
+    "title": "Piracy rises off Somalia as US-Israeli war on Iran diverts naval forces",
+    "summary": "More than a dozen sailors, mostly from Pakistan, are being held by Somali pirates as hijackings and harassment surge.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/piracy-rises-off-somalia-as-us-israeli-war-on-iran-diverts-naval-forces?traffic_source=rss",
+    "published": "2026-04-30T18:59:13+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_asia",
+      "middle_east",
+      "africa"
     ]
   },
   {
@@ -27,8 +81,48 @@
     ]
   },
   {
-    "id": "0b1d717ba601",
-    "title": "【随時更新】ロシア ウクライナに軍事侵攻（4月30日の動き）",
+    "id": "8cfa8d0168d7",
+    "title": "US falls to ‘historic low’ in press freedom tracker: RSF",
+    "summary": "Reporters Without Borders warns of 'press freedom crisis' in US amid media consolidation, Trump policies.",
+    "url": "https://www.aljazeera.com/news/2026/4/30/us-falls-to-historic-low-in-press-freedom-tracker-rsf?traffic_source=rss",
+    "published": "2026-04-30T17:41:31+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "fa5c3298041b",
+    "title": "Trump slams Germany’s Merz again as rift over Iran war widens",
+    "summary": "Berlin says 'prepared' for fewer US troops, as Trump says German chancellor should focus on European affairs, not Iran.",
+    "url": "https://www.aljazeera.com/news/2026/4/30/trump-slams-germanys-merz-again-as-rift-over-iran-war-widens?traffic_source=rss",
+    "published": "2026-04-30T17:19:58+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east",
+      "europe"
+    ]
+  },
+  {
+    "id": "648ddf077558",
+    "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+    "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
+    "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-04-30T16:38:58+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "southeast_asia"
+    ]
+  },
+  {
+    "id": "774315b371c3",
+    "title": "【詳細】ロシア ウクライナに軍事侵攻（4月30日の動き）",
     "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる30日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
     "url": "http://www3.nhk.or.jp/news/html/20260430/k10015082771000.html",
     "published": "2026-04-30T15:35:28+09:00",
@@ -186,46 +280,6 @@
     ]
   },
   {
-    "id": "40f838356019",
-    "title": "World’s top media outlets urge Israel to allow independent access to Gaza",
-    "summary": "Israel continues to deny foreign reporters access to the Gaza Strip despite a 'ceasefire' being in place.",
-    "url": "https://www.aljazeera.com/news/2026/4/30/media-organisations-call-on-israel-to-allow-independent-access-to-gaza?traffic_source=rss",
-    "published": "2026-04-30T12:52:52+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "42898dc02511",
-    "title": "Israeli attacks kill 14 people in southern Lebanon despite ceasefire",
-    "summary": "Israeli attacks and threats on southern Lebanon escalate, as Lebanese government calls out Israel's ceasefire violations",
-    "url": "https://www.aljazeera.com/news/2026/4/30/israel-kills-nine-people-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-    "published": "2026-04-30T12:40:45+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "ab90b887b6e8",
-    "title": "Russia has given Iran something more important than weapons",
-    "summary": "Russia's political backing and objection to escalation have proved much more consequential in shaping the conflict.",
-    "url": "https://www.aljazeera.com/opinions/2026/4/30/russia-has-given-iran-something-more-important-than-weapons?traffic_source=rss",
-    "published": "2026-04-30T12:38:43+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "europe"
-    ]
-  },
-  {
     "id": "00fd76609093",
     "title": "米が中国の核戦力増強を非難 中国反発 多国間協議を拒否",
     "summary": "ニューヨークで開かれているNPT＝核拡散防止条約の再検討会議で、アメリカの代表は中国が核戦力を数倍に増強したと非難したうえで、アメリカが提案する多国間の軍備管理の協議に参加するよう呼びかけました。これに対し、中国の代表は「政治的なポーズの要素が強い」などとして拒否する考えを示しました。",
@@ -240,16 +294,29 @@
     ]
   },
   {
-    "id": "b6e09d105a4b",
-    "title": "Soaring fuel prices in Pakistan threaten economic and political crises",
-    "summary": "A huge increase in Pakistan's fuel import bill from $300m to $800m is putting more pressure on the economy.",
-    "url": "https://www.aljazeera.com/economy/2026/4/30/soaring-fuel-prices-in-pakistan-threaten-economic-and-political-crises?traffic_source=rss",
-    "published": "2026-04-30T12:09:04+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
+    "id": "c0c8a8941ece",
+    "title": "DPRK Korea: Continued militarisation a ‘serious concern’, political affairs chief warns Security Council",
+    "summary": "The continued pursuit of nuclear weapons and ballistic missile development by The Democratic People’s Republic of Korea remain “a matter of serious concern,” the UN’s political affairs chief told the Security Council on Thursday.",
+    "url": "https://news.un.org/feed/view/en/story/2026/04/1167415",
+    "published": "2026-04-30T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
     "language": "en",
     "regions": [
-      "south_asia"
+      "east_asia"
+    ]
+  },
+  {
+    "id": "6a038ed66e26",
+    "title": "Hormuz crisis strangling global economy, Guterres warns, demanding solutions to end stalemate",
+    "summary": "The escalating crisis in the Strait of Hormuz could push tens of millions into poverty, trigger a surge in global hunger and even tip the world towards recession, the UN Secretary-General warned on Thursday.",
+    "url": "https://news.un.org/feed/view/en/story/2026/04/1167411",
+    "published": "2026-04-30T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "global"
     ]
   },
   {
@@ -263,20 +330,6 @@
     "language": "en",
     "regions": [
       "central_asia"
-    ]
-  },
-  {
-    "id": "511746b5eca4",
-    "title": "Will the Iran war reshape the global energy order?",
-    "summary": "As oil markets shift, OPEC's grip is under pressure, US exports rise, and China drives the push towards renewables.",
-    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/30/will-the-iran-war-reshape-the-global-energy-order?traffic_source=rss",
-    "published": "2026-04-30T11:12:39+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia",
-      "middle_east"
     ]
   },
   {
@@ -506,19 +559,6 @@
     "regions": [
       "east_asia",
       "north_america"
-    ]
-  },
-  {
-    "id": "5079cef7a1bf",
-    "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
-    "summary": "Russia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets.",
-    "url": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-04-29T13:01:57+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
     ]
   },
   {
@@ -1240,19 +1280,6 @@
     "language": "en",
     "regions": [
       "africa"
-    ]
-  },
-  {
-    "id": "a9b3c711cf3f",
-    "title": "As Gaza misery continues, shortages in Iran begin to bite",
-    "summary": "Desperate and dangerous conditions in Gaza continue to hamper recovery efforts for the wartorn enclave's people, the UN health agency said on Friday, while demining experts warned that they’ve “barely scratched the surface” in assessing the level of contamination of unexploded ordnance.",
-    "url": "https://news.un.org/feed/view/en/story/2026/04/1167376",
-    "published": "2026-04-24T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   }
 ]

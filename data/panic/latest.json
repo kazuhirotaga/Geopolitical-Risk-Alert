@@ -1,48 +1,20 @@
 {
   "date": "2026-04-30",
-  "summary": "世界全体では、生活必需品不足や労働条件への不満に起因する抗議デモが一部地域（特にインド）で頻発し、社会不安が高まっています。金融面でも特定の銀行における顧客の資金回収問題が報じられていますが、世界規模での連鎖的なパニックや社会秩序の崩壊には至っておらず、地域的な不安定要素が散見される状況です。",
-  "global_panic_index": 38,
+  "summary": "現在、世界各地で燃料価格高騰、資源不足、金融機関への不信、労働問題が複合的に社会不安を引き起こしています。南アフリカでは燃料不足によるパニック、インド・ノイダでは労働者デモの暴力化が見られ、警戒が必要です。アルゼンチン、イランでも抗議デモが続き、カンボジアでは金融不安の兆候が見られます。全体として、社会秩序が直接的に崩壊している地域は限定的ですが、潜在的な緊張は高まっています。",
+  "global_panic_index": 58,
   "regions": [
     {
-      "region": "south_asia",
-      "panic_index": 68,
-      "status": "volatile",
-      "main_cause": "エネルギー・水不足、労働争議、大規模抗議デモ",
+      "region": "north_america",
+      "panic_index": 35,
+      "status": "stable",
+      "main_cause": "資源不足（水不足）",
       "incidents": [
         {
-          "title": "Noida大規模抗議デモの暴力化と組織的関与の疑い",
-          "location": "インド・Noida",
-          "severity": 75,
-          "description": "Noidaでの大規模な抗議デモが暴力化し、逮捕者の中から労働者ではない「外部の人間」が多数含まれていたことから、政府は組織的グループによる扇動を疑っています。これは単なる抗議を超え、治安の悪化と社会秩序の不安定化を示すものです。",
-          "source": "MSN"
-        },
-        {
-          "title": "LPG（液化石油ガス）供給危機と大規模抗議デモ",
-          "location": "インド全域",
-          "severity": 70,
-          "description": "インドでLPG供給危機が発生し、政府が10kgシリンダーの導入を検討する事態に。これに対し、野党DMK主導の連合が州全体での大規模な抗議デモを計画しており、エネルギー不足が国民の不満を増幅させています。",
-          "source": "MSN"
-        },
-        {
-          "title": "カシミールにおける飲料水不足への抗議デモ",
-          "location": "インド・バタマロー（カシミール）",
-          "severity": 65,
-          "description": "バタマロー地域の住民が深刻な飲料水不足に対し、路上で抗議デモを行っています。生活に不可欠なインフラの欠如が直接的な不満行動につながっており、住民の生活不安が浮き彫りになっています。",
-          "source": "Greater Kashmir"
-        },
-        {
-          "title": "複数女性が貯蓄を失う事件が発生",
-          "location": "インド",
+          "title": "トリニダード・トバゴ、水不足に住民が抗議デモ",
+          "location": "トリニダード・トバゴ (Castara)",
           "severity": 40,
-          "description": "複数の女性が苦労して貯めた貯蓄を失ったと報じられており、具体的な原因は不明ながら、市民の金融不安を煽る可能性があります。詐欺や金融機関の不手際など、背景によっては広範な不信感に繋がりかねません。",
-          "source": "Prag News"
-        },
-        {
-          "title": "Noida労働者抗議デモ、行政当局への監視集中",
-          "location": "インド・Noida",
-          "severity": 70,
-          "description": "Noidaでの労働者賃金抗議デモが続き、暴力化した事態を受け、地元当局（DM）の対応に注目が集まっています。行政の対応が不適切であった場合、更なる混乱や不信感を招く恐れがあります。",
-          "source": "MSN"
+          "description": "水道局の不手際による長引く水不足に住民が抗議デモを実施。生活への影響から不満が高まっているものの、広範な社会秩序の混乱には至っていない。",
+          "source": "Trinidad Guardian"
         }
       ]
     },
@@ -50,44 +22,74 @@
       "region": "south_america",
       "panic_index": 45,
       "status": "unstable",
-      "main_cause": "水不足",
+      "main_cause": "労働法改正への抗議",
       "incidents": [
         {
-          "title": "カスターラにおける水不足抗議デモ",
-          "location": "トリニダード・トバゴ・カスターラ",
-          "severity": 60,
-          "description": "カスターラ地域で深刻な水不足が発生し、WASA（水供給公社）が漏水修理に追われる中、住民が抗議デモを行っています。生活必需品である水の不足は、地域住民の強い不満と不安を引き起こしています。",
-          "source": "Trinidad Guardian"
+          "title": "アルゼンチンで労働法改正に反対する抗議デモが発生",
+          "location": "アルゼンチン",
+          "severity": 50,
+          "description": "政府が提案する労働法改正案に対し、労働者らが大規模な抗議デモを展開。経済状況への不満も背景にあり、広範な社会不安が懸念される状況となっている。",
+          "source": "Devdiscourse"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "燃料価格高騰、供給不安",
+      "incidents": [
+        {
+          "title": "南アフリカで燃料価格高騰によるガソリンスタンドでのパニック",
+          "location": "南アフリカ",
+          "severity": 75,
+          "description": "燃料価格の急激な高騰を受け、各地のガソリンスタンドで市民が燃料を求めて殺到し、パニック状態が発生。買いだめも報告され、供給不安が深刻化している。",
+          "source": "IOL"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 40,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "政治的緊張、抗議活動",
+      "main_cause": "政府への不満、国際的圧力",
       "incidents": [
         {
-          "title": "イラン人学生が3日連続で抗議デモ",
+          "title": "イランで学生による抗議デモが3日連続",
           "location": "イラン",
-          "severity": 50,
-          "description": "米国の圧力が強まる中、イランの学生が3日連続で抗議デモを実施しています。これは政治的緊張が社会不安として表面化している状況を示しており、今後の展開次第ではより広範な影響が懸念されます。",
+          "severity": 55,
+          "description": "学生らによる抗議デモが3日連続で行われている。米国からの圧力が高まる中、政府に対する不満や社会不安が背景にあると見られ、情勢の悪化が懸念される。",
           "source": "DD News"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "金融不安",
+      "region": "east_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "労働問題、組織的扇動",
       "incidents": [
         {
-          "title": "フイオーネ銀行顧客、中央銀行が和解を要請",
+          "title": "インド・ノイダでの労働者デモが暴力化、多数逮捕",
+          "location": "インド (ノイダ)",
+          "severity": 70,
+          "description": "ノイダで発生した労働者の抗議デモが暴力的な衝突に発展し、多数の逮捕者が出た。一部には組織的な関与が指摘されており、地域社会の緊張が高まっている。",
+          "source": "Hindustan Times, MSN, The News Mill"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "金融機関への不信",
+      "incidents": [
+        {
+          "title": "カンボジアで金融機関への不信と預金喪失の懸念",
           "location": "カンボジア",
-          "severity": 55,
-          "description": "カンボジア中央銀行が、資金回収に「希望が失せる」状態にあるフイオーネ銀行の顧客に対し、裁判所での和解を促しています。これは特定の金融機関への不信感が高まり、顧客が資金を失うリスクに直面していることを示唆しています。",
-          "source": "Cambodianess"
+          "severity": 60,
+          "description": "特定の金融機関（Huione）に対する顧客の信頼が揺らぎ、中央銀行が介入。複数の女性が貯蓄を失ったとの報道もあり、金融不安が広がりつつある。",
+          "source": "Cambodianess, Prag News"
         }
       ]
     }
