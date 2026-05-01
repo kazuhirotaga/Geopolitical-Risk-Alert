@@ -1,166 +1,89 @@
 {
   "date": "2026-05-01",
-  "summary": "2026年5月1日の金融市場は、株式市場の上昇、原油価格の下落、暗号資産の変動、そして地政学的リスクが混在する状況です。特に、FRBの金融政策に対する意見の相違、イランを巡る地政学的緊張、そしてAI投資の拡大が注目されます。",
+  "summary": "トランプ政権による貿易摩擦再燃、地政学的リスクの高まり、および金融政策の不確実性により、金融市場は不安定な状況にあります。S&P500は最高値を更新する一方で、個別企業の業績や安全対策に関する懸念も表面化しており、注意が必要です。",
   "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "FRB内で、利下げを示唆する声明に反対する意見が出ました。金融政策の方向性に対する不確実性が高まっています。",
-      "analysis": "FRB内部の意見対立は、今後の金融政策の方向性を予測することを困難にします。市場は、FRBの次の動きを注視しており、利下げ期待が後退すれば、株式市場や債券市場に調整が入る可能性があります。インフレ動向や経済指標次第では、政策金利の据え置きや利上げの可能性も残されており、金融市場のボラティリティが高まるリスクがあります。FRBのコミュニケーション戦略が重要になります。",
-      "key_entities": [
-        "Federal Reserve"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Oil prices fall on report Iran sent response to draft peace agreement",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "イランが和平案に回答したとの報道を受け、原油価格が下落しました。中東地域の地政学的リスクが緩和される可能性が出てきました。",
-      "analysis": "イランを巡る地政学的リスクの緩和は、原油価格の下落要因となります。しかし、和平交渉の進展は不確実であり、合意に至らない場合は、再び原油価格が上昇する可能性があります。また、米国の対イラン政策や、OPECプラスの生産調整も原油価格に影響を与える要因となります。原油価格の変動は、インフレ率や企業収益に影響を及ぼすため、注意が必要です。",
-      "key_entities": [
-        "Iran",
-        "OPEC"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Japan risks Trump’s ire as Iran war fallout sparks currency intervention",
-      "region": "east_asia",
-      "risk_level": "high",
-      "summary": "イラン情勢を背景とした円高に対応するため、日本が為替介入を実施しました。米国との貿易摩擦が再燃する可能性があります。",
-      "analysis": "日本の為替介入は、米国の為替政策に反する可能性があります。トランプ政権が復活した場合、日本に対する為替操作国認定や、貿易制裁などの措置が取られるリスクがあります。円高是正の効果は一時的であり、根本的な解決には至らない可能性があります。米国の政策動向を注視する必要があります。",
-      "key_entities": [
-        "Japan",
-        "United States"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Friday, May 1, 2026: Prices moving higher this morning",
+      "title": "Trump says he's raising EU auto tariffs to 25%",
       "region": "europe",
-      "risk_level": "medium",
-      "summary": "ビットコインとイーサリアムの価格が上昇しています。暗号資産市場は依然として変動が大きく、注意が必要です。",
-      "analysis": "暗号資産市場は、規制の動向や機関投資家の参入状況、技術的な進歩など、様々な要因によって価格が変動します。短期的な価格変動に惑わされず、長期的な視点で投資判断を行う必要があります。また、暗号資産に関連する詐欺やハッキングのリスクにも注意が必要です。",
+      "risk_level": "high",
+      "summary": "トランプ前大統領がEUからの自動車関税を25%に引き上げると発表。EUは報復措置を示唆し、米欧間の貿易関係悪化が懸念されます。",
+      "analysis": "トランプ氏の関税引き上げは、欧州経済に直接的な打撃を与え、自動車産業を中心にサプライチェーンの混乱を引き起こす可能性があります。また、報復関税の発動は、世界的な貿易戦争を再燃させ、世界経済の成長を阻害するリスクを高めます。特に、Brexit後の英国経済にとっては、更なる逆風となる可能性があります。投資家は、貿易政策の動向を注視し、ポートフォリオのリスクヘッジを検討する必要があります。",
       "key_entities": [
+        "トランプ政権",
+        "EU",
+        "自動車メーカー"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "S&P 500 closes at a new record to usher in May as oil prices cool and Apple rises: Live updates",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "S&P500が過去最高値を更新。Apple株の上昇と原油価格の下落が追い風となりました。市場は強気な見通しを示しています。",
+      "analysis": "S&P500の最高値更新は、企業業績の改善や金融緩和政策への期待感などが背景にあると考えられます。特に、Appleの好調な業績は、テクノロジーセクター全体への投資意欲を高めています。しかし、過去最高値圏での推移は、調整リスクも孕んでおり、今後の経済指標や企業業績の動向を注意深く見守る必要があります。また、原油価格の変動は、インフレ動向に影響を与えるため、注視が必要です。",
+      "key_entities": [
+        "S&P 500",
+        "Apple",
+        "原油価格"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Spirit Airlines prepares to shut down after failing to reach lifeline bailout deal",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Spirit Airlinesが政府の救済交渉に失敗し、閉鎖の準備に入りました。航空業界の競争激化と経営難が浮き彫りになっています。",
+      "analysis": "Spirit Airlinesの経営破綻は、航空業界における競争激化と、燃料価格の高騰、人件費の増加などが複合的に影響した結果と考えられます。また、政府の救済策が得られなかったことは、今後の航空業界に対する政府の支援姿勢に疑問を投げかける可能性があります。他の航空会社への影響や、航空券価格の上昇など、消費者への影響も懸念されます。",
+      "key_entities": [
+        "Spirit Airlines",
+        "航空業界"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Clarity Actにより、暗号資産企業はステーブルコイン報酬を提供可能に。銀行の利回り保護とのバランスが課題です。",
+      "analysis": "Clarity Actは、暗号資産市場の活性化を促す一方で、銀行の収益性への影響も考慮した法案です。ステーブルコインの普及は、決済システムの効率化や金融包摂の促進に貢献する可能性があります。しかし、銀行の預金金利との競争激化や、マネーロンダリングなどのリスクも懸念されます。今後の規制動向や、ステーブルコインの普及状況を注視する必要があります。",
+      "key_entities": [
+        "暗号資産企業",
+        "ステーブルコイン",
+        "銀行"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "BitcoinマイナーのRiotの株価が、AMDとのデータセンター契約拡大を受け8%上昇。AI分野への転換を示唆しています。",
+      "analysis": "Riotの株価上昇は、Bitcoinマイニング事業に加え、AI分野への事業多角化が評価された結果と考えられます。AI分野は、高い成長 potentialを秘めており、Bitcoinマイニング事業のリスク分散にも繋がります。しかし、AI分野における競争は激しく、Riotが競争優位性を確立できるかどうかが、今後の株価を左右する可能性があります。",
+      "key_entities": [
+        "Riot",
+        "AMD",
         "Bitcoin",
-        "Ethereum"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Daily Spotlight: AI Investment Lifts 1Q GDP",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "AI投資が第1四半期のGDPを押し上げました。AI関連産業の成長が経済成長に貢献しています。",
-      "analysis": "AI投資の拡大は、経済成長の新たな原動力となる可能性があります。しかし、AI技術の発展に伴い、雇用喪失や倫理的な問題など、新たなリスクも生じています。AI技術の恩恵を最大限に享受するためには、適切な規制や倫理的なガイドラインの策定が不可欠です。",
-      "key_entities": [
-        "AI"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "AstraZeneca stock falls after FDA panel votes against new cancer drug",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "FDA諮問委員会がアストラゼネカの新薬に反対票を投じたため、同社の株価が下落しました。",
-      "analysis": "新薬開発は成功するとは限らず、製薬会社の株価は新薬の承認状況に大きく左右されます。投資家は、製薬会社のパイプラインや臨床試験の結果を注意深く分析する必要があります。また、規制当局の判断も株価に大きな影響を与えるため、規制動向にも注目する必要があります。",
-      "key_entities": [
-        "AstraZeneca",
-        "FDA"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Apple CEO Tim Cook warns of extended memory crunch. 'We'll look at a range of options'",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "AppleのCEOがメモリ不足が長期化する可能性を警告しました。サプライチェーンの問題が業績に影響を与える可能性があります。",
-      "analysis": "半導体不足は、様々な産業に影響を与えており、Appleも例外ではありません。メモリ不足が長期化すれば、製品の生産遅延やコスト上昇につながり、業績に悪影響を及ぼす可能性があります。Appleは、サプライチェーンの多様化や、内製化を進めることで、リスクを軽減しようとしています。",
-      "key_entities": [
-        "Apple"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Redditの収益がアナリストの予想を上回り、69%増加しました。ソーシャルメディアプラットフォームの成長が続いています。",
-      "analysis": "Redditの収益増加は、広告収入の増加や、有料サービスの利用拡大によるものです。ソーシャルメディアプラットフォームは、ユーザー数の増加や、新たな収益源の開拓によって、成長を続けています。しかし、個人情報保護の問題や、フェイクニュースの拡散など、課題も抱えています。",
-      "key_entities": [
-        "Reddit"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Veeva Systems to join S&P 500 index, replacing Coterra Energy",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Veeva SystemsがS&P 500指数に採用され、Coterra Energyと入れ替わります。クラウドソフトウェア企業の成長が評価されています。",
-      "analysis": "Veeva SystemsのS&P 500指数採用は、同社の成長性と安定性が評価された結果です。クラウドソフトウェア市場は、企業のDX推進や、リモートワークの普及などにより、成長を続けています。しかし、競争も激化しており、Veeva Systemsは、新たな技術やサービスの開発によって、競争力を維持する必要があります。",
-      "key_entities": [
-        "Veeva Systems",
-        "S&P 500"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "MARA Holdings to buy Long Ridge Energy in $1.5 billion AI data center push",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "MARA HoldingsがLong Ridge Energyを15億ドルで買収し、AIデータセンター事業を強化します。",
-      "analysis": "AI技術の発展に伴い、データセンターの需要が急増しています。MARA Holdingsは、Long Ridge Energyの買収によって、データセンターの供給能力を拡大し、AI関連事業の成長を加速させることを目指しています。しかし、データセンターの建設には多額の投資が必要であり、電力消費量も大きいため、環境への影響も考慮する必要があります。",
-      "key_entities": [
-        "MARA Holdings",
-        "Long Ridge Energy",
         "AI"
       ],
       "sources": [
@@ -169,15 +92,102 @@
       "source_types": [
         "media"
       ]
+    },
+    {
+      "title": "Apple's stock gains as company execs cite iPhone, Mac demand in boosting guidance",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "Appleの株価が上昇。iPhoneとMacの需要増加により、会社側が業績予想を上方修正しました。",
+      "analysis": "Appleの株価上昇は、堅調な製品需要と、積極的な株主還元策が評価された結果と考えられます。特に、iPhoneとMacの需要増加は、Appleのエコシステムに対する顧客ロイヤリティの高さを裏付けています。しかし、今後の成長を維持するためには、新たな製品やサービスの開発が不可欠です。また、サプライチェーンの安定性や、競争環境の変化にも注意が必要です。",
+      "key_entities": [
+        "Apple",
+        "iPhone",
+        "Mac"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Robloxの株価が18%急落。児童の安全対策強化が予約数に悪影響を与えています。",
+      "analysis": "Robloxの株価急落は、児童の安全対策強化による収益への影響に加え、140件以上の訴訟を抱えていることが嫌気された結果と考えられます。児童の安全対策は、企業の社会的責任として重要ですが、収益とのバランスを取ることが課題となります。また、訴訟リスクは、企業価値を毀損する可能性があり、投資家は注意が必要です。",
+      "key_entities": [
+        "Roblox"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "FRB内で利下げを示唆する姿勢に反対意見が出ています。金融政策の方向性に対する不確実性が高まっています。",
+      "analysis": "FRB内の意見対立は、今後の金融政策の方向性に対する不確実性を高め、市場のボラティリティを増大させる可能性があります。利下げの時期や幅を巡る議論は、インフレ動向や経済成長率など、様々な要因に左右されるため、今後のFRBの動向を注視する必要があります。",
+      "key_entities": [
+        "FRB",
+        "パウエル議長"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Exxon Mobil CEO expects higher oil prices due to Iran war: ‘The market hasn’t seen the full impact’",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "Exxon Mobil CEOは、イラン戦争の影響で原油価格が上昇すると予想。地政学的リスクの高まりが懸念されます。",
+      "analysis": "イラン戦争の可能性は、原油供給の途絶や、ホルムズ海峡の封鎖など、様々なリスクを引き起こし、原油価格を急騰させる可能性があります。原油価格の上昇は、インフレを加速させ、世界経済の成長を阻害する可能性があります。また、地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株式市場などのリスク資産から資金が流出する可能性があります。",
+      "key_entities": [
+        "Exxon Mobil",
+        "イラン",
+        "原油価格"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
+      "region": "europe",
+      "risk_level": "high",
+      "summary": "トランプ政権の関税引き上げ後、英国から米国への輸出が25%急減。貿易赤字が拡大しています。",
+      "analysis": "英国の対米輸出急減は、トランプ政権の保護主義的な貿易政策が、英国経済に深刻な影響を与えていることを示しています。Brexit後の英国経済は、新たな貿易協定の締結が急務ですが、米国の保護主義的な姿勢は、その実現を困難にする可能性があります。また、貿易赤字の拡大は、ポンド安を招き、インフレを加速させる可能性があります。",
+      "key_entities": [
+        "英国",
+        "米国",
+        "トランプ政権"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
     }
   ],
   "region_risk_map": {
     "global": "medium",
-    "north_america": "low",
-    "europe": "medium",
-    "east_asia": "high"
+    "north_america": "medium",
+    "europe": "high",
+    "east_asia": "medium"
   },
-  "generated_at": "2026-05-01T13:27:16.656744",
+  "generated_at": "2026-05-01T21:56:44.395073",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
