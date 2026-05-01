@@ -1,36 +1,16 @@
 {
   "date": "2026-05-01",
-  "summary": "地政学的リスク（イラン情勢、トランプ大統領暗殺未遂）が依然として市場を不安定化させる一方、好調な企業業績とAI関連投資への期待がリスクオフの流れを抑制。暗号資産市場は規制強化の動きと金利上昇により、ボラティリティが高い状態が継続。",
+  "summary": "2026年5月1日の金融市場は、株式市場の上昇、原油価格の下落、暗号資産の変動、そして地政学的リスクが混在する状況です。特に、FRBの金融政策に対する意見の相違、イランを巡る地政学的緊張、そしてAI投資の拡大が注目されます。",
   "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "Oil rises as Trump faces crucial 60-day deadline for Iran war",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "トランプ大統領がイランへの軍事介入に関して重要な60日間の期限を迎える中、原油価格が上昇。地政学的緊張の高まりが原油市場に影響を与えている。",
-      "analysis": "米国の対イラン政策の不確実性が原油価格を押し上げている。War Powers Resolutionに基づき、トランプ大統領は議会への報告後60日以内に軍隊を撤退させる必要がある。この期限が近づくにつれ、中東地域における軍事衝突のリスクが高まり、原油供給の混乱が懸念される。市場は、米国がイランとの対話を模索するのか、あるいは強硬姿勢を維持するのかを見極めようとしており、今後の展開次第では原油価格がさらに上昇する可能性がある。地政学的リスクプレミアムの上昇は、インフレ圧力にもつながり、金融政策にも影響を与える可能性がある。",
-      "key_entities": [
-        "Trump",
-        "Iran",
-        "Oil",
-        "War Powers Resolution"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Video shows Cole Allen casing hotel, storming checkpoint in alleged Trump assassination attempt",
+      "title": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
       "region": "global",
       "risk_level": "medium",
-      "summary": "トランプ大統領の暗殺未遂事件が発生。政治的安定への懸念が高まり、市場心理に悪影響を与える可能性がある。",
-      "analysis": "政治的暴力のリスクは、常に市場に不確実性をもたらす。今回の暗殺未遂事件は、米国の政治的安定に対する懸念を再燃させ、投資家のリスク回避姿勢を強める可能性がある。特に、選挙が近づくにつれて、このような事件は市場のボラティリティを高める要因となる。また、事件の背景にある政治的・社会的な分断が深まることで、今後の政策運営にも影響が出る可能性がある。",
+      "summary": "FRB内で、利下げを示唆する声明に反対する意見が出ました。金融政策の方向性に対する不確実性が高まっています。",
+      "analysis": "FRB内部の意見対立は、今後の金融政策の方向性を予測することを困難にします。市場は、FRBの次の動きを注視しており、利下げ期待が後退すれば、株式市場や債券市場に調整が入る可能性があります。インフレ動向や経済指標次第では、政策金利の据え置きや利上げの可能性も残されており、金融市場のボラティリティが高まるリスクがあります。FRBのコミュニケーション戦略が重要になります。",
       "key_entities": [
-        "Trump",
-        "Cole Allen"
+        "Federal Reserve"
       ],
       "sources": [
         "CNBC - Top News"
@@ -40,16 +20,83 @@
       ]
     },
     {
-      "title": "Apple delivers a nearly perfect quarter, with a CEO change and an AI update ahead",
+      "title": "Oil prices fall on report Iran sent response to draft peace agreement",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "イランが和平案に回答したとの報道を受け、原油価格が下落しました。中東地域の地政学的リスクが緩和される可能性が出てきました。",
+      "analysis": "イランを巡る地政学的リスクの緩和は、原油価格の下落要因となります。しかし、和平交渉の進展は不確実であり、合意に至らない場合は、再び原油価格が上昇する可能性があります。また、米国の対イラン政策や、OPECプラスの生産調整も原油価格に影響を与える要因となります。原油価格の変動は、インフレ率や企業収益に影響を及ぼすため、注意が必要です。",
+      "key_entities": [
+        "Iran",
+        "OPEC"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Japan risks Trump’s ire as Iran war fallout sparks currency intervention",
+      "region": "east_asia",
+      "risk_level": "high",
+      "summary": "イラン情勢を背景とした円高に対応するため、日本が為替介入を実施しました。米国との貿易摩擦が再燃する可能性があります。",
+      "analysis": "日本の為替介入は、米国の為替政策に反する可能性があります。トランプ政権が復活した場合、日本に対する為替操作国認定や、貿易制裁などの措置が取られるリスクがあります。円高是正の効果は一時的であり、根本的な解決には至らない可能性があります。米国の政策動向を注視する必要があります。",
+      "key_entities": [
+        "Japan",
+        "United States"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Friday, May 1, 2026: Prices moving higher this morning",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "ビットコインとイーサリアムの価格が上昇しています。暗号資産市場は依然として変動が大きく、注意が必要です。",
+      "analysis": "暗号資産市場は、規制の動向や機関投資家の参入状況、技術的な進歩など、様々な要因によって価格が変動します。短期的な価格変動に惑わされず、長期的な視点で投資判断を行う必要があります。また、暗号資産に関連する詐欺やハッキングのリスクにも注意が必要です。",
+      "key_entities": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Daily Spotlight: AI Investment Lifts 1Q GDP",
       "region": "global",
       "risk_level": "low",
-      "summary": "Appleが好調な四半期決算を発表。CEO交代とAI戦略の発表を控え、株価が上昇。市場センチメントは改善。",
-      "analysis": "Appleの好調な業績は、テクノロジーセクター全体への信頼感を高める。特に、AI分野への積極的な投資姿勢は、今後の成長への期待感を高めている。CEO交代がスムーズに進むか、AI戦略が市場の期待に応えられるかが、今後の株価を左右する重要な要素となる。競合他社との競争激化や、規制当局からの監視強化など、リスク要因も存在する。",
+      "summary": "AI投資が第1四半期のGDPを押し上げました。AI関連産業の成長が経済成長に貢献しています。",
+      "analysis": "AI投資の拡大は、経済成長の新たな原動力となる可能性があります。しかし、AI技術の発展に伴い、雇用喪失や倫理的な問題など、新たなリスクも生じています。AI技術の恩恵を最大限に享受するためには、適切な規制や倫理的なガイドラインの策定が不可欠です。",
       "key_entities": [
-        "Apple",
         "AI"
       ],
       "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "AstraZeneca stock falls after FDA panel votes against new cancer drug",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "FDA諮問委員会がアストラゼネカの新薬に反対票を投じたため、同社の株価が下落しました。",
+      "analysis": "新薬開発は成功するとは限らず、製薬会社の株価は新薬の承認状況に大きく左右されます。投資家は、製薬会社のパイプラインや臨床試験の結果を注意深く分析する必要があります。また、規制当局の判断も株価に大きな影響を与えるため、規制動向にも注目する必要があります。",
+      "key_entities": [
+        "AstraZeneca",
+        "FDA"
+      ],
+      "sources": [
         "CNBC - Top News"
       ],
       "source_types": [
@@ -57,12 +104,45 @@
       ]
     },
     {
-      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+      "title": "Apple CEO Tim Cook warns of extended memory crunch. 'We'll look at a range of options'",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "AppleのCEOがメモリ不足が長期化する可能性を警告しました。サプライチェーンの問題が業績に影響を与える可能性があります。",
+      "analysis": "半導体不足は、様々な産業に影響を与えており、Appleも例外ではありません。メモリ不足が長期化すれば、製品の生産遅延やコスト上昇につながり、業績に悪影響を及ぼす可能性があります。Appleは、サプライチェーンの多様化や、内製化を進めることで、リスクを軽減しようとしています。",
+      "key_entities": [
+        "Apple"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
       "region": "global",
       "risk_level": "low",
-      "summary": "S&P 500が7,200を超え、2020年以来最高の月間パフォーマンスを記録。株式市場は強気ムードを維持。",
-      "analysis": "株式市場の好調は、企業業績の改善や経済成長への期待を反映している。しかし、金利上昇やインフレ圧力など、リスク要因も依然として存在する。市場の過熱感を示す指標も見られるため、今後の調整リスクには注意が必要。特に、金融政策の変更や地政学的リスクの顕在化は、市場のセンチメントを大きく変える可能性がある。",
+      "summary": "Redditの収益がアナリストの予想を上回り、69%増加しました。ソーシャルメディアプラットフォームの成長が続いています。",
+      "analysis": "Redditの収益増加は、広告収入の増加や、有料サービスの利用拡大によるものです。ソーシャルメディアプラットフォームは、ユーザー数の増加や、新たな収益源の開拓によって、成長を続けています。しかし、個人情報保護の問題や、フェイクニュースの拡散など、課題も抱えています。",
       "key_entities": [
+        "Reddit"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Veeva Systems to join S&P 500 index, replacing Coterra Energy",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "Veeva SystemsがS&P 500指数に採用され、Coterra Energyと入れ替わります。クラウドソフトウェア企業の成長が評価されています。",
+      "analysis": "Veeva SystemsのS&P 500指数採用は、同社の成長性と安定性が評価された結果です。クラウドソフトウェア市場は、企業のDX推進や、リモートワークの普及などにより、成長を続けています。しかし、競争も激化しており、Veeva Systemsは、新たな技術やサービスの開発によって、競争力を維持する必要があります。",
+      "key_entities": [
+        "Veeva Systems",
         "S&P 500"
       ],
       "sources": [
@@ -73,108 +153,18 @@
       ]
     },
     {
-      "title": "Intel's stock more than doubles in April for best month in chipmaker's 55 years on Nasdaq",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Intelの株価が4月に急騰。好調な業績と復活への期待が株価を押し上げた。",
-      "analysis": "Intelの株価急騰は、半導体セクター全体の成長への期待を反映している。特に、AI関連需要の拡大が、Intelの業績を大きく押し上げている。しかし、TSMCやNVIDIAなど、競合他社との競争は激化しており、技術革新のスピードについていけるかが、今後の成長を左右する重要な要素となる。また、地政学的リスクも、半導体サプライチェーンに影響を与える可能性がある。",
-      "key_entities": [
-        "Intel",
-        "TSMC",
-        "NVIDIA"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "U.S. senators ban themselves from prediction markets trading",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "米上院議員が予測市場での取引を禁止。イベント契約に対する規制強化の動き。",
-      "analysis": "予測市場に対する規制強化は、市場の透明性と公正性を高める一方で、新たなイノベーションを阻害する可能性もある。特に、選挙や戦争など、政治的なイベントに関する予測市場は、情報操作やインサイダー取引のリスクが高いため、規制当局の監視が強化されている。今回の米上院議員による取引禁止は、予測市場に対する信頼性を高める一方で、市場の流動性を低下させる可能性もある。",
-      "key_entities": [
-        "U.S. Senators",
-        "Commodity Futures Trading Commission",
-        "Kalshi",
-        "Polymarket"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high",
+      "title": "MARA Holdings to buy Long Ridge Energy in $1.5 billion AI data center push",
       "region": "global",
       "risk_level": "medium",
-      "summary": "原油価格が4年ぶりの高値を記録する中、ビットコインが75,000ドルに向けて下落。ETH、SOL、XRPも下落。",
-      "analysis": "原油価格の上昇は、インフレ圧力の高まりを示唆し、リスク資産である暗号資産への投資意欲を減退させる可能性がある。また、金利上昇への懸念も、暗号資産市場に悪影響を与えている。ビットコインは依然として高いボラティリティを維持しており、今後の金融政策や地政学的リスク次第では、価格が大きく変動する可能性がある。",
+      "summary": "MARA HoldingsがLong Ridge Energyを15億ドルで買収し、AIデータセンター事業を強化します。",
+      "analysis": "AI技術の発展に伴い、データセンターの需要が急増しています。MARA Holdingsは、Long Ridge Energyの買収によって、データセンターの供給能力を拡大し、AI関連事業の成長を加速させることを目指しています。しかし、データセンターの建設には多額の投資が必要であり、電力消費量も大きいため、環境への影響も考慮する必要があります。",
       "key_entities": [
-        "Bitcoin",
-        "ETH",
-        "SOL",
-        "XRP",
-        "Oil"
+        "MARA Holdings",
+        "Long Ridge Energy",
+        "AI"
       ],
       "sources": [
         "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Gas prices jump to highest level since July 2022 as oil hovers near $110",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "原油価格が1バレル110ドル近辺で推移し、ガソリン価格が2022年7月以来の高水準に上昇。",
-      "analysis": "ガソリン価格の上昇は、消費者支出を抑制し、経済成長を鈍化させる可能性がある。また、インフレ圧力の高まりは、金融政策の引き締めを促し、株式市場や債券市場にも悪影響を与える可能性がある。特に、エネルギー価格の高騰は、低所得者層への影響が大きく、社会不安を招く可能性もある。",
-      "key_entities": [
-        "Oil",
-        "Gas Prices"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "AI boom: Big Tech capital expenditures now seen topping $1 trillion in 2027",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "AIブームにより、大手テクノロジー企業の設備投資が2027年には1兆ドルを超えると予測されている。",
-      "analysis": "AI関連投資の拡大は、経済成長を促進し、新たな雇用を創出する可能性がある。しかし、過剰投資や技術革新のスピードについていけない企業は、競争力を失うリスクもある。また、AI技術の倫理的な問題や、雇用喪失への懸念など、社会的な課題も存在する。",
-      "key_entities": [
-        "AI",
-        "Big Tech"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Now is the time to rebalance your portfolio and snap up these bonds, UBS says",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "UBSは、政府債券の利回りが上昇している現在、ポートフォリオのリバランスを行い、債券を購入する好機であると提言。",
-      "analysis": "債券利回りの上昇は、株式市場からの資金シフトを促し、債券市場への投資を増加させる可能性がある。特に、長期金利の上昇は、年金基金や保険会社などの機関投資家にとって、魅力的な投資機会となる。しかし、金利上昇は、企業の借入コストを増加させ、経済成長を鈍化させる可能性もある。ポートフォリオのリバランスは、リスク分散の観点から重要であり、市場の変動に対応するための有効な手段となる。",
-      "key_entities": [
-        "UBS",
-        "Government Bonds"
-      ],
-      "sources": [
-        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -183,14 +173,11 @@
   ],
   "region_risk_map": {
     "global": "medium",
-    "north_america": "medium",
+    "north_america": "low",
     "europe": "medium",
-    "east_asia": "low",
-    "south_america": "none",
-    "africa": "none",
-    "middle_east": "high"
+    "east_asia": "high"
   },
-  "generated_at": "2026-05-01T03:44:30.874375",
+  "generated_at": "2026-05-01T13:27:16.656744",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

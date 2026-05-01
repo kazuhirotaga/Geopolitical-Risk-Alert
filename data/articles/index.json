@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-01",
-    "summary": "中東情勢の緊迫化、ウクライナ侵攻の継続、テロ警戒レベルの引き上げなど、地政学的リスクが高まっている。特にイランを巡る米国の軍事行動の可能性は、世界経済に深刻な影響を与える恐れがある。",
+    "summary": "中東情勢の緊迫化が世界経済に深刻な影響を与え、ウクライナ情勢も依然として不安定。高市首相の東南アジア訪問は、日本の外交戦略における重要な一歩となる可能性がある。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
-      "southeast_asia": "medium",
-      "south_asia": "medium",
-      "central_asia": "low",
+      "southeast_asia": "low",
+      "south_asia": "low",
+      "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
       "africa": "medium",
       "north_america": "medium",
       "south_america": "low"
     },
-    "generated_at": "2026-05-01T10:25:44.209915"
+    "generated_at": "2026-05-01T13:26:52.022263"
   },
   {
     "date": "2026-04-30",
