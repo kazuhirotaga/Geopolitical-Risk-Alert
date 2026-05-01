@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-05-01",
+    "summary": "地政学的リスク（イラン情勢、トランプ大統領暗殺未遂）が依然として市場を不安定化させる一方、好調な企業業績とAI関連投資への期待がリスクオフの流れを抑制。暗号資産市場は規制強化の動きと金利上昇により、ボラティリティが高い状態が継続。",
+    "overall_risk_level": "medium",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "medium",
+      "north_america": "medium",
+      "europe": "medium",
+      "east_asia": "low",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "high"
+    },
+    "generated_at": "2026-05-01T03:44:30.874375"
+  },
+  {
     "date": "2026-04-30",
     "summary": "中東情勢緊迫化による原油価格高騰、主要テック企業の決算発表とAI投資競争激化、FRB議長交代と金融政策の不確実性が市場を揺るがす。暗号資産市場はボラティリティが高く、警戒が必要。",
     "overall_risk_level": "high",

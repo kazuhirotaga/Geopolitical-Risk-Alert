@@ -1,136 +1,127 @@
 {
-  "date": "2026-04-30",
-  "summary": "世界的に見て、複数の地域で社会不安とパニックの兆候が見られます。特に南アジアでは燃料不足や労働者による大規模な抗議デモが多発し、アフリカでも燃料価格高騰によるパニックが報告されています。南米では労働法改正への抗議や水不足、東南アジアでは金融不安が顕在化。北米や中東でも限定的な抗議活動が見られるものの、全体としては地域差が大きく、一部地域では市民生活に直結する資源の供給不安が深刻化しています。",
-  "global_panic_index": 50,
+  "date": "2026-05-01",
+  "summary": "現在、世界各地で金融システムの不安定性、エネルギー供給の逼迫、及び労働政策に対する大規模な抗議活動が社会不安の主要な引き金となっています。特にパキスタンではイラン戦争の影響による燃料不足が深刻なパニック状態を招いており、社会機能の広範な麻痺が懸念されます。一方、米国では銀行破綻が金融市場に影を落とし、インドやアルゼンチンではデモが活発化しており、全体的に警戒が必要な状況です。",
+  "global_panic_index": 71,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 30,
-      "status": "unstable",
-      "main_cause": "社会的不満",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "金融不安、資源不足",
       "incidents": [
         {
-          "title": "Citizens Bankに対する抗議デモ",
-          "location": "コネチカット州、米国",
+          "title": "大手銀行破綻と巨額資金流出",
+          "location": "米国（推定）",
+          "severity": 90,
+          "description": "わずか一日で420億ドルが失われ、その後に大手銀行が破綻したと報じられている。金融市場に深刻な衝撃を与え、広範な信頼喪失とパニックを引き起こす可能性がある。",
+          "source": "MSN"
+        },
+        {
+          "title": "水不足の懸念と料金値上げ",
+          "location": "Pinewood Springs, USA",
+          "severity": 65,
+          "description": "干ばつに備え、ピネウッドスプリングス水道局が水不足の可能性を理由に料金を値上げした。住民の生活に直接影響し、不安と不満が高まることが予想される。",
+          "source": "Longmont Times-Call"
+        },
+        {
+          "title": "移民施設関連企業への抗議活動",
+          "location": "Connecticut, USA",
           "severity": 30,
-          "description": "ICE収容センターに関与する刑務所企業に資金提供する市民銀行に対する抗議デモが発生。社会的不満が表面化しているが、広範なパニックには至っていない。",
+          "description": "ICE収容施設に関わる刑務所会社に資金提供しているシティズンズ銀行に対して抗議デモが実施された。特定の社会問題への反対運動であり、社会秩序への直接的なパニックではない。",
           "source": "News12 | Connecticut"
         }
       ]
     },
     {
       "region": "south_america",
-      "panic_index": 58,
+      "panic_index": 60,
       "status": "unstable",
-      "main_cause": "労働法改正、水不足",
+      "main_cause": "政治・労働政策への不満",
       "incidents": [
         {
-          "title": "アルゼンチン労働者、労働法改正に抗議",
-          "location": "アルゼンチン",
-          "severity": 55,
-          "description": "アルゼンチンで労働法改正に反対する労働者による大規模な社会不安と抗議デモが発生。広範囲に及ぶ社会的な緊張と不満が顕著になっている。",
+          "title": "アルゼンチンで労働法改正に抗議活動",
+          "location": "Argentina",
+          "severity": 60,
+          "description": "アルゼンチンで労働法改正案に対し労働者による大規模な抗議デモが発生し、社会不安が拡大している。政府の政策が社会の分断を深める恐れがある。",
           "source": "Devdiscourse"
-        },
-        {
-          "title": "水不足が抗議デモを引き起こす",
-          "location": "カスタラ、トリニダード・トバゴ",
-          "severity": 60,
-          "description": "トリニダード・トバゴのカスタラで水不足が発生し、WASAが漏水修理を急ぐ中、住民による抗議デモが勃発。生活必需品の不足が社会不安を招いている。",
-          "source": "Trinidad Guardian"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "政治的圧力",
-      "incidents": [
-        {
-          "title": "イラン学生が3日連続で抗議",
-          "location": "イラン",
-          "severity": 50,
-          "description": "イランで米国からの圧力に反発し、学生が3日連続で抗議活動を実施。政治的な緊張が高まり、若年層の間で不満が噴出している。",
-          "source": "DD News"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "燃料価格高騰、エネルギー不足",
-      "incidents": [
-        {
-          "title": "燃料価格高騰がガソリンスタンドでパニックを誘発",
-          "location": "南アフリカ",
-          "severity": 75,
-          "description": "南アフリカ全土のガソリンスタンドで燃料価格の高騰を背景にパニックが発生し、買いだめや供給不安が広がっている。生活に直結する資源の不足が深刻化している。",
-          "source": "IOL"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 67,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、労働者抗議、社会秩序の混乱",
-      "incidents": [
-        {
-          "title": "イラン戦争がパキスタンの燃料不足を引き起こす",
-          "location": "パキスタン",
-          "severity": 75,
-          "description": "イラン戦争の影響でパキスタン全土でガソリンとディーゼル燃料が不足し、ガソリンスタンドが枯渇。エネルギー供給の危機が広範なパニックを引き起こしている。",
-          "source": "MSN"
-        },
-        {
-          "title": "ノイダ労働者抗議デモ、パキスタンとの関連捜査",
-          "location": "ノイダ、インド",
-          "severity": 70,
-          "description": "インドのノイダで大規模な労働者抗議デモが発生し、パキスタンとの関連が捜査され、300人が逮捕。賃上げ要求と外部勢力関与の疑いが社会不安を増幅させている。",
-          "source": "MSN"
-        },
-        {
-          "title": "アリススプリングス、暴力に包まれる",
-          "location": "アリススプリングス、オーストラリア",
-          "severity": 65,
-          "description": "オーストラリアのアリススプリングスで、殺人容疑者逮捕後、暴力と社会不安が拡大。地域社会の緊張が高まり、治安維持が課題となっている。",
-          "source": "Australian Broadcasting Corporation"
-        },
-        {
-          "title": "LPG供給危機、10kgシリンダー導入検討",
-          "location": "インド（推定）",
-          "severity": 65,
-          "description": "LPG供給危機が深刻化し、政府系石油会社が10kgシリンダー導入を検討。生活必需品の不足に対する消費者の不安が高まり、対策が急務となっている。",
-          "source": "MSN"
-        },
-        {
-          "title": "ノイダ抗議デモ、周到に計画された陰謀",
-          "location": "ノイダ、インド",
-          "severity": 60,
-          "description": "ノイダの抗議デモで逮捕された45人が労働者ではないことが判明し、背後に組織的な陰謀の可能性が浮上。社会の分断と不信感が深まっている。",
-          "source": "MSN"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "金融不安",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "エネルギー供給不足、金融不安、労働者による抗議活動",
       "incidents": [
         {
-          "title": "中央銀行がHuione顧客に裁判所での和解を促す",
-          "location": "カンボジア",
-          "severity": 60,
-          "description": "カンボジアの中央銀行が、Huioneの顧客に対し裁判所での和解を促している。金融機関の破綻懸念により、多くの顧客が貯蓄を失う不安に直面している。",
+          "title": "LPG供給危機による燃料不足",
+          "location": "India",
+          "severity": 70,
+          "description": "インドではLPG供給危機が発生しており、国営石油会社が10kgシリンダー導入を検討。生活必需品である燃料の不足は、広範な市民の不安を招く可能性がある。",
+          "source": "MSN"
+        },
+        {
+          "title": "カンボジアでの金融機関問題と顧客の貯蓄喪失",
+          "location": "Cambodia",
+          "severity": 75,
+          "description": "カンボジアの中央銀行がHuione顧客の希望が薄れる中、法廷和解を促している。金融機関の問題により顧客が貯蓄を失う可能性が高まり、取り付け騒ぎに発展しかねない。",
           "source": "Cambodianess"
+        },
+        {
+          "title": "インド・ノイダでの労働者抗議と交通混乱",
+          "location": "Noida, India",
+          "severity": 60,
+          "description": "ノイダでの労働者の不安と抗議活動により、交通渋滞が懸念されている。デモ活動が日常の社会インフラに影響を与え、市民生活に混乱を招いている。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド・ナグプールでの暴動事件と逮捕",
+          "location": "Nagpur, India",
+          "severity": 65,
+          "description": "インドのナグプールで発生した暴動事件で主要容疑者が逮捕された。この事件は地域の治安悪化と社会秩序への懸念を示しており、住民の不安が継続している。",
+          "source": "Devdiscourse"
+        },
+        {
+          "title": "HDFC銀行幹部辞任と株価下落",
+          "location": "India",
+          "severity": 55,
+          "description": "インド最大手民間銀行HDFC銀行の非常勤会長が「倫理問題」で辞任し、株価が5%超下落。金融市場の信頼性に影響を与え、潜在的な金融不安を引き起こす可能性がある。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 95,
+      "status": "critical",
+      "main_cause": "エネルギー不足、戦争の影響",
+      "incidents": [
+        {
+          "title": "パキスタンでのガソリン・ディーゼル不足とポンプ枯渇",
+          "location": "Pakistan",
+          "severity": 95,
+          "description": "イラン戦争の影響でパキスタン全土でガソリン・ディーゼル不足が発生し、給油ポンプが枯渇している。これは国家的なエネルギー危機であり、社会インフラの麻痺と大規模なパニックを引き起こす可能性が高い。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 10,
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "africa",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 20,
       "status": "normal",
       "main_cause": "特になし",
       "incidents": []
