@@ -1,122 +1,27 @@
 {
   "date": "2026-05-01",
-  "summary": "世界各地では、一部地域で深刻な社会不安や資源不足が顕在化しており、警戒を要する状況が見られます。特にオーストラリアでは暴動や燃料危機、インドでは交通やエネルギー供給の逼迫が市民生活に影響を与えています。また、パキスタンでは中東情勢に起因する燃料不足が深刻化。アルゼンチンや韓国でも労働関連の抗議活動が報告されており、全体として社会の不安定要因が散見されます。北米や欧州は比較的安定していますが、局所的な不安要素は存在します。",
-  "global_panic_index": 55,
+  "summary": "世界各地で社会不安が拡大しており、特にアフリカ南部とオーストラリアでは燃料不足によるパニックや暴動が発生し、警戒レベルが高まっています。アジア地域では労働問題やエネルギー・交通インフラの不足、金融不安が複合的に社会不安を煽っています。南米では労働法改正への大規模な抗議活動、北米では水不足への懸念が顕在化。中東の地政学的緊張も経済に影を落としており、世界全体で中程度の不安から一部で警戒状態へと移行しつつあります。",
+  "global_panic_index": 60,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "社会・環境的懸念",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "資源不足、企業活動への不満",
       "incidents": [
         {
-          "title": "Citizens Bankに対する抗議デモ",
-          "location": "コネチカット州、米国",
-          "severity": 30,
-          "description": "Citizens BankがICE（米国移民関税執行局）の収容施設運営企業に融資していることに対し、抗議デモが実施されました。金融機関への直接的な圧力はありますが、取り付け騒ぎのような金融パニックには至っていません。",
-          "source": "News12 | Connecticut"
-        },
-        {
-          "title": "干ばつと水不足の可能性に対する料金値上げ",
-          "location": "コロラド州パインウッドスプリングス、米国",
-          "severity": 35,
-          "description": "干ばつとそれに伴う水不足の可能性に備え、水道料金が値上げされました。直接的なパニックは発生していませんが、将来的な生活必需品不足への懸念が高まっています。",
-          "source": "Longmont Times-Call"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "交通インフラの不便",
-      "incidents": [
-        {
-          "title": "英国の祝日における列車運休",
-          "location": "チッペナム・バーススパ間、英国",
-          "severity": 20,
-          "description": "バンクホリデー（祝日）期間中に、チッペナムとバーススパ間のGWR列車が運休となりました。広範なパニックを引き起こすものではなく、一時的な交通の不便に留まっています。",
-          "source": "BBC"
-        },
-        {
-          "title": "英国DLRの祝日期間中の大部分運休",
-          "location": "ロンドン、英国",
-          "severity": 20,
-          "description": "バンクホリデーの週末にDLR（ドックランズ・ライト・レイルウェイ）の大部分が、新型列車の試験のために運休します。市民生活に一時的な影響がありますが、パニック状態ではありません。",
-          "source": "My London"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 40,
-      "status": "stable",
-      "main_cause": "労働問題",
-      "incidents": [
-        {
-          "title": "韓国製造業における労働不安の継続",
-          "location": "韓国",
-          "severity": 40,
-          "description": "韓国の製造業において労働不安が継続しており、経済成長の勢いを阻害する恐れがあります。大規模な暴動や略奪には至っていませんが、社会的な不安定要素として注視されています。",
-          "source": "The Korea Times"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "燃料・資源不足、社会不安、治安悪化",
-      "incidents": [
-        {
-          "title": "オーストラリア奥地での暴動と逮捕、飲酒禁止",
-          "location": "オーストラリア奥地",
-          "severity": 80,
-          "description": "オーストラリアの奥地で「unrest（不安、騒乱）」が発生し、暴動による逮捕者が出て、飲酒禁止令が施行されました。社会秩序が一部で乱れており、警戒すべき状況です。",
-          "source": "Yahoo News Australia"
-        },
-        {
-          "title": "アリススプリングスでの社会不安と警察の対応",
-          "location": "アリススプリングス、オーストラリア",
-          "severity": 75,
-          "description": "クマンジャイ・リトルベイビー氏の死を巡る逮捕後、アリススプリングスで「unrest（不安）」が発生。警察が関係者を起訴すると発表しており、住民間の緊張が高まっています。",
-          "source": "The Guardian"
-        },
-        {
-          "title": "バス不足による選挙投票妨害と抗議デモ",
-          "location": "キランバッカム、タミル・ナードゥ州、インド",
+          "title": "水不足への懸念と料金引き上げ",
+          "location": "Pinewood Springs, US",
           "severity": 65,
-          "description": "バス不足により乗客がキランバッカムで抗議デモを行い、一部の市民は投票に行けずに帰宅しました。交通インフラの機能不全が民主主義的プロセスに影響を与え、社会不安を引き起こしています。",
-          "source": "MSN"
+          "description": "干ばつと将来的な水不足に備え、水道料金が引き上げられました。地域住民に直接的な生活不安をもたらしています。",
+          "source": "Estes Park Trail-Gazette"
         },
         {
-          "title": "LPG供給危機とシリンダー小型化の検討",
-          "location": "インド",
-          "severity": 70,
-          "description": "LPG（液化石油ガス）の供給危機が発生し、国営石油会社が10kgシリンダー導入を検討しています。生活必需エネルギーの不足は、広範な買いだめや不安を引き起こす可能性があります。",
-          "source": "MSN"
-        },
-        {
-          "title": "オーストラリアでの燃料危機によるフライトキャンセル",
-          "location": "オーストラリア",
-          "severity": 70,
-          "description": "オーストラリアで燃料危機が深刻化し、フライトのキャンセルや削減が延長されています。これは交通インフラへの深刻な影響であり、市民の移動や物流に大きな支障をきたしています。",
-          "source": "The Australian Women's Weekly"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "エネルギー不足（戦争起因）",
-      "incidents": [
-        {
-          "title": "イラン戦争に起因するパキスタンでの燃料不足",
-          "location": "パキスタン",
-          "severity": 85,
-          "description": "イラン戦争の影響により、パキスタン全土でガソリンとディーゼル燃料の不足が発生し、ポンプが枯渇しています。これは国家の社会インフラと経済に壊滅的な影響を与えかねない、極めて危険なパニック状態です。",
-          "source": "MSN"
+          "title": "銀行の企業活動に対する抗議デモ",
+          "location": "Connecticut, US",
+          "severity": 30,
+          "description": "収容施設運営企業への融資を巡り、市民団体がCitizens Bankに対して抗議デモを実施しました。",
+          "source": "News12 | Connecticut"
         }
       ]
     },
@@ -124,14 +29,152 @@
       "region": "south_america",
       "panic_index": 60,
       "status": "unstable",
-      "main_cause": "労働法改正への反発",
+      "main_cause": "労働政策への不満",
       "incidents": [
         {
-          "title": "アルゼンチンでの労働法改正に対する抗議活動",
-          "location": "アルゼンチン",
+          "title": "労働法改正に対する労働者抗議",
+          "location": "Argentina",
           "severity": 60,
-          "description": "アルゼンチンで労働法改正に反対する労働者の抗議活動が勃発しました。全国的な規模に発展する可能性があり、社会全体に不安が広がっています。",
+          "description": "アルゼンチンで労働法改正案に反対する労働者の大規模な抗議活動が発生し、社会不安が広がっています。",
           "source": "Devdiscourse"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、社会不安、金融サービスへの不満",
+      "incidents": [
+        {
+          "title": "燃料価格高騰によるガソリンスタンドでのパニック",
+          "location": "South Africa",
+          "severity": 75,
+          "description": "燃料価格の急騰が南アフリカ全土のガソリンスタンドでパニックを引き起こし、買いだめや供給不足の懸念が拡大しています。",
+          "source": "IOL"
+        },
+        {
+          "title": "社会不安による道路閉鎖",
+          "location": "Soweto, South Africa",
+          "severity": 65,
+          "description": "ソウェトでの社会不安が、主要な交通拠点であるダイプクルーフ・インターチェンジの道路閉鎖を引き起こし、市民生活に影響が出ています。",
+          "source": "The Citizen"
+        },
+        {
+          "title": "通信料金の不当徴収への激しい怒り",
+          "location": "Nigeria",
+          "severity": 50,
+          "description": "USSD利用料の不当な徴収に対し、利用者から激しい怒りが広がり、通信会社と銀行間で責任転嫁が起きています。",
+          "source": "Legit.ng"
+        }
+      ]
+    },
+    {
+      "region": "oceania",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "司法・人種問題、エネルギー不足、治安悪化",
+      "incidents": [
+        {
+          "title": "燃料危機によるフライトキャンセルと運行削減",
+          "location": "Australia",
+          "severity": 75,
+          "description": "オーストラリア全土で燃料供給危機が発生し、航空便のキャンセルや運行削減が広がり、経済活動に深刻な影響を与えています。",
+          "source": "The Australian Women's Weekly"
+        },
+        {
+          "title": "暴動と酒類販売禁止措置",
+          "location": "Outback, Australia",
+          "severity": 70,
+          "description": "アウトバック地域で暴動が発生し、逮捕者が出る事態に。治安維持のため酒類販売禁止措置が導入されました。",
+          "source": "Yahoo News Australia"
+        },
+        {
+          "title": "先住民少女の殺害容疑を巡る暴動",
+          "location": "Australia",
+          "severity": 70,
+          "description": "オーストラリアの先住民少女の殺害容疑者を巡り、大規模な暴動が発生。社会的な緊張が非常に高まっています。",
+          "source": "South China Morning Post"
+        },
+        {
+          "title": "死亡事件への反応から社会不安が発生",
+          "location": "Alice Springs, Australia",
+          "severity": 60,
+          "description": "ある死亡事件をきっかけにアリススプリングスで社会不安が発生し、警察が介入する事態となっています。",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "労働問題、エネルギー・交通不足、金融不安",
+      "incidents": [
+        {
+          "title": "LPG供給危機への対策検討",
+          "location": "India",
+          "severity": 70,
+          "description": "LPG供給危機に直面し、国営石油会社が10kgシリンダー導入などの対策を検討中。生活必需品の不足が懸念されます。",
+          "source": "MSN"
+        },
+        {
+          "title": "労働者抗議が社会不安に発展、政治的陰謀説も",
+          "location": "Noida, India",
+          "severity": 60,
+          "description": "Noidaでの労働者抗議が社会不安に発展し、警察は他州からの扇動、CMは陰謀説を主張しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "中央銀行が裁判での解決促す金融不安の兆候",
+          "location": "Cambodia",
+          "severity": 60,
+          "description": "Huioneの顧客の希望が失われつつある状況で、中央銀行が裁判での解決を促しており、金融不安の兆候が見られます。",
+          "source": "Cambodianess"
+        },
+        {
+          "title": "バス不足による乗客の抗議と投票機会の喪失",
+          "location": "Kilambakkam, India",
+          "severity": 50,
+          "description": "選挙期間中にバス不足が発生し、投票に行けない乗客が抗議デモを実施。民主主義プロセスへの影響も懸念されます。",
+          "source": "MSN"
+        },
+        {
+          "title": "Noidaでの逮捕者解放を求めるデモ",
+          "location": "Delhi, India",
+          "severity": 55,
+          "description": "Noidaでの社会不安に関連して逮捕された労働者や活動家の解放を求める抗議デモがDelhiで発生しています。",
+          "source": "Hindustan Times"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "労働政策、経済不安",
+      "incidents": [
+        {
+          "title": "労働不安が製造業の成長を阻害する可能性",
+          "location": "Korea",
+          "severity": 60,
+          "description": "韓国で労働不安が製造業の成長勢いを鈍化させる可能性があり、経済全体への影響が懸念されています。",
+          "source": "The Korea Times"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "地政学的緊張、エネルギー供給リスク",
+      "incidents": [
+        {
+          "title": "ホルムズ海峡の緊張が自動車産業に与える脅威",
+          "location": "Strait of Hormuz",
+          "severity": 60,
+          "description": "ホルムズ海峡での地政学的緊張が、世界の高級自動車産業にエンジン供給問題を引き起こす可能性があり、経済への影響が懸念されます。",
+          "source": "CNBC"
         }
       ]
     }

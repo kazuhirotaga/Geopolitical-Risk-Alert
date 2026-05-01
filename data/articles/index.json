@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-01",
+    "summary": "中東情勢の緊迫化、ウクライナ侵攻の継続、テロ警戒レベルの引き上げなど、地政学的リスクが高まっている。特にイランを巡る米国の軍事行動の可能性は、世界経済に深刻な影響を与える恐れがある。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "high",
+      "southeast_asia": "medium",
+      "south_asia": "medium",
+      "central_asia": "low",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "low"
+    },
+    "generated_at": "2026-05-01T10:25:44.209915"
+  },
+  {
     "date": "2026-04-30",
     "summary": "中東情勢が緊迫化し、原油価格が高騰。アメリカとイランの対立激化に加え、ウクライナ情勢も不安定化。東アジアでは米中の対立が鮮明になるなど、地政学リスクが全体的に高まっている。",
     "overall_risk_level": "high",
