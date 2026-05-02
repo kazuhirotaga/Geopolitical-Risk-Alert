@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-02",
-    "summary": "中東におけるイラン戦争が継続し、ホルムズ海峡の封鎖や食糧安全保障への影響が深刻化。米国の軍事戦略と中国の動向も注視される。ウクライナ情勢も依然として不安定。",
+    "summary": "中東情勢の緊迫化が継続。イラン戦争は64日目に入り、停戦協議は難航。米軍施設への攻撃、イスラエルとヒズボラの戦闘激化、ホルムズ海峡の閉鎖危機など、地政学的リスクが極めて高い状況。世界的な食料・燃料価格の高騰も懸念される。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
-      "southeast_asia": "medium",
-      "south_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "low",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
-      "africa": "medium",
+      "europe": "medium",
+      "africa": "low",
       "north_america": "medium",
-      "south_america": "medium"
+      "south_america": "low"
     },
-    "generated_at": "2026-05-02T07:50:31.252314"
+    "generated_at": "2026-05-02T10:00:49.734071"
   },
   {
     "date": "2026-05-01",

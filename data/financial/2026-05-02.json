@@ -1,16 +1,18 @@
 {
   "date": "2026-05-02",
-  "summary": "株式市場は好調だが、Spirit Airlinesの経営破綻、トランプ政権によるEUへの関税引き上げ、地政学的リスク（イラン情勢）、連邦準備制度理事会（FRB）内の意見対立など、複数のリスク要因が混在している。暗号資産市場はClarity Actの影響で上昇傾向にあるが、需要の弱さやAIエージェントの参入など、不確実性も存在する。",
+  "summary": "世界経済は、インフレ懸念による金利上昇、地政学的リスク、貿易摩擦、企業業績への警戒感などにより、全体的に不安定な状況。特に、トランプ政権による貿易政策、中東情勢、暗号資産市場の変動がリスク要因として顕著。",
   "overall_risk_level": "medium",
   "articles": [
     {
       "title": "Spirit Airlines begins orderly wind-down after failing to reach deal for bailout lifeline",
       "region": "global",
-      "risk_level": "high",
-      "summary": "Spirit Airlinesが政府の救済交渉に失敗し、秩序立った経営破綻を開始。航空業界全体への影響が懸念される。",
-      "analysis": "Spirit Airlinesの経営破綻は、低価格航空会社モデルの脆弱性を示すとともに、航空業界全体の競争環境に影響を与える可能性がある。特に、燃料価格の高騰や需要変動に対する耐性の低さが露呈した。他の航空会社への波及や、航空券価格の上昇、雇用への影響などが懸念される。政府による業界支援のあり方も問われる。",
+      "risk_level": "medium",
+      "summary": "Spirit Airlinesが政府の救済交渉に失敗し、秩序立った事業縮小を開始。航空業界の競争激化と経営難が浮き彫りに。",
+      "analysis": "Spirit Airlinesの経営破綻は、航空業界における競争激化と経営の脆弱性を示す。低コストキャリアのビジネスモデルが、燃料価格の高騰や需要変動に弱いことを示唆。他の航空会社や関連業界への連鎖的な影響も懸念される。政府の救済策が奏功しなかったことは、今後の企業救済に対する姿勢にも影響を与える可能性がある。投資家は、航空業界全体の財務状況を慎重に評価する必要がある。",
       "key_entities": [
-        "Spirit Airlines"
+        "Spirit Airlines",
+        "米国政府",
+        "債権者"
       ],
       "sources": [
         "CNBC - Top News"
@@ -23,10 +25,11 @@
       "title": "Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Clarity Actの成立を受け、ビットコインが78,000ドルを超え、S&P500も最高値を更新。市場は強気。",
-      "analysis": "Clarity Actは、暗号資産に対する規制の明確化を促し、市場の信頼性を高める効果が期待される。ビットコイン価格の上昇は、投資家のリスク選好度の上昇を示唆する。しかし、過去の例から、規制の変更や市場のセンチメントの変化によって価格が大きく変動する可能性もある。S&P500の最高値更新も、過熱感を示す指標として注意が必要。",
+      "summary": "ビットコインが78,000ドルを超え、S&P500も最高値を更新。Clarity Actの成立が暗号資産市場を後押し。",
+      "analysis": "ビットコイン価格の上昇は、Clarity Actの成立による規制の明確化が投資家の信頼感を高めたことが要因。しかし、同時にS&P500が最高値を更新していることから、リスクオンの市場心理も影響していると考えられる。ビットコインのボラティリティは依然として高く、短期的な調整リスクも存在する。Clarity Actが長期的に暗号資産市場にどのような影響を与えるか注視する必要がある。",
       "key_entities": [
         "Bitcoin",
+        "米国上院",
         "S&P 500"
       ],
       "sources": [
@@ -40,11 +43,12 @@
       "title": "Trump says he's raising EU auto tariffs to 25%",
       "region": "europe",
       "risk_level": "high",
-      "summary": "トランプ政権がEUからの自動車関税を25%に引き上げると発表。貿易摩擦激化の懸念が高まる。",
-      "analysis": "EUへの自動車関税引き上げは、貿易戦争の再燃を招き、世界経済の成長を阻害する可能性がある。特に、自動車産業はグローバルサプライチェーンに大きく依存しており、関税の影響は広範囲に及ぶと考えられる。報復関税の発動や、その他の産業への影響も懸念される。英国の対米輸出が25%減少していることも、関税の影響の深刻さを示している。",
+      "summary": "トランプ前大統領がEUからの自動車関税を25%に引き上げると発表。貿易摩擦が激化し、世界経済に悪影響を及ぼす可能性。",
+      "analysis": "トランプ前大統領によるEU自動車関税の引き上げは、米欧間の貿易関係を悪化させ、世界経済の成長を阻害するリスクを高める。報復関税合戦に発展する可能性もあり、サプライチェーンの混乱や物価上昇を招く恐れがある。特に、自動車産業はグローバルなサプライチェーンに依存しており、関税の影響を受けやすい。投資家は、貿易政策の動向を注視し、ポートフォリオのリスクヘッジを検討する必要がある。",
       "key_entities": [
-        "Trump",
-        "EU"
+        "トランプ",
+        "EU",
+        "自動車産業"
       ],
       "sources": [
         "CNBC - Top News"
@@ -57,11 +61,12 @@
       "title": "Exxon Mobil CEO expects higher oil prices due to Iran war: ‘The market hasn’t seen the full impact’",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "Exxon MobilのCEOが、イラン情勢の悪化により原油価格が上昇すると予測。地政学的リスクが高まっている。",
-      "analysis": "中東地域の地政学的リスクは、原油価格の変動に大きな影響を与える。ホルムズ海峡の封鎖などの事態が発生した場合、原油供給が滞り、世界経済に深刻な影響を与える可能性がある。原油価格の上昇は、インフレを加速させ、企業収益を圧迫する要因となる。代替エネルギーへの投資や、エネルギー効率の向上などが求められる。",
+      "summary": "Exxon Mobil CEOがイラン戦争の影響で原油価格の上昇を予想。中東情勢の不安定化がエネルギー市場に影響。",
+      "analysis": "中東地域における地政学的リスクの高まりは、原油価格の急騰を招き、世界経済にインフレ圧力をかける。特に、ホルムズ海峡の封鎖は、原油供給の途絶を招き、深刻な経済危機を引き起こす可能性がある。Exxon Mobil CEOの発言は、市場が地政学的リスクを十分に織り込んでいないことを示唆しており、投資家はリスク管理を徹底する必要がある。",
       "key_entities": [
         "Exxon Mobil",
-        "Iran"
+        "イラン",
+        "ホルムズ海峡"
       ],
       "sources": [
         "CNBC - Top News"
@@ -74,10 +79,12 @@
       "title": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
       "region": "global",
       "risk_level": "medium",
-      "summary": "FRB内で利下げを示唆することに反対意見が出ている。金融政策の不確実性が高まっている。",
-      "analysis": "FRB内の意見対立は、金融政策の方向性に対する市場の信頼を損なう可能性がある。利下げのタイミングや幅に対する不確実性が高まると、企業の投資判断や個人の消費行動に影響を与える可能性がある。インフレ抑制と景気刺激のバランスをどのように取るかが、今後の課題となる。",
+      "summary": "FRB内で利下げを示唆する姿勢に反対意見。金融政策の方向性に対する不確実性が高まる。",
+      "analysis": "FRB内における金融政策の方向性に対する意見の相違は、市場に不確実性をもたらし、ボラティリティを高める可能性がある。利下げの時期や幅に対する市場の期待が変動しやすくなり、投資判断を難しくする。FRBの政策決定プロセスを注意深く監視し、市場の反応を分析する必要がある。",
       "key_entities": [
-        "Federal Reserve"
+        "FRB",
+        "パウエル",
+        "金利"
       ],
       "sources": [
         "CNBC - Top News"
@@ -87,13 +94,16 @@
       ]
     },
     {
-      "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "Robloxの株価が18%急落。児童の安全対策が予約数に影響を与えている。",
-      "analysis": "Robloxの株価急落は、企業の社会的責任（CSR）が投資判断に与える影響の大きさを示す。児童の安全対策は、企業イメージを向上させるだけでなく、長期的な収益にも貢献する可能性がある。同様のプラットフォームを提供する企業は、安全対策を強化する必要がある。",
+      "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
+      "region": "europe",
+      "risk_level": "high",
+      "summary": "トランプ政権の関税政策により、英国から米国への輸出が25%急減。貿易赤字が拡大。",
+      "analysis": "トランプ政権による関税政策は、英国経済に深刻な影響を与えている。輸出の減少は、企業の収益悪化や雇用喪失につながる可能性があり、景気後退のリスクを高める。英国政府は、新たな貿易協定の締結や国内産業の競争力強化など、対策を講じる必要がある。投資家は、英国経済の動向を注視し、ポートフォリオのリスクを評価する必要がある。",
       "key_entities": [
-        "Roblox"
+        "英国",
+        "米国",
+        "トランプ",
+        "関税"
       ],
       "sources": [
         "CNBC - Top News"
@@ -106,10 +116,11 @@
       "title": "Bitcoin surged in April, but weak buyer demand makes the rally vulnerable",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインは4月に急騰したが、買い需要の弱さから、その上昇は脆弱である。",
-      "analysis": "ビットコイン価格の上昇は、投機的な動きによるものであり、持続可能性に疑問が残る。機関投資家の動向や、規制の変更など、外部要因によって価格が大きく変動する可能性がある。長期的な投資対象として、ビットコインの価値を評価するには、さらなる分析が必要となる。",
+      "summary": "ビットコインは4月に急騰したが、買い需要の弱さから、上昇基調が崩れる可能性も。",
+      "analysis": "ビットコインの価格上昇は、投機的な買いが主導している可能性があり、持続的な上昇には疑問符がつく。買い需要が弱い場合、価格が下落しやすく、投資家は注意が必要。テクニカル指標や市場センチメントを分析し、慎重な投資判断を行う必要がある。",
       "key_entities": [
-        "Bitcoin"
+        "Bitcoin",
+        "CryptoQuant"
       ],
       "sources": [
         "CNBC - Top News"
@@ -119,46 +130,49 @@
       ]
     },
     {
-      "title": "AI agent forms its own company, gets ready to trade crypto",
+      "title": "Mortgage and refinance interest rates today, May 1, 2026: Inflation concerns send mortgage rates higher",
       "region": "global",
       "risk_level": "medium",
-      "summary": "AIエージェントが独自の会社を設立し、暗号資産取引を開始する準備を進めている。",
-      "analysis": "AIエージェントの暗号資産市場への参入は、市場の効率性を高める可能性がある一方、新たなリスクも生み出す可能性がある。アルゴリズム取引の高度化や、市場操作のリスクなどが懸念される。規制当局は、AIエージェントによる取引に対する監視を強化する必要がある。",
+      "summary": "インフレ懸念により、住宅ローン金利が上昇。不動産市場への影響が懸念される。",
+      "analysis": "インフレ懸念による住宅ローン金利の上昇は、住宅購入意欲を減退させ、不動産市場の冷え込みを招く可能性がある。特に、変動金利型住宅ローンを利用している場合は、金利上昇による返済負担の増加に注意が必要。不動産市場の動向を注視し、金利変動リスクを考慮した上で、住宅購入や投資判断を行う必要がある。",
       "key_entities": [
-        "AI"
+        "住宅ローン",
+        "金利",
+        "インフレ"
       ],
       "sources": [
-        "CoinDesk"
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Apple's stock gains as company execs cite iPhone, Mac demand in boosting guidance",
+      "title": "Engine trouble ahead? How the Strait of Hormuz standoff threatens luxury auto giants",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ホルムズ海峡の緊張が高級車メーカーを脅かす。原油価格高騰とサプライチェーンの混乱が懸念。",
+      "analysis": "ホルムズ海峡の緊張は、原油価格の高騰を招き、高級車メーカーの生産コストを押し上げる可能性がある。また、サプライチェーンの混乱により、部品調達が困難になり、生産遅延が発生する恐れもある。高級車メーカーは、代替サプライヤーの確保や生産拠点の分散など、リスク対策を講じる必要がある。",
+      "key_entities": [
+        "ホルムズ海峡",
+        "高級車メーカー",
+        "原油"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Apple proves once again it is the ultimate cash machine. How to trade the stock from here",
       "region": "global",
       "risk_level": "low",
-      "summary": "Appleの株価が上昇。iPhoneとMacの需要増加が業績見通しを押し上げている。",
-      "analysis": "Appleの好調な業績は、テクノロジー業界全体の成長を牽引する可能性がある。しかし、特定の企業への依存度が高まると、サプライチェーンの問題や、競合他社の台頭など、リスク要因も存在する。Appleの動向は、テクノロジー業界全体の指標として注目される。",
+      "summary": "Appleは依然として強力なキャッシュフローを生み出している。株価は堅調に推移する見込み。",
+      "analysis": "Appleの業績は、他の大手テクノロジー企業と比較して安定しており、投資家にとって魅力的な投資対象である。しかし、AI分野での競争激化や、新たな技術革新の遅れなど、リスク要因も存在する。長期的な視点で、Appleの成長戦略や市場動向を評価する必要がある。",
       "key_entities": [
         "Apple"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Lutnick gets grilling on Nvidia chip sales to China in letter from Sen. Chris Coons",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "Nvidiaの中国へのチップ販売に関して、議員から質問状が提出された。米中間の技術覇権争いが激化している。",
-      "analysis": "Nvidiaの中国へのチップ販売を巡る問題は、米中間の技術覇権争いを象徴する出来事である。半導体は、AIや軍事技術など、幅広い分野で重要な役割を果たすため、戦略的な重要性が高い。米国政府は、中国への技術流出を阻止するために、輸出規制を強化する可能性がある。",
-      "key_entities": [
-        "Nvidia",
-        "China"
       ],
       "sources": [
         "CNBC - Top News"
@@ -169,12 +183,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "high",
+    "global": "medium",
     "north_america": "medium",
     "europe": "high",
     "east_asia": "medium"
   },
-  "generated_at": "2026-05-02T07:50:51.242998",
+  "generated_at": "2026-05-02T10:01:12.049692",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
