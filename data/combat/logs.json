@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-02",
-    "summary": "アメリカ軍のドイツからの撤退計画が進む一方で、フィリピンでの軍事演習やイランの機雷対策など、アメリカ軍の活動は多岐にわたる。ウクライナでは停戦協議の動きがあるものの、ドローンが現代戦における重要な役割を果たしている。",
+    "summary": "5月1日の戦闘事象：米軍のドイツからの撤退、ガザミッション閉鎖、フィリピンでの演習、ウクライナ軍の再編、イラン戦争関連の動きなど、地政学的な緊張と軍事活動が継続。",
     "events": [
       {
         "id": "EVT001",
@@ -84,6 +84,22 @@
         "source_url": "https://www.defensenews.com/global/europe/2026/04/30/ukraines-army-chief-shakes-up-troop-rotations-after-outcry/"
       },
       {
+        "id": "EVT009",
+        "timestamp": "2026-04-30",
+        "location": "アルジェリア",
+        "region": "africa",
+        "title": "ロシアの影の航空会社がアルジェリアを拠点に利用",
+        "content": "ロシアの影の航空会社が、秘密裏なミッションのためにアルジェリアを拠点として利用。アルジェリアは、ロシアのウクライナ侵攻後の軍事輸出ビジネスの落ち込みの中で、ロシアの武器の重要な顧客となっている。",
+        "involved_parties": [
+          "ロシア",
+          "アルジェリア"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/30/investigation-russian-shadow-airlines-use-algeria-as-base-for-secretive-missions/"
+      },
+      {
         "id": "EVT006",
         "timestamp": "2026-04-29",
         "location": "ウクライナ",
@@ -133,20 +149,84 @@
         "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
       },
       {
-        "id": "EVT009",
-        "timestamp": "2026-04-30",
-        "location": "アルジェリア",
-        "region": "africa",
-        "title": "ロシアの影の航空会社がアルジェリアを拠点に利用",
-        "content": "ロシアの影の航空会社が、秘密裏なミッションのためにアルジェリアを拠点として利用。アルジェリアは、ロシアのウクライナ侵攻後の軍事輸出ビジネスの落ち込みの中で、ロシアの武器の重要な顧客となっている。",
+        "id": "event-010",
+        "timestamp": "2026-04-29",
+        "location": "不明",
+        "region": "middle_east",
+        "title": "米国防長官、イラン戦争の長期化を否定せず",
+        "content": "国防長官がイラン戦争の長期化について明言を避ける。戦争権限法に基づく60日間の期限が木曜日に迫る中での発言。",
         "involved_parties": [
-          "ロシア",
-          "アルジェリア"
+          "アメリカ",
+          "イラン"
         ],
         "event_type": "other",
         "urgency": "medium",
         "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/30/investigation-russian-shadow-airlines-use-algeria-as-base-for-secretive-missions/"
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/dont-call-it-a-quagmire-defense-secretary-refuses-to-speculate-on-length-of-iran-war/"
+      },
+      {
+        "id": "event-011",
+        "timestamp": "2026-04-29",
+        "location": "不明",
+        "region": "europe",
+        "title": "トランプ大統領、プーチン大統領とウクライナの停戦について議論",
+        "content": "トランプ大統領が、水曜日のプーチン大統領との電話会談でウクライナでの「小規模な停戦」を提案したと発言。",
+        "involved_parties": [
+          "アメリカ",
+          "ロシア",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/"
+      },
+      {
+        "id": "event-012",
+        "timestamp": "2026-04-29",
+        "location": "不明",
+        "region": "middle_east",
+        "title": "イラン戦争の費用はこれまでに250億ドル",
+        "content": "イラン戦争の費用はこれまでに250億ドル。下院軍事委員会で国防総省当局者が証言。費用の大半は軍需品に費やされている。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/"
+      },
+      {
+        "id": "event-013",
+        "timestamp": "2026-04-29",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米海兵隊、フィリピンでのシミュレーション防衛で海岸侵入者を撃退",
+        "content": "米海兵隊が、フィリピンでのシミュレーション防衛で海岸侵入者を撃退。撤退する「敵」に、爆発物を搭載した一人称視点ドローンによる攻撃を実施。",
+        "involved_parties": [
+          "アメリカ海兵隊",
+          "フィリピン"
+        ],
+        "event_type": "clash",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
+      },
+      {
+        "id": "event-014",
+        "timestamp": "2026-04-28",
+        "location": "インド",
+        "region": "east_asia",
+        "title": "インド、通常型および核潜水艦の戦闘力を強化",
+        "content": "インドが3隻目のSSBNを就役させ、継続的な海上核反撃能力の展開を可能にする。",
+        "involved_parties": [
+          "インド"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/28/india-races-to-boost-conventional-nuclear-submarine-combat-punch/"
       }
     ]
   },

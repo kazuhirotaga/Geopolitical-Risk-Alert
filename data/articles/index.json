@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-02",
-    "summary": "中東情勢の緊迫化が継続。イラン戦争は64日目に入り、停戦協議は難航。米軍施設への攻撃、イスラエルとヒズボラの戦闘激化、ホルムズ海峡の閉鎖危機など、地政学的リスクが極めて高い状況。世界的な食料・燃料価格の高騰も懸念される。",
-    "overall_risk_level": "critical",
+    "summary": "中東におけるイラン戦争の激化、ウクライナ情勢の悪化、米国の外交政策の変動が複合的に影響し、地政学リスクは高水準。エネルギー・食糧安全保障への懸念も深刻化。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "low",
-      "south_asia": "low",
+      "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
-      "africa": "low",
+      "europe": "high",
+      "africa": "none",
       "north_america": "medium",
-      "south_america": "low"
+      "south_america": "none"
     },
-    "generated_at": "2026-05-02T10:00:49.734071"
+    "generated_at": "2026-05-02T13:21:13.906050"
   },
   {
     "date": "2026-05-01",

@@ -1,19 +1,18 @@
 {
   "date": "2026-05-02",
-  "summary": "中東情勢の緊迫化が継続。イラン戦争は64日目に入り、停戦協議は難航。米軍施設への攻撃、イスラエルとヒズボラの戦闘激化、ホルムズ海峡の閉鎖危機など、地政学的リスクが極めて高い状況。世界的な食料・燃料価格の高騰も懸念される。",
-  "overall_risk_level": "critical",
+  "summary": "中東におけるイラン戦争の激化、ウクライナ情勢の悪化、米国の外交政策の変動が複合的に影響し、地政学リスクは高水準。エネルギー・食糧安全保障への懸念も深刻化。",
+  "overall_risk_level": "high",
   "articles": [
     {
-      "title": "中東の米軍施設 半数超がイランの攻撃で損傷か 米報道",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "イランとその同盟勢力による攻撃で、中東8か国のアメリカ軍施設16か所以上が被害を受け、一部は使用不能になっていると報道。",
-      "analysis": "アメリカ軍施設への大規模な攻撃は、アメリカとイランの間の緊張を著しく高める。報復攻撃のリスクが高まり、地域全体が不安定化する可能性が高い。アメリカ軍のプレゼンス低下は、地域におけるパワーバランスを変化させ、他国の介入を招く恐れもある。",
+      "title": "ゼレンスキー大統領“ロシア軍が大量無人機攻撃”防空支援訴え",
+      "region": "europe",
+      "risk_level": "high",
+      "summary": "ウクライナのゼレンスキー大統領が、ロシアによる大規模な無人機攻撃を明らかにし、国際社会への防空支援と対ロシア圧力強化を訴えた。",
+      "analysis": "ロシアによるウクライナへの無人機攻撃の激化は、紛争の長期化とエスカレーションを示唆する。ウクライナの防空能力の限界が露呈し、市民への被害拡大、インフラ破壊のリスクが高まっている。国際社会の支援がなければ、ウクライナの防衛はさらに困難になる可能性があり、ヨーロッパ全体の安全保障にも影響を及ぼす。",
       "key_entities": [
-        "アメリカ",
-        "イラン",
-        "CNN",
-        "湾岸諸国"
+        "ウクライナ",
+        "ロシア",
+        "ゼレンスキー大統領"
       ],
       "sources": [
         "NHK World"
@@ -23,11 +22,86 @@
       ]
     },
     {
+      "title": "中東の米軍施設 半数超がイランの攻撃で損傷か 米報道",
+      "region": "middle_east",
+      "risk_level": "critical",
+      "summary": "CNN報道によると、イランとその同盟勢力による攻撃で、中東8か国のアメリカ軍施設が多数損傷し、一部は使用不能になっている。",
+      "analysis": "中東における米軍施設の広範囲な損傷は、イラン戦争の激化と、アメリカのプレゼンスに対する深刻な脅威を示している。アメリカの軍事能力が低下し、地域における影響力維持が困難になる可能性がある。イランとアメリカの直接的な衝突のリスクが極めて高く、地域全体の不安定化を招く恐れがある。",
+      "key_entities": [
+        "アメリカ",
+        "イラン",
+        "CNN"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "駐ドイツのアメリカ軍のうち5000人撤退へ 米国防総省",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "アメリカ国防総省が、ドイツ駐留米軍約5000人を撤退させると発表。トランプ大統領のドイツへの不満が背景にある。",
+      "analysis": "米軍のドイツからの撤退は、NATOの結束を弱め、ヨーロッパの安全保障体制に影響を与える可能性がある。アメリカの同盟国との関係悪化は、国際的な協力体制を損ない、地政学的なパワーバランスを変化させる要因となる。特に、ロシアの脅威が増大する中で、ヨーロッパの防衛能力強化が急務となる。",
+      "key_entities": [
+        "アメリカ",
+        "ドイツ",
+        "トランプ大統領",
+        "NATO"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Israeli air strikes kill 10 people in southern Lebanon",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "イスラエル軍の空爆により、レバノン南部で10人が死亡。ヒズボラの攻撃が継続される中、4月17日以降の停戦は崩壊。",
+      "analysis": "イスラエルとヒズボラの戦闘激化は、レバノン国内の不安定化を招き、地域紛争のリスクを高めている。国際社会の停戦努力が奏功せず、紛争が長期化する可能性が高い。人道危機が深刻化し、周辺国への影響も懸念される。",
+      "key_entities": [
+        "イスラエル",
+        "レバノン",
+        "ヒズボラ"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "中国が、イスラエルとヒズボラの戦闘激化を受け、UNIFIL（レバノン暫定国連平和維持軍）のレバノンからの撤退中止を要請。",
+      "analysis": "UNIFILの撤退は、レバノンにおける国際的な監視体制の弱体化を意味し、紛争のエスカレーションを招く可能性がある。中国の介入は、中東における影響力拡大の試みと見られる。国際社会の平和維持活動の限界が露呈し、紛争解決の難しさを示唆している。",
+      "key_entities": [
+        "中国",
+        "レバノン",
+        "イスラエル",
+        "ヒズボラ",
+        "UNIFIL"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
       "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "イラン戦争は64日目。トランプ大統領はイランの最新の和平提案を拒否。軍事衝突再開の可能性も示唆されている。",
-      "analysis": "和平交渉の決裂は、軍事衝突の長期化を意味し、中東地域の不安定化を招く。ホルムズ海峡の封鎖や、石油供給の混乱など、世界経済への影響も深刻化する可能性がある。アメリカとイランの強硬姿勢が、事態の収束をさらに困難にしている。",
+      "summary": "イラン戦争64日目。トランプ大統領がイランの和平提案を拒否し、事態打開の見通しは立たず。",
+      "analysis": "トランプ大統領によるイランの和平提案拒否は、紛争の長期化を決定づける可能性が高い。双方の溝は深く、外交的な解決は困難な状況。軍事的な緊張が高まり、地域全体が不安定化するリスクが極めて高い。",
       "key_entities": [
         "アメリカ",
         "イラン",
@@ -41,35 +115,14 @@
       ]
     },
     {
-      "title": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
-      "region": "east_asia",
-      "risk_level": "high",
-      "summary": "中国の国連大使は、ホルムズ海峡の閉鎖阻止が、トランプ大統領と習近平国家主席の会談の最優先事項になると発言。",
-      "analysis": "ホルムズ海峡の閉鎖は、世界のエネルギー供給に壊滅的な影響を与える。中国がこの問題を最優先事項として扱うことは、事態の深刻さを示唆している。米中間の協力が、事態打開の鍵となる可能性があるが、両国間の対立も依然として存在するため、予断を許さない状況。",
-      "key_entities": [
-        "中国",
-        "アメリカ",
-        "習近平国家主席",
-        "トランプ大統領"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "US to withdraw 5,000 troops from Germany over Iran war spat",
+      "title": "US embassy warns citizens in UK as threat level raised to ‘severe’",
       "region": "europe",
       "risk_level": "medium",
-      "summary": "トランプ大統領は、イラン戦争に対するヨーロッパ諸国の支援不足を理由に、ドイツから5000人の米軍を撤退させると発表。",
-      "analysis": "米軍の撤退は、ヨーロッパにおけるアメリカの影響力低下を示唆し、NATOの結束を弱める可能性がある。ヨーロッパ諸国は、独自の安全保障政策を強化する必要に迫られる。米欧間の亀裂は、国際的な協力体制に悪影響を及ぼす可能性がある。",
+      "summary": "在英米国大使館が、英国のテロ警戒レベル引き上げを受け、自国民に注意喚起。学校、教会、観光地を避け、移動経路を頻繁に変更するよう指示。",
+      "analysis": "英国におけるテロ警戒レベルの引き上げは、国内の安全保障状況が悪化していることを示唆する。ユダヤ系住民を標的とした事件の増加が背景にある。社会の分断が進み、過激主義が台頭するリスクが高まっている。",
       "key_entities": [
         "アメリカ",
-        "ドイツ",
-        "トランプ大統領",
-        "NATO"
+        "イギリス"
       ],
       "sources": [
         "Al Jazeera"
@@ -79,18 +132,18 @@
       ]
     },
     {
-      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イスラエル軍の攻撃により、レバノン南部で13人が死亡。停戦合意にもかかわらず、イスラエルとヒズボラの戦闘が継続。",
-      "analysis": "イスラエルとヒズボラの戦闘激化は、レバノン国内の不安定化を招き、周辺地域への波及も懸念される。停戦合意が機能していないことは、事態の長期化を示唆している。国際社会による仲介努力が不可欠。",
+      "title": "高市首相 ベトナムに到着 あす会談 大学で外交演説へ",
+      "region": "southeast_asia",
+      "risk_level": "low",
+      "summary": "高市総理大臣がベトナムに到着。レ・ミン・フン首相との会談や大学での演説を通じて、「自由で開かれたインド太平洋」構想を推進する。",
+      "analysis": "高市首相のベトナム訪問は、日本が東南アジア地域との関係強化を目指す姿勢を示すもの。エネルギーやサプライチェーンの強靭化に向けた協力が期待される。中国の海洋進出に対抗し、地域の安定化に貢献する狙いがある。",
       "key_entities": [
-        "イスラエル",
-        "ヒズボラ",
-        "レバノン"
+        "日本",
+        "ベトナム",
+        "高市総理大臣"
       ],
       "sources": [
-        "BBC"
+        "NHK World"
       ],
       "source_types": [
         "media"
@@ -100,8 +153,8 @@
       "title": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
       "region": "north_america",
       "risk_level": "medium",
-      "summary": "燃料価格の高騰により、アメリカの格安航空会社Spirit Airlinesが経営破綻し、全便をキャンセル。",
-      "analysis": "燃料価格の高騰は、航空業界だけでなく、世界経済全体に影響を与える。サプライチェーンの混乱や、インフレの加速など、様々なリスクが考えられる。イラン戦争の長期化が、燃料価格高騰の主要因となっている。",
+      "summary": "米格安航空会社Spirit Airlinesが燃料価格高騰により経営破綻、全便をキャンセルし事業縮小を開始。数千人の雇用が失われる見込み。",
+      "analysis": "Spirit Airlinesの経営破綻は、イラン戦争による燃料価格高騰が経済に与える影響を示す一例。航空業界だけでなく、サプライチェーン全体に影響が及ぶ可能性がある。インフレが進み、景気後退のリスクが高まる。",
       "key_entities": [
         "Spirit Airlines",
         "アメリカ"
@@ -114,73 +167,18 @@
       ]
     },
     {
-      "title": "UK’s Starmer eyes banning some pro-Palestine protests",
-      "region": "europe",
-      "risk_level": "low",
-      "summary": "イギリスのスターマー首相は、「グローバル化されたインティファーダ」というフレーズを含む、一部の親パレスチナ抗議活動の禁止を検討。",
-      "analysis": "表現の自由と安全保障のバランスが問われる問題。抗議活動の禁止は、社会の分断を深める可能性もある。中東情勢の悪化が、ヨーロッパ国内の社会不安を増幅させている。",
-      "key_entities": [
-        "イギリス",
-        "スターマー首相",
-        "パレスチナ"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "中国で“スパイ容疑”拘束 北海道教育大学の元教授釈放",
-      "region": "east_asia",
-      "risk_level": "low",
-      "summary": "中国でスパイ容疑で拘束されていた北海道教育大学の元教授が釈放された。",
-      "analysis": "日中関係にわずかながら改善の兆しが見える。しかし、依然として両国間には不信感が存在し、今後の関係改善には時間がかかる可能性がある。",
-      "key_entities": [
-        "中国",
-        "日本"
-      ],
-      "sources": [
-        "NHK World"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+      "title": "It's not just oil: Iran war also threatens Asia's food security",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イラン戦争による肥料不足が、作物の収穫量を減らし、食料価格を高騰させる可能性があると肥料会社YaraのCEOが警告。",
-      "analysis": "食料安全保障への深刻な脅威。特にアジア地域では、肥料供給の制限が作付けシーズンに影響を与えている。食料価格の高騰は、貧困層への打撃が大きく、社会不安を招く可能性もある。",
+      "summary": "イラン戦争は石油だけでなく、アジアの食糧安全保障も脅かしている。ホルムズ海峡の封鎖と中国の制限により、肥料の供給が滞っている。",
+      "analysis": "ホルムズ海峡の封鎖と肥料供給の滞りは、アジアの食糧生産に深刻な影響を与える。作付け時期に間に合わず、収穫量が減少する可能性がある。食糧価格の高騰は、貧困層を中心に社会不安を招く恐れがある。",
       "key_entities": [
         "イラン",
-        "Yara",
-        "アジア"
+        "アジア",
+        "中国"
       ],
       "sources": [
-        "BBC"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "トランプ大統領 イタリアとスペインの駐留米軍削減検討も",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "トランプ大統領は、ドイツに続き、イタリアやスペインに駐留するアメリカ軍の部隊についても削減を検討する可能性に言及。",
-      "analysis": "ヨーロッパにおけるアメリカの影響力低下を示唆し、NATOの結束を弱める可能性がある。ヨーロッパ諸国は、独自の安全保障政策を強化する必要に迫られる。米欧間の亀裂は、国際的な協力体制に悪影響を及ぼす可能性がある。",
-      "key_entities": [
-        "アメリカ",
-        "イタリア",
-        "スペイン",
-        "トランプ大統領",
-        "NATO"
-      ],
-      "sources": [
-        "NHK World"
+        "BBC - World"
       ],
       "source_types": [
         "media"
@@ -188,17 +186,17 @@
     }
   ],
   "region_risk_map": {
-    "east_asia": "high",
+    "east_asia": "medium",
     "southeast_asia": "low",
-    "south_asia": "low",
+    "south_asia": "none",
     "central_asia": "none",
     "middle_east": "critical",
-    "europe": "medium",
-    "africa": "low",
+    "europe": "high",
+    "africa": "none",
     "north_america": "medium",
-    "south_america": "low"
+    "south_america": "none"
   },
-  "generated_at": "2026-05-02T10:00:49.734071",
+  "generated_at": "2026-05-02T13:21:13.906050",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
