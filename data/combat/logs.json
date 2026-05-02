@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-02",
-    "summary": "今週は、米軍のドイツからの部隊削減計画、ウクライナ停戦協議、イラン戦争のコストなどが焦点。フィリピンでは米軍とフィリピン軍の合同演習が行われた。ロシアはアルジェリアを拠点に秘密裏の活動を行っている疑い。",
+    "summary": "米軍のドイツからの兵力削減、ガザミッション閉鎖、フィリピンでの演習、イラン地雷対策AI導入など、世界各地で軍事関連の動き。ウクライナでは軍の交代に関する問題が発生。イラン戦争のコストは250億ドルに達する。",
     "events": [
       {
         "id": "EVT001",
@@ -214,12 +214,76 @@
         "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
       },
       {
+        "id": "event-10",
+        "timestamp": "2026-04-29",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "イラン戦争のコストはこれまでに250億ドル",
+        "content": "米国防総省当局者によると、イラン戦争のコストはこれまでに250億ドルに達した。大部分は軍需品に費やされている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/"
+      },
+      {
+        "id": "event-11",
+        "timestamp": "2026-04-29",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米海兵隊、フィリピンでのシミュレーションで海岸侵入者を撃退",
+        "content": "米海兵隊がフィリピンでのシミュレーション演習に参加。海岸に侵入してきた敵を銃撃で撃退し、ドローンによる攻撃も実施。",
+        "involved_parties": [
+          "アメリカ海兵隊",
+          "フィリピン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
+      },
+      {
+        "id": "event-12",
+        "timestamp": "2026-04-29",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "トランプ大統領、プーチン大統領とウクライナの停戦について協議",
+        "content": "トランプ大統領が、プーチン大統領との電話会談で、ウクライナ戦争における「少しの停戦」を提案したと発言。",
+        "involved_parties": [
+          "アメリカ",
+          "ロシア",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/"
+      },
+      {
         "id": "event-014",
         "timestamp": "2026-04-28",
         "location": "インド",
         "region": "east_asia",
         "title": "インド、通常型および核潜水艦の戦闘力を強化",
         "content": "インドが3隻目のSSBNを就役させ、継続的な海上核反撃能力の展開を可能にする。",
+        "involved_parties": [
+          "インド"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/28/india-races-to-boost-conventional-nuclear-submarine-combat-punch/"
+      },
+      {
+        "id": "event-13",
+        "timestamp": "2026-04-28",
+        "location": "インド",
+        "region": "east_asia",
+        "title": "インド、通常型・核ミサイル搭載潜水艦の戦闘能力向上を加速",
+        "content": "3隻目のSSBN（戦略ミサイル原子力潜水艦）が就役。これにより、継続的な海上核反撃部隊の配備が可能になる。",
         "involved_parties": [
           "インド"
         ],
