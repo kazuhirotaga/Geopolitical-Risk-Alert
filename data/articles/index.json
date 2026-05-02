@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-02",
+    "summary": "中東情勢の緊迫化が世界経済に深刻な影響を与え、ウクライナ情勢も依然として不安定。米中間の緊張も継続し、地政学リスクは全体的に高い水準にある。核拡散への懸念も再燃。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "high",
+      "southeast_asia": "medium",
+      "south_asia": "none",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "high",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-05-02T03:20:12.032393"
+  },
+  {
     "date": "2026-05-01",
     "summary": "中東情勢の緊迫化が継続。イランを巡る米国の軍事行動の可能性、イスラエル・レバノンの衝突、ガザ支援船団の阻止など、地域全体のリスクが高まっている。ウクライナ情勢も依然として不安定。高市首相のベトナム訪問はインド太平洋地域における日本の存在感を示す。",
     "overall_risk_level": "high",

@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-01T21:56:24.874103",
+  "generated_at": "2026-05-02T03:20:15.951098",
   "indices": [
     {
       "symbol": "^N225",
       "label": "日経平均株価",
-      "current_price": 59284.921875,
-      "price_formatted": "59,284.92",
-      "change": -632.5390625,
-      "change_formatted": "-632.54",
-      "change_percent": -1.0556840236601523,
-      "change_percent_formatted": "-1.06%",
-      "trend": "down",
-      "date": "2026-04-30"
+      "current_price": 59513.12109375,
+      "price_formatted": "59,513.12",
+      "change": 228.19921875,
+      "change_formatted": "+228.20",
+      "change_percent": 0.3849194896995047,
+      "change_percent_formatted": "+0.38%",
+      "trend": "up",
+      "date": "2026-05-01"
     },
     {
       "symbol": "^DJI",
@@ -76,14 +76,14 @@
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 78161.890625,
-      "price_formatted": "78,162",
-      "change": 1857.5703125,
-      "change_formatted": "+1,858",
-      "change_percent": 2.43442350956332,
-      "change_percent_formatted": "+2.43%",
+      "current_price": 78292.8828125,
+      "price_formatted": "78,293",
+      "change": 1988.5625,
+      "change_formatted": "+1,989",
+      "change_percent": 2.6060942445407487,
+      "change_percent_formatted": "+2.61%",
       "trend": "up",
-      "date": "2026-05-01"
+      "date": "2026-05-02"
     },
     {
       "symbol": "GC=F",

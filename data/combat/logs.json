@@ -1,5 +1,156 @@
 [
   {
+    "date": "2026-05-02",
+    "summary": "今週は、米国がドイツからの5000人の部隊撤退を計画、ウクライナ軍の部隊ローテーション問題、イラン戦争のコスト増大などが報道された。フィリピンでは米海兵隊が防衛シミュレーションに参加。露の影の航空会社がアルジェリアを拠点に利用。",
+    "events": [
+      {
+        "id": "EVT001",
+        "timestamp": "2026-05-01",
+        "location": "ドイツ",
+        "region": "europe",
+        "title": "米軍、ドイツから5000人の部隊撤退を計画",
+        "content": "米国がドイツ駐留の兵力約35,000人のうち、5000人を撤退させる計画を発表。背景には、トランプ大統領とヨーロッパ諸国とのイラン戦争を巡る意見の相違があるとされる。",
+        "involved_parties": [
+          "アメリカ軍",
+          "ドイツ"
+        ],
+        "event_type": "retreat",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/01/us-withdrawing-5000-troops-from-germany-us-officials-say/"
+      },
+      {
+        "id": "EVT002",
+        "timestamp": "2026-05-01",
+        "location": "ガザ",
+        "region": "middle_east",
+        "title": "米国、ガザにおける主要ミッションを閉鎖へ",
+        "content": "イスラエルとハマスの停戦監視とガザへの援助を担当していた米軍主導の機関が閉鎖される予定。トランプ政権の計画が停滞していることが理由。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イスラエル",
+          "ハマス"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/05/01/us-to-close-its-flagship-gaza-mission-as-trump-plan-stalls/"
+      },
+      {
+        "id": "EVT003",
+        "timestamp": "2026-05-01",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米陸軍、「バリカタン」演習で新型ドローン、3Dプリンターをテスト",
+        "content": "米陸軍がフィリピンでの「バリカタン」演習で、新型ドローンや3Dプリンターのテストを実施。ディーゼル発電機の代替として、コンテナ化されたソーラーパネルマイクログリッドもテスト。",
+        "involved_parties": [
+          "アメリカ軍",
+          "フィリピン軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/01/us-army-tests-fresh-drones-3d-printers-at-balikatan-drill-in-the-philippines/"
+      },
+      {
+        "id": "EVT004",
+        "timestamp": "2026-05-01",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "米海軍、イランの機雷対策でAI企業Dominoと提携",
+        "content": "米海軍は、イランの機雷に対する対策オプションを検討するため、AI企業Dominoと提携。迅速な対応を目指す。",
+        "involved_parties": [
+          "アメリカ海軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/naval/2026/05/01/us-navy-turns-to-ai-firm-domino-for-options-to-counter-iranian-mines/"
+      },
+      {
+        "id": "EVT005",
+        "timestamp": "2026-04-30",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ軍、兵士の交代問題で騒動",
+        "content": "ウクライナ軍の兵士の交代問題が表面化し、一部部隊では兵士が雨水を飲む事態も発生。ウクライナ軍総司令官が部隊ローテーションの変更を実施。",
+        "involved_parties": [
+          "ウクライナ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/30/ukraines-army-chief-shakes-up-troop-rotations-after-outcry/"
+      },
+      {
+        "id": "EVT006",
+        "timestamp": "2026-04-29",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "トランプ大統領、プーチン大統領とウクライナの停戦について協議",
+        "content": "トランプ大統領は、プーチン大統領との電話会談で、ウクライナ戦争における「小規模な停戦」を提案したことを明らかにした。",
+        "involved_parties": [
+          "アメリカ",
+          "ロシア",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/"
+      },
+      {
+        "id": "EVT007",
+        "timestamp": "2026-04-29",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "イラン戦争、これまでの費用は250億ドル",
+        "content": "ペンタゴン当局者は、イラン戦争の費用がこれまでに250億ドルに達したと発表。その大部分は軍需品に費やされている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/"
+      },
+      {
+        "id": "EVT008",
+        "timestamp": "2026-04-29",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米海兵隊、フィリピンでの防衛シミュレーションに参加",
+        "content": "米海兵隊がフィリピンでの防衛シミュレーションに参加し、海岸に侵入してきた敵を銃撃。撤退する敵に対し、爆発物を搭載した一人称視点ドローンによる攻撃を実施。",
+        "involved_parties": [
+          "アメリカ海兵隊",
+          "フィリピン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
+      },
+      {
+        "id": "EVT009",
+        "timestamp": "2026-04-30",
+        "location": "アルジェリア",
+        "region": "africa",
+        "title": "ロシアの影の航空会社がアルジェリアを拠点に利用",
+        "content": "ロシアの影の航空会社が、秘密裏なミッションのためにアルジェリアを拠点として利用。アルジェリアは、ロシアのウクライナ侵攻後の軍事輸出ビジネスの落ち込みの中で、ロシアの武器の重要な顧客となっている。",
+        "involved_parties": [
+          "ロシア",
+          "アルジェリア"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/30/investigation-russian-shadow-airlines-use-algeria-as-base-for-secretive-missions/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-01",
     "summary": "米軍はガザでの任務を閉鎖。フィリピンで米軍がドローンや3Dプリンターのテストを実施。米海軍はイランの機雷対策でAI企業と提携。ウクライナ軍は兵士の交代を調整。米軍はフィリピンでの防衛シミュレーションでビーチ侵略者を撃退。",
     "events": [
@@ -4079,232 +4230,6 @@
         "urgency": "low",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-01",
-    "summary": "アメリカとイランの緊張激化。アメリカ軍はイランに対してトマホークミサイルを大量使用。イランはアメリカ軍基地のインフラを攻撃。ウクライナでは攻撃頻度が増加するも防空能力が向上。レバノンではイスラエルとヒズボラの戦闘が激化。",
-    "events": [
-      {
-        "id": "event-001",
-        "timestamp": "2026-03-31",
-        "location": "シチリア島",
-        "region": "europe",
-        "title": "イタリア、中東へ向かう米軍機のシチリア寄港を拒否",
-        "content": "イタリア政府は、イランに対する米イスラエルの戦争へのシゴネラ空軍基地の使用は合意の範囲外であるとして、中東へ向かう米軍機のシチリア島への寄港を拒否した。",
-        "involved_parties": [
-          "イタリア政府",
-          "アメリカ軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/"
-      },
-      {
-        "id": "event-002",
-        "timestamp": "2026-03-30",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "米国、イランへの地上作戦の可能性を検討",
-        "content": "軍事アナリストは、イランにおける地上作戦の可能性として、沿岸襲撃や核施設への急襲など、いくつかのシナリオを指摘。国防総省は数週間にわたる地上作戦に備えていると報じられている。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/30/limited-missions-big-risks-what-a-us-ground-fight-in-iran-could-become/"
-      },
-      {
-        "id": "event-003",
-        "timestamp": "2026-03-30",
-        "location": "不明",
-        "region": "middle_east",
-        "title": "ホワイトハウス、アラブ諸国にイラン戦争の費用負担を要請する可能性",
-        "content": "ホワイトハウス報道官は、トランプ大統領がアラブ諸国にイラン戦争の費用負担を要請することに関心を示していると述べた。",
-        "involved_parties": [
-          "アメリカ政府",
-          "アラブ諸国"
-        ],
-        "event_type": "other",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/30/trump-interested-in-calling-on-arab-states-to-help-pay-for-iran-war-white-house-says/"
-      },
-      {
-        "id": "event-004",
-        "timestamp": "2026-03-30",
-        "location": "不明",
-        "region": "europe",
-        "title": "ミサイル搭載エアバス迎撃機が攻撃ドローンを迎撃テスト",
-        "content": "エアバスが開発したミサイル搭載迎撃機が、一方向攻撃ドローンを対象とした迎撃テストを実施。メーカーは、ドローンとミサイルの組み合わせにより、大規模な迎撃が経済的に実行可能になると主張。",
-        "involved_parties": [
-          "エアバス"
-        ],
-        "event_type": "other",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/30/missile-wielding-airbus-interceptor-engages-one-way-attack-drone-in-test/"
-      },
-      {
-        "id": "event-005",
-        "timestamp": "2026-03-30",
-        "location": "不明",
-        "region": "europe",
-        "title": "ウクライナ、イラン戦争をドローン輸出の機会と捉える",
-        "content": "ウクライナは自国での戦争経験から、ドローン迎撃技術の先駆者となっている。イラン戦争を機に、ドローン技術の輸出を視野に入れている。",
-        "involved_parties": [
-          "ウクライナ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/industry/techwatch/2026/03/30/ukraines-drone-masters-eye-iran-war-to-kickstart-export-ambitions/"
-      },
-      {
-        "id": "event-006",
-        "timestamp": "2026-03-30",
-        "location": "不明",
-        "region": "east_asia",
-        "title": "日本のイージス艦がトマホークミサイル発射能力を獲得",
-        "content": "日本のイージス艦がトマホークミサイルの発射能力を獲得。中東での軍事作戦が長期化した場合、日本のミサイル調達に影響が出る可能性がある。",
-        "involved_parties": [
-          "日本"
-        ],
-        "event_type": "other",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/03/30/japanese-destroyer-can-now-fire-tomahawk-missiles-extending-nations-combat-punch/"
-      },
-      {
-        "id": "event-007",
-        "timestamp": "2026-03-29",
-        "location": "中東",
-        "region": "middle_east",
-        "title": "米国防総省、イランでの地上作戦に備え準備",
-        "content": "米軍のトリポリ強襲即応グループと第31海兵遠征部隊が中東地域に展開を続けている。数週間にわたるイランでの地上作戦に備え、準備を進めている。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/29/pentagon-reportedly-preparing-for-weeks-of-ground-operations-in-iran/"
-      },
-      {
-        "id": "event-008",
-        "timestamp": "2026-03-28",
-        "location": "中東",
-        "region": "middle_east",
-        "title": "米海軍強襲揚陸艦トリポリ、第31海兵遠征部隊とともに中東に到着",
-        "content": "トリポリ強襲即応グループと第31海兵遠征部隊が、米中央軍管轄海域に到着。",
-        "involved_parties": [
-          "アメリカ軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/28/uss-tripoli-embarked-31st-marine-expeditionary-unit-arrive-in-middle-east/"
-      },
-      {
-        "id": "event-009",
-        "timestamp": "2026-03-27",
-        "location": "レバノン",
-        "region": "middle_east",
-        "title": "レバノンで戦闘地域が拡大、イスラエルとヒズボラの攻撃が激化",
-        "content": "イスラエルとヒズボラの攻撃が激化し、レバノンでの戦闘地域が拡大。ヒズボラの戦闘員は、防御線を維持するのではなく、攻撃を仕掛け、地形に紛れて姿を消している。",
-        "involved_parties": [
-          "イスラエル",
-          "ヒズボラ"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/"
-      },
-      {
-        "id": "event-010",
-        "timestamp": "2026-03-27",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "米国、数百発のトマホークミサイルをイランに使用",
-        "content": "米国がイランに対して数百発のトマホークミサイルを使用。国防総省の一部関係者は、精密兵器の消費ペースに懸念を示している。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "bombing",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/27/us-uses-hundreds-of-tomahawk-missiles-on-iran-alarming-some-at-pentagon/"
-      },
-      {
-        "id": "event-011",
-        "timestamp": "2026-03-27",
-        "location": "バルト三国",
-        "region": "europe",
-        "title": "ウクライナのドローンがバルト三国全域に侵入",
-        "content": "ウクライナのドローンがバルト三国全域に侵入。ロシアがドローンを意図的にリダイレクトしているのか、電子戦防衛と飛行距離の副産物なのかは不明。",
-        "involved_parties": [
-          "ウクライナ",
-          "ロシア",
-          "バルト三国"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/"
-      },
-      {
-        "id": "event-012",
-        "timestamp": "2026-03-26",
-        "location": "不明",
-        "region": "middle_east",
-        "title": "米国、イランとの紛争に無人ドローンボートを投入",
-        "content": "米国がイランとの紛争において、無人ドローンボートを投入。米国が実際の紛争でこのような兵器を使用したことを確認したのは初めて。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/03/26/us-deploys-uncrewed-drone-boats-in-conflict-with-iran/"
-      },
-      {
-        "id": "event-013",
-        "timestamp": "2026-03-26",
-        "location": "不明",
-        "region": "middle_east",
-        "title": "米国防総省、ウクライナへの軍事支援を中東に転用することを検討",
-        "content": "米国防総省は、ウクライナへの軍事支援を中東に転用することを検討。転用される可能性のある兵器には、NATOのイニシアチブを通じて購入された防空迎撃ミサイルが含まれる。",
-        "involved_parties": [
-          "アメリカ軍",
-          "ウクライナ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/03/26/pentagon-reportedly-weighs-diverting-ukraine-military-aid-to-middle-east/"
-      },
-      {
-        "id": "event-13",
-        "timestamp": "2026-03-26",
-        "location": "不明",
-        "region": "europe",
-        "title": "MBDA、2026年にアスター対空ミサイルの生産量を倍増",
-        "content": "同社のアスターミサイルファミリーは、アメリカのパトリオットシステムに対する唯一のヨーロッパの代替手段であるSAMP/T対空防衛システムで使用されている。",
-        "involved_parties": [
-          "MBDA"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/26/mbda-to-double-aster-air-defense-missile-output-in-2026/"
       }
     ]
   }

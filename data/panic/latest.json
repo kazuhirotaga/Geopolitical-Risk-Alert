@@ -1,136 +1,143 @@
 {
-  "date": "2026-05-01",
-  "summary": "世界各地でパニックや社会不安が散見される状況です。特にオーストラリアでは、地域住民の不満から生じた暴動が深刻化し、さらに燃料危機が重なり交通網にも影響が出ています。中東では地政学的緊張がエネルギー供給への懸念を高めています。インドとアフリカの一部地域でも、労働争議や公共サービスへの不満、地域の治安問題に起因する抗議活動や騒乱が確認され、不安定な状態が続いています。北米や韓国では、現状では社会全体を巻き込むパニックには至っていませんが、政治的な抗議や労働不安といった潜在的なリスク要因が存在します。",
-  "global_panic_index": 50,
+  "date": "2026-05-02",
+  "summary": "世界各地で食料・水不足の兆候、地域紛争に起因する暴動、労働不安、治安悪化など、多様な社会不安が散見されます。特にオーストラリアでは民族間の緊張が高まり暴動が発生し、当局が介入する事態に。インドや韓国でも労働や社会正義を求める抗議活動が活発化しており、経済活動や公共サービスへの影響が懸念されます。全体としては「不安の増大」フェーズにあり、地域によっては警戒が必要です。",
+  "global_panic_index": 49,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 28,
-      "status": "normal",
-      "main_cause": "政治的不満、企業倫理への抗議",
+      "panic_index": 38,
+      "status": "unstable",
+      "main_cause": "食料・水不足の懸念、治安悪化",
       "incidents": [
         {
-          "title": "銀行への抗議デモ",
-          "location": "New Jersey, USA",
-          "severity": 30,
-          "description": "Citizens BankがICE拘留センター関連企業に融資していることに対し、ニュージャージー州で抗議デモが実施されました。企業の倫理的責任に対する市民の不満が表明されています。",
-          "source": "News12 | New Jersey"
+          "title": "食料銀行の在庫不足と需要増加",
+          "location": "米国 ハイプレーンズ",
+          "severity": 45,
+          "description": "地域で最も大きな食料銀行の一つであるハイプレーンズ食料銀行で、寄付の減少と需要の増加により棚が空になる事態が発生。食料供給への不安が高まっています。",
+          "source": "KVII"
         },
         {
-          "title": "反トランプ抗議デモ",
-          "location": "Middletown, USA",
-          "severity": 25,
-          "description": "ミドルタウンの幹線道路で、反トランプの毎週恒例の抗議デモが行われました。これは継続的な政治的不満の表明であり、社会秩序を直接脅かすパニックではありません。",
+          "title": "シャーロットでの水不足と教師の抗議",
+          "location": "米国 シャーロット",
+          "severity": 50,
+          "description": "シャーロット地域で水不足が報告され、住民の生活不安を増大させています。また、教師による抗議活動も行われており、社会的な不満が顕在化しています。",
+          "source": "wbt.com"
+        },
+        {
+          "title": "ケンタッキー州での銀行強盗と死者",
+          "location": "米国 ケンタッキー州",
+          "severity": 30,
+          "description": "ケンタッキー州で銀行強盗が発生し、銀行職員2名が死亡、容疑者が逃走中。地域住民の治安に対する不安が高まっています。",
+          "source": "United News of Bangladesh"
+        },
+        {
+          "title": "反トランプ抗議デモの継続",
+          "location": "米国 ミドルタウン",
+          "severity": 35,
+          "description": "ミドルタウンで毎週恒例の反トランプ抗議デモが引き続き行われています。政治的分裂が継続しており、社会の緊張状態が続いています。",
           "source": "Patch"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "エネルギー供給不安、地政学的緊張",
+      "region": "southeast_asia",
+      "panic_index": 69,
+      "status": "volatile",
+      "main_cause": "民族間の対立に起因する暴動、大規模デモの計画",
       "incidents": [
         {
-          "title": "ホルムズ海峡の緊張による経済的脅威",
-          "location": "Strait of Hormuz",
-          "severity": 40,
-          "description": "ホルムズ海峡の緊張が高級自動車産業に影響を与える可能性が報じられ、潜在的なエネルギー供給への懸念が高まっています。国際的な地政学的リスクが経済不安を引き起こしている状況です。",
-          "source": "CNBC"
+          "title": "アリススプリングスでの暴動発生と鎮静化の呼びかけ",
+          "location": "オーストラリア アリススプリングス",
+          "severity": 75,
+          "description": "先住民の少女の殺害容疑を巡り、アリススプリングスで大規模な暴動が発生。逮捕者が出て酒類販売禁止令が敷かれるなど、当局が事態の鎮静化を呼びかけています。",
+          "source": "MSN 他"
         },
         {
-          "title": "イラン紛争による原油危機懸念",
-          "location": "Iran",
-          "severity": 50,
-          "description": "イラン紛争による原油危機が懸念されており、世界的なエネルギー市場に深刻な影響を及ぼす可能性があります。これは燃料価格の高騰や供給不足を引き起こす恐れがあります。",
-          "source": "Business Insider"
+          "title": "アリススプリングスの社会不安とコミュニティの緊張",
+          "location": "オーストラリア アリススプリングス",
+          "severity": 65,
+          "description": "アリススプリングスでは悲劇的な事件がコミュニティ全体の緊張を引き起こし、警察が暴動容疑者を告発するなど、社会秩序が不安定な状態にあります。",
+          "source": "The Guardian 他"
+        },
+        {
+          "title": "ジャカルタでのメーデー騒乱計画",
+          "location": "インドネシア ジャカルタ",
+          "severity": 55,
+          "description": "ジャカルタ警察が32の市民団体がメーデーに騒乱を計画していると告発。潜在的な大規模デモや衝突の発生が懸念されており、警戒態勢が敷かれています。",
+          "source": "Tempo.co English"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 53,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "地域社会の緊張、行方不明事件への不満",
+      "main_cause": "治安悪化、住民の不満",
       "incidents": [
         {
-          "title": "店主行方不明事件に関する住民抗議",
-          "location": "Vosloorus, South Africa",
+          "title": "店舗店主失踪に対する住民の抗議",
+          "location": "南アフリカ ボスルーラス",
           "severity": 45,
-          "description": "スパザショップの店主が行方不明になったことを受け、南アフリカのVosloorus住民が抗議デモを行いました。地域社会の治安と住民の不安が顕在化した事象です。",
+          "description": "ボスルーラスの住民がスパザショップ店主の失踪に抗議デモを行っています。治安への懸念と地域住民の不満が表面化しており、緊張が高まっています。",
           "source": "SABC News"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "地政学的緊張、長期的な占領問題",
+      "incidents": [
+        {
+          "title": "ホルムズ海峡の緊張によるエネルギー供給脅威",
+          "location": "ホルムズ海峡",
+          "severity": 40,
+          "description": "ホルムズ海峡での対立が自動車産業の巨人たちを脅かしており、国際的なエネルギー供給への懸念が高まっています。潜在的な経済不安と市場の変動が懸念されます。",
+          "source": "CNBC"
         },
         {
-          "title": "ソウェトでの騒乱と道路閉鎖",
-          "location": "Soweto, South Africa",
-          "severity": 60,
-          "description": "南アフリカのソウェトで騒乱が発生し、ディープクルーフ・インターチェンジで道路閉鎖が実施されました。地域住民の不満が衝突に発展し、インフラにも影響が出ています。",
-          "source": "The Citizen"
+          "title": "ヨルダン川西岸の学校が占領下で苦境",
+          "location": "ヨルダン川西岸",
+          "severity": 40,
+          "description": "イスラエル占領下のヨルダン川西岸の学校が困難に直面しており、教育機会の喪失や人道的な懸念が生じています。長期的な社会不安の要因です。",
+          "source": "The Grind Magazine"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 52,
+      "panic_index": 51,
       "status": "unstable",
-      "main_cause": "労働問題、公共交通機関の機能不全、経済的懸念",
+      "main_cause": "労働不安、社会正義を求める抗議、食料供給不安、医療サービス不足",
       "incidents": [
         {
-          "title": "ノイダでの労働者抗議と暴力",
-          "location": "Noida & Delhi, India",
-          "severity": 60,
-          "description": "インドのノイダで労働者による抗議活動が暴力化し、多数が逮捕されました。政府は「外部からの扇動」や「組織的グループ」の関与を主張し、緊張が高まっています。",
-          "source": "MSN"
-        },
-        {
-          "title": "バス不足による乗客の抗議",
-          "location": "Kilambakkam, Tamil Nadu, India",
+          "title": "インドでの社会不安と逮捕者釈放を求める抗議",
+          "location": "インド デリー/ノイダ",
           "severity": 55,
-          "description": "インドのタミル・ナードゥ州キランバッカムでバス不足により乗客が抗議デモを行い、投票に行けないまま帰宅しました。公共交通機関の機能不全が住民の不満を引き起こしました。",
+          "description": "ノイダで発生した社会不安に関連して逮捕された労働者や活動家の釈放を求め、デリーで抗議活動が行われています。当局への不信と社会正義への要求が高まっています。",
+          "source": "MSN 他"
+        },
+        {
+          "title": "医師不足に対する病院門封鎖抗議",
+          "location": "インド ジャム・カシミール州 バニハル",
+          "severity": 50,
+          "description": "医師不足に抗議するため、BJP党の指導者が病院の門を封鎖。医療サービスへのアクセスに支障が生じており、住民の不安と不満が募っています。",
           "source": "MSN"
         },
         {
-          "title": "韓国における労働不安の経済影響",
-          "location": "South Korea",
-          "severity": 40,
-          "description": "韓国で労働不安が製造業の成長を阻害する恐れがあるとの報道。これは経済成長への潜在的な脅威であり、長期的な社会不安につながる可能性があります。",
+          "title": "韓国の労働不安が製造業の成長を脅かす",
+          "location": "韓国",
+          "severity": 50,
+          "description": "労働不安が韓国の製造業の成長を阻害する可能性があり、経済的な懸念が高まっています。大規模なストライキや生産活動への影響が懸念されます。",
           "source": "The Korea Times"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "暴動、人種間の緊張、エネルギー危機",
-      "incidents": [
-        {
-          "title": "アウトバックでの騒乱とアルコール規制",
-          "location": "Outback, Australia",
-          "severity": 70,
-          "description": "オーストラリアのアウトバックで騒乱が発生し、暴動による逮捕者が出るとともに、地域住民への影響を考慮してアルコール販売禁止措置が取られました。",
-          "source": "The New Daily"
         },
         {
-          "title": "アリススプリングスでの騒乱と地域緊張",
-          "location": "Alice Springs, Australia",
-          "severity": 65,
-          "description": "アリススプリングスで悲劇的な事件が発生し、地域社会に緊張と騒乱が広がっています。これは共同体内の深い亀裂と不信感を示唆しています。",
-          "source": "Devdiscourse"
-        },
-        {
-          "title": "先住民少女殺害容疑を巡る暴動",
-          "location": "Australia",
-          "severity": 75,
-          "description": "オーストラリアで先住民の少女の容疑者とされる人物を巡って暴動が発生し、広範囲にわたる社会混乱が見られます。人種間の緊張が爆発した深刻な事態です。",
-          "source": "MSN"
-        },
-        {
-          "title": "燃料危機によるフライトキャンセル",
-          "location": "Australia",
-          "severity": 70,
-          "description": "オーストラリアで燃料危機が深刻化し、フライトのキャンセルや削減が延長されています。これはエネルギー供給への深刻な影響と、交通インフラへの広範な混乱を示しています。",
-          "source": "The Australian Women's Weekly"
+          "title": "ラビ米買い上げ遅延に対する農家の抗議",
+          "location": "インド ニザマバード",
+          "severity": 50,
+          "description": "農家がラビ米の買い上げ遅延に抗議デモを実施。食料供給網への懸念だけでなく、農家の経済的困難が社会不安を増大させています。",
+          "source": "The Siasat Daily"
         }
       ]
     }
