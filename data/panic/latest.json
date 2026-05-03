@@ -1,108 +1,129 @@
 {
   "date": "2026-05-03",
-  "summary": "世界各地で多様な社会不安が表面化しています。オーストラリアでは暴動や殺人事件が、バングラデシュでは銀行の取り付け騒ぎが発生し、高いパニック状態にあります。インドでも民族対立の再燃や計画的な暴力事件が報告され、社会の緊張が高まっています。カンボジアでは金融詐欺を巡る抗議デモが、EUでは移動の混乱と難民問題が見られます。全体として、特定の地域で社会秩序の不安定化が進行し、金融不安や暴力が懸念される警戒状態にあります。",
-  "global_panic_index": 72,
+  "summary": "世界各地で食料・エネルギー不足の兆候、金融不安、そして大規模な抗議活動や暴動が散発的に発生し、広範な社会不安を引き起こしています。特にアジア地域では、銀行への預金返還要求、LPG供給危機、そして民族間または労働者を巡る暴力的な衝突が顕著であり、社会秩序の不安定化が懸念されます。ヨーロッパでは、極右勢力の台頭や難民問題が社会の緊張を高めており、警戒が必要な状況です。",
+  "global_panic_index": 68,
   "regions": [
     {
-      "region": "oceania",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "社会不安、暴動、公共秩序の崩壊",
+      "region": "north_america",
+      "panic_index": 30,
+      "status": "unstable",
+      "main_cause": "食料不足の懸念",
       "incidents": [
         {
-          "title": "アリススプリングスでの暴動と殺人事件",
-          "location": "オーストラリア、アリススプリングス",
-          "severity": 90,
-          "description": "少女の殺人事件を背景に暴動が発生し、警察車両の放火、店舗での略奪や混乱が報告されている。逮捕者も出ており、地域社会の秩序が著しく混乱している。",
-          "source": "MSN, 9News"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "金融不安、民族対立、社会・政治的不満",
-      "incidents": [
-        {
-          "title": "バングラデシュでの銀行取り付け騒ぎ",
-          "location": "バングラデシュ、チャットグラム",
-          "severity": 85,
-          "description": "預金者が貯蓄の返還を求め、Sammilito Bankの支店を封鎖する事態が発生。金融システムへの信頼が揺らぎ、具体的なパニック行動につながっている。",
-          "source": "bdnews24.com"
-        },
-        {
-          "title": "インド・マニプール州での新たな社会不安",
-          "location": "インド、マニプール州",
-          "severity": 80,
-          "description": "3年にわたる平和への希望が「新たな騒動（fresh unrest）」により揺らいでいると報じられており、民族間対立の再燃と社会の緊張増大が懸念される。",
-          "source": "The Federal"
-        },
-        {
-          "title": "インド・ノイダでの暴力と抗議デモ",
-          "location": "インド、ノイダ",
-          "severity": 75,
-          "description": "暴力的な抗議デモが発生し、その背景には「計画された陰謀」が指摘されている。警察は多数の逮捕者を出しており、地域社会の不安が高まっている。",
+          "title": "食料銀行の在庫不足と需要増大",
+          "location": "USA",
+          "severity": 30,
+          "description": "米国のハイプレーンズ食料銀行で寄付が減少し、需要が増加。棚の在庫が減少しており、将来的な食料供給への潜在的な不安が高まっている状況です。",
           "source": "MSN"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "金融詐欺、口座凍結への抗議",
+      "region": "europe",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "社会不安、エネルギー問題、難民問題",
       "incidents": [
         {
-          "title": "カンボジアでの凍結口座に関する抗議デモ",
-          "location": "カンボジア、プノンペン",
-          "severity": 70,
-          "description": "詐欺と関連付けられた企業による口座凍結に対し、市民が抗議デモを実施。逮捕者も出ており、金融システムへの不信感と社会的な不満が顕在化している。",
-          "source": "Cambodianess, Taipei Times"
+          "title": "英国航空会社が燃料節約のため欠航・統合を許可",
+          "location": "UK",
+          "severity": 40,
+          "description": "英国の航空会社はジェット燃料節約のため、フライトの欠航や統合を行うことを許可されました。これはエネルギー供給の潜在的な脆弱性を示唆し、将来的な交通網への影響が懸念されます。",
+          "source": "The Guardian"
+        },
+        {
+          "title": "オランダの社会不安に乗じる国際的な極右ネットワーク",
+          "location": "Netherlands",
+          "severity": 60,
+          "description": "オランダで発生している社会不安を利用し、国際的な極右ネットワークが再び勢力を拡大しています。これは社会的分断を深め、公共の秩序にさらなる混乱をもたらす可能性があり、警戒が必要です。",
+          "source": "Justice for Prosperity"
+        },
+        {
+          "title": "アイルランドが1,200人の認定難民に退去命令",
+          "location": "Ireland",
+          "severity": 50,
+          "description": "アイルランド政府は、認定された1,200人の難民に対し、7月までに国営施設を退去するよう命令しました。この措置は難民コミュニティに不安を広げ、社会的な緊張を高める要因となっています。",
+          "source": "VisaHQ"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 60,
+      "region": "southeast_asia",
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "社会不安、移民・難民問題、移動の混乱",
+      "main_cause": "金融不安、労働問題",
       "incidents": [
         {
-          "title": "オランダにおける社会不安の台頭",
-          "location": "オランダ",
-          "severity": 60,
-          "description": "「Dutch unrest」が報告されており、国際的な極右ネットワークがこの状況を利用して勢力を回復しようとしている。社会の分断と緊張が高まっている状況。",
-          "source": "Justice for Prosperity"
+          "title": "カンボジアでの賃金未払い抗議デモと逮捕",
+          "location": "Phnom Penh, Cambodia",
+          "severity": 45,
+          "description": "プノンペンで、Huione Payに対する賃金未払いを巡る抗議デモに関与した2人の男性が裁判所に拘束されました。これは労働者の不満が背景にあり、更なる社会不安に発展する可能性があります。",
+          "source": "Cambodianess"
         },
         {
-          "title": "EUにおける入国審査の混雑と措置",
-          "location": "EU域内",
-          "severity": 50,
-          "description": "国境での入国・出国審査の行列が常態化し、一時的に生体認証チェックが停止される事態に。移動の混乱とストレスは増大している。",
-          "source": "VisaHQ"
-        },
-        {
-          "title": "アイルランドでの難民に対する退去命令",
-          "location": "アイルランド",
-          "severity": 50,
-          "description": "アイルランド政府が認定難民約1,200人に対し、7月までに国営のIPASセンターを退去するよう命令。難民コミュニティにおける住居不安と社会的な緊張が高まっている。",
-          "source": "VisaHQ"
+          "title": "バングラデシュで預金返還を求める銀行封鎖デモ",
+          "location": "Chattogram, Bangladesh",
+          "severity": 75,
+          "description": "バングラデシュのチャトグラムで、顧客がSammilito Bankの支店を封鎖し、預金の返還を要求するデモを行いました。これは取り付け騒ぎに近い状況で、深刻な金融パニックの兆候が見られます。",
+          "source": "bdnews24.com, businesstimes-bd.com"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "政治的弾圧、社会不安の継続",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "政治的抑圧、社会不安",
       "incidents": [
         {
-          "title": "イランでの抗議活動関連の処刑",
-          "location": "イラン",
-          "severity": 60,
-          "description": "2022年のマフサ・アミニ氏関連抗議活動での治安要員殺害容疑で男性が処刑された。これは過去の社会不安に対する弾圧の継続を示し、潜在的な社会緊張が続いている。",
+          "title": "イラン、マフサ・アミニ抗議関連の暴動で警備員殺害の男を処刑",
+          "location": "Iran",
+          "severity": 65,
+          "description": "イランは、2022年のマフサ・アミニ氏の死に関連する抗議デモ中に警備員を殺害した男性を処刑しました。これは過去の深刻な社会不安に対する政府の厳しい対応と、継続する国内の緊張を示しています。",
           "source": "DNA India"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "社会不安、エネルギー不足、金融問題、労働問題",
+      "incidents": [
+        {
+          "title": "インド・マニプール州で新たな社会不安が発生",
+          "location": "Manipur, India",
+          "severity": 70,
+          "description": "インドのマニプール州では、3年が経過した現在も、新たな社会不安によって平和への希望が揺らいでいます。これは継続的な民族間対立や暴力の可能性を示唆し、地域の不安定化を招いています。",
+          "source": "The Federal"
+        },
+        {
+          "title": "インドでLPG供給危機、10kgシリンダー導入検討",
+          "location": "India",
+          "severity": 65,
+          "description": "インドでLPG供給危機が深刻化し、国営石油会社が10kgシリンダーの導入を検討しています。エネルギー不足が国民生活に直接影響を与え、買いだめや抗議活動へと発展する可能性があります。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド・ノイダでの暴力と抗議デモの暴徒化",
+          "location": "Noida, India",
+          "severity": 75,
+          "description": "インドのノイダで労働者による抗議デモが暴力的になり、州政府関係者が「計画的な陰謀」と呼んでいます。デリーでも逮捕者の釈放を求める抗議が行われ、広範な社会不安と秩序の混乱が生じています。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド・タミル・ナドゥ州でLPG値上げと鉄道人員削減に抗議デモ呼びかけ",
+          "location": "Tamil Nadu, India",
+          "severity": 60,
+          "description": "インドの左派政党がLPG価格高騰と鉄道人員削減に抗議するため、5月7日にタミル・ナドゥ州全域で大規模な抗議デモを行うよう呼びかけています。エネルギーと雇用問題が複合的に社会不安を煽っています。",
+          "source": "The Hans India"
+        },
+        {
+          "title": "インド準備銀行総裁が国営銀行への権限強化を要求",
+          "location": "India",
+          "severity": 50,
+          "description": "パンジャブ国立銀行の詐欺事件を受け、インド準備銀行総裁が国営銀行への監督権限強化を求めています。これは金融システムへの信頼に揺らぎが生じている可能性を示唆しています。",
+          "source": "AOL.com"
         }
       ]
     }

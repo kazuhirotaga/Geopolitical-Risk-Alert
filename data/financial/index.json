@@ -1,17 +1,19 @@
 [
   {
     "date": "2026-05-03",
-    "summary": "金融市場は地政学的リスクとインフレ圧力の高まりにより、不安定な状況が続いている。特にイラン戦争の影響によるエネルギー供給不安、プライベートクレジット市場のストレス、そしてインフレの持続的な上昇が懸念材料。暗号資産市場は規制の動向に左右されやすい状況。",
+    "summary": "イランを巡る地政学的リスクが深刻化し、原油価格高騰と世界経済の減速懸念が高まっている。FRB議長に対する捜査も不透明感を増幅。株式市場では個別銘柄の評価が分かれている。",
     "overall_risk_level": "high",
-    "article_count": 10,
+    "article_count": 6,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "medium",
-      "south_america": "medium"
+      "east_asia": "none",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-05-03T15:53:17.579742"
+    "generated_at": "2026-05-03T19:06:18.207104"
   },
   {
     "date": "2026-05-02",

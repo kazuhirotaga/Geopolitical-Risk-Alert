@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-03",
-    "summary": "中東におけるイランとアメリカの対立が深刻化し、ガソリン価格高騰など世界経済への影響も顕著。ウクライナ情勢も依然として不安定であり、地政学リスクは全体的に高い水準にある。報道の自由度低下も懸念される。",
+    "summary": "中東におけるイランとアメリカの対立が激化し、ガザ地区での緊張も高まっている。ウクライナ情勢も依然として不安定であり、世界的な食糧・燃料価格の高騰を招いている。米国内ではトランプ大統領に対する暗殺未遂事件が発生し、政治的緊張が高まっている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
-      "southeast_asia": "low",
+      "east_asia": "medium",
+      "southeast_asia": "none",
       "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
-      "africa": "low",
-      "north_america": "medium",
+      "europe": "medium",
+      "africa": "medium",
+      "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-05-03T15:52:54.401856"
+    "generated_at": "2026-05-03T19:06:02.459953"
   },
   {
     "date": "2026-05-02",
