@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-03",
-    "summary": "5月1日の軍事関連ニュースから戦闘事象を抽出。米軍のドイツからの撤退計画、ウクライナ情勢、イラン戦争に関する情報が含まれる。米軍はフィリピンでドローンや3Dプリンターのテストを実施。ウクライナでは軍の交代に関する問題が発生。",
+    "summary": "米軍はドイツから5000人の兵力を撤退させる。ガザにおけるアメリカの主要な任務が閉鎖される。米軍はフィリピンでドローンと3Dプリンターのテストを実施。ウクライナでは、兵士の交代を求める声が上がっている。",
     "events": [
       {
         "id": "event-1",
@@ -35,6 +35,70 @@
         "urgency": "low",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/01/us-army-tests-fresh-drones-3d-printers-at-balikatan-drill-in-the-philippines/"
+      },
+      {
+        "id": "event-20260501-1",
+        "timestamp": "2026-05-01",
+        "location": "ドイツ",
+        "region": "europe",
+        "title": "米軍、ドイツから5000人の兵力撤退",
+        "content": "米政府当局者によると、トランプ大統領とヨーロッパのイラン戦争をめぐる意見の相違が拡大しているため、米軍はドイツから5000人の兵力を撤退させる。",
+        "involved_parties": [
+          "アメリカ軍",
+          "ドイツ"
+        ],
+        "event_type": "retreat",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/01/us-withdrawing-5000-troops-from-germany-us-officials-say/"
+      },
+      {
+        "id": "event-20260501-2",
+        "timestamp": "2026-05-01",
+        "location": "ガザ",
+        "region": "middle_east",
+        "title": "米軍、ガザにおける主要任務を閉鎖",
+        "content": "ロイター通信によると、イスラエルとハマスの停戦を監視し、ガザへの援助を促進するために米軍が運営する組織が閉鎖される予定。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イスラエル",
+          "ハマス"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/05/01/us-to-close-its-flagship-gaza-mission-as-trump-plan-stalls/"
+      },
+      {
+        "id": "event-20260501-3",
+        "timestamp": "2026-05-01",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米陸軍、フィリピンでドローンと3Dプリンターのテストを実施",
+        "content": "米陸軍は、フィリピンでの「バリカタン」演習で、ドローンや3Dプリンターのテストを実施。太陽光パネルマイクログリッドも試験運用。",
+        "involved_parties": [
+          "アメリカ軍",
+          "フィリピン軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/01/us-army-tests-fresh-drones-3d-printers-at-balikatan-drill-in-the-philippines/"
+      },
+      {
+        "id": "event-20260430-1",
+        "timestamp": "2026-04-30",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ軍、兵士の交代を求める声の高まりに対応",
+        "content": "一部の兵士が雨水を飲む事態が発生。ウクライナ軍司令官が兵士の交代に関して対応。",
+        "involved_parties": [
+          "ウクライナ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/04/30/ukraines-army-chief-shakes-up-troop-rotations-after-outcry/"
       },
       {
         "id": "event-3",
@@ -76,6 +140,55 @@
         "region": "middle_east",
         "title": "イラン戦争のコストは250億ドル",
         "content": "米国防総省高官によると、イラン戦争にかかった費用はこれまでに250億ドルに達しており、その大部分は軍需品に費やされている。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/"
+      },
+      {
+        "id": "event-20260429-1",
+        "timestamp": "2026-04-29",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米海兵隊、フィリピンでの防衛シミュレーションでビーチ侵略者を撃退",
+        "content": "米海兵隊はフィリピンでのシミュレーションでビーチ侵略者を撃退。爆発物を搭載したFPVドローンが使用された。",
+        "involved_parties": [
+          "アメリカ海兵隊",
+          "フィリピン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
+      },
+      {
+        "id": "event-20260429-2",
+        "timestamp": "2026-04-29",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "トランプ大統領、プーチン大統領とウクライナの停戦について協議",
+        "content": "トランプ大統領は、プーチン大統領との電話会談で、ウクライナでの停戦を提案したと発言。",
+        "involved_parties": [
+          "アメリカ",
+          "ロシア",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/"
+      },
+      {
+        "id": "event-20260429-3",
+        "timestamp": "2026-04-29",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "イラン戦争の費用はこれまでに250億ドル",
+        "content": "ペンタゴン当局者によると、イラン戦争の費用はこれまでに250億ドルに達し、その大部分が軍需品に費やされている。",
         "involved_parties": [
           "アメリカ",
           "イラン"

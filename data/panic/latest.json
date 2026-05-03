@@ -1,114 +1,121 @@
 {
   "date": "2026-05-03",
-  "summary": "世界各地では、金融不安に起因する抗議デモ、エネルギー（ジェット燃料・LPG）不足への懸念、そして地域社会の混乱や暴動が散見されます。特にインド周辺ではLPG供給危機と複数の地域で社会不安が深刻化しており、ヨルダン川西岸地区では大規模なゼネストが発生し緊張が高まっています。全体としては広範なパニックには至っていないものの、一部地域で社会秩序の乱れが見られ、複数の地域で警戒が必要な状況が続いています。",
-  "global_panic_index": 61,
+  "summary": "世界各地では地域差が顕著な社会不安が見られます。インドを中心とする東南アジア地域では、エネルギー不足、大規模な労働者抗議の暴力化、民族紛争の再燃、さらにはオーストラリアでの暴動と略奪が報告されており、社会秩序の不安定化が深刻です。中東では広範なストライキが社会活動を停止させています。一方、ヨーロッパや東アジアでは、交通機関の混乱や小規模な抗議は見られるものの、社会全体を揺るがすパニックには至っていません。",
+  "global_panic_index": 55,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "エネルギー不足の懸念、難民問題",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "交通インフラの計画的混乱、難民政策への懸念",
       "incidents": [
         {
-          "title": "ヨーロッパで夏季休暇にジェット燃料不足の懸念",
-          "location": "Europe",
-          "severity": 45,
-          "description": "ヨーロッパ全域でジェット燃料の不足が懸念されており、夏季休暇中の航空便に影響が出る可能性がある。旅行計画への広範な不安が広がる。",
-          "source": "France 24"
+          "title": "銀行休日の交通機関の広範な混乱",
+          "location": "英国南東部、アイルランド、ロンドン",
+          "severity": 25,
+          "description": "銀行休日の週末に、英国内外の鉄道網で大規模な遅延や運休が発生し、数百万人の乗客に影響を与えました。これは主に工学工事による一時的な不便であり、社会パニックには至っていません。",
+          "source": "BBC, AOL.com, VisaHQ"
         },
         {
-          "title": "アイルランドが1,200人の難民に施設退去を命令",
-          "location": "Ireland",
+          "title": "アイルランドが難民に対し退去を命令",
+          "location": "アイルランド",
           "severity": 35,
-          "description": "7月までに1,200人の認定難民が国営IPASセンターを退去するよう命じられ、難民コミュニティ内で不安や緊張が高まる可能性がある。",
+          "description": "アイルランド政府が、認定された難民1,200人に対し、7月までに国営のIPASセンターを退去するよう命じました。これにより、今後の社会的な緊張や潜在的な抗議活動の発生が懸念されます。",
           "source": "VisaHQ"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "金融不安、社会秩序の乱れ",
-      "incidents": [
-        {
-          "title": "カンボジアで詐欺関連企業による凍結口座を巡る抗議デモ",
-          "location": "Cambodia",
-          "severity": 55,
-          "description": "詐欺関連企業により口座が凍結された市民が抗議デモを実施。金融システムへの不信感と社会不安が表面化している。",
-          "source": "Taipei Times"
-        },
-        {
-          "title": "カンボジアで銀行前での抗議活動に関連し2名を起訴",
-          "location": "Cambodia",
-          "severity": 55,
-          "description": "金融企業Huioneに関連する抗議活動で2名が逮捕・起訴された。金融被害を訴える市民と当局の間に緊張が見られる。",
-          "source": "Kiripost"
-        },
-        {
-          "title": "オーストラリア、アリススプリングスで暴動発生、放火容疑で逮捕者",
-          "location": "Alice Springs, Australia",
-          "severity": 70,
-          "description": "アリススプリングスで暴動が発生し、警察車両への放火容疑で女性が逮捕された。喪失を背景とした地域社会の深刻な混乱が示唆される。",
-          "source": "MSN"
-        }
-      ]
+      "region": "north_america",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "該当する主要な社会不安なし",
+      "incidents": []
     },
     {
       "region": "east_asia",
-      "panic_index": 70,
-      "status": "critical",
-      "main_cause": "社会不安、エネルギー不足、政治的抑圧",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "外交政策への抗議",
       "incidents": [
         {
-          "title": "インド、マニプールで新たな社会不安が発生",
-          "location": "Manipur, India",
-          "severity": 60,
-          "description": "3年経っても平和への希望が揺らぐ中、マニプールで新たな社会不安が表面化。地域社会の安定が脅かされている状況。",
-          "source": "The Federal"
-        },
-        {
-          "title": "インド、サンガット・マンディでLPGシリンダー不足により店舗閉鎖",
-          "location": "Sangat Mandi, India",
-          "severity": 60,
-          "description": "LPGシリンダーの深刻な不足と不正配送の疑惑により、サンガット・マンディの店舗が閉鎖。住民の生活必需品への不安が募る。",
-          "source": "The Tribune"
-        },
-        {
-          "title": "インドでLPG供給危機、10kgシリンダー導入を検討",
-          "location": "India",
-          "severity": 65,
-          "description": "LPG供給不足が深刻化し、国営石油会社が対策を検討。広範な消費者に対し、生活必需品である燃料の確保に対する不安が広がっている。",
-          "source": "MSN"
-        },
-        {
-          "title": "PoK（パキスタン管理下のカシミール）で社会不安、資源略奪が報告される",
-          "location": "PoK (Kashmir)",
-          "severity": 75,
-          "description": "PoK地域で広範な社会不安が発生し、インドがパキスタンの「抑圧的アプローチ」と「資源略奪」を非難。地域の緊張が高まっている。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド、デリーでノイダの社会不安による逮捕者釈放を求める抗議",
-          "location": "Delhi, Noida, India",
-          "severity": 50,
-          "description": "ノイダで発生した社会不安に関連して逮捕された労働者や活動家の釈放を求め、デリーで抗議デモが行われている。",
-          "source": "MSN"
+          "title": "韓国の進歩的市民団体が米大使館前で抗議集会",
+          "location": "韓国",
+          "severity": 20,
+          "description": "韓国の進歩的市民団体が、ソウルの米大使館前で抗議集会を実施しました。これは外交政策に対する不満を表明するものですが、小規模に留まり、大規模な混乱には至っていません。",
+          "source": "lokmattimes.com"
         }
       ]
     },
     {
       "region": "middle_east",
       "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "政治的緊張、大規模抗議",
+      "status": "unstable",
+      "main_cause": "政治的決定への抗議、大規模ストライキ",
       "incidents": [
         {
-          "title": "ヨルダン川西岸地区でイスラエル死刑法案に反対するゼネスト",
-          "location": "West Bank",
+          "title": "西岸地区でイスラエルの死刑法案に反対するゼネラルストライキ",
+          "location": "西岸地区",
           "severity": 65,
-          "description": "イスラエルの死刑法案に抗議し、ヨルダン川西岸地区全体で店舗が閉鎖されるゼネラルストライキが実施され、地域の緊張が顕著。",
+          "description": "イスラエルによるパレスチナ人への死刑法案に反対し、西岸地区全域で商店が閉鎖され、ゼネラルストライキが実施されました。これは地域全体の経済活動を停止させる、社会秩序の停止に近い大規模な抗議活動です。",
           "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "該当する主要な社会不安なし",
+      "incidents": []
+    },
+    {
+      "region": "south_america",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "該当する主要な社会不安なし",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 80,
+      "status": "volatile",
+      "main_cause": "エネルギー・資源不足、暴力的な抗議、地域紛争、治安悪化",
+      "incidents": [
+        {
+          "title": "インドにおけるLPG・電力供給危機と抗議",
+          "location": "インド（サンガットマンディ、ルディアナなど広範囲）",
+          "severity": 75,
+          "description": "LPGシリンダーの深刻な不足と不正配送疑惑によりサンガットマンディで店舗が閉鎖され、またルディアナでは電力危機と停電に対する抗議が発生しています。生活必需品の供給不安は広範な社会不安を引き起こしています。",
+          "source": "The Tribune, MSN"
+        },
+        {
+          "title": "インド・ノイダでの労働者抗議の暴力化と大規模逮捕",
+          "location": "インド（ノイダ）",
+          "severity": 85,
+          "description": "ノイダでの労働者による抗議デモが暴力化し、外部勢力の関与が指摘される中で300人もの逮捕者が出ました。当局による賃上げ措置も発表され、事態の深刻さと政府の対応が注目されています。",
+          "source": "MSN"
+        },
+        {
+          "title": "パキスタン管理カシミール（PoK）での社会不安と資源略奪",
+          "location": "パキスタン管理カシミール（PoK）",
+          "severity": 80,
+          "description": "PoKでは「抑圧的なアプローチ」や「恐ろしい人権侵害」、「資源の略奪」が指摘されており、広範な社会不安が蔓延しています。インドはパキスタンの対応を非難し、地域の緊張が高まっています。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド・マニプール州での新たな社会不安",
+          "location": "インド（マニプール）",
+          "severity": 70,
+          "description": "3年が経過した現在もマニプール州の平和への希望は新たな社会不安によって揺らいでいます。長期化する民族紛争が再燃し、地域住民の生活に深刻な影響を及ぼしています。",
+          "source": "The Federal"
+        },
+        {
+          "title": "オーストラリア・アリススプリングスでの暴動と店舗略奪",
+          "location": "オーストラリア（アリススプリングス）",
+          "severity": 90,
+          "description": "少女殺害事件を契機にアリススプリングスで暴動が発生し、警察車両への放火や店舗での略奪行為、混乱が見られました。複数の逮捕者が出ており、治安当局は鎮静化を呼びかけています。",
+          "source": "MSN, 9News"
         }
       ]
     }
