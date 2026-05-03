@@ -1,121 +1,151 @@
 {
   "date": "2026-05-03",
-  "summary": "世界各地では地域差が顕著な社会不安が見られます。インドを中心とする東南アジア地域では、エネルギー不足、大規模な労働者抗議の暴力化、民族紛争の再燃、さらにはオーストラリアでの暴動と略奪が報告されており、社会秩序の不安定化が深刻です。中東では広範なストライキが社会活動を停止させています。一方、ヨーロッパや東アジアでは、交通機関の混乱や小規模な抗議は見られるものの、社会全体を揺るがすパニックには至っていません。",
-  "global_panic_index": 55,
+  "summary": "世界各地では、金融詐欺を巡る抗議、過去の社会不安の余波、地域紛争の再燃といった慢性的な問題に加え、オーストラリアのアリススプリングスで発生した暴動のように、突発的な事件が大規模な社会秩序の混乱を引き起こす事例が見られます。中東では広範なストライキが実施され、南アジアでは資源不足と政治的抑圧が深刻な社会不安を招いています。全体として、局所的なパニックから広範な社会不安まで多岐にわたる状況が確認され、一部地域では社会インフラや治安維持が困難となる危機的な状況に直面しています。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "交通インフラの計画的混乱、難民政策への懸念",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "難民政策を巡る社会的緊張",
       "incidents": [
         {
-          "title": "銀行休日の交通機関の広範な混乱",
-          "location": "英国南東部、アイルランド、ロンドン",
-          "severity": 25,
-          "description": "銀行休日の週末に、英国内外の鉄道網で大規模な遅延や運休が発生し、数百万人の乗客に影響を与えました。これは主に工学工事による一時的な不便であり、社会パニックには至っていません。",
-          "source": "BBC, AOL.com, VisaHQ"
-        },
-        {
-          "title": "アイルランドが難民に対し退去を命令",
-          "location": "アイルランド",
-          "severity": 35,
-          "description": "アイルランド政府が、認定された難民1,200人に対し、7月までに国営のIPASセンターを退去するよう命じました。これにより、今後の社会的な緊張や潜在的な抗議活動の発生が懸念されます。",
+          "title": "アイルランド、難民に施設退去を命令",
+          "location": "Ireland",
+          "severity": 40,
+          "description": "アイルランド政府が1200人の認定難民に対し、7月までに国営施設からの退去を命令。難民支援制度と統合政策に関する社会的議論と緊張が高まっている。",
           "source": "VisaHQ"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "該当する主要な社会不安なし",
-      "incidents": []
-    },
-    {
       "region": "east_asia",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "外交政策への抗議",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "政治的抗議",
       "incidents": [
         {
-          "title": "韓国の進歩的市民団体が米大使館前で抗議集会",
-          "location": "韓国",
-          "severity": 20,
-          "description": "韓国の進歩的市民団体が、ソウルの米大使館前で抗議集会を実施しました。これは外交政策に対する不満を表明するものですが、小規模に留まり、大規模な混乱には至っていません。",
+          "title": "韓国で市民団体が米国大使館前で抗議集会",
+          "location": "South Korea (Seoul)",
+          "severity": 25,
+          "description": "進歩的な市民団体がソウルの米国大使館前で抗議集会を開催。特定の政治的主張に基づくデモで、一般的な社会生活への大きな影響はない。",
           "source": "lokmattimes.com"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 65,
+      "region": "southeast_asia",
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "政治的決定への抗議、大規模ストライキ",
+      "main_cause": "金融詐欺と抗議活動",
       "incidents": [
         {
-          "title": "西岸地区でイスラエルの死刑法案に反対するゼネラルストライキ",
-          "location": "西岸地区",
-          "severity": 65,
-          "description": "イスラエルによるパレスチナ人への死刑法案に反対し、西岸地区全域で商店が閉鎖され、ゼネラルストライキが実施されました。これは地域全体の経済活動を停止させる、社会秩序の停止に近い大規模な抗議活動です。",
-          "source": "MSN"
+          "title": "カンボジアで凍結口座巡る抗議活動、2名起訴",
+          "location": "Cambodia",
+          "severity": 45,
+          "description": "詐欺関連企業によって口座が凍結されたことに対する抗議デモで、2名が起訴された。金融システムへの不信と市民の不満が示されている。",
+          "source": "Taipei Times"
         }
       ]
     },
     {
-      "region": "africa",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "該当する主要な社会不安なし",
-      "incidents": []
-    },
-    {
-      "region": "south_america",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "該当する主要な社会不安なし",
-      "incidents": []
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 80,
+      "region": "middle_east",
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "エネルギー・資源不足、暴力的な抗議、地域紛争、治安悪化",
+      "main_cause": "政治的抑圧、抗議、紛争",
       "incidents": [
         {
-          "title": "インドにおけるLPG・電力供給危機と抗議",
-          "location": "インド（サンガットマンディ、ルディアナなど広範囲）",
+          "title": "ヨルダン川西岸で広範なゼネラルストライキ実施",
+          "location": "West Bank",
           "severity": 75,
-          "description": "LPGシリンダーの深刻な不足と不正配送疑惑によりサンガットマンディで店舗が閉鎖され、またルディアナでは電力危機と停電に対する抗議が発生しています。生活必需品の供給不安は広範な社会不安を引き起こしています。",
-          "source": "The Tribune, MSN"
-        },
-        {
-          "title": "インド・ノイダでの労働者抗議の暴力化と大規模逮捕",
-          "location": "インド（ノイダ）",
-          "severity": 85,
-          "description": "ノイダでの労働者による抗議デモが暴力化し、外部勢力の関与が指摘される中で300人もの逮捕者が出ました。当局による賃上げ措置も発表され、事態の深刻さと政府の対応が注目されています。",
+          "description": "イスラエルによるパレスチナ人への死刑法案に抗議し、ヨルダン川西岸全域でゼネラルストライキが実施され、店舗が閉鎖。広範な社会機能の停止と強い政治的抵抗を示している。",
           "source": "MSN"
         },
         {
-          "title": "パキスタン管理カシミール（PoK）での社会不安と資源略奪",
-          "location": "パキスタン管理カシミール（PoK）",
-          "severity": 80,
-          "description": "PoKでは「抑圧的なアプローチ」や「恐ろしい人権侵害」、「資源の略奪」が指摘されており、広範な社会不安が蔓延しています。インドはパキスタンの対応を非難し、地域の緊張が高まっています。",
-          "source": "MSN"
-        },
+          "title": "イラン、2022年抗議活動に関連する男を処刑",
+          "location": "Iran",
+          "severity": 65,
+          "description": "2022年のマフサ・アミニ抗議活動に関連し、治安部隊員殺害の容疑で男が処刑された。政治的抑圧と社会不安が継続している状況を示唆する。",
+          "source": "DNA India"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "社会不安、資源不足、政治的抑圧、暴力",
+      "incidents": [
         {
-          "title": "インド・マニプール州での新たな社会不安",
-          "location": "インド（マニプール）",
+          "title": "パキスタン占領カシミールで社会不安と資源略奪",
+          "location": "Pakistan Occupied Kashmir (PoK)",
           "severity": 70,
-          "description": "3年が経過した現在もマニプール州の平和への希望は新たな社会不安によって揺らいでいます。長期化する民族紛争が再燃し、地域住民の生活に深刻な影響を及ぼしています。",
+          "description": "インドはパキスタン占領カシミールにおける「抑圧的アプローチ」、資源略奪、人権侵害を非難。住民の社会不安と政治的抑圧が深刻化している。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド・マニプール州で新たな社会不安発生",
+          "location": "India (Manipur)",
+          "severity": 65,
+          "description": "マニプール州では、3年前の紛争から立ち直りかけた平和の希望が新たな社会不安によって揺らいでいる。民族間の緊張と不安定な治安状況が懸念される。",
           "source": "The Federal"
         },
         {
-          "title": "オーストラリア・アリススプリングスでの暴動と店舗略奪",
-          "location": "オーストラリア（アリススプリングス）",
+          "title": "インド・Sangat MandiでLPG不足により市場閉鎖",
+          "location": "India (Sangat Mandi)",
+          "severity": 60,
+          "description": "LPGガスボンベの不足と不正配送疑惑により、Sangat Mandiで市場が閉鎖。エネルギー不足は生活に直結し、広範な社会不安と買いだめにつながる可能性がある。",
+          "source": "The Tribune"
+        },
+        {
+          "title": "インド・ノイダの暴力事件、パキスタンとの関連捜査",
+          "location": "India (Noida)",
+          "severity": 55,
+          "description": "ノイダで発生した暴力事件についてパキスタンとの関連が捜査され、UP州大臣は「計画された陰謀」と指摘。地域的な暴力と政治的緊張が高まっている。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド・カリムナガルで武装強盗によるパニック発生",
+          "location": "India (Karimnagar)",
+          "severity": 50,
+          "description": "カリムナガルの宝石店で発生した武装強盗が地域にパニックを引き起こした。治安の悪化が住民の不安を煽り、一時的な混乱を招いている。",
+          "source": "The Hans India"
+        }
+      ]
+    },
+    {
+      "region": "oceania",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "暴動、治安悪化",
+      "incidents": [
+        {
+          "title": "アリススプリングスの暴動で警察車両への放火容疑",
+          "location": "Australia (Alice Springs)",
           "severity": 90,
-          "description": "少女殺害事件を契機にアリススプリングスで暴動が発生し、警察車両への放火や店舗での略奪行為、混乱が見られました。複数の逮捕者が出ており、治安当局は鎮静化を呼びかけています。",
-          "source": "MSN, 9News"
+          "description": "アリススプリングスの暴動で警察車両への放火容疑で女性が起訴された。これは大規模な混乱と法執行機関への直接的な対抗を示す非常に危険な行為である。",
+          "source": "MSN"
+        },
+        {
+          "title": "アリススプリングス暴動で店舗内が混乱、5人逮捕",
+          "location": "Australia (Alice Springs)",
+          "severity": 85,
+          "description": "アリススプリングスの暴動で店舗内での混乱を示す映像が公開され、5人が逮捕された。略奪行為や無秩序な行動が社会インフラの麻痺を示している。",
+          "source": "9News"
+        },
+        {
+          "title": "アリススプリングス暴動で放火容疑、沈静化呼びかけ",
+          "location": "Australia (Alice Springs)",
+          "severity": 80,
+          "description": "アリススプリングスで暴動により放火容疑が発生し、当局は沈静化を呼びかけている。社会秩序が一時的に失われ、地域の安全が脅かされている。",
+          "source": "MSN"
+        },
+        {
+          "title": "アリススプリングス少女殺害事件巡る社会不安",
+          "location": "Australia (Alice Springs)",
+          "severity": 80,
+          "description": "アリススプリングスでの少女殺害事件を背景に社会不安が広がっており、男性が殺人罪で起訴された。この事件が暴動の引き金の一つとなっている。",
+          "source": "MSN"
         }
       ]
     }
