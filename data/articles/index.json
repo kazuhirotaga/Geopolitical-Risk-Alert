@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-03",
-    "summary": "中東情勢が緊迫化。イラン戦争は終結への模索が見られるものの、イスラエルとレバノンの衝突が継続。米中間選挙への影響も懸念される。ウクライナ情勢も依然として不安定。",
+    "summary": "中東情勢の緊迫化が継続。イランとアメリカの対立は解決の糸口が見えず、ウクライナ情勢も依然として不安定。米中間選挙への影響も懸念される。世界的な食糧・燃料価格の高騰も深刻化。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "none",
-      "south_asia": "none",
+      "southeast_asia": "low",
+      "south_asia": "low",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
+      "europe": "medium",
       "africa": "medium",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-03T10:09:00.666375"
+    "generated_at": "2026-05-03T13:19:51.139495"
   },
   {
     "date": "2026-05-02",
