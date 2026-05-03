@@ -1,56 +1,36 @@
 {
   "date": "2026-05-03",
-  "summary": "世界経済はインフレ高止まり、地政学的リスク、金融引き締め政策の影響を受け、不確実性が高い状況です。特にイラン戦争による原油価格高騰、米中貿易摩擦、暗号資産市場の規制動向がリスク要因として注目されます。",
+  "summary": "金融市場は地政学的リスクとインフレ圧力の高まりにより、不安定な状況が続いている。特にイラン戦争の影響によるエネルギー供給不安、プライベートクレジット市場のストレス、そしてインフレの持続的な上昇が懸念材料。暗号資産市場は規制の動向に左右されやすい状況。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war",
+      "title": "Trump says he is likely to reject Iran peace proposal as Tehran has 'not yet paid a big enough price'",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イラン戦争の影響で米国湾岸からの原油輸出が記録的な水準に急増。中東の供給混乱が米国に恩恵をもたらす一方、地政学的リスクは高まっています。",
-      "analysis": "イラン戦争の長期化は原油価格の高止まりを招き、世界経済にインフレ圧力をかける可能性があります。米国の原油輸出増加は一時的な緩和策となり得るものの、根本的な解決にはなりません。ホルムズ海峡の封鎖リスクも依然として存在し、サプライチェーンの混乱を招く恐れがあります。エネルギー価格高騰は、特に新興国経済に大きな打撃を与える可能性があります。",
-      "key_entities": [
-        "U.S. Gulf Coast",
-        "Iran",
-        "OPEC",
-        "Exxon Mobil"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Recent inflation data was 'bad news': Chicago Fed's Goolsbee",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "シカゴ連銀のグールズビー総裁は、サービス業を含むインフレ上昇を警告。金融引き締め政策の長期化を示唆し、景気後退のリスクを高めています。",
-      "analysis": "インフレの根強さは、FRBの金融政策の柔軟性を奪い、景気減速のリスクを高めます。利上げ継続は企業収益を圧迫し、雇用情勢の悪化につながる可能性があります。特に中小企業や高レバレッジ企業は、金利上昇の影響を受けやすく、デフォルトリスクが高まる可能性があります。市場はFRBの今後の政策判断を注視しており、金融市場のボラティリティが高まる可能性があります。",
-      "key_entities": [
-        "Chicago Federal Reserve",
-        "Goolsbee",
-        "FRB",
-        "インフレ率"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Jamie Dimon says the next credit crisis will be 'worse than people expect' — here's what big bank earnings have revealed",
-      "region": "global",
       "risk_level": "critical",
-      "summary": "JPモルガン・チェースのジェイミー・ダイモンCEOは、次の信用危機が予想以上に深刻化する可能性を警告。金融機関の収益状況から、そのリスクを分析します。",
-      "analysis": "ダイモンCEOの発言は、現在の金融システムに対する深刻な懸念を示唆しています。高金利環境下での企業債務の増加、不動産市場の低迷、地政学的リスクなどが複合的に作用し、信用収縮を引き起こす可能性があります。金融機関の収益悪化は、貸し渋りを招き、実体経済に悪影響を及ぼす可能性があります。投資家はリスク回避姿勢を強め、安全資産への逃避が進む可能性があります。",
+      "summary": "トランプ大統領がイラン和平案を拒否する可能性を示唆。イラン戦争がエネルギー供給を混乱させ、世界市場を動揺させ、世界経済の低迷への懸念を高めている。",
+      "analysis": "和平交渉決裂は、原油価格の高騰を招き、インフレを加速させる可能性が高い。地政学的リスクが一段と高まり、投資家のリスク回避姿勢を強めるだろう。特に、エネルギー関連企業への影響は大きく、サプライチェーンの混乱も予想される。今後の交渉の行方と、それに対する市場の反応を注視する必要がある。米国とイランの関係悪化は、中東地域の不安定化を招き、さらなるリスク要因となる。",
       "key_entities": [
-        "Jamie Dimon",
-        "JPモルガン・チェース",
-        "信用危機",
+        "トランプ大統領",
+        "イラン政府",
+        "OPEC",
+        "エネルギー市場"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Stress in private credit could spark 'psychological contagion,' Fed's Barr tells Bloomberg News",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "FRBのBarr理事が、プライベートクレジット市場のストレスが心理的な伝染を引き起こす可能性があると警告。デフォルト率の上昇と金融機関の慎重姿勢がリスクを高めている。",
+      "analysis": "プライベートクレジット市場のストレスは、金融システム全体に波及する可能性がある。特に、金利上昇局面では、借り手の返済能力が低下し、デフォルトリスクが高まる。心理的な伝染が起これば、投資家のリスク回避姿勢が強まり、市場全体の流動性が低下する恐れがある。FRBの金融政策運営にも影響を与え、利上げペースの鈍化や、緊急融資などの対応が必要になる可能性も考慮すべき。",
+      "key_entities": [
+        "FRB",
+        "プライベートクレジット市場",
         "金融機関"
       ],
       "sources": [
@@ -61,35 +41,15 @@
       ]
     },
     {
-      "title": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
-      "region": "south_america",
-      "risk_level": "medium",
-      "summary": "ブラジル中央銀行が、クロスボーダー決済におけるステーブルコインと暗号資産の利用を禁止。暗号資産市場への規制強化の動きが加速しています。",
-      "analysis": "ブラジル中銀の決定は、マネーロンダリングやテロ資金供与のリスクを抑制する目的があると見られます。しかし、暗号資産のイノベーションを阻害する可能性もあります。同様の規制が他の国にも広がる可能性があり、グローバルな暗号資産市場の成長を抑制する要因となる可能性があります。特に新興国では、暗号資産が金融包摂の手段として期待されている側面もあり、規制のバランスが重要となります。",
+      "title": "Recent inflation data was 'bad news': Chicago Fed's Goolsbee",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "シカゴ連銀のグールズビー総裁が、最近のインフレデータは悪いニュースだと発言。サービス業でもインフレが上昇しており、インフレ抑制の難しさを示唆。",
+      "analysis": "インフレの持続的な上昇は、FRBの金融引き締め政策を長期化させる可能性が高い。金利上昇は、企業収益の圧迫や、個人消費の減退を招き、景気後退のリスクを高める。特に、サービス業のインフレ上昇は、賃金上昇との悪循環を生み出す可能性があり、FRBはより積極的な金融引き締めを迫られるかもしれない。今後のインフレ指標の推移を注視し、FRBの政策判断を予測する必要がある。",
       "key_entities": [
-        "ブラジル中央銀行",
-        "ステーブルコイン",
-        "暗号資産",
-        "クロスボーダー決済"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Trump says he's raising EU auto tariffs to 25%",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "トランプ前大統領がEUからの自動車関税を25%に引き上げると発言。米欧間の貿易摩擦が再燃する可能性があります。",
-      "analysis": "トランプ氏の発言は、保護主義的な貿易政策への回帰を示唆しており、グローバルな貿易秩序を混乱させる可能性があります。EUが報復措置を取る可能性もあり、米欧間の貿易戦争に発展する恐れがあります。自動車産業はサプライチェーンが複雑であり、関税引き上げは企業収益を圧迫し、消費者価格の上昇につながる可能性があります。世界経済の成長鈍化を招く要因となる可能性があります。",
-      "key_entities": [
-        "トランプ",
-        "EU",
-        "自動車関税",
-        "米欧貿易摩擦"
+        "FRB",
+        "インフレ率",
+        "消費者物価指数"
       ],
       "sources": [
         "CNBC - Top News"
@@ -99,16 +59,52 @@
       ]
     },
     {
-      "title": "Mike Cagney’s second act: Turning blockchain into Wall Street’s new plumbing",
+      "title": "Spirit Airlines shuts down after failing to reach a bailout deal, ending discount travel era",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Mike Cagney氏がブロックチェーン技術をウォール街のインフラに導入する新たな試み。金融業界におけるブロックチェーンの可能性とリスクに焦点を当てます。",
-      "analysis": "ブロックチェーン技術は、金融取引の効率化、透明性の向上、コスト削減に貢献する可能性があります。しかし、規制の不確実性、セキュリティリスク、技術的な課題も存在します。Cagney氏の取り組みが成功すれば、金融業界に大きな変革をもたらす可能性がありますが、同時に新たなリスクも生み出す可能性があります。規制当局は、イノベーションを促進しつつ、リスクを管理するための適切な規制枠組みを構築する必要があります。",
+      "summary": "Spirit Airlinesが救済交渉に失敗し閉鎖。低価格航空の終焉を示唆し、航空業界全体の競争環境に変化をもたらす可能性がある。",
+      "analysis": "Spirit Airlinesの閉鎖は、航空業界における競争激化と、経営環境の厳しさを示している。燃料価格の高騰や、人件費の上昇などが、航空会社の収益を圧迫している。特に、低価格航空会社は、価格競争に巻き込まれやすく、経営破綻のリスクが高い。航空業界全体の再編が進む可能性があり、消費者の選択肢が狭まる可能性もある。政府による航空業界への支援策の必要性が高まるかもしれない。",
       "key_entities": [
-        "Mike Cagney",
-        "ブロックチェーン",
-        "ウォール街",
-        "金融インフラ"
+        "Spirit Airlines",
+        "航空業界",
+        "政府"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "イラン戦争による中東の供給混乱を受け、米国の原油輸出が記録的な水準に急増。米国のエネルギー市場における影響力が増大している。",
+      "analysis": "イラン戦争による原油供給の混乱は、米国の原油輸出を増加させ、米国のエネルギー市場における影響力を高めている。しかし、同時に、原油価格の高騰を招き、インフレを加速させる可能性もある。米国の原油輸出増加は、OPECとの関係にも影響を与える可能性があり、今後の国際的なエネルギー市場の動向を注視する必要がある。",
+      "key_entities": [
+        "米国",
+        "OPEC",
+        "原油価格",
+        "エネルギー市場"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Crypto is at bottom of U.S. voters' priorities heading into elections, CoinDesk survey shows",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "米国の有権者の優先順位において、暗号資産は最下位。暗号資産に対する関心の低さを示唆し、規制の進展に影響を与える可能性がある。",
+      "analysis": "暗号資産に対する有権者の関心の低さは、政治的な圧力が弱く、規制の進展が遅れる可能性がある。しかし、同時に、暗号資産に対するネガティブなイメージが払拭されず、規制強化の動きを招く可能性もある。今後の選挙結果や、政治家の発言などを注視し、暗号資産市場に対する影響を予測する必要がある。",
+      "key_entities": [
+        "暗号資産",
+        "米国政府",
+        "規制当局"
       ],
       "sources": [
         "CoinDesk"
@@ -118,19 +114,36 @@
       ]
     },
     {
-      "title": "Nike slashes 1,400 more jobs as its stock crashes 70% from pandemic highs — and the real reason isn't 'woke' marketing",
-      "region": "global",
+      "title": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
+      "region": "south_america",
       "risk_level": "medium",
-      "summary": "ナイキが1400人の追加人員削減を発表。株価がパンデミック時の高値から70%下落。原因は「woke」マーケティングではなく、別の要因にあると分析。",
-      "analysis": "ナイキの業績不振は、サプライチェーンの混乱、消費者需要の変化、競争激化など、複合的な要因によるものと考えられます。人員削減はコスト削減策の一環ですが、ブランドイメージの低下や従業員の士気低下につながる可能性もあります。ナイキは、変化する市場環境に適応し、新たな成長戦略を打ち出す必要があります。スポーツ用品業界全体の景気動向にも注意が必要です。",
+      "summary": "ブラジル中央銀行が、クロスボーダー決済におけるステーブルコインと暗号資産の利用を禁止。暗号資産に対する規制強化の動きが広がっている。",
+      "analysis": "ブラジル中央銀行によるステーブルコインと暗号資産の利用禁止は、暗号資産に対する規制強化の動きが広がっていることを示している。特に、新興国では、資本流出を防ぐために、暗号資産に対する規制が強化される傾向がある。今後の各国の規制動向を注視し、暗号資産市場に対する影響を予測する必要がある。",
       "key_entities": [
-        "Nike",
-        "人員削減",
-        "サプライチェーン",
-        "消費者需要"
+        "ブラジル中央銀行",
+        "ステーブルコイン",
+        "暗号資産"
       ],
       "sources": [
-        "Yahoo Finance"
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "JPモルガンのジェイミー・ダイモンCEOが景気後退の可能性を示唆。債券市場はより差し迫った問題を抱えており、今後の金利変動に注意が必要。",
+      "analysis": "ジェイミー・ダイモンCEOの警告は、金融市場における不確実性の高まりを示唆している。債券市場の不安定化は、金利変動を招き、企業や個人の資金調達コストを上昇させる可能性がある。特に、高格付け債券の利回り上昇は、リスク回避姿勢の強まりを示しており、株式市場にも影響を与える可能性がある。今後の債券市場の動向を注視し、金融市場全体への影響を予測する必要がある。",
+      "key_entities": [
+        "JPモルガン",
+        "債券市場",
+        "金利"
+      ],
+      "sources": [
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -138,15 +151,14 @@
     },
     {
       "title": "Chinese stocks are about to get a big AI boost, Morgan Stanley predicts",
-      "region": "global",
+      "region": "east_asia",
       "risk_level": "medium",
-      "summary": "モルガン・スタンレーが中国株、特にAI関連企業の株価上昇を予測。中国のAI技術の発展と市場への影響に注目が集まります。",
-      "analysis": "中国政府はAI技術の開発を国家戦略として推進しており、関連企業への投資が活発化しています。モルガン・スタンレーの予測は、中国のAI市場の成長に対する期待感を示しています。しかし、米中間の技術覇権争い、規制リスク、データセキュリティの問題など、不確実性も存在します。投資家は、中国のAI関連企業への投資にあたり、これらのリスクを十分に考慮する必要があります。",
+      "summary": "モルガン・スタンレーが、中国株がAIの発展により大きく押し上げられると予測。AI関連企業の株価上昇が期待される。",
+      "analysis": "中国政府によるAI産業への積極的な投資と、中国企業の技術革新が、中国株の成長を牽引する可能性がある。特に、AI関連企業の株価上昇が期待されるが、同時に、米中間の技術覇権争いが激化する可能性もある。今後の米中関係の動向を注視し、中国株市場への影響を予測する必要がある。",
       "key_entities": [
-        "中国",
+        "中国政府",
         "AI",
-        "モルガン・スタンレー",
-        "米中関係"
+        "モルガン・スタンレー"
       ],
       "sources": [
         "CNBC - Top News"
@@ -159,13 +171,13 @@
       "title": "Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインが78,000ドルを超え、S&P500が新記録を樹立。背景には、米上院でのClarity Actの進展と、市場の楽観的な見方があります。",
-      "analysis": "Clarity Actの進展は、暗号資産市場に対する規制の明確化を意味し、機関投資家の参入を促進する可能性があります。S&P500の新記録は、企業業績の好調と、FRBの金融政策に対する期待感を示しています。しかし、インフレ高止まり、金利上昇リスク、地政学的リスクなど、市場の不確実性も依然として存在します。投資家は、リスク管理を徹底し、慎重な投資判断を行う必要があります。",
+      "summary": "上院がClarity Actのハードルをクリアしたことで、ビットコインが78,000ドルを超え、S&P500は新記録を樹立。規制緩和が暗号資産市場を活性化させている。",
+      "analysis": "Clarity Actの進展は、暗号資産市場に対する規制緩和の兆しを示しており、投資家の心理を改善させている。ビットコイン価格の上昇は、暗号資産市場全体の活性化につながる可能性がある。しかし、同時に、規制緩和によるリスクも考慮する必要があり、今後の規制動向を注視する必要がある。",
       "key_entities": [
         "ビットコイン",
         "S&P500",
-        "Clarity Act",
-        "米上院"
+        "米国上院",
+        "Clarity Act"
       ],
       "sources": [
         "CoinDesk"
@@ -173,35 +185,16 @@
       "source_types": [
         "media"
       ]
-    },
-    {
-      "title": "Japan just put a ‘Band-Aid’ on the yen. Why high oil prices could soon rip it off.",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "日本政府の円安対策は一時しのぎに過ぎず、原油価格の高騰が再び円安を加速させる可能性があると指摘。",
-      "analysis": "日本はエネルギー資源を輸入に頼っており、原油価格の高騰は貿易赤字を拡大させ、円安圧力を高めます。日本銀行の金融緩和政策は、円安を容認する姿勢と見なされ、投機的な円売りを誘発する可能性があります。日本政府は、構造改革や成長戦略を通じて、経済の競争力を高める必要があります。為替介入は一時的な効果しか期待できず、根本的な解決にはなりません。",
-      "key_entities": [
-        "日本",
-        "円",
-        "原油価格",
-        "日本銀行",
-        "為替介入"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
     }
   ],
   "region_risk_map": {
-    "global": "critical",
-    "north_america": "high",
+    "global": "high",
+    "north_america": "medium",
     "europe": "medium",
-    "east_asia": "medium"
+    "east_asia": "medium",
+    "south_america": "medium"
   },
-  "generated_at": "2026-05-03T13:20:14.883254",
+  "generated_at": "2026-05-03T15:53:17.579742",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

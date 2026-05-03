@@ -1,16 +1,17 @@
 [
   {
     "date": "2026-05-03",
-    "summary": "世界経済はインフレ高止まり、地政学的リスク、金融引き締め政策の影響を受け、不確実性が高い状況です。特にイラン戦争による原油価格高騰、米中貿易摩擦、暗号資産市場の規制動向がリスク要因として注目されます。",
+    "summary": "金融市場は地政学的リスクとインフレ圧力の高まりにより、不安定な状況が続いている。特にイラン戦争の影響によるエネルギー供給不安、プライベートクレジット市場のストレス、そしてインフレの持続的な上昇が懸念材料。暗号資産市場は規制の動向に左右されやすい状況。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "critical",
-      "north_america": "high",
+      "global": "high",
+      "north_america": "medium",
       "europe": "medium",
-      "east_asia": "medium"
+      "east_asia": "medium",
+      "south_america": "medium"
     },
-    "generated_at": "2026-05-03T13:20:14.883254"
+    "generated_at": "2026-05-03T15:53:17.579742"
   },
   {
     "date": "2026-05-02",

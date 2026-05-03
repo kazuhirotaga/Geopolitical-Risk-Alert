@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-03",
-    "summary": "中東情勢の緊迫化が継続。イランとアメリカの対立は解決の糸口が見えず、ウクライナ情勢も依然として不安定。米中間選挙への影響も懸念される。世界的な食糧・燃料価格の高騰も深刻化。",
+    "summary": "中東におけるイランとアメリカの対立が深刻化し、ガソリン価格高騰など世界経済への影響も顕著。ウクライナ情勢も依然として不安定であり、地政学リスクは全体的に高い水準にある。報道の自由度低下も懸念される。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "medium",
+      "east_asia": "high",
       "southeast_asia": "low",
-      "south_asia": "low",
+      "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
-      "africa": "medium",
+      "europe": "high",
+      "africa": "low",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-03T13:19:51.139495"
+    "generated_at": "2026-05-03T15:52:54.401856"
   },
   {
     "date": "2026-05-02",
