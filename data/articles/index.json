@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-03",
+    "summary": "中東におけるアメリカとイランの緊張が継続し、停戦交渉は難航。ウクライナ情勢も依然として不安定。米軍のドイツからの削減計画はNATO内で懸念を引き起こしている。全体的に地政学的リスクは高い状況が続いている。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "low",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "low"
+    },
+    "generated_at": "2026-05-03T03:37:02.910393"
+  },
+  {
     "date": "2026-05-02",
     "summary": "中東における米イラン間の緊張が継続し、ウクライナ情勢も悪化の一途を辿る。世界的な食料・燃料価格の高騰、海運の安全保障への懸念も高まり、地政学リスクは全体的に高い水準にある。",
     "overall_risk_level": "high",
