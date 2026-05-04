@@ -1,106 +1,92 @@
 {
   "date": "2026-05-04",
-  "summary": "世界各地で局所的ながらも深刻な社会不安やパニック事象が報告されています。特にオーストラリアのAlice Springsでは大規模な暴動と略奪が発生し、社会秩序の崩壊が懸念される状況です。バングラデシュでは銀行の取り付け騒ぎの兆候が見られ、金融不安が表面化しています。インドではエネルギー不足が、欧州では社会・政治的緊張が潜在的な不安要素となっています。全体としては特定の地域に問題が集中しており、世界全体がパニック状態にあるわけではありませんが、警戒が必要です。",
-  "global_panic_index": 55,
+  "summary": "世界各地でパニックや社会不安が散見され、特にオーストラリアでは暴動と略奪が発生し、地域社会が深刻な混乱に陥っている。南アジアでは金融不安による取り付け騒ぎ、LPGやバスの不足、大規模な労働者デモが報告され、社会秩序に多岐にわたる緊張が見られる。中東のイランでは政治的弾圧が続き、国民の反抗サイクルが加速。一方、欧州ではジェット燃料不足や世界的な株価下落への潜在的懸念が示されているが、北米、アフリカ、東アジアでは大規模なパニックは見られない。",
+  "global_panic_index": 65,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "社会・政治的緊張、潜在的エネルギー供給不安",
+      "region": "southeast_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "地域社会の緊張、暴動、略奪、労働争議",
       "incidents": [
         {
-          "title": "ジェット燃料不足による夏の休暇への脅威",
-          "location": "イギリス",
-          "severity": 40,
-          "description": "ジェット燃料の不足が夏の旅行シーズンに影響を及ぼす可能性が指摘されており、将来的な移動の制限や費用増大への懸念が高まっている。",
-          "source": "BBC"
+          "title": "Alice Springsで暴動と略奪が発生、多数逮捕",
+          "location": "Alice Springs, Australia",
+          "severity": 90,
+          "description": "子供の死をきっかけにAlice Springsで暴動が発生し、略奪行為が報告された。警察が介入し、20名近くが逮捕されるなど、地域社会の秩序が大きく乱れている。",
+          "source": "MSN, upi.com"
         },
         {
-          "title": "オランダでの騒乱に極右ネットワークが介入",
-          "location": "オランダ",
-          "severity": 50,
-          "description": "オランダ国内で発生している社会的な騒乱が、国際的な極右ネットワークによって利用され、国内の政治的・社会的な不安定さを増幅させている。",
-          "source": "Justice for Prosperity"
+          "title": "カンボジアで賃金抗議デモ参加者が拘束",
+          "location": "Phnom Penh, Cambodia",
+          "severity": 45,
+          "description": "プノンペンで賃金不払いを訴える抗議デモが行われ、これに関与した2名が裁判所によって拘束された。労働者の不満が高まり、当局による取り締まりが行われている。",
+          "source": "Cambodianess"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 20,
-      "status": "stable",
-      "main_cause": "N/A",
+      "region": "south_america",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "該当なし",
       "incidents": []
     },
     {
       "region": "east_asia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "エネルギー不足、社会不安",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "該当なし",
+      "incidents": []
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "政治的弾圧、反政府抗議活動の激化",
       "incidents": [
         {
-          "title": "LPG供給危機、10kgシリンダー導入計画か",
-          "location": "インド",
-          "severity": 60,
-          "description": "液化石油ガス（LPG）の供給危機が報じられており、政府系石油会社が10kgシリンダーの導入を検討するなど、生活必需品の供給不安が高まっている。",
-          "source": "MSN"
-        },
-        {
-          "title": "Noida騒乱関連の逮捕者釈放を求める抗議デモ",
-          "location": "インド・デリー",
-          "severity": 55,
-          "description": "Noidaで発生した騒乱に関連して逮捕された労働者や活動家の釈放を求め、デリーで抗議デモが行われており、社会的な緊張が続いている。",
-          "source": "MSN"
+          "title": "イランがマフサ・アミニ氏死亡抗議関連の死刑囚を処刑",
+          "location": "Iran",
+          "severity": 85,
+          "description": "イラン当局は、2022年のマフサ・アミニ氏死亡をめぐる抗議デモに関連し、治安当局者殺害で有罪とされた男性を処刑した。政府による強硬な弾圧が続き、国民の反発と緊張が高まっている。",
+          "source": "The Indian Express, irannewsupdate.com"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 20,
-      "status": "stable",
-      "main_cause": "N/A",
-      "incidents": []
-    },
-    {
       "region": "africa",
-      "panic_index": 20,
-      "status": "stable",
-      "main_cause": "N/A",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "該当なし",
       "incidents": []
     },
     {
-      "region": "south_america",
-      "panic_index": 20,
-      "status": "stable",
-      "main_cause": "N/A",
+      "region": "north_america",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "該当なし",
       "incidents": []
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "大規模暴動、略奪、金融不安",
+      "region": "europe",
+      "panic_index": 35,
+      "status": "stable",
+      "main_cause": "潜在的なエネルギー不足、経済不安",
       "incidents": [
         {
-          "title": "Chattogramで銀行預金者が預金引き出しを求め抗議",
-          "location": "バングラデシュ・Chattogram",
-          "severity": 75,
-          "description": "ChattogramのSammilit Islami Bank PLCの預金者が預金引き出しを求めて抗議活動を行い、支店をロックアウトする事態に発展しており、取り付け騒ぎの兆候が見られる。",
-          "source": "businesstimes-bd.com"
+          "title": "ジェット燃料不足が夏の休暇に影響を及ぼす恐れ",
+          "location": "Global/Europe",
+          "severity": 40,
+          "description": "世界的なジェット燃料不足が報じられており、これが夏の休暇シーズンにおける航空便の運航に影響を及ぼす可能性が指摘されている。旅行計画への潜在的な不安要素となっている。",
+          "source": "BBC"
         },
         {
-          "title": "Alice Springsで暴動・略奪・放火が発生、19名逮捕",
-          "location": "オーストラリア・Alice Springs",
-          "severity": 90,
-          "description": "Alice Springsで大規模な暴動が発生し、略奪や放火行為が見られた。警察は暴動映像を公開し、これまでに19名を逮捕しており、社会秩序の重大な混乱が続いている。",
-          "source": "MSN, upi.com"
-        },
-        {
-          "title": "プノンペンで給与不払い抗議者2名が拘留",
-          "location": "カンボジア・プノンペン",
-          "severity": 45,
-          "description": "プノンペンでHuione Pay社の給与不払い問題に関する抗議活動を行っていた2名が裁判所によって拘留され、労働争議が当局によって抑えられている。",
-          "source": "Cambodianess"
+          "title": "英中銀副総裁が世界的な株価下落の可能性を警告",
+          "location": "Global/UK",
+          "severity": 30,
+          "description": "イングランド銀行の副総裁が、世界的な株式市場が下落する可能性について言及した。これは経済状況への懸念を示唆しており、将来的な金融市場の不安定性に対する不安を引き起こしている。",
+          "source": "MSN"
         }
       ]
     }
