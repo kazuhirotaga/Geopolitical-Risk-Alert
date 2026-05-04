@@ -1,41 +1,27 @@
 {
   "date": "2026-05-04",
-  "summary": "世界各地で社会不安が高まっており、特にオーストラリアのアリススプリングスでは暴動、略奪、放火などの深刻な秩序破壊が発生しています。バングラデシュでは金融不安から預金者による銀行封鎖が見られ、インドや英国ではエネルギー供給問題が生活に影響を与えています。地域紛争や経済的圧力、政府への不満が複合的に作用し、一部でパニック行動や暴動に発展している状況であり、各国は警戒を強めています。",
-  "global_panic_index": 60,
+  "summary": "世界各地で社会不安が顕在化しており、特にオーストラリアと南アジアで深刻な状況が見られます。オーストラリアでは殺人事件を伴う大規模な暴動と略奪が発生し、社会秩序の混乱が深刻化。南アジアでは銀行の取り付け騒ぎや大規模な抗議デモが頻発し、金融・社会的な緊張が高まっています。ヨーロッパでは燃料不足が懸念され、アフリカでも財政不安や抗議活動の兆候が見られるなど、全体的に不安定な状況が続いています。",
+  "global_panic_index": 75,
   "regions": [
     {
-      "region": "southeast_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "社会不安、暴動、略奪、金融不安、エネルギー不足",
+      "region": "north_america",
+      "panic_index": 30,
+      "status": "unstable",
+      "main_cause": "労働条件への不満、企業倫理",
       "incidents": [
         {
-          "title": "Alice Springs暴動、略奪、殺人で多数逮捕",
-          "location": "Alice Springs, Australia",
-          "severity": 90,
-          "description": "幼児の死を背景に発生した大規模な暴動で、警察車両への放火、略奪行為が確認され、多数の逮捕者が出ている。社会秩序の深刻な混乱と暴力の激化が見られる。",
-          "source": "upi.com, MSN, The Nightly"
+          "title": "バス運転手による賃金・人員不足への抗議",
+          "location": "米国 (ノースカロライナ州)",
+          "severity": 30,
+          "description": "ノースカロライナ州のバス運転手が賃金と深刻化する運転手不足に抗議。サービスへの影響が懸念されています。",
+          "source": "WECT"
         },
         {
-          "title": "バングラデシュで預金者が銀行支店を封鎖、金融不安顕在化",
-          "location": "Chattogram, Bangladesh",
-          "severity": 80,
-          "description": "銀行合併に伴う「ヘアカット」に不満を抱く預金者が支店を封鎖する事態が発生。金融機関への信頼が揺らぎ、取り付け騒ぎに発展する懸念が高まっている。",
-          "source": "businesstimes-bd.com"
-        },
-        {
-          "title": "インド全土でLPG供給危機、不足への懸念高まる",
-          "location": "India (全国)",
-          "severity": 70,
-          "description": "家庭用燃料であるLPGの供給不足が深刻化し、10kgシリンダーの導入が検討されるなど、国民の生活に直接的な影響を与えるエネルギー不安が高まっている。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド、ノイダでの抗議活動で多数逮捕、デリーでも釈放要求デモ",
-          "location": "Noida, Delhi, India",
-          "severity": 60,
-          "description": "ノイダで発生した抗議活動で45人が逮捕され、これに対しデリーでも逮捕者の釈放を求めるデモが行われている。広範な社会的不満が表出している。",
-          "source": "MSN"
+          "title": "銀行の企業倫理に対する抗議活動",
+          "location": "米国 (SOMA地域)",
+          "severity": 30,
+          "description": "SOMA Actionが、Citizens BankがICE（移民税関執行局）拘留施設を運営する刑務所企業と関係があることに抗議しています。",
+          "source": "villagegreennj.com"
         }
       ]
     },
@@ -43,51 +29,108 @@
       "region": "europe",
       "panic_index": 55,
       "status": "unstable",
-      "main_cause": "エネルギー不足、交通インフラの混乱",
+      "main_cause": "エネルギー不足、経済不安",
       "incidents": [
         {
-          "title": "イギリスでジェット燃料不足が夏の休暇を脅かし、国内で燃料枯渇も発生",
-          "location": "UK (全国、特にスコットランド)",
-          "severity": 65,
-          "description": "ジェット燃料の不足が夏季の旅行に影響を与える懸念が高まる中、スコットランドでは一部のガソリンスタンドで燃料が枯渇し、価格制限が課されるなど、エネルギー不足が顕在化している。",
-          "source": "BBC, The Scottish Sun"
+          "title": "ジェット燃料不足による夏期休暇への脅威",
+          "location": "英国",
+          "severity": 50,
+          "description": "ジェット燃料不足が夏期休暇に影響を及ぼす可能性が指摘されており、旅行計画を持つ人々の間で不安が広がっています。",
+          "source": "BBC"
         },
         {
-          "title": "英国南東部で銀行休日中に大規模な列車運行障害",
-          "location": "South East, UK",
-          "severity": 45,
-          "description": "銀行休日中に発生した大規模な列車運行障害が広範囲の交通に影響を与え、市民の移動計画に混乱と不便をもたらしている。直接的なパニック行動は見られないが、社会不安の一因となる。",
-          "source": "AOL.com"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "地域紛争、政府への抗議",
-      "incidents": [
-        {
-          "title": "パキスタン、バラでのドローン攻撃で民間人被害、大規模抗議呼びかけ",
-          "location": "Bara, Pakistan",
+          "title": "スコットランドでの燃料不足と購入制限",
+          "location": "英国 (スコットランド)",
           "severity": 65,
-          "description": "ドローン攻撃により民間人が犠牲となり、これを受けて5月7日の大規模な抗議活動が呼びかけられている。地域の緊張と市民の不満が高まっている。",
-          "source": "Voicepk.net"
+          "description": "スコットランドで数百人のドライバーが25ポンドの燃料キャップに直面し、一部のガソリンスタンドでは燃料切れが報じられています。買いだめにつながる懸念があります。",
+          "source": "The Scottish Sun"
+        },
+        {
+          "title": "世界株式市場下落の可能性に関する警告",
+          "location": "グローバル（イングランド銀行副総裁の発言）",
+          "severity": 50,
+          "description": "イングランド銀行副総裁が、世界中の株式市場が下落する可能性について言及し、広範な経済不安を引き起こす可能性があります。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "潜在的な社会不安",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "金融不安、抗議活動の脅威",
       "incidents": [
         {
-          "title": "モザンビークで抗議デモの脅威、国境で警察が厳戒態勢",
-          "location": "Lebombo Border, Mozambique",
-          "severity": 45,
-          "description": "潜在的な抗議デモの発生が予想され、国境地帯で警察が厳戒態勢を敷いている。実際にパニックは発生していないが、社会的不安が高まっている兆候が見られる。",
+          "title": "ガーナ中央銀行の財政健全性への懸念",
+          "location": "ガーナ",
+          "severity": 50,
+          "description": "ガーナ中央銀行の会計枠組みの下で、同行が政策的に破綻状態にあるとの指摘があり、金融システムへの不信感が高まっています。",
+          "source": "MyJoyOnline"
+        },
+        {
+          "title": "モザンビーク国境での抗議活動の脅威",
+          "location": "モザンビーク (レボンボ国境)",
+          "severity": 55,
+          "description": "モザンビークのレボンボ国境で抗議活動の脅威があり、警察が厳戒態勢を敷いています。国境を越える人々に不安が広がっています。",
           "source": "EWN"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "金融パニック、抗議デモ、治安悪化",
+      "incidents": [
+        {
+          "title": "バングラデシュで預金者による銀行支店封鎖（取り付け騒ぎ）",
+          "location": "バングラデシュ (チッタゴン)",
+          "severity": 90,
+          "description": "銀行合併後の預金者への「ヘアカット（損失負担）」に抗議し、預金者が銀行支店を封鎖。深刻な金融パニックが発生しています。",
+          "source": "businesstimes-bd.com"
+        },
+        {
+          "title": "インド・ノイダでの大規模抗議デモと逮捕",
+          "location": "インド (ノイダ)",
+          "severity": 65,
+          "description": "ノイダでの抗議活動において、45人が逮捕されました。警察は「計画された陰謀」と見ており、社会不安が拡大しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド・デリーで逮捕者釈放を求める抗議",
+          "location": "インド (デリー)",
+          "severity": 65,
+          "description": "ノイダでの抗議活動で逮捕された労働者や活動家の釈放を求め、デリーで新たな抗議デモが発生。社会不安が継続しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "インド政府、燃料小売業者への財政支援なしと発表",
+          "location": "インド",
+          "severity": 50,
+          "description": "インド政府が燃料小売業者への財政支援計画がないと発表。燃料価格の上昇や供給不安定化への懸念が消費者の間で高まっています。",
+          "source": "Reuters"
+        },
+        {
+          "title": "インド・オディシャでのギャング暴力と警察の怠慢",
+          "location": "インド (オディシャ州カナス)",
+          "severity": 70,
+          "description": "オディシャ州でギャング間の暴力事件が発生し、警察が怠慢であるとの報告。地域の治安が悪化し、住民の不安を煽っています。",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    {
+      "region": "australia",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "大規模暴動、略奪、治安悪化",
+      "incidents": [
+        {
+          "title": "アリススプリングスで殺人事件を発端とする暴動と略奪",
+          "location": "オーストラリア (アリススプリングス)",
+          "severity": 95,
+          "description": "アリススプリングスで殺人容疑者の逮捕後に暴動が発生し、略奪行為が見られました。警察は多数の逮捕者を出し、町は一時的に無秩序な状態に陥りました。",
+          "source": "MSN, upi.com, The Nightly"
         }
       ]
     }
