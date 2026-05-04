@@ -1,19 +1,16 @@
 [
   {
     "date": "2026-05-04",
-    "summary": "中東情勢の緊迫化による原油価格の変動、GameStopによるeBay買収提案、暗号資産規制の動向など、複数のリスク要因が複合的に影響し、市場の不確実性が高まっています。",
+    "summary": "中東情勢の緊迫化によるエネルギー供給不安、インフレ懸念、及び暗号資産市場の動向が金融市場のリスク要因として浮上。地政学的リスクと金融政策の不確実性が高まっている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "critical",
       "north_america": "medium",
-      "europe": "low",
-      "east_asia": "low",
-      "south_america": "medium",
-      "africa": "none",
-      "middle_east": "high"
+      "europe": "medium",
+      "east_asia": "low"
     },
-    "generated_at": "2026-05-04T03:35:52.606329"
+    "generated_at": "2026-05-04T08:35:45.551655"
   },
   {
     "date": "2026-05-03",

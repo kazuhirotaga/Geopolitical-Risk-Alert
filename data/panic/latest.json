@@ -1,48 +1,105 @@
 {
   "date": "2026-05-04",
-  "summary": "世界各地で多様な形態の社会不安とパニック事象が報告されています。特にオーストラリアでは大規模な暴動や略奪が発生し、治安状況が著しく悪化しています。また、バングラデシュでは取り付け騒ぎ寸前の金融不安が顕在化し、英国ではエネルギー供給問題が国民の不安を煽っています。インドやオランダでも抗議活動や極右勢力の活動が社会の不安定化を示唆しており、複数の地域で警戒が必要な状況です。",
-  "global_panic_index": 68,
+  "summary": "世界各地で局所的ながらも深刻な社会不安やパニック事象が報告されています。特にオーストラリアのAlice Springsでは大規模な暴動と略奪が発生し、社会秩序の崩壊が懸念される状況です。バングラデシュでは銀行の取り付け騒ぎの兆候が見られ、金融不安が表面化しています。インドではエネルギー不足が、欧州では社会・政治的緊張が潜在的な不安要素となっています。全体としては特定の地域に問題が集中しており、世界全体がパニック状態にあるわけではありませんが、警戒が必要です。",
+  "global_panic_index": 55,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 55,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "エネルギー不足、政治的イデオロギー的対立",
+      "main_cause": "社会・政治的緊張、潜在的エネルギー供給不安",
       "incidents": [
         {
-          "title": "ジェット燃料不足による夏期旅行への脅威",
-          "location": "英国",
-          "severity": 60,
-          "description": "ジェット燃料不足が深刻化し、夏期の航空便の欠航や統合が懸念されている。英国政府は航空会社にフライト調整を許可しており、国民の旅行計画への不確実性が増大し、広範な混乱の可能性が高まっている。",
-          "source": "BBC / The Guardian"
+          "title": "ジェット燃料不足による夏の休暇への脅威",
+          "location": "イギリス",
+          "severity": 40,
+          "description": "ジェット燃料の不足が夏の旅行シーズンに影響を及ぼす可能性が指摘されており、将来的な移動の制限や費用増大への懸念が高まっている。",
+          "source": "BBC"
         },
         {
-          "title": "国際的な極右ネットワークがオランダの社会不安を利用",
+          "title": "オランダでの騒乱に極右ネットワークが介入",
           "location": "オランダ",
-          "severity": 45,
-          "description": "オランダ国内で発生している社会不安や対立を利用し、国際的な極右ネットワークが活動を再開している。具体的な暴動は報告されていないものの、社会の分断を深め、将来的な混乱を招く潜在的なリスクを抱えている。",
+          "severity": 50,
+          "description": "オランダ国内で発生している社会的な騒乱が、国際的な極右ネットワークによって利用され、国内の政治的・社会的な不安定さを増幅させている。",
           "source": "Justice for Prosperity"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 58,
+      "region": "north_america",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 60,
       "status": "unstable",
-      "main_cause": "金融不安、労働問題",
+      "main_cause": "エネルギー不足、社会不安",
       "incidents": [
         {
-          "title": "預金者が銀行支店を施錠し預金返還を要求",
-          "location": "バングラデシュ、チャトグラム",
-          "severity": 70,
-          "description": "バングラデシュのチャトグラムで、Sammilito銀行の預金者が預金返還を求めて銀行支店を施錠する事態が発生。金融システムへの信頼喪失が深刻化しており、取り付け騒ぎへの発展が強く懸念される。",
-          "source": "bdnews24.com / businesstimes-bd.com"
+          "title": "LPG供給危機、10kgシリンダー導入計画か",
+          "location": "インド",
+          "severity": 60,
+          "description": "液化石油ガス（LPG）の供給危機が報じられており、政府系石油会社が10kgシリンダーの導入を検討するなど、生活必需品の供給不安が高まっている。",
+          "source": "MSN"
         },
         {
-          "title": "賃金抗議デモに関連し2名が拘束",
-          "location": "カンボジア、プノンペン",
-          "severity": 35,
-          "description": "カンボジアのプノンペンで、賃金に関する抗議デモに関連して2名が裁判所により拘束された。大規模な混乱には至っていないものの、労働者の不満が背景にある社会不安の兆候が示唆される。",
+          "title": "Noida騒乱関連の逮捕者釈放を求める抗議デモ",
+          "location": "インド・デリー",
+          "severity": 55,
+          "description": "Noidaで発生した騒乱に関連して逮捕された労働者や活動家の釈放を求め、デリーで抗議デモが行われており、社会的な緊張が続いている。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "africa",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "south_america",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "大規模暴動、略奪、金融不安",
+      "incidents": [
+        {
+          "title": "Chattogramで銀行預金者が預金引き出しを求め抗議",
+          "location": "バングラデシュ・Chattogram",
+          "severity": 75,
+          "description": "ChattogramのSammilit Islami Bank PLCの預金者が預金引き出しを求めて抗議活動を行い、支店をロックアウトする事態に発展しており、取り付け騒ぎの兆候が見られる。",
+          "source": "businesstimes-bd.com"
+        },
+        {
+          "title": "Alice Springsで暴動・略奪・放火が発生、19名逮捕",
+          "location": "オーストラリア・Alice Springs",
+          "severity": 90,
+          "description": "Alice Springsで大規模な暴動が発生し、略奪や放火行為が見られた。警察は暴動映像を公開し、これまでに19名を逮捕しており、社会秩序の重大な混乱が続いている。",
+          "source": "MSN, upi.com"
+        },
+        {
+          "title": "プノンペンで給与不払い抗議者2名が拘留",
+          "location": "カンボジア・プノンペン",
+          "severity": 45,
+          "description": "プノンペンでHuione Pay社の給与不払い問題に関する抗議活動を行っていた2名が裁判所によって拘留され、労働争議が当局によって抑えられている。",
           "source": "Cambodianess"
         }
       ]

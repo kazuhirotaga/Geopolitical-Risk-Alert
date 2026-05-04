@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-04",
-    "summary": "米軍は、イラン戦争継続に伴い250億ドルの費用が発生。米国はウクライナ停戦についてロシアと協議。フィリピンでは米海兵隊が防衛シミュレーションに参加。モロッコでは米軍兵士2名が行方不明。",
+    "summary": "5月は、米軍のドイツからの部隊撤退計画、ウクライナ軍の部隊交代問題、イラン戦争のコストなどが注目された。フィリピンでは米軍とフィリピン軍の合同演習が行われた。ウクライナ情勢、イラン情勢、アジア太平洋地域における米軍の動向が主な焦点となっている。",
     "events": [
       {
         "id": "CE001",
@@ -133,6 +133,23 @@
         "urgency": "low",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
+      },
+      {
+        "id": "event-9",
+        "timestamp": "2026-04-29",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "トランプ大統領、プーチン大統領とウクライナの停戦について協議",
+        "content": "トランプ大統領が、プーチン大統領との電話会談で、ウクライナでの「少しの停戦」を提案したと発言。",
+        "involved_parties": [
+          "米国",
+          "ロシア",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/"
       }
     ]
   },

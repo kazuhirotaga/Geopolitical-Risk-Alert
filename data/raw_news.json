@@ -4,7 +4,7 @@
     "title": "米 ホルムズ海峡で足止めの船舶退避支援を表明 イランはけん制",
     "summary": "イラン情勢をめぐり、アメリカのトランプ大統領は、ホルムズ海峡で足止めされている船舶を誘導し退避させるため「プロジェクト・フリーダム」と名付けた取り組みを4日から開始すると表明しました。ただ、イラン側は「いかなる干渉も停戦違反とみなされる」とけん制していて船舶の退避が進むかどうかは不透明な状況です。",
     "url": "http://www3.nhk.or.jp/news/html/20260504/k10015114261000.html",
-    "published": "2026-05-04T12:06:43+09:00",
+    "published": "2026-05-04T17:25:07+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
@@ -14,14 +14,40 @@
     ]
   },
   {
-    "id": "60825698b756",
-    "title": "高市首相 オーストラリアと経済安保協力で共同宣言発表へ",
-    "summary": "高市総理大臣は訪問先のオーストラリアでアルバニージー首相と首脳会談を行いました。両首脳は、エネルギーや食料などのサプライチェーンの強化に向けた連携を柱とした経済安全保障協力の指針となる共同宣言を発表する見通しです。",
+    "id": "ea865e4c8fca",
+    "title": "日豪首脳会談 経済安保で共同宣言発表 安保協力強化で一致",
+    "summary": "高市総理大臣はオーストラリアのアルバニージー首相と首脳会談を行いエネルギーや食料などのサプライチェーンの強化に向けた連携を柱とした経済安全保障協力の指針となる共同宣言を発表したほか、安全保障協力をいっそう強化していくことで一致しました。",
     "url": "http://www3.nhk.or.jp/news/html/20260504/k10015114361000.html",
-    "published": "2026-05-04T12:00:35+09:00",
+    "published": "2026-05-04T16:49:44+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "68733c79ce86",
+    "title": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
+    "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+    "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-05-04T07:58:36+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "4ca5166a7d72",
+    "title": "Former NYC Mayor Giuliani hospitalised in ‘critical condition’",
+    "summary": "Spokesman says Giuliani in 'critical but stable' condition as President Trump hails 'true warrior'.",
+    "url": "https://www.aljazeera.com/news/2026/5/4/former-nyc-mayor-giuliani-hospitalised-in-critical-condition-spokesman?traffic_source=rss",
+    "published": "2026-05-04T07:19:47+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
     "regions": [
       "global"
     ]
@@ -38,6 +64,46 @@
     "regions": [
       "south_asia",
       "africa"
+    ]
+  },
+  {
+    "id": "49d0dbb98083",
+    "title": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
+    "summary": "Sanae Takaichi makes comments during a visit to Australia, where she signs agreements on energy supplies.",
+    "url": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss",
+    "published": "2026-05-04T06:45:13+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia",
+      "middle_east"
+    ]
+  },
+  {
+    "id": "91155ff0989e",
+    "title": "All-round hero Hardie helps Babar Azam’s Peshawar Zalmi win PSL 2026",
+    "summary": "Hardie's 4 wickets and 56 runs help secure Peshawar's second PSL title with a five-wicket win over Hyderabad Kingsmen.",
+    "url": "https://www.aljazeera.com/sports/2026/5/4/all-round-hero-hardie-helps-babar-azams-peshawar-zalmi-win-psl-2026?traffic_source=rss",
+    "published": "2026-05-04T06:20:41+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "b2a74de9951d",
+    "title": "How to escape Russia’s army: Soldiers serving in Ukraine seek a way out",
+    "summary": "Russia's army faces a desertion crisis as it continues to use waves of soldiers to attack Ukraine's defensive positions.",
+    "url": "https://www.aljazeera.com/news/2026/5/4/how-to-escape-russias-army-soldiers-serving-in-ukraine-seek-a-way-out?traffic_source=rss",
+    "published": "2026-05-04T06:15:24+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
     ]
   },
   {
@@ -107,9 +173,9 @@
     ]
   },
   {
-    "id": "6047456cfadb",
-    "title": "Iran war live: Tehran warns Trump’s Hormuz mission will violate ceasefire",
-    "summary": "Iran protests as Trump announces 'Project Freedom' to escort stranded ships out of the Strait of Hormuz.",
+    "id": "5073ad05333d",
+    "title": "Iran war live: Iranian military warns US of attacks over Hormuz mission",
+    "summary": "Iran protests as Trump announces 'Project Freedom' to free stranded ships out of the Strait of Hormuz.",
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
     "published": "2026-05-04T00:00:00+00:00",
     "source_name": "Al Jazeera",
@@ -226,19 +292,6 @@
     ]
   },
   {
-    "id": "5ef92c4a0fdf",
-    "title": "Investigators say Trump assassination suspect shot officer at press gala",
-    "summary": "Secret Service agent at White House correspondents' dinner was 'definitively' hit by suspect's bullet, prosecutor says.",
-    "url": "https://www.aljazeera.com/news/2026/5/3/investigators-say-trump-assassination-suspect-shot-officer-at-press-gala?traffic_source=rss",
-    "published": "2026-05-03T17:25:50+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "f60acd75e077",
     "title": "米中間選挙まで半年 与党・共和党が多数派維持できるか焦点",
     "summary": "アメリカのトランプ政権に対して有権者が審判する機会ともなる中間選挙まで、3日で半年となります。イランへの軍事作戦が始まって2か月余りとなり、ガソリン価格の高騰といった影響も出ているなか、与党・共和党が上下両院で多数派を維持できるかが焦点です。",
@@ -250,59 +303,6 @@
     "regions": [
       "middle_east",
       "north_america"
-    ]
-  },
-  {
-    "id": "01c3651b19d9",
-    "title": "The US vs Latin America: Varsha Gandikota and Susana Muhamad",
-    "summary": "Gandikota asks Muhamad: What does the military‑industrial machine mean for the sovereignty of the Global South?",
-    "url": "https://www.aljazeera.com/video/reframe/2026/5/3/the-us-v-latin-america-varsha-gandikota-susana-muhamad?traffic_source=rss",
-    "published": "2026-05-03T15:58:20+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "north_america"
-    ]
-  },
-  {
-    "id": "558639eb58ec",
-    "title": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
-    "summary": "Palestinian factions reject US-backed plans linking aid to weapons surrender, demanding clear political path forward.",
-    "url": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays?traffic_source=rss",
-    "published": "2026-05-03T15:40:46+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "6b8ab010c913",
-    "title": "On World Press Freedom Day, Pope honours journalists killed in war zones",
-    "summary": "Pope Leo XIV asks faithful to remember journalists who have lost their lives pursuing the truth.",
-    "url": "https://www.aljazeera.com/news/2026/5/3/pope-honors-journalists-killed-in-war-zones-on-world-press-freedom-day?traffic_source=rss",
-    "published": "2026-05-03T14:06:20+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "c7a80982e2d4",
-    "title": "US to cut troops in Germany as Iran war spat deepens",
-    "summary": "US-German relations are straining as a spat deepens between President Trump and Chancellor Merz over the war on Iran.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/us-to-cut-troops-in-germany-as-iran-war-spat-deepens?traffic_source=rss",
-    "published": "2026-05-03T13:38:56+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "europe"
     ]
   },
   {
@@ -344,19 +344,6 @@
     "regions": [
       "europe",
       "north_america"
-    ]
-  },
-  {
-    "id": "e8878c416449",
-    "title": "Nigeria summons South African envoy over attacks on its nationals",
-    "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
-    "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-05-03T10:16:01+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
     ]
   },
   {
