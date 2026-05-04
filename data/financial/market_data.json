@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T21:50:06.810284",
+  "generated_at": "2026-05-04T03:35:38.770784",
   "indices": [
     {
       "symbol": "^N225",
@@ -76,38 +76,38 @@
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 78659.640625,
-      "price_formatted": "78,660",
-      "change": 2.390625,
-      "change_formatted": "+2",
-      "change_percent": 0.0030392938985281076,
-      "change_percent_formatted": "+0.00%",
+      "current_price": 80036.3515625,
+      "price_formatted": "80,036",
+      "change": 1379.1015625,
+      "change_formatted": "+1,379",
+      "change_percent": 1.7533050831296544,
+      "change_percent_formatted": "+1.75%",
       "trend": "up",
-      "date": "2026-05-03"
+      "date": "2026-05-04"
     },
     {
       "symbol": "GC=F",
       "label": "金 (先物)",
-      "current_price": 4644.5,
-      "price_formatted": "4,644.50",
-      "change": 29.7998046875,
-      "change_formatted": "+29.80",
-      "change_percent": 0.6457581950344232,
-      "change_percent_formatted": "+0.65%",
-      "trend": "up",
-      "date": "2026-05-01"
+      "current_price": 4621.10009765625,
+      "price_formatted": "4,621.10",
+      "change": -8.7998046875,
+      "change_formatted": "-8.80",
+      "change_percent": -0.19006468548154484,
+      "change_percent_formatted": "-0.19%",
+      "trend": "down",
+      "date": "2026-05-03"
     },
     {
       "symbol": "CL=F",
       "label": "原油 (WTI先物)",
-      "current_price": 101.94000244140625,
-      "price_formatted": "101.94",
-      "change": -3.1299972534179688,
-      "change_formatted": "-3.13",
-      "change_percent": -2.978963797952836,
-      "change_percent_formatted": "-2.98%",
+      "current_price": 101.8499984741211,
+      "price_formatted": "101.85",
+      "change": -0.09000396728515625,
+      "change_formatted": "-0.09",
+      "change_percent": -0.08829111745106082,
+      "change_percent_formatted": "-0.09%",
       "trend": "down",
-      "date": "2026-05-01"
+      "date": "2026-05-03"
     }
   ]
 }

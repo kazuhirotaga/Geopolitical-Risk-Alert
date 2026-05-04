@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-05-04",
+    "summary": "中東情勢の緊迫化による原油価格の変動、GameStopによるeBay買収提案、暗号資産規制の動向など、複数のリスク要因が複合的に影響し、市場の不確実性が高まっています。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "high",
+      "north_america": "medium",
+      "europe": "low",
+      "east_asia": "low",
+      "south_america": "medium",
+      "africa": "none",
+      "middle_east": "high"
+    },
+    "generated_at": "2026-05-04T03:35:52.606329"
+  },
+  {
     "date": "2026-05-03",
     "summary": "本日の金融市場は、SpaceXのIPO計画、Figmaの株価下落、テキサスのワイナリー破産、米イラン間の緊張、そしてAI関連銘柄への関心の高まりなど、複数の要因が複雑に絡み合い、全体として中程度のリスクを示唆しています。",
     "overall_risk_level": "medium",
