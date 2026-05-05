@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-05-05",
+    "summary": "ホルムズ海峡でアメリカ軍がイランの妨害を排除し、商業輸送を護衛。アメリカ軍はイランの小型ボート6隻を破壊、ミサイルとドローンを撃墜。フィリピンではアメリカ海兵隊が上陸侵攻を想定した防衛シミュレーションを実施。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-05-04",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "アメリカ軍、ホルムズ海峡でイランの妨害を排除",
+        "content": "アメリカ軍がホルムズ海峡で商業輸送を護衛中、イランが妨害を試みた。アメリカ軍はこれに対処し、イランの小型ボート6隻を破壊、ミサイルとドローンを撃墜した。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-04-29",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "アメリカ海兵隊、フィリピンで上陸侵攻を想定した防衛シミュレーションを実施",
+        "content": "アメリカ海兵隊がフィリピンで、上陸侵攻を想定した防衛シミュレーションを実施。シミュレーションでは、無人航空機が敵を攻撃し、敵の撤退を支援する様子が描かれた。",
+        "involved_parties": [
+          "アメリカ海兵隊",
+          "模擬敵"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-04-29",
+        "location": "モスクワ",
+        "region": "europe",
+        "title": "トランプ大統領、プーチン大統領とウクライナの停戦について協議",
+        "content": "トランプ大統領は、水曜日にプーチン大統領と電話会談を行い、ウクライナでの停戦について議論したと述べた。",
+        "involved_parties": [
+          "アメリカ",
+          "ロシア",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-04",
     "summary": "ホルムズ海峡で米軍がイランの小型艇を撃破し、ミサイルとドローンを撃墜。トランプ政権下で米国はドイツからの部隊撤退を計画。ウクライナでは軍の交代に関する不満が発生。フィリピンでは米海兵隊が侵略者を撃退する模擬演習を実施。",
     "events": [
@@ -3895,89 +3950,6 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-04",
-    "summary": "ペルシャ湾周辺で米軍機撃墜と墜落が発生。イランは米軍基地インフラへの攻撃を継続し、米国人パイロットの捜索が続く。一方、インドは防空システムを増強し、ウクライナはドローン対策を強化している。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-04-03",
-        "location": "ホルムズ海峡付近",
-        "region": "middle_east",
-        "title": "米空軍A-10攻撃機墜落",
-        "content": "ホルムズ海峡付近で米空軍のA-10攻撃機が墜落。ほぼ同時刻にF-15E戦闘機が撃墜されたとの情報もあり、関連性を調査中。",
-        "involved_parties": [
-          "アメリカ軍"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/a-10-warthog-crashes-near-strait-of-hormuz/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-03",
-        "location": "イラン上空",
-        "region": "middle_east",
-        "title": "米軍F-15E戦闘機が撃墜",
-        "content": "イラン上空で米軍のF-15E戦闘機が撃墜。生存者の捜索救助活動が進行中。イランによる攻撃の可能性が高い。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-04-01",
-        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAE各地の米軍基地",
-        "region": "middle_east",
-        "title": "イランによる米軍インフラへの攻撃",
-        "content": "イランがバーレーン、カタール、クウェート、サウジアラビア、UAEにある米軍基地のレーダーシステム、衛星通信施設、重要航空機を攻撃。",
-        "involved_parties": [
-          "イラン",
-          "アメリカ軍"
-        ],
-        "event_type": "bombing",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-04-01",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ、3月の防空成功率90%近くを主張",
-        "content": "ウクライナ国防省は、3月中の攻撃頻度が増加しているものの、防空性能が向上していると発表。防空成功率が90%近くに達したと主張。",
-        "involved_parties": [
-          "ウクライナ軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
-      },
-      {
-        "id": "event-5",
-        "timestamp": "2026-04-01",
-        "location": "中東地域",
-        "region": "middle_east",
-        "title": "米国、トマホークミサイルの在庫不足の可能性",
-        "content": "米国は「オペレーション・エピック・フューリー」開始から1ヶ月強で、少なくとも850発以上のトマホーク長距離巡航ミサイルを発射。在庫不足が懸念されている。",
-        "involved_parties": [
-          "アメリカ軍"
-        ],
-        "event_type": "bombing",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/01/is-the-us-running-out-of-tomahawk-missiles-heres-what-the-experts-say/"
       }
     ]
   }

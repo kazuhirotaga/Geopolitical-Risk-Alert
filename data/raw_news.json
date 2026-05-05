@@ -1,5 +1,18 @@
 [
   {
+    "id": "c3a426c288de",
+    "title": "ロシアとウクライナ双方が異なる期間の停戦発表 実現不透明",
+    "summary": "ロシア国防省は4日、第2次世界大戦の「戦勝記念日」にあわせて、今月8日から2日間、ウクライナ側と一時的に停戦すると一方的に発表しました。一方、ウクライナ側は6日の午前0時に停戦に入ると主張し、停戦が実現するかは不透明です。",
+    "url": "http://www3.nhk.or.jp/news/html/20260505/k10015114751000.html",
+    "published": "2026-05-05T07:16:53+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
     "id": "dc6cdeab42d8",
     "title": "ゼレンスキー大統領「ロシア強くない」さらなる圧力強化求める",
     "summary": "ウクライナのゼレンスキー大統領はロシアが毎年恒例の軍事パレードの規模を縮小することについて、「ロシアが強くないことのあらわれだ」と述べ、ヨーロッパの首脳らにさらなる圧力の強化を求めました。",
@@ -13,17 +26,55 @@
     ]
   },
   {
-    "id": "bbf2dc41e1d6",
-    "title": "米船籍の商船“ホルムズ通過”イラン反発 情勢は急速に緊迫化",
-    "summary": "ホルムズ海峡の開放を目指すアメリカは、4日、ペルシャ湾内の船舶を誘導して海峡を通過させる取り組みを開始し、アメリカ船籍の商船2隻が通過に成功したと発表しました。イラン側が反発を示すなか、UAE＝アラブ首長国連邦はイランによる無人機やミサイルの攻撃を受けたと発表し、情勢は急速に緊迫化しています。",
-    "url": "http://www3.nhk.or.jp/news/html/20260505/k10015114601000.html",
-    "published": "2026-05-05T05:45:25+09:00",
-    "source_name": "NHK World",
+    "id": "e16a37277525",
+    "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+    "summary": "Shipping company Maersk says one of its US-flagged commercial vessels has successfully exited the Strait of Hormuz under US military protection.",
+    "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-05-05T01:50:39+00:00",
+    "source_name": "BBC - World",
     "source_type": "media",
-    "language": "ja",
+    "language": "en",
     "regions": [
-      "middle_east",
-      "north_america"
+      "middle_east"
+    ]
+  },
+  {
+    "id": "9077e7a80179",
+    "title": "Alabama lawmakers adjourn after protests over redistricting",
+    "summary": "Alabama lawmakers adjourned their session after protesters entered the State House during protests over redistricting.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/alabama-lawmakers-adjourn-after-protests-over-redistricting?traffic_source=rss",
+    "published": "2026-05-05T01:32:16+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "cfc76b5f2a96",
+    "title": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
+    "summary": "The operator of the MV Hondius ship says a Dutch couple and a German national have died.",
+    "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-05-05T01:14:04+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "8bddf073e3ee",
+    "title": "Iran war live: Washington, Tehran trade threats over Strait of Hormuz",
+    "summary": "Israeli attacks have killed 2,696 people in Lebanon since March 2, the country's Health Ministry reports.",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss",
+    "published": "2026-05-05T00:00:00+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -213,20 +264,6 @@
     ]
   },
   {
-    "id": "337cda63b6fa",
-    "title": "US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz",
-    "summary": "Scott Bessent says US has 'absolute control' of Hormuz, but calls on China to 'step up' with diplomacy to reopen strait.",
-    "url": "https://www.aljazeera.com/news/2026/5/4/us-official-says-china-is-funding-iran-urges-beijing-to-help-open-hormuz?traffic_source=rss",
-    "published": "2026-05-04T15:55:38+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia",
-      "middle_east"
-    ]
-  },
-  {
     "id": "573d9de16b8b",
     "title": "New alliance shakes up Nigerian political landscape",
     "summary": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties.",
@@ -237,45 +274,6 @@
     "language": "en",
     "regions": [
       "africa"
-    ]
-  },
-  {
-    "id": "fcd347a20b6c",
-    "title": "UAE reports missile and drone strikes incoming from Iran",
-    "summary": "No immediate reports of casualties, no immediate comment from ‌Iran.",
-    "url": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran?traffic_source=rss",
-    "published": "2026-05-04T15:37:11+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "32f35e66ca43",
-    "title": "Satellite imagery reveals how Sudan’s war scorched its ‘breadbasket’",
-    "summary": "Data from satellites shows how Sudan's war devastated its farming heartland, triggering a unprecedented hunger crisis.",
-    "url": "https://www.aljazeera.com/economy/2026/5/4/satellite-imagery-reveals-how-sudans-war-scorched-its-breadbasket?traffic_source=rss",
-    "published": "2026-05-04T15:03:46+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
-    "id": "d7c29db52321",
-    "title": "Does Trump hold ‘all the cards’ against Iran in the Strait of Hormuz?",
-    "summary": "Trump signals confidence in Iran standoff as tensions rise in the Strait of Hormuz.",
-    "url": "https://www.aljazeera.com/news/2026/5/4/does-trump-hold-all-the-cards-against-iran-in-the-strait-of-hormuz?traffic_source=rss",
-    "published": "2026-05-04T14:56:22+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
@@ -1207,20 +1205,6 @@
     "language": "en",
     "regions": [
       "middle_east"
-    ]
-  },
-  {
-    "id": "0727db7b21d1",
-    "title": "Iran crisis shows fossil fuels-based energy system ‘is inherently volatile and unstable’",
-    "summary": "Senior UN climate leaders are getting behind countries mobilising this week for a transition away from fossil fuels at a groundbreaking event in Colombia.",
-    "url": "https://news.un.org/feed/view/en/story/2026/04/1167401",
-    "published": "2026-04-29T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "south_america"
     ]
   },
   {
