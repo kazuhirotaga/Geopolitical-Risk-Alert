@@ -1,17 +1,16 @@
 [
   {
     "date": "2026-05-05",
-    "summary": "中東情勢の緊迫化による原油価格上昇とインフレ懸念、オーストラリアの利上げ、暗号資産市場の変動が金融市場のリスクを高めている。特に中東地域のリスクが顕著であり、世界経済への影響が懸念される。",
+    "summary": "中東情勢の緊迫化とインフレ懸念から、市場は不安定な動きを見せている。特に、米国とイランの対立激化が原油価格を変動させ、世界経済に影響を与えている。暗号資産市場は引き続き活況だが、規制リスクも顕在化している。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "medium",
-      "north_america": "low",
+      "global": "high",
+      "north_america": "medium",
       "europe": "medium",
-      "east_asia": "medium",
-      "middle_east": "critical"
+      "east_asia": "high"
     },
-    "generated_at": "2026-05-05T08:17:18.981318"
+    "generated_at": "2026-05-05T10:50:11.292996"
   },
   {
     "date": "2026-05-04",
