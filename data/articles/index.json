@@ -1,13 +1,13 @@
 [
   {
     "date": "2026-05-05",
-    "summary": "中東情勢の緊迫化が継続。ホルムズ海峡での米イラン対立、UAEへの攻撃報道などリスク要因が集中。ウクライナ情勢も停戦合意の不確実性から予断を許さず。米中対立も台湾、貿易問題で依然として高い緊張状態。",
+    "summary": "ウクライナ情勢は停戦合意の試みも虚しく攻撃が継続。中東ではイランとアメリカの対立が激化し、ホルムズ海峡の緊張が高まっている。米中対立も継続し、地政学的リスクは全体的に高い状況。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "none",
-      "south_asia": "none",
+      "southeast_asia": "medium",
+      "south_asia": "low",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
@@ -15,7 +15,7 @@
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-05T16:28:30.890738"
+    "generated_at": "2026-05-05T19:26:56.810473"
   },
   {
     "date": "2026-05-04",
