@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-05",
-    "summary": "ホルムズ海峡における米イランの緊張激化、ウクライナ情勢の不安定化、米国内の政治的緊張など、地政学リスクが高まっている。特に中東地域は、紛争の可能性が高く、世界経済への影響が懸念される。",
+    "summary": "ホルムズ海峡における緊張激化により原油価格が急騰。イランとアメリカの対立がエスカレートし、中東情勢が不安定化。ウクライナ情勢も停戦合意が不透明で、地政学的リスクが高まっている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
       "southeast_asia": "medium",
-      "south_asia": "medium",
+      "south_asia": "low",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
-      "africa": "medium",
-      "north_america": "low",
-      "south_america": "none"
+      "africa": "low",
+      "north_america": "medium",
+      "south_america": "low"
     },
-    "generated_at": "2026-05-05T03:22:22.896401"
+    "generated_at": "2026-05-05T08:16:59.903308"
   },
   {
     "date": "2026-05-04",

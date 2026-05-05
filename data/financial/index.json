@@ -1,19 +1,17 @@
 [
   {
     "date": "2026-05-05",
-    "summary": "中東情勢の緊迫化と暗号資産市場の変動が金融市場に影響を与えている。特にイランとUAEの衝突は原油価格の上昇と株価の下落を引き起こし、地政学的リスクを高めている。AI関連銘柄は好調だが、GameStopによるeBay買収の不確実性も存在する。",
+    "summary": "中東情勢の緊迫化による原油価格上昇とインフレ懸念、オーストラリアの利上げ、暗号資産市場の変動が金融市場のリスクを高めている。特に中東地域のリスクが顕著であり、世界経済への影響が懸念される。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
-      "north_america": "medium",
+      "global": "medium",
+      "north_america": "low",
       "europe": "medium",
       "east_asia": "medium",
-      "south_america": "none",
-      "africa": "none",
       "middle_east": "critical"
     },
-    "generated_at": "2026-05-05T03:22:43.995356"
+    "generated_at": "2026-05-05T08:17:18.981318"
   },
   {
     "date": "2026-05-04",
