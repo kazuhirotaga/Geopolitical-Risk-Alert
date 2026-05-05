@@ -1,8 +1,54 @@
 [
   {
     "date": "2026-05-05",
-    "summary": "ホルムズ海峡でのイランとアメリカ軍の衝突、フィリピンでの米軍とフィリピン軍の合同演習、ウクライナ軍の部隊交代問題などが報告された。イラン情勢の緊迫化、ウクライナ情勢の泥沼化が懸念される。",
+    "summary": "ペルシャ湾で米イラン間の攻撃が再発。ホルムズ海峡を巡り緊張高まる。米軍はイランの小型艇を破壊、ミサイルとドローンを撃墜。一方、フィリピンで米軍がタイフーンミサイルの発射訓練を実施。ウクライナは武器輸出禁止を解除する可能性。",
     "events": [
+      {
+        "id": "1",
+        "timestamp": "2026-05-05",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "米イラン、ペルシャ湾で攻撃を再開",
+        "content": "米国とイランがペルシャ湾の制海権を巡り、新たな攻撃を開始。先月の停戦発表後初の軍事力行使の試み。ホルムズ海峡の商業交通を確保する米軍作戦に対し、イランが妨害を試みているとされる。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/05/us-iran-launch-new-attacks-as-they-wrestle-for-control-of-gulf-waters/"
+      },
+      {
+        "id": "3",
+        "timestamp": "2026-05-05",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米陸軍、フィリピンでの演習でタイフーンミサイルを発射",
+        "content": "米陸軍は、フィリピンでの演習中に新型タイフーンランチャーからトマホークミサイルを発射。軍関係者は、ミサイルの精度が非常に高く、遠距離から窓を狙って命中させることが可能だと述べている。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/"
+      },
+      {
+        "id": "4",
+        "timestamp": "2026-05-05",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ、武器輸出禁止を解除する可能性",
+        "content": "ウクライナは今年中に武器輸出禁止を解除する可能性。イランの脅威にさらされている湾岸諸国が、ウクライナの防空技術を大規模に購入する最初の国となる可能性がある。",
+        "involved_parties": [
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/05/ukraine-could-lift-arms-exports-ban-this-year-as-would-be-buyers-line-up/"
+      },
       {
         "id": "event-1",
         "timestamp": "2026-05-04",
@@ -16,6 +62,22 @@
         ],
         "event_type": "clash",
         "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/"
+      },
+      {
+        "id": "2",
+        "timestamp": "2026-05-04",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米軍、ホルムズ海峡でイランの小型艇を破壊、ミサイルとドローンを撃墜",
+        "content": "米海軍はホルムズ海峡で、イランの小型艇6隻を破壊、ミサイルとドローンを撃墜。イランは、米軍によるホルムズ海峡の商業交通開放作戦を妨害しようとしていたとされる。米軍は商船を護衛。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "critical",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/"
       },
