@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-06",
-    "summary": "ウクライナ情勢は停戦合意が破棄され戦闘継続。中東ではイランを巡る緊張緩和の兆しが見える一方、米欧間の対立が表面化。北朝鮮は核戦力指揮権を明記し、韓国との統一条項を削除。世界各地で地政学的リスクが複合的に高まっている。",
+    "summary": "ウクライナ情勢は停戦合意が不透明なまま戦闘が継続。中東では、米イラン間の緊張緩和の兆しが見られる一方、依然として不安定な状況が続く。北朝鮮は核戦力指揮権を明記し、緊張を高めている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -12,10 +12,10 @@
       "middle_east": "medium",
       "europe": "high",
       "africa": "medium",
-      "north_america": "medium",
-      "south_america": "low"
+      "north_america": "low",
+      "south_america": "none"
     },
-    "generated_at": "2026-05-06T14:24:01.991173"
+    "generated_at": "2026-05-06T16:45:25.401280"
   },
   {
     "date": "2026-05-05",
