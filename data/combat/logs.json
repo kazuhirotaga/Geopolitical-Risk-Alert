@@ -1,5 +1,90 @@
 [
   {
+    "date": "2026-05-06",
+    "summary": "ホルムズ海峡での機雷敷設の脅威、米国とイラン間の攻撃の応酬、米軍によるイラン小型艇の破壊とミサイル迎撃、ウクライナの武器輸出解禁の可能性、米軍のフィリピンでのトマホークミサイル発射訓練などが報告された。",
+    "events": [
+      {
+        "id": "EVENT_001",
+        "timestamp": "2026-05-05",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "ホルムズ海峡における機雷の脅威",
+        "content": "米国海軍中央軍が、ホルムズ海峡における機雷の存在に関するセキュリティ警告を発令。米国防総省は、同海峡の安全な通過を保証すると表明。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/05/pentagon-assures-safe-passage-through-strait-of-hormuz-despite-presence-of-mines/"
+      },
+      {
+        "id": "EVENT_002",
+        "timestamp": "2026-05-05",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "米国とイランが新たな攻撃を開始",
+        "content": "米国とイランがペルシャ湾の支配権を巡り、新たな攻撃を開始。前月の停戦発表以来、初の武力行使と見られる。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/05/us-iran-launch-new-attacks-as-they-wrestle-for-control-of-gulf-waters/"
+      },
+      {
+        "id": "EVENT_003",
+        "timestamp": "2026-05-04",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米軍がイランの小型艇を破壊、ミサイルとドローンを迎撃",
+        "content": "米軍がホルムズ海峡を商業交通に開放する作戦を妨害しようとしたイランの小型艇6隻を破壊し、ミサイルとドローンを迎撃。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/"
+      },
+      {
+        "id": "EVENT_004",
+        "timestamp": "2026-05-05",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米陸軍がフィリピンでの演習でタイフーンランチャーからトマホークミサイルを発射",
+        "content": "米陸軍がフィリピンでの演習中に、新型タイフーンランチャーからトマホークミサイルを発射。精密な命中精度が確認された。",
+        "involved_parties": [
+          "アメリカ軍",
+          "フィリピン軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/"
+      },
+      {
+        "id": "EVENT_005",
+        "timestamp": "2026-05-05",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナが武器輸出禁止を解除する可能性",
+        "content": "イランの脅威にさらされている湾岸諸国が、ウクライナの防空技術を大規模に購入する最初の国となる可能性がある。ウクライナは今年中に武器輸出禁止を解除する可能性が出てきた。",
+        "involved_parties": [
+          "ウクライナ",
+          "湾岸諸国"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/05/ukraine-could-lift-arms-exports-ban-this-year-as-would-be-buyers-line-up/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-05",
     "summary": "ホルムズ海峡における米イラン間の緊張激化、アメリカ軍によるイラン小型艇の破壊およびミサイル迎撃。フィリピンにおける米軍のトマホークミサイル発射訓練。ドイツにおけるアメリカ軍のドローン戦訓練。",
     "events": [
@@ -3941,77 +4026,6 @@
         "urgency": "low",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/03/30/missile-wielding-airbus-interceptor-engages-one-way-attack-drone-in-test/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-05",
-    "summary": "アメリカとイラン間の軍事衝突が激化。ホルムズ海峡付近でA-10攻撃機が墜落、F-15E戦闘機が撃墜される。イランはアメリカ軍基地への攻撃を実施。アメリカ特殊部隊が撃墜されたF-15の搭乗員を救出。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-04-03",
-        "location": "ホルムズ海峡付近",
-        "region": "middle_east",
-        "title": "A-10攻撃機が墜落",
-        "content": "アメリカ空軍のA-10サンダーボルトII攻撃機がホルムズ海峡付近で墜落。同時期にF-15E戦闘機が撃墜されたと報告されている。",
-        "involved_parties": [
-          "アメリカ空軍"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/a-10-warthog-crashes-near-strait-of-hormuz/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-03",
-        "location": "イラン上空",
-        "region": "middle_east",
-        "title": "米軍F-15E戦闘機が撃墜",
-        "content": "アメリカ軍のF-15E戦闘機がイラン上空で撃墜され、生存者の捜索救助活動が開始された。",
-        "involved_parties": [
-          "アメリカ空軍",
-          "イラン"
-        ],
-        "event_type": "attack",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-04-01",
-        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAE",
-        "region": "middle_east",
-        "title": "イランが米軍基地インフラを攻撃",
-        "content": "イランがバーレーン、カタール、クウェート、サウジアラビア、UAEに所在する米軍基地のレーダーシステム、衛星通信、重要航空機を攻撃した。",
-        "involved_parties": [
-          "イラン",
-          "アメリカ軍"
-        ],
-        "event_type": "attack",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-03-31",
-        "location": "シチリア",
-        "region": "europe",
-        "title": "イタリアが中東へ向かう米軍機を拒否",
-        "content": "イタリアが、イランに対するアメリカとイスラエルの戦争のために、シチリア島を経由する米軍機の使用を拒否。",
-        "involved_parties": [
-          "イタリア",
-          "アメリカ軍",
-          "イスラエル",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/"
       }
     ]
   }
