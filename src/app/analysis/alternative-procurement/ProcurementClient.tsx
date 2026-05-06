@@ -188,27 +188,27 @@ export default function ProcurementClient({ data }: { data: ProcurementData }) {
       <section className="hero-section">
         <h1 className="hero-title">世界各国の石油代替調達ルート</h1>
         <p className="hero-subtitle">
-          地政学リスク（制裁、紛争）に伴う、エネルギー資源の供給元から消費国へのサプライチェーンのシフトを可視化します。
+          2026年4月以降のホルムズ海峡危機に伴う、中東からの供給断絶と緊急の代替サプライチェーン・シフトを可視化します。
         </p>
       </section>
 
       <div className="risk-stats mb-8">
-          <div className="risk-stat-card">
+          <div className="risk-stat-card critical">
               <div className="flex items-center justify-center gap-2 mb-2">
-                  <Globe className="w-5 h-5 text-accent-blue" />
-                  <span className="risk-stat-label">産出国シフト</span>
+                  <Globe className="w-5 h-5 text-risk-critical" />
+                  <span className="risk-stat-label text-risk-critical">中東供給ショック</span>
               </div>
               <div className="text-sm font-medium text-center mt-2">
-                  ロシア産原油の禁輸により、<br/>中東・米国からの調達が急増
+                  ホルムズ海峡の封鎖により<br/>中東からの輸出が60-70%急減
               </div>
           </div>
-          <div className="risk-stat-card">
+          <div className="risk-stat-card high">
               <div className="flex items-center justify-center gap-2 mb-2">
-                  <Droplet className="w-5 h-5 text-emerald-400" />
-                  <span className="risk-stat-label">代替エネルギー</span>
+                  <Droplet className="w-5 h-5 text-accent-blue" />
+                  <span className="risk-stat-label text-accent-blue">米国へのパニックシフト</span>
               </div>
               <div className="text-sm font-medium text-center mt-2">
-                  欧州を中心に、LNG・再生可能<br/>エネルギーへのシフトが加速
+                  日本・アジア・欧州が<br/>米国産原油へ緊急代替調達
               </div>
           </div>
           <div className="risk-stat-card">
@@ -251,19 +251,19 @@ export default function ProcurementClient({ data }: { data: ProcurementData }) {
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
         <div className="glass-card">
-            <h3 className="section-title text-lg">💡 分析のポイント</h3>
+            <h3 className="section-title text-lg">💡 分析のポイント (2026年4月以降)</h3>
             <ul className="article-summary flex flex-col gap-3">
                 <li className="flex gap-2">
-                    <span className="text-accent-blue font-bold">•</span>
-                    <span><strong>対ロシア制裁の影響:</strong> 欧州のロシア依存度が激減する一方、中国・インドへの「安価なロシア産原油」のフローが拡大し、市場が分断されています。</span>
+                    <span className="text-risk-critical font-bold">•</span>
+                    <span><strong>ホルムズ海峡封鎖の直撃:</strong> 中東からのフローが実質的に断絶状態となり、これまで中東に90%依存していた日本や韓国などアジア市場が深刻な供給ショックに直面しています。</span>
                 </li>
                 <li className="flex gap-2">
                     <span className="text-accent-blue font-bold">•</span>
-                    <span><strong>米国の輸出プレゼンス拡大:</strong> 欧州のエネルギー危機を補うため、米国のLNG・原油輸出が戦略的に増加しています。</span>
+                    <span><strong>米国産原油へのパニック買い:</strong> 失われた中東の穴を埋めるため、米国産への代替調達が急増し、米国が一時的に世界最大の供給拠点と化しています。</span>
                 </li>
                 <li className="flex gap-2">
-                    <span className="text-accent-blue font-bold">•</span>
-                    <span><strong>再生可能エネルギーへの構造的転換:</strong> 調達リスクを根本的に減らすため、各国で代替エネルギーの導入率が上昇傾向にあります。</span>
+                    <span className="text-risk-high font-bold">•</span>
+                    <span><strong>ロシア・インフラへの攻撃と争奪戦:</strong> アジアはロシアからの調達も狙いますが、ロシア側の輸出能力低下（ドローン攻撃による港湾停止）もあり、アフリカ・南米での調達競争が激化しています。</span>
                 </li>
             </ul>
         </div>
