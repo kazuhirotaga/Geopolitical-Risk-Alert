@@ -1,19 +1,54 @@
 {
   "date": "2026-05-06",
-  "summary": "米イラン間の和平合意の可能性を受け、原油価格が急落し株式市場が上昇。しかし、低所得層はガソリン価格高騰の影響を受けており、市場のボラティリティに対する警戒感も高まっている。暗号資産市場では規制の不確実性が依然としてリスク要因。",
-  "overall_risk_level": "medium",
+  "summary": "中東情勢の緊迫化と、それに関連するエネルギー価格の変動、市場の調整リスクへの警戒感が強まっています。暗号資産市場では規制の不確実性が依然として高く、関連法案の動向が注目されます。",
+  "overall_risk_level": "high",
   "articles": [
+    {
+      "title": "Trump says Iran will be bombed at a 'much higher level' if it doesn't agree to peace deal",
+      "region": "middle_east",
+      "risk_level": "critical",
+      "summary": "トランプ前大統領がイランとの和平合意がなければ、より高レベルの爆撃を行うと発言。中東地域の地政学的リスクが高まっています。",
+      "analysis": "トランプ氏の発言は、中東地域の地政学的リスクを著しく高める可能性があります。原油価格の急騰、サプライチェーンの混乱、投資家のリスク回避姿勢の強まりなどが予想されます。特に、エネルギー関連企業や中東地域へのエクスポージャーが大きい企業は、ネガティブな影響を受ける可能性が高いです。今後の和平交渉の行方と、それに対する国際社会の反応が重要になります。",
+      "key_entities": [
+        "トランプ",
+        "イラン"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Iran war threatens jet fuel shortage that could disrupt summer travel in Asia and Europe",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "イラン戦争がジェット燃料の供給不足を引き起こし、アジアとヨーロッパの夏の旅行に混乱をもたらす恐れがあります。",
+      "analysis": "中東における紛争激化は、原油価格の上昇だけでなく、ジェット燃料の供給不足という具体的な問題を引き起こす可能性があります。これは航空業界に直接的な打撃を与え、旅行需要の減少、航空運賃の上昇、ひいては経済全体の成長鈍化につながる可能性があります。特に、アジアとヨーロッパの航空会社は、燃料供給の安定確保と代替ルートの検討を迫られるでしょう。",
+      "key_entities": [
+        "イラン",
+        "アジア",
+        "ヨーロッパ",
+        "航空会社"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
     {
       "title": "Oil prices fall more than 7% as U.S. and Iran appear close to deal to end war",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "米国とイランが紛争終結に向けた合意に近づいているとの報道を受け、原油価格が7%以上急落。市場は好感しているものの、合意が破談になった場合のリスクも考慮する必要がある。",
-      "analysis": "イランとの和平合意は、原油供給の増加期待から原油価格を下落させ、インフレ抑制に寄与する可能性がある。株式市場はリスクオンの姿勢を強め、特にエネルギー関連以外のセクターにとってはプラス要因となる。しかし、合意が不確実な要素を含んでいること、イランの国内情勢が不安定なことなどから、今後の動向を注視する必要がある。合意が破談となった場合、原油価格の急騰と地政学的リスクの高まりが予想され、市場の混乱を招く可能性がある。",
+      "summary": "米国とイランが戦争終結に向けた合意に近づいているとの報道を受け、原油価格が7%以上下落しました。",
+      "analysis": "米国とイランの和平交渉が進展すれば、原油価格の下落圧力となる可能性があります。しかし、合意内容の詳細や履行状況によっては、市場の変動性が高まる可能性も残ります。また、他の産油国の動向や世界経済の状況も原油価格に影響を与えるため、今後の動向を注視する必要があります。",
       "key_entities": [
-        "米国政府",
-        "イラン政府",
-        "OPEC",
-        "Shell plc"
+        "米国",
+        "イラン",
+        "原油"
       ],
       "sources": [
         "CNBC - Top News"
@@ -23,87 +58,15 @@
       ]
     },
     {
-      "title": "Dow rises 600 points as oil retreats on Iran deal progress; AMD jumps after earnings: Live updates",
-      "region": "middle_east",
-      "risk_level": "low",
-      "summary": "イラン和平合意の進展による原油価格の下落と好調な企業業績に支えられ、ダウ平均が600ポイント上昇。S&P500とナスダックも高値を更新。",
-      "analysis": "株式市場は、イラン和平合意による原油価格の下落を好感し、リスクオンの動きが強まっている。特に、AMDのようなテクノロジー企業の好調な業績が市場を牽引している。しかし、市場全体が楽観的なムードに包まれている一方で、Apollo CEOが市場の調整リスクを警告するなど、警戒感も根強い。今後の市場動向を注意深く見守る必要がある。",
-      "key_entities": [
-        "S&P 500",
-        "Nasdaq Composite",
-        "AMD"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Surging gas prices are hitting lower-income households harder, New York Fed study shows",
+      "title": "Apollo CEO Rowan warns of market correction, slams 'egregious' practices at rival insurers",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ニューヨーク連銀の調査によると、ガソリン価格の高騰が低所得世帯を直撃しており、消費を抑制する動きが見られる。",
-      "analysis": "ガソリン価格の高騰は、低所得世帯の可処分所得を圧迫し、消費支出の減少につながる可能性がある。これは、経済全体の成長を鈍化させる要因となりうる。特に、エネルギー価格の影響を受けやすい運輸、小売などのセクターにとってはマイナス要因となる。政府は、低所得世帯への支援策を検討する必要がある。",
-      "key_entities": [
-        "ニューヨーク連銀",
-        "ガソリン価格",
-        "低所得世帯"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media",
-        "research"
-      ]
-    },
-    {
-      "title": "Apple's R&D investments top 10% of sales as AI race creates 'sense of urgency'",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Appleの研究開発投資が売上高の10%を超え、AI開発競争の激化が背景にある。",
-      "analysis": "AppleがAI分野への投資を加速させていることは、AI技術が今後の成長戦略において重要な役割を果たすと考えていることを示唆している。これは、AI関連技術の需要拡大につながり、関連企業の株価上昇を促す可能性がある。しかし、AI技術の開発競争は激化しており、投資回収の不確実性も考慮する必要がある。",
-      "key_entities": [
-        "Apple",
-        "AI"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Car payments squeeze Americans as auto debt hits $1.68 trillion, report finds",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "自動車ローン残高が1.68兆ドルに達し、アメリカ人の家計を圧迫している。",
-      "analysis": "自動車ローン残高の増加は、金利上昇と自動車価格の高騰が主な要因である。これは、消費者の債務負担を増加させ、消費支出の減少につながる可能性がある。特に、自動車ローン延滞率の上昇は、金融機関の不良債権増加につながるリスクがある。今後の金利動向と自動車市場の動向を注視する必要がある。",
-      "key_entities": [
-        "自動車ローン",
-        "金利",
-        "自動車価格"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Apollo CEO Rowan warns of market correction, slams ‘egregious’ practices at rival insurers",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "Apollo CEOが市場の調整リスクを警告し、競合保険会社の不正行為を批判。",
-      "analysis": "Apollo CEOの市場調整リスクに関する警告は、現在の市場が高値圏にあることを示唆している。特に、保険業界における不正行為の存在は、金融システム全体の信頼性を損なう可能性がある。投資家は、リスク管理を徹底し、ポートフォリオの分散化を進める必要がある。",
+      "summary": "Apollo CEOのRowan氏が市場の調整リスクを警告し、競合保険会社の「ひどい」慣行を非難しました。",
+      "analysis": "著名な投資家であるApollo CEOの警告は、市場参加者のリスク回避姿勢を強める可能性があります。特に、高PER銘柄や新興市場など、リスクの高い資産からの資金流出が加速する可能性があります。また、保険業界における不透明な慣行が明らかになれば、規制強化の動きにつながる可能性もあります。",
       "key_entities": [
         "Apollo",
-        "保険会社",
-        "市場調整"
+        "Rowan",
+        "市場"
       ],
       "sources": [
         "CNBC - Top News"
@@ -113,15 +76,15 @@
       ]
     },
     {
-      "title": "Bitcoin moves above $82,000 while ZEC and DASH post double-digit rallies",
+      "title": "White House targets July 4 for Clarity Act passage, says crypto adviser Patrick Witt",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインが82,000ドルを超え、ZECとDASHが二桁の上昇を記録。",
-      "analysis": "ビットコインの価格上昇は、暗号資産市場への投資意欲が高まっていることを示唆している。特に、ZECやDASHのようなプライバシーコインの上昇は、規制強化に対する懸念の高まりを反映している可能性がある。しかし、暗号資産市場はボラティリティが高く、価格変動リスクには注意が必要である。",
+      "summary": "ホワイトハウスは、暗号資産に関するClarity Actの7月4日までの成立を目指していると、暗号資産アドバイザーのPatrick Witt氏が述べました。",
+      "analysis": "Clarity Actの成立は、暗号資産市場の規制環境を明確化し、機関投資家の参入を促進する可能性があります。しかし、法案の内容によっては、一部の暗号資産や関連ビジネスにネガティブな影響を与える可能性も否定できません。今後の法案審議の動向と、市場参加者の反応が注目されます。",
       "key_entities": [
-        "Bitcoin",
-        "ZEC",
-        "DASH"
+        "ホワイトハウス",
+        "Clarity Act",
+        "暗号資産"
       ],
       "sources": [
         "CoinDesk"
@@ -134,12 +97,12 @@
       "title": "Crypto bill won't move without a ban on officials' industry ties, says U.S. Senator Gillibrand",
       "region": "europe",
       "risk_level": "medium",
-      "summary": "米国のGillibrand上院議員は、暗号資産法案が、当局者の業界との関係禁止なしには進展しないと発言。",
-      "analysis": "暗号資産規制に関する不透明感が依然として存在し、法案の進展が遅れる可能性がある。これは、暗号資産市場の成長を阻害する要因となりうる。特に、当局者の業界との関係は、利益相反の問題を引き起こす可能性があり、規制の公平性を損なう恐れがある。",
+      "summary": "米国のGillibrand上院議員は、当局者の業界との関係禁止がなければ、暗号資産法案は進展しないと述べています。",
+      "analysis": "この発言は、暗号資産規制における倫理的な問題を提起し、法案の進展を遅らせる可能性があります。当局者の業界との関係が禁止されれば、規制の公平性が高まる一方で、業界の専門知識が規制プロセスから失われる可能性も考慮する必要があります。",
       "key_entities": [
+        "Gillibrand",
         "暗号資産",
-        "規制",
-        "米国上院"
+        "規制"
       ],
       "sources": [
         "CoinDesk"
@@ -149,15 +112,33 @@
       ]
     },
     {
-      "title": "Goodbye quarterly earnings? Here's when traders believe this big change will happen",
+      "title": "Spot Bitcoin ETFs solved access, but custody, advisors and plumbing still lag, panelists say",
       "region": "global",
-      "risk_level": "low",
-      "summary": "トレーダーは、SECが四半期決算報告義務を廃止すると予想している。",
-      "analysis": "四半期決算報告義務の廃止は、企業の短期的な利益追求を抑制し、長期的な視点での経営を促す可能性がある。しかし、投資家にとっては、企業の情報開示が減少し、投資判断が難しくなる可能性がある。今後のSECの動向を注視する必要がある。",
+      "risk_level": "medium",
+      "summary": "スポットBitcoin ETFはアクセスを改善したが、カストディ、アドバイザー、インフラストラクチャは依然として遅れているとパネリストが述べています。",
+      "analysis": "スポットBitcoin ETFの登場は、機関投資家や個人投資家にとってBitcoinへのアクセスを容易にしましたが、カストディサービスの安全性、アドバイザーの専門知識、そして市場インフラストラクチャの成熟度は、依然として課題として残っています。これらの課題が解決されない限り、Bitcoin ETF市場の成長は限定的になる可能性があります。",
       "key_entities": [
-        "SEC",
-        "四半期決算",
-        "情報開示"
+        "Bitcoin",
+        "ETF",
+        "カストディ"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Surging gas prices are hitting lower-income households harder, New York Fed study shows",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ガソリン価格の高騰が低所得世帯をより強く圧迫していることが、ニューヨーク連銀の調査で明らかになりました。",
+      "analysis": "ガソリン価格の高騰は、低所得世帯の消費を抑制し、経済全体の成長を鈍化させる可能性があります。特に、運輸コストが上昇することで、食品や日用品の価格も上昇し、インフレ圧力を高める可能性があります。政府は、低所得世帯への支援策を検討する必要があるでしょう。",
+      "key_entities": [
+        "ガソリン価格",
+        "低所得世帯",
+        "ニューヨーク連銀"
       ],
       "sources": [
         "CNBC - Top News"
@@ -167,14 +148,30 @@
       ]
     },
     {
-      "title": "FanDuel CEO Amy Howe is out after five years at the sportsbook",
+      "title": "DoorDash pops 12% on strong earnings, upbeat order growth guidance",
       "region": "global",
       "risk_level": "low",
-      "summary": "スポーツ賭博会社FanDuelのCEOが退任。",
-      "analysis": "スポーツ賭博市場は急速に拡大しており、競争も激化している。CEOの交代は、経営戦略の転換や市場シェアの変動につながる可能性がある。今後のFanDuelの動向と、スポーツ賭博市場全体の動向を注視する必要がある。",
+      "summary": "DoorDashは好調な業績と強気な受注成長見通しにより12%上昇しました。",
+      "analysis": "DoorDashの好調な業績は、消費者の需要が依然として堅調であることを示唆しています。しかし、大規模な支出イニシアチブが利益率に与える影響や、競争激化による市場シェアの変動など、リスク要因も存在します。今後の業績動向を注視する必要があります。",
       "key_entities": [
-        "FanDuel",
-        "スポーツ賭博"
+        "DoorDash"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "AMD's Su explains what's behind massive forecast change as stock roars 19% on earnings",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "AMDのSu CEOは、好調な業績を受け、長期予測を大幅に変更した背景を説明し、株価は19%上昇しました。",
+      "analysis": "AMDの強気な見通しは、半導体市場の成長に対する期待を高める可能性があります。特に、データセンターやAI関連の需要増加が、AMDの業績を牽引すると予想されます。しかし、競争激化やサプライチェーンの問題など、リスク要因も存在するため、今後の動向を注視する必要があります。",
+      "key_entities": [
+        "AMD",
+        "半導体"
       ],
       "sources": [
         "CNBC - Top News"
@@ -185,13 +182,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "medium",
+    "global": "high",
     "north_america": "medium",
     "europe": "medium",
-    "east_asia": "none",
-    "south_america": "none"
+    "east_asia": "high"
   },
-  "generated_at": "2026-05-06T19:51:31.667874",
+  "generated_at": "2026-05-06T22:01:18.545934",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
