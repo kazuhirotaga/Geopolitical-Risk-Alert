@@ -35,6 +35,7 @@ export default function RootLayout({
                   エネルギー
                   <span style={{ position: 'absolute', top: '-10px', right: '-15px', fontSize: '10px', backgroundColor: 'var(--accent-blue)', color: 'white', padding: '1px 4px', borderRadius: '4px', fontWeight: 'bold' }}>UPDATED</span>
                 </a></li>
+                <li><a href="/analysis/alternative-procurement">代替調達</a></li>
                 <li><a href="/analysis/logistics">物流</a></li>
                 <li><a href="/analysis/combat-log">戦闘log</a></li>
                 <li><a href="/analysis/panic" style={{ position: 'relative' }}>

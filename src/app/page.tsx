@@ -63,6 +63,13 @@ export default function Home() {
             <div style={{ fontSize: '1.5rem', fontWeight: 'bold', margin: '4px 0' }}>⚡ エネルギー・燃料監視</div>
             <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>国内在庫推移・需給動向</div>
           </a>
+
+          {/* 代替調達ルートへのリンクカード */}
+          <a href="/analysis/alternative-procurement" className="risk-stat-card" style={{ borderStyle: 'dashed', borderColor: 'var(--accent-purple)', cursor: 'pointer', display: 'flex', flexDirection: 'column', justifyContent: 'center', textDecoration: 'none' }}>
+            <div className="risk-stat-label" style={{ color: 'var(--accent-purple)' }}>Procurement Flow</div>
+            <div style={{ fontSize: '1.5rem', fontWeight: 'bold', margin: '4px 0' }}>🔄 代替調達ルート</div>
+            <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>エネルギーサプライチェーンシフト</div>
+          </a>
         </div>
       </section>
 
