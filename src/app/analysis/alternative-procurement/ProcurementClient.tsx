@@ -238,11 +238,10 @@ export default function ProcurementClient({ data }: { data: ProcurementData }) {
           <ResponsiveContainer width="100%" height="100%">
             <Sankey
               data={data.data}
-              node={{ stroke: 'none' } as any}
+              node={<CustomNode />}
               nodePadding={40}
               margin={{ left: 20, right: 120, top: 20, bottom: 20 }}
               link={<CustomLink />}
-              nodeProps={<CustomNode />}
             >
               <Tooltip content={<CustomTooltip />} />
             </Sankey>
