@@ -16,8 +16,8 @@ interface SankeyNode {
 }
 
 interface SankeyLink {
-  source: number | SankeyNode;
-  target: number | SankeyNode;
+  source: number;
+  target: number;
   value: number;
 }
 
