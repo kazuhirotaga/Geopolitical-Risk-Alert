@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-06T12:00:00Z",
-  "unit": "Million Barrels of Oil Equivalent per Day (MBOED) - Estimated",
+  "last_updated": "2026-05-06T18:45:00Z",
+  "unit": "Estimated Relative Flow Index (Based on 2024-2025 mb/d trends)",
   "data": {
     "nodes": [
       { "name": "ロシア" },
-      { "name": "米国" },
+      { "name": "米国 (北米)" },
       { "name": "中東" },
       { "name": "アフリカ" },
-      { "name": "再生可能エネルギー・代替" },
+      { "name": "代替・その他" },
       { "name": "欧州連合 (EU)" },
       { "name": "中国" },
       { "name": "インド" },
@@ -15,33 +15,25 @@
       { "name": "その他地域" }
     ],
     "links": [
-      {"source": 0, "target": 5, "value": 5},
       {"source": 1, "target": 5, "value": 35},
-      {"source": 2, "target": 5, "value": 25},
-      {"source": 3, "target": 5, "value": 15},
-      {"source": 4, "target": 5, "value": 30},
+      {"source": 3, "target": 5, "value": 25},
+      {"source": 2, "target": 5, "value": 20},
+      {"source": 4, "target": 5, "value": 20},
+      {"source": 0, "target": 5, "value": 5},
       
-      {"source": 0, "target": 6, "value": 40},
-      {"source": 2, "target": 6, "value": 55},
-      {"source": 1, "target": 6, "value": 10},
+      {"source": 2, "target": 6, "value": 50},
+      {"source": 0, "target": 6, "value": 35},
       {"source": 3, "target": 6, "value": 15},
-      {"source": 4, "target": 6, "value": 20},
+      {"source": 1, "target": 6, "value": 10},
       
-      {"source": 0, "target": 7, "value": 35},
-      {"source": 2, "target": 7, "value": 25},
-      {"source": 1, "target": 7, "value": 5},
-      {"source": 3, "target": 7, "value": 10},
-      {"source": 4, "target": 7, "value": 5},
+      {"source": 0, "target": 7, "value": 40},
+      {"source": 2, "target": 7, "value": 30},
+      {"source": 1, "target": 7, "value": 10},
+      {"source": 3, "target": 7, "value": 5},
       
-      {"source": 2, "target": 8, "value": 30},
-      {"source": 1, "target": 8, "value": 15},
-      {"source": 4, "target": 8, "value": 10},
-      {"source": 0, "target": 8, "value": 2},
-      
-      {"source": 2, "target": 9, "value": 20},
-      {"source": 1, "target": 9, "value": 25},
-      {"source": 3, "target": 9, "value": 5},
-      {"source": 4, "target": 9, "value": 10}
+      {"source": 2, "target": 8, "value": 60},
+      {"source": 1, "target": 8, "value": 10},
+      {"source": 4, "target": 8, "value": 5}
     ]
   }
 }
