@@ -1,101 +1,94 @@
 {
   "date": "2026-05-06",
-  "summary": "世界全体では、アフリカと中東の一部地域で深刻な社会不安が見られますが、グローバルな大規模パニックには至っていません。アフリカでは経済危機とそれに伴う暴力的な抗議活動が顕著で、中東では地政学的緊張と大規模な学生デモが続いています。一方、欧米や東アジアでは小規模な政治的抗議や潜在的な安全保障上の懸念が報じられていますが、市民生活への直接的なパニックは限定的です。金融市場では大規模な銀行破綻の報道があるものの、広範な取り付け騒ぎには発展していません。",
-  "global_panic_index": 40,
+  "summary": "世界各地で社会不安の兆候が散見されます。アフリカと東南アジアでは経済・金融不安が深刻化し、バングラデシュで銀行預金者が過激な抗議を、モザンビークは経済破綻の危機に。東アジア（韓国ソウル）では年間2万件のデモが常態化し、中東（イラン）でも学生抗議が継続。社会の緊張が高まっています。北米では局地的な抗議に留まり、大規模パニックはなし。グローバルなデジタル金融市場でのDeFiハッキングなど、潜在的な不安要素が増加傾向にあります。",
+  "global_panic_index": 55,
   "regions": [
     {
-      "region": "africa",
-      "panic_index": 75,
-      "status": "critical",
-      "main_cause": "経済危機、暴力化デモ、金融機関への不満",
-      "incidents": [
-        {
-          "title": "モザンビーク経済の危機",
-          "location": "モザンビーク",
-          "severity": 80,
-          "description": "モザンビーク経済が機能不全に陥っており、政府は緊急かつ困難な政策決定を迫られています。これは食料・エネルギー不足や社会インフラの麻痺に直結し、広範な社会パニックの深刻な原因となる可能性があります。",
-          "source": "Modern Ghana"
-        },
-        {
-          "title": "ナイジェリアで抗議デモが暴力化し病院が破壊",
-          "location": "カラベル、ナイジェリア",
-          "severity": 90,
-          "description": "ナイジェリアのカラベルで発生したUNICROSS事故に関する抗議デモが暴力化し、病院の施設が破壊されました。これは市民の不満が暴動に発展し、社会秩序が一時的に失われていることを示唆しています。",
-          "source": "The Guardian Nigeria News"
-        },
-        {
-          "title": "ナイジェリアでローン申請者が銀行に抗議デモ",
-          "location": "ナイジェリア",
-          "severity": 60,
-          "description": "ナイジェリアで、FGN/BOI MSMEローン申請者たちが、産業銀行による融資の実行状況に抗議するデモを実施しました。これは経済的な困難と金融機関への不満が噴出していることを示すものです。",
-          "source": "Nigeria Startup News"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "政治的緊張、大規模抗議",
-      "incidents": [
-        {
-          "title": "イラン学生による大規模な抗議デモ",
-          "location": "イラン",
-          "severity": 70,
-          "description": "米国の圧力が強まる中、イランの学生たちが3日間にわたり抗議デモを継続しています。これは政府に対する不満と政治的緊張の表れであり、社会の不安定化を招く可能性が高い状況です。",
-          "source": "DD News"
-        },
-        {
-          "title": "米イラン間の地政学的緊張の激化",
-          "location": "ホルムズ海峡、中東地域",
-          "severity": 60,
-          "description": "米国とイランが互いに強硬な姿勢を示し、ホルムズ海峡での主導権争いが激化しています。これにより、地域での戦闘再燃の恐れが高まり、広範な社会不安と警戒感を引き起こしています。",
-          "source": "静岡新聞DIGITAL"
-        }
-      ]
-    },
-    {
       "region": "north_america",
-      "panic_index": 25,
-      "status": "stable",
+      "panic_index": 40,
+      "status": "unstable",
       "main_cause": "政治的抗議",
       "incidents": [
         {
-          "title": "マンハッタンでのウエストバンク不動産フェアへの抗議",
-          "location": "ニューヨーク市、米国",
-          "severity": 30,
-          "description": "ニューヨーク市マンハッタンで開催された、イスラエルによるヨルダン川西岸入植地の不動産販売を促進するイベントに対し、市長が反対を表明し、抗議デモが行われました。これは政治的な抗議であり、市民の広範なパニックではありません。",
-          "source": "Hell Gate"
+          "title": "マンハッタンでのイスラエル不動産販売への抗議",
+          "location": "米国・ニューヨーク",
+          "severity": 45,
+          "description": "マンハッタンのシナゴーグ外で、イスラエルウエストバンクの不動産販売イベントに対する抗議活動が発生。小規模ながらも地域の緊張を示唆。",
+          "source": "Hell Gate, Patch, The Intercept, The Forward"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 30,
+      "panic_index": 25,
       "status": "stable",
-      "main_cause": "安全保障上の懸念",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "社会的不満と抗議活動",
       "incidents": [
         {
-          "title": "グローバルな防空システム不足",
-          "location": "米国・欧州",
-          "severity": 50,
-          "description": "米国と欧州において、ミサイル在庫がほぼ枯渇状態にあり、グローバルな防空システムの不足が指摘されています。これは潜在的な安全保障上の不安要素であり、将来的な社会不安につながる可能性があります。",
-          "source": "112.ua"
+          "title": "韓国ソウルでの年間2万件に上る大規模デモの頻発",
+          "location": "韓国・ソウル",
+          "severity": 65,
+          "description": "ソウルでは年間2万件もの集会・デモが発生し、パリの3.8倍という頻度。社会的不満や政治的対立が日常的に表面化している状況。",
+          "source": "中央日報日本語版, ライブドアニュース"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "政治的抗議",
+      "region": "middle_east",
+      "panic_index": 60,
+      "status": "volatile",
+      "main_cause": "政治的圧力と学生抗議",
       "incidents": [
         {
-          "title": "日本での改憲・武器輸出反対デモ",
-          "location": "鋸南、鴨川、千葉県、日本",
-          "severity": 20,
-          "description": "千葉県の鋸南と鴨川で、延べ80人が改憲や武器輸出に反対する街頭デモを行いました。これは日本の政治的な意見表明であり、社会秩序を乱すようなパニック状態ではありません。",
-          "source": "房日新聞 (Yahoo!ニュース)"
+          "title": "イランでの学生による3日間にわたる抗議活動",
+          "location": "イラン",
+          "severity": 60,
+          "description": "米国の圧力に対する学生たちの抗議が3日間にわたり継続。政治的・社会的な緊張が高まり、潜在的な混乱が懸念される。",
+          "source": "DD News"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 75,
+      "status": "critical",
+      "main_cause": "経済危機、金融サービスへの不満",
+      "incidents": [
+        {
+          "title": "モザンビークの経済破綻危機",
+          "location": "モザンビーク",
+          "severity": 70,
+          "description": "モザンビーク経済が破綻寸前であり、早急な政策変更が不可欠な状況。経済的困窮は大規模な社会不安やパニックに繋がる可能性が高い。",
+          "source": "Modern Ghana"
+        },
+        {
+          "title": "ナイジェリアでのローン申請者による銀行への抗議",
+          "location": "ナイジェリア",
+          "severity": 55,
+          "description": "政府/BOI MSMEローン申請者らが、銀行による融資実行状況に不満を表明し抗議活動を実施。金融サービスへの不満が具体的な行動に。",
+          "source": "Nigeria Startup News"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "金融不安",
+      "incidents": [
+        {
+          "title": "バングラデシュのシャリア銀行預金者による抗議と「自殺プログラム」警告",
+          "location": "バングラデシュ",
+          "severity": 75,
+          "description": "シャリア銀行の預金者がBB当局者の発言に対し抗議し、「自殺プログラム」という極めて強い表現で警告。金融機関への不信と社会不安が顕著。",
+          "source": "The Business Standard"
         }
       ]
     }

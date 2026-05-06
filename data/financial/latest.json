@@ -1,177 +1,174 @@
 {
   "date": "2026-05-06",
-  "summary": "中東情勢の緩和期待による原油価格下落が株価を押し上げる一方、Strategy社のビットコイン戦略転換や、AIブームを背景とした半導体関連株の高騰など、複数の要因が市場を変動させている。地政学的リスクと技術革新が金融市場に影響を与える状況。",
+  "summary": "原油価格急落と好調な企業業績が市場を押し上げている一方、プライベートクレジット市場の不安定化への懸念、地政学的リスク（イラン情勢）が依然として存在し、注意が必要。暗号資産市場では、ビットコインが上昇するも、Strategy社の保有BTC売却検討が懸念材料。",
   "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "Oil prices fall as Trump pauses Hormuz escort effort",
+      "title": "Dow futures surge 500 points as oil dives on report Iran war nearing end, AMD jumps: Live updates",
       "region": "middle_east",
-      "risk_level": "low",
-      "summary": "トランプ政権がホルムズ海峡での護衛活動を一時停止したことで、イランとの交渉進展への期待が高まり、原油価格が下落。",
-      "analysis": "ホルムズ海峡の緊張緩和は、原油供給の安定化につながり、インフレ抑制に寄与する可能性がある。しかし、交渉が決裂した場合、再び緊張が高まり、原油価格が急騰するリスクも存在する。地政学的リスクは依然として存在し、市場の変動要因となる。",
+      "risk_level": "medium",
+      "summary": "イラン和平交渉進展の報道を受け原油価格が急落、ダウ先物が大幅上昇。AMDの好調な業績も市場を牽引。S&P500とナスダックは史上最高値を更新。",
+      "analysis": "イラン情勢の緩和期待は市場心理を改善し、リスクオンの流れを加速させている。原油価格の下落はインフレ抑制に寄与する可能性がある一方、和平交渉の進展が不確実な場合、再び地政学的リスクが顕在化する可能性も考慮する必要がある。AMDの好調な業績は、AIブームが継続していることを示唆し、テクノロジーセクターへの投資を促進するだろう。",
       "key_entities": [
-        "トランプ政権",
+        "AMD",
+        "S&P 500",
+        "Nasdaq Composite",
+        "イラン"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "AMD's stock soars 20% as data center growth pushes revenue and guidance past estimates",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "AMDの決算報告が発表され、AIブームの楽観的な見方から投資家が株式に殺到し、株価が20%急騰。データセンターの成長が収益とガイダンスを押し上げた。",
+      "analysis": "AMDの株価急騰は、AI関連需要の拡大を反映している。データセンター向け半導体の需要増加は、AI技術の進展と普及を裏付けており、関連企業への投資を促進するだろう。ただし、AIブームの過熱感や、競合他社の動向には注意が必要。",
+      "key_entities": [
+        "AMD",
+        "AI"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Disney pops 5% after streaming, parks drive revenue beat in first report under CEO Josh D'Amaro",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "ディズニーの第2四半期決算がアナリストの予想を上回り、株価が5%上昇。ストリーミングサービスとテーマパーク事業が収益を牽引。",
+      "analysis": "ディズニーの好調な業績は、エンターテイメント業界の回復を示唆している。ストリーミングサービスの成長は、消費者の視聴習慣の変化に対応した結果であり、今後の成長も期待できる。ただし、テーマパーク事業の動向は、景気変動や旅行需要に左右されるため、注意が必要。",
+      "key_entities": [
+        "Disney",
+        "Josh D'Amaro"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Private credit’s $2 trillion boom raises global stability fears, watchdog warns",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "金融安定理事会（FSB）は、プライベートクレジット市場の急成長が金融システムの安定性を脅かす可能性があると警告。規制当局による監督強化を求めている。",
+      "analysis": "プライベートクレジット市場の急成長は、低金利環境下での高利回り追求の結果であり、リスクの高い投資が増加している可能性を示唆している。FSBの警告は、市場の過熱感や、潜在的なデフォルトリスクに対する懸念を反映している。規制強化の動きは、市場の健全性を維持するために必要だが、市場の流動性を低下させる可能性もある。",
+      "key_entities": [
+        "Financial Stability Board (FSB)",
+        "プライベートクレジット"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media",
+        "international_org"
+      ]
+    },
+    {
+      "title": "Bitcoin tops $81,000 as Strategy mulls selling its BTC to fund dividend obligations",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ビットコインが81,000ドルを超えるも、Strategy社が配当支払いのために保有するBTCの売却を検討していることが明らかになり、市場に警戒感が広がっている。",
+      "analysis": "ビットコイン価格の上昇は、機関投資家の参入や、インフレヘッジとしての需要の高まりを反映している。しかし、Strategy社のBTC売却検討は、市場心理を悪化させる可能性があり、価格変動リスクを高める。同社の動向は、他のBTC保有企業にも影響を与える可能性があるため、注意が必要。",
+      "key_entities": [
+        "Bitcoin",
+        "Strategy"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Multicoin goes big on zcash as privacy trade returns",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "Multicoin Capitalが、プライバシー保護に特化した暗号資産Zcashへの投資を拡大。プライバシー重視の取引が再び注目を集めている。",
+      "analysis": "Zcashへの投資拡大は、規制強化やデータプライバシーへの意識の高まりを反映している。プライバシー保護機能を持つ暗号資産は、匿名性を求めるユーザーからの需要が高まる可能性がある。ただし、マネーロンダリングなどの不正利用のリスクも考慮する必要がある。",
+      "key_entities": [
+        "Zcash",
+        "Multicoin Capital"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "OKX joins crypto’s pre-IPO frenzy with OpenAI, SpaceX perpetual futures",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "暗号資産取引所OKXが、OpenAIやSpaceXといった未公開企業の永久先物取引を開始。未公開企業への投資に関心が高まっている。",
+      "analysis": "未公開企業の永久先物取引は、投資家に新たな投資機会を提供する一方、高いリスクも伴う。未公開企業の価値評価は困難であり、市場のボラティリティも高くなる可能性がある。規制当局は、投資家保護の観点から、これらの取引に対する監視を強化する必要がある。",
+      "key_entities": [
+        "OKX",
+        "OpenAI",
+        "SpaceX"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "3 charts explain how the Iran war oil shock could impact the economy",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "イラン戦争が経済に与える影響を3つのチャートで解説。原油価格の高騰、インフレ、サプライチェーンの混乱などが懸念される。",
+      "analysis": "イラン情勢の緊迫化は、原油価格の高騰を通じて、世界経済に悪影響を及ぼす可能性がある。インフレの加速は、中央銀行による金融引き締めを促し、景気後退のリスクを高める。サプライチェーンの混乱は、企業の生産活動を阻害し、経済成長を鈍化させる。地政学的リスクは、常に市場の変動要因となるため、注意が必要。",
+      "key_entities": [
         "イラン",
         "原油価格"
       ],
       "sources": [
-        "CNBC - Top News"
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
-      "region": "global",
+      "title": "Venezuela's inflation rate eases to 10.6% in April, cenbank says",
+      "region": "south_america",
+      "risk_level": "medium",
+      "summary": "ベネズエラの4月のインフレ率が10.6%に低下。中央銀行が発表。",
+      "analysis": "ベネズエラのインフレ率低下は、経済状況が改善している可能性を示唆する。しかし、依然として二桁のインフレ率であり、経済の安定化には時間がかかるだろう。政治的な不安定さや、国際的な制裁も、経済回復の足かせとなる可能性がある。",
+      "key_entities": [
+        "ベネズエラ",
+        "インフレ"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Waters CEO highlights China as key innovation source in the biopharma market",
+      "region": "east_asia",
       "risk_level": "low",
-      "summary": "原油価格の下落と好調な企業業績が、S&P 500とNasdaq Compositeを過去最高値に押し上げた。",
-      "analysis": "原油価格の下落は企業収益の改善に繋がり、株価上昇の要因となる。しかし、金利上昇やインフレ再燃のリスクも考慮する必要がある。好調な企業業績が持続可能かどうか、今後の経済指標に注目する必要がある。",
+      "summary": "Waters CEOが、中国をバイオ医薬品市場における重要なイノベーションの源泉として強調。",
+      "analysis": "中国のバイオ医薬品市場におけるプレゼンスの高まりは、研究開発投資の増加や、政府による支援策を反映している。中国企業は、革新的な医薬品や技術の開発を通じて、グローバル市場での競争力を高める可能性がある。ただし、知的財産権の保護や、規制の透明性などが課題となる。",
       "key_entities": [
-        "S&P 500",
-        "Nasdaq Composite",
-        "企業業績"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin treasury firm Strategy breaks from 'never sell' approach to the flagship crypto",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "Strategy社がビットコインのパッシブな蓄積から、バランスシートを積極的に管理する方針に転換。",
-      "analysis": "Strategy社の戦略転換は、ビットコイン市場に売り圧力を加える可能性があり、価格変動リスクを高める。他のビットコイン保有企業も同様の戦略を取る可能性があり、市場全体への影響が懸念される。一方で、積極的な管理により、ビットコインの価値向上に繋がる可能性もある。",
-      "key_entities": [
-        "Strategy",
-        "ビットコイン"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "AMD's stock soars 15% as data center growth pushes revenue and guidance past estimates",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "AMDの決算報告が発表され、AIブームの楽観的な見通しから投資家が株に殺到し、株価が15%上昇。",
-      "analysis": "AIブームは半導体需要を押し上げ、AMDのような企業の収益を増加させる。しかし、AI市場の競争激化や技術革新のスピードによっては、成長が鈍化するリスクもある。過度な期待による株価上昇は、調整局面を迎える可能性も考慮する必要がある。",
-      "key_entities": [
-        "AMD",
-        "AI",
-        "データセンター"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Super Micro stock jumps 18% on guidance beat as revenue more than doubles",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Super Microの収益が倍増し、予想を上回る四半期予測を発表したことで、株価が18%上昇。",
-      "analysis": "Super Microの好調な業績は、データセンター需要の増加と米国での製造進展によるものと考えられる。しかし、サプライチェーンの問題や地政学的リスクが、今後の成長を阻害する可能性もある。競合他社の動向にも注意が必要。",
-      "key_entities": [
-        "Super Micro",
-        "データセンター"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Trust in crypto remains biggest barrier to adoption, say Consensus Miami 2026 panelists",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "暗号資産の普及における最大の障壁は、依然として信頼性であるとConsensus Miami 2026のパネリストが指摘。",
-      "analysis": "暗号資産市場の信頼性向上は、機関投資家の参入を促し、市場の安定化に繋がる。規制の明確化やセキュリティ対策の強化が不可欠。DeFi攻撃の増加は、信頼性を損なう要因となるため、対策が急務。",
-      "key_entities": [
-        "暗号資産",
-        "DeFi"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Kraken eyes IPO as it partners with MoneyGram to bridge crypto-to-cash gap",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "KrakenがMoneyGramと提携し、暗号資産と現金のギャップを埋める取り組みを進める中で、IPOを検討。",
-      "analysis": "KrakenのIPOは、暗号資産市場の成熟度を示す指標となる。MoneyGramとの提携は、暗号資産の利用拡大に貢献する可能性がある。しかし、規制環境の変化や市場の変動によっては、IPOの実現が困難になるリスクもある。",
-      "key_entities": [
-        "Kraken",
-        "MoneyGram",
-        "IPO"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "State Street says institutions want improved blockchain security in wake of recent DeFi attacks",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "State Streetは、最近のDeFi攻撃を受けて、機関投資家がブロックチェーンセキュリティの向上を求めていると発表。",
-      "analysis": "DeFi攻撃の増加は、機関投資家の暗号資産市場への参入を阻害する要因となる。ブロックチェーンセキュリティの強化は、市場の信頼性を高め、機関投資家の参入を促すために不可欠。セキュリティ技術の開発競争が激化する可能性もある。",
-      "key_entities": [
-        "State Street",
-        "ブロックチェーン",
-        "DeFi"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "SEC advances Trump-backed proposal to end mandatory quarterly earnings reports",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "SECが、トランプ政権が提唱した四半期ごとの決算報告義務を廃止する提案を推進。",
-      "analysis": "四半期報告義務の廃止は、企業の負担軽減に繋がる可能性があるが、投資家への情報開示が減少し、市場の透明性が低下するリスクがある。情報格差の拡大やインサイダー取引の増加も懸念される。投資家保護の観点から、慎重な議論が必要。",
-      "key_entities": [
-        "SEC",
-        "トランプ政権",
-        "決算報告"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Michael Burry sells GameStop after Ryan Cohen's hefty eBay bid: 'Never confuse debt for creativity'",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "マイケル・バーリー氏が、ライアン・コーエン氏によるeBayへの巨額買収提案を受け、GameStopの保有株を全て売却。",
-      "analysis": "バーリー氏のGameStop売却は、ミーム株市場の過熱感に対する警鐘と解釈できる。高レバレッジによる買収は、企業の財務状況を悪化させ、株価下落のリスクを高める。投資家は、企業の財務状況を慎重に分析し、リスク管理を徹底する必要がある。",
-      "key_entities": [
-        "マイケル・バーリー",
-        "GameStop",
-        "ライアン・コーエン"
+        "中国",
+        "バイオ医薬品"
       ],
       "sources": [
         "CNBC - Top News"
@@ -182,12 +179,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "medium",
-    "north_america": "none",
-    "europe": "none",
-    "east_asia": "none"
+    "global": "high",
+    "north_america": "medium",
+    "europe": "low",
+    "east_asia": "low"
   },
-  "generated_at": "2026-05-06T03:32:52.508459",
+  "generated_at": "2026-05-06T11:10:18.417073",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

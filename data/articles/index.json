@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-06",
-    "summary": "中東情勢は、米イラン間の緊張緩和の兆しが見える一方、UAEへの攻撃やホルムズ海峡での偶発的な衝突リスクが依然として高い。ウクライナ情勢は停戦合意が不透明で、ロシアへの攻撃が継続。東アジアでは台湾を巡る中国の圧力が継続。",
+    "summary": "中東情勢は、米イラン間の緊張緩和の兆しが見える一方、依然として不安定。ウクライナ情勢は停戦協議が進展せず、戦闘が継続。その他、アフリカ、南米、南アジアでも紛争や人道危機が深刻化しており、地政学リスクは依然として高い。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "medium",
-      "south_asia": "low",
+      "southeast_asia": "low",
+      "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "high",
       "europe": "high",
       "africa": "medium",
-      "north_america": "medium",
-      "south_america": "none"
+      "north_america": "high",
+      "south_america": "medium"
     },
-    "generated_at": "2026-05-06T03:32:30.911403"
+    "generated_at": "2026-05-06T11:09:56.855939"
   },
   {
     "date": "2026-05-05",
