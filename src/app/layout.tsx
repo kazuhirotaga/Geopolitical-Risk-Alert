@@ -31,7 +31,10 @@ export default function RootLayout({
               <ul className="header-nav">
                 <li><a href="/">地政学リスク</a></li>
                 <li><a href="/financial">金融リスク</a></li>
-                <li><a href="/analysis/fuel-stocks">エネルギー</a></li>
+                <li><a href="/analysis/fuel-stocks" style={{ position: 'relative' }}>
+                  エネルギー
+                  <span style={{ position: 'absolute', top: '-10px', right: '-15px', fontSize: '10px', backgroundColor: 'var(--accent-blue)', color: 'white', padding: '1px 4px', borderRadius: '4px', fontWeight: 'bold' }}>UPDATED</span>
+                </a></li>
                 <li><a href="/analysis/logistics">物流</a></li>
                 <li><a href="/analysis/combat-log">戦闘log</a></li>
                 <li><a href="/analysis/panic" style={{ position: 'relative' }}>

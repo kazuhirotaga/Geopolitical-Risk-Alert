@@ -42,7 +42,7 @@ export default function Home() {
             </div>
           </div>
         ))}
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1rem', width: '100%', gridColumn: '1 / -1' }}>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '1rem', width: '100%', gridColumn: '1 / -1' }}>
           {/* パニックダッシュボードへのリンクカード */}
           <a href="/analysis/panic" className="risk-stat-card" style={{ borderStyle: 'dashed', borderColor: 'var(--risk-critical)', cursor: 'pointer', display: 'flex', flexDirection: 'column', justifyContent: 'center', textDecoration: 'none' }}>
             <div className="risk-stat-label" style={{ color: 'var(--risk-critical)' }}>Panic Monitor</div>
@@ -55,6 +55,13 @@ export default function Home() {
             <div className="risk-stat-label" style={{ color: 'var(--risk-high)' }}>Logistics Monitor</div>
             <div style={{ fontSize: '1.5rem', fontWeight: 'bold', margin: '4px 0' }}>🚢 物流・サプライチェーン監視</div>
             <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>主要航路・最新インシデント</div>
+          </a>
+
+          {/* エネルギーモニタリングへのリンクカード */}
+          <a href="/analysis/fuel-stocks" className="risk-stat-card" style={{ borderStyle: 'dashed', borderColor: 'var(--accent-blue)', cursor: 'pointer', display: 'flex', flexDirection: 'column', justifyContent: 'center', textDecoration: 'none' }}>
+            <div className="risk-stat-label" style={{ color: 'var(--accent-blue)' }}>Energy Monitor</div>
+            <div style={{ fontSize: '1.5rem', fontWeight: 'bold', margin: '4px 0' }}>⚡ エネルギー・燃料監視</div>
+            <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>国内在庫推移・需給動向</div>
           </a>
         </div>
       </section>

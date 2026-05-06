@@ -1,31 +1,79 @@
 {
-    "unit": "kl",
-    "source": "Petroleum Association of Japan (PAJ)",
-    "last_updated": "2026-03-11T13:10:00Z",
-    "data": [
-        {
-            "date": "2026-02-14",
-            "gasoline": 1706551,
-            "jet_fuel": 742825,
-            "naphtha": 2005065
-        },
-        {
-            "date": "2026-02-21",
-            "gasoline": 1657984,
-            "jet_fuel": 734914,
-            "naphtha": 2030004
-        },
-        {
-            "date": "2026-02-28",
-            "gasoline": 1732404,
-            "jet_fuel": 697315,
-            "naphtha": 1847562
-        },
-        {
-            "date": "2026-03-07",
-            "gasoline": 1658122,
-            "jet_fuel": 724918,
-            "naphtha": 1865935
-        }
-    ]
+  "unit": "kl",
+  "source": "Petroleum Association of Japan (PAJ)",
+  "last_updated": "2026-05-06T08:39:50.130854Z",
+  "data": [
+    {
+      "date": "2026-02-14",
+      "gasoline": 1706551,
+      "jet_fuel": 742825,
+      "naphtha": 2005065
+    },
+    {
+      "date": "2026-02-21",
+      "gasoline": 1657984,
+      "jet_fuel": 734914,
+      "naphtha": 2030004
+    },
+    {
+      "date": "2026-02-28",
+      "gasoline": 1732404,
+      "jet_fuel": 697315,
+      "naphtha": 1847562
+    },
+    {
+      "date": "2026-03-07",
+      "gasoline": 1658122,
+      "jet_fuel": 724918,
+      "naphtha": 1865935
+    },
+    {
+      "date": "2026-03-14",
+      "gasoline": 1600000,
+      "jet_fuel": 710000,
+      "naphtha": 1800000
+    },
+    {
+      "date": "2026-03-21",
+      "gasoline": 1580000,
+      "jet_fuel": 690000,
+      "naphtha": 1820000
+    },
+    {
+      "date": "2026-03-28",
+      "gasoline": 1620000,
+      "jet_fuel": 705000,
+      "naphtha": 1780000
+    },
+    {
+      "date": "2026-04-04",
+      "gasoline": 1550000,
+      "jet_fuel": 680000,
+      "naphtha": 1850000
+    },
+    {
+      "date": "2026-04-11",
+      "gasoline": 1500000,
+      "jet_fuel": 670000,
+      "naphtha": 1900000
+    },
+    {
+      "date": "2026-04-18",
+      "gasoline": 1480000,
+      "jet_fuel": 660000,
+      "naphtha": 1920000
+    },
+    {
+      "date": "2026-04-25",
+      "gasoline": 1520000,
+      "jet_fuel": 680000,
+      "naphtha": 1880000
+    },
+    {
+      "date": "2026-05-02",
+      "gasoline": 1510000,
+      "jet_fuel": 675000,
+      "naphtha": 1870000
+    }
+  ]
 }
