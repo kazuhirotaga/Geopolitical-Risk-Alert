@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-06",
-    "summary": "ウクライナ情勢は停戦合意が不透明なまま戦闘が継続。中東では、米イラン間の緊張緩和の兆しが見られる一方、依然として不安定な状況が続く。北朝鮮は核戦力指揮権を明記し、緊張を高めている。",
+    "summary": "ウクライナ情勢は停戦合意が不透明なまま戦闘が継続。中東では、アメリカとイランの緊張緩和の兆しが見られるものの、イスラエルとヒズボラの衝突が継続。北朝鮮は核戦力指揮権を明記し、韓国を別国家と規定するなど、地政学的リスクは依然として高い。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "critical",
       "southeast_asia": "medium",
       "south_asia": "low",
       "central_asia": "none",
-      "middle_east": "medium",
+      "middle_east": "high",
       "europe": "high",
       "africa": "medium",
-      "north_america": "low",
+      "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-06T16:45:25.401280"
+    "generated_at": "2026-05-06T19:51:10.476895"
   },
   {
     "date": "2026-05-05",

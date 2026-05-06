@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-06",
-    "summary": "ペルシャ湾におけるアメリカとイランの緊張激化、ホルムズ海峡での攻撃と防衛作戦が展開。フィリピンでの米軍によるトマホークミサイル発射訓練、ヨーロッパではドローン対策の動き。",
+    "summary": "アメリカとイランがペルシャ湾で武力衝突。アメリカ軍はイランの小型ボートを破壊し、ミサイルとドローンを撃墜。ホルムズ海峡の封鎖を試みるイランに対し、アメリカは航行の自由を確保する作戦を展開。フランスはホルムズ海峡の安全確保のため、空母を紅海に展開。",
     "events": [
       {
         "id": "EVENT_001",
@@ -35,22 +35,6 @@
         "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/05/us-iran-launch-new-attacks-as-they-wrestle-for-control-of-gulf-waters/"
       },
       {
-        "id": "EVENT_003",
-        "timestamp": "2026-05-04",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "米軍がイランの小型艇を破壊、ミサイルとドローンを迎撃",
-        "content": "米軍がホルムズ海峡を商業交通に開放する作戦を妨害しようとしたイランの小型艇6隻を破壊し、ミサイルとドローンを迎撃。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "clash",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/"
-      },
-      {
         "id": "EVENT_004",
         "timestamp": "2026-05-05",
         "location": "フィリピン",
@@ -81,6 +65,37 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/05/05/ukraine-could-lift-arms-exports-ban-this-year-as-would-be-buyers-line-up/"
+      },
+      {
+        "id": "5",
+        "timestamp": "2026-05-05",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米軍がフィリピンでタイフーン発射機からトマホークミサイルを発射",
+        "content": "アメリカ陸軍はフィリピンでの演習中に、新型タイフーン発射機からトマホークミサイルを発射した。ミサイルの精度は非常に高く、遠距離から特定の目標を正確に攻撃できることが示された。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/"
+      },
+      {
+        "id": "EVENT_003",
+        "timestamp": "2026-05-04",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米軍がイランの小型艇を破壊、ミサイルとドローンを迎撃",
+        "content": "米軍がホルムズ海峡を商業交通に開放する作戦を妨害しようとしたイランの小型艇6隻を破壊し、ミサイルとドローンを迎撃。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/"
       }
     ]
   },

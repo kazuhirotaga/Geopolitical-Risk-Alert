@@ -1,39 +1,9 @@
 {
   "date": "2026-05-06",
-  "summary": "本日は、連邦準備制度理事会（FRB）によるFOMC声明発表と、ホスト国貸出預金比率に関する発表がありました。金融政策と銀行規制に関する情報公開であり、市場への直接的な影響は限定的ですが、今後の政策動向を占う上で重要な情報源となります。",
-  "statements": [
-    {
-      "speaker": "連邦準備制度理事会（FRB）",
-      "title": "政府機関",
-      "quote": "FOMC声明を発表",
-      "context": "連邦準備制度理事会による公式声明",
-      "analysis": "FOMC声明は、今後の金融政策の方向性を示す重要な指標です。具体的な内容は不明ですが、声明の内容次第では、株式市場や債券市場に大きな影響を与える可能性があります。特に、利上げや利下げの時期、量的緩和の縮小などに関する言及があれば、市場の変動が予想されます。",
-      "importance": "high",
-      "tags": [
-        "金融政策",
-        "FOMC",
-        "FRB",
-        "金融市場"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会（FRB）",
-      "title": "政府機関",
-      "quote": "ホスト国貸出預金比率を発行",
-      "context": "連邦準備制度理事会による公式発表",
-      "analysis": "ホスト国貸出預金比率は、銀行の健全性を示す指標の一つです。この比率の変動は、銀行の貸出姿勢や資金調達状況に影響を与え、ひいては経済全体の成長にも影響を及ぼす可能性があります。詳細な内容を確認し、銀行セクターへの影響を分析する必要があります。",
-      "importance": "medium",
-      "tags": [
-        "銀行規制",
-        "貸出",
-        "預金",
-        "金融機関"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm"
-    }
-  ],
-  "generated_at": "2026-05-06T16:45:57.524371",
+  "summary": "本日は、米連邦準備制度理事会（FRB）を含む政府機関からの発表がありましたが、要人発言は確認できませんでした。金融政策や経済見通しに関する具体的な言及はなく、市場への直接的な影響は限定的と考えられます。",
+  "statements": [],
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
+  "generated_at": "2026-05-06T19:51:37.371468",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
