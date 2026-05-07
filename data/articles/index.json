@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-07",
-    "summary": "中東情勢の緊迫化、ウクライナ情勢の泥沼化、東アジアにおける緊張など、地政学リスクが複合的に高まっている。特に中東では、イランを巡る対立が原油価格高騰を招き、世界経済への影響が懸念される。",
+    "summary": "中東におけるイランを巡る緊張、ウクライナ情勢の悪化、中国国内の汚職問題など、地政学リスクが高まっている。特に中東地域は、米イラン間の紛争が継続し、イスラエルと周辺国との衝突も発生しており、注視が必要。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
       "southeast_asia": "none",
-      "south_asia": "medium",
+      "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
+      "europe": "critical",
       "africa": "medium",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "low"
     },
-    "generated_at": "2026-05-07T16:54:29.597968"
+    "generated_at": "2026-05-07T19:47:12.846585"
   },
   {
     "date": "2026-05-06",
