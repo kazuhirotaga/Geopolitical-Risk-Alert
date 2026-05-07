@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-07",
-    "summary": "中東情勢は、アメリカとイランの緊張緩和に向けた動きが見られるものの、依然として不安定。ウクライナ情勢は停戦合意が履行されず、戦闘が継続。北朝鮮の核開発姿勢も継続しており、地政学リスクは全体的に高い水準。",
+    "summary": "中東におけるアメリカとイランの緊張緩和の兆しが見られる一方、ウクライナ情勢は依然として不安定。東アジアでは、日韓連携の強化と北朝鮮の核開発推進が並行して進み、地政学的リスクは依然として高い。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
       "southeast_asia": "none",
-      "south_asia": "high",
+      "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "critical",
+      "middle_east": "high",
       "europe": "high",
       "africa": "medium",
       "north_america": "medium",
-      "south_america": "low"
+      "south_america": "none"
     },
-    "generated_at": "2026-05-07T11:12:06.064774"
+    "generated_at": "2026-05-07T14:23:42.289334"
   },
   {
     "date": "2026-05-06",

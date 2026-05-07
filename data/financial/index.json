@@ -1,17 +1,16 @@
 [
   {
     "date": "2026-05-07",
-    "summary": "中東情勢の緊迫化がエネルギー価格と金融市場に大きな影響を与えている。イラン戦争の動向が原油価格を変動させ、世界経済の不確実性を高めている。暗号資産市場は規制の動向と技術的な課題に直面しつつも、機関投資家の関心を集めている。",
+    "summary": "世界経済は、インフレ懸念、地政学的リスク（特に中東情勢）、そしてAIブームによる市場の歪みなど、複合的な要因により不確実性が高まっています。原油価格の変動、暗号資産市場の動向、そして主要企業の業績がリスクを増幅させています。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "medium",
-      "north_america": "none",
+      "global": "high",
+      "north_america": "low",
       "europe": "high",
-      "east_asia": "medium",
-      "south_america": "none"
+      "east_asia": "high"
     },
-    "generated_at": "2026-05-07T11:12:25.101638"
+    "generated_at": "2026-05-07T14:24:02.554474"
   },
   {
     "date": "2026-05-06",
