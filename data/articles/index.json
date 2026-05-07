@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-07",
-    "summary": "北朝鮮の核開発推進、ロシアによるウクライナへの報復警告、イラン情勢緊迫化による原油価格高騰など、地政学的リスクが高まっている。特に中東、東アジア、欧州における緊張が顕著。",
+    "summary": "ウクライナ情勢の緊迫化、イランを巡る米イラン間の緊張、北朝鮮の核開発姿勢など、地政学リスクが高まっている。特に中東地域は原油価格高騰を招き、世界経済への影響が懸念される。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "critical",
+      "east_asia": "high",
       "southeast_asia": "none",
-      "south_asia": "none",
+      "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
       "africa": "medium",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "low"
     },
-    "generated_at": "2026-05-07T03:33:00.685329"
+    "generated_at": "2026-05-07T08:39:48.152111"
   },
   {
     "date": "2026-05-06",

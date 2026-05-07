@@ -1,123 +1,160 @@
 {
   "date": "2026-05-07",
-  "summary": "世界全体では、金融不安と生活必需品の不足が一部地域で深刻な社会不安を引き起こしています。特に南アジアでは預金者による切迫した抗議活動が続き、金融機関への信頼が揺らいでいます。北米では政治的・社会的な分断を背景としたデモが多発し、潜在的なエネルギー不足への懸念も存在します。広範なパニックには至っていませんが、特定地域での緊張は高く、警戒が必要です。",
-  "global_panic_index": 48,
+  "summary": "世界各地では、中東における軍事攻撃による直接的なパニックと、南アジアでの金融不安に端を発する深刻な抗議活動が顕著です。北米では大規模なデモや暴動の懸念、潜在的なエネルギー不足が社会不安を引き起こしており、オーストラリアやアフリカでも一部で暴動や資源不足への抗議が見られます。全体として、経済的・社会的な不均衡、地政学的緊張が各地で不安を増幅させていますが、世界全体が広範なパニックに陥っている状況ではありません。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "社会的分断、エネルギー・金融への潜在的懸念",
+      "panic_index": 60,
+      "status": "警戒状態",
+      "main_cause": "大規模な抗議活動、銀行の信用不安の兆候、潜在的なエネルギー不足",
       "incidents": [
         {
-          "title": "Pro-Palestine group protests outside Israeli real estate event in New York",
-          "location": "New York, USA",
-          "severity": 40,
-          "description": "ニューヨークで親パレスチナ団体がイスラエル関連イベントへの抗議デモを実施。政治的・民族的対立が背景にあり、社会的な分断を示す。大規模な衝突には至っていないが、緊張状態にある。",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "198-year-old bank is losing customers for controversial reason",
-          "location": "USA",
-          "severity": 30,
-          "description": "米国で198年の歴史を持つ銀行が、物議を醸す理由で顧客を失っている。取り付け騒ぎには発展していないが、金融機関への信頼低下の兆候であり、潜在的な金融不安の種となりうる。",
-          "source": "thestreet.com"
-        },
-        {
-          "title": "Is California at risk of a gasoline shortage amid the Iran war? Experts explain",
-          "location": "California, USA",
-          "severity": 50,
-          "description": "イラン情勢を背景に、カリフォルニア州でガソリン不足が発生するリスクが専門家によって指摘されている。現時点で不足は起きていないが、エネルギー供給への懸念が顕在化しており、買いだめの引き金となる可能性を秘める。",
-          "source": "ABC News"
-        },
-        {
-          "title": "Pro-Palestinian and Pro-Israel Demonstrators Rally Outside Synagogue",
-          "location": "New York, USA",
-          "severity": 45,
-          "description": "ニューヨークのシナゴーグ前で、親パレスチナ派と親イスラエル派のデモ隊が衝突。双方の主張がぶつかり合い、社会の分断と緊張を浮き彫りにしている。直接的な大規模暴力には至っていない。",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Mamdani’s cheering antisemitic mob violence like he WANTS blood on the streets",
-          "location": "New York, USA",
-          "severity": 60,
-          "description": "反ユダヤ主義的な暴動を煽る言動が報じられており、社会秩序の不安定化と暴力の激化を懸念させる。言葉による扇動が実際の暴動につながる危険性をはらんでいる。",
-          "source": "New York Post"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "金融不安、生活必需品（水）不足、大規模デモの暴力化",
-      "incidents": [
-        {
-          "title": "Depositors of six troubled nonbank financial institutions stage a silent protest in front of Bangladesh Bank",
-          "location": "Bangladesh",
-          "severity": 70,
-          "description": "バングラデシュ銀行前で、6つの非銀行金融機関の預金者が抗議デモを実施。金融機関のトラブルが預金者の不安を引き起こしており、大規模な取り付け騒ぎに発展する潜在的なリスクがある。",
-          "source": "The Financial Express"
-        },
-        {
-          "title": "Noida protest violence: ‘Outsiders’ among arrested, UP govt links unrest to organised groups",
-          "location": "Noida, India",
-          "severity": 75,
-          "description": "インドのノイダで発生した抗議デモが暴力化し、逮捕者の中には「外部の人間」が含まれていると報じられた。政府は組織的なグループとの関連を示唆しており、社会不安が深まっている。",
-          "source": "MSN"
-        },
-        {
-          "title": "Shariah-based bank depositors protest BB officials' remarks, warn of 'suicide programme'",
-          "location": "Bangladesh",
-          "severity": 80,
-          "description": "シャリア原則に基づく銀行の預金者が、中央銀行関係者の発言に抗議し、「自殺プログラム」を警告。預金者の切迫した状況と絶望感が示されており、社会心理的なパニックが非常に高いレベルにある。",
-          "source": "The Business Standard"
-        },
-        {
-          "title": "Chattogram Bank Protest: Depositors Demand Refund Roadmap for 5 Merged Banks",
-          "location": "Chattogram, Bangladesh",
-          "severity": 70,
-          "description": "バングラデシュのチャットグラムで、合併した5つの銀行の預金者が返済計画を求めて抗議デモを実施。複数の銀行を巻き込む金融不安が広がり、住民の財産への懸念が高まっている。",
-          "source": "businesstimes-bd.com"
-        },
-        {
-          "title": "Jevula Thanda villagers stage protest over month-long water shortage in Sangareddy",
-          "location": "Sangareddy, India",
+          "title": "ニューヨークでの親パレスチナ派抗議デモ",
+          "location": "アメリカ・ニューヨーク",
           "severity": 65,
-          "description": "インドのサンガレッディで、1ヶ月にわたる水不足に対し、村人たちが抗議デモを実施。基本的な生活必需品の不足は、住民の生命と生活を脅かし、社会的な緊張と不満を増大させている。",
-          "source": "Dailyhunt"
+          "description": "イスラエルの不動産イベントやシナゴーグ前で、親パレスチナ派と親イスラエル派が対立する大規模な抗議デモが発生。一部では暴力を扇動するような発言も見られ、社会秩序が乱れる懸念があります。",
+          "source": "Al Jazeera, The New York Times, New York Post"
+        },
+        {
+          "title": "老舗銀行の顧客流出",
+          "location": "アメリカ（全国）",
+          "severity": 55,
+          "description": "198年の歴史を持つ銀行が、議論の的となる理由で顧客を失っているとの報道。具体的な取り付け騒ぎには至っていませんが、銀行に対する信用不安は潜在的なパニックの引き金となる可能性があります。",
+          "source": "thestreet.com, AOL.com"
+        },
+        {
+          "title": "カリフォルニアでのガソリン不足懸念",
+          "location": "アメリカ・カリフォルニア",
+          "severity": 50,
+          "description": "イラン戦争の影響により、カリフォルニア州でガソリン不足が発生する可能性が専門家によって指摘されています。これは買いだめや価格高騰、そして社会不安に繋がる可能性があります。",
+          "source": "ABC News"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 30,
-      "status": "unstable",
-      "main_cause": "政治的圧力、抗議活動",
+      "panic_index": 90,
+      "status": "critical(危険・パニック状態)",
+      "main_cause": "軍事攻撃、無秩序な逃避",
       "incidents": [
         {
-          "title": "Iranian students protest for third day as US pressure mounts",
-          "location": "Iran",
-          "severity": 40,
-          "description": "米国の圧力を背景に、イランの学生たちが3日間にわたり抗議デモを継続。政治的な不安定要素が継続しており、政府への不満や国際情勢への懸念が表出している。",
+          "title": "イラクの米軍基地への爆撃とパニック",
+          "location": "イラク・エルビル",
+          "severity": 95,
+          "description": "イランによるイラクの米軍基地への爆撃が発生し、ミサイルの雨が降り注ぐ中、米軍兵士がパニック状態に陥り逃げ惑ったと報じられています。これは直接的な生命の危機を伴うパニック事象です。",
+          "source": "Oneindia"
+        },
+        {
+          "title": "イラン人学生による抗議デモ",
+          "location": "イラン",
+          "severity": 60,
+          "description": "米国の圧力が高まる中、イラン人学生が3日間にわたり抗議デモを継続。国際情勢の緊張と国内の社会不安が高まっていますが、現時点では広範なパニックには至っていません。",
           "source": "DD News"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "エネルギー供給への懸念",
+      "region": "africa",
+      "panic_index": 45,
+      "status": "不安の増大",
+      "main_cause": "資源不足（水、電力）に対する抗議デモ",
       "incidents": [
         {
-          "title": "Europe’s jet fuel supplies should fall below the key 23-day shortage threshold in June, so plan your travel accordingly",
-          "location": "Europe",
+          "title": "ナイジェリアでの学生による資源不足抗議",
+          "location": "ナイジェリア",
           "severity": 50,
-          "description": "欧州で6月にジェット燃料の供給が23日分の閾値を下回る可能性が指摘され、旅行計画に注意を促している。これは潜在的なエネルギー供給不安であり、広範な移動や経済活動に影響を及ぼす恐れがある。",
-          "source": "Fortune"
+          "description": "ナイジェリアのイバダン大学（UI）の学生が停電と水不足に抗議し、学術活動を中断させる事態が発生。基本的なインフラの不足が社会不安を引き起こしています。",
+          "source": "The Guardian Nigeria News"
         }
       ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 70,
+      "status": "警戒状態",
+      "main_cause": "金融機関への不安、取り付け騒ぎの懸念",
+      "incidents": [
+        {
+          "title": "バングラデシュでの非銀行金融機関預金者による抗議",
+          "location": "バングラデシュ",
+          "severity": 75,
+          "description": "経営が困難な6つの非銀行金融機関の預金者が、バングラデシュ中央銀行前で静かに抗議活動を実施。資産の安全性に対する深刻な懸念が表面化しています。",
+          "source": "The Financial Express"
+        },
+        {
+          "title": "シャリア系銀行預金者による「自殺プログラム」警告",
+          "location": "バングラデシュ",
+          "severity": 80,
+          "description": "シャリア系銀行の預金者が、中央銀行関係者の発言に抗議し、「自殺プログラム」の実施を警告する事態が発生。これは金融不安が極度に高まっていることを示唆しています。",
+          "source": "The Business Standard"
+        },
+        {
+          "title": "チャットグラムでの銀行抗議デモ",
+          "location": "バングラデシュ・チャットグラム",
+          "severity": 70,
+          "description": "5つの合併された銀行の預金者が、払い戻しロードマップの提示を求めて抗議活動を実施。広範な金融システムへの不信感がうかがえます。",
+          "source": "businesstimes-bd.com"
+        },
+        {
+          "title": "インドでの水不足抗議デモ",
+          "location": "インド・ビラスプル",
+          "severity": 55,
+          "description": "大規模な停電危機の中、ビラスプールの住民が水不足に対して抗議デモを実施。電力と水の供給不足が住民の不満と不安を高めています。",
+          "source": "Dainik Jagran MP CG"
+        }
+      ]
+    },
+    {
+      "region": "australia",
+      "panic_index": 65,
+      "status": "警戒状態",
+      "main_cause": "地域的な暴動",
+      "incidents": [
+        {
+          "title": "アリススプリングスでの暴動と社会の警鐘",
+          "location": "オーストラリア・アリススプリングス",
+          "severity": 70,
+          "description": "アリススプリングスで子供たちが石を投げる暴動が発生したと報じられています。これは地域の社会秩序の崩壊を示唆しており、社会全体への警鐘とされています。",
+          "source": "Australian Broadcasting Corporation"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 35,
+      "status": "軽微な不安",
+      "main_cause": "経済的混乱、店舗閉鎖",
+      "incidents": [
+        {
+          "title": "パリ左岸での書店閉鎖と混乱",
+          "location": "フランス・パリ",
+          "severity": 40,
+          "description": "有名な書店ギベール・ジューヌの閉鎖の可能性や、グラッセ社のオリヴィエ・ノラの解雇など、パリの左岸で経済的な混乱と不安が報じられています。直接的なパニックではないが、地域経済に影響を及ぼす可能性があります。",
+          "source": "en-contact.com"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 20,
+      "status": "安定",
+      "main_cause": "特記事項なし",
+      "incidents": []
+    },
+    {
+      "region": "south_america",
+      "panic_index": 20,
+      "status": "安定",
+      "main_cause": "特記事項なし",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 20,
+      "status": "安定",
+      "main_cause": "特記事項なし",
+      "incidents": []
     }
   ]
 }
