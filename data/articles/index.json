@@ -1,13 +1,13 @@
 [
   {
     "date": "2026-05-07",
-    "summary": "ウクライナ情勢の緊迫化、イランを巡る米イラン間の緊張、北朝鮮の核開発姿勢など、地政学リスクが高まっている。特に中東地域は原油価格高騰を招き、世界経済への影響が懸念される。",
+    "summary": "中東情勢は、アメリカとイランの緊張緩和に向けた動きが見られるものの、依然として不安定。ウクライナ情勢は停戦合意が履行されず、戦闘が継続。北朝鮮の核開発姿勢も継続しており、地政学リスクは全体的に高い水準。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
       "southeast_asia": "none",
-      "south_asia": "medium",
+      "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
@@ -15,7 +15,7 @@
       "north_america": "medium",
       "south_america": "low"
     },
-    "generated_at": "2026-05-07T08:39:48.152111"
+    "generated_at": "2026-05-07T11:12:06.064774"
   },
   {
     "date": "2026-05-06",
