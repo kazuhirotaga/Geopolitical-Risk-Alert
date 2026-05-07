@@ -1,115 +1,18 @@
 {
   "date": "2026-05-07",
-  "summary": "イラン戦争による原油市場の混乱、Planet Fitnessの株価急落、暗号資産市場の動向など、複数のリスク要因が複合的に影響し、全体的に市場の不確実性が高まっています。",
+  "summary": "中東情勢の緊迫化と、それに伴う米国経済への影響が懸念される。暗号資産市場は引き続き変動が大きく、個別企業の業績悪化も目立つ。AI関連技術の進展は一部企業に恩恵をもたらしているものの、規制リスクも顕在化している。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "Shell CEO says oil market is short nearly 1 billion barrels due to Iran war and the hole deepens every day",
+      "title": "U.S. and Iran trade fire in Strait of Hormuz; each claims other shot first",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "Shell CEOは、イラン戦争により原油市場が約10億バレル不足しており、ホルムズ海峡の閉鎖が深刻化していると警告しています。",
-      "analysis": "ホルムズ海峡の閉鎖は、世界の原油供給に深刻な影響を与え、価格高騰を引き起こす可能性があります。米イラン間の交渉が難航した場合、供給不足は長期化し、世界経済に大きな打撃を与えるでしょう。エネルギー関連企業への投資は短期的に有利になる可能性がありますが、地政学的リスクを考慮する必要があります。代替エネルギーへの投資も長期的な視点では重要です。",
+      "summary": "ホルムズ海峡で米国とイランが交戦。双方が相手の先制攻撃を主張し、中東地域の地政学的リスクが極めて高まっている。",
+      "analysis": "ホルムズ海峡は世界の原油輸送の要衝であり、今回の事態は原油価格の急騰を招き、世界経済に深刻な影響を与える可能性がある。地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株式市場からの資金流出を加速させるだろう。また、サプライチェーンの混乱も予想され、インフレ圧力が高まる可能性がある。今後の軍事的緊張の緩和が見込めない場合、世界的な景気後退のリスクが高まる。",
       "key_entities": [
-        "Shell",
-        "Iran",
-        "US",
-        "OPEC"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Planet Fitness stock plunges 30% after company slashes guidance, cancels planned price hikes",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "Planet Fitnessの株価が、業績予想の下方修正と価格引き上げ計画の撤回により30%急落しました。",
-      "analysis": "Planet Fitnessの株価急落は、消費者の裁量支出の減少を示唆しています。インフレや景気後退懸念が消費者の支出を抑制し、特に会員制ビジネスに悪影響を与えている可能性があります。競合他社の動向や、今後の経営戦略の変更などが注目されます。類似のビジネスモデルを持つ企業も影響を受ける可能性があります。",
-      "key_entities": [
-        "Planet Fitness"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Iran war market jitters offer silver lining for investors",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "市場の変動は、投資家にとってリスク許容度と株式配分を見直す良い機会を提供しています。",
-      "analysis": "イラン戦争による市場の変動は、短期的なリスクを高める一方で、長期的な投資戦略を見直す機会となります。リスク許容度に応じて、ポートフォリオのリバランスや、割安な銘柄への投資を検討する価値があります。ただし、地政学的リスクは予測が難しく、慎重な判断が必要です。",
-      "key_entities": [],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "CZ floats Binance.US revival to give U.S. users access to global crypto liquidity",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "CZ氏が、米国のユーザーにグローバルな暗号資産流動性へのアクセスを提供するために、Binance.USの復活を提案しています。",
-      "analysis": "Binance.USの復活は、米国の暗号資産市場に新たな競争をもたらす可能性があります。規制当局の承認や、既存の規制との整合性が課題となります。暗号資産市場全体の流動性向上に貢献する可能性がありますが、規制リスクを注視する必要があります。",
-      "key_entities": [
-        "Binance",
-        "Binance.US",
-        "CZ"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Tether executive warns the 2026 midterms could have 'seismic impact' on crypto industry",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "Tetherの幹部は、2026年の中間選挙が暗号資産業界に大きな影響を与える可能性があると警告しています。",
-      "analysis": "2026年の中間選挙の結果は、暗号資産に対する規制の方向性を大きく左右する可能性があります。特定の政党が勝利した場合、規制が強化されるか、緩和されるかが予測されます。選挙結果に備え、ポートフォリオのリスクヘッジを検討する必要があります。",
-      "key_entities": [
-        "Tether"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "McDonald's CEO says consumer spending could be 'getting a little bit worse'",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "McDonald'sのCEOは、消費者の支出がやや悪化している可能性があると述べています。",
-      "analysis": "McDonald'sのCEOの発言は、消費者のセンチメントが悪化している可能性を示唆しています。インフレや景気後退懸念が消費者の支出を抑制し、特に低価格帯の消費財に影響を与えている可能性があります。今後の経済指標や、消費者の動向を注視する必要があります。",
-      "key_entities": [
-        "McDonald's"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Maersk shares drop as CEO warns Iran war will have bigger impact in coming months",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "MaerskのCEOは、イラン戦争が今後数ヶ月でより大きな影響を与えると警告し、同社の株価が下落しました。",
-      "analysis": "MaerskのCEOの警告は、イラン戦争が世界のサプライチェーンに深刻な影響を与える可能性を示唆しています。輸送コストの上昇や、輸送遅延が発生する可能性があり、国際貿易に悪影響を与えるでしょう。サプライチェーンの混乱に備え、在庫管理や代替輸送ルートの確保を検討する必要があります。",
-      "key_entities": [
-        "Maersk"
+        "米国政府",
+        "イラン政府",
+        "原油市場"
       ],
       "sources": [
         "CNBC - Top News"
@@ -122,10 +25,12 @@
       "title": "Whirlpool says Iran war causing 'recession-level industry decline.' The shares are down 12%",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "Whirlpoolは、イラン戦争が「リセッションレベルの業界の衰退」を引き起こしていると述べ、同社の株価は12%下落しました。",
-      "analysis": "Whirlpoolの発言は、イラン戦争が消費者の信頼感を低下させ、耐久消費財の需要を減少させていることを示唆しています。景気後退懸念が高まり、消費者の支出が抑制されている可能性があります。耐久消費財業界全体に影響が及ぶ可能性があります。",
+      "summary": "Whirlpoolは、イラン戦争が米国でリセッションレベルの産業衰退を引き起こしていると発表。株価は12%下落。",
+      "analysis": "イラン戦争による消費者信頼感の低下が、耐久消費財の需要を大幅に減少させている。Whirlpoolの業績悪化は、他の関連産業にも波及する可能性があり、米国経済全体への影響が懸念される。特に、インフレと金利上昇が続く中で、地政学的リスクが重なることで、景気後退の可能性が高まっている。企業はコスト削減やサプライチェーンの見直しを迫られるだろう。",
       "key_entities": [
-        "Whirlpool"
+        "Whirlpool",
+        "米国経済",
+        "消費者信頼感"
       ],
       "sources": [
         "CNBC - Top News"
@@ -135,17 +40,128 @@
       ]
     },
     {
-      "title": "Barclays says it's the best buying opportunity in 20 years for these oil stocks",
-      "region": "middle_east",
+      "title": "Coinbase posts steep first-quarter loss after slide in crypto prices, shares fall 4%",
+      "region": "global",
       "risk_level": "medium",
-      "summary": "Barclaysは、コモディティ価格が高止まりする可能性があり、一部の石油株にとって20年ぶりの買い時だと述べています。",
-      "analysis": "Barclaysのアナリストは、イラン戦争の地政学的リスクを考慮しつつも、原油価格の高止まりを予測し、石油サービスプロバイダーへの投資を推奨しています。ただし、地政学的リスクは予測が難しく、慎重な判断が必要です。代替エネルギーへの投資も長期的な視点では重要です。",
+      "summary": "暗号資産取引プラットフォームCoinbaseが、暗号資産価格の下落により、第1四半期に大幅な損失を計上。株価は4%下落。",
+      "analysis": "Coinbaseの業績悪化は、暗号資産市場全体の低迷を反映している。金利上昇や規制強化など、暗号資産市場を取り巻く環境は厳しさを増しており、投資家のリスク回避姿勢が強まっている。Coinbaseは収益源の多角化を迫られるだろう。また、他の暗号資産関連企業も同様の状況に直面する可能性があり、市場全体の調整が続く可能性がある。",
       "key_entities": [
-        "Barclays",
-        "Halliburton"
+        "Coinbase",
+        "暗号資産市場",
+        "ビットコイン"
       ],
       "sources": [
         "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Datadog stock soars 31% on blockbuster earnings as AI winners emerge in software",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "Datadogの好調な業績により、ソフトウェア業界でAI関連の勝者が現れ、株価は31%急騰。",
+      "analysis": "Datadogの成功は、AI技術の導入が企業の収益に大きく貢献する可能性を示唆している。クラウドインフラ関連企業であるSnowflakeやMongoDBの株価も上昇しており、AI関連技術への投資が活発化している。ただし、AI技術の急速な発展に伴い、倫理的な問題や規制リスクも高まっており、今後の動向を注視する必要がある。",
+      "key_entities": [
+        "Datadog",
+        "Snowflake",
+        "MongoDB",
+        "AI"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "French prosecutors escalate probe of Elon Musk and X to criminal investigation",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "フランスの検察当局は、イーロン・マスク氏とソーシャルメディアアプリXに対する捜査を刑事捜査に格上げ。AIディープフェイクの拡散への関与を調査。",
+      "analysis": "今回の捜査は、AI技術の悪用に対する規制の強化を促す可能性がある。特に、ソーシャルメディアプラットフォームにおける偽情報の拡散は、社会的な混乱を招き、企業の評判を損なうリスクがある。イーロン・マスク氏とXに対する捜査の結果次第では、他のプラットフォームにも同様の規制が適用される可能性があり、業界全体に影響を与える可能性がある。",
+      "key_entities": [
+        "イーロン・マスク",
+        "X (Twitter)",
+        "フランス政府",
+        "AIディープフェイク"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Here's what to expect from Friday's release of the April jobs report",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "4月の雇用統計発表を控え、労働市場は減速傾向にあるものの、全体的には安定しているとの見方が出ている。",
+      "analysis": "雇用統計は、FRBの金融政策に大きな影響を与えるため、市場関係者の注目が集まっている。労働市場の減速は、インフレ圧力の緩和につながる可能性があるが、景気後退のリスクも高める。FRBは、インフレ抑制と景気維持のバランスを取りながら、慎重な政策運営を迫られるだろう。市場は、雇用統計の結果を受けて、金利の先行きを織り込む展開となるだろう。",
+      "key_entities": [
+        "FRB",
+        "雇用統計",
+        "労働市場"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Planet Fitness stock plunges 30% after company slashes guidance, cancels planned price hikes",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Planet Fitnessが業績予想を下方修正し、価格引き上げ計画を中止したため、株価は30%急落。",
+      "analysis": "Planet Fitnessの業績悪化は、消費者の裁量支出の減少を示唆している。インフレや金利上昇により、消費者は支出を抑制する傾向にあり、特に、会員制サービスなどの需要が減少している。Planet Fitnessは、新規会員の獲得や既存会員の維持に苦戦しており、競争激化も業績悪化の要因となっている。他の同様の企業も、同様の課題に直面する可能性がある。",
+      "key_entities": [
+        "Planet Fitness",
+        "消費者支出"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "McDonald's CEO says consumer spending could be 'getting a little bit worse'",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "McDonald'sのCEOは、消費者支出がやや悪化している可能性があると発言。株価は過去1年間で10%下落。",
+      "analysis": "McDonald'sのCEOの発言は、消費者支出の減速を示唆しており、景気後退の兆候と見なされる可能性がある。特に、低所得者層の消費が減少している可能性があり、生活必需品以外の支出が抑制されていると考えられる。McDonald'sは、価格競争力の強化やメニューの多様化など、消費者のニーズに対応した戦略を迫られるだろう。",
+      "key_entities": [
+        "McDonald's",
+        "消費者支出"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Exxon, Chevron Stocks Drop Along With Oil Prices as Trump Gives Hope on Iran",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "トランプ氏がイランとの和平に期待を示したことで原油価格が下落し、ExxonとChevronの株価も下落。",
+      "analysis": "イランとの和平交渉が進展する可能性が高まったことで、原油供給の増加が予想され、原油価格が下落した。ExxonとChevronのような大手石油企業は、原油価格の下落により収益が悪化する可能性があり、株価も下落した。ただし、和平交渉の行方は不透明であり、今後の動向を注視する必要がある。",
+      "key_entities": [
+        "Exxon",
+        "Chevron",
+        "原油市場",
+        "トランプ"
+      ],
+      "sources": [
+        "Yahoo Finance",
+        "Barrons"
       ],
       "source_types": [
         "media"
@@ -154,11 +170,13 @@
     {
       "title": "Bitcoin ending May above $76,000 would confirm new bull market, Tom Lee says",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "Tom Lee氏は、ビットコインが5月末までに76,000ドルを超えれば、新たな強気市場が確認されると述べています。",
-      "analysis": "Tom Lee氏の予測は、暗号資産市場のセンチメントを反映しています。ビットコイン価格の動向は、暗号資産市場全体のトレンドを左右する可能性があります。ただし、暗号資産市場はボラティリティが高く、予測は不確実です。",
+      "risk_level": "low",
+      "summary": "Tom Lee氏は、ビットコインが5月末までに76,000ドルを超えれば、新たな強気相場が確認されると述べている。",
+      "analysis": "ビットコイン価格の動向は、暗号資産市場全体のセンチメントを左右する。76,000ドルという目標価格は、過去の最高値を大幅に上回る水準であり、達成されれば、投資家のリスク選好姿勢が強まる可能性がある。ただし、暗号資産市場は変動が大きく、様々な要因によって価格が大きく変動する可能性があるため、注意が必要である。",
       "key_entities": [
-        "Bitcoin"
+        "ビットコイン",
+        "Tom Lee",
+        "暗号資産市場"
       ],
       "sources": [
         "CoinDesk"
@@ -172,10 +190,9 @@
     "global": "high",
     "north_america": "medium",
     "europe": "medium",
-    "east_asia": "medium",
-    "middle_east": "critical"
+    "east_asia": "low"
   },
-  "generated_at": "2026-05-07T19:47:32.669595",
+  "generated_at": "2026-05-07T22:04:06.127451",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
