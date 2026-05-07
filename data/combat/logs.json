@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-07",
-    "summary": "ウクライナにおける勝利の日を巡る停戦は即座に崩壊。ホルムズ海峡ではアメリカとイランが対立し、アメリカ軍はイランの小型ボートを破壊、ミサイルとドローンを撃墜。アメリカ軍はフィリピンでタイフーンミサイルの発射実験を実施。",
+    "summary": "ウクライナにおける停戦協定の即時崩壊、ホルムズ海峡におけるアメリカとイランの緊張激化、アメリカ軍によるイラン籍タンカーへの攻撃など、複数の地域で緊張が高まっている。",
     "events": [
       {
         "id": "event-1",
@@ -97,6 +97,21 @@
         "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/"
       },
       {
+        "id": "event_5",
+        "timestamp": "2026-05-05",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米陸軍、フィリピンでの演習中にタイフーン発射機からトマホークミサイルを発射",
+        "content": "米陸軍が、新型のタイフーン発射機からトマホークミサイルを発射する演習をフィリピンで実施。「遠距離から窓を狙えば、その窓に直接着弾するほど正確」と軍関係者は述べている。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/"
+      },
+      {
         "id": "event-7",
         "timestamp": "2026-05-04",
         "location": "ホルムズ海峡",
@@ -121,6 +136,38 @@
         "involved_parties": [
           "アメリカ軍",
           "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/"
+      },
+      {
+        "id": "event_6",
+        "timestamp": "2026-05-04",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米軍、ホルムズ海峡を通過する商船を護衛",
+        "content": "米軍が、ホルムズ海峡を通過する商船Alliance Fairfaxを護衛。Maersk社によれば、輸送は事件なく完了し、乗組員全員が無事。",
+        "involved_parties": [
+          "アメリカ軍",
+          "Maersk"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/05/04/us-military-accompanies-commercial-carrier-through-strait-of-hormuz/"
+      },
+      {
+        "id": "event_7",
+        "timestamp": "2026-05-04",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米軍、イランの小型ボート6隻を破壊、ミサイルとドローンを撃墜",
+        "content": "ブラッド・クーパー海軍大将によると、イランはホルムズ海峡を商業交通に開放する米軍の作戦を妨害しようとしていた。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
         ],
         "event_type": "clash",
         "urgency": "high",
