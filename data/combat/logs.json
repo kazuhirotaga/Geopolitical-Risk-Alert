@@ -1,5 +1,135 @@
 [
   {
+    "date": "2026-05-07",
+    "summary": "ペルシャ湾・ホルムズ海峡でアメリカとイランの緊張が高まる。アメリカ軍はイランの封鎖を回避しようとするイラン籍タンカーを攻撃。ホルムズ海峡の安全確保のため、フランスが空母を紅海に展開。一方、フィリピンではアメリカ軍がトマホークミサイルの発射訓練を実施。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-05-06",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "米軍がイラン籍タンカーを攻撃・無効化",
+        "content": "米軍は、イランが封鎖している港に出入りしようとしたイラン籍タンカーに対し攻撃を行い、航行不能にした。トランプ政権は「プロジェクト・フリーダム」を一時停止したが、アメリカ海軍の封鎖は継続中。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/06/us-forces-fire-at-disable-iran-flagged-tanker-trying-to-evade-blockade/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-05-06",
+        "location": "紅海",
+        "region": "middle_east",
+        "title": "フランス、ホルムズ海峡の任務を見据え空母を紅海に展開",
+        "content": "フランスはホルムズ海峡の安全確保を目的とした任務を想定し、空母打撃群を紅海に展開。マクロン大統領は、多国籍による取り組みは紛争の激化が収まった後にのみ実行されると表明。",
+        "involved_parties": [
+          "フランス軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/naval/2026/05/06/france-moves-aircraft-carrier-to-red-sea-with-eye-on-hormuz-mission/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-05-06",
+        "location": "リビア",
+        "region": "middle_east",
+        "title": "トルコの主導でリビアの対立勢力が合同訓練を実施",
+        "content": "トルコは「一つの軍隊、一つのリビア」という標語の下、リビアに対するアプローチを継続。数週間以内に2度目となる合同訓練が実施された。",
+        "involved_parties": [
+          "トルコ軍",
+          "リビア軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/05/06/turkish-exercise-sees-libyas-rival-forces-train-together-for-second-time-within-weeks/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-05-05",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米国防総省、機雷の存在にもかかわらずホルムズ海峡の安全な通過を保証",
+        "content": "米国中央海軍は、ホルムズ海峡に機雷が存在するという安全保障上の警告を発した後、船舶に対し安全な通過を保証。米国はイランの機雷に対抗するAIソリューションを模索中。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/05/pentagon-assures-safe-passage-through-strait-of-hormuz-despite-presence-of-mines/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-05-05",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "アメリカとイランがペルシャ湾の支配を巡り新たな攻撃を開始",
+        "content": "先月の停戦発表以来、初めての軍事力行使とみられる。具体的な攻撃の内容については不明。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/05/us-iran-launch-new-attacks-as-they-wrestle-for-control-of-gulf-waters/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-05-05",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米陸軍、フィリピンでの演習で新型Typhonランチャーからトマホークミサイルを発射",
+        "content": "米陸軍はフィリピンでの演習中に、新型Typhonランチャーからトマホークミサイルを発射。精密な命中精度を実証。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-05-04",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米軍がホルムズ海峡を通過する商船を護衛",
+        "content": "米軍は、マースク社の商船アライアンス・フェアファックスをホルムズ海峡通過中に護衛。事件はなく、乗組員は安全。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/05/04/us-military-accompanies-commercial-carrier-through-strait-of-hormuz/"
+      },
+      {
+        "id": "event-8",
+        "timestamp": "2026-05-04",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米軍、イランの小型ボート6隻を破壊、ミサイルとドローンを撃墜",
+        "content": "米軍は、ホルムズ海峡の商業交通を妨害しようとしたイランの小型ボート6隻を破壊し、ミサイルとドローンを撃墜。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-06",
     "summary": "アメリカとイランがペルシャ湾で衝突を繰り返す。アメリカ軍はイランの小型ボートを破壊し、ミサイルとドローンを撃墜。フランスはホルムズ海峡の警備を視野に空母を紅海に展開。米軍はフィリピンでタイフーン・ミサイルの発射実験を実施。",
     "events": [
@@ -3928,119 +4058,6 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-06",
-    "summary": "アメリカとイラン間の緊張が激化。ホルムズ海峡付近でA-10攻撃機が墜落し、F-15戦闘機が撃墜される。アメリカ軍はイラン領内からのパイロット救出作戦を実施。一方、ウクライナは防空能力の向上を主張。イスラエルはギリシャへPULSシステムを売却。",
-    "events": [
-      {
-        "id": "Event-001",
-        "timestamp": "2026-04-05",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "アメリカ特殊部隊によるF-15パイロット救出",
-        "content": "撃墜されたF-15の武器担当官が負傷したが、アメリカ特殊部隊によってイランから救出された。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-second-f-15-airman-from-iran/"
-      },
-      {
-        "id": "Event-002",
-        "timestamp": "2026-04-03",
-        "location": "ホルムズ海峡付近",
-        "region": "middle_east",
-        "title": "A-10攻撃機の墜落",
-        "content": "アメリカ空軍のA-10 Thunderbolt II攻撃機がホルムズ海峡付近で墜落した。同時期にF-15E戦闘機も撃墜された。",
-        "involved_parties": [
-          "アメリカ軍"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/a-10-warthog-crashes-near-strait-of-hormuz/"
-      },
-      {
-        "id": "Event-003",
-        "timestamp": "2026-04-03",
-        "location": "イラン上空",
-        "region": "middle_east",
-        "title": "アメリカ軍F-15E戦闘機の撃墜",
-        "content": "アメリカ軍のF-15E戦闘機がイラン上空で撃墜された。生存者の捜索救助活動が実施されている。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
-      },
-      {
-        "id": "Event-004",
-        "timestamp": "2026-04-01",
-        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAE",
-        "region": "middle_east",
-        "title": "イランによるアメリカ軍基地インフラへの攻撃",
-        "content": "イランは、バーレーン、カタール、クウェート、サウジアラビア、UAEにあるアメリカ軍基地のレーダーシステム、衛星通信、重要な航空機を攻撃した。",
-        "involved_parties": [
-          "イラン",
-          "アメリカ軍"
-        ],
-        "event_type": "bombing",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
-      },
-      {
-        "id": "Event-005",
-        "timestamp": "2026-03",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ、3月の防空成功率90%近くを主張",
-        "content": "ウクライナ国防省は、攻撃頻度が増加しているにもかかわらず、防空性能が向上していると発表した。",
-        "involved_parties": [
-          "ウクライナ軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
-      },
-      {
-        "id": "Event-006",
-        "timestamp": "2026-04-01",
-        "location": "シチリア",
-        "region": "europe",
-        "title": "イタリア、中東へ向かうアメリカ軍用機のシチリア立ち寄りを拒否",
-        "content": "イタリアは、イランに対するアメリカ・イスラエル戦争のためのシゴネラ空軍基地の使用が合意の範囲外であるとして、アメリカ軍用機の立ち寄りを拒否した。",
-        "involved_parties": [
-          "イタリア",
-          "アメリカ軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/"
-      },
-      {
-        "id": "Event-007",
-        "timestamp": "2026-03-30",
-        "location": "不明",
-        "region": "europe",
-        "title": "ミサイル搭載のエアバス迎撃機が一方通行攻撃ドローンと交戦テスト",
-        "content": "ドローンとミサイルの組み合わせにより、大規模な迎撃が経済的に実行可能になると製造業者は主張している。",
-        "involved_parties": [],
-        "event_type": "other",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/03/30/missile-wielding-airbus-interceptor-engages-one-way-attack-drone-in-test/"
       }
     ]
   }
