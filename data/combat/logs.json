@@ -1,5 +1,136 @@
 [
   {
+    "date": "2026-05-08",
+    "summary": "ペルシャ湾・ホルムズ海峡におけるアメリカとイランの軍事衝突が激化。ウクライナでは停戦合意が破綻。ヨーロッパでは防衛自主性の議論が活発化。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-05-07",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "米軍とイラン軍が交戦、報復攻撃",
+        "content": "イランが米海軍艦艇に対しミサイルとドローン攻撃を実施。これに対し、米軍がイラン軍施設に報復攻撃を行った。トランプ大統領は早期終結を宣言。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/07/us-and-iran-exchange-fire-as-trump-says-war-will-be-over-quickly/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-05-07",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナでの勝利の日停戦が即時崩壊",
+        "content": "ソ連対ナチスドイツ戦勝記念日を挟んで停戦合意がなされたものの、合意後ほぼすぐに崩壊し、戦闘が再開された。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/07/dueling-victory-day-ceasefires-for-war-in-ukraine-collapse-almost-immediately/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-05-06",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "米軍がイラン籍タンカーを攻撃、航行不能に",
+        "content": "米海軍が、封鎖を回避しようとしたイラン籍タンカーに対し発砲し、航行不能にした。アメリカによる対イラン封鎖は継続中。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/06/us-forces-fire-at-disable-iran-flagged-tanker-trying-to-evade-blockade/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-05-06",
+        "location": "紅海",
+        "region": "middle_east",
+        "title": "フランスが空母を紅海に展開、ホルムズ海峡の任務を視野",
+        "content": "フランスがホルムズ海峡の安全確保を目的とした任務の可能性を考慮し、空母打撃群を紅海に展開。",
+        "involved_parties": [
+          "フランス軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/naval/2026/05/06/france-moves-aircraft-carrier-to-red-sea-with-eye-on-hormuz-mission/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-05-05",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "アメリカとイランがペルシャ湾の支配を巡り新たな攻撃を開始",
+        "content": "先月の停戦発表以来、軍事力を行使した最初の明白な試み。緊張状態が続いている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/05/us-iran-launch-new-attacks-as-they-wrestle-for-control-of-gulf-waters/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-05-05",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米陸軍がフィリピンでの演習中に新型タイフーンランチャーからトマホークミサイルを発射",
+        "content": "米陸軍が新型タイフーンランチャーからトマホークミサイルを発射。精密な命中精度を実証した。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-05-04",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米軍がホルムズ海峡を通過する商船を護衛",
+        "content": "アメリカ軍が商船を護衛し、ホルムズ海峡を通過。護衛された商船は無事通過したと報告。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/05/04/us-military-accompanies-commercial-carrier-through-strait-of-hormuz/"
+      },
+      {
+        "id": "event-8",
+        "timestamp": "2026-05-04",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米軍がイランの小型ボート6隻を破壊、ミサイルとドローンを撃墜",
+        "content": "ブラッド・クーパー海軍大将によると、イランはホルムズ海峡を商船に開放する米軍の作戦を妨害しようとした。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-07",
     "summary": "ウクライナにおける停戦協定の即時崩壊、ホルムズ海峡におけるアメリカとイランの衝突、フィリピンにおけるアメリカ軍のトマホークミサイル発射訓練など、複数の地域で緊張が高まっている。",
     "events": [
@@ -3942,169 +4073,6 @@
         "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-07",
-    "summary": "中東地域でアメリカとイランの緊張が高まる。アメリカ軍はイランのKharg島を攻撃。イランはアメリカ軍基地への攻撃を実施。ホルムズ海峡付近ではA-10攻撃機が墜落、F-15E戦闘機が撃墜される事態が発生。",
-    "events": [
-      {
-        "id": "EVENT-20260407-001",
-        "timestamp": "2026-04-07",
-        "location": "イラン、Kharg島",
-        "region": "middle_east",
-        "title": "アメリカ軍によるイラン・Kharg島への攻撃",
-        "content": "アメリカ軍がイランのKharg島にある軍事目標を攻撃。作戦の詳細は不明。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/07/us-hits-military-targets-on-irans-kharg-island/"
-      },
-      {
-        "id": "event-1",
-        "timestamp": "2026-04-05",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "米特殊部隊、イラン領内からF-15パイロットを救出",
-        "content": "撃墜されたF-15戦闘機の兵器担当士官が負傷。米特殊部隊がイラン領内で救出作戦を実施し、パイロットを救出した。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "rescue",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-second-f-15-airman-from-iran/"
-      },
-      {
-        "id": "EVENT-20260407-005",
-        "timestamp": "2026-04-05",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "アメリカ特殊部隊によるF-15搭乗員の救出作戦",
-        "content": "アメリカ特殊部隊が、金曜日に撃墜されたF-15戦闘機の武器担当士官をイラン国内から救出。負傷したが容態は安定している。",
-        "involved_parties": [
-          "アメリカ特殊部隊",
-          "イラン軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-second-f-15-airman-from-iran/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-03",
-        "location": "ホルムズ海峡付近",
-        "region": "middle_east",
-        "title": "米空軍A-10攻撃機が墜落",
-        "content": "ホルムズ海峡付近で米空軍のA-10サンダーボルトII攻撃機が墜落。同時期にF-15E戦闘機が撃墜されている。",
-        "involved_parties": [
-          "アメリカ軍"
-        ],
-        "event_type": "crash",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/a-10-warthog-crashes-near-strait-of-hormuz/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-04-03",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "米軍F-15E戦闘機がイラン上空で撃墜",
-        "content": "米軍のF-15E戦闘機がイラン上空で撃墜され、生存者の捜索救助活動が行われている。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "downing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
-      },
-      {
-        "id": "EVENT-20260407-003",
-        "timestamp": "2026-04-03",
-        "location": "ホルムズ海峡付近",
-        "region": "middle_east",
-        "title": "アメリカ空軍A-10攻撃機の墜落",
-        "content": "アメリカ空軍のA-10サンダーボルトII攻撃機がホルムズ海峡付近で墜落。原因は不明。同時期にF-15E戦闘機が撃墜されている。",
-        "involved_parties": [
-          "アメリカ空軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/a-10-warthog-crashes-near-strait-of-hormuz/"
-      },
-      {
-        "id": "EVENT-20260407-004",
-        "timestamp": "2026-04-03",
-        "location": "イラン上空",
-        "region": "middle_east",
-        "title": "アメリカ空軍F-15E戦闘機の撃墜",
-        "content": "アメリカ空軍のF-15E戦闘機がイラン上空で撃墜された。生存者の捜索救助活動が行われている。",
-        "involved_parties": [
-          "イラン軍",
-          "アメリカ空軍"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-04-01",
-        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAE",
-        "region": "middle_east",
-        "title": "イラン、米軍航空戦力基盤を攻撃",
-        "content": "イランがバーレーン、カタール、クウェート、サウジアラビア、UAEに所在する米軍基地のレーダーシステム、衛星通信施設、重要航空機を攻撃した。",
-        "involved_parties": [
-          "イラン",
-          "アメリカ軍"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
-      },
-      {
-        "id": "EVENT-20260407-002",
-        "timestamp": "2026-04-01",
-        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAEのアメリカ軍基地",
-        "region": "middle_east",
-        "title": "イランによるアメリカ軍基地への攻撃",
-        "content": "イランがバーレーン、カタール、クウェート、サウジアラビア、UAEにあるアメリカ軍基地に対して、レーダーシステム、衛星通信、航空機などを標的とした攻撃を実施。",
-        "involved_parties": [
-          "イラン軍",
-          "アメリカ軍"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
-      },
-      {
-        "id": "event-5",
-        "timestamp": "2026-03",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ、3月の防空成功率90%近くを主張",
-        "content": "ウクライナ国防省は、3月における攻撃頻度の増加にもかかわらず、防空性能が向上していると発表した。",
-        "involved_parties": [
-          "ウクライナ軍"
-        ],
-        "event_type": "defense",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/"
       }
     ]
   }

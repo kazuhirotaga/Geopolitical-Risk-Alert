@@ -1,55 +1,62 @@
 {
-  "date": "2026-05-07",
-  "summary": "世界各地で深刻な社会不安やパニック事象が報告されています。中東では軍事攻撃による直接的なパニック、南アジア/東南アジアでは生活インフラの破綻と金融システムへの不信感からくる大規模な抗議活動や暴動が頻発し、一部では社会秩序の崩壊の兆候が見られます。欧州やアフリカでも大規模デモやインフラ危機、潜在的な金融不安が存在し、北米では食料不安の兆候と将来の金融システムへの懸念が散見されます。全体的に見ると、特定の地域でパニックに近い高緊迫状態にあるものの、グローバル規模での全面的なパニックには至っていません。",
-  "global_panic_index": 70,
+  "date": "2026-05-08",
+  "summary": "世界全体では、生活必需品の不足、金融不安、そして地域紛争による暴力行為が社会不安の主な要因となっています。特にインドやバングラデシュでは、水・電力不足や金融システムへの不信から大規模な抗議活動や暴徒化が発生し、危機的な状況にあります。イラクでは軍事攻撃による直接的なパニックが報告され、ヨーロッパでも暴動や国家安全保障上の懸念が高まっています。全体として、多くの地域で不安が増大しており、一部では社会秩序の混乱が見受けられる「警戒状態」にあると言えます。",
+  "global_panic_index": 63,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 50,
+      "panic_index": 40,
       "status": "unstable",
-      "main_cause": "経済不安、食料不安、金融システムへの潜在的懸念",
+      "main_cause": "金融システムへの潜在的警鐘、局所的な食料不安",
       "incidents": [
         {
-          "title": "トークン化されたMMFが次なる銀行取り付け騒ぎを引き起こす可能性",
+          "title": "Tokenized Money Market Funds Will Make The Next Bank Run Look Like SVB In Slow Motion",
           "location": "米国",
-          "severity": 30,
-          "description": "トークン化されたマネー・マーケット・ファンドが、将来的にシリコンバレー銀行（SVB）の取り付け騒ぎ以上の規模で、緩やかながらも銀行取り付け騒ぎを引き起こす可能性が指摘されています。これは金融システムの安定性に対する潜在的な懸念を高めています。",
+          "severity": 60,
+          "description": "トークン化されたMMFが次回の銀行取り付け騒ぎをSVBのケースよりも深刻化させる可能性が指摘されており、金融システムへの潜在的な不安が高まっています。",
           "source": "Forbes"
         },
         {
-          "title": "フードバンクで需要急増、棚が空になる状況",
-          "location": "グランサル, カナダ",
-          "severity": 60,
-          "description": "カナダ・グランサルのフードバンクで需要が急増し、食料品の棚が空になる状況が報告されています。これは地域の食料不安が深刻化していることを示し、経済的な苦境が広がりつつある可能性を示唆します。",
+          "title": "Grunthal food bank sees rising demand as shelves run low",
+          "location": "カナダ, グルンタール",
+          "severity": 50,
+          "description": "グルンタールのフードバンクで需要が急増し、棚の食料が不足している状況が報じられています。地域社会における食料不安の兆候が見られます。",
           "source": "SteinbachOnline"
         },
         {
-          "title": "特定の銀行が刑務所運営企業との関係で顧客を失う",
+          "title": "Citizens Bank is losing customers over its ties to prison operators",
           "location": "米国",
-          "severity": 20,
-          "description": "シティズンズ・バンクが、特定の刑務所運営企業との関係を理由に顧客を失っています。これは広範な金融パニックに直結する事象ではありませんが、企業の倫理問題に対する顧客の不信感を表しています。",
+          "severity": 40,
+          "description": "Citizens Bankが、刑務所運営企業との関係を理由に顧客を失っていると報じられています。これは倫理的な問題に対する顧客の不満と、銀行の信用度への影響を示しています。",
           "source": "MSN"
+        },
+        {
+          "title": "DOJ To Investigate UES Protest",
+          "location": "米国, ニューヨーク UES",
+          "severity": 35,
+          "description": "ニューヨークのUpper East Sideで発生した抗議デモについて、司法省が調査を行うと報じられています。これは社会的な緊張と市民の不満を示しています。",
+          "source": "Patch"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 65,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "暴動、地政学的緊張",
+      "main_cause": "大規模な暴動、国家安全保障上の危機感",
       "incidents": [
         {
-          "title": "PSGファンによる暴動で数十人負傷、数百人逮捕",
-          "location": "パリ, フランス",
-          "severity": 70,
-          "description": "パリでPSGファンによる大規模な暴動が発生し、数十人が負傷、数百人が逮捕されました。これはスポーツイベントをきっかけとした社会不安の顕在化であり、公共秩序が一時的に大きく乱れたことを示します。",
+          "title": "Dozens Injured, Hundreds Arrested as PSG Fans Riot in Paris",
+          "location": "フランス, パリ",
+          "severity": 85,
+          "description": "パリでPSGファンによる大規模な暴動が発生し、数十人が負傷、数百人が逮捕されました。これは公共の安全を脅かす深刻な社会秩序の混乱を示しています。",
           "source": "Hungarian Conservative"
         },
         {
-          "title": "ウクライナ軍の兵器不足の中、ロシアの攻勢を懸念",
+          "title": "Zelensky Fears Russian Offensive as AFU Arms Run Low",
           "location": "ウクライナ",
-          "severity": 60,
-          "description": "ウクライナのゼレンスキー大統領が、自軍の兵器不足の中でロシアの攻勢を懸念していると報じられました。これは国民の安全保障に対する深い不安と、将来的な紛争激化への懸念を引き起こすものです。",
+          "severity": 75,
+          "description": "ゼレンスキー大統領が、ウクライナ軍の兵器不足の中でのロシアの攻勢を懸念していると報じられています。これは国家の存亡に関わる深い不安と危機感を示しています。",
           "source": "Военное дело"
         }
       ]
@@ -58,35 +65,35 @@
       "region": "middle_east",
       "panic_index": 90,
       "status": "critical",
-      "main_cause": "軍事攻撃",
+      "main_cause": "軍事攻撃による生命の危険とパニック",
       "incidents": [
         {
-          "title": "イランが米軍基地を爆撃、米兵がパニックで逃走",
-          "location": "エルビル, イラク",
-          "severity": 90,
-          "description": "イラクのエビルにある米軍基地がイランからのミサイル攻撃を受け、米軍部隊がパニック状態で逃走したと報じられています。これは直接的な軍事攻撃による生命の危険を伴う、極めて緊迫したパニック状態を示しています。",
+          "title": "Iran BOMBS U.S Base in Iraq BREAKING: U.S Troops RUN IN PANIC as Missiles Rain Down in Erbil",
+          "location": "イラク, エルビル",
+          "severity": 95,
+          "description": "イランがイラクの米軍基地を爆撃し、ミサイルが降り注ぐ中で米兵がパニック状態で逃げ惑う事態が発生しました。これは直接的な生命の危険と極度のパニック状態を示しています。",
           "source": "Oneindia"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "インフラ不足、潜在的金融不安",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "ライフライン不足、経済不安",
       "incidents": [
         {
-          "title": "学生が停電と水不足に抗議、学業活動が中断",
+          "title": "UI students protest outage, water shortage, disrupt academic activities",
           "location": "ナイジェリア",
-          "severity": 75,
-          "description": "ナイジェリアの大学で学生たちが停電と水不足に抗議し、学業活動が中断されました。これは基本的な生活インフラの不足が社会不安を引き起こし、公共サービスが麻痺する可能性を示唆します。",
+          "severity": 70,
+          "description": "ナイジェリアの大学で、電気と水不足に対する学生の抗議活動が発生し、学業が中断されました。これは基本的な生活インフラの不足が社会不安を引き起こしていることを示します。",
           "source": "The Guardian Nigeria News"
         },
         {
-          "title": "中央銀行が持続不可能な損失を出さないよう警告",
+          "title": "Central bank must not run unsustainable losses – Boako warns",
           "location": "ガーナ",
-          "severity": 40,
-          "description": "ガーナの中央銀行が持続不可能な損失を出さないよう警告されています。これは国の経済安定性に対する懸念を示唆しており、将来的な金融パニックにつながるリスクを内包しています。",
+          "severity": 50,
+          "description": "ガーナ中央銀行が持続不可能な損失を避けるべきだと警告されており、経済の不安定性に対する懸念が高まっています。これは潜在的な金融不安の兆候です。",
           "source": "GhanaWeb"
         }
       ]
@@ -95,58 +102,59 @@
       "region": "southeast_asia",
       "panic_index": 80,
       "status": "critical",
-      "main_cause": "インフラ不足、金融不安、治安悪化",
+      "main_cause": "生活必需品不足、金融不安、暴徒化による社会秩序の崩壊",
       "incidents": [
         {
-          "title": "シャリア系銀行預金者が抗議、『自殺プログラム』を警告",
+          "title": "Bhubaneswar Horror: mob beats ‘accused’ to death",
+          "location": "インド, ブバネーシュワル",
+          "severity": 90,
+          "description": "ブバネーシュワルで、群衆が「容疑者」をリンチで殺害する事件が発生しました。これは法と秩序の崩壊、集団的な暴力的パニック状態を示しており、極めて深刻です。",
+          "source": "Odisha TV"
+        },
+        {
+          "title": "Shariah-based bank depositors protest BB officials' remarks, warn of 'suicide programme'",
           "location": "バングラデシュ",
-          "severity": 80,
-          "description": "バングラデシュのシャリア系銀行の預金者が中央銀行職員の発言に抗議し、『自殺プログラム』を警告しています。これは金融システムに対する深刻な不信感と、預金者の極度の絶望を示しており、取り付け騒ぎに発展するリスクが高い状況です。",
+          "severity": 85,
+          "description": "シャリア準拠銀行の預金者が当局の姿勢に抗議し、「自殺計画」を警告する事態が発生。これは金融システムへの深刻な不信と絶望感がパニックを引き起こしている状況です。",
           "source": "The Business Standard"
         },
         {
-          "title": "水不足と電力不足で与党が抗議デモ",
-          "location": "ジャムシェドプル, インド",
-          "severity": 70,
-          "description": "インドのジャムシェドプルで与党BJP党員が、深刻な水不足と電力不足を巡りDC事務所前で抗議デモを行いました。これは基本的な生活インフラの欠如が広範な社会不安を引き起こしていることを示しています。",
-          "source": "The Avenue Mail"
-        },
-        {
-          "title": "20日間続く水不足に女性が道路を封鎖して抗議",
-          "location": "ウルンドゥルペット, インド",
-          "severity": 85,
-          "description": "インドのウルンドゥルペットで、20日間続く水不足に抗議するため女性たちが道路を封鎖しました。これは生活基盤の深刻な危機が住民を極度の行動に駆り立てており、社会秩序への影響が大きいことを示します。",
+          "title": "Ulundurpet Protest: Women Block Road Over 20 Days of Water Shortage in Chinna Kuppam",
+          "location": "インド, ウルンドゥルペット",
+          "severity": 80,
+          "description": "インドのウルンドゥルペットで、20日間にわたる水不足に対し女性たちが道路を封鎖して抗議しています。長期的な生活必需品不足が社会秩序を混乱させています。",
           "source": "IANS LIVE"
         },
         {
-          "title": "停電と水不足の危機で住民が抗議デモ",
-          "location": "ビラスプル, インド",
-          "severity": 70,
-          "description": "インドのビラスプルで、住民が停電危機と水不足に対して抗議デモを行っています。これは地域の生活インフラが破綻状態にあり、住民の不満が爆発していることを示唆します。",
-          "source": "Dainik Jagran MP CG"
+          "title": "BJP Protests at Jamshedpur DC Office Over Water and Power Shortage",
+          "location": "インド, ジャムシェドプール",
+          "severity": 75,
+          "description": "ジャムシェドプールで、水と電力の不足を訴える大規模な抗議デモが勃発しました。生活インフラの機能不全が広範囲な社会不安を引き起こしています。",
+          "source": "The Avenue Mail"
         },
         {
-          "title": "ひき逃げ容疑者が暴徒に殴り殺される",
-          "location": "ブバネシュワル, インド",
-          "severity": 80,
-          "description": "インドのブバネシュワルで、バイクによるひき逃げ事件の容疑者が暴徒によって殴り殺されました。これは法秩序への信頼の欠如と、集団ヒステリーが暴発し、治安が極度に悪化している状況を示しています。",
-          "source": "Odisha TV"
+          "title": "SBI employees’ strike on May 25-26: Why bank staff are protesting, key demands, and will banking services",
+          "location": "インド",
+          "severity": 65,
+          "description": "インド最大の銀行SBIの従業員が大規模なストライキを計画しており、銀行サービスの中断が予想されます。これは経済活動に影響を与え、利用者に不安を引き起こす可能性があります。",
+          "source": "The Times of India"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 10,
-      "status": "stable",
-      "main_cause": "該当なし",
-      "incidents": []
-    },
-    {
-      "region": "south_america",
-      "panic_index": 10,
-      "status": "stable",
-      "main_cause": "該当なし",
-      "incidents": []
+      "panic_index": 30,
+      "status": "normal",
+      "main_cause": "特定の政治問題に対する抗議活動",
+      "incidents": [
+        {
+          "title": "軍事化反対訴えデモ 17日那覇自己決定権の会",
+          "location": "日本, 那覇",
+          "severity": 30,
+          "description": "沖縄の那覇で、軍事化に反対するデモが予定されています。これは特定の政治的な問題に対する市民の意見表明であり、広範な社会パニックを示すものではありません。",
+          "source": "沖縄タイムス社"
+        }
+      ]
     }
   ]
 }

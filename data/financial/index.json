@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-05-08",
+    "summary": "中東情勢の緊迫化と、AI関連技術の急速な変化が金融市場に大きな影響を与えている。原油価格の高騰、アジア太平洋市場の下落、暗号資産市場の不安定化などがリスク要因として挙げられる。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "high",
+      "north_america": "medium",
+      "europe": "medium",
+      "east_asia": "high"
+    },
+    "generated_at": "2026-05-08T03:29:10.084455"
+  },
+  {
     "date": "2026-05-07",
     "summary": "中東情勢の緊迫化と、それに伴う米国経済への影響が懸念される。暗号資産市場は引き続き変動が大きく、個別企業の業績悪化も目立つ。AI関連技術の進展は一部企業に恩恵をもたらしているものの、規制リスクも顕在化している。",
     "overall_risk_level": "high",

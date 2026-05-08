@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-08",
+    "summary": "ホルムズ海峡での米イラン衝突、ウクライナ情勢緊迫化、中国軍内部の汚職問題など、地政学的リスクが高まっている。特に中東地域は、紛争再燃の可能性があり、国際的な緊張が高まっている。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "high",
+      "southeast_asia": "none",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-05-08T03:28:49.278652"
+  },
+  {
     "date": "2026-05-07",
     "summary": "中東における米イラン間の緊張激化、ウクライナ情勢の泥沼化、東アジアにおける北朝鮮の核開発推進など、地政学的リスクが複合的に高まっている。世界経済への影響も懸念される。",
     "overall_risk_level": "critical",
