@@ -1,158 +1,136 @@
 {
   "date": "2026-05-08",
-  "summary": "世界全体では、生活必需品の不足、金融不安、そして地域紛争による暴力行為が社会不安の主な要因となっています。特にインドやバングラデシュでは、水・電力不足や金融システムへの不信から大規模な抗議活動や暴徒化が発生し、危機的な状況にあります。イラクでは軍事攻撃による直接的なパニックが報告され、ヨーロッパでも暴動や国家安全保障上の懸念が高まっています。全体として、多くの地域で不安が増大しており、一部では社会秩序の混乱が見受けられる「警戒状態」にあると言えます。",
-  "global_panic_index": 63,
+  "summary": "世界各地で金融システム、エネルギー供給、食料安定性に関する懸念が高まっています。特に東南アジアのバングラデシュでは銀行への深刻な不信から預金者による極端な抗議活動が発生し、欧州ではパリでの大規模な暴動が社会秩序を乱しています。また、ジェット燃料価格の高騰やLPG供給危機といったエネルギー問題が広範囲で社会不安を増大させており、世界的な金融システムへの脆弱性に関する警告も出されています。全体的に警戒が必要な状況が続いています。",
+  "global_panic_index": 70,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 40,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "金融システムへの潜在的警鐘、局所的な食料不安",
+      "main_cause": "食料不安、社会的分断、抗議活動",
       "incidents": [
         {
-          "title": "Tokenized Money Market Funds Will Make The Next Bank Run Look Like SVB In Slow Motion",
-          "location": "米国",
-          "severity": 60,
-          "description": "トークン化されたMMFが次回の銀行取り付け騒ぎをSVBのケースよりも深刻化させる可能性が指摘されており、金融システムへの潜在的な不安が高まっています。",
-          "source": "Forbes"
-        },
-        {
           "title": "Grunthal food bank sees rising demand as shelves run low",
-          "location": "カナダ, グルンタール",
-          "severity": 50,
-          "description": "グルンタールのフードバンクで需要が急増し、棚の食料が不足している状況が報じられています。地域社会における食料不安の兆候が見られます。",
+          "location": "Grunthal, Canada/US",
+          "severity": 60,
+          "description": "グルンタルのフードバンクで需要が急増し、棚の食料が不足している。地域社会における食料供給の脆弱性と住民の不安が深刻化している。",
           "source": "SteinbachOnline"
         },
         {
-          "title": "Citizens Bank is losing customers over its ties to prison operators",
-          "location": "米国",
-          "severity": 40,
-          "description": "Citizens Bankが、刑務所運営企業との関係を理由に顧客を失っていると報じられています。これは倫理的な問題に対する顧客の不満と、銀行の信用度への影響を示しています。",
-          "source": "MSN"
+          "title": "Synagogue Protesters Would Get Jail Time Under California Bill",
+          "location": "California, US",
+          "severity": 45,
+          "description": "カリフォルニア州でシナゴーグへの抗議活動を制限する法案が議論されており、社会的分断と緊張が高まっている状況。",
+          "source": "Jewish Currents"
         },
         {
-          "title": "DOJ To Investigate UES Protest",
-          "location": "米国, ニューヨーク UES",
-          "severity": 35,
-          "description": "ニューヨークのUpper East Sideで発生した抗議デモについて、司法省が調査を行うと報じられています。これは社会的な緊張と市民の不満を示しています。",
+          "title": "DOJ To Investigate UES Protest, Official Says",
+          "location": "UES, US",
+          "severity": 40,
+          "description": "ニューヨーク州UESでの抗議活動が司法省の調査対象となっており、抗議の規模や性質が社会的な問題となっていることを示唆。",
           "source": "Patch"
+        },
+        {
+          "title": "The Simple Way to Help Local Food Pantries This Weekend",
+          "location": "US",
+          "severity": 40,
+          "description": "地域でフードパントリーへの支援が呼びかけられており、地域社会における食料不安や貧困の存在を示唆している。",
+          "source": "Mix 95.7"
+        },
+        {
+          "title": "Citizens Bank is losing customers over its ties to prison operators",
+          "location": "US",
+          "severity": 35,
+          "description": "シチズンズ銀行が刑務所運営者との関係を理由に顧客を失っている。倫理的懸念が消費者行動に影響を与えている状況。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 75,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "大規模な暴動、国家安全保障上の危機感",
+      "main_cause": "大規模な暴動、社会的分断、交通混乱",
       "incidents": [
         {
           "title": "Dozens Injured, Hundreds Arrested as PSG Fans Riot in Paris",
-          "location": "フランス, パリ",
-          "severity": 85,
-          "description": "パリでPSGファンによる大規模な暴動が発生し、数十人が負傷、数百人が逮捕されました。これは公共の安全を脅かす深刻な社会秩序の混乱を示しています。",
+          "location": "Paris, France",
+          "severity": 75,
+          "description": "パリでサッカーファンによる大規模な暴動が発生し、数十人が負傷、数百人が逮捕された。社会秩序が著しく混乱している状況。",
           "source": "Hungarian Conservative"
         },
         {
-          "title": "Zelensky Fears Russian Offensive as AFU Arms Run Low",
-          "location": "ウクライナ",
-          "severity": 75,
-          "description": "ゼレンスキー大統領が、ウクライナ軍の兵器不足の中でのロシアの攻勢を懸念していると報じられています。これは国家の存亡に関わる深い不安と危機感を示しています。",
-          "source": "Военное дело"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 90,
-      "status": "critical",
-      "main_cause": "軍事攻撃による生命の危険とパニック",
-      "incidents": [
-        {
-          "title": "Iran BOMBS U.S Base in Iraq BREAKING: U.S Troops RUN IN PANIC as Missiles Rain Down in Erbil",
-          "location": "イラク, エルビル",
-          "severity": 95,
-          "description": "イランがイラクの米軍基地を爆撃し、ミサイルが降り注ぐ中で米兵がパニック状態で逃げ惑う事態が発生しました。これは直接的な生命の危険と極度のパニック状態を示しています。",
-          "source": "Oneindia"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "ライフライン不足、経済不安",
-      "incidents": [
-        {
-          "title": "UI students protest outage, water shortage, disrupt academic activities",
-          "location": "ナイジェリア",
-          "severity": 70,
-          "description": "ナイジェリアの大学で、電気と水不足に対する学生の抗議活動が発生し、学業が中断されました。これは基本的な生活インフラの不足が社会不安を引き起こしていることを示します。",
-          "source": "The Guardian Nigeria News"
-        },
-        {
-          "title": "Central bank must not run unsustainable losses – Boako warns",
-          "location": "ガーナ",
-          "severity": 50,
-          "description": "ガーナ中央銀行が持続不可能な損失を避けるべきだと警告されており、経済の不安定性に対する懸念が高まっています。これは潜在的な金融不安の兆候です。",
-          "source": "GhanaWeb"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "生活必需品不足、金融不安、暴徒化による社会秩序の崩壊",
-      "incidents": [
-        {
-          "title": "Bhubaneswar Horror: mob beats ‘accused’ to death",
-          "location": "インド, ブバネーシュワル",
-          "severity": 90,
-          "description": "ブバネーシュワルで、群衆が「容疑者」をリンチで殺害する事件が発生しました。これは法と秩序の崩壊、集団的な暴力的パニック状態を示しており、極めて深刻です。",
-          "source": "Odisha TV"
-        },
-        {
-          "title": "Shariah-based bank depositors protest BB officials' remarks, warn of 'suicide programme'",
-          "location": "バングラデシュ",
-          "severity": 85,
-          "description": "シャリア準拠銀行の預金者が当局の姿勢に抗議し、「自殺計画」を警告する事態が発生。これは金融システムへの深刻な不信と絶望感がパニックを引き起こしている状況です。",
-          "source": "The Business Standard"
-        },
-        {
-          "title": "Ulundurpet Protest: Women Block Road Over 20 Days of Water Shortage in Chinna Kuppam",
-          "location": "インド, ウルンドゥルペット",
-          "severity": 80,
-          "description": "インドのウルンドゥルペットで、20日間にわたる水不足に対し女性たちが道路を封鎖して抗議しています。長期的な生活必需品不足が社会秩序を混乱させています。",
-          "source": "IANS LIVE"
-        },
-        {
-          "title": "BJP Protests at Jamshedpur DC Office Over Water and Power Shortage",
-          "location": "インド, ジャムシェドプール",
-          "severity": 75,
-          "description": "ジャムシェドプールで、水と電力の不足を訴える大規模な抗議デモが勃発しました。生活インフラの機能不全が広範囲な社会不安を引き起こしています。",
-          "source": "The Avenue Mail"
-        },
-        {
-          "title": "SBI employees’ strike on May 25-26: Why bank staff are protesting, key demands, and will banking services",
-          "location": "インド",
+          "title": "International far-right network uses Dutch unrest to make a comeback",
+          "location": "Netherlands",
           "severity": 65,
-          "description": "インド最大の銀行SBIの従業員が大規模なストライキを計画しており、銀行サービスの中断が予想されます。これは経済活動に影響を与え、利用者に不安を引き起こす可能性があります。",
-          "source": "The Times of India"
+          "description": "オランダにおける社会不安が国際的な極右ネットワークに利用されており、社会の混乱と分断が深刻化している。",
+          "source": "Justice for Prosperity"
+        },
+        {
+          "title": "Train disruption in South East over bank holiday",
+          "location": "South East, UK",
+          "severity": 30,
+          "description": "英国南東部で祝日中に列車運行が中断された。広範囲ではないが、交通の混乱は市民の不満を高める。",
+          "source": "AOL.com"
         }
       ]
     },
     {
       "region": "east_asia",
       "panic_index": 30,
-      "status": "normal",
-      "main_cause": "特定の政治問題に対する抗議活動",
+      "status": "stable",
+      "main_cause": "金融システムへの懸念（サイバー犯罪）",
       "incidents": [
         {
-          "title": "軍事化反対訴えデモ 17日那覇自己決定権の会",
-          "location": "日本, 那覇",
+          "title": "How a North Korean $290M crypto heist became DeFi’s nightmare scenario",
+          "location": "North Korea",
           "severity": 30,
-          "description": "沖縄の那覇で、軍事化に反対するデモが予定されています。これは特定の政治的な問題に対する市民の意見表明であり、広範な社会パニックを示すものではありません。",
-          "source": "沖縄タイムス社"
+          "description": "北朝鮮による大規模な暗号通貨窃盗事件がDeFi（分散型金融）にとって悪夢のシナリオとされており、金融システムの脆弱性と信頼性の問題が浮上している。",
+          "source": "NK News"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "情報不足（特筆すべきパニック事象なし）",
+      "incidents": []
+    },
+    {
+      "region": "africa",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "金融不安、経済不安定性",
+      "incidents": [
+        {
+          "title": "Central bank must not run unsustainable losses – Boako warns",
+          "location": "Ghana",
+          "severity": 60,
+          "description": "ガーナの中央銀行が持続不可能な損失を避けるべきとの警告があり、国の金融システムや経済の安定性に対する懸念が高まっている。",
+          "source": "GhanaWeb"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "情報不足（特筆すべきパニック事象なし）",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "金融不安、銀行の取り付け騒ぎの懸念",
+      "incidents": [
+        {
+          "title": "Shariah-based bank depositors protest BB officials' remarks, warn of 'suicide programme'",
+          "location": "Bangladesh",
+          "severity": 80,
+          "description": "バングラデシュでイスラム法に基づく銀行の預金者が抗議デモを行い、「自殺プログラム」を警告している。金融システムへの深刻な不信と取り付け騒ぎへの発展が懸念される危機的な状況。",
+          "source": "The Business Standard"
         }
       ]
     }

@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-08",
-    "summary": "ペルシャ湾・ホルムズ海峡におけるアメリカとイランの軍事衝突が激化。ウクライナでは停戦合意が破綻。ヨーロッパでは防衛自主性の議論が活発化。",
+    "summary": "アメリカとイランの間で軍事衝突が激化。ホルムズ海峡周辺ではアメリカ軍がイランの小型ボートを破壊し、ミサイルやドローンを撃墜。ウクライナでは、戦勝記念日を巡る停戦合意が即座に崩壊し、戦闘が継続。ヨーロッパでは、防衛力強化に向けた議論が活発化している。",
     "events": [
       {
         "id": "event-1",
@@ -125,6 +125,22 @@
         ],
         "event_type": "clash",
         "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/"
+      },
+      {
+        "id": "event_008",
+        "timestamp": "2026-05-04",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "アメリカ軍がイランの小型ボートを破壊、ミサイルとドローンを撃墜",
+        "content": "アメリカ軍はホルムズ海峡の商業交通を妨害しようとしたイランの小型ボート6隻を破壊し、ミサイルとドローンを撃墜。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "critical",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/"
       }
