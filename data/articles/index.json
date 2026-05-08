@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-08",
-    "summary": "ホルムズ海峡での米イラン衝突が激化し、停戦合意が揺らぐ。ウクライナ情勢も依然として不安定で、ロシアの戦勝記念日を前に緊張が高まっている。東アジアでは北朝鮮の軍事活動が活発化し、地政学的リスクが全体的に高まっている。",
+    "summary": "ホルムズ海峡での米イラン衝突が激化し、中東情勢が緊迫化。ウクライナ情勢も依然として不安定で、ロシアによる戦勝記念日の攻撃警告が発せられる。サイバー攻撃も発生し、地政学リスクは全体的に高い。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -11,11 +11,11 @@
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
-      "africa": "none",
-      "north_america": "low",
+      "africa": "high",
+      "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-08T13:59:07.037513"
+    "generated_at": "2026-05-08T16:16:59.576495"
   },
   {
     "date": "2026-05-07",
