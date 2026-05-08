@@ -1,13 +1,13 @@
 [
   {
     "date": "2026-05-08",
-    "summary": "ホルムズ海峡での米イラン衝突、ウクライナ情勢の緊迫化、北朝鮮の軍事力増強など、地政学的リスクが高まっている。特に中東と東アジアにおける緊張が世界経済に悪影響を及ぼす可能性に注意が必要。",
+    "summary": "ホルムズ海峡での米イラン衝突が激化し、停戦合意が揺らぐ。ウクライナ情勢も依然として不安定で、ロシアの戦勝記念日を前に緊張が高まっている。東アジアでは北朝鮮の軍事活動が活発化し、地政学的リスクが全体的に高まっている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
       "southeast_asia": "medium",
-      "south_asia": "low",
+      "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
@@ -15,7 +15,7 @@
       "north_america": "low",
       "south_america": "none"
     },
-    "generated_at": "2026-05-08T10:27:24.361354"
+    "generated_at": "2026-05-08T13:59:07.037513"
   },
   {
     "date": "2026-05-07",
