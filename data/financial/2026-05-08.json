@@ -1,18 +1,21 @@
 {
   "date": "2026-05-08",
-  "summary": "中東情勢の緊迫化と米中貿易摩擦の再燃懸念から、アジア市場を中心にリスクオフの動きが見られます。AI関連技術の進展と暗号資産市場の変動も引き続き注目されます。",
+  "summary": "中東情勢の緊迫化、特に米国とイランの交戦により原油価格が変動し、インフレ懸念が高まっています。また、AI関連技術の進展と規制、暗号資産市場の変動もリスク要因として注視されます。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "Asia-Pacific markets mostly fall as renewed U.S.-Iran clashes keep investors on edge",
+      "title": "Oil prices fall below $100 as Trump insists ceasefire still intact after U.S.-Iran exchange fire",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "米国とイランの衝突再燃への懸念から、アジア株式市場は概ね下落。地政学的リスクが市場心理を悪化させています。",
-      "analysis": "米国とイランの衝突は、原油価格の高騰やサプライチェーンの混乱を引き起こす可能性があります。特に、ホルムズ海峡の封鎖は世界経済に深刻な影響を与え、インフレを加速させるリスクがあります。投資家は安全資産への逃避を強め、新興国市場からの資金流出が加速する可能性があります。地政学的リスクの高まりは、企業収益の悪化や投資判断の遅延を招き、経済成長の足かせとなるでしょう。",
+      "risk_level": "critical",
+      "summary": "ホルムズ海峡で米国とイランが交戦し、両国間の停戦合意が崩壊する懸念が高まり、原油価格が一時100ドルを下回りました。",
+      "analysis": "ホルムズ海峡の地政学的リスクは、原油供給の途絶を招き、世界的なインフレを加速させる可能性があります。トランプ大統領が停戦維持を主張していますが、状況は不安定であり、今後の紛争激化に備える必要があります。市場は、NACHOトレード（ホルムズ海峡の混乱と原油価格上昇を見込む取引）に注目しており、リスク回避の動きが強まる可能性があります。",
       "key_entities": [
         "米国",
         "イラン",
-        "ホルムズ海峡"
+        "ホルムズ海峡",
+        "トランプ大統領",
+        "原油",
+        "OPEC"
       ],
       "sources": [
         "CNBC - Top News"
@@ -25,31 +28,14 @@
       "title": "Trump threatens EU with ‘much higher’ tariffs if no trade deal signed by new deadline",
       "region": "europe",
       "risk_level": "medium",
-      "summary": "トランプ大統領がEUに対し、新たな期限までに貿易協定が締結されない場合、大幅な関税を課すと警告しました。",
-      "analysis": "米国とEU間の貿易摩擦が再燃する可能性があります。関税引き上げは、両地域の経済成長を阻害し、世界貿易の不確実性を高めるでしょう。特に、自動車、農産物、テクノロジー関連製品への影響が懸念されます。企業はサプライチェーンの見直しや価格転嫁を迫られ、消費者物価の上昇を招く可能性があります。投資家は、貿易政策の動向を注視し、リスク回避的な投資戦略を検討する必要があります。",
+      "summary": "トランプ大統領がEUに対し、新たな期限までに貿易協定に署名しなければ、より高い関税を課すと警告しました。",
+      "analysis": "米国の保護主義的な貿易政策は、EUとの貿易摩擦を激化させ、世界経済の成長を阻害する可能性があります。特に、自動車、農産物、テクノロジー分野への影響が懸念されます。企業は、サプライチェーンの見直しや、関税回避のための戦略を検討する必要があります。今後の米EU間の交渉の行方が注目されます。",
       "key_entities": [
-        "米国",
+        "トランプ大統領",
         "EU",
-        "ドナルド・トランプ"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Oil resumes rally as U.S.-Iran fire exchange rattles fragile Hormuz ceasefire",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "米国とイランがホルムズ海峡で交戦し、脆弱な停戦合意が崩壊するとの懸念から原油価格が再び上昇しています。",
-      "analysis": "ホルムズ海峡の緊張は、原油価格の急騰を招き、世界経済にインフレ圧力をかける可能性があります。特に、エネルギー輸入依存度の高い国々や、輸送コストが増加する企業への影響が大きいです。中央銀行は、インフレ抑制のために金融引き締めを強化せざるを得なくなり、景気後退のリスクが高まります。投資家は、エネルギー関連株やインフレ連動債への投資を検討する一方で、景気敏感株へのエクスポージャーを減らす必要があるでしょう。",
-      "key_entities": [
         "米国",
-        "イラン",
-        "ホルムズ海峡",
-        "原油"
+        "貿易協定",
+        "関税"
       ],
       "sources": [
         "CNBC - Top News"
@@ -59,66 +45,16 @@
       ]
     },
     {
-      "title": "Toyota fourth-quarter profit misses by wide margin as U.S. tariffs drive 49% slump",
+      "title": "Bitcoin slips below $80,000: Why the 'Trump rally' is hitting a wall of profit-taking",
       "region": "global",
       "risk_level": "medium",
-      "summary": "トヨタ自動車の第4四半期利益は、米国の関税の影響で大幅に減少しました。",
-      "analysis": "米国の関税政策が、グローバル企業の収益に悪影響を与えていることを示唆しています。特に、自動車産業はサプライチェーンが複雑であり、関税の影響を受けやすいです。トヨタ自動車の業績悪化は、他の自動車メーカーや関連産業にも波及する可能性があります。投資家は、貿易政策の動向を注視し、関税の影響を受けにくい企業への投資を検討する必要があります。",
-      "key_entities": [
-        "トヨタ自動車",
-        "米国"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Tech stocks could offer their best value in years, analysts say, after stellar earnings season",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "アナリストによると、好調な決算シーズンを経て、テクノロジー株は数年で最高の価値を提供する可能性があります。",
-      "analysis": "テクノロジー企業の収益成長が、株価を正当化する水準に達した可能性があります。ただし、金利上昇や景気後退のリスクは依然として存在し、テクノロジー株のバリュエーションを圧迫する可能性があります。投資家は、企業の成長性だけでなく、財務状況や競争力も考慮し、慎重な投資判断を行う必要があります。",
-      "key_entities": [
-        "テクノロジー株"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Coinbase posts steep first-quarter loss after slide in crypto prices; shares fall 4%",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "暗号資産価格の下落後、暗号資産取引プラットフォームCoinbaseは大幅な第1四半期損失を計上し、株価は4％下落しました。",
-      "analysis": "暗号資産市場の変動性が、関連企業の収益に大きな影響を与えることを示しています。Coinbaseの業績悪化は、暗号資産市場全体の低迷を反映している可能性があります。規制の不確実性や競争激化も、Coinbaseの収益を圧迫する要因となるでしょう。投資家は、暗号資産市場のリスクを十分に理解し、分散投資を心がける必要があります。",
-      "key_entities": [
-        "Coinbase",
-        "暗号資産"
-      ],
-      "sources": [
-        "CNBC - Top News",
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin slips to $79,000, DOGE leads majors losses as negative funding rates set 10-year record",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "ビットコインは79,000ドルまで下落し、DOGEが主要な損失を主導。ネガティブなファンディングレートが10年ぶりの記録を樹立。",
-      "analysis": "暗号資産市場のボラティリティが依然として高いことを示しています。ネガティブなファンディングレートは、市場の過熱感や投機的な動きを示唆する可能性があります。投資家は、レバレッジ取引のリスクを十分に理解し、慎重な投資判断を行う必要があります。規制の動向やマクロ経済環境の変化も、暗号資産市場に大きな影響を与える可能性があるため、注意が必要です。",
+      "summary": "ビットコイン価格が80,000ドルを下回り、トランプ氏の支持による上昇が利益確定の壁に直面しています。",
+      "analysis": "ビットコイン市場は依然としてボラティリティが高く、政治的な要因や市場心理に大きく左右されます。利益確定売りが続けば、さらなる価格下落のリスクがあります。一方で、長期的な視点では、機関投資家の参入や、DeFiの発展などが価格を支える可能性があります。今後の市場動向を注意深く監視する必要があります。",
       "key_entities": [
         "ビットコイン",
-        "DOGE",
-        "暗号資産"
+        "トランプ大統領",
+        "暗号資産",
+        "DeFi"
       ],
       "sources": [
         "CoinDesk"
@@ -128,30 +64,16 @@
       ]
     },
     {
-      "title": "Pension funds are doubling down on private credit despite deepening cracks",
+      "title": "CoreWeave stock sinks 10% on weak revenue guidance, increased spending forecast",
       "region": "global",
-      "risk_level": "high",
-      "summary": "年金基金は、引受基準、評価の不透明性、セクター集中に関する懸念が高まっているにもかかわらず、プライベートクレジットへの投資を増やしています。",
-      "analysis": "年金基金がリスクの高いプライベートクレジット市場に資金を投入していることは、金融システム全体の脆弱性を高める可能性があります。プライベートクレジット市場は、流動性が低く、評価が難しいという特徴があります。景気後退時には、貸倒損失が拡大し、年金基金の財務状況を悪化させる可能性があります。規制当局は、プライベートクレジット市場のリスク管理を強化し、年金基金の投資行動を監視する必要があります。",
+      "risk_level": "medium",
+      "summary": "CoreWeaveの株価が、弱い収益見通しと支出増加予測により10%下落しました。",
+      "analysis": "AIインフラストラクチャを提供するCoreWeaveの株価下落は、AI関連企業の成長に対する市場の期待が変化していることを示唆しています。データセンター建設への投資は必要ですが、収益性の確保が課題となります。S&Pによる信用格付けの引き上げはポジティブな要素ですが、今後の業績回復が重要となります。",
       "key_entities": [
-        "年金基金",
-        "プライベートクレジット"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Jim Cramer says the AI boom has 'the power to keep the country's economy humming'",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "CNBCのジム・クレイマーは、人工知能ブームが株式を押し上げ続け、国の経済を活気づける力を持っていると述べました。",
-      "analysis": "AI関連技術の進展が、経済成長の新たな原動力となる可能性があります。ただし、AI技術の普及には、雇用喪失や倫理的な問題など、様々な課題も存在します。政府や企業は、AI技術の恩恵を最大限に活かしつつ、リスクを最小限に抑えるための政策や戦略を策定する必要があります。",
-      "key_entities": [
-        "AI"
+        "CoreWeave",
+        "AI",
+        "データセンター",
+        "S&P"
       ],
       "sources": [
         "CNBC - Top News"
@@ -164,11 +86,104 @@
       "title": "Cloudflare stock sinks 18% after earnings as company cuts 1,100 employees due to AI changes",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Cloudflareの株価は、AIの変化により1,100人の従業員を削減したため、決算後に18％下落しました。",
-      "analysis": "AI技術の進展が、雇用に与える影響を示唆しています。Cloudflareのレイオフは、他の企業にも波及する可能性があり、労働市場の構造的な変化を加速させる可能性があります。政府や企業は、労働者のスキルアップや再教育を支援し、AI時代に適応できる人材育成に取り組む必要があります。",
+      "summary": "Cloudflareの株価が、AIの変化に対応するため従業員を削減したことで18%下落しました。",
+      "analysis": "AI技術の進化が、雇用に与える影響が顕在化しています。Cloudflareのレイオフは、AIによる自動化が進み、人員削減を余儀なくされる企業の増加を示唆しています。企業は、AI技術の導入と同時に、従業員のリスキリングや、新たな雇用機会の創出に取り組む必要があります。",
       "key_entities": [
         "Cloudflare",
-        "AI"
+        "AI",
+        "レイオフ"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "French prosecutors escalate probe of Elon Musk and X to criminal investigation",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "フランスの検察当局が、イーロン・マスク氏とX（旧Twitter）に対する捜査を刑事捜査に拡大しました。",
+      "analysis": "AIによるディープフェイクの拡散に対する懸念が高まっています。Xが有害なコンテンツの拡散に加担している疑いがあり、規制当局の監視が強化される可能性があります。企業は、AI技術の倫理的な利用や、偽情報対策に積極的に取り組む必要があります。",
+      "key_entities": [
+        "イーロン・マスク",
+        "X",
+        "AI",
+        "ディープフェイク",
+        "フランス"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Toyota fourth-quarter profit misses by wide margin as U.S. tariffs drive 49% slump",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "トヨタ自動車の第4四半期利益が大幅に下振れし、米国の関税が49%の落ち込みを引き起こしました。",
+      "analysis": "米国の関税政策が、グローバル企業の収益に悪影響を与えています。トヨタ自動車の業績悪化は、サプライチェーンの再構築や、新たな市場開拓の必要性を示唆しています。企業は、地政学的リスクを考慮した経営戦略を策定する必要があります。",
+      "key_entities": [
+        "トヨタ自動車",
+        "米国",
+        "関税"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Gilt yields ease as UK PM Starmer says 'tough' election results won't make him quit",
+      "region": "europe",
+      "risk_level": "low",
+      "summary": "英国の地方選挙の結果を受けて、ギルト債の利回りが低下しました。スターマー首相は辞任しないと表明しました。",
+      "analysis": "政治的な安定が、市場の安定につながることを示しています。しかし、選挙結果は与党への不満を示しており、今後の政策運営に影響を与える可能性があります。企業は、英国の政治情勢の変化に注意する必要があります。",
+      "key_entities": [
+        "英国",
+        "ギルト債",
+        "スターマー首相"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Best high-yield savings interest rates today, May 8, 2026 (up to 4.1% APY return)",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "高利回り貯蓄口座の金利が最大4.1% APYに達しています。",
+      "analysis": "高金利環境が継続しており、貯蓄者にとっては有利な状況です。しかし、インフレ率を考慮すると、実質的なリターンは限定的である可能性があります。投資家は、リスク許容度に応じて、様々な資産への分散投資を検討する必要があります。",
+      "key_entities": [
+        "金利",
+        "貯蓄口座",
+        "インフレ"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Billion-dollar bets: Global investors chase Indian Premier League to ride booming cricket economy",
+      "region": "south_asia",
+      "risk_level": "low",
+      "summary": "世界の投資家が、急成長するクリケット経済に乗るため、インドのプレミアリーグに巨額の投資を行っています。",
+      "analysis": "インドの経済成長と、クリケットの人気が、新たな投資機会を生み出しています。しかし、スポーツビジネスは、競争が激しく、リスクも高いことを認識する必要があります。投資家は、慎重なデューデリジェンスを行い、長期的な視点で投資判断を行う必要があります。",
+      "key_entities": [
+        "インド",
+        "クリケット",
+        "IPL"
       ],
       "sources": [
         "CNBC - Top News"
@@ -179,12 +194,15 @@
     }
   ],
   "region_risk_map": {
-    "global": "high",
+    "global": "medium",
     "north_america": "medium",
     "europe": "medium",
-    "east_asia": "medium"
+    "east_asia": "low",
+    "south_america": "none",
+    "africa": "none",
+    "middle_east": "critical"
   },
-  "generated_at": "2026-05-08T07:47:42.453954",
+  "generated_at": "2026-05-08T10:27:44.239301",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
