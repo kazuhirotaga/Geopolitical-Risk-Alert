@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-05-09",
-    "summary": "世界経済は、地政学的リスク（イラン戦争）、インフレ圧力、AI関連のサイバーセキュリティリスク、そして暗号資産市場の規制動向など、複数の要因により不確実性が高まっています。市場は高値圏にあり、バブル崩壊の可能性も指摘されています。",
-    "overall_risk_level": "high",
+    "summary": "金融市場は、S&P500が連勝記録を更新するなど好調だが、Michael Burry氏がバブル崩壊の可能性を指摘。地政学的リスク（イラン戦争）、インフレ懸念、AI関連詐欺の増加などがリスク要因として存在する。",
+    "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "medium"
+      "east_asia": "medium",
+      "south_america": "low",
+      "africa": "none",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-05-09T19:08:34.940868"
+    "generated_at": "2026-05-09T21:51:32.026308"
   },
   {
     "date": "2026-05-08",

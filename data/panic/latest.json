@@ -1,116 +1,109 @@
 {
   "date": "2026-05-09",
-  "summary": "現在の世界情勢において、広範囲にわたる社会秩序の崩壊やパニック状態を示す明確な兆候は限定的です。しかし、インドの一部地域では水やLPGといった生活必需品の不足に対する住民の抗議活動が活発化しており、中程度の社会不安が見られます。中東では政治的緊張を背景とした象徴的な抗議活動が継続し、ヨーロッパでは軽微な社会不安と治安問題が報じられています。アフリカの一部地域では潜在的な金融不安への警告が発せられていますが、全体としては地域ごとの不満や懸念に留まり、世界的なパニックには至っていません。",
-  "global_panic_index": 35,
+  "summary": "提供された情報によると、世界各地で散発的な社会不安の兆候が見られます。特にヨーロッパでは英国中央銀行が金融システムにおける「取り付け騒ぎ」のリスクを警告し、潜在的な金融パニックへの警戒が高まっています。南アジア（分析では便宜上東南アジアに分類）では、バングラデシュで銀行預金者の激しい抗議があり、インドでは水やLPGといった生活必需品の不足に対する住民のデモが多発。これらの地域では、経済的な不安定性や資源不足が社会不安の主な要因となっています。一方で、北米や東アジア、南米では特筆すべきパニックや大規模な社会不安の報告は見られず、概ね安定した状況です。世界全体の緊迫度は中程度であり、一部地域での金融や資源に関する警戒が必要です。",
+  "global_panic_index": 60,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "軽微な社会不安、治安問題",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "金融不安、治安悪化",
       "incidents": [
         {
-          "title": "オランダにおける極右ネットワークの活動と社会不安",
-          "location": "オランダ",
-          "severity": 30,
-          "description": "国際的な極右ネットワークがオランダの社会不安を利用しているとの報告があります。具体的な大規模パニック行動は不明ですが、一定の社会的な緊張が存在することを示唆しています。",
-          "source": "Justice for Prosperity"
+          "title": "英国中銀、ステーブルコイン規制で「取り付け騒ぎ」リスクを警告",
+          "location": "英国",
+          "severity": 70,
+          "description": "イングランド銀行がステーブルコインの規制問題を巡り、英国金融システムでの「取り付け騒ぎ」リスクを警告。米国の規制との衝突も指摘されており、金融市場の潜在的な不安定性が懸念される。",
+          "source": "Traders Union"
         },
         {
-          "title": "ドイツにおける銀行強盗と人質事件",
-          "location": "ドイツ、Sinzig",
-          "severity": 35,
-          "description": "ドイツで銀行強盗が発生し、人質が拘束される事件がありました。警察が人質を解放しましたが、容疑者は逃走中です。これは広範な金融パニックではなく、地域的な治安問題として扱われています。",
-          "source": "Dawn, Roch Valley Radio"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "政治的緊張、社会的不満",
-      "incidents": [
-        {
-          "title": "パレスチナ自治区における自由のためのマラソン",
-          "location": "パレスチナ、ヨルダン川西岸",
-          "severity": 45,
-          "description": "パレスチナ人たちが分離壁に沿って「自由のためのマラソン」を実施しました。これは政治的背景を持つ抗議活動であり、直接的なパニック行動ではありませんが、地域の根深い政治的緊張と住民の強い不満を反映しています。",
-          "source": "Al Jazeera, Modern Ghana, thecanary.co"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "資源不足（水、エネルギー）、労働問題",
-      "incidents": [
-        {
-          "title": "インド・プネー市での水不足抗議デモ",
-          "location": "インド、プネー市ハンドワディ",
-          "severity": 60,
-          "description": "プネー市の住民が深刻な水不足に対し、象徴的な葬式を行う形で抗議デモを実施しました。生活必需品の不足は住民の強い不満と社会不安を引き起こしています。",
-          "source": "Punekar News"
-        },
-        {
-          "title": "インド・ビルニハットでのLPG不足抗議デモ",
-          "location": "インド、ビルニハット",
-          "severity": 55,
-          "description": "ビルニハットの住民がLPG（液化石油ガス）の不足に対して抗議デモを行いました。エネルギー供給の不安定さが住民の生活に影響を与え、社会不安に繋がっています。",
-          "source": "Highland Post"
-        },
-        {
-          "title": "インド準備銀行およびインドステイト銀行職員による抗議デモ",
-          "location": "インド",
-          "severity": 45,
-          "description": "インド準備銀行（RBI）とインドステイト銀行（SBI）の職員が新たな昇進政策に抗議し、デモを行いました。これは直接的な金融パニックではありませんが、主要金融機関内部の混乱と大規模な抗議活動は社会不安の一部と見なされます。",
-          "source": "The Indian Express, The Hans India, CNBC TV18"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "潜在的な金融不安",
-      "incidents": [
-        {
-          "title": "ガーナ中央銀行の持続不可能な損失に関する警告",
-          "location": "ガーナ",
-          "severity": 25,
-          "description": "ガーナ中央銀行は持続不可能な損失を回避すべきだとの警告が発せられました。これは現時点でのパニック行動には繋がっていませんが、潜在的な金融不安定性の兆候を示唆しています。",
-          "source": "GhanaWeb"
+          "title": "ドイツで銀行強盗が人質を取り逃走中",
+          "location": "ドイツ",
+          "severity": 40,
+          "description": "ドイツで銀行強盗事件が発生し、犯人が人質を取った後に逃走中。広範な社会パニックには至っていないが、地域住民に一時的な緊張と不安をもたらしている。治安当局が捜査を強化している。",
+          "source": "themorningnews.com"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 10,
+      "panic_index": 20,
       "status": "normal",
-      "main_cause": "該当する主要なパニック事象なし",
+      "main_cause": "なし",
       "incidents": []
     },
     {
       "region": "east_asia",
-      "panic_index": 10,
+      "panic_index": 20,
       "status": "normal",
-      "main_cause": "該当する主要なパニック事象なし",
+      "main_cause": "なし",
       "incidents": []
     },
     {
+      "region": "middle_east",
+      "panic_index": 35,
+      "status": "unstable",
+      "main_cause": "政治的緊張",
+      "incidents": [
+        {
+          "title": "パレスチナ人が分離壁沿いで「自由マラソン」を実施",
+          "location": "ヨルダン川西岸地区（パレスチナ）",
+          "severity": 35,
+          "description": "ヨルダン川西岸地区のパレスチナ人らが、分離壁に沿って「自由マラソン」を実施。これは政治的メッセージを込めた抗議活動であり、大規模なパニックや社会秩序の混乱は報告されていない。",
+          "source": "Al Jazeera"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "経済政策への懸念",
+      "incidents": [
+        {
+          "title": "ガーナ中央銀行、持続不可能な損失を避けるべきと専門家が警告",
+          "location": "ガーナ",
+          "severity": 30,
+          "description": "ガーナの経済専門家が、中央銀行が持続不可能な損失を抱えることのないよう警告。これは国の経済政策に関する懸念表明であり、現時点では広範な社会パニックには至っていない。",
+          "source": "GhanaWeb"
+        }
+      ]
+    },
+    {
       "region": "south_america",
-      "panic_index": 10,
+      "panic_index": 20,
       "status": "normal",
-      "main_cause": "該当する主要なパニック事象なし",
+      "main_cause": "なし",
       "incidents": []
     },
     {
       "region": "southeast_asia",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "該当する主要なパニック事象なし",
-      "incidents": []
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "金融不安、生活必需品不足",
+      "incidents": [
+        {
+          "title": "バングラデシュでシャリア銀行預金者が当局発言に抗議、「自殺計画」を警告",
+          "location": "バングラデシュ",
+          "severity": 65,
+          "description": "シャリア（イスラム法）に基づく銀行の預金者らが、中央銀行当局者の発言に抗議デモを実施。預金者の強い不満と絶望感を示唆する「自殺計画」という言葉で、金融システムへの不信を表明している。",
+          "source": "The Business Standard"
+        },
+        {
+          "title": "インド・プネで水不足に抗議、住民が象徴的な葬儀デモを実施",
+          "location": "インド、プネ",
+          "severity": 60,
+          "description": "インドのプネ市ハンデワディ地区の住民が、深刻な水不足に対し「象徴的な葬儀」を行う抗議デモを実施。生活に不可欠な水の供給不足が住民の間に大きな不満と危機感を引き起こしている。",
+          "source": "Punekar News"
+        },
+        {
+          "title": "インド・バイニハットでLPG不足に住民が抗議デモ",
+          "location": "インド、バイニハット",
+          "severity": 55,
+          "description": "インドのバイニハットで、LPG（液化石油ガス）の供給不足に住民が抗議デモを実施。エネルギー不足が日常生活に深刻な影響を与え、住民の不満が高まり社会不安につながる可能性がある。",
+          "source": "Highland Post"
+        }
+      ]
     }
   ]
 }
