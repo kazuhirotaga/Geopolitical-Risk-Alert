@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-09",
+    "summary": "世界各地で地政学的緊張が高まっている。特に中東における米イラン間の衝突、ウクライナ情勢、東アジアの安全保障環境の悪化が懸念される。サイバー攻撃による混乱も発生しており、グローバルなリスクが高まっている。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "medium",
+      "south_asia": "none",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "medium",
+      "africa": "high",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-05-09T03:27:36.529038"
+  },
+  {
     "date": "2026-05-08",
     "summary": "米国の仲介によるロシア・ウクライナ停戦合意、米イラン間の緊張激化、ASEANによるミャンマー情勢への懸念表明など、地政学的リスクが複合的に高まっている。特に中東情勢は原油価格高騰など経済への影響も懸念される。",
     "overall_risk_level": "high",

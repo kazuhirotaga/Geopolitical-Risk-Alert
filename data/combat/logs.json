@@ -1,5 +1,122 @@
 [
   {
+    "date": "2026-05-09",
+    "summary": "ウクライナでの停戦合意が破綻し戦闘継続。ホルムズ海峡ではアメリカとイランの衝突が激化、互いに攻撃を繰り返す。アメリカ軍はイランの小型艇を破壊、ミサイルやドローンを撃墜。インドはインド太平洋における戦略拠点を建設予定。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-05-08",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ロシア・ウクライナ間の停戦合意決裂",
+        "content": "ドナルド・トランプ大統領が発表したロシアとウクライナ間の3日間の停戦合意は、5月7日の「戦勝記念日」周辺の停戦と同様に、ほぼ即座に崩壊し、戦闘が再開された。",
+        "involved_parties": [
+          "ロシア軍",
+          "ウクライナ軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/flashpoints/ukraine/2026/05/08/russia-ukraine-to-enter-temporary-ceasefire-with-prisoner-exchange-trump-says/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-05-08",
+        "location": "ホルムズ海峡周辺",
+        "region": "middle_east",
+        "title": "アメリカ軍によるイラン軍施設への攻撃とミサイル無効化",
+        "content": "アメリカ軍は、ホルムズ海峡周辺で、イラン軍の軍事施設への攻撃を実施し、IRGCが発射したミサイルを無効化した。イランのタンカーが封鎖を突破しようとしたため。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/08/us-forces-disable-iranian-flagged-tankers-trying-to-cross-blockade/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-05-07",
+        "location": "ホルムズ海峡周辺",
+        "region": "middle_east",
+        "title": "アメリカ軍とイラン軍の交戦",
+        "content": "イランがアメリカ海軍艦艇3隻にミサイルとドローンを発射した後、アメリカ軍はイランの軍事施設に対して報復攻撃を実施。米イラン間の緊張が高まっている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/07/us-and-iran-exchange-fire-as-trump-says-war-will-be-over-quickly/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-05-06",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "アメリカ軍、イランのタンカーに発砲し航行不能に",
+        "content": "アメリカ軍は、イランの封鎖を回避しようとしたイラン籍のタンカーに対し発砲し、航行不能にした。アメリカ海軍はイランの港に出入りする船舶を阻止する封鎖を継続。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/06/us-forces-fire-at-disable-iran-flagged-tanker-trying-to-evade-blockade/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-05-05",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "米イラン、ペルシャ湾の支配を巡り新たな攻撃",
+        "content": "アメリカとイランはペルシャ湾の支配をめぐり、新たな攻撃を開始した。これは前月の停戦発表以来、初めての軍事力行使。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/05/us-iran-launch-new-attacks-as-they-wrestle-for-control-of-gulf-waters/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-05-04",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米軍、ホルムズ海峡でイランの小型艇6隻を破壊、ミサイルとドローンを撃墜",
+        "content": "ブラッド・クーパー提督によれば、イランはホルムズ海峡を商業交通に開放する米軍の作戦を妨害しようとしていた。米軍は小型艇6隻を破壊、ミサイルとドローンを撃墜した。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/"
+      },
+      {
+        "id": "event-7",
+        "timestamp": "2026-05-08",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "ホルムズ海峡における船舶航行の崩壊",
+        "content": "アナリストの発言として、「ホルムズ海峡効果」により、戦争による重要な水路の船舶航行が崩壊している。",
+        "involved_parties": [
+          "関係国"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/08/india-to-build-strategic-outpost-near-key-shipping-lane-in-indo-pacific/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-08",
     "summary": "ウクライナ東部で停戦合意が破綻し戦闘が継続。ホルムズ海峡ではアメリカとイランの武力衝突が激化、米軍はイランの船舶を攻撃し、ミサイルやドローンを迎撃。インドはインド太平洋地域の要衝に軍事拠点を建設予定。",
     "events": [
@@ -4065,141 +4182,6 @@
         "urgency": "critical",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-08",
-    "summary": "アメリカとイランの間で停戦合意が成立。しかし、停戦後もアメリカ軍は中東に駐留を継続する見込み。ロシアがイランへサイバー支援と偵察画像を提供し、アメリカ軍への攻撃を支援しているとウクライナが発表。アメリカ軍はイランのハルグ島にある軍事目標を攻撃。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-04-07",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "アメリカとイランの間で2週間の停戦合意",
-        "content": "トランプ大統領はイランとの間で2週間の停戦合意に達したと発表。しかし、イランは合意を無視する姿勢を示している。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/07/trump-says-he-has-agreed-to-two-week-ceasefire-with-iran/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-07",
-        "location": "イラン・ハルグ島",
-        "region": "middle_east",
-        "title": "アメリカ軍がイランのハルグ島にある軍事目標を攻撃",
-        "content": "アメリカ軍はイランのハルグ島にある軍事目標を攻撃。JD Vance副大統領は、今回の攻撃はアメリカの戦略変更ではないと述べた。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/07/us-hits-military-targets-on-irans-kharg-island/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-04-07",
-        "location": "不明",
-        "region": "middle_east",
-        "title": "ロシアがイランにサイバー支援と偵察画像を提供",
-        "content": "ウクライナの情報評価によると、ロシアの衛星がイランによるアメリカ軍攻撃を支援するため、軍事施設の詳細な画像調査を実施した。",
-        "involved_parties": [
-          "ロシア",
-          "イラン",
-          "アメリカ"
-        ],
-        "event_type": "cyber",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/flashpoints/middle-east/2026/04/07/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-04-07",
-        "location": "不明",
-        "region": "middle_east",
-        "title": "イスラエルとアメリカによるイランのWMDプログラムへの攻撃",
-        "content": "CIAの元イラン分析官によると、イスラエルとアメリカによる攻撃により、イランの大量破壊兵器（WMD）プログラムは崩壊状態にある。",
-        "involved_parties": [
-          "イスラエル",
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "bombing",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/07/irans-other-would-be-wmd-program-lies-in-ruins-following-strikes-by-israel-and-the-us/"
-      },
-      {
-        "id": "event-5",
-        "timestamp": "2026-04-05",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "アメリカ特殊部隊がイランから2人目のF-15パイロットを救出",
-        "content": "金曜日に撃墜されたF-15戦闘機の武器担当官が負傷したが、トランプ大統領は「問題ない」と発表した。アメリカ特殊部隊によって救出された。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-second-f-15-airman-from-iran/"
-      },
-      {
-        "id": "event-6",
-        "timestamp": "2026-04-03",
-        "location": "ホルムズ海峡付近",
-        "region": "middle_east",
-        "title": "A-10攻撃機がホルムズ海峡付近で墜落",
-        "content": "アメリカ空軍のA-10サンダーボルトII攻撃機が、F-15E戦闘機が撃墜されたのとほぼ同時刻にホルムズ海峡付近で墜落したと報じられた。",
-        "involved_parties": [
-          "アメリカ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/a-10-warthog-crashes-near-strait-of-hormuz/"
-      },
-      {
-        "id": "event-7",
-        "timestamp": "2026-04-03",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "アメリカのF-15E戦闘機がイラン上空で撃墜",
-        "content": "生存者の捜索救助活動が進行中。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
-      },
-      {
-        "id": "event-8",
-        "timestamp": "2026-04-01",
-        "location": "バーレーン、カタール、クウェート、サウジアラビア、UAE",
-        "region": "middle_east",
-        "title": "イランがアメリカの航空戦力を支えるインフラを攻撃",
-        "content": "イランは、バーレーン、カタール、クウェート、サウジアラビア、UAEにあるアメリカ軍基地のレーダーシステム、衛星通信、重要な航空機を攻撃した。",
-        "involved_parties": [
-          "イラン",
-          "アメリカ"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/"
       }
     ]
   }
