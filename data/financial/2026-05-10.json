@@ -1,17 +1,17 @@
 {
   "date": "2026-05-10",
-  "summary": "S&P500は6週連続で上昇したが、トランプ・メディアの巨額損失、イラン情勢の緊迫化、AI詐欺の増加など、複数のリスク要因が顕在化。暗号資産市場は規制の明確化が進む一方で、量子コンピュータのリスクや新興国での銀行アプリとしての利用など、新たな課題も浮上している。",
+  "summary": "S&P500は6週連続で上昇。好調な企業業績と経済指標、AI分野の提携が市場を牽引。一方で、トランプ・メディアの巨額損失、イラン情勢の緊迫化、AI詐欺の増加などがリスク要因として浮上。暗号資産市場では規制の進展と技術的課題が混在。",
   "overall_risk_level": "medium",
   "articles": [
     {
       "title": "S&P 500 extends winning streak to 6 weeks. What drove the stock market gains",
       "region": "global",
       "risk_level": "low",
-      "summary": "S&P500が6週連続で上昇。好調な企業業績、経済指標、AI分野での提携が市場を牽引。",
-      "analysis": "S&P500の連騰は、市場の楽観的な見方を反映している。しかし、好材料が出尽くした場合や、予想外のネガティブサプライズが発生した場合、調整局面に入る可能性もある。特に、AI関連の提携は今後の成長を期待させるが、過度な期待はバブルを招くリスクも孕んでいる。経済指標の持続的な改善が、この上昇トレンドを維持できるかの鍵となる。",
+      "summary": "S&P500が6週連続で上昇。好調な企業業績、経済指標、AI分野の提携が市場を牽引。",
+      "analysis": "S&P500の連騰は、企業収益の改善、経済データの好調、そしてAI関連技術への期待感によって支えられています。しかし、市場は楽観的な見通しを織り込み済みであり、今後の経済指標や企業業績が期待を下回った場合、調整局面に入る可能性があります。特に、金利動向やインフレ率の上昇は、株式市場にとって潜在的なリスク要因です。AI関連銘柄への過度な集中も、市場の歪みを引き起こす可能性があります。",
       "key_entities": [
         "S&P 500",
-        "AI関連企業"
+        "AI"
       ],
       "sources": [
         "CNBC - Top News"
@@ -24,8 +24,8 @@
       "title": "Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns",
       "region": "global",
       "risk_level": "high",
-      "summary": "トランプ・メディアの第1四半期損失が4億600万ドルに拡大。ビットコインの評価損とCROの評価減が影響。",
-      "analysis": "トランプ・メディアの巨額損失は、同社の財務状況に対する懸念を高める。特に、ビットコインの価格変動に大きく影響を受ける体質は、暗号資産市場全体のボラティリティリスクを反映している。CROの評価減も、経営戦略の失敗を示唆しており、今後の事業展開に不透明感をもたらす。投資家は、同社の財務状況と経営戦略を慎重に見極める必要がある。",
+      "summary": "トランプ・メディアの第1四半期損失が4億600万ドルに拡大。ビットコインとCROの評価損が影響。",
+      "analysis": "トランプ・メディアの巨額損失は、同社の財務状況に対する懸念を高めています。特に、ビットコインなどの暗号資産への投資が損失を拡大させている点は、市場のボラティリティに対する脆弱性を示唆しています。今後の資金調達や事業戦略によっては、経営破綻のリスクも考慮する必要があります。また、政治的な動向が企業価値に大きく影響する可能性も否定できません。",
       "key_entities": [
         "Trump Media",
         "Bitcoin"
@@ -41,12 +41,30 @@
       "title": "The Iran war will change global energy markets in these important ways, oil executives say",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "イランのホルムズ海峡封鎖により、10億バレル近い石油が失われ、供給不足が深刻化。",
-      "analysis": "イラン情勢の緊迫化は、エネルギー市場に深刻な影響を与えている。ホルムズ海峡の封鎖は、世界の石油供給を大きく阻害し、原油価格の高騰を招く可能性がある。これは、インフレを加速させ、世界経済の成長を鈍化させる要因となる。地政学的リスクが、金融市場に直接的な影響を与える典型的な事例であり、今後の情勢を注視する必要がある。",
+      "summary": "イラン戦争により、ホルムズ海峡の封鎖が発生し、石油市場に大きな影響。供給不足が深刻化。",
+      "analysis": "イラン戦争によるホルムズ海峡の封鎖は、世界のエネルギー市場に深刻な影響を与えています。原油価格の高騰は、インフレを加速させ、世界経済の成長を阻害する可能性があります。また、エネルギー供給の不安定化は、地政学的なリスクを高め、国際的な緊張を招く恐れがあります。代替エネルギーへの移行を加速させる必要性が高まっています。",
       "key_entities": [
-        "イラン",
+        "Iran",
         "ホルムズ海峡",
         "石油市場"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "AI-powered scam calls are getting more convincing—and more common: 'It was her voice, I know her scared cry'",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "AIによる詐欺電話が巧妙化し、被害が拡大。声の模倣技術により、詐欺の判別が困難に。",
+      "analysis": "AI技術の進歩は、詐欺の手法を高度化させ、金融犯罪のリスクを高めています。特に、声の模倣技術は、従来の詐欺対策を無効化する可能性があり、個人情報や資産の保護がより困難になっています。金融機関や政府機関は、AIを活用した詐欺対策を強化するとともに、消費者への啓発活動を積極的に行う必要があります。",
+      "key_entities": [
+        "AI",
+        "詐欺",
+        "金融犯罪"
       ],
       "sources": [
         "CNBC - Top News"
@@ -59,12 +77,11 @@
       "title": "It might be too late for bitcoin’s quantum migration, Project Eleven report argues",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Project Elevenの報告書によると、ビットコインの量子コンピュータ対策が手遅れになる可能性がある。",
-      "analysis": "量子コンピュータの発展は、暗号資産市場に新たなリスクをもたらす。ビットコインの暗号化技術が量子コンピュータによって破られる可能性があり、その対策が間に合わない場合、ビットコインの信頼性が大きく損なわれる可能性がある。これは、ビットコインだけでなく、他の暗号資産にも影響を及ぼす可能性があり、市場全体の信頼性を揺るがすリスクとなる。",
+      "summary": "Project Elevenのレポートによると、ビットコインの量子コンピュータ対策が遅れている可能性。",
+      "analysis": "量子コンピュータの登場は、暗号資産のセキュリティに対する新たな脅威となっています。ビットコインの量子コンピュータ対策が遅れている場合、将来的にハッキングのリスクが高まる可能性があります。開発コミュニティは、早急に量子コンピュータ対策を講じる必要があり、投資家は、このリスクを考慮して投資判断を行う必要があります。",
       "key_entities": [
         "Bitcoin",
-        "量子コンピュータ",
-        "Project Eleven"
+        "量子コンピュータ"
       ],
       "sources": [
         "CoinDesk"
@@ -74,33 +91,15 @@
       ]
     },
     {
-      "title": "AI-powered scam calls are getting more convincing—and more common: 'It was her voice, I know her scared cry'",
+      "title": "Crypto industry cheers Senate Clarity Act markup date as market structure push resumes",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "AI技術の進化により、詐欺電話が巧妙化し、被害が拡大する懸念が高まっている。",
-      "analysis": "AIによる音声模倣技術の進化は、金融詐欺のリスクを高めている。従来の詐欺電話よりも巧妙で、騙される可能性が高く、個人情報の詐取や金銭的な被害が拡大する恐れがある。金融機関は、AIを活用した詐欺対策を強化し、消費者は注意を払う必要がある。これは、金融リテラシーの向上だけでなく、AI技術の倫理的な利用に関する議論を深める必要性を示唆している。",
+      "risk_level": "low",
+      "summary": "暗号資産市場の構造改革を推進する法案が上院銀行委員会で審議される見込み。",
+      "analysis": "暗号資産市場の規制整備は、市場の透明性を高め、投資家保護を強化する上で重要な役割を果たします。上院銀行委員会での法案審議は、暗号資産市場の健全な発展に向けた一歩となる可能性があります。しかし、法案の内容によっては、市場のイノベーションを阻害する可能性も考慮する必要があります。",
       "key_entities": [
-        "AI",
-        "詐欺",
-        "金融機関"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Emerging-market users are treating crypto exchanges like banking apps, Binance says",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "新興国市場のユーザーが、暗号資産取引所を銀行アプリのように利用する傾向が強まっているとBinanceが発表。",
-      "analysis": "新興国市場における暗号資産取引所の銀行アプリとしての利用は、金融包摂の促進に貢献する可能性がある。しかし、規制が未整備な状況下での利用拡大は、マネーロンダリングやテロ資金供与のリスクを高める。また、暗号資産の価格変動リスクが、新興国市場の金融システムに悪影響を及ぼす可能性もある。規制当局は、適切な規制を整備し、消費者保護を強化する必要がある。",
-      "key_entities": [
-        "Binance",
-        "暗号資産取引所",
-        "新興国市場"
+        "暗号資産",
+        "規制",
+        "上院銀行委員会"
       ],
       "sources": [
         "CoinDesk"
@@ -113,8 +112,8 @@
       "title": "CME is set to let traders bet on bitcoin volatility, not just price",
       "region": "global",
       "risk_level": "medium",
-      "summary": "CMEがビットコインの価格だけでなく、ボラティリティにも賭けられるようにする。",
-      "analysis": "CMEによるビットコインボラティリティ取引の導入は、機関投資家の参入を促し、市場の成熟度を高める可能性がある。しかし、ボラティリティ取引は、価格変動リスクを増幅させる可能性があり、市場の不安定化を招く恐れもある。特に、レバレッジをかけた取引は、損失を拡大させるリスクが高く、投資家は慎重な判断が求められる。",
+      "summary": "CMEがビットコインの価格だけでなくボラティリティに賭ける取引を許可する予定。",
+      "analysis": "CMEがビットコインのボラティリティ取引を許可することは、機関投資家の参入を促し、市場の成熟度を高める可能性があります。しかし、ボラティリティ取引は、高度なリスク管理能力を必要とするため、個人投資家は注意が必要です。また、市場のボラティリティが過度に高まる可能性も考慮する必要があります。",
       "key_entities": [
         "CME",
         "Bitcoin",
@@ -131,8 +130,8 @@
       "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
       "region": "global",
       "risk_level": "medium",
-      "summary": "FRBは利下げを行う理由が急速に減少している。",
-      "analysis": "堅調な雇用統計は、FRBの利下げを抑制する要因となる。インフレが目標水準を超えている状況下では、利下げはインフレを加速させるリスクがある。FRBは、インフレ抑制と景気後退リスクのバランスを取りながら、慎重な金融政策運営を行う必要がある。今後の経済指標次第では、利上げの可能性も排除できない。",
+      "summary": "FRBは利下げの理由が急速に減少。雇用統計が好調で、インフレ抑制が優先課題。",
+      "analysis": "FRBが利下げを見送る可能性が高まっています。これは、企業の借入コストを高く維持し、経済成長を抑制する可能性があります。株式市場は、利下げ期待の後退により、調整局面に入る可能性があります。また、高金利は、ドル高を招き、新興国経済に悪影響を及ぼす可能性があります。",
       "key_entities": [
         "FRB",
         "金利",
@@ -146,15 +145,14 @@
       ]
     },
     {
-      "title": "Micron and Qualcomm are among the most overbought stocks this week. Here are the others",
+      "title": "Michael Burry says the market today feels like 'the last months of the 1999-2000 bubble'",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "MicronとQualcommは今週最も買われすぎた銘柄の一つ。",
-      "analysis": "メモリチップ株の急騰は、市場の過熱感を示唆している。買われすぎの銘柄は、調整局面に入る可能性が高く、投資家は注意が必要である。特に、半導体市場は、需要変動の影響を受けやすく、今後の業績見通しに不透明感がある。過度な期待は、バブルを招くリスクがあり、慎重な投資判断が求められる。",
+      "risk_level": "high",
+      "summary": "マイケル・バーリ氏が現在の市場を1999-2000年のバブル末期に例え、警鐘を鳴らす。",
+      "analysis": "著名投資家であるマイケル・バーリ氏が、現在の市場をITバブル末期に例えたことは、投資家心理に大きな影響を与える可能性があります。市場は過熱気味であり、調整局面に入る可能性が高まっています。投資家は、リスク管理を徹底し、慎重な投資判断を行う必要があります。",
       "key_entities": [
-        "Micron",
-        "Qualcomm",
-        "半導体市場"
+        "Michael Burry",
+        "ITバブル"
       ],
       "sources": [
         "CNBC - Top News"
@@ -164,15 +162,16 @@
       ]
     },
     {
-      "title": "Major crypto bill slated for May 14 Senate Banking Committee vote",
-      "region": "global",
+      "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+      "region": "middle_east",
       "risk_level": "medium",
-      "summary": "主要な暗号資産法案が5月14日に上院銀行委員会で採決される予定。",
-      "analysis": "暗号資産規制の明確化は、市場の健全な発展に不可欠である。法案の内容次第では、暗号資産市場の成長を促進する可能性がある一方、過度な規制はイノベーションを阻害する恐れもある。投資家は、法案の内容と市場への影響を注視する必要がある。規制の明確化は、機関投資家の参入を促し、市場の安定化に貢献する可能性がある。",
+      "summary": "トランプ・習近平会談でイラン問題が優先され、関税やレアアースに関する進展が遅れる可能性。",
+      "analysis": "米中首脳会談でイラン問題が優先される場合、米中間の貿易摩擦が長期化する可能性があります。関税やレアアースに関する交渉が進展しない場合、世界経済の成長を阻害する可能性があります。また、サプライチェーンの混乱が長期化する可能性も考慮する必要があります。",
       "key_entities": [
-        "暗号資産",
-        "規制",
-        "上院銀行委員会"
+        "トランプ",
+        "習近平",
+        "イラン",
+        "レアアース"
       ],
       "sources": [
         "CNBC - Top News"
@@ -183,12 +182,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "medium",
+    "global": "high",
     "north_america": "medium",
-    "europe": "low",
-    "east_asia": "none"
+    "europe": "medium",
+    "east_asia": "medium"
   },
-  "generated_at": "2026-05-10T03:40:28.465384",
+  "generated_at": "2026-05-10T08:13:04.299236",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

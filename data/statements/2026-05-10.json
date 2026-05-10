@@ -1,9 +1,23 @@
 {
   "date": "2026-05-10",
-  "summary": "本日、FRBからの発表がありましたが、要人発言は含まれていません。金融機関の合併承認に関するものであり、市場への直接的な影響は限定的と考えられます。",
-  "statements": [],
-  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm",
-  "generated_at": "2026-05-10T03:40:34.749591",
+  "summary": "本日は、米連邦準備制度理事会（FRB）からの発表のみが確認されました。金融機関の合併承認に関するもので、直接的な市場への影響は限定的と考えられますが、金融セクターの再編動向を示す可能性があります。",
+  "statements": [
+    {
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "コロンビア・バンクMHCおよびコロンビア・ファイナンシャル・インクによる関連申請を承認",
+      "context": "FRBによるプレスリリース",
+      "analysis": "この承認は、地域金融機関の再編を促進する可能性があります。規制当局が金融機関の合併を容認する姿勢を示唆しており、今後、同様の動きが活発化する可能性があります。ただし、個別の金融機関の動向であり、マクロ経済への直接的な影響は小さいと考えられます。",
+      "importance": "low",
+      "tags": [
+        "金融",
+        "合併",
+        "規制"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm"
+    }
+  ],
+  "generated_at": "2026-05-10T08:13:11.062107",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
