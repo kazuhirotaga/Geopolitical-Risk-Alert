@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-10",
+    "summary": "ウクライナ情勢の緊迫化、中東におけるイスラエルとイラン間の緊張、ハンタウイルス感染疑いのクルーズ船問題など、複数の地政学的リスクが顕在化。世界的な不安定要素が増大している。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "critical",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-05-10T03:40:01.675368"
+  },
+  {
     "date": "2026-05-09",
     "summary": "ウクライナ情勢の緊迫化、中東での戦闘継続、米イラン間の緊張、感染症リスクなど、地政学リスクは依然として高い。特に中東地域は人道危機も深刻化しており、注視が必要。",
     "overall_risk_level": "high",
