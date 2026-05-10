@@ -1,5 +1,59 @@
 [
   {
+    "id": "456e90c19f9d",
+    "title": "ロシア・ウクライナ双方“停戦期間も攻撃受けた”非難応酬続く",
+    "summary": "ロシアとウクライナはアメリカ側の提案に応じて3日間停戦するとしていましたが、双方は10日も攻撃を受けたとして非難の応酬が続いています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260511/k10015118021000.html",
+    "published": "2026-05-11T05:32:55+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "europe",
+      "north_america"
+    ]
+  },
+  {
+    "id": "982e98bff538",
+    "title": "プーチン大統領側近 日ロ政治対話再開へ文化交流の重要性強調",
+    "summary": "ロシアのプーチン大統領の側近の1人は、NHKとのインタビューで、ウクライナ侵攻を受けて悪化した日ロ関係をめぐり、政治対話の再開に向けて文化交流を続けることの重要性を強調しました。",
+    "url": "http://www3.nhk.or.jp/news/html/20260511/k10015117971000.html",
+    "published": "2026-05-11T05:16:30+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "73a56128cfb0",
+    "title": "BBC speaks with civilians inside Iran struggling with impact of war",
+    "summary": "Iranian authorities have imposed an internet ban but using trusted sources, special correspondent Fergal Keane hears from those traumatised by conflict and government repression.",
+    "url": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-05-10T21:13:47+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "312c55598e52",
+    "title": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
+    "summary": "US president will likely 'apply pressure' to China for buying Iranian oil during war.",
+    "url": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss",
+    "published": "2026-05-10T21:12:50+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia",
+      "middle_east"
+    ]
+  },
+  {
     "id": "5e7e3e835c1f",
     "title": "米とイラン 交渉進展見られず ホルムズ海峡は不安定な情勢続く",
     "summary": "アメリカとイランの戦闘終結をめぐって依然として交渉の進展が見られないなか、イラン軍の報道官は、「アメリカによるイランへの制裁に追随する国はホルムズ海峡の通過で今後、困難に直面するだろう」と述べ、ホルムズ海峡はイラン側の管理下にあることを改めて強調しました。一方、アメリカの中央軍は、イランの港を出入りする船舶への封鎖措置は、引き続き完全に実施されていると主張しています。",
@@ -11,6 +65,45 @@
     "regions": [
       "middle_east",
       "north_america"
+    ]
+  },
+  {
+    "id": "ff5dca37eb1e",
+    "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+    "summary": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
+    "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+    "published": "2026-05-10T21:01:17+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "c906a3732710",
+    "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+    "summary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+    "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-05-10T20:57:22+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "a965d06c2b47",
+    "title": "US Jewish leader, Israel advocate Abe Foxman dies at 86",
+    "summary": "Israeli officials hail Foxman, who led the ADL advocacy group for nearly three decades, as warm and passionate.",
+    "url": "https://www.aljazeera.com/news/2026/5/10/us-jewish-leader-israel-advocate-abe-foxman-dies-at-86?traffic_source=rss",
+    "published": "2026-05-10T20:52:48+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -46,19 +139,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss",
     "published": "2026-05-10T17:22:18+00:00",
     "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "813641f6ae54",
-    "title": "Iran sends response to US proposals to end war",
-    "summary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
-    "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-05-10T17:20:52+00:00",
-    "source_name": "BBC - World",
     "source_type": "media",
     "language": "en",
     "regions": [
@@ -171,25 +251,11 @@
     ]
   },
   {
-    "id": "dc4955f38a19",
-    "title": "Iran sends response to US proposal to end war via mediator Pakistan",
-    "summary": "According to the proposal, initial negotiations will focus on ending hostilities.",
+    "id": "2513c977b09b",
+    "title": "Iran replies to US proposal to end war, Trump finds response ‘unacceptable’",
+    "summary": "In his first remarks since the development, US President Donald Trump has accused Iran of 'playing games'.",
     "url": "https://www.aljazeera.com/news/2026/5/10/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan?traffic_source=rss",
     "published": "2026-05-10T12:40:50+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "south_asia",
-      "middle_east"
-    ]
-  },
-  {
-    "id": "24392d98e315",
-    "title": "US-Iran ceasefire under strain as Gulf states report drone attacks",
-    "summary": "Drone hits cargo ship off Qatar’s coast, while Kuwait and the United Arab Emirates repel attacks.",
-    "url": "https://www.aljazeera.com/news/2026/5/10/us-iran-ceasefire-under-strain-as-gulf-states-report-drone-attacks?traffic_source=rss",
-    "published": "2026-05-10T12:16:51+00:00",
     "source_name": "Al Jazeera",
     "source_type": "media",
     "language": "en",
@@ -208,32 +274,6 @@
     "language": "ja",
     "regions": [
       "east_asia"
-    ]
-  },
-  {
-    "id": "006d468a4640",
-    "title": "El Clasico: Kylian Mbappe not in Real Madrid squad to face Barcelona",
-    "summary": "French forward to miss the crucial fixture despite training with teammates on Friday following his recovery from injury.",
-    "url": "https://www.aljazeera.com/sports/2026/5/10/el-clasico-kylian-mbappe-not-in-real-madrid-squad-to-face-barcelona?traffic_source=rss",
-    "published": "2026-05-10T11:13:00+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "33d6c4ac14ea",
-    "title": "Why is Iran taking time to respond to the US proposal to end the war?",
-    "summary": "Iran continues to review the proposal as Tehran's nuclear programme and Strait of Hormuz remain main sticking points.",
-    "url": "https://www.aljazeera.com/news/2026/5/10/why-is-iran-taking-time-to-respond-to-the-us-proposal-to-end-the-war?traffic_source=rss",
-    "published": "2026-05-10T10:56:07+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {

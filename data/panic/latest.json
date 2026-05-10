@@ -1,114 +1,136 @@
 {
   "date": "2026-05-10",
-  "summary": "世界全体では、金融システムの脆弱性や政府・公的機関への信頼低下に起因する社会不安が散見されます。特に英国ではステーブルコイン規制を巡る金融危機リスクが警告され、韓国やバングラデシュでも金融機関の信頼性や安定性に関する懸念が指摘されています。また、オランダでは亡命申請者に関する抗議デモが暴力化し、インドではエネルギー不足や金融詐欺が社会不安を引き起こしています。大規模な略奪や無秩序な逃避といった全面的なパニックには至っていませんが、潜在的なリスクは高まっています。",
-  "global_panic_index": 58,
+  "summary": "現在の世界情勢は、広範な「パニック」と呼べる状況には至っていませんが、各地域で社会不安の兆候が散見されます。地政学的緊張の継続、局地的な暴力事件、金融機関への信頼性の揺らぎ、生活必需品に関する懸念、そして燃料価格や移民問題に起因する大規模な抗議活動が、社会心理的な不安定さを高めています。特に中東地域における紛争の緊張は深刻であり、一部地域では治安悪化やインフラへの影響も報告されていますが、全体として社会インフラが麻痺するような全面的なパニックには至っていません。",
+  "global_panic_index": 55,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 70,
+      "region": "north_america",
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "金融システムへの懸念、移民政策に起因する暴力的デモ",
+      "main_cause": "治安悪化、局地的な暴力",
       "incidents": [
         {
-          "title": "英中銀、ステーブルコイン規制と『取り付け騒ぎ』リスクを警告",
-          "location": "英国",
-          "severity": 75,
-          "description": "イングランド銀行がステーブルコインの規制を巡る米国との対立を指摘し、英国での取り付け騒ぎ（Bank run）リスクの可能性を警告。金融システムの安定性に対する潜在的な脅威が示唆されています。",
-          "source": "Traders Union / The Block"
-        },
-        {
-          "title": "オランダで亡命申請抗議デモが暴力化、26人逮捕",
-          "location": "オランダ、アペルドールン",
+          "title": "プロム後のパーティーでの銃撃事件と混乱",
+          "location": "Muskegon County, USA",
           "severity": 70,
-          "description": "亡命申請者に関する抗議デモが激化し、暴力的な衝突が発生。26人が逮捕される事態となり、移民問題に起因する社会的な緊張と治安悪化が懸念されます。",
-          "source": "NL Times"
+          "description": "プロム後のパーティーで銃撃事件が発生し、「カオス、泣き叫ぶ声」と共に参加者が逃避する事態となりました。6人が負傷し、車両による混乱も発生しています。",
+          "source": "MLive.com"
         },
         {
-          "title": "ドイツで銀行強盗と人質事件、犯人逃走中",
-          "location": "ドイツ",
-          "severity": 50,
-          "description": "銀行強盗事件が発生し、人質を巻き込む騒ぎとなりました。犯人は現在も逃走中であり、地域住民に一時的な不安と警戒感が広がっています。",
-          "source": "themorningnews.com"
+          "title": "金融機関への信頼性の揺らぎ",
+          "location": "USA (Citizens Bank)",
+          "severity": 35,
+          "description": "Citizens Bankが刑務所運営との関係を理由に顧客を失っており、企業に対する不信感が広がっています。直接的な取り付け騒ぎには至っていませんが、金融機関の評判悪化が懸念されます。",
+          "source": "MSN"
+        },
+        {
+          "title": "反イスラエル抗議デモの計画",
+          "location": "NYC, USA",
+          "severity": 20,
+          "description": "NYCで反イスラエル活動家がイスラエル不動産イベントに対する抗議デモを計画しています。現時点では計画段階であり、大規模な混乱は報じられていません。",
+          "source": "The Jerusalem Post"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "特定の銀行への不信感、銃暴力による局地的な混乱",
+      "region": "europe",
+      "panic_index": 68,
+      "status": "volatile",
+      "main_cause": "燃料価格への不満、移民問題",
       "incidents": [
         {
-          "title": "Citizens Bank、刑務所運営企業との関係で顧客離れ",
-          "location": "米国",
-          "severity": 35,
-          "description": "Citizens Bankが刑務所運営企業との関係を巡り、倫理的な問題から顧客を失っていると報じられました。大規模な取り付け騒ぎには至らないものの、企業に対する不信感が表面化しています。",
+          "title": "アイルランドにおける燃料抗議デモの長期化",
+          "location": "M50, Ireland",
+          "severity": 60,
+          "description": "M50の一部が閉鎖されるなど、燃料価格への抗議デモが4日目に突入し、交通インフラに影響を与えています。長期化する抗議は社会不安を増大させています。",
           "source": "MSN"
         },
         {
-          "title": "パーティーでの銃撃事件により参加者がパニック、混乱",
-          "location": "米国",
-          "severity": 60,
-          "description": "パーティー会場で銃撃事件が発生し、参加していた若者たちがパニックに陥り、叫びながら逃げ惑う事態となりました。地域住民の間には恐怖と混乱が広がっています。",
-          "source": "MLive.com"
+          "title": "オランダでの亡命抗議の暴徒化",
+          "location": "Apeldoorn, Netherlands",
+          "severity": 65,
+          "description": "アペルドールンで亡命に関する抗議デモが暴力的衝突に発展し、26人が逮捕されました。移民問題を巡る社会的分裂が治安悪化に繋がっています。",
+          "source": "NL Times"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 55,
+      "panic_index": 48,
       "status": "unstable",
-      "main_cause": "国営銀行への信頼低下、経済的・社会的な不安",
+      "main_cause": "金融機関への不信感、経済的不満",
       "incidents": [
         {
-          "title": "国営銀行からの従業員流出が加速、待遇格差や転勤が原因",
-          "location": "韓国",
-          "severity": 50,
-          "description": "かつて「神の職場」と呼ばれた国営銀行で、給与格差や転勤への懸念から従業員の大量退職が加速しています。公的機関への信頼低下と経済的な不安を示唆する動きです。",
-          "source": "서울경제 / 매일경제 / 아시아경제"
+          "title": "韓国国営銀行からの従業員流出と人気低下",
+          "location": "South Korea",
+          "severity": 45,
+          "description": "給与格差や転勤への懸念から国営銀行からの従業員流出が加速しており、かつて「夢の職場」とされた国営銀行の人気が低下しています。金融システムの安定性への潜在的な懸念があります。",
+          "source": "Seoul Economic Daily"
         },
         {
-          "title": "Myeongryunjinsa Galbiが国営銀行資金を不正利用、フランチャイズ店から資金流出",
-          "location": "韓国",
-          "severity": 50,
-          "description": "Myeongryunjinsa Galbiが国営銀行資金を不正に利用し、フランチャイズ店から資金を吸い上げていた問題で、公正取引委員会が強い制裁措置を開始。金融機関の信頼性への懸念が高まっています。",
+          "title": "国営銀行資金悪用スキャンダル",
+          "location": "South Korea",
+          "severity": 40,
+          "description": "Myeongryunjinsa Galbiがフランチャイズ店から資金を吸い上げるために国営銀行資金を悪用したとして、公正取引委員会が制裁を科しています。金融機関への不信感を募らせる事態です。",
           "source": "아시아경제"
         }
       ]
     },
     {
-      "region": "south_asia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "エネルギー不足、金融システムの脆弱性、大規模詐欺",
+      "region": "middle_east",
+      "panic_index": 78,
+      "status": "critical",
+      "main_cause": "地域紛争の継続的な緊張",
       "incidents": [
         {
-          "title": "LPGシリンダー不足に対しMSJKが抗議デモ",
-          "location": "インド",
-          "severity": 55,
-          "description": "LPGシリンダーの深刻な不足に対し、住民組織MSJKが抗議デモを実施。生活必需品の供給不足は、広範な社会不安と不満の蓄積を示しています。",
-          "source": "Daily Excelsior"
-        },
-        {
-          "title": "ノンバンク金融機関の清算、56億ルピーの資金不足で停滞",
-          "location": "バングラデシュ",
-          "severity": 65,
-          "description": "ノンバンク金融機関（NBFI）の清算が、56億タカ（約56億ルピー）もの巨額の資金不足により停滞しています。金融システムの脆弱性が露呈し、投資家や預金者の間で不安が高まっています。",
-          "source": "The Business Standard"
-        },
-        {
-          "title": "RBI従業員が昇進ポリシーに抗議継続",
-          "location": "インド",
-          "severity": 45,
-          "description": "インド準備銀行（RBI）の従業員が新しい昇進ポリシーに反対し、今週も抗議活動を継続する予定です。主要な金融機関内部での不満は、間接的に金融市場の安定性に影響を与える可能性があります。",
-          "source": "Business Standard"
-        },
-        {
-          "title": "オディシャ州で8億ルピー超の大規模金融詐欺事件、元財務職員ら逮捕",
-          "location": "インド、オディシャ州",
-          "severity": 55,
-          "description": "オディシャ州で約8億400万ルピーにも上る大規模な金融詐欺事件が発覚し、元財務職員を含む6人が逮捕されました。公的機関や金融システムへの国民の信頼を揺るがす重大な事件です。",
+          "title": "イラン核問題と紛争継続の警告",
+          "location": "Iran/Israel",
+          "severity": 75,
+          "description": "ネタニヤフ首相がイランのウラン貯蔵撤去を要求し、紛争が「終わっていない」と警告しました。地域における地政学的緊張が極めて高い状態が続いています。",
           "source": "lokmattimes.com"
+        },
+        {
+          "title": "西アジア紛争の緊張下での社会活動",
+          "location": "Palestine/West Asia",
+          "severity": 70,
+          "description": "西アジア紛争の緊張が続く中、パレスチナマラソンが3年ぶりに開催されました。紛争が人々の日常生活に与える影響と、それに抗う試みが混在しています。",
+          "source": "Mid-day"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 63,
+      "status": "volatile",
+      "main_cause": "生活必需品不足、治安悪化、労働争議",
+      "incidents": [
+        {
+          "title": "インドの一部都市での水不足",
+          "location": "India",
+          "severity": 50,
+          "description": "インドの一部都市で水不足が発生しており、当局は給水と再利用に頼っています。生活必需品の供給不安が住民の懸念を引き起こしています。",
+          "source": "The Times of India"
+        },
+        {
+          "title": "バングラデシュの大学での集団的暴力（「暴徒による恐怖」）",
+          "location": "Eden College, Bangladesh",
+          "severity": 60,
+          "description": "Eden Collegeで真夜中に「暴徒による恐怖」が発生したと報じられています。集団的暴力は地域的な治安悪化と社会不安の兆候です。",
+          "source": "bdnews24.com"
+        },
+        {
+          "title": "インドネシアの火山噴火による混乱",
+          "location": "Indonesia",
+          "severity": 40,
+          "description": "インドネシアの火山噴火による捜索救助活動が終了し、全ての犠牲者が発見されました。一時的な混乱はありましたが、状況は収束に向かっています。",
+          "source": "lokmattimes.com"
+        },
+        {
+          "title": "インド中央銀行従業員の抗議活動",
+          "location": "India",
+          "severity": 45,
+          "description": "インド準備銀行（RBI）の従業員が昇進ポリシーに対する抗議活動を今週も継続すると報じられています。大規模な労働争議は社会の不安定要素となり得ます。",
+          "source": "Business Standard"
         }
       ]
     }

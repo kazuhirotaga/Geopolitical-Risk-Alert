@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-10",
-    "summary": "中東情勢が極めて不安定。米イラン間の緊張が継続し、イスラエルとレバノンの衝突も激化。ウクライナ情勢も停戦合意が履行されず、予断を許さない状況。世界経済への影響も懸念される。",
-    "overall_risk_level": "critical",
+    "summary": "ウクライナとイランを巡る地政学的リスクが深刻化。停戦合意の履行は困難で、軍事衝突の危険性が高まっている。特に中東地域では、イランの核開発問題やホルムズ海峡の緊張がアジア経済にも影響を与えている。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "low",
-      "south_asia": "medium",
+      "southeast_asia": "medium",
+      "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "medium",
-      "africa": "medium",
+      "europe": "high",
+      "africa": "low",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-10T19:10:51.388174"
+    "generated_at": "2026-05-10T21:52:58.435481"
   },
   {
     "date": "2026-05-09",
