@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-05-10",
-    "summary": "世界経済は地政学的リスクとインフレ圧力に晒され、不確実性が高まっている。中東情勢の緊迫化によるエネルギー価格高騰、主要企業の業績発表、インフレ指標の発表、暗号資産市場の規制動向などが注目される。",
+    "summary": "AIによるレイオフ、地政学的リスク（イラン戦争）、暗号資産市場の動向が金融市場に影響を与えている。特にCloudflareの株価急落、サウジアラムコの増益、ビットコインのボラティリティに関するニュースは注目される。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
-      "europe": "low",
-      "east_asia": "none"
+      "europe": "medium",
+      "east_asia": "none",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-05-10T15:58:51.162922"
+    "generated_at": "2026-05-10T19:11:13.751647"
   },
   {
     "date": "2026-05-09",

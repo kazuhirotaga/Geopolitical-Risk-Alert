@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-10",
-    "summary": "ウクライナ情勢は停戦合意が崩壊し戦闘が継続。ホルムズ海峡ではアメリカとイランの衝突が激化し、緊張が高まっている。インドはインド太平洋における戦略拠点を建設予定。",
+    "summary": "ウクライナでは地上ロボットの生産が拡大。米国とイランはペルシャ湾で交戦。ロシアとウクライナは一時的な停戦を発表するもすぐに崩壊。米国はイランのタンカーを攻撃。",
     "events": [
       {
         "id": "event-1",
@@ -121,6 +121,22 @@
         "region": "middle_east",
         "title": "アメリカ軍がイランのタンカーを攻撃・無力化",
         "content": "アメリカ軍は、封鎖を回避しようとしたイラン籍のタンカーに対し攻撃を行い、航行不能にした。アメリカ海軍によるイランの港湾への船舶の出入りを禁止する封鎖は継続中。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/06/us-forces-fire-at-disable-iran-flagged-tanker-trying-to-evade-blockade/"
+      },
+      {
+        "id": "6",
+        "timestamp": "2026-05-06",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "米軍がイランのタンカーを攻撃",
+        "content": "米軍が、封鎖を回避しようとしたイランのタンカーを攻撃し、航行不能にした。",
         "involved_parties": [
           "アメリカ軍",
           "イラン"

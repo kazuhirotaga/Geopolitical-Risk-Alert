@@ -1,8 +1,8 @@
 [
   {
     "date": "2026-05-10",
-    "summary": "米イラン間の緊張が継続し、ホルムズ海峡の不安定化が懸念される。ウクライナ情勢も依然として不透明。中東地域全体で紛争が多発し、人道危機も深刻化している。世界経済への影響も注視が必要。",
-    "overall_risk_level": "high",
+    "summary": "中東情勢が極めて不安定。米イラン間の緊張が継続し、イスラエルとレバノンの衝突も激化。ウクライナ情勢も停戦合意が履行されず、予断を許さない状況。世界経済への影響も懸念される。",
+    "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
@@ -10,12 +10,12 @@
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
-      "africa": "high",
+      "europe": "medium",
+      "africa": "medium",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-10T15:58:26.086364"
+    "generated_at": "2026-05-10T19:10:51.388174"
   },
   {
     "date": "2026-05-09",
