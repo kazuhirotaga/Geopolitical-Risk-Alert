@@ -1,19 +1,16 @@
 [
   {
     "date": "2026-05-10",
-    "summary": "金融市場は、イラン戦争の影響によるエネルギー市場の混乱、インフレ懸念、暗号資産市場の動向、そしてAI技術の進展による新たなリスクが複合的に絡み合い、全体的に高いリスク水準となっています。特に中東地域は地政学的リスクが極めて高い状況です。",
+    "summary": "世界経済は地政学的リスクとインフレ圧力に晒され、不確実性が高まっている。中東情勢の緊迫化によるエネルギー価格高騰、主要企業の業績発表、インフレ指標の発表、暗号資産市場の規制動向などが注目される。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
-      "europe": "medium",
-      "east_asia": "medium",
-      "south_america": "medium",
-      "africa": "medium",
-      "middle_east": "critical"
+      "europe": "low",
+      "east_asia": "none"
     },
-    "generated_at": "2026-05-10T13:27:38.289850"
+    "generated_at": "2026-05-10T15:58:51.162922"
   },
   {
     "date": "2026-05-09",
