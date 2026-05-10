@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-10",
-    "summary": "ウクライナでの停戦交渉が決裂し、米イラン間の衝突が激化。ホルムズ海峡での緊張が高まる中、米国はイランの船舶を攻撃し、防衛線を構築している。",
+    "summary": "ウクライナ情勢は停戦合意が破綻し膠着状態。ホルムズ海峡ではアメリカとイランの衝突が激化。アメリカ軍はイランの小型艇を破壊し、ミサイルやドローンを迎撃。緊張が高まっている。",
     "events": [
       {
         "id": "event-1",
@@ -36,6 +36,21 @@
         "source_url": "https://www.defensenews.com/news/your-navy/2026/05/08/us-forces-disable-iranian-flagged-tankers-trying-to-cross-blockade/"
       },
       {
+        "id": "EU20260508-007",
+        "timestamp": "2026-05-08",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナが地上ロボットの生産を拡大",
+        "content": "ウクライナ軍は、弾薬の運搬、負傷兵の避難、民間人の救出を目的として、無人地上システムの生産を拡大している。兵士の負担軽減を目的とする。",
+        "involved_parties": [
+          "ウクライナ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/unmanned/2026/05/08/ukraine-ramps-up-ground-robot-production-to-spare-soldiers-haul-ammo-and-rescue-grandma/"
+      },
+      {
         "id": "event-3",
         "timestamp": "2026-05-07",
         "location": "ホルムズ海峡",
@@ -68,6 +83,22 @@
         "source_url": "https://www.defensenews.com/global/europe/2026/05/07/dueling-victory-day-ceasefires-for-war-in-ukraine-collapse-almost-immediately/"
       },
       {
+        "id": "ME20260507-003",
+        "timestamp": "2026-05-07",
+        "location": "ホルムズ海峡周辺",
+        "region": "middle_east",
+        "title": "アメリカとイランが交戦、アメリカ軍が報復攻撃",
+        "content": "イランがアメリカ海軍の艦艇3隻に対しミサイルとドローンで攻撃。これに対し、アメリカ軍はイラン軍の施設に対して報復攻撃を実施した。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/07/us-and-iran-exchange-fire-as-trump-says-war-will-be-over-quickly/"
+      },
+      {
         "id": "event-5",
         "timestamp": "2026-05-06",
         "location": "ホルムズ海峡",
@@ -80,6 +111,22 @@
         ],
         "event_type": "clash",
         "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/06/us-forces-fire-at-disable-iran-flagged-tanker-trying-to-evade-blockade/"
+      },
+      {
+        "id": "ME20260506-004",
+        "timestamp": "2026-05-06",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "アメリカ軍がイランのタンカーを攻撃・無力化",
+        "content": "アメリカ軍は、封鎖を回避しようとしたイラン籍のタンカーに対し攻撃を行い、航行不能にした。アメリカ海軍によるイランの港湾への船舶の出入りを禁止する封鎖は継続中。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/your-navy/2026/05/06/us-forces-fire-at-disable-iran-flagged-tanker-trying-to-evade-blockade/"
       },
@@ -100,12 +147,60 @@
         "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/05/us-iran-launch-new-attacks-as-they-wrestle-for-control-of-gulf-waters/"
       },
       {
+        "id": "ME20260505-005",
+        "timestamp": "2026-05-05",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "アメリカとイランがペルシャ湾で新たな攻撃を開始",
+        "content": "先月の停戦発表後、アメリカとイランはペルシャ湾の支配権をめぐり、新たな攻撃を開始した。具体的な攻撃内容や損害状況は不明。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/05/us-iran-launch-new-attacks-as-they-wrestle-for-control-of-gulf-waters/"
+      },
+      {
+        "id": "AP20260505-008",
+        "timestamp": "2026-05-05",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米陸軍がフィリピンでの演習でタイフーン発射機からトマホークミサイルを発射",
+        "content": "米陸軍がフィリピンでの演習中に、新しいタイフーン発射機からトマホークミサイルを発射。軍関係者はミサイルの精度について言及。",
+        "involved_parties": [
+          "アメリカ軍",
+          "フィリピン軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/"
+      },
+      {
         "id": "event-7",
         "timestamp": "2026-05-04",
         "location": "ホルムズ海峡",
         "region": "middle_east",
         "title": "アメリカ軍、イランの小型ボートを破壊、ミサイルとドローンを撃墜",
         "content": "ブラッド・クーパー提督によると、イランはホルムズ海峡を商業交通に開放するアメリカ軍の作戦を妨害しようとしていた。アメリカ軍はイランの小型ボート6隻を破壊し、ミサイルとドローンを撃墜した。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/"
+      },
+      {
+        "id": "ME20260504-006",
+        "timestamp": "2026-05-04",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "アメリカ軍がイランの小型艇を破壊、ミサイルとドローンを迎撃",
+        "content": "アメリカ軍は、ホルムズ海峡の商業交通を妨害しようとしたイランの小型艇6隻を破壊し、ミサイルとドローンを迎撃したと発表。",
         "involved_parties": [
           "アメリカ軍",
           "イラン軍"
