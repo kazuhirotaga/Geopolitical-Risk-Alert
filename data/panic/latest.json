@@ -1,20 +1,100 @@
 {
   "date": "2026-05-11",
-  "summary": "世界各地で局所的な社会不安が顕在化しており、特に南アジア（インド、バングラデシュ）では、深刻な水不足、LPG供給危機、銀行への預金者による抗議デモといった生活基盤や金融システムに直結する問題が表面化し、警戒状態にあります。南米のアルゼンチンでも大規模デモの注意喚起があり、社会的な緊張が見られます。北米や東アジアでは政治的・社会的な抗議活動が見られるものの、広範なパニックには至っていません。全体としては、地域的な不安定要素が散見され、継続的な監視が必要です。",
-  "global_panic_index": 44,
+  "summary": "世界各地でパニックや社会不安が散見され、金融不安、資源不足、治安悪化が主要な懸念事項となっています。特に南アジア（バングラデシュ）では銀行の取り付け騒ぎ寸前の状況が見られ、中東では治安の悪化が深刻です。インドでは水・エネルギー不足に加え、局地的な災害が住民の不安を煽っています。世界全体のパニック指数は中程度ですが、一部地域では警戒が必要です。",
+  "global_panic_index": 49,
   "regions": [
     {
       "region": "north_america",
       "panic_index": 30,
-      "status": "stable",
-      "main_cause": "特定の政治的・社会的問題に対する抗議活動。",
+      "status": "unstable",
+      "main_cause": "社会抗議",
       "incidents": [
         {
-          "title": "NYC anti-Israel activists plan Monday protest",
-          "location": "ニューヨーク, 米国",
+          "title": "ICE抗議デモ中に逮捕者発生",
+          "location": "米国ボストン",
           "severity": 30,
-          "description": "ニューヨーク市で反イスラエル活動家が不動産イベントに対する抗議デモを計画しており、一部で社会的な緊張が高まっていますが、広範な混乱には至っていません。",
-          "source": "The Jerusalem Post"
+          "description": "ボストンの銀行前で移民税関執行局（ICE）に対する抗議デモが発生し、2名が逮捕されました。社会的な不満が可視化されていますが、大規模な混乱には至っていません。",
+          "source": "The Boston Globe"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 17,
+      "status": "stable",
+      "main_cause": "金融規制の懸念、一時的な交通障害",
+      "incidents": [
+        {
+          "title": "英国中央銀行、ステーブルコインのリスクを警告",
+          "location": "英国",
+          "severity": 15,
+          "description": "英国中央銀行総裁がステーブルコインの潜在的リスクについて懸念を表明し、米国との連携を呼びかけました。金融システム全体の安定性への懸念の兆候です。",
+          "source": "ledgerinsights.com / MEXC"
+        },
+        {
+          "title": "祝日中の列車運行障害",
+          "location": "英国南東部",
+          "severity": 20,
+          "description": "祝日期間中に英国南東部で列車運行に障害が発生しました。一時的な交通の混乱が生じましたが、広範な社会パニックには発展していません。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "治安悪化、紛争",
+      "incidents": [
+        {
+          "title": "イスラエル警察がパレスチナ人男性を殺害",
+          "location": "ヨルダン川西岸地区",
+          "severity": 70,
+          "description": "ヨルダン川西岸地区でイスラエル警察が30歳のパレスチナ人男性を殺害しました。地域の治安情勢の悪化と、住民の緊張が高まっています。",
+          "source": "Arab News"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "資源不足（水、エネルギー）、局地的な災害・動物被害",
+      "incidents": [
+        {
+          "title": "インドでLPG供給危機、小容量シリンダー導入検討",
+          "location": "インド",
+          "severity": 65,
+          "description": "インド国内で液化石油ガス（LPG）の供給危機が進行しており、政府系石油会社が10kgシリンダーの導入を検討。エネルギー不足が消費者の不安を招いています。",
+          "source": "MSN"
+        },
+        {
+          "title": "インドールで大規模火災とガスボンベ爆発、パニック発生",
+          "location": "インドール、インド",
+          "severity": 60,
+          "description": "インドールのバス5台を巻き込む大規模火災が発生し、溶接作業中の事故とガスボンベ爆発がパニックを引き起こしました。住民に大きな不安を与えています。",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "インド各地で飲料水不足に対する抗議デモが多発",
+          "location": "インド各地（カラブラギ、ライチュール、ナヌスなど）",
+          "severity": 55,
+          "description": "インドの複数の地域で飲料水不足に対する住民の抗議デモが発生。基本的な生活必需品の不足が社会不安を増大させています。",
+          "source": "The Hindu / MSN / Daijiworld"
+        },
+        {
+          "title": "インドの村でゾウが暴走、農民に甚大な被害",
+          "location": "オリッサ州、インド",
+          "severity": 50,
+          "description": "オリッサ州の村で野生のゾウが暴れ、農民が甚大な損失を被りました。住民の生活と安全に対する脅威が高まっています。",
+          "source": "Odisha TV"
+        },
+        {
+          "title": "宗教団体「ひかりの輪」への抗議デモ",
+          "location": "日本",
+          "severity": 35,
+          "description": "オウム真理教の後継団体「ひかりの輪」に対し、住民が活動への反対と解散を求める抗議デモを実施。地域住民の強い不満と社会的な緊張を示しています。",
+          "source": "khb東日本放送"
         }
       ]
     },
@@ -22,79 +102,29 @@
       "region": "south_america",
       "panic_index": 45,
       "status": "unstable",
-      "main_cause": "経済的・政治的な不満を背景とする大規模デモの可能性。",
+      "main_cause": "大規模な抗議デモ",
       "incidents": [
         {
-          "title": "ブエノスアイレス市内におけるデモに関する注意喚起",
-          "location": "ブエノスアイレス, アルゼンチン",
+          "title": "ブエノスアイレス市内で大規模デモ",
+          "location": "ブエノスアイレス、アルゼンチン",
           "severity": 45,
-          "description": "アルゼンチンのブエノスアイレス市内で大規模なデモが予定されており、市民生活への影響や混乱が懸念されています。",
+          "description": "アルゼンチンの首都ブエノスアイレス市内で大規模なデモが発生。社会的な不満が高まっており、住民に注意喚起が出されています。",
           "source": "日本橋夢屋"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "特定の社会団体や政府の政策に対する抗議活動。",
-      "incidents": [
-        {
-          "title": "オウム真理教の後継団体「ひかりの輪」に抗議デモ",
-          "location": "日本",
-          "severity": 25,
-          "description": "オウム真理教の後継団体「ひかりの輪」に対し、住民が活動への反対と解散を求める抗議デモを実施。地域的な緊張が見られます。",
-          "source": "khb東日本放送"
-        },
-        {
-          "title": "COVID-19ワクチンによる危害の疑いで政府を非難する東京の集会",
-          "location": "東京, 日本",
-          "severity": 35,
-          "description": "東京でCOVID-19ワクチンによる危害を訴え、政府を非難する集会が開催され、ワクチン政策に対する社会的な不満が表面化しています。",
-          "source": "arabnews.jp"
-        }
-      ]
-    },
-    {
       "region": "southeast_asia",
-      "panic_index": 65,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "水不足、エネルギー不足といった生活インフラの危機、および金融システムへの不信感。",
+      "main_cause": "金融不安（取り付け騒ぎ）",
       "incidents": [
         {
-          "title": "CPI stages protest over drinking water shortage",
-          "location": "カラブラギ, インド",
-          "severity": 55,
-          "description": "インドのカラブラギで、飲料水不足に対する大規模な抗議デモが発生。住民の不満が爆発しており、生活インフラへの不安が高まっています。",
-          "source": "The Hindu"
-        },
-        {
-          "title": "LPG supply crisis amid shortage",
-          "location": "インド",
-          "severity": 60,
-          "description": "インドでLPG供給危機が深刻化しており、10kgシリンダー導入の検討など対策が急務。国民生活への影響やエネルギー不安が高まっています。",
-          "source": "MSN"
-        },
-        {
-          "title": "Depositors stage sit-in at EXIM Bank, demand return of savings",
-          "location": "チッタゴン, バングラデシュ",
-          "severity": 70,
-          "description": "バングラデシュのチッタゴンで、EXIM銀行の預金者が貯蓄の返還を求めて座り込みデモを実施。銀行への信頼失墜と金融パニックの可能性が高まっています。",
-          "source": "The Business Standard"
-        },
-        {
-          "title": "Residents protest water shortage in minister's constituency",
-          "location": "ライチュール, インド",
-          "severity": 65,
-          "description": "インドのライチュールで水不足が深刻化し、住民が水供給の改善を求めて大臣の選挙区で抗議デモを実施。都市の機能不全と住民の不満が募っています。",
-          "source": "MSN"
-        },
-        {
-          "title": "Huge fire engulfs 5 buses, cylinder blast triggers panic",
-          "location": "インドール, インド",
-          "severity": 50,
-          "description": "インドールでバス5台を巻き込む大規模火災が発生し、シリンダー爆発が住民のパニックを引き起こしました。突発的な事故による混乱が見られます。",
-          "source": "Bhaskar English"
+          "title": "バングラデシュで銀行への預金者抗議が複数発生",
+          "location": "チッタゴン、バングラデシュ",
+          "severity": 75,
+          "description": "チッタゴンのCitizens Bank及びEXIM Bankで預金者が返金とヘアカット拒否を求め、抗議活動や座り込みを実施。金融機関への信頼が揺らぎ、取り付け騒ぎに発展する懸念があります。",
+          "source": "businesstimes-bd.com / The Business Standard"
         }
       ]
     }

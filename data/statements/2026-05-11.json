@@ -1,23 +1,23 @@
 {
   "date": "2026-05-11",
-  "summary": "本日は、米連邦準備制度理事会（FRB）からの発表のみが確認されました。金融機関の合併承認に関するもので、市場への直接的な影響は限定的と考えられますが、金融セクターの再編動向を示す可能性があります。",
+  "summary": "本日は、FRBによるColumbia Bank MHCとColumbia Financial, Inc.の関連申請承認に関する発表のみが確認されました。金融機関の合併・買収に関する規制当局の判断であり、個別金融機関に影響を与えるものの、市場全体への直接的な影響は限定的と考えられます。",
   "statements": [
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "コロンビア・バンクMHCおよびコロンビア・ファイナンシャル・インクによる関連申請を承認",
-      "context": "FRBによるプレスリリース",
-      "analysis": "コロンビア・バンクMHCとコロンビア・ファイナンシャル・インクの合併申請承認は、地域金融機関の再編を促進する可能性があります。FRBが合併を承認したことは、規制当局が一定規模の金融機関の統合を容認する姿勢を示唆していると考えられます。ただし、個別案件であり、金融市場全体への影響は限定的です。",
+      "speaker": "Federal Reserve Board",
+      "title": "米連邦準備制度理事会",
+      "quote": "Columbia Bank MHC, and Columbia Financial, Inc.の関連申請を承認",
+      "context": "プレスリリース",
+      "analysis": "この承認は、地域金融機関の再編を促進する可能性を示唆しています。ただし、今回の承認自体は個別案件であり、金融政策や経済全体への影響は小さいと考えられます。今後の同様の申請に対するFRBの姿勢を占う上で、注目すべき事例です。",
       "importance": "low",
       "tags": [
-        "金融",
-        "合併",
-        "規制"
+        "金融規制",
+        "M&A",
+        "地域金融機関"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm"
     }
   ],
-  "generated_at": "2026-05-11T19:54:13.387067",
+  "generated_at": "2026-05-11T22:10:50.099951",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
