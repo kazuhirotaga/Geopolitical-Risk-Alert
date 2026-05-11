@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-11",
+    "summary": "中東情勢が極めて不安定。米イラン間の停戦協議は決裂の様相を呈し、ホルムズ海峡の緊張も高まっている。ウクライナ情勢も停戦合意が履行されず、予断を許さない状況。世界経済への影響が懸念される。",
+    "overall_risk_level": "critical",
+    "article_count": 7,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "low"
+    },
+    "generated_at": "2026-05-11T03:53:36.374460"
+  },
+  {
     "date": "2026-05-10",
     "summary": "ウクライナとイランを巡る地政学的リスクが深刻化。停戦合意の履行は困難で、軍事衝突の危険性が高まっている。特に中東地域では、イランの核開発問題やホルムズ海峡の緊張がアジア経済にも影響を与えている。",
     "overall_risk_level": "high",
