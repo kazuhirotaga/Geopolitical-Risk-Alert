@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-11",
-    "summary": "ウクライナ東部での戦闘が継続、一時停戦合意はほぼ即時崩壊。ホルムズ海峡ではアメリカとイランが交戦を継続し、緊張が高まっている。アメリカ軍はイランの封鎖を阻止する活動を実施。",
+    "summary": "ウクライナ東部での戦闘、ペルシャ湾での米イラン間の緊張激化、ホルムズ海峡の封鎖を巡る衝突が継続。一時停戦の試みは失敗に終わり、両国間の軍事衝突が再燃している。",
     "events": [
       {
         "id": "event-1",
@@ -98,6 +98,21 @@
         "urgency": "critical",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/05/us-iran-launch-new-attacks-as-they-wrestle-for-control-of-gulf-waters/"
+      },
+      {
+        "id": "event-009",
+        "timestamp": "2026-05-05",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米陸軍、フィリピンでの演習中にタイフーン発射機からトマホークミサイルを発射",
+        "content": "ミサイルは非常に正確で、遠くから窓を狙いたい場合、その窓に直接着弾すると、軍関係者は語った。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/"
       },
       {
         "id": "event-7",

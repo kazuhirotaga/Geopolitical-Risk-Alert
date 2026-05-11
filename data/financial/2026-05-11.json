@@ -1,122 +1,131 @@
 {
   "date": "2026-05-11",
-  "summary": "中東情勢の緊迫化による原油価格高騰と、それに伴うインフレ懸念が市場を圧迫。暗号資産市場は規制動向と技術革新が交錯し、ボラティリティが高まっている。AI関連の雇用削減も懸念材料。",
+  "summary": "中東情勢の緊迫化により原油価格が急騰し、世界経済にインフレ圧力がかかる。主要国の金融政策や暗号資産市場の動向も注視が必要。AI関連株は引き続き好調だが、過熱感も警戒される。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "China consumer, wholesale inflation tops estimates in April as Iran war drives energy costs higher",
-      "region": "east_asia",
-      "risk_level": "high",
-      "summary": "中国の4月消費者物価・卸売物価指数が予想を上回る。イラン戦争によるエネルギーコスト上昇が要因。中国は戦略石油備蓄と再生可能エネルギーでエネルギーショックを緩和。",
-      "analysis": "イラン戦争の長期化は、中国経済にインフレ圧力を及ぼす可能性が高い。中国政府はエネルギー政策で対応しているものの、世界的なエネルギー価格の高騰は中国の製造業や消費に悪影響を与える可能性がある。今後の原油価格の動向と中国政府の追加対策が注目される。",
-      "key_entities": [
-        "中国政府",
-        "OPEC",
-        "中国人民銀行"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Oil climbs as Netanyahu and Trump remarks stoke worries over rising Middle East tensions",
+      "title": "Oil Prices Jump After Trump Dismisses Iran’s Reply to U.S. Peace Proposal",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "ネタニヤフ首相とトランプ大統領の発言が中東地域の緊張を高め、原油価格が上昇。イスラエルがイランとの紛争は終わっていないと警告。",
-      "analysis": "中東情勢の悪化は、原油供給の不安定化を招き、世界経済に深刻な影響を与える可能性がある。特に、インフレ率の上昇やサプライチェーンの混乱が懸念される。地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株式市場や新興国市場からの資金流出を招く可能性もある。",
+      "summary": "トランプ大統領がイランの和平提案を拒否したことを受け、原油価格が急騰。中東情勢の不安定化がエネルギー市場を揺るがす。",
+      "analysis": "トランプ大統領の和平提案拒否は、イランとの緊張をさらに高め、原油供給への懸念を増大させた。原油価格の上昇は、世界的なインフレを加速させ、特にエネルギー輸入依存度の高い国々にとっては大きな打撃となる。地政学的リスクが金融市場に与える影響を注視する必要がある。今後の交渉の行方次第では、さらなる価格変動も予想される。",
       "key_entities": [
         "イラン",
-        "イスラエル",
-        "アメリカ",
+        "トランプ大統領",
+        "原油市場",
         "OPEC"
       ],
       "sources": [
-        "CNBC - Top News"
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "South Korea's Kospi hits fresh record as Asia markets trade mixed amid oil surge, Iran risks",
+      "title": "China inflation beat estimates in April as Iran war drives producer prices to three-year highs",
       "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "韓国のKospiは最高値を更新するも、アジア市場は原油価格高騰とイランリスクによりまちまち。トランプ大統領がイランの停戦案を拒否したことが懸念材料。",
-      "analysis": "Kospiが最高値を更新しているものの、中東情勢の不安定化は韓国経済にマイナスの影響を与える可能性がある。原油価格の高騰は、韓国の輸入コストを増加させ、貿易収支を悪化させる可能性がある。また、地政学的リスクの高まりは、投資家の心理を悪化させ、株式市場の調整を招く可能性もある。",
+      "risk_level": "high",
+      "summary": "イラン戦争の影響で中国の生産者物価が3年ぶりの高水準に。インフレ圧力の高まりが中国経済の安定を脅かす。",
+      "analysis": "中国のインフレ率は予想を上回り、特に生産者物価の上昇が顕著である。これは、イラン戦争によるエネルギー価格の高騰が直接的な原因であり、中国の製造業にコストプッシュインフレの圧力をかけている。中国政府は戦略的な石油備蓄と再生可能エネルギーの多様化によって影響を緩和しようとしているが、インフレ抑制策の強化が不可欠となる。今後の金融政策の動向が注目される。",
       "key_entities": [
-        "韓国銀行",
-        "韓国政府"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Netanyahu says Iran war is 'not over' as Trump rejects latest Iranian offer",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "ネタニヤフ首相はイラン戦争は終わっていないと発言。トランプ大統領はイランの最新の提案を拒否。戦争は2ヶ月目に突入し、米国および世界中で石油とガス価格が急騰。",
-      "analysis": "紛争の長期化は、エネルギー価格の高止まりを招き、世界的なインフレ圧力を高める。また、中東地域の不安定化は、サプライチェーンの混乱や貿易の停滞を引き起こし、世界経済の成長を阻害する可能性がある。人道的な危機も深刻化しており、国際社会の協力が不可欠。",
-      "key_entities": [
+        "中国",
         "イラン",
-        "イスラエル",
-        "アメリカ"
+        "インフレ",
+        "中国人民銀行"
       ],
       "sources": [
-        "CNBC - Top News"
+        "CNBC"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Saudi Aramco Q1 profit jumps 26% as key pipeline reaches capacity amid Iran war",
-      "region": "middle_east",
+      "title": "UK PM Starmer battles for political survival in pivotal speech as gilt yields rise",
+      "region": "europe",
       "risk_level": "medium",
-      "summary": "サウジアラムコの第1四半期利益は26%増加。イラン戦争によるエネルギーショックを緩和するため、東西パイプラインがフル稼働。",
-      "analysis": "サウジアラビアは、原油生産能力を最大限に活用することで、エネルギー市場の安定化に貢献している。しかし、イラン戦争の長期化は、サウジアラビアの原油生産能力にも限界をもたらす可能性がある。また、地政学的リスクの高まりは、サウジアラビアの経済にも悪影響を与える可能性がある。",
+      "summary": "スターマー英首相が政治的存続をかけた重要な演説を行う中、英国債利回りが上昇。政治的不安定が金融市場に影響。",
+      "analysis": "スターマー首相の政治的立場が不安定化する中、英国債利回りが上昇している。これは、政治的な不確実性が投資家のリスク回避姿勢を強め、英国債への信頼を低下させていることを示唆する。首相が成長、防衛、EUとの関係、エネルギーといった重要課題にどのように取り組むかが、今後の市場の信頼回復に繋がるかどうかの鍵となる。政治情勢の不安定化は、ポンド相場にも影響を与える可能性がある。",
+      "key_entities": [
+        "スターマー首相",
+        "英国",
+        "英国債",
+        "イングランド銀行"
+      ],
+      "sources": [
+        "CNBC"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Fed Chair Jerome Powell Just Said 9 Words That Have Firmly Shifted the Narrative on Wall Street",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "パウエルFRB議長のわずかな発言がウォール街の認識を大きく変化させた。金融政策の方向性に対する市場の解釈が重要。",
+      "analysis": "パウエルFRB議長の発言は、市場の金融政策に対する期待を大きく左右する。具体的な発言内容が不明なため、詳細な分析は難しいが、市場の反応から、今後の利上げペースや量的引き締め政策に対する見方が変化した可能性がある。FRBの政策決定は、世界経済に大きな影響を与えるため、今後の議長の発言や経済指標の発表を注視する必要がある。",
+      "key_entities": [
+        "FRB",
+        "パウエル議長",
+        "金融政策",
+        "ウォール街"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "This AI Stock Is Crushing Nvidia in 2026. It's Still a Buy After Soaring 240% This Year, According to Wall Street.",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "特定のAI関連株がNVIDIAを凌駕するパフォーマンスを見せている。AIブームの過熱感と個別銘柄のリスク。",
+      "analysis": "AI関連株は全体的に好調だが、特定の銘柄がNVIDIAを上回るパフォーマンスを示していることは、市場の関心が特定の分野に集中していることを示唆する。株価が急騰しているため、バリュエーションが高すぎる可能性も考慮する必要がある。AI技術の将来性は高いものの、過熱感には注意が必要であり、投資判断は慎重に行うべきである。",
+      "key_entities": [
+        "AI",
+        "NVIDIA",
+        "株式市場"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin, Nasdaq investors are celebrating, while U.S. consumers turn gloomy",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ビットコインとナスダック市場が好調な一方で、米国の消費者心理は悪化。金融市場と実体経済の乖離。",
+      "analysis": "ビットコインとナスダック市場が上昇しているにもかかわらず、米国の消費者心理が悪化していることは、金融市場と実体経済の乖離を示唆する。これは、インフレや金利上昇、景気後退への懸念などが影響している可能性がある。消費者心理の悪化は、今後の消費支出の減少につながり、経済成長を鈍化させるリスクがある。金融市場の好調が実体経済に波及しない場合、市場の調整リスクが高まる可能性がある。",
+      "key_entities": [
+        "ビットコイン",
+        "ナスダック",
+        "消費者心理",
+        "米国経済"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Aramco Q1 income rises 25% amid CEO’s warning on oil supply",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "サウジアラムコの第1四半期利益が25%増加。CEOは原油供給に対する警告を発しており、需給バランスへの懸念。",
+      "analysis": "サウジアラムコの好調な業績は、原油価格の上昇を反映している。CEOが原油供給に対する警告を発していることは、今後の供給不足の可能性を示唆しており、原油価格をさらに押し上げる要因となる可能性がある。中東情勢の不安定化と相まって、エネルギー市場の変動リスクが高まっている。",
       "key_entities": [
         "サウジアラムコ",
-        "サウジアラビア政府"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "SEC delay on prediction markets ETFs echoes a long-fought bitcoin fund battle",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "SECは予測市場ETFの承認を延期。これはビットコインファンドを巡る長期戦を彷彿とさせる。",
-      "analysis": "SECの慎重な姿勢は、暗号資産市場に対する規制の不確実性を示唆している。予測市場ETFの承認遅延は、関連企業の事業展開に影響を与える可能性がある。また、暗号資産市場全体の投資家の信頼感を損なう可能性もある。",
-      "key_entities": [
-        "SEC",
-        "ビットコイン"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Apollo CEO warns there’s now a 35% chance of a major market shock amid AI-driven upheaval. How to stay afloat",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "Apollo CEOは、AI主導の混乱により、大規模な市場ショックの可能性が35%に上昇したと警告。",
-      "analysis": "AI技術の急速な発展は、経済や社会に大きな変化をもたらす可能性がある。Apollo CEOの警告は、AI関連の投資リスクが高まっていることを示唆している。投資家は、AI関連企業の財務状況や技術動向を慎重に分析し、リスク管理を徹底する必要がある。",
-      "key_entities": [
-        "Apollo"
+        "原油市場",
+        "OPEC"
       ],
       "sources": [
         "Yahoo Finance"
@@ -128,12 +137,13 @@
     {
       "title": "Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "トランプ・メディアの第1四半期損失が4億600万ドルに拡大。ビットコインとCROの評価損が原因。",
-      "analysis": "トランプ・メディアの業績悪化は、暗号資産市場のボラティリティの高さを示している。ビットコインの価格変動は、企業の財務状況に大きな影響を与える可能性がある。また、政治的な要素が企業の業績に影響を与えるリスクも考慮する必要がある。",
+      "risk_level": "low",
+      "summary": "トランプ・メディアの第1四半期損失が拡大。ビットコインとCROの評価損が影響。",
+      "analysis": "トランプ・メディアの損失拡大は、暗号資産市場の変動が企業業績に与える影響を示す一例である。ビットコインやCROの評価損は、暗号資産投資のリスクを改めて認識させる。企業が暗号資産を保有する場合、市場の変動に対するリスク管理が重要となる。",
       "key_entities": [
         "トランプ・メディア",
-        "ビットコイン"
+        "ビットコイン",
+        "暗号資産"
       ],
       "sources": [
         "CoinDesk"
@@ -146,30 +156,34 @@
       "title": "Memory chip makers are looking at a 'supercycle' and 'windfall gains.' The stocks jumped 30% in one week",
       "region": "global",
       "risk_level": "medium",
-      "summary": "メモリチップメーカーは「スーパーサイクル」と「臨時収入」を見込んでいる。株価は1週間で30%上昇。",
-      "analysis": "メモリチップ市場の好調は、AIやデータセンターの需要拡大を反映している。しかし、供給過剰や価格競争のリスクも存在する。投資家は、メモリチップメーカーの技術力や市場シェアを慎重に分析し、長期的な視点で投資判断を行う必要がある。",
+      "summary": "メモリチップメーカーが「スーパーサイクル」と「臨時収入」を見込んでいる。株式は1週間で30%上昇。",
+      "analysis": "メモリチップ市場は、AIやデータセンターの需要増加により、スーパーサイクルに入ると予想されている。これにより、メモリチップメーカーの業績が大幅に改善し、株価も上昇している。しかし、需要の急増は供給不足を引き起こし、価格変動のリスクを高める可能性がある。また、技術革新のスピードが速いため、競争環境の変化にも注意が必要である。",
       "key_entities": [
-        "メモリチップメーカー"
+        "メモリチップ",
+        "半導体",
+        "AI",
+        "データセンター"
       ],
       "sources": [
-        "CNBC - Top News"
+        "CNBC"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "CME is set to let traders bet on bitcoin volatility, not just price",
+      "title": "20-year-old 'GothFerrari' sentenced after helping steal millions in crypto — how to spot scammers before they strike",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "CMEは、ビットコインの価格だけでなく、ボラティリティにも賭けられるようにする予定。",
-      "analysis": "CMEによるビットコインボラティリティ取引の導入は、暗号資産市場の成熟度を高める可能性がある。しかし、ボラティリティ取引はリスクが高く、投資家は十分な知識と経験を持つ必要がある。また、市場操作のリスクも考慮する必要がある。",
+      "risk_level": "low",
+      "summary": "暗号資産詐欺事件が発生。若者が関与し、数百万ドルが盗まれる。詐欺の手口と対策の重要性。",
+      "analysis": "暗号資産詐欺は、依然として深刻な問題であり、特に若者が関与するケースが増加している。詐欺の手口は巧妙化しており、一般の投資家が簡単に見抜くことは難しい。暗号資産取引を行う際には、十分な注意が必要であり、信頼できる情報源からの情報を参考にすることが重要である。規制当局による監視強化も求められる。",
       "key_entities": [
-        "CME",
-        "ビットコイン"
+        "暗号資産",
+        "詐欺",
+        "セキュリティ"
       ],
       "sources": [
-        "CoinDesk"
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
@@ -179,10 +193,10 @@
   "region_risk_map": {
     "global": "high",
     "north_america": "medium",
-    "europe": "low",
+    "europe": "medium",
     "east_asia": "high"
   },
-  "generated_at": "2026-05-11T03:53:56.700826",
+  "generated_at": "2026-05-11T09:48:04.170344",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
