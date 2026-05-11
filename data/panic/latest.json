@@ -1,100 +1,100 @@
 {
   "date": "2026-05-11",
-  "summary": "世界各地では、一部地域で水不足に起因する抗議デモが頻発し、生活必需品への不安が高まっています。特に南アジアでは、預金者による銀行への抗議デモも発生し、金融不安の兆候が見られます。北米や南米でも政治的・社会的な抗議デモが報告されており、社会的な緊張感が散見されますが、現時点で広範な社会秩序の崩壊や大規模な逃避行に至るようなパニックは限定的です。",
-  "global_panic_index": 45,
+  "summary": "世界各地で局所的な社会不安が顕在化しており、特に南アジア（インド、バングラデシュ）では、深刻な水不足、LPG供給危機、銀行への預金者による抗議デモといった生活基盤や金融システムに直結する問題が表面化し、警戒状態にあります。南米のアルゼンチンでも大規模デモの注意喚起があり、社会的な緊張が見られます。北米や東アジアでは政治的・社会的な抗議活動が見られるものの、広範なパニックには至っていません。全体としては、地域的な不安定要素が散見され、継続的な監視が必要です。",
+  "global_panic_index": 44,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "社会・政治的対立、治安",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "特定の政治的・社会的問題に対する抗議活動。",
       "incidents": [
         {
-          "title": "反イスラエル活動家による抗議デモ計画",
-          "location": "ニューヨーク（米国）",
-          "severity": 40,
-          "description": "反イスラエル活動家がニューヨーク市で不動産イベントに対する抗議デモを計画しており、社会的な分断と緊張を引き起こす可能性があります。",
+          "title": "NYC anti-Israel activists plan Monday protest",
+          "location": "ニューヨーク, 米国",
+          "severity": 30,
+          "description": "ニューヨーク市で反イスラエル活動家が不動産イベントに対する抗議デモを計画しており、一部で社会的な緊張が高まっていますが、広範な混乱には至っていません。",
           "source": "The Jerusalem Post"
-        },
-        {
-          "title": "プロム後パーティーでの銃撃事件と車両混乱",
-          "location": "マスキーゴン郡（米国）",
-          "severity": 55,
-          "description": "プロム後のパーティーで銃撃事件が発生し、6人が負傷しました。車両の混乱も報告されており、地域の治安に対する不安を高めています。",
-          "source": "MLive.com"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "水不足、金融不安、局所的災害",
-      "incidents": [
-        {
-          "title": "飲用水不足に対する抗議デモ",
-          "location": "カラブラーギ（インド）",
-          "severity": 50,
-          "description": "インドのカラブラーギで飲用水不足に対し共産党（CPI）が抗議デモを実施。住民の生活必需品に関する不安が高まっています。",
-          "source": "The Hindu"
-        },
-        {
-          "title": "チッタゴンでの銀行預金者による抗議",
-          "location": "チッタゴン（バングラデシュ）",
-          "severity": 65,
-          "description": "チッタゴン銀行の預金者が預金払い戻しとヘアカットなしを要求し抗議デモを実施。金融システムへの信頼に揺らぎが見られます。",
-          "source": "businesstimes-bd.com"
-        },
-        {
-          "title": "EXIM銀行での預金者座り込み",
-          "location": "チッタゴン（バングラデシュ）",
-          "severity": 65,
-          "description": "チッタゴンのEXIM銀行で預金者が預金返還を求め座り込みデモを決行。取り付け騒ぎに発展する可能性を秘めた金融不安の兆候です。",
-          "source": "The Business Standard"
-        },
-        {
-          "title": "閣僚選挙区での水不足抗議",
-          "location": "ライチュール（インド）",
-          "severity": 50,
-          "description": "ラジチャプルの閣僚選挙区で住民が深刻な水不足に対し抗議デモを実施。生活インフラへの不満が政治的な不安定要素に繋がりかねません。",
-          "source": "MSN"
-        },
-        {
-          "title": "インドールで火災によるパニック",
-          "location": "インドール（インド）",
-          "severity": 60,
-          "description": "溶接作業中の事故で5台のバスが炎上し、ガスボンベの爆発がパニックを引き起こしました。大規模な火災による急な混乱が発生しています。",
-          "source": "Bhaskar English"
         }
       ]
     },
     {
       "region": "south_america",
-      "panic_index": 60,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "大規模デモ",
+      "main_cause": "経済的・政治的な不満を背景とする大規模デモの可能性。",
       "incidents": [
         {
           "title": "ブエノスアイレス市内におけるデモに関する注意喚起",
-          "location": "ブエノスアイレス（アルゼンチン）",
-          "severity": 60,
-          "description": "アルゼンチンのブエノスアイレス市内で大規模なデモが予定されており、公共交通機関への影響や混乱が予想されるため注意が呼びかけられています。",
+          "location": "ブエノスアイレス, アルゼンチン",
+          "severity": 45,
+          "description": "アルゼンチンのブエノスアイレス市内で大規模なデモが予定されており、市民生活への影響や混乱が懸念されています。",
           "source": "日本橋夢屋"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 25,
+      "region": "east_asia",
+      "panic_index": 35,
       "status": "stable",
-      "main_cause": "金融システムへの潜在的懸念",
+      "main_cause": "特定の社会団体や政府の政策に対する抗議活動。",
       "incidents": [
         {
-          "title": "イングランド銀行がステーブルコインを巡る世界的紛争を警告",
-          "location": "英国",
-          "severity": 30,
-          "description": "イングランド銀行がEUの懸念に同調し、多司法管轄のステーブルコインに関する世界的な紛争について警告。金融システムの安定性への潜在的な懸念です。",
-          "source": "ledgerinsights.com"
+          "title": "オウム真理教の後継団体「ひかりの輪」に抗議デモ",
+          "location": "日本",
+          "severity": 25,
+          "description": "オウム真理教の後継団体「ひかりの輪」に対し、住民が活動への反対と解散を求める抗議デモを実施。地域的な緊張が見られます。",
+          "source": "khb東日本放送"
+        },
+        {
+          "title": "COVID-19ワクチンによる危害の疑いで政府を非難する東京の集会",
+          "location": "東京, 日本",
+          "severity": 35,
+          "description": "東京でCOVID-19ワクチンによる危害を訴え、政府を非難する集会が開催され、ワクチン政策に対する社会的な不満が表面化しています。",
+          "source": "arabnews.jp"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "水不足、エネルギー不足といった生活インフラの危機、および金融システムへの不信感。",
+      "incidents": [
+        {
+          "title": "CPI stages protest over drinking water shortage",
+          "location": "カラブラギ, インド",
+          "severity": 55,
+          "description": "インドのカラブラギで、飲料水不足に対する大規模な抗議デモが発生。住民の不満が爆発しており、生活インフラへの不安が高まっています。",
+          "source": "The Hindu"
+        },
+        {
+          "title": "LPG supply crisis amid shortage",
+          "location": "インド",
+          "severity": 60,
+          "description": "インドでLPG供給危機が深刻化しており、10kgシリンダー導入の検討など対策が急務。国民生活への影響やエネルギー不安が高まっています。",
+          "source": "MSN"
+        },
+        {
+          "title": "Depositors stage sit-in at EXIM Bank, demand return of savings",
+          "location": "チッタゴン, バングラデシュ",
+          "severity": 70,
+          "description": "バングラデシュのチッタゴンで、EXIM銀行の預金者が貯蓄の返還を求めて座り込みデモを実施。銀行への信頼失墜と金融パニックの可能性が高まっています。",
+          "source": "The Business Standard"
+        },
+        {
+          "title": "Residents protest water shortage in minister's constituency",
+          "location": "ライチュール, インド",
+          "severity": 65,
+          "description": "インドのライチュールで水不足が深刻化し、住民が水供給の改善を求めて大臣の選挙区で抗議デモを実施。都市の機能不全と住民の不満が募っています。",
+          "source": "MSN"
+        },
+        {
+          "title": "Huge fire engulfs 5 buses, cylinder blast triggers panic",
+          "location": "インドール, インド",
+          "severity": 50,
+          "description": "インドールでバス5台を巻き込む大規模火災が発生し、シリンダー爆発が住民のパニックを引き起こしました。突発的な事故による混乱が見られます。",
+          "source": "Bhaskar English"
         }
       ]
     }

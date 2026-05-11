@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-05-11",
-    "summary": "金融市場は、AI関連株の過熱感、中東情勢の緊迫化、そして主要中央銀行の政策に対する不確実性により、全体的にリスクが高まっている。特に、イラン戦争の影響と、それに対する各国の対応が市場の変動要因となっている。",
+    "summary": "地政学的リスク（イラン戦争）、インフレ懸念、AI関連株の過熱感、暗号資産市場の変動が複合的に作用し、金融市場全体に不確実性をもたらしている。特に中東地域のリスクが高まっている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
-      "europe": "medium",
-      "east_asia": "none"
+      "europe": "low",
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "critical",
+      "middle_east": "critical"
     },
-    "generated_at": "2026-05-11T15:20:27.119485"
+    "generated_at": "2026-05-11T19:54:05.526706"
   },
   {
     "date": "2026-05-10",
