@@ -1,23 +1,38 @@
 {
   "date": "2026-05-12",
-  "summary": "本日、FRBからの発表がありましたが、要人発言は含まれていません。市場への直接的な影響は限定的と考えられます。",
+  "summary": "本日は、FRB関連の報道発表のみが確認されました。金融機関に対する執行措置の終了と、関連申請の承認に関するもので、市場への直接的な影響は限定的と考えられます。",
   "statements": [
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "政府機関",
-      "quote": "コロンビア・バンクMHCおよびコロンビア・ファイナンシャル・インクによる関連申請を承認",
-      "context": "プレスリリース",
-      "analysis": "この発表は、特定の金融機関の合併・買収に関連するものであり、金融システム全体への影響は小さいと考えられます。地域経済への影響は注視する必要があります。",
+      "speaker": "Federal Reserve Board",
+      "title": "米連邦準備制度理事会",
+      "quote": "F & M Holding Company, Inc. および Thread Bancorp, Inc. に対する執行措置を終了することを発表します。",
+      "context": "FRBの報道発表",
+      "analysis": "FRBが、特定の金融機関に対する過去の違反や不備に対する監視・是正措置を終了したことを示します。これは、対象となった金融機関がFRBの要求を満たし、改善が見られた結果と考えられます。市場全体への影響は小さいものの、対象企業にとっては規制遵守の負担軽減に繋がります。",
       "importance": "low",
       "tags": [
-        "金融機関",
-        "合併・買収",
-        "規制"
+        "金融規制",
+        "FRB",
+        "執行措置"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm"
+    },
+    {
+      "speaker": "Federal Reserve Board",
+      "title": "米連邦準備制度理事会",
+      "quote": "Columbia Bank MHC, および Columbia Financial, Inc. による関連申請を承認することを発表します。",
+      "context": "FRBの報道発表",
+      "analysis": "FRBが、特定の金融機関の合併、買収、または事業再編に関連する申請を承認したことを示します。具体的な申請内容は不明ですが、承認されたことは、FRBがその申請が金融システムの安定性や競争に悪影響を及ぼさないと判断したことを意味します。市場全体への影響は小さいと考えられます。",
+      "importance": "low",
+      "tags": [
+        "金融規制",
+        "FRB",
+        "合併",
+        "買収"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm"
     }
   ],
-  "generated_at": "2026-05-12T14:34:02.240472",
+  "generated_at": "2026-05-12T17:15:53.717184",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

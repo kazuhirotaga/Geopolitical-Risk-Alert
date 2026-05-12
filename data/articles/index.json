@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-12",
-    "summary": "イランを巡る情勢悪化、ロシア・ウクライナ紛争の泥沼化、その他地域紛争の多発により、地政学リスクは極めて高い状況です。特に中東地域は、紛争の長期化と拡大の懸念から、世界経済への影響が深刻化しています。",
+    "summary": "中東情勢が極めて不安定。イラン戦争は停戦協議が進展せず、ホルムズ海峡の封鎖や原油価格高騰など、世界経済への影響が深刻化。ウクライナ情勢も停戦合意が破綻し、戦闘が継続。米中首脳会談ではイラン情勢も議題となる見込み。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "medium",
+      "southeast_asia": "low",
       "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
       "africa": "medium",
-      "north_america": "medium",
+      "north_america": "high",
       "south_america": "none"
     },
-    "generated_at": "2026-05-12T14:33:30.724426"
+    "generated_at": "2026-05-12T17:15:23.794503"
   },
   {
     "date": "2026-05-11",
