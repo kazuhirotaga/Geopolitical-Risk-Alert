@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-12",
+    "summary": "中東情勢が極めて不安定。イランを巡る米国との停戦協議は決裂の危機に瀕し、ホルムズ海峡の緊張も継続。ウクライナ情勢も停戦合意が守られず、膠着状態。ボリビアでは大統領辞任を求める抗議デモが発生。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "low",
+      "central_asia": "none",
+      "middle_east": "high",
+      "europe": "high",
+      "africa": "high",
+      "north_america": "medium",
+      "south_america": "medium"
+    },
+    "generated_at": "2026-05-12T03:37:00.873252"
+  },
+  {
     "date": "2026-05-11",
     "summary": "中東におけるアメリカとイランの停戦交渉は難航し、緊張状態が継続。ウクライナ情勢も停戦合意が守られず不安定。東アジアでは台湾への武器売却を巡り米中間の緊張が高まるなど、地政学的リスクは全体的に高い状況。",
     "overall_risk_level": "high",
