@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-12",
-    "summary": "ウクライナ情勢の緊迫化、イランを巡る米国の緊張、中東における紛争、エネルギー危機、ボリビアの政情不安など、地政学的リスクが複合的に高まっている。国際的な協力体制の重要性が増している。",
+    "summary": "ウクライナ侵攻継続、米イラン間の緊張激化、中東情勢不安定化など、地政学的リスクは依然として高い。特にホルムズ海峡の封鎖は世界経済に深刻な影響を与えており、エネルギー危機が懸念される。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "medium",
-      "south_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "high",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "critical",
-      "africa": "medium",
-      "north_america": "high",
-      "south_america": "medium"
+      "europe": "high",
+      "africa": "high",
+      "north_america": "medium",
+      "south_america": "none"
     },
-    "generated_at": "2026-05-12T08:45:55.189098"
+    "generated_at": "2026-05-12T11:23:33.077891"
   },
   {
     "date": "2026-05-11",
