@@ -1,5 +1,20 @@
 [
   {
+    "id": "7cb6e48439a0",
+    "title": "米中首脳会談を前にイランがけん制 “中国とは強固な関係”",
+    "summary": "トランプ大統領が中国を訪問するのを前に、イランは中国と強固な関係を築いていると強調し、アメリカをけん制しました。アメリカメディアがトランプ大統領はイランから譲歩を引き出すため軍事行動を検討しているとも報じる中、イラン側はいかなる攻撃にも備えているとして、緊張した状態が続いています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260513/k10015119951000.html",
+    "published": "2026-05-13T04:13:23+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
     "id": "10f77a9a06ab",
     "title": "14日から米中首脳会談 米“イラン情勢やエネルギー議論”",
     "summary": "アメリカのトランプ大統領は、今週予定されている中国の習近平国家主席との首脳会談をめぐり、中国はホルムズ海峡を通じ多くの原油を輸入していると指摘し、イラン情勢やエネルギー調達について意見を交わす考えを示しました。一方、米中関係をめぐっては、アメリカ軍のイランへの軍事作戦が中国に対する抑止に影響を及ぼすのではないかとの見方も出ています。",
@@ -42,8 +57,8 @@
     ]
   },
   {
-    "id": "c854d55b909c",
-    "title": "【随時更新】ロシア ウクライナに軍事侵攻（5月12日の動き）",
+    "id": "90d0c89d56c9",
+    "title": "【詳細】ロシア ウクライナに軍事侵攻（5月12日の動き）",
     "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる12日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
     "url": "http://www3.nhk.or.jp/news/html/20260512/k10015107521000.html",
     "published": "2026-05-12T19:30:30+09:00",
@@ -71,11 +86,77 @@
     ]
   },
   {
+    "id": "cb0563bd6c46",
+    "title": "Macron unveils $27 billion Africa investment, urges reset with Europe",
+    "summary": "French President Emmanuel Macron, in Kenya for the Africa Forward summit, called for a ‘fundamental reset’ in Africa.",
+    "url": "https://www.aljazeera.com/video/2026/5/12/macron-unveils-27-billion-africa-investment-urges-reset-with-europe?traffic_source=rss",
+    "published": "2026-05-12T19:04:36+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe",
+      "africa"
+    ]
+  },
+  {
+    "id": "5059bdd3a882",
+    "title": "Trump skirts question on US ‘red lines’ for Iran ceasefire",
+    "summary": "Trump skirted a question from a reporter about whether he has a ‘red line’ that would end the ceasefire with Iran.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/trump-skirts-question-on-us-red-lines-for-iran-ceasefire?traffic_source=rss",
+    "published": "2026-05-12T19:01:52+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "b50bedd603f3",
+    "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+    "summary": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
+    "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-05-12T18:36:58+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "b32aeec7bbaf",
+    "title": "Kevin Warsh confirmed to US Federal Reserve board in close Senate vote",
+    "summary": "Senator John Fetterman of Pennsylvania, a Democrat, joins Republicans to advance Warsh's confirmation.",
+    "url": "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote?traffic_source=rss",
+    "published": "2026-05-12T18:13:39+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "e1bedacca851",
+    "title": "Serbia hosts first joint military exercise with NATO",
+    "summary": "The two-week-long drills come less than 30 years after NATO bombed Belgrade in the Kosovo war.",
+    "url": "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato?traffic_source=rss",
+    "published": "2026-05-12T18:02:35+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
     "id": "fd1398034338",
     "title": "No sign of larger hantavirus outbreak, says UN health agency",
     "summary": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
     "url": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-05-12T16:45:42+00:00",
+    "published": "2026-05-12T17:55:12+00:00",
     "source_name": "BBC - World",
     "source_type": "media",
     "language": "en",
@@ -84,16 +165,55 @@
     ]
   },
   {
-    "id": "b50bedd603f3",
-    "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-    "summary": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
-    "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-05-12T16:36:55+00:00",
-    "source_name": "BBC - World",
+    "id": "254dcc0c50ee",
+    "title": "Israel sent Iron Dome anti-missile batteries and personnel to UAE: US envoy",
+    "summary": "Mike Huckabee calls on Gulf states to 'pick a side' in the war between Israel and Iran as he heaps praise on Abu Dhabi.",
+    "url": "https://www.aljazeera.com/news/2026/5/12/israel-sent-iron-dome-anti-missile-batteries-and-personnel-to-uae-us-envoy?traffic_source=rss",
+    "published": "2026-05-12T17:49:22+00:00",
+    "source_name": "Al Jazeera",
     "source_type": "media",
     "language": "en",
     "regions": [
       "middle_east"
+    ]
+  },
+  {
+    "id": "729baf376e55",
+    "title": "US faces rising costs with Iran war driving energy prices, inflation higher",
+    "summary": "Consumer prices spike in April, driven by soaring energy costs, with petrol prices up nearly 30 percent since last year.",
+    "url": "https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss",
+    "published": "2026-05-12T17:37:54+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "ea8f563ae61f",
+    "title": "Can China counter US sanctions with its trade power?",
+    "summary": "From sanctions to rare earths, the economic rivalry between the US and China is intensifying.",
+    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/12/can-china-counter-us-sanctions-with-its-trade-power?traffic_source=rss",
+    "published": "2026-05-12T17:11:42+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia"
+    ]
+  },
+  {
+    "id": "02b7291093ed",
+    "title": "South Africa's top court bars repeat asylum applications",
+    "summary": "The home affairs minister hails the ruling as a \"victory\" against the \"abuse\" of the refugee system.",
+    "url": "https://www.bbc.com/news/articles/cy42yx1kn90o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-05-12T16:38:53+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
     ]
   },
   {
@@ -190,60 +310,6 @@
     ]
   },
   {
-    "id": "baf7639341fa",
-    "title": "A secret Israeli base in Iraq? What we know",
-    "summary": "Israeli troops reportedly used this base to launch attacks against Iran during the war.",
-    "url": "https://www.aljazeera.com/news/2026/5/12/a-secret-israeli-base-in-iraq-what-we-know?traffic_source=rss",
-    "published": "2026-05-12T13:12:22+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "bf94f8952f12",
-    "title": "Report alleges Israel operated covert outpost in Iraq during war on Iran",
-    "summary": "According to The Wall Street Journal, Israel operated a military base in the Iraq during the US-Israeli war on Iran.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/report-alleges-israel-operated-covert-outpost-in-iraq-during-war-on-iran?traffic_source=rss",
-    "published": "2026-05-12T13:04:37+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "d6f5705dd508",
-    "title": "Why the Iran war is threatening whales near South Africa",
-    "summary": "Whales are increasingly exposed to traffic - and ship strikes.",
-    "url": "https://www.aljazeera.com/news/2026/5/12/why-the-iran-war-is-threatening-whales-near-south-africa?traffic_source=rss",
-    "published": "2026-05-12T12:42:29+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "africa"
-    ]
-  },
-  {
-    "id": "1a35ab6371db",
-    "title": "Pakistan scrambles to salvage US-Iran diplomacy as ceasefire faces collapse",
-    "summary": "Pakistan rejects allegations of aiding Iran militarily while Trump says truce on 'life support'.",
-    "url": "https://www.aljazeera.com/news/2026/5/12/pakistan-scrambles-to-salvage-us-iran-diplomacy-as-ceasefire-faces-collapse?traffic_source=rss",
-    "published": "2026-05-12T12:17:08+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "south_asia",
-      "middle_east"
-    ]
-  },
-  {
     "id": "c83169a3d930",
     "title": "Children shot, stabbed and pepper-sprayed in occupied West Bank",
     "summary": "Israeli military operations and surging settler attacks in the occupied West Bank are killing and maiming a growing number of Palestinian children, while in Gaza tens of thousands with life-changing injuries lack access to treatment and rehabilitation, UN agencies warned on Tuesday.",
@@ -255,33 +321,6 @@
     "regions": [
       "middle_east",
       "north_america"
-    ]
-  },
-  {
-    "id": "b06a16efbd2b",
-    "title": "Video: Philippine senator flees ICC arrest over role in drug war",
-    "summary": "Philippines Senator Ronald Dela Rosa has taken refuge in the country’s parliament, as police sought to detain him.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/video-philippine-senator-flees-icc-arrest-over-role-in-drug-war?traffic_source=rss",
-    "published": "2026-05-12T11:44:58+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "southeast_asia",
-      "europe"
-    ]
-  },
-  {
-    "id": "ea8f563ae61f",
-    "title": "Can China counter US sanctions with its trade power?",
-    "summary": "From sanctions to rare earths, the economic rivalry between the US and China is intensifying.",
-    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/12/can-china-counter-us-sanctions-with-its-trade-power?traffic_source=rss",
-    "published": "2026-05-12T11:39:32+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia"
     ]
   },
   {
