@@ -1,38 +1,37 @@
 {
   "date": "2026-05-12",
-  "summary": "本日は、FRBからの発表が中心です。金融機関に対する規制緩和と承認に関するもので、市場への直接的な影響は限定的と考えられますが、金融セクターの健全性維持に対するFRBの姿勢を示唆しています。",
+  "summary": "本日は、FRBによる金融機関に対する執行措置の終了と、関連申請の承認に関する発表がありました。直接的な要人発言は確認できませんでしたが、金融政策の方向性を示唆する可能性があります。",
   "statements": [
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "F & M Holding Company, Inc. および Thread Bancorp, Inc. に対する執行措置を終了することを発表します。",
-      "context": "FRBのプレスリリース",
-      "analysis": "FRBが、F & M Holding Company, Inc. および Thread Bancorp, Inc.に対する過去の執行措置を終了したことは、これらの金融機関が規制要件を満たし、改善されたことを示唆します。市場への直接的な影響は小さいものの、金融セクター全体の健全性に対するFRBの監視と対応を反映しています。",
+      "speaker": "Federal Reserve Board",
+      "title": "米連邦準備制度理事会",
+      "quote": "F & M Holding Company, Inc. and Thread Bancorp, Inc.に対する執行措置を終了することを発表します。",
+      "context": "プレスリリース",
+      "analysis": "FRBがこれらの金融機関に対する監視を緩和したことを示唆します。これは、これらの機関が規制要件を満たし、財務状況が改善したとFRBが判断したことを意味する可能性があります。市場への直接的な影響は小さいと考えられますが、金融セクターの健全性に対するFRBの見方を反映している可能性があります。",
       "importance": "low",
       "tags": [
         "金融規制",
-        "FRB",
-        "金融機関"
+        "金融機関",
+        "FRB"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm"
     },
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "Columbia Bank MHC, および Columbia Financial, Inc. による関連申請を承認することを発表します。",
-      "context": "FRBのプレスリリース",
-      "analysis": "FRBがColumbia Bank MHC, および Columbia Financial, Inc.の申請を承認したことは、これらの金融機関の成長戦略を支持するものです。承認の具体的な内容は不明ですが、合併、買収、または新規事業展開に関連する可能性があります。地域経済への影響が考えられます。",
+      "speaker": "Federal Reserve Board",
+      "title": "米連邦準備制度理事会",
+      "quote": "Columbia Bank MHC, and Columbia Financial, Inc.による関連申請を承認することを発表します。",
+      "context": "プレスリリース",
+      "analysis": "FRBがこれらの金融機関の事業拡大または再編を承認したことを示唆します。具体的な内容は不明ですが、金融セクターにおける競争環境や市場構造に影響を与える可能性があります。個別の金融機関の動向であり、全体的な金融政策への影響は限定的と考えられます。",
       "importance": "low",
       "tags": [
-        "金融規制",
-        "FRB",
         "金融機関",
-        "合併・買収"
+        "M&A",
+        "FRB"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm"
     }
   ],
-  "generated_at": "2026-05-12T19:59:12.887775",
+  "generated_at": "2026-05-12T22:15:46.395671",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
