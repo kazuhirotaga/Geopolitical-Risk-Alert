@@ -1,52 +1,51 @@
 {
   "date": "2026-05-13",
-  "summary": "本日は、米連邦準備制度理事会（FRB）からの発表が中心です。経済状況に関する報告書と、金融機関に対する執行措置の終了、および関連申請の承認に関する情報が含まれています。直接的な要人発言は確認できませんでした。",
+  "summary": "本日発表されたFRB関連のニュースは、主に経済状況の報告書と金融機関に関する承認・終了通知であり、金融政策の方向性を示す直接的な発言は含まれていません。市場への直接的な影響は限定的と考えられます。",
   "statements": [
     {
-      "speaker": "連邦準備制度理事会（FRB）",
-      "title": "米連邦準備制度理事会",
-      "quote": "2025年における米国の家計の経済的幸福に関する報告書を発表。",
-      "context": "FRBによる公式発表",
-      "analysis": "この報告書の内容次第で、今後の金融政策に影響を与える可能性があります。特に、家計の経済状況が悪化している場合、利下げ圧力が高まる可能性があります。詳細な内容を確認する必要があります。",
+      "speaker": "Federal Reserve Board",
+      "title": "連邦準備制度理事会",
+      "quote": "Economic Well-Being of U.S. Households in 2025 reportを発行",
+      "context": "プレスリリース",
+      "analysis": "2025年の米国家計の経済状況に関する報告書の発行は、FRBが経済状況を評価し、今後の金融政策を決定する上で重要な情報源となります。ただし、具体的な政策変更を示唆するものではありません。",
       "importance": "medium",
       "tags": [
-        "経済",
+        "経済指標",
         "家計",
-        "FRB",
-        "金融政策"
+        "景気動向"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm"
     },
     {
-      "speaker": "連邦準備制度理事会（FRB）",
-      "title": "米連邦準備制度理事会",
-      "quote": "F & M Holding Company, Inc. および Thread Bancorp, Inc. に対する執行措置の終了を発表。",
-      "context": "FRBによる公式発表",
-      "analysis": "執行措置の終了は、これらの金融機関の健全性が改善したことを示唆します。金融システム全体の安定性に対する信頼感につながる可能性があります。個別の金融機関に対する影響は限定的と考えられます。",
+      "speaker": "Federal Reserve Board",
+      "title": "連邦準備制度理事会",
+      "quote": "F & M Holding Company, Inc. および Thread Bancorp, Inc. に対する執行措置の終了を発表",
+      "context": "プレスリリース",
+      "analysis": "特定の金融機関に対する執行措置の終了は、FRBが当該機関の改善を認め、規制遵守を評価した結果を示唆します。金融システム全体の安定性に対する影響は限定的と考えられます。",
       "importance": "low",
       "tags": [
-        "金融",
-        "規制",
-        "FRB"
+        "金融規制",
+        "金融機関",
+        "コンプライアンス"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm"
     },
     {
-      "speaker": "連邦準備制度理事会（FRB）",
-      "title": "米連邦準備制度理事会",
-      "quote": "Columbia Bank MHC, および Columbia Financial, Inc. による関連申請の承認を発表。",
-      "context": "FRBによる公式発表",
-      "analysis": "金融機関の合併・買収は、業界再編の兆候と見なされることがあります。この承認が、他の金融機関の同様の動きを促す可能性があります。地域経済への影響も考慮する必要があります。",
+      "speaker": "Federal Reserve Board",
+      "title": "連邦準備制度理事会",
+      "quote": "Columbia Bank MHC, および Columbia Financial, Inc. による関連申請の承認を発表",
+      "context": "プレスリリース",
+      "analysis": "特定の金融機関の合併・買収に関連する申請の承認は、FRBが金融システムの競争環境や安定性を評価した結果を示唆します。地域経済への影響が考えられますが、グローバル市場への影響は限定的です。",
       "importance": "low",
       "tags": [
-        "金融",
-        "M&A",
-        "FRB"
+        "金融機関",
+        "合併",
+        "買収"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm"
     }
   ],
-  "generated_at": "2026-05-13T20:01:24.621770",
+  "generated_at": "2026-05-13T22:17:31.636666",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
