@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-13",
-    "summary": "中東、ウクライナ情勢緊迫化。米中首脳会談を控え、イラン情勢、台湾問題、貿易摩擦が焦点。ロシアは新型ミサイル実験を実施。世界各地で紛争、政情不安、経済危機が複合的に発生し、地政学リスクは高い。",
+    "summary": "中東におけるアメリカとイランの戦争が継続し、緊張が高まっている。米中首脳会談が開催される一方、ウクライナ情勢も依然として不安定。世界各地で紛争や人道危機が発生しており、地政学リスクは高い。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "none",
       "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "critical",
-      "europe": "critical",
+      "middle_east": "high",
+      "europe": "high",
       "africa": "high",
-      "north_america": "high",
-      "south_america": "medium"
+      "north_america": "medium",
+      "south_america": "none"
     },
-    "generated_at": "2026-05-13T11:33:01.872123"
+    "generated_at": "2026-05-13T14:43:20.879122"
   },
   {
     "date": "2026-05-12",
