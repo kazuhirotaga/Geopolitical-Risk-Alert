@@ -1,17 +1,32 @@
 {
   "date": "2026-05-13",
-  "summary": "本日は、FRB（連邦準備制度理事会）からの発表が中心です。金融機関に対する執行措置の終了と、関連申請の承認に関するもので、金融市場への直接的な影響は限定的と考えられます。",
+  "summary": "本日は、米連邦準備制度理事会（FRB）からの発表が中心です。個別の金融機関に対する措置や、家計の経済状況に関する報告書の発行など、金融政策や経済状況に関する情報開示が行われています。直接的な要人発言は確認できませんでした。",
   "statements": [
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "F & M Holding Company, Inc. および Thread Bancorp, Inc. に対する執行措置を終了することを発表します。",
-      "context": "FRBのプレスリリース",
-      "analysis": "FRBが特定の金融機関に対する執行措置を終了したことは、これらの機関が規制要件を満たし、健全な運営を行っているとFRBが判断したことを示唆します。市場への直接的な影響は小さいものの、金融セクター全体の安定性に対する信頼感を高める可能性があります。",
+      "quote": "2025年における米国家計の経済状況に関する報告書を発表",
+      "context": "FRBによるプレスリリース",
+      "analysis": "この報告書の内容次第で、今後の金融政策の方向性や、景気判断に影響を与える可能性があります。詳細な分析が必要ですが、現時点では具体的な影響は不明です。市場参加者は報告書の内容を注視し、今後のFRBの政策スタンスを予測しようとするでしょう。",
+      "importance": "medium",
+      "tags": [
+        "経済状況",
+        "家計",
+        "FRB",
+        "金融政策"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm"
+    },
+    {
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "F & M Holding Company, Inc. および Thread Bancorp, Inc. に対する執行措置の終了を発表",
+      "context": "FRBによるプレスリリース",
+      "analysis": "個別の金融機関に対する執行措置の終了は、当該機関の健全性に対するFRBの評価が改善されたことを示唆します。ただし、市場全体への影響は限定的と考えられます。金融規制の遵守状況や、個別の金融機関の経営状況に関する情報として注目されます。",
       "importance": "low",
       "tags": [
-        "金融規制",
         "金融機関",
+        "規制",
         "FRB"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm"
@@ -19,19 +34,20 @@
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "Columbia Bank MHC, および Columbia Financial, Inc. による関連申請を承認することを発表します。",
-      "context": "FRBのプレスリリース",
-      "analysis": "FRBがColumbia Bank MHCとColumbia Financial, Inc.の申請を承認したことは、これらの金融機関の成長戦略を支持するものです。具体的な申請内容によりますが、合併・買収、新規事業展開などが考えられます。地域経済への影響や、競争環境の変化に注目する必要があります。",
+      "quote": "Columbia Bank MHC, および Columbia Financial, Inc. による関連申請を承認",
+      "context": "FRBによるプレスリリース",
+      "analysis": "金融機関の合併・買収に関する承認は、業界再編の動向を示す可能性があります。Columbia Bank MHC, および Columbia Financial, Inc. の規模や事業内容によっては、地域経済への影響も考えられます。ただし、現時点では具体的な影響は不明です。",
       "importance": "low",
       "tags": [
         "金融機関",
-        "合併・買収",
+        "合併",
+        "買収",
         "FRB"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm"
     }
   ],
-  "generated_at": "2026-05-13T14:43:52.596822",
+  "generated_at": "2026-05-13T17:21:16.217367",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
