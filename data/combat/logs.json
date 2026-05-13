@@ -1,8 +1,23 @@
 [
   {
     "date": "2026-05-13",
-    "summary": "ウクライナ情勢は停戦合意にも関わらず戦闘が継続。ホルムズ海峡では米軍とイランの緊張が続く。バリカタン演習では米比などが共同で標的艦を撃沈。オーストリア領空では米軍機が領空侵犯により迎撃される。",
+    "summary": "ウクライナでの戦闘は停戦合意にも関わらず継続。米軍はイラン関連施設へ攻撃を実施。一方、バルト三国は軍備増強を検討。オーストリアは領空侵犯した米軍機を捕捉。",
     "events": [
+      {
+        "id": "CE010",
+        "timestamp": "2026-05-15T00:00:00Z",
+        "location": "N/A",
+        "region": "europe",
+        "title": "NATO、ドローン対策ベンダーの選定プールを育成へ",
+        "content": "NATOは、各国がC-UAS（対無人航空機システム）を調達する前にテストできる共通資金を設立するとともに、信頼できるドローン対策ベンダーのプールを育成する。",
+        "involved_parties": [
+          "NATO"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/12/nato-to-cultivate-vetted-counter-drone-vendor-pool-for-nations-to-pick-and-choose/"
+      },
       {
         "id": "event-001",
         "timestamp": "2026-05-11",
@@ -53,6 +68,22 @@
         "source_url": "https://www.defensenews.com/news/your-military/2026/05/11/us-partner-nations-sink-two-decommissioned-ships-during-exercise-balikatan/"
       },
       {
+        "id": "CE009",
+        "timestamp": "2026-05-10T00:00:00Z",
+        "location": "オーストリア上空",
+        "region": "europe",
+        "title": "オーストリア軍機が領空侵犯した米軍機を2日連続で捕捉",
+        "content": "5月10日、オーストリア軍機が、ドイツ国境から60キロ以上離れたオーバーエスターライヒ州のトートス・ゲビルゲ山地上空で領空侵犯した米軍機を捕捉した。",
+        "involved_parties": [
+          "オーストリア軍",
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/13/austrian-jets-intercept-unauthorized-us-military-planes-two-days-in-a-row/"
+      },
+      {
         "id": "event-004",
         "timestamp": "2026-05-08",
         "location": "ホルムズ海峡周辺",
@@ -85,22 +116,6 @@
         "source_url": "https://www.defensenews.com/news/your-navy/2026/05/07/us-and-iran-exchange-fire-as-trump-says-war-will-be-over-quickly/"
       },
       {
-        "id": "event-006",
-        "timestamp": "2026-05-06",
-        "location": "ホルムズ海峡周辺",
-        "region": "middle_east",
-        "title": "アメリカ軍がイランのタンカーを攻撃",
-        "content": "アメリカ軍は、イランのタンカーが封鎖を回避しようとしたため、攻撃を行い航行不能にした。トランプ大統領はProject Freedomを一時停止したが、アメリカ海軍によるイランの港の出入りを禁止する封鎖は継続。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/06/us-forces-fire-at-disable-iran-flagged-tanker-trying-to-evade-blockade/"
-      },
-      {
         "id": "event-007",
         "timestamp": "2026-05-07",
         "location": "ウクライナ",
@@ -115,6 +130,22 @@
         "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/05/07/dueling-victory-day-ceasefires-for-war-in-ukraine-collapse-almost-immediately/"
+      },
+      {
+        "id": "event-006",
+        "timestamp": "2026-05-06",
+        "location": "ホルムズ海峡周辺",
+        "region": "middle_east",
+        "title": "アメリカ軍がイランのタンカーを攻撃",
+        "content": "アメリカ軍は、イランのタンカーが封鎖を回避しようとしたため、攻撃を行い航行不能にした。トランプ大統領はProject Freedomを一時停止したが、アメリカ海軍によるイランの港の出入りを禁止する封鎖は継続。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/06/us-forces-fire-at-disable-iran-flagged-tanker-trying-to-evade-blockade/"
       }
     ]
   },

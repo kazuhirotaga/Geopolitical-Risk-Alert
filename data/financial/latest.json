@@ -1,18 +1,18 @@
 {
   "date": "2026-05-13",
-  "summary": "米国の生産者物価指数（PPI）が予想を上回り、長期金利が上昇。S&P500はテクノロジー株主導で最高値を更新するも、多くの銘柄は下落。ホルムズ海峡の封鎖による原油供給懸念、暗号資産市場の規制動向など、複合的なリスク要因が市場の不確実性を高めている。",
-  "overall_risk_level": "medium",
+  "summary": "インフレ高止まりと地政学的リスクが複合的に作用し、金融市場の不確実性が高まっています。FRB議長交代、中東情勢緊迫化、AIサイバー攻撃の脅威などがリスク要因として顕在化しており、警戒が必要です。",
+  "overall_risk_level": "high",
   "articles": [
     {
-      "title": "10-year Treasury yield hits new high for the year after very hot producer prices reading",
+      "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
       "region": "global",
       "risk_level": "medium",
-      "summary": "予想を上回るPPIを受け、米国債利回りが上昇。インフレ圧力の持続が示唆され、金融引き締め長期化の懸念が高まっている。",
-      "analysis": "PPIの上昇は、FRBの利下げ開始時期を遅らせる可能性を高め、株式市場や債券市場にネガティブな影響を与える。特に、金利上昇に弱いグロース株や高PER銘柄への影響が大きいと考えられる。今後のインフレ指標の動向を注視する必要がある。",
+      "summary": "ケビン・ウォーシュ氏が次期FRB議長に承認。過去最大の分裂投票となり、今後の金融政策運営に不透明感が生まれる可能性があります。",
+      "analysis": "ウォーシュ氏の議長就任は、FRBの政策スタンスに変化をもたらす可能性があります。過去の言動から、インフレ抑制を重視するタカ派的な政策運営を行う可能性が指摘されています。しかし、今回の承認投票が大きく分裂したことから、議会からの圧力や内部対立が激化し、政策決定の遅延や市場の混乱を招くリスクも考慮する必要があります。今後のFRBの政策発表や議会証言などを注視し、市場の反応を注意深く観察する必要があります。",
       "key_entities": [
-        "FRB",
-        "米国債",
-        "PPI"
+        "Federal Reserve",
+        "Kevin Warsh",
+        "Jerome Powell"
       ],
       "sources": [
         "CNBC - Top News"
@@ -25,12 +25,43 @@
       "title": "S&P 500 hits another record driven by tech alone as most stocks decline on the day: Live updates",
       "region": "global",
       "risk_level": "medium",
-      "summary": "S&P500は最高値を更新したが、テクノロジー株に牽引されたもので、多くの銘柄は下落。市場の二極化が進んでいる。",
-      "analysis": "市場のけん引役が一部のテクノロジー企業に偏っている状況は、市場全体の健全性に対する懸念を高める。金利上昇やインフレ懸念が他のセクターに悪影響を及ぼす可能性があり、市場全体の調整リスクが高まっている。",
+      "summary": "S&P500は最高値を更新するも、上昇はテクノロジー株のみに集中。インフレ報告を受けダウは下落し、市場の二極化が進んでいます。",
+      "analysis": "S&P500の最高値更新は、一部のテクノロジー株に牽引されたものであり、市場全体の健全性を示すものではありません。インフレ高止まりを受けてダウが下落していることからも、市場の警戒感が窺えます。金利上昇や景気減速への懸念が高まる中、今後はテクノロジー株以外のセクターにも注意を払い、分散投資を心がける必要があります。また、VIX指数の動向も注視し、市場のボラティリティ上昇に備える必要があります。",
       "key_entities": [
         "S&P 500",
-        "テクノロジー株",
         "Dow Jones Industrial Average"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Mortgage rates jump to highest level since March on hotter inflation reports",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "インフレ報告を受けて住宅ローン金利が3月以来の高水準に急騰。住宅市場への悪影響が懸念されます。",
+      "analysis": "住宅ローン金利の上昇は、住宅購入意欲を減退させ、住宅価格の下落を招く可能性があります。特に、変動金利型住宅ローンを利用している層にとっては、金利負担の増加が家計を圧迫する要因となります。FRBの金融政策やインフレ動向を注視し、住宅市場の動向を注意深く観察する必要があります。また、住宅関連企業の業績にも注目し、投資判断を行う必要があります。",
+      "key_entities": [
+        "Federal Reserve"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "10-year Treasury yield hits new high for the year after very hot producer prices reading",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "卸売物価指数（PPI）が予想を上回り、10年物国債利回りが年初来高値を更新。インフレ圧力の高まりを示唆しています。",
+      "analysis": "10年物国債利回りの上昇は、企業の借入コスト増加や設備投資の抑制につながる可能性があります。また、株式市場にとってもネガティブな要因となり、特に高PER（株価収益率）のグロース株にとっては逆風となります。FRBの金融政策決定に影響を与える可能性もあり、今後のインフレ指標やFRBの声明を注視する必要があります。",
+      "key_entities": [
+        "Federal Reserve"
       ],
       "sources": [
         "CNBC - Top News"
@@ -42,14 +73,12 @@
     {
       "title": "Hormuz closure cuts OPEC oil production by 30% and threatens demand growth this year, cartel says",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "ホルムズ海峡の封鎖によりOPECの原油生産が30%減少し、世界の原油需要の伸びが脅かされている。",
-      "analysis": "ホルムズ海峡の封鎖は、原油価格の急騰を引き起こし、世界経済に深刻な影響を与える可能性がある。特に、エネルギー輸入依存度の高い国や地域では、インフレ圧力の増大や景気後退のリスクが高まる。地政学的リスクが金融市場に与える影響を考慮する必要がある。",
+      "risk_level": "critical",
+      "summary": "ホルムズ海峡の封鎖によりOPECの石油生産が30%減少し、世界の石油供給に深刻な影響。原油価格高騰と世界経済への悪影響が懸念されます。",
+      "analysis": "ホルムズ海峡の封鎖は、世界の石油供給に大きな混乱をもたらし、原油価格の急騰を招く可能性があります。原油価格の上昇は、インフレを加速させ、企業収益を圧迫し、世界経済の成長を鈍化させる要因となります。地政学的リスクが非常に高く、事態の沈静化には時間がかかる可能性があります。エネルギー関連企業への投資は慎重に行い、リスク管理を徹底する必要があります。",
       "key_entities": [
         "OPEC",
-        "ホルムズ海峡",
-        "原油価格",
-        "イラン"
+        "Iran"
       ],
       "sources": [
         "CNBC - Top News"
@@ -59,66 +88,13 @@
       ]
     },
     {
-      "title": "Jack Ma-Backed Insurer Yunfeng Financial Launches Gold Token",
+      "title": "AI-driven cyberattacks will start to be the 'new norm' in months, Palo Alto warns",
       "region": "global",
-      "risk_level": "low",
-      "summary": "ジャック・マー氏が出資する雲鋒金融が金連動トークンを発行。新たな投資手段として注目される。",
-      "analysis": "金連動トークンは、金の価格変動に連動するデジタル資産であり、投資家にとって新たな選択肢となる可能性がある。しかし、規制の不確実性やセキュリティリスクも存在するため、注意が必要である。",
+      "risk_level": "high",
+      "summary": "AIを活用したサイバー攻撃が数ヶ月以内に常態化すると警告。企業は防御体制の強化を迫られています。",
+      "analysis": "AIを活用したサイバー攻撃は、従来の攻撃よりも高度かつ迅速であり、防御が困難になる可能性があります。企業は、セキュリティ対策の強化や従業員のセキュリティ意識向上など、包括的な対策を講じる必要があります。サイバーセキュリティ関連企業の需要が高まる可能性があり、投資対象として注目されるかもしれません。しかし、リスクも高いため、慎重な判断が必要です。",
       "key_entities": [
-        "雲鋒金融",
-        "ジャック・マー",
-        "金連動トークン"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "UK parliament to probe Nigel Farage’s $6.8 million donation from crypto billionaire",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "英国議会が、ナイジェル・ファラージ氏への暗号資産富豪からの巨額献金について調査を開始。",
-      "analysis": "政治献金と暗号資産の関係に対する監視が強化される可能性を示唆している。暗号資産市場に対する規制強化の動きが加速する可能性がある。",
-      "key_entities": [
-        "ナイジェル・ファラージ",
-        "英国議会",
-        "暗号資産"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin buyers with long-term 'conviction' surges 300% with most recent buyers sitting on profits",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "長期保有を目的とするビットコイン購入者が急増。最近購入した投資家の多くが利益を上げている。",
-      "analysis": "ビットコインに対する長期的な信頼感が高まっていることを示唆する。しかし、価格変動リスクは依然として高く、市場全体の動向に注意する必要がある。",
-      "key_entities": [
-        "ビットコイン"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Alibaba jumps as it strikes bullish tone on AI investments, even as profit plunges",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "アリババがAI投資に強気な姿勢を示す一方で、利益は大幅に減少。成長戦略と収益性のバランスが課題。",
-      "analysis": "AI分野への積極的な投資は、長期的な成長 potential を高める可能性がある。しかし、短期的な収益性の低下は、投資家の懸念を招く可能性もある。今後のAI投資の成果と収益改善の動向が注目される。",
-      "key_entities": [
-        "アリババ",
-        "AI"
+        "Palo Alto"
       ],
       "sources": [
         "CNBC - Top News"
@@ -128,32 +104,48 @@
       ]
     },
     {
-      "title": "Anduril doubles valuation to over $60 billion as defense tech funding boom continues",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "防衛技術企業Andurilの評価額が倍増。防衛技術への資金流入が続いている。",
-      "analysis": "地政学的リスクの高まりを背景に、防衛技術への投資が活発化している。関連企業の株価上昇や新たな技術革新が期待される。",
-      "key_entities": [
-        "Anduril",
-        "防衛技術"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Metaplanet delays preferred share listing amid challenging Japanese market structure",
+      "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
       "region": "east_asia",
       "risk_level": "medium",
-      "summary": "Metaplanetが、日本の市場構造の課題を理由に優先株式の上場を延期。",
-      "analysis": "日本の市場構造が、暗号資産関連企業の上場を阻む要因となっている可能性を示唆。規制の不透明さや投資家のリスク許容度の低さが影響していると考えられる。",
+      "summary": "トランプ大統領の中国訪問で、関税休戦の延長やボーイング機購入が予測されています。米中関係の改善期待が高まっています。",
+      "analysis": "米中間の貿易摩擦緩和は、世界経済にとってプラス要因となります。しかし、過去の事例から、米中関係は不安定であり、今後の交渉次第では再び緊張が高まる可能性もあります。貿易関連企業の業績やサプライチェーンへの影響を注視し、リスク管理を徹底する必要があります。",
       "key_entities": [
-        "Metaplanet",
-        "日本市場",
-        "暗号資産"
+        "Donald Trump",
+        "China",
+        "Boeing"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "4月の卸売物価指数が年率換算で6%上昇し、2022年以来最大の伸びを記録。インフレ懸念が再燃しています。",
+      "analysis": "卸売物価の上昇は、最終的には消費者物価の上昇につながる可能性が高く、インフレ懸念を強める要因となります。FRBが追加利上げに踏み切る可能性が高まり、金融市場にネガティブな影響を与える可能性があります。インフレヘッジ資産への投資を検討するとともに、金利変動リスクに注意する必要があります。",
+      "key_entities": [
+        "Federal Reserve"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin dips below $80,000 as producer price inflation surges to 6%",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "卸売物価指数が6%に急上昇したことを受け、ビットコインが8万ドルを下回る。インフレと金融引き締めへの懸念が暗号資産市場を圧迫しています。",
+      "analysis": "インフレ指標の悪化は、FRBの金融引き締めを加速させる可能性があり、リスク資産である暗号資産にとってはマイナス要因となります。ビットコインは依然としてボラティリティが高く、価格変動リスクに注意が必要です。長期的な視点で投資を行うとともに、リスク管理を徹底する必要があります。",
+      "key_entities": [
+        "Bitcoin",
+        "Federal Reserve"
       ],
       "sources": [
         "CoinDesk"
@@ -166,13 +158,12 @@
       "title": "Jamie Dimon warns JPMorgan may rethink new London office if 'very smart' Starmer is ousted as UK PM",
       "region": "europe",
       "risk_level": "medium",
-      "summary": "ジェイミー・ダイモン氏が、スターマー首相が退任した場合、JPモルガンのロンドンオフィス計画を見直す可能性を示唆。",
-      "analysis": "政治的な安定性が、金融機関の投資判断に影響を与えることを示している。英国の政治情勢の変動が、金融市場に不確実性をもたらす可能性がある。",
+      "summary": "JPモルガンのジェイミー・ダイモンCEOが、スターマー英首相の退任がロンドンオフィス計画に影響を与える可能性を示唆。政治的不安定化が投資判断に影響を与えています。",
+      "analysis": "政治的不安定化は、企業の投資判断に大きな影響を与えます。特に、金融機関にとっては、規制変更や経済政策の変更リスクが高まるため、慎重な姿勢を取らざるを得ません。英国の政治情勢を注視し、ポンドや英国株への投資は慎重に行う必要があります。",
       "key_entities": [
-        "ジェイミー・ダイモン",
-        "JPモルガン",
-        "英国",
-        "スターマー"
+        "JPMorgan",
+        "Jamie Dimon",
+        "Keir Starmer"
       ],
       "sources": [
         "CNBC - Top News"
@@ -183,12 +174,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "medium",
+    "global": "high",
     "north_america": "medium",
     "europe": "medium",
     "east_asia": "medium"
   },
-  "generated_at": "2026-05-13T17:21:01.571324",
+  "generated_at": "2026-05-13T20:01:14.864053",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

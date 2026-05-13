@@ -1,19 +1,79 @@
 {
   "date": "2026-05-13",
-  "summary": "ウクライナ情勢の悪化、米イラン間の緊張、インド国内の民族対立など、地政学リスクが高まっている。米中首脳会談が予定される中、各地域で不安定要素が顕在化しており、国際社会への影響が懸念される。",
+  "summary": "中東地域における緊張が極めて高い状態が継続。米イラン間の対立に加え、イスラエルと周辺国の関係も不安定。ウクライナ情勢も膠着状態が続き、世界的な食糧危機や経済不安も深刻化している。地政学リスクは全体的に高い。",
   "overall_risk_level": "high",
   "articles": [
+    {
+      "title": "Netanyahu visited UAE in ‘secret’ during US-Israel war on Iran, office says",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "ネタニヤフ首相が米イスラエル対イラン戦争中にUAEを秘密訪問。湾岸諸国との関係における歴史的躍進と首相府は説明。",
+      "analysis": "イスラエル首相のUAE秘密訪問は、イランとの戦争という状況下で、イスラエルとアラブ諸国の関係が複雑化していることを示唆する。背景には、イランの脅威に対する共通認識があると考えられるが、パレスチナ問題に対する立場や、地域覇権を巡る競争など、潜在的な対立要因も存在する。この訪問が、今後の地域情勢にどのような影響を与えるかは不透明だが、イランを孤立させ、イスラエルの地位を高める可能性がある。ただし、パレスチナ問題の解決を伴わない関係正常化は、地域の不安定化を招くリスクも孕んでいる。",
+      "key_entities": [
+        "Netanyahu",
+        "UAE",
+        "Israel",
+        "Iran",
+        "US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Trump-Xi summit: China’s help in Iran may require US concessions",
+      "region": "east_asia",
+      "risk_level": "medium",
+      "summary": "中国がイランへの圧力をかける場合、米国は台湾政策の変更を求められる可能性があるとアナリストは指摘。",
+      "analysis": "米中首脳会談において、イラン問題が重要な議題となる可能性が高い。中国がイランに対して影響力を行使する見返りとして、米国に対して台湾政策の変更を求める可能性があるという分析は、米中関係の複雑さを示している。米国が台湾問題で譲歩すれば、東アジア地域のパワーバランスに影響を与える可能性がある。一方、中国がイラン問題で協力しない場合、米イラン間の緊張がさらに高まるリスクがある。ホルムズ海峡の封鎖など、地域全体の安全保障に影響を与える事態も想定される。",
+      "key_entities": [
+        "Trump",
+        "Xi Jinping",
+        "China",
+        "Iran",
+        "US",
+        "Taiwan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "イラン革命防衛隊 “ホルムズ海峡の作戦上の境界 大幅に拡大”",
+      "region": "middle_east",
+      "risk_level": "critical",
+      "summary": "イラン革命防衛隊がホルムズ海峡の作戦上の境界を大幅に拡大。米イランの戦闘終結協議に進展が見られず、緊張状態が継続。",
+      "analysis": "イラン革命防衛隊によるホルムズ海峡の作戦境界拡大は、同海峡におけるイランの支配権強化を意図したものと見られる。米イラン間の交渉が進展しない中、イランは強硬姿勢を維持しており、ホルムズ海峡の封鎖など、軍事的な緊張が高まるリスクがある。ホルムズ海峡は世界の原油輸送の要であり、封鎖されれば世界経済に深刻な影響を与える可能性がある。米国の軍事行動も検討されているとの報道もあり、偶発的な衝突が発生する可能性も否定できない。",
+      "key_entities": [
+        "Iran",
+        "US",
+        "ホルムズ海峡",
+        "革命防衛隊",
+        "トランプ"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
     {
       "title": "Deadly Russian drone attacks on Ukraine resume after ceasefire expires",
       "region": "europe",
       "risk_level": "high",
-      "summary": "停戦期間終了後、ロシアによるウクライナへのドローン攻撃が再開され、死者が出ている。ゼレンスキー大統領はさらなる攻撃の可能性を警告。",
-      "analysis": "ロシアによるウクライナへの軍事侵攻が継続しており、停戦合意が守られていない状況が続いている。ドローン攻撃の再開は、紛争の激化を示唆し、市民への被害拡大、難民の増加、エネルギーインフラへの影響などが懸念される。ロシアはSarmatミサイルの実験も行っており、欧州全体への脅威となっている。今後の見通しとしては、ロシアが攻勢を強める可能性が高く、ウクライナの防衛能力、NATOの支援体制が試される。",
+      "summary": "停戦期間終了後、ロシアによるウクライナへのドローン攻撃が再開。ゼレンスキー大統領はさらなる攻撃の可能性を警告。",
+      "analysis": "ロシアによるウクライナへのドローン攻撃再開は、停戦交渉の決裂と、紛争の長期化を示唆する。ロシアは、ウクライナのインフラ施設や軍事拠点を標的として攻撃を継続しており、ウクライナの人的・物的被害は拡大している。国際社会からの制裁にもかかわらず、ロシアは軍事的な圧力を強めており、ウクライナ情勢の悪化は、ヨーロッパ全体の安全保障に影響を与える可能性がある。NATO諸国は、ウクライナへの支援を強化しているが、直接的な軍事介入は避けられており、紛争の解決は依然として不透明である。",
       "key_entities": [
-        "ロシア",
-        "ウクライナ",
-        "ゼレンスキー",
-        "プーチン",
+        "Russia",
+        "Ukraine",
+        "Zelensky",
         "NATO"
       ],
       "sources": [
@@ -24,17 +84,16 @@
       ]
     },
     {
-      "title": "イラン革命防衛隊 “ホルムズ海峡の作戦上の境界 大幅に拡大”",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "イラン革命防衛隊がホルムズ海峡の作戦上の境界を拡大。米イラン間の緊張が続く中、トランプ大統領は軍事行動を検討しているとも伝えられる。",
-      "analysis": "ホルムズ海峡は世界の原油輸送の要であり、イランの境界拡大は、航行の自由を脅かし、原油価格の高騰を招く可能性がある。米イラン間の交渉が進展しない中、偶発的な軍事衝突のリスクが高まっている。トランプ大統領が軍事行動を検討しているとの報道もあり、中東地域の不安定化、国際的なエネルギー市場への影響が懸念される。米中首脳会談でもイラン情勢が議題となる見込み。",
+      "title": "North Korea Kim Jong-un orders increased production efficiency of munitions factories",
+      "region": "east_asia",
+      "risk_level": "medium",
+      "summary": "Kim Jong-un visited munitions factories and ordered increased production efficiency. South Korean experts believe that this is aimed at establishing a mass production system for artillery shells for export to Russia, which is continuing its military invasion of Ukraine.",
+      "analysis": "Kim Jong-un's visit to munitions factories and his order to increase production efficiency suggest that North Korea is seeking to expand its arms exports, possibly to Russia. This could further destabilize the situation in Ukraine and violate international sanctions against North Korea. The increased production of artillery shells also raises concerns about North Korea's own military capabilities and its potential for aggression in the region.",
       "key_entities": [
-        "イラン",
-        "アメリカ",
-        "トランプ",
-        "ホルムズ海峡",
-        "革命防衛隊"
+        "Kim Jong-un",
+        "North Korea",
+        "Russia",
+        "Ukraine"
       ],
       "sources": [
         "NHK World"
@@ -44,108 +103,16 @@
       ]
     },
     {
-      "title": "What Trump and Xi want from China visit",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "トランプ大統領と習近平国家主席の会談では、貿易、技術、台湾、イラン戦争などの問題が議論される予定。",
-      "analysis": "米中間の緊張は、貿易摩擦、技術覇権争い、台湾問題、イラン情勢など多岐にわたる。今回の首脳会談は、これらの問題解決に向けた糸口を見出す機会となるが、両国の立場には隔たりがあり、合意形成は困難と予想される。特に、イラン情勢を巡っては、両国の利害が対立しており、対立が激化する可能性もある。会談の結果は、世界経済、安全保障に大きな影響を与える。",
-      "key_entities": [
-        "アメリカ",
-        "中国",
-        "トランプ",
-        "習近平",
-        "台湾",
-        "イラン"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Church leaders killed in latest ethnic violence in India’s Manipur",
+      "title": "Afghanistan crisis deepens as record returns, drought and aid cuts strain economy",
       "region": "south_asia",
       "risk_level": "high",
-      "summary": "インドのマニプル州で民族間の暴力が発生し、教会の指導者3人が死亡、3人が負傷。抗議活動が発生。",
-      "analysis": "インド国内における民族・宗教間の対立は、社会の不安定化を招き、経済活動にも悪影響を及ぼす可能性がある。マニプル州の事件は、インド国内の少数民族に対する差別、貧困問題などが背景にあると考えられる。今後の見通しとしては、政府が事態を収束できるかどうかが重要となる。事態が悪化すれば、インド全体の安定を揺るがす可能性もある。",
+      "summary": "アフガニスタンの人道・経済危機が悪化。経済成長はわずかながら、国民の約4分の3が基本的なニーズを満たせない状況。",
+      "analysis": "アフガニスタンにおける人道・経済危機は深刻化の一途を辿っており、タリバン政権下での人権状況の悪化や、国際的な援助の削減が、状況をさらに悪化させている。食糧不足、医療崩壊、治安の悪化など、複合的な要因が絡み合い、国民生活は困窮している。国際社会は、人道支援の継続や、タリバン政権に対する人権尊重の要求など、アフガニスタン情勢の安定化に向けて取り組む必要がある。しかし、タリバン政権の姿勢や、国際社会の関与の度合いによっては、さらなる混乱と人道危機が深刻化する可能性も否定できない。",
       "key_entities": [
-        "インド",
-        "マニプル州"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "北朝鮮 キム総書記 軍需工場視察で砲弾など生産効率向上を指示",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "北朝鮮の金正恩総書記が軍需工場を視察し、生産効率の向上を指示。ロシアへの輸出を念頭に砲弾などの量産体制を構築する狙いとの見方も。",
-      "analysis": "北朝鮮による軍需工場の視察は、軍事力増強の意思を示すものと解釈できる。特に、ロシアへの砲弾輸出を念頭に置いているとの見方は、ウクライナ情勢に影響を与える可能性がある。北朝鮮の核・ミサイル開発、地域における軍事的緊張の高まりが懸念される。国際社会による制裁の効果が問われる。",
-      "key_entities": [
-        "北朝鮮",
-        "金正恩",
-        "ロシア"
-      ],
-      "sources": [
-        "NHK World"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "紛争監視団体ACLEDの報告によると、イランとの停戦後、ガザ地区へのイスラエルによる攻撃が4月に35%増加。",
-      "analysis": "イスラエルとパレスチナ間の紛争は、中東地域の不安定化要因となっている。イランとの停戦後、ガザ地区への攻撃が増加していることは、紛争が再燃する可能性を示唆している。人道状況の悪化、国際社会からの批判、周辺国への影響などが懸念される。国連平和維持部隊の活動もリスクに晒されている。",
-      "key_entities": [
-        "イスラエル",
-        "ガザ",
-        "パレスチナ",
-        "イラン"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
-      "region": "africa",
-      "risk_level": "medium",
-      "summary": "ガーナ政府が、南アフリカでの外国人排斥デモを受け、プレトリアのガーナ大使館に登録した「苦境にある」ガーナ人300人を避難させる。",
-      "analysis": "南アフリカにおける外国人排斥は、社会不安、経済活動への悪影響、周辺国との関係悪化を招く可能性がある。貧困、失業率の高さなどが背景にあると考えられる。ガーナ政府による避難措置は、事態の深刻さを示唆している。今後の見通しとしては、南アフリカ政府が外国人排斥を抑制できるかどうかが重要となる。",
-      "key_entities": [
-        "ガーナ",
-        "南アフリカ"
-      ],
-      "sources": [
-        "BBC - World"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz de-escalation is urgent, says UN chief",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "ホルムズ海峡の危機が深刻化し、イランと米国の緊張が解消されない中、原油価格が再び上昇。国連事務総長は平和的解決を呼びかけ、アフリカなどへの影響を警告。",
-      "analysis": "ホルムズ海峡の緊張は、世界のエネルギー市場に大きな影響を与える。原油価格の高騰は、世界経済の減速、インフレの加速を招く可能性がある。アフリカなど、エネルギー資源を輸入に頼る国々への影響は深刻となる。国連事務総長が平和的解決を呼びかけているが、米イラン間の対立は根深く、解決は困難と予想される。",
-      "key_entities": [
-        "ホルムズ海峡",
-        "イラン",
-        "アメリカ",
-        "国連"
+        "Afghanistan",
+        "Taliban",
+        "UN",
+        "UNDP"
       ],
       "sources": [
         "国連ニュース"
@@ -155,37 +122,73 @@
       ]
     },
     {
-      "title": "Gunshots ring out at Philippine Senate where lawmaker is holed up",
-      "region": "southeast_asia",
-      "risk_level": "medium",
-      "summary": "フィリピンの上院で銃声が鳴り響き、元警察長官で元大統領ドゥテルテの下で働いていたロナルド・デラ・ロサ議員が立てこもっている。",
-      "analysis": "フィリピンにおける政治的緊張の高まりを示唆する事件。国際刑事裁判所（ICC）の逮捕状が出ている人物が上院に立てこもるという異常事態は、国内の法秩序への挑戦とも解釈できる。今後の政局、治安情勢に影響を与える可能性がある。",
+      "title": "Funding shortfalls force deep cuts to Syria food assistance: WFP",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "資金不足により、WFPがシリアへの緊急食糧支援を半減。数十万人の脆弱な人々への支援が削減され、飢餓のリスクが高まる。",
+      "analysis": "シリアにおける食糧支援の削減は、内戦の影響で既に脆弱な状況にある国民の生活をさらに悪化させる。資金不足の背景には、国際社会の関心の低下や、他の地域における人道危機の深刻化などがある。シリア国内では、紛争が継続しており、食糧の安定供給が困難な状況が続いている。国際社会は、シリアへの人道支援を強化し、食糧危機を回避するための取り組みを加速させる必要がある。しかし、紛争の解決が見通せない状況では、根本的な解決は困難であり、人道支援の継続が不可欠である。",
       "key_entities": [
-        "フィリピン",
-        "ロナルド・デラ・ロサ",
-        "ドゥテルテ",
-        "ICC"
+        "Syria",
+        "WFP",
+        "UN"
       ],
       "sources": [
-        "Al Jazeera"
+        "国連ニュース"
+      ],
+      "source_types": [
+        "international_org"
+      ]
+    },
+    {
+      "title": "Lebanon: UN peacekeeping force warns drone incidents near its positions are putting personnel at risk",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "レバノン南部で、UNIFIL周辺でのドローン活動と爆発が増加。UNIFIL要員の安全が脅かされ、不安定な状況が悪化する恐れ。",
+      "analysis": "レバノン南部におけるドローン活動の増加は、イスラエルとヒズボラの緊張の高まりを示唆する。UNIFIL要員の安全が脅かされることは、国際社会の平和維持活動に対するリスクを高める。レバノン国内では、政治・経済的な混乱が続いており、治安が悪化する可能性もある。国際社会は、レバノンの安定化に向けて支援を強化し、イスラエルとヒズボラ間の緊張緩和に向けた外交努力を継続する必要がある。しかし、両者の対立構造は根深く、状況の改善は容易ではない。",
+      "key_entities": [
+        "Lebanon",
+        "UNIFIL",
+        "Hezbollah",
+        "Israel"
+      ],
+      "sources": [
+        "国連ニュース"
+      ],
+      "source_types": [
+        "international_org"
+      ]
+    },
+    {
+      "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
+      "region": "africa",
+      "risk_level": "medium",
+      "summary": "ガーナが南アフリカでの反移民抗議を受け、大使館に登録した300人を避難させる。",
+      "analysis": "南アフリカにおける反移民感情の高まりは、経済的な不満や、社会的な格差が背景にある。ガーナ国民の避難は、南アフリカにおける外国人に対する排斥運動が深刻化していることを示唆する。南アフリカ政府は、外国人に対する保護を強化し、排斥運動を抑制するための対策を講じる必要がある。また、アフリカ各国は、自国民の保護に向けて連携を強化し、南アフリカ政府に対して適切な対応を求める必要がある。しかし、経済状況の悪化や、社会的な不満が解消されない限り、反移民感情は根強く残る可能性が高い。",
+      "key_entities": [
+        "Ghana",
+        "South Africa"
+      ],
+      "sources": [
+        "BBC - World"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
+      "title": "EU ユダヤ人入植者団体などに新たな制裁を科すことで合意",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "トランプ大統領は、イランとの和平交渉が停滞する中、国内の不満が高まり、地政学的なリスクが高まるにつれて、多くの「悪い選択肢」に直面している。",
-      "analysis": "米イラン間の交渉が難航している状況が続いている。トランプ大統領が直面する「悪い選択肢」とは、軍事行動、制裁強化、現状維持などが考えられるが、いずれもリスクを伴う。軍事行動は、中東地域の不安定化、国際社会からの批判を招く可能性がある。制裁強化は、イランの反発を招き、事態を悪化させる可能性がある。現状維持は、イランの核開発を容認することになり、地域の安全保障を脅かす可能性がある。今後の見通しは不透明であり、予断を許さない。",
+      "risk_level": "medium",
+      "summary": "EUがヨルダン川西岸での過激なユダヤ人入植者による暴力に対し、7つの団体と個人に新たな制裁を科すことで合意。",
+      "analysis": "EUによるユダヤ人入植者団体への制裁は、イスラエル政府に対する圧力強化を意図したものと見られる。ヨルダン川西岸における入植活動は、国際法に違反するものであり、パレスチナとの和平交渉を阻害する要因となっている。イスラエル政府は、入植活動を抑制し、パレスチナとの和平交渉を再開する必要がある。しかし、イスラエル国内では、入植活動を支持する勢力が強く、政府の対応は困難な状況にある。国際社会は、イスラエル政府に対して、入植活動の停止を強く求めるとともに、パレスチナとの和平交渉を支援する必要がある。",
       "key_entities": [
-        "アメリカ",
-        "イラン",
-        "トランプ"
+        "EU",
+        "Israel",
+        "パレスチナ",
+        "ヨルダン川西岸"
       ],
       "sources": [
-        "Al Jazeera"
+        "NHK World"
       ],
       "source_types": [
         "media"
@@ -194,16 +197,16 @@
   ],
   "region_risk_map": {
     "east_asia": "medium",
-    "southeast_asia": "medium",
+    "southeast_asia": "none",
     "south_asia": "high",
     "central_asia": "none",
     "middle_east": "critical",
     "europe": "high",
     "africa": "medium",
-    "north_america": "high",
+    "north_america": "medium",
     "south_america": "none"
   },
-  "generated_at": "2026-05-13T17:20:37.808384",
+  "generated_at": "2026-05-13T20:00:49.952619",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
