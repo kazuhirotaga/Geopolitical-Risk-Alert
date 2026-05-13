@@ -1,145 +1,116 @@
 {
-  "date": "2026-05-12",
-  "summary": "世界各地で社会不安の兆候が見られます。北米では銀行破綻の報告があり金融システムへの懸念が高まる一方、地政学的対立を背景とした大規模な抗議活動がニューヨーク市内で頻発しています。南アジアではLPG供給不足が現実となり、広範囲にわたる学生デモが社会の緊張を増幅。アフリカでは慢性的な水不足が報じられ、生活インフラの脆弱性が浮き彫りになっています。全体として、経済的、政治的、資源的な問題が複合的に作用し、一部地域では社会の安定が揺らいでいます。",
-  "global_panic_index": 58,
+  "date": "2026-05-13",
+  "summary": "世界各地では、社会経済的な不安定要素と具体的な生活インフラの課題が表面化しています。特に北米では、政治的・社会的な対立が大規模なデモとして顕在化し、社会の分断が進んでいます。南アジアではエネルギー供給や教育制度に対する不満が高まり、アフリカでは水不足といった深刻なインフラ問題が懸念されています。また、金融システムにおいては、取り付け騒ぎや銀行破綻を巡る懸念が散見され、広範な経済的・社会的不安がくすぶる状況です。全体として、特定のパニック状態には至っていないものの、複数の地域で警戒が必要な社会不安が見られます。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 48,
-      "status": "unstable",
-      "main_cause": "金融システムへの懸念、地政学的対立に起因する大規模抗議デモ",
+      "panic_index": 55,
+      "status": "volatile",
+      "main_cause": "社会的分裂、政治的抗議、経済的不確実性",
       "incidents": [
         {
-          "title": "銀行の420億ドル流出と破綻",
-          "location": "米国（具体地名不明）",
-          "severity": 75,
-          "description": "一日で420億ドルの資金が流出し、その後銀行が破綻したという報告があり、金融システムへの深刻な不安と、潜在的な取り付け騒ぎのリスクを示唆しています。",
+          "title": "West Bank土地販売に対する大規模抗議デモ",
+          "location": "米国、ニューヨーク（Midwood/Brooklyn）",
+          "severity": 55,
+          "description": "イスラエル関連の不動産販売を巡り、Midwoodおよびブルックリンで大規模な抗議デモとそれに対する反デモが発生。社会的な緊張と分断が顕著になっています。",
+          "source": "The Indypendent, Jewish Telegraphic Agency, Brooklyn Paper, The Jerusalem Post"
+        },
+        {
+          "title": "スタッフ不足による公共交通機関の運行変更",
+          "location": "米国、Victoria",
+          "severity": 30,
+          "description": "人員不足を原因として、Victoriaの公共交通機関が運行スケジュールを変更。住民の不便と不満につながる軽微な社会混乱が見られます。",
+          "source": "crossroadstoday.com"
+        },
+        {
+          "title": "Citizens Bankの顧客離反と抗議",
+          "location": "米国",
+          "severity": 40,
+          "description": "Citizens Bankが刑務所運営企業との関係を巡り顧客を失い、倫理的な懸念から企業への不信感と顧客の行動が見られます。",
           "source": "MSN"
         },
         {
-          "title": "ニューヨーク市での反イスラエルデモと衝突、逮捕者発生",
-          "location": "ニューヨーク州ニューヨーク市",
+          "title": "シナゴーグでのデモによる緊張とヘイトクライム対策強化",
+          "location": "米国、ニューヨーク",
+          "severity": 50,
+          "description": "シナゴーグ周辺での抗議デモにより緊張が高まり、NYCヘイトクライム対策室が強化されています。社会内の対立と不安が増大しています。",
+          "source": "The Forward"
+        },
+        {
+          "title": "ウォール街の停滞と原油価格上昇",
+          "location": "米国、ウォール街",
           "severity": 45,
-          "description": "反イスラエル派のデモ参加者と対抗デモ参加者が衝突し、少なくとも3名が逮捕されました。地政学的問題が国内の社会秩序を乱すレベルに達しています。",
-          "source": "New York Post"
-        },
-        {
-          "title": "イングランド銀行総裁によるステーブルコインのリスク警告と米国連携の呼びかけ",
-          "location": "米国、英国",
-          "severity": 40,
-          "description": "イングランド銀行総裁がステーブルコインのリスクについて警告し、米国との連携を呼びかけました。これは金融システム全体への潜在的な不安を示唆するものです。",
-          "source": "CryptoRank"
-        },
-        {
-          "title": "ブルックリンでのイスラエル不動産イベントに対する抗議デモ",
-          "location": "ニューヨーク州ブルックリン",
-          "severity": 35,
-          "description": "イスラエル関連の不動産イベントに多数の抗議者が集まりました。地政学的問題が直接的な抗議行動につながり、社会的な緊張が高まっています。",
-          "source": "Jewish Telegraphic Agency"
+          "description": "AI株の低迷と原油価格の上昇により、ウォール街の記録的な上昇が止まりました。広範な経済的な不確実性と不安の兆候が見られます。",
+          "source": "Journal-News.com"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 62,
-      "status": "volatile",
-      "main_cause": "エネルギー供給危機、教育制度への不信、政治的抗議",
+      "region": "south_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "エネルギー不足、社会的不満、教育制度への抗議",
       "incidents": [
         {
-          "title": "LPG供給危機、10kgシリンダー導入計画の可能性",
-          "location": "インド（具体地名不明）",
+          "title": "LPG供給危機と小型シリンダー導入計画",
+          "location": "インド",
           "severity": 65,
-          "description": "LPG（液化石油ガス）の供給危機が報じられており、国家運営の石油会社が10kgシリンダー導入を検討しているとされます。生活必需品の不足は住民の強い不安を引き起こします。",
+          "description": "LPG（液化石油ガス）の供給危機が報じられ、10kgシリンダーの導入が検討されています。生活必需品の不足に対する住民の懸念が高まっています。",
           "source": "MSN"
         },
         {
-          "title": "NEET-UG試験問題漏洩疑惑に端を発する全国規模の学生抗議デモ",
-          "location": "インド全土",
-          "severity": 65,
-          "description": "NEET-UG（大学入学共通試験）の試験問題漏洩疑惑が、全国的な学生による抗議デモに発展しています。教育制度への不信感が広範な社会不安を引き起こしています。",
+          "title": "NEET試験問題漏洩による学生の不安と抗議の兆候",
+          "location": "インド",
+          "severity": 50,
+          "description": "医学部入学統一試験（NEET）の問題漏洩疑惑が学生の間に不安を引き起こし、抗議活動が予想されています。教育制度への不信感が募っています。",
           "source": "Devdiscourse"
         },
         {
-          "title": "選挙結果発表を控えた抗議呼びかけで逮捕者",
-          "location": "インド（具体地名不明）",
-          "severity": 45,
-          "description": "選挙結果発表日にEVM（電子投票機）に対する抗議を呼びかけた人物が逮捕されました。選挙の公正性への疑念が政治的な社会不安を招いています。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "農民組合による協同組合銀行前での抗議デモ",
+          "title": "農民組合による銀行前での抗議デモ",
           "location": "インド、ルディアナ",
           "severity": 45,
-          "description": "農民組合がルディアナの協同組合銀行事務所前で抗議デモを実施しました。金融関連の問題が農民の不満と社会不安を引き起こしています。",
+          "description": "ルディアナで農民組合が協同組合銀行事務所前で抗議活動を実施。特定の経済的課題や不満が表面化しています。",
           "source": "The Tribune"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 20,
-      "status": "stable",
-      "main_cause": "犯罪組織の摘発（治安維持）",
-      "incidents": [
-        {
-          "title": "ヨルダン川西岸で大規模な偽造組織を摘発",
-          "location": "ヨルダン川西岸",
-          "severity": 20,
-          "description": "IDFとイスラエル警察がヨルダン川西岸で大規模なパレスチナ人偽造組織を摘発しました。これは治安維持活動であり、住民の直接的なパニックを示すものではありません。",
-          "source": "The Jerusalem Post"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "金融システムの潜在的リスク、原材料供給不足",
-      "incidents": [
-        {
-          "title": "イングランド銀行総裁によるステーブルコインのリスク警告と米国連携の呼びかけ",
-          "location": "英国、米国",
-          "severity": 40,
-          "description": "イングランド銀行総裁がステーブルコインのリスクについて警告し、米国との連携を呼びかけました。これは金融システム全体への潜在的な不安を示唆するものです。",
-          "source": "CryptoRank"
         },
         {
-          "title": "石油コークス不足が湾岸地域外のアルミニウム生産にも影響か",
-          "location": "グローバル（欧州も含む可能性）",
-          "severity": 55,
-          "description": "石油コークスの不足が湾岸地域外のアルミニウム生産にも影響を及ぼす可能性が指摘されています。主要原材料の供給不安は産業活動の停滞と経済不安につながります。",
-          "source": "lokmattimes.com"
+          "title": "選挙結果日の抗議呼びかけと逮捕",
+          "location": "インド",
+          "severity": 40,
+          "description": "選挙結果発表日にEVM（電子投票機）に対する抗議を呼びかけた人物が逮捕されました。政治的な抗議活動の兆候が見られます。",
+          "source": "The Times of India"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 55,
-      "status": "volatile",
-      "main_cause": "慢性的な水不足",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "水不足、インフラ問題",
       "incidents": [
         {
-          "title": "水道が枯渇した際の責任問題とアフリカの水システム再建計画",
+          "title": "水不足とアフリカの給水システム再建計画",
           "location": "ルワンダ、キガリ",
-          "severity": 55,
-          "description": "「水道が枯渇した際に誰が責任を負うのか」という問いかけと共に、アフリカの給水システム再建計画が報じられています。慢性的な水不足は生活に直結する深刻な問題です。",
+          "severity": 60,
+          "description": "ルワンダのキガリにおいて、水不足が深刻な問題として指摘され、アフリカ全体の給水システムを再建する計画が議論されています。基本的な生活インフラへの懸念が高い状況です。",
           "source": "The New Times"
         }
       ]
     },
     {
-      "region": "south_america",
-      "panic_index": 0,
+      "region": "middle_east",
+      "panic_index": 25,
       "status": "normal",
-      "main_cause": "該当情報なし",
-      "incidents": []
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "該当情報なし",
-      "incidents": []
+      "main_cause": "治安維持",
+      "incidents": [
+        {
+          "title": "西岸地区での偽造組織摘発",
+          "location": "西岸地区",
+          "severity": 20,
+          "description": "IDFとイスラエル警察による作戦で、パレスチナの大規模な偽造組織が摘発されました。一般的な治安維持活動であり、広範なパニックには繋がっていません。",
+          "source": "The Jerusalem Post"
+        }
+      ]
     }
   ]
 }

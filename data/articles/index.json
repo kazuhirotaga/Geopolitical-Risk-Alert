@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-13",
+    "summary": "中東情勢が極めて不安定。イランとアメリカの対立激化に加え、イスラエルとレバノンの衝突も深刻化。ウクライナ情勢も停戦の見通し立たず。グローバルサプライチェーンへの影響が懸念される。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "high",
+      "southeast_asia": "none",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "high",
+      "north_america": "high",
+      "south_america": "medium"
+    },
+    "generated_at": "2026-05-13T03:45:41.020006"
+  },
+  {
     "date": "2026-05-12",
     "summary": "世界各地で地政学的緊張が高まっている。特に米中間のイラン情勢を巡る対立、ロシア・ウクライナ間の戦闘継続、中東におけるイスラエルと周辺国の緊張が深刻。エネルギー価格高騰とインフレも懸念される。",
     "overall_risk_level": "high",
