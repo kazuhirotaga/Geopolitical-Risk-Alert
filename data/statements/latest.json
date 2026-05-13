@@ -1,37 +1,35 @@
 {
   "date": "2026-05-13",
-  "summary": "本日は、FRB関連の発表が中心。金融機関に対する規制関連の動きが見られるが、市場への直接的な影響は限定的と考えられる。今後の金融政策の方向性を示唆するような発言は見当たらない。",
+  "summary": "本日は、FRB関連の発表が中心。金融機関に対する執行措置の終了と、関連申請の承認に関する発表がありましたが、市場を大きく動かすような要人発言は確認できませんでした。",
   "statements": [
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "F & M Holding Company, Inc. および Thread Bancorp, Inc. に対する執行措置の終了を発表します。",
+      "speaker": "Federal Reserve Board",
+      "title": "米連邦準備制度理事会",
+      "quote": "F & M Holding Company, Inc. and Thread Bancorp, Inc.に対する執行措置を終了する",
       "context": "FRBのプレスリリース",
-      "analysis": "これは、これらの金融機関がFRBの要求する基準を満たしたことを示唆する。金融機関の健全性に対するFRBの監視体制が機能していることを示す事例として捉えられる。ただし、個別の金融機関に関する措置であり、市場全体への影響は小さい。",
+      "analysis": "F & M Holding Company, Inc.とThread Bancorp, Inc.に対する執行措置の終了は、これらの金融機関の健全性が一定水準に達したことを示唆する。しかし、個別の金融機関に関する措置であり、市場全体への影響は限定的と考えられる。",
       "importance": "low",
       "tags": [
         "金融規制",
-        "金融機関",
-        "FRB"
+        "金融機関"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm"
     },
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "Columbia Bank MHC, および Columbia Financial, Inc. による関連申請を承認します。",
+      "speaker": "Federal Reserve Board",
+      "title": "米連邦準備制度理事会",
+      "quote": "Columbia Bank MHC, and Columbia Financial, Inc.による関連申請を承認する",
       "context": "FRBのプレスリリース",
-      "analysis": "これは、Columbia Bank MHCとColumbia Financial, Inc.の合併または事業拡大に関連する申請がFRBによって承認されたことを意味する。地域金融機関の再編が進む可能性を示唆するが、現時点では限定的な影響にとどまるだろう。",
+      "analysis": "Columbia Bank MHCとColumbia Financial, Inc.による関連申請の承認は、これらの金融機関の事業拡大や再編を可能にする。しかし、個別の金融機関に関する承認であり、市場全体への影響は限定的と考えられる。",
       "importance": "low",
       "tags": [
-        "金融機関",
-        "合併",
-        "FRB"
+        "金融規制",
+        "金融機関"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm"
     }
   ],
-  "generated_at": "2026-05-13T03:46:14.140388",
+  "generated_at": "2026-05-13T08:50:32.499829",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
