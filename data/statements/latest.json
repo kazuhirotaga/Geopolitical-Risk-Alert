@@ -1,35 +1,35 @@
 {
   "date": "2026-05-13",
-  "summary": "本日は、FRB関連の発表が中心。金融機関に対する執行措置の終了と、関連申請の承認に関する発表がありましたが、市場を大きく動かすような要人発言は確認できませんでした。",
+  "summary": "本日は、FRB関連の発表が中心。金融機関に対する執行措置の終了と、銀行関連の申請承認に関する発表が行われた。直接的な要人発言は確認できず、市場への直接的な影響は限定的と考えられる。",
   "statements": [
     {
-      "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "F & M Holding Company, Inc. and Thread Bancorp, Inc.に対する執行措置を終了する",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "F & M Holding Company, Inc. および Thread Bancorp, Inc. に対する執行措置を終了することを発表します。",
       "context": "FRBのプレスリリース",
-      "analysis": "F & M Holding Company, Inc.とThread Bancorp, Inc.に対する執行措置の終了は、これらの金融機関の健全性が一定水準に達したことを示唆する。しかし、個別の金融機関に関する措置であり、市場全体への影響は限定的と考えられる。",
+      "analysis": "この発表は、対象となる金融機関がFRBの定める基準を満たし、監督下から解放されることを意味する。個別の金融機関にとってはポジティブなニュースだが、金融市場全体への影響は小さい。",
       "importance": "low",
       "tags": [
         "金融規制",
-        "金融機関"
+        "銀行"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm"
     },
     {
-      "speaker": "Federal Reserve Board",
-      "title": "米連邦準備制度理事会",
-      "quote": "Columbia Bank MHC, and Columbia Financial, Inc.による関連申請を承認する",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "Columbia Bank MHC, および Columbia Financial, Inc. による関連申請を承認することを発表します。",
       "context": "FRBのプレスリリース",
-      "analysis": "Columbia Bank MHCとColumbia Financial, Inc.による関連申請の承認は、これらの金融機関の事業拡大や再編を可能にする。しかし、個別の金融機関に関する承認であり、市場全体への影響は限定的と考えられる。",
+      "analysis": "銀行の合併・買収、または組織再編に関連する申請の承認と考えられる。個別の金融機関の戦略に関わるものであり、金融市場全体への影響は限定的。",
       "importance": "low",
       "tags": [
-        "金融規制",
-        "金融機関"
+        "銀行",
+        "M&A"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm"
     }
   ],
-  "generated_at": "2026-05-13T08:50:32.499829",
+  "generated_at": "2026-05-13T11:33:40.584927",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

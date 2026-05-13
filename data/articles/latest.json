@@ -1,18 +1,19 @@
 {
   "date": "2026-05-13",
-  "summary": "中東、ウクライナ情勢緊迫化。米中首脳会談が開催されるも、イラン戦争、台湾問題など懸念材料は多い。世界経済の減速、人道危機も深刻化しており、地政学リスクは高い水準にある。",
+  "summary": "中東、ウクライナ情勢緊迫化。米中首脳会談を控え、イラン情勢、台湾問題、貿易摩擦が焦点。ロシアは新型ミサイル実験を実施。世界各地で紛争、政情不安、経済危機が複合的に発生し、地政学リスクは高い。",
   "overall_risk_level": "high",
   "articles": [
     {
       "title": "イラン革命防衛隊 “ホルムズ海峡の作戦上の境界 大幅に拡大”",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イラン革命防衛隊がホルムズ海峡の作戦境界を拡大。米イラン間の緊張緩和が見込めず、軍事衝突の可能性が高まっている。",
-      "analysis": "ホルムズ海峡は世界の原油輸送の要であり、イランの行動は原油価格の高騰を招き、世界経済に深刻な影響を与える可能性がある。アメリカが軍事行動を検討しているとの報道もあり、偶発的な衝突のリスクも高まっている。今後の両国の交渉の行方が注目される。",
+      "risk_level": "critical",
+      "summary": "イラン革命防衛隊がホルムズ海峡の作戦境界を拡大。米イラン間の緊張が継続し、トランプ大統領は軍事行動を検討。原油価格高騰、世界経済への影響が懸念される。",
+      "analysis": "ホルムズ海峡は世界の原油輸送の要であり、イランの行動は国際的なエネルギー市場に大きな影響を与える。アメリカとの対立激化は、偶発的な軍事衝突のリスクを高め、地域全体を不安定化させる可能性がある。米中首脳会談でイラン問題が議題となる見込みだが、両国の利害が対立しており、事態打開は困難と予想される。",
       "key_entities": [
         "イラン革命防衛隊",
         "アメリカ",
-        "トランプ大統領"
+        "トランプ大統領",
+        "ホルムズ海峡"
       ],
       "sources": [
         "NHK World"
@@ -24,13 +25,14 @@
     {
       "title": "【随時更新】ロシア ウクライナに軍事侵攻（5月13日の動き）",
       "region": "europe",
-      "risk_level": "high",
-      "summary": "ロシアによるウクライナへの軍事侵攻が継続。戦闘が激化し、多数の避難民が発生している。",
-      "analysis": "ロシアとウクライナの戦闘は長期化しており、停戦の見通しは立っていない。欧米諸国による対ロシア制裁は強化されているが、ロシア経済への影響は限定的。ウクライナ国内の人道状況は悪化の一途をたどっており、国際社会による支援が不可欠である。",
+      "risk_level": "critical",
+      "summary": "ロシアによるウクライナへの軍事侵攻が継続。各地で戦闘が激化し、市民の避難が続く。停戦の見通しは立たず、人道危機が深刻化している。",
+      "analysis": "ロシアのウクライナ侵攻は長期化しており、国際社会の分断を深めている。ロシアは新型ミサイルの実験を実施し、西側諸国への牽制を強めている。ウクライナへの軍事支援を巡り、米欧間の意見の相違も表面化しており、事態の収束は困難と予想される。日本を含む各国へのエネルギー供給不安も継続。",
       "key_entities": [
         "ロシア",
         "ウクライナ",
-        "ゼレンスキー大統領"
+        "ゼレンスキー大統領",
+        "プーチン大統領"
       ],
       "sources": [
         "NHK World"
@@ -43,11 +45,11 @@
       "title": "北朝鮮 キム総書記 軍需工場視察で砲弾など生産効率向上を指示",
       "region": "east_asia",
       "risk_level": "medium",
-      "summary": "北朝鮮が軍需工場の視察を行い、砲弾などの生産効率向上を指示。ロシアへの輸出を念頭に置いている可能性がある。",
-      "analysis": "北朝鮮がロシアへの武器輸出を強化すれば、ウクライナ情勢をさらに不安定化させる恐れがある。また、北朝鮮の核・ミサイル開発に対する国際的な制裁の効果を弱める可能性もある。今後の北朝鮮の動向を注視する必要がある。",
+      "summary": "北朝鮮の金正恩総書記が軍需工場を視察し、生産効率向上を指示。ロシアへの砲弾輸出を念頭に量産体制を構築する狙いと見られる。",
+      "analysis": "北朝鮮の軍事力増強は、東アジア地域の安全保障環境を悪化させる。ロシアへの砲弾輸出は、ウクライナ侵攻を支援する行為であり、国際的な非難を浴びる可能性がある。米中首脳会談で北朝鮮問題が議題となる可能性もあるが、両国の利害が対立しており、具体的な解決策は見出しにくいと予想される。",
       "key_entities": [
         "北朝鮮",
-        "キム・ジョンウン総書記",
+        "金正恩",
         "ロシア"
       ],
       "sources": [
@@ -58,104 +60,30 @@
       ]
     },
     {
-      "title": "China’s Xi expected to press Trump on Taiwan, tariffs during summit",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "米中首脳会談で、中国の習近平国家主席が台湾への武器売却と関税についてトランプ大統領に譲歩を迫ると予想される。",
-      "analysis": "米中間の対立は、貿易、台湾、人権など多岐にわたる。今回の首脳会談で両国がどこまで合意できるかは不透明であり、今後の米中関係は依然として不安定な状況が続くと予想される。台湾海峡の緊張も高まる可能性がある。",
-      "key_entities": [
-        "中国",
-        "習近平国家主席",
-        "アメリカ",
-        "トランプ大統領",
-        "台湾"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
       "title": "Trump and Xi to meet in Beijing: The key issues shaping the China summit",
       "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "米中首脳会談では、貿易、台湾、イラン戦争が主要な議題となる。",
-      "analysis": "米中関係は、世界経済と安全保障に大きな影響を与える。今回の首脳会談の結果は、今後の国際情勢を大きく左右する可能性がある。特にイラン戦争を巡る両国の立場は異なっており、対立が深まる可能性もある。",
-      "key_entities": [
-        "アメリカ",
-        "トランプ大統領",
-        "中国",
-        "習近平国家主席",
-        "イラン"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Putin hails Russia’s test launch of ‘most powerful missile in the world’",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "ロシアのプーチン大統領が、核弾頭搭載可能な新型大陸間弾道ミサイル「サルマト」の発射実験成功を誇示。",
-      "analysis": "ロシアによる新型ミサイルの開発は、核抑止力の強化を目的としたものと考えられる。ウクライナ侵攻を背景に、欧米諸国に対する牽制の意味合いも強い。軍拡競争を激化させる可能性があり、国際的な安全保障環境への影響が懸念される。",
-      "key_entities": [
-        "ロシア",
-        "プーチン大統領"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Mexico, CIA reject report of US assassination campaign against cartels",
-      "region": "north_america",
-      "risk_level": "medium",
-      "summary": "メキシコとCIAが、アメリカによる麻薬カルテルに対する暗殺作戦の報道を否定。",
-      "analysis": "報道の真偽は不明だが、もし事実であれば、メキシコの主権侵害にあたり、米墨関係を悪化させる可能性がある。麻薬カルテルによる暴力は深刻化しており、地域全体の治安を脅かしている。",
-      "key_entities": [
-        "メキシコ",
-        "アメリカ",
-        "CIA"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz de-escalation is urgent, says UN chief",
-      "region": "middle_east",
       "risk_level": "high",
-      "summary": "国連事務総長がホルムズ海峡の緊張緩和を訴え。危機が深刻化し、米イラン間の緊張が解消されない中、原油価格が再び上昇。",
-      "analysis": "ホルムズ海峡の封鎖は、世界のエネルギー市場に大きな影響を与える。特にアフリカをはじめとする発展途上国への影響が懸念される。国際社会は、外交努力を通じて、事態の沈静化を図る必要がある。",
+      "summary": "米中首脳会談で貿易、台湾、イラン戦争が主要議題。両国間の緊張緩和は困難と見られ、世界経済への影響が懸念される。",
+      "analysis": "米中間の対立は、貿易摩擦、台湾問題、イラン情勢など多岐にわたる。首脳会談でこれらの問題について意見交換が行われると予想されるが、両国の根本的な立場の違いから、具体的な合意に至る可能性は低い。米中関係の悪化は、世界経済の成長を阻害し、国際社会の安定を損なう可能性がある。",
       "key_entities": [
-        "国連",
-        "イラン",
-        "アメリカ"
+        "アメリカ",
+        "中国",
+        "トランプ大統領",
+        "習近平国家主席"
       ],
       "sources": [
-        "国連ニュース"
+        "Al Jazeera"
       ],
       "source_types": [
-        "international_org"
+        "media"
       ]
     },
     {
       "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
       "region": "africa",
       "risk_level": "medium",
-      "summary": "ガーナ政府が、南アフリカでの外国人排斥運動の高まりを受け、自国民300人を避難させる。",
-      "analysis": "南アフリカにおける外国人排斥運動は、経済状況の悪化や貧困、失業問題などが背景にある。同様の事態は、他のアフリカ諸国でも発生する可能性があり、地域全体の不安定化につながる恐れがある。",
+      "summary": "南アフリカで外国人排斥運動が激化し、ガーナ政府が自国民300人を避難させる。アフリカ地域における社会不安が増大している。",
+      "analysis": "南アフリカにおける外国人排斥運動は、経済格差や失業問題が背景にある。同様の社会不安は、他のアフリカ諸国でも発生する可能性があり、地域全体の安定を損なう可能性がある。国際社会は、アフリカ諸国の経済発展を支援し、社会格差の是正に取り組む必要がある。",
       "key_entities": [
         "ガーナ",
         "南アフリカ"
@@ -168,11 +96,80 @@
       ]
     },
     {
-      "title": "Argentines protest against Milei’s defunding of public universities",
+      "title": "Putin hails Russia’s test launch of ‘most powerful missile in the world’",
+      "region": "europe",
+      "risk_level": "high",
+      "summary": "ロシアが新型大陸間弾道ミサイル「サルマト」の発射実験に成功。プーチン大統領は「世界最強」と誇示し、核戦力増強を示唆。",
+      "analysis": "ロシアの新型ミサイル開発は、国際的な軍拡競争を加速させる可能性がある。特に、核兵器搭載可能なミサイルの開発は、核戦争のリスクを高める。国際社会は、核軍縮に向けた取り組みを強化し、軍事的な緊張緩和に努める必要がある。",
+      "key_entities": [
+        "ロシア",
+        "プーチン大統領"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "EU ユダヤ人入植者団体などに新たな制裁を科すことで合意",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "EUがヨルダン川西岸のユダヤ人入植者団体に制裁。パレスチナ情勢の不安定化が継続。",
+      "analysis": "EUの制裁は、イスラエルとパレスチナ間の和平交渉を促進する目的がある。しかし、イスラエル政府は入植活動を継続しており、和平実現への道のりは依然として遠い。パレスチナ情勢の不安定化は、中東地域全体の安全保障に影響を与える可能性がある。",
+      "key_entities": [
+        "EU",
+        "イスラエル",
+        "パレスチナ"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Armed drones leading cause of civilian death in Sudan war: UN rights chief",
+      "region": "africa",
+      "risk_level": "high",
+      "summary": "スーダン内戦で、武装ドローンが民間人死亡の主な原因に。国連人権高等弁務官は、ドローン戦争のエスカレートに警鐘。",
+      "analysis": "スーダン内戦は、人道危機を深刻化させている。武装ドローンの使用は、民間人の犠牲を増やし、紛争を長期化させる可能性がある。国際社会は、スーダン内戦の和平に向けた取り組みを強化し、人道支援を拡大する必要がある。",
+      "key_entities": [
+        "スーダン",
+        "国連"
+      ],
+      "sources": [
+        "国連ニュース"
+      ],
+      "source_types": [
+        "international_org"
+      ]
+    },
+    {
+      "title": "Snack giant switches to black and white packaging as Iran war hits ink supplies",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "イラン戦争の影響でインク供給が滞り、スナック菓子メーカーが白黒パッケージに切り替え。ホルムズ海峡封鎖の影響が広範囲に及ぶ。",
+      "analysis": "ホルムズ海峡の封鎖は、エネルギー供給だけでなく、様々な産業に影響を与えている。グローバルサプライチェーンの脆弱性が露呈し、企業はリスク分散の必要性を認識する必要がある。国際社会は、ホルムズ海峡の安定化に向けた外交努力を強化する必要がある。",
+      "key_entities": [
+        "イラン",
+        "ホルムズ海峡"
+      ],
+      "sources": [
+        "BBC - World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Tens of thousands protest in Argentina over Milei university cuts",
       "region": "south_america",
-      "risk_level": "low",
-      "summary": "アルゼンチンで、ミレイ大統領による公立大学への資金削減に抗議するデモが発生。",
-      "analysis": "ミレイ大統領は、財政再建を優先しており、公共サービスの削減を進めている。これに対し、国民の不満が高まっており、政情不安につながる可能性もある。",
+      "risk_level": "medium",
+      "summary": "アルゼンチンでミレイ大統領の大学予算削減に抗議するデモが発生。経済危機と社会不安が深刻化。",
+      "analysis": "アルゼンチンの経済危機は、社会不安を増大させている。ミレイ大統領の緊縮財政政策は、国民の不満を高め、政権の支持率低下につながる可能性がある。国際社会は、アルゼンチンの経済再建を支援し、社会的な安定化に貢献する必要がある。",
       "key_entities": [
         "アルゼンチン",
         "ミレイ大統領"
@@ -186,17 +183,17 @@
     }
   ],
   "region_risk_map": {
-    "east_asia": "medium",
+    "east_asia": "high",
     "southeast_asia": "none",
     "south_asia": "medium",
     "central_asia": "none",
-    "middle_east": "high",
-    "europe": "high",
-    "africa": "medium",
-    "north_america": "medium",
-    "south_america": "low"
+    "middle_east": "critical",
+    "europe": "critical",
+    "africa": "high",
+    "north_america": "high",
+    "south_america": "medium"
   },
-  "generated_at": "2026-05-13T08:50:00.655054",
+  "generated_at": "2026-05-13T11:33:01.872123",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
