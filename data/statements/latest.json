@@ -1,45 +1,58 @@
 {
   "date": "2026-05-14",
-  "summary": "本日は、FRB関連の発表が中心。個別の金融機関に対する規制措置の終了や、申請の承認など、金融システム全体への直接的な影響は限定的と見られる。ただし、家計の経済状況に関する報告書発表は、今後の金融政策に影響を与える可能性がある。",
+  "summary": "本日は、FRB関連のニュースリリースが中心。金融機関の運営や経済状況に関する報告書、および行政措置の終了に関する発表が行われたが、金融政策や経済見通しに関する直接的な要人発言は確認されなかったため、市場への直接的な影響は限定的と考えられる。",
   "statements": [
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "2025年の米国家計の経済的幸福に関する報告書を発表",
-      "context": "FRBによるプレスリリース",
-      "analysis": "この報告書の内容次第で、FRBの金融政策、特に利上げや量的緩和の縮小ペースに影響を与える可能性がある。家計の経済状況が悪化していれば、金融引き締め政策の緩和を迫られる可能性も考えられる。市場は詳細な内容を注視するだろう。",
+      "quote": "金融機関のシニア財務担当者に対する調査結果を公表。割引窓口の運営日数と準備預金残高の管理戦略および慣行に関する見解を調査。",
+      "context": "FRBによる金融機関の運営状況に関する調査結果の公表。",
+      "analysis": "この調査は、金融機関がFRBの金融政策ツールをどのように利用しているかを理解するためのものであり、今後の金融政策の調整に役立つ可能性がある。ただし、現時点では具体的な政策変更を示唆するものではない。",
       "importance": "medium",
       "tags": [
-        "FRB",
         "金融政策",
+        "金融機関",
+        "準備預金"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm"
+    },
+    {
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "2025年の米国家計の経済的幸福度に関する報告書を発表。",
+      "context": "FRBによる米国家計の経済状況に関する年次報告書の公表。",
+      "analysis": "この報告書は、米国の家計の経済状況を包括的に把握するためのものであり、所得、雇用、住宅、教育など、様々な側面から分析されている。FRBは、この報告書を金融政策の判断材料の一つとして活用する可能性がある。",
+      "importance": "medium",
+      "tags": [
+        "経済",
         "家計",
-        "経済状況"
+        "雇用",
+        "所得"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm"
     },
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "F & M Holding Company, Inc. および Thread Bancorp, Inc. に対する執行措置の終了を発表",
-      "context": "FRBによるプレスリリース",
-      "analysis": "個別の金融機関に対する規制措置の終了は、当該機関の経営改善を示すものと考えられる。しかし、金融システム全体への影響は限定的であり、市場への直接的な影響は小さいと予想される。",
+      "quote": "F & M Holding Company, Inc. および Thread Bancorp, Inc. に対する執行措置の終了を発表。",
+      "context": "FRBによる金融機関に対する行政措置の終了に関する発表。",
+      "analysis": "この発表は、対象となる金融機関がFRBの要求事項を遵守し、改善が見られたことを示すものと考えられる。個別の金融機関に関するニュースであり、市場全体への影響は限定的。",
       "importance": "low",
       "tags": [
-        "FRB",
         "金融機関",
-        "規制"
+        "規制",
+        "行政措置"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm"
     },
     {
       "speaker": "連邦準備制度理事会",
       "title": "FRB",
-      "quote": "Columbia Bank MHC, および Columbia Financial, Inc. による関連申請の承認を発表",
-      "context": "FRBによるプレスリリース",
-      "analysis": "金融機関の合併・買収に関連する申請の承認は、業界再編の動きを示す可能性がある。ただし、今回の承認が大規模な再編の始まりを意味するのか、単独の事例に留まるのかは現時点では不明。今後の動向を注視する必要がある。",
+      "quote": "Columbia Bank MHC, および Columbia Financial, Inc. による関連申請を承認。",
+      "context": "FRBによる金融機関の合併・買収に関する申請の承認。",
+      "analysis": "この承認は、金融機関の再編を促進する可能性がある。ただし、個別の金融機関に関するニュースであり、市場全体への影響は限定的。",
       "importance": "low",
       "tags": [
-        "FRB",
         "金融機関",
         "合併",
         "買収"
@@ -47,7 +60,7 @@
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm"
     }
   ],
-  "generated_at": "2026-05-14T11:16:59.166328",
+  "generated_at": "2026-05-14T14:24:15.175014",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

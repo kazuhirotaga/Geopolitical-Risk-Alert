@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-14",
-    "summary": "ウクライナ情勢の悪化、米中間の緊張、イランを巡る中東情勢の不安定化が複合的に影響し、地政学リスクは高い水準で推移。特にイラン情勢は世界経済への影響も懸念される。",
+    "summary": "米中首脳会談で台湾問題が緊張を高める一方、ウクライナではロシア軍の攻撃が激化。中東ではイランを巡る緊張が継続し、世界的な食糧危機への懸念も高まっている。地政学リスクは全体的に高い水準。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
       "southeast_asia": "none",
-      "south_asia": "medium",
+      "south_asia": "low",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
+      "europe": "critical",
       "africa": "medium",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-14T11:16:21.188385"
+    "generated_at": "2026-05-14T14:23:46.154359"
   },
   {
     "date": "2026-05-13",

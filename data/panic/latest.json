@@ -1,121 +1,178 @@
 {
   "date": "2026-05-14",
-  "summary": "世界各地でエネルギー不足が深刻化し、特にディーゼル燃料の供給逼迫は複数の国でトラック輸送網の麻痺や燃料販売制限、パニック買いの懸念を招いています。キューバでは国家規模でのディーゼル枯渇が経済危機を引き起こしており、南アジアでも燃料不足による社会不安が顕著です。また、特定の地域では大規模な銀行破綻が報じられ、金融システムへの不信感と潜在的なパニックが警戒されます。一部地域では、資源不足や社会政治的緊張による小規模な抗議活動も散見されるものの、全体としてはエネルギーと金融の脆弱性が社会不安の主要なドライバーとなっています。",
-  "global_panic_index": 63,
+  "summary": "世界全体では、一部の地域でエネルギー不足と社会不安が顕著に高まっています。特にインドとキューバではディーゼル燃料の深刻な不足が経済活動と住民生活に直接的な影響を及ぼしており、中東地域では地政学的緊張と金融機関の労働争議が同時進行しています。北米でも食料供給に関する不安が散見されます。現時点では略奪や大規模な無秩序な逃避といった極度のパニックは観察されていませんが、特定地域での資源不足と社会の分断が深刻化しており、広範な警戒が必要な状況です。",
+  "global_panic_index": 55,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 40,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "社会政治的緊張",
+      "main_cause": "Food scarcity, Resource shortages, Minor social unrest",
       "incidents": [
         {
-          "title": "保守系インフルエンサーが反ICEデモから排除される",
-          "location": "米国ミネアポリス",
-          "severity": 40,
-          "description": "ミネアポリスでの反ICE（移民税関執行局）抗議デモ中に、保守系インフルエンサーが現場から強制的に排除された事象。小規模な社会的分裂と緊張を示す。",
+          "title": "Food distribution event draws long lines, food runs out",
+          "location": "Baldwin Park, California, US",
+          "severity": 65,
+          "description": "カリフォルニア州の食料配布イベントで長蛇の列ができ、食料が不足して一部の人々が受け取れずに帰されました。インフレによる食料不安の高まりを示唆しています。",
+          "source": "ABC7 Los Angeles"
+        },
+        {
+          "title": "LA County food distribution event sees long lines due to inflation",
+          "location": "Los Angeles County, US",
+          "severity": 65,
+          "description": "LA郡の食料配布イベントでインフレの影響により長蛇の列ができ、食料が尽きて多くの人が受け取れませんでした。経済的な不安が直接的な生活困窮に繋がっています。",
+          "source": "ABC News"
+        },
+        {
+          "title": "Officials bank on recharge as pockets of city run out of water",
+          "location": "US (specific city not mentioned)",
+          "severity": 60,
+          "description": "米国内のいくつかの都市で水不足が発生し、当局は再充電と再利用に頼っています。基本的な生活資源の不足は住民の不安を高める可能性があります。",
+          "source": "MSN"
+        },
+        {
+          "title": "Anti-ICE Protest in Minneapolis",
+          "location": "Minneapolis, US",
+          "severity": 30,
+          "description": "ミネアポリスで反ICE（移民・関税執行局）抗議デモが発生し、保守系インフルエンサーが排除される事態がありました。小規模な社会的分断の兆候です。",
           "source": "Fathom Journal"
+        },
+        {
+          "title": "Diesel shortage strands truckers",
+          "location": "US (context suggests domestic impact)",
+          "severity": 70,
+          "description": "湾岸戦争が燃料供給に影響を与え、ディーゼル不足によりトラック運転手が立ち往生しています。物流への影響は広範囲に及び、経済活動に支障をきたす恐れがあります。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "europe",
       "panic_index": 20,
-      "status": "stable",
-      "main_cause": "なし",
-      "incidents": []
+      "status": "normal",
+      "main_cause": "None significant",
+      "incidents": [
+        {
+          "title": "Public transport bank card project €41m over budget",
+          "location": "Ireland",
+          "severity": 10,
+          "description": "アイルランドの公共交通機関での銀行カード利用プロジェクトが、予算を4,100万ユーロ超過する見込みです。直接的な社会パニックの兆候ではありません。",
+          "source": "The Irish Times"
+        },
+        {
+          "title": "French central bank succession fight",
+          "location": "France",
+          "severity": 10,
+          "description": "フランスの中央銀行総裁の後任を巡る争いがマクロン大統領の権力に影響を与えるとの報道。政治的な動きであり、市民生活への直接的なパニックには繋がっていません。",
+          "source": "The Straits Times"
+        }
+      ]
     },
     {
       "region": "east_asia",
-      "panic_index": 20,
-      "status": "stable",
-      "main_cause": "なし",
-      "incidents": []
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "None significant",
+      "incidents": [
+        {
+          "title": "KB Kookmin Bank Revamps 'Dallija' Service",
+          "location": "South Korea",
+          "severity": 5,
+          "description": "韓国のKB国民銀行が「Dallija」サービスを刷新。顧客の利便性向上を目指すものであり、社会不安とは無関係です。",
+          "source": "아시아경제"
+        },
+        {
+          "title": "FSC approves IBK exception",
+          "location": "South Korea",
+          "severity": 5,
+          "description": "韓国の金融委員会がIBK（中小企業銀行）の例外承認を行い、未払い手当830億ウォンの支払いを許可しました。金融システムの安定性に関わる決定ですが、パニックではありません。",
+          "source": "CHOSUNBIZ"
+        }
+      ]
     },
     {
       "region": "middle_east",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "労使紛争",
+      "panic_index": 60,
+      "status": "volatile",
+      "main_cause": "Geopolitical tension, Labor unrest in financial sector",
       "incidents": [
         {
-          "title": "Hapoalim銀行の8000人の従業員がストライキ",
-          "location": "イスラエル",
-          "severity": 50,
-          "description": "イスラエルでHapoalim銀行の8000人の従業員が「経営陣の隔絶」に抗議しストライキを実施。銀行サービスの一部機能不全や顧客への影響が懸念される。",
+          "title": "8,000 Bank Hapoalim employees to strike",
+          "location": "Israel",
+          "severity": 60,
+          "description": "イスラエルで8,000人のバンク・ハポアリム従業員が銀行経営陣に抗議してストライキを行う予定です。主要銀行の機能停止は金融不安を招く可能性があります。",
           "source": "חרדים10"
+        },
+        {
+          "title": "Palestinian man shot dead climbing West Bank barrier",
+          "location": "West Bank, Israel",
+          "severity": 75,
+          "description": "パレスチナ人男性が職を求めて西岸地区の障壁を越えようとして射殺されました。この地域での高い緊張と、人々の絶望的な状況を示しています。",
+          "source": "ClickOnDetroit | WDIV Local 4"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "広範な社会不安",
-      "incidents": [
-        {
-          "title": "ナイジェリア・南アフリカ商工会議所が社会不安の中で冷静さを呼びかけ",
-          "location": "ナイジェリア・南アフリカ",
-          "severity": 65,
-          "description": "ナイジェリアと南アフリカのビジネス界が、具体的な内容は不明ながら「unrest（不安）」が広がる中で、冷静さと協力深化を促している。広範な社会緊張が存在する可能性が高い。",
-          "source": "Business News Nigeria"
-        }
-      ]
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "No significant incidents reported",
+      "incidents": []
     },
     {
       "region": "south_america",
       "panic_index": 85,
       "status": "critical",
-      "main_cause": "エネルギー不足",
+      "main_cause": "Severe energy shortage",
       "incidents": [
         {
-          "title": "キューバでディーゼル燃料が枯渇し、経済に深刻な影響",
-          "location": "キューバ",
+          "title": "Cuba has run out of diesel fuel",
+          "location": "Cuba",
           "severity": 85,
-          "description": "キューバでディーゼル燃料が完全に枯渇したと報じられ、国家経済全体への深刻な影響が懸念されている。社会インフラのマヒや広範な供給網の停止につながる恐れがある。",
+          "description": "キューバがディーゼル燃料を使い果たしました。これは国の経済全体に壊滅的な影響を与え、社会インフラの麻痺や広範なパニックを引き起こす可能性があります。",
           "source": "TradingView"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 20,
-      "status": "stable",
-      "main_cause": "なし",
-      "incidents": []
-    },
-    {
-      "region": "south_asia",
       "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "エネルギー不足",
+      "status": "critical",
+      "main_cause": "Severe energy shortage, Widespread labor unrest",
       "incidents": [
         {
-          "title": "インドのディーゼル不足が貨物輸送網を麻痺させ、燃料ポンプが枯渇",
-          "location": "インド",
+          "title": "Diesel shortage hitting India's freight network",
+          "location": "India (national)",
           "severity": 80,
-          "description": "インド全体でディーゼル不足が貨物輸送網に深刻な影響を与え、燃料ポンプが枯渇しトラックが80kmも燃料を求めて列をなす事態が発生。社会経済活動への広範な影響とパニック買いの兆候が見られる。",
+          "description": "インドでディーゼル不足が深刻化し、トラック運転手が80kmも燃料を探し、燃料ポンプが枯渇しています。国の物流ネットワークに甚大な影響を与え、経済活動を停滞させています。",
           "source": "MSN"
         },
         {
-          "title": "インド、ケララ州でディーゼル不足により燃料販売制限、トラック運転手が立ち往生",
-          "location": "インド、ケララ州",
+          "title": "Diesel shortage strands truckers as Kerala limits fuel sales",
+          "location": "Kerala, India",
           "severity": 75,
-          "description": "インドのケララ州でディーゼル不足が深刻化し、燃料販売が制限されている。多くのトラック運転手が立ち往生しており、供給網の混乱と市民生活への直接的な影響が懸念される。",
+          "description": "インドのケララ州でディーゼル不足によりトラック運転手が立ち往生し、燃料販売が制限されています。地域経済と住民生活への影響が深刻化しています。",
           "source": "MSN"
         },
         {
-          "title": "インド、プネの燃料販売協会がパニック買いをしないよう呼びかけ",
-          "location": "インド、プネ",
+          "title": "Noida labour unrest: Police invokes NSA against activists",
+          "location": "Noida, India",
           "severity": 70,
-          "description": "インドのプネで燃料不足はないと当局が発表し、市民に対しパニック買いをしないよう呼びかけている。この呼びかけ自体が、燃料不足への不安と買いだめの懸念が広まっている状況を示唆する。",
-          "source": "Hindustan Times"
+          "description": "インドのノイダで労働不安が続き、警察がジャーナリストと活動家に対して国家安全保障法を適用しました。労働争議の深刻化と政府の強硬姿勢は社会不安を拡大させています。",
+          "source": "National Herald"
         },
         {
-          "title": "インド、トリプラ州で教員不足に対する保護者の抗議デモ",
-          "location": "インド、トリプラ州",
-          "severity": 35,
-          "description": "トリプラ州の学校で教員不足に対し保護者が抗議デモを行ったが、行政当局の保証により状況は沈静化した。小規模な不満表明に留まる。",
+          "title": "Trade unions protest labour codes, accuse govt of repression",
+          "location": "India (national)",
+          "severity": 65,
+          "description": "インドの労働組合が新たな労働法に抗議し、政府を抑圧的であると非難しています。全国規模での労働不安と社会的な緊張が高まっています。",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Parents Protest Over Teacher Shortage",
+          "location": "Tripura, India",
+          "severity": 50,
+          "description": "インドのトリプラ州の学校で教師不足に対し、保護者が抗議デモを実施しました。教育環境への不安は住民の間で社会的な不満を引き起こしています。",
           "source": "TRIPURA STAR NEWS"
         }
       ]
