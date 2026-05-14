@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-14",
-    "summary": "ウクライナでの停戦合意にも関わらず戦闘継続。イランを巡り米イラン間で軍事衝突が発生。バルト海ではウクライナのドローン攻撃も発生。米国はイランとの戦争費用として追加資金を要求。",
+    "summary": "ウクライナでの戦闘継続、米イラン間の緊張激化、米軍関係者の事故、多国籍軍事演習の実施など、地政学的リスクが高まっている状況。",
     "events": [
       {
         "id": "EVENT_001",
@@ -37,6 +37,106 @@
         "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/11/ukraine-and-russia-fight-on-despite-us-mediated-ceasefire/"
       },
       {
+        "id": "EVENT_006",
+        "timestamp": "2026-05-11",
+        "location": "ルソン海峡",
+        "region": "east_asia",
+        "title": "バリカタン演習でアメリカとパートナー国が標的艦を撃沈",
+        "content": "バリカタン演習でアメリカ、フィリピン、日本、カナダの軍が、陸海空プラットフォームから共同で標的艦2隻を撃沈する訓練を実施。",
+        "involved_parties": [
+          "アメリカ軍",
+          "フィリピン軍",
+          "自衛隊",
+          "カナダ軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/05/11/us-partner-nations-sink-two-decommissioned-ships-during-exercise-balikatan/"
+      },
+      {
+        "id": "AP2026051101",
+        "timestamp": "2026-05-11",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "バリカタン演習で、米国および同盟国が退役艦を撃沈",
+        "content": "米国、フィリピン、日本、カナダの軍隊が、陸、海、空のプラットフォームを使用して、2日間の攻撃で2隻の艦艇を沈めた。",
+        "involved_parties": [
+          "米軍",
+          "フィリピン軍",
+          "自衛隊",
+          "カナダ軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/05/11/us-partner-nations-sink-two-decommissioned-ships-during-exercise-balikatan/"
+      },
+      {
+        "id": "EU2026051102",
+        "timestamp": "2026-05-11",
+        "location": "ラトビア",
+        "region": "europe",
+        "title": "ウクライナのドローン攻撃がバルト海の燃料貯蔵施設に着弾",
+        "content": "ウクライナのドローンが、ロシアの妨害により標的から逸れ、バルト三国にある燃料貯蔵施設に着弾。これにより、ラトビアで高官が辞任した。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/11/ukrainian-drone-strike-on-empty-baltic-fuel-depot-prompts-top-level-resignation-in-latvia/"
+      },
+      {
+        "id": "EVENT_007",
+        "timestamp": "2026-05-10",
+        "location": "オーストリア上空",
+        "region": "europe",
+        "title": "オーストリア軍機がアメリカ軍機を相次いで迎撃",
+        "content": "オーストリア軍機が、ドイツ国境から60km以上離れたオーバーエスターライヒ州トートス・ゲビルゲ山地上空で、許可を得ていないアメリカ軍機を2日連続で迎撃。",
+        "involved_parties": [
+          "アメリカ軍",
+          "オーストリア軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/13/austrian-jets-intercept-unauthorized-us-military-planes-two-days-in-a-row/"
+      },
+      {
+        "id": "EU2026051001",
+        "timestamp": "2026-05-10",
+        "location": "オーストリア",
+        "region": "europe",
+        "title": "オーストリア軍のジェット機が米軍機を2日間連続で迎撃",
+        "content": "5月10日、オーストリア上オーストリア州のトート・ゲビルゲ山脈上空で米軍機が迎撃された。場所はドイツ国境から60キロ以上離れている。",
+        "involved_parties": [
+          "オーストリア軍",
+          "米軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/13/austrian-jets-intercept-unauthorized-us-military-planes-two-days-in-a-row/"
+      },
+      {
+        "id": "EU2026051101",
+        "timestamp": "2026-05-09/2026-05-11",
+        "location": "ウクライナ前線",
+        "region": "europe",
+        "title": "米国の仲介による停戦にも関わらず、ウクライナとロシアの間で戦闘が発生",
+        "content": "ロシアとウクライナは、トランプ大統領が推進する和平交渉の一環として5月9日から11日まで停戦に合意したが、前線では戦闘が報告された。",
+        "involved_parties": [
+          "ロシア軍",
+          "ウクライナ軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/11/ukraine-and-russia-fight-on-despite-us-mediated-ceasefire/"
+      },
+      {
         "id": "EVENT_003",
         "timestamp": "2026-05-08",
         "location": "ホルムズ海峡周辺",
@@ -49,6 +149,22 @@
         ],
         "event_type": "clash",
         "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/08/us-forces-disable-iranian-flagged-tankers-trying-to-cross-blockade/"
+      },
+      {
+        "id": "ME2026050801",
+        "timestamp": "2026-05-08",
+        "location": "ホルムズ海峡周辺",
+        "region": "middle_east",
+        "title": "米軍、イランのタンカーを阻止、イラン軍事施設への攻撃",
+        "content": "米軍は、ホルムズ海峡を通過しようとするイラン籍のタンカーを阻止し、IRGCが発射したミサイルを無効化した。イランの軍事施設に対する攻撃も実施された。",
+        "involved_parties": [
+          "米軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "critical",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/your-navy/2026/05/08/us-forces-disable-iranian-flagged-tankers-trying-to-cross-blockade/"
       },
@@ -85,38 +201,20 @@
         "source_url": "https://www.defensenews.com/global/europe/2026/05/07/dueling-victory-day-ceasefires-for-war-in-ukraine-collapse-almost-immediately/"
       },
       {
-        "id": "EVENT_006",
-        "timestamp": "2026-05-11",
-        "location": "ルソン海峡",
-        "region": "east_asia",
-        "title": "バリカタン演習でアメリカとパートナー国が標的艦を撃沈",
-        "content": "バリカタン演習でアメリカ、フィリピン、日本、カナダの軍が、陸海空プラットフォームから共同で標的艦2隻を撃沈する訓練を実施。",
+        "id": "ME2026050701",
+        "timestamp": "2026-05-07",
+        "location": "ペルシャ湾",
+        "region": "middle_east",
+        "title": "米国とイランが交戦",
+        "content": "イランが米海軍の艦艇3隻に対しミサイルとドローン攻撃を行った後、米軍はイランの軍事施設に対して報復攻撃を実施した。",
         "involved_parties": [
-          "アメリカ軍",
-          "フィリピン軍",
-          "自衛隊",
-          "カナダ軍"
+          "米軍",
+          "イラン軍"
         ],
-        "event_type": "other",
-        "urgency": "low",
+        "event_type": "clash",
+        "urgency": "critical",
         "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/05/11/us-partner-nations-sink-two-decommissioned-ships-during-exercise-balikatan/"
-      },
-      {
-        "id": "EVENT_007",
-        "timestamp": "2026-05-10",
-        "location": "オーストリア上空",
-        "region": "europe",
-        "title": "オーストリア軍機がアメリカ軍機を相次いで迎撃",
-        "content": "オーストリア軍機が、ドイツ国境から60km以上離れたオーバーエスターライヒ州トートス・ゲビルゲ山地上空で、許可を得ていないアメリカ軍機を2日連続で迎撃。",
-        "involved_parties": [
-          "アメリカ軍",
-          "オーストリア軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/05/13/austrian-jets-intercept-unauthorized-us-military-planes-two-days-in-a-row/"
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/07/us-and-iran-exchange-fire-as-trump-says-war-will-be-over-quickly/"
       }
     ]
   },

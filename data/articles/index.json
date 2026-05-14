@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-14",
-    "summary": "ウクライナ情勢は依然として緊迫。キーウへの大規模攻撃で被害拡大。中東ではイランを巡る緊張が継続し、米中首脳会談でも主要議題に。東アジアでは米国のベンチャーキャピタルが日本に拠点を設立へ。",
+    "summary": "ウクライナ情勢の悪化、米中間の緊張、イランを巡る中東情勢の不安定化が複合的に影響し、地政学リスクは高い水準で推移。特にイラン情勢は世界経済への影響も懸念される。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "medium",
+      "east_asia": "high",
       "southeast_asia": "none",
       "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "high",
+      "middle_east": "critical",
       "europe": "high",
       "africa": "medium",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-14T08:43:07.578891"
+    "generated_at": "2026-05-14T11:16:21.188385"
   },
   {
     "date": "2026-05-13",
