@@ -1,16 +1,17 @@
 [
   {
     "date": "2026-05-14",
-    "summary": "世界経済はAI関連投資の活況により株式市場が上昇する一方で、インフレ懸念や地政学的リスクが依然として存在し、暗号資産市場は調整局面を迎えています。特に、米中関係と欧州の政治的変動がリスク要因として注目されます。",
+    "summary": "株式市場はテクノロジー株主導で上昇し、ダウ平均は50,000ドル台を回復。暗号資産市場では規制の進展が見られる一方、ビットコインは伸び悩み。AI関連銘柄への関心が高まり、中国における国産AIチップの開発も進展している。地政学的リスクも依然として存在。",
     "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
       "global": "medium",
-      "north_america": "low",
+      "north_america": "medium",
       "europe": "medium",
-      "east_asia": "high"
+      "east_asia": "medium",
+      "south_america": "high"
     },
-    "generated_at": "2026-05-14T14:24:04.531565"
+    "generated_at": "2026-05-14T17:03:49.075049"
   },
   {
     "date": "2026-05-13",

@@ -1,17 +1,52 @@
 {
   "date": "2026-05-14",
-  "summary": "世界経済はAI関連投資の活況により株式市場が上昇する一方で、インフレ懸念や地政学的リスクが依然として存在し、暗号資産市場は調整局面を迎えています。特に、米中関係と欧州の政治的変動がリスク要因として注目されます。",
+  "summary": "株式市場はテクノロジー株主導で上昇し、ダウ平均は50,000ドル台を回復。暗号資産市場では規制の進展が見られる一方、ビットコインは伸び悩み。AI関連銘柄への関心が高まり、中国における国産AIチップの開発も進展している。地政学的リスクも依然として存在。",
   "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "Cisco shares are surging double digits. Morgan Stanley thinks the stock is still cheap",
+      "title": "Dow surges more than 300 points to retake 50,000 level as Cisco shares jump: Live updates",
       "region": "global",
       "risk_level": "low",
-      "summary": "Cisco株が二桁上昇。モルガン・スタンレーはAI関連の製品受注増加を背景に、株価はまだ割安と評価。",
-      "analysis": "Ciscoの株価上昇は、AI分野への投資拡大を示す好材料です。モルガン・スタンレーの評価は、市場の楽観的な見方を反映していますが、AI関連投資の過熱や競争激化のリスクも考慮する必要があります。今後のCiscoの業績と市場動向を注視すべきです。",
+      "summary": "テクノロジーセクターの好調により、S&P 500とナスダック総合指数が過去最高値を更新。シスコ株が大幅上昇。",
+      "analysis": "テクノロジー株主導の上昇は、AI需要の拡大や企業の好業績が背景にあると考えられる。市場心理は強気だが、金利動向やインフレ指標によっては調整が入る可能性もある。シスコの株価上昇は、AIインフラへの投資拡大を示唆しており、関連セクターへの波及効果が期待される。",
+      "key_entities": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "Cisco"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Crypto industry scores win as Clarity Act regulation bill clears Senate hurdle",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "米上院銀行委員会が、暗号資産に関するClarity Actを15対9で可決。規制の明確化に向けた一歩。",
+      "analysis": "Clarity Actの進展は、暗号資産市場における規制の不確実性を軽減し、機関投資家の参入を促す可能性がある。しかし、法案の内容や最終的な可決には不透明な部分も残るため、今後の動向を注視する必要がある。規制の明確化は、市場の健全な発展に寄与する一方で、新たな規制コストや制約を生む可能性もある。",
+      "key_entities": [
+        "Clarity Act",
+        "Senate Banking Committee",
+        "Bitcoin"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Cisco CEO says tech is entering a 'networking supercycle' as stock pops 15% on strong AI demand",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "シスコCEOは、AI需要の急増により、テクノロジー業界が「ネットワーキングのスーパーサイクル」に入ると発言。株価は15%上昇。",
+      "analysis": "シスコCEOの発言は、AI技術の普及がネットワークインフラへの需要を大幅に押し上げていることを示唆している。これは、シスコだけでなく、関連するネットワーク機器メーカーやデータセンター事業者にとっても追い風となる可能性がある。ただし、需要の急増に対応できる供給体制の構築や、競争激化による価格競争のリスクも考慮する必要がある。",
       "key_entities": [
         "Cisco",
-        "Morgan Stanley",
         "AI"
       ],
       "sources": [
@@ -22,15 +57,16 @@
       ]
     },
     {
-      "title": "Dow surges 300 points to retake 50,000 level as Cisco shares jump: Live updates",
+      "title": "Cerebras prices IPO above expected range, as Wall Street braces for AI tsunami",
       "region": "global",
-      "risk_level": "low",
-      "summary": "テクノロジーセクターのラリーにより、S&P 500とナスダック総合指数が史上最高値を更新。ダウ平均は50,000ドルを回復。",
-      "analysis": "ダウ平均の50,000ドル回復は、市場心理を改善する可能性があります。しかし、テクノロジーセクターへの集中投資は、市場全体のバランスを崩すリスクも孕んでいます。金利動向や経済指標の発表によっては、調整局面に入る可能性も考慮すべきです。",
+      "risk_level": "medium",
+      "summary": "CerebrasのIPO価格が予想レンジを上回り、ウォール街はAI関連企業のIPOラッシュに備えている。",
+      "analysis": "CerebrasのIPO成功は、AI分野への投資家の強い関心を示している。今後、OpenAIやSpaceXなど、他のAI関連企業のIPOも予定されており、市場の資金がAI分野に集中する可能性がある。これは、他のセクターからの資金流出や、AI関連企業のバリュエーションの高騰を招くリスクも孕んでいる。",
       "key_entities": [
-        "Dow Jones",
-        "S&P 500",
-        "Nasdaq Composite"
+        "Cerebras",
+        "OpenAI",
+        "SpaceX",
+        "IPO"
       ],
       "sources": [
         "CNBC - Top News"
@@ -40,34 +76,33 @@
       ]
     },
     {
-      "title": "Oil prices hover around $100 after White House says Trump and Xi discussed Strait of Hormuz",
+      "title": "Chinese companies are ramping up homegrown AI chips, even if Nvidia is coming back",
       "region": "global",
       "risk_level": "medium",
-      "summary": "トランプ大統領と習近平国家主席がホルムズ海峡について協議したことを受け、原油価格は1バレル100ドル前後で推移。",
-      "analysis": "ホルムズ海峡を巡る地政学的リスクは、原油価格に大きな影響を与えます。米中首脳会談の内容次第では、供給不安が再燃し、原油価格が急騰する可能性もあります。エネルギー市場の動向は、インフレや経済成長に影響を与えるため、注意が必要です。",
+      "summary": "中国のテクノロジー企業は、Nvidiaが市場に復帰しても、国産AIチップの開発を加速させている。",
+      "analysis": "中国企業による国産AIチップの開発は、米中間の技術覇権争いを反映している。Nvidiaの市場復帰が遅れる中、中国企業は自立的なサプライチェーン構築を目指している。これは、Nvidiaの収益に影響を与える可能性があるだけでなく、世界の半導体市場の構造変化を促す可能性もある。",
+      "key_entities": [
+        "Nvidia",
+        "China",
+        "AI chips"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Equities advance as Trump meets Xi, oil edges down",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "トランプ大統領と習近平国家主席の会談を受け、株式市場は上昇。原油価格は小幅下落。",
+      "analysis": "米中首脳会談は、貿易摩擦の緩和期待を高め、株式市場に好影響を与えた。しかし、具体的な合意内容が不明なため、今後の交渉次第では市場が再び不安定になる可能性もある。原油価格の下落は、世界経済の減速懸念や供給過剰が背景にあると考えられる。",
       "key_entities": [
         "Trump",
         "Xi Jinping",
-        "ホルムズ海峡",
-        "原油価格"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "3.9% Inflation: Why Recent Data is Pushing 2027 COLA Projections Higher",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "3.9%のインフレ率を受け、2027年の生活費調整（COLA）予測が上方修正される可能性。",
-      "analysis": "インフレ率の上昇は、購買力の低下を招き、消費者のセンチメントを悪化させる可能性があります。FRBの金融政策に影響を与え、金利引き上げを加速させる可能性も考慮すべきです。インフレ動向は、債券市場や株式市場にも影響を与えるため、注視が必要です。",
-      "key_entities": [
-        "インフレ率",
-        "COLA",
-        "FRB"
+        "Oil"
       ],
       "sources": [
         "Yahoo Finance"
@@ -77,68 +112,14 @@
       ]
     },
     {
-      "title": "Why bitcoin’s recent climb to $80,000 might just be a temporary liquidity squeeze",
+      "title": "Bitcoin stuck below $80,000 as leveraged longs unwind, altcoins slide",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインの80,000ドルへの上昇は一時的な流動性逼迫によるものであり、持続可能性に疑問。",
-      "analysis": "ビットコイン価格の急騰は、市場の過熱感を示唆しています。流動性逼迫が解消されれば、価格が大幅に下落する可能性も考慮すべきです。暗号資産市場はボラティリティが高いため、投資には慎重な判断が必要です。",
+      "summary": "ビットコインは80,000ドルを下回り停滞。レバレッジをかけた買いポジションの解消が進み、アルトコインも下落。",
+      "analysis": "ビットコインの伸び悩みは、過去の上昇に対する調整や、レバレッジポジションの解消が影響していると考えられる。アルトコインの下落は、ビットコインの動向に左右される市場の脆弱性を示している。今後の市場動向は、機関投資家の動向や規制の進展に大きく左右されるだろう。",
       "key_entities": [
-        "Bitcoin"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Cerebras prices IPO above expected range, as Wall Street braces for AI tsunami",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "CerebrasのIPO価格が予想レンジを上回り、ウォール街はAI関連投資の活況に期待。",
-      "analysis": "CerebrasのIPO成功は、AI分野への投資意欲の高まりを示しています。しかし、AI関連企業の評価額は高水準にあり、今後の成長が期待に応えられない場合、株価が大幅に下落するリスクも考慮すべきです。",
-      "key_entities": [
-        "Cerebras",
-        "AI"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bond markets brace as UK PM Starmer's political rivals break cover, heath sec. Streeting resigns",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "英国のスターマー首相に対する政治的ライバルが台頭し、保健相が辞任。債券市場は警戒。",
-      "analysis": "英国の政治的混乱は、ポンド安や債券価格の下落を招く可能性があります。政権交代のリスクは、投資家の不安心理を高め、英国経済に悪影響を与える可能性があります。今後の政治情勢の推移を注視すべきです。",
-      "key_entities": [
-        "Starmer",
-        "英国債",
-        "ポンド"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Solana drops 5%, bitcoin below $80,000 as Xi warns Trump on Taiwan conflict",
-      "region": "east_asia",
-      "risk_level": "high",
-      "summary": "習近平国家主席がトランプ大統領に台湾問題で警告したことを受け、ソラナは5%下落、ビットコインは80,000ドルを下回る。",
-      "analysis": "台湾海峡を巡る緊張の高まりは、市場にネガティブな影響を与えます。米中関係の悪化は、貿易摩擦や地政学的リスクを高め、世界経済の成長を阻害する可能性があります。暗号資産市場もリスクオフの動きに影響を受けやすいと考えられます。",
-      "key_entities": [
-        "Solana",
         "Bitcoin",
-        "Xi Jinping",
-        "Trump",
-        "台湾"
+        "Altcoins"
       ],
       "sources": [
         "CoinDesk"
@@ -151,11 +132,28 @@
       "title": "Venezuela embarks on $150 billion restructuring of debt amid political turmoil",
       "region": "south_america",
       "risk_level": "high",
-      "summary": "ベネズエラが政治的混乱の中、1500億ドルの債務再編に着手。",
-      "analysis": "ベネズエラの債務再編は、デフォルトリスクを高め、南米地域の金融市場に悪影響を与える可能性があります。政治的混乱が債務再編の交渉を複雑にし、経済状況をさらに悪化させる可能性も考慮すべきです。",
+      "summary": "ベネズエラが、政治的混乱の中で1500億ドルの債務再編に着手。",
+      "analysis": "ベネズエラの債務再編は、同国の経済状況が極めて深刻であることを示している。政治的混乱が債務再編の実現を困難にする可能性があり、債権者にとっては大きなリスクとなる。また、ベネズエラのデフォルトは、他の新興国にも影響を与える可能性がある。",
       "key_entities": [
-        "ベネズエラ",
-        "債務再編"
+        "Venezuela"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Americans still feel pessimistic about the economy. When will it get better?",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "米国民は依然として経済に対して悲観的。インフレ、戦争、トランプ大統領の関税が原因だと経済学者は指摘。",
+      "analysis": "米国民の経済に対する悲観的な見方は、消費支出の抑制や投資の減少につながる可能性がある。インフレ、戦争、関税といった要因が複合的に影響しており、経済回復には時間がかかる可能性がある。政府の経済政策や地政学的リスクの軽減が、国民の信頼回復に不可欠となる。",
+      "key_entities": [
+        "US Economy",
+        "Inflation",
+        "Trump"
       ],
       "sources": [
         "CNBC - Top News"
@@ -167,14 +165,13 @@
     {
       "title": "Cuba says oil and diesel supplies have run dry under U.S. sanctions",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "キューバが米国の制裁により石油とディーゼルの供給が枯渇したと発表。",
-      "analysis": "キューバのエネルギー危機は、経済活動の停滞や社会不安を引き起こす可能性があります。米国の制裁がキューバ経済に与える影響は大きく、今後の両国関係の動向が注目されます。",
+      "risk_level": "high",
+      "summary": "キューバは、米国の制裁により石油とディーゼルの供給が枯渇したと発表。停電がハバナで抗議行動を引き起こしている。",
+      "analysis": "キューバのエネルギー危機は、経済の混乱と社会不安を招く可能性がある。米国の制裁が長期化すれば、キューバの経済はさらに悪化し、政治的な不安定化を招く恐れもある。国際社会からの支援や、米国の制裁緩和が求められる。",
       "key_entities": [
-        "キューバ",
-        "米国",
-        "制裁",
-        "石油"
+        "Cuba",
+        "US Sanctions",
+        "Oil"
       ],
       "sources": [
         "CNBC - Top News"
@@ -186,11 +183,12 @@
   ],
   "region_risk_map": {
     "global": "medium",
-    "north_america": "low",
+    "north_america": "medium",
     "europe": "medium",
-    "east_asia": "high"
+    "east_asia": "medium",
+    "south_america": "high"
   },
-  "generated_at": "2026-05-14T14:24:04.531565",
+  "generated_at": "2026-05-14T17:03:49.075049",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
