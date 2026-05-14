@@ -1,5 +1,126 @@
 [
   {
+    "date": "2026-05-14",
+    "summary": "ウクライナでの停戦合意にも関わらず戦闘継続。イラン周辺海域では米軍とイラン軍が交戦。バルト海ではウクライナのドローン攻撃が発生。米国はイランとの戦争費用として追加資金を要請。",
+    "events": [
+      {
+        "id": "EVENT_001",
+        "timestamp": "2026-05-11",
+        "location": "バルト海",
+        "region": "europe",
+        "title": "ウクライナのドローンがバルト海の燃料貯蔵施設を攻撃",
+        "content": "ウクライナのドローンがロシアの妨害により、本来の標的から逸れ、バルト海沿岸国の燃料貯蔵施設を攻撃。これにより、ラトビアで高官の辞任が発生。",
+        "involved_parties": [
+          "ウクライナ",
+          "ロシア",
+          "ラトビア"
+        ],
+        "event_type": "bombing",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/11/ukrainian-drone-strike-on-empty-baltic-fuel-depot-prompts-top-level-resignation-in-latvia/"
+      },
+      {
+        "id": "EVENT_002",
+        "timestamp": "2026-05-11",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "米国仲介の停戦合意にも関わらず、ウクライナとロシアが戦闘を継続",
+        "content": "トランプ大統領の仲介による5月9日から11日までの停戦合意にも関わらず、ロシアとウクライナは前線での戦闘を継続。双方とも停戦を遵守せず。",
+        "involved_parties": [
+          "ロシア",
+          "ウクライナ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/11/ukraine-and-russia-fight-on-despite-us-mediated-ceasefire/"
+      },
+      {
+        "id": "EVENT_003",
+        "timestamp": "2026-05-08",
+        "location": "ホルムズ海峡周辺",
+        "region": "middle_east",
+        "title": "米軍がイランのタンカーを無力化、イラン軍施設を攻撃",
+        "content": "ホルムズ海峡周辺で、米軍がイランのタンカーの航行を阻止。イラン革命防衛隊が発射したミサイルを無力化し、イラン軍施設への攻撃を実施。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/08/us-forces-disable-iranian-flagged-tankers-trying-to-cross-blockade/"
+      },
+      {
+        "id": "EVENT_004",
+        "timestamp": "2026-05-07",
+        "location": "ホルムズ海峡周辺",
+        "region": "middle_east",
+        "title": "米軍とイラン軍が交戦",
+        "content": "イランが米海軍艦艇3隻にミサイルとドローンを発射したことを受け、米軍がイラン軍施設に報復攻撃を実施。両軍間で交戦が発生。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/07/us-and-iran-exchange-fire-as-trump-says-war-will-be-over-quickly/"
+      },
+      {
+        "id": "EVENT_005",
+        "timestamp": "2026-05-07",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナにおける勝利の日停戦が即時崩壊",
+        "content": "ナチス・ドイツに対する勝利を記念する「戦勝記念日」を前に、ウクライナとロシア双方が停戦を宣言したものの、ほぼ即座に崩壊し、戦闘が再開。",
+        "involved_parties": [
+          "ロシア",
+          "ウクライナ"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/07/dueling-victory-day-ceasefires-for-war-in-ukraine-collapse-almost-immediately/"
+      },
+      {
+        "id": "EVENT_006",
+        "timestamp": "2026-05-11",
+        "location": "ルソン海峡",
+        "region": "east_asia",
+        "title": "バリカタン演習でアメリカとパートナー国が標的艦を撃沈",
+        "content": "バリカタン演習でアメリカ、フィリピン、日本、カナダの軍が、陸海空プラットフォームから共同で標的艦2隻を撃沈する訓練を実施。",
+        "involved_parties": [
+          "アメリカ軍",
+          "フィリピン軍",
+          "自衛隊",
+          "カナダ軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/05/11/us-partner-nations-sink-two-decommissioned-ships-during-exercise-balikatan/"
+      },
+      {
+        "id": "EVENT_007",
+        "timestamp": "2026-05-10",
+        "location": "オーストリア上空",
+        "region": "europe",
+        "title": "オーストリア軍機がアメリカ軍機を相次いで迎撃",
+        "content": "オーストリア軍機が、ドイツ国境から60km以上離れたオーバーエスターライヒ州トートス・ゲビルゲ山地上空で、許可を得ていないアメリカ軍機を2日連続で迎撃。",
+        "involved_parties": [
+          "アメリカ軍",
+          "オーストリア軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/13/austrian-jets-intercept-unauthorized-us-military-planes-two-days-in-a-row/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-13",
     "summary": "ウクライナでの停戦合意にも関わらず戦闘継続。アメリカとイラン間で交戦。米国はイラン戦争の費用増大に対応。バルト三国は軍備増強を検討。",
     "events": [
@@ -4179,127 +4300,6 @@
         "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/your-military/2026/04/07/trump-says-he-has-agreed-to-two-week-ceasefire-with-iran/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-13",
-    "summary": "ホルムズ海峡で米海軍が封鎖を開始。米イラン間の和平交渉は決裂。ロシアがバルト三国を90日で制圧可能との研究発表。トルコはEU防衛への参加を主張。ウクライナのドローンメーカーがパリを訪問し、共同生産を協議。",
-    "events": [
-      {
-        "id": "event_001",
-        "timestamp": "2026-04-12",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "米国海軍によるホルムズ海峡封鎖",
-        "content": "トランプ大統領の指示により、米国海軍がホルムズ海峡の封鎖を開始。イランへの軍事的圧力を強化し、緊張が高まっている。",
-        "involved_parties": [
-          "アメリカ海軍",
-          "イラン"
-        ],
-        "event_type": "blockade",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
-      },
-      {
-        "id": "event_002",
-        "timestamp": "2026-04-12",
-        "location": "パキスタン",
-        "region": "middle_east",
-        "title": "米イラン和平交渉が決裂",
-        "content": "21時間に及ぶ米国とイランの和平交渉が決裂。双方が相手の責任を非難し、数千人が死亡し、世界経済を混乱させている戦闘の終結は見通せず。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/"
-      },
-      {
-        "id": "event_003",
-        "timestamp": "2026-04-07",
-        "location": "イラン、ハルグ島",
-        "region": "middle_east",
-        "title": "米軍、イランのハルグ島に軍事目標への攻撃",
-        "content": "米軍がイランのハルグ島にある軍事目標を攻撃。JD Vance副大統領は、この攻撃が米国の戦略の変更ではないと述べた。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/07/us-hits-military-targets-on-irans-kharg-island/"
-      },
-      {
-        "id": "event_004",
-        "timestamp": "2026-04-07",
-        "location": "中東地域",
-        "region": "middle_east",
-        "title": "イスラエルと米国によるイランのWMD関連施設への攻撃",
-        "content": "イスラエルと米国がイランのWMD関連施設を攻撃し、イランのWMDプログラムは壊滅的な状態にある。",
-        "involved_parties": [
-          "イスラエル",
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "bombing",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/07/irans-other-would-be-wmd-program-lies-in-ruins-following-strikes-by-israel-and-the-us/"
-      },
-      {
-        "id": "event_005",
-        "timestamp": "2026-04-07",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "ロシアによるイランへのサイバー支援と偵察画像の提供",
-        "content": "ウクライナの情報評価によると、ロシアはイランに対し、米国軍を攻撃するためのサイバー支援とスパイ衛星画像を提供している。",
-        "involved_parties": [
-          "ロシア",
-          "イラン",
-          "アメリカ"
-        ],
-        "event_type": "cyber",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/flashpoints/middle-east/2026/04/07/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/"
-      },
-      {
-        "id": "event_006",
-        "timestamp": "2026-04-07",
-        "location": "アメリカ",
-        "region": "middle_east",
-        "title": "トランプ大統領がイランとの2週間の停戦に合意",
-        "content": "トランプ大統領はイランとの2週間の停戦に合意したと発表。この期間中に最終的な合意が成立することを期待している。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/07/trump-says-he-has-agreed-to-two-week-ceasefire-with-iran/"
-      },
-      {
-        "id": "event_007",
-        "timestamp": "2026-04-09",
-        "location": "北大西洋",
-        "region": "europe",
-        "title": "英国がロシアの潜水艦攻撃を阻止するため軍事展開",
-        "content": "英国は、海底ケーブルへのロシアの潜水艦攻撃を阻止するため、軍隊を展開した。ノルウェーもP-8哨戒機とフリゲート艦を展開。",
-        "involved_parties": [
-          "イギリス軍",
-          "ロシア軍",
-          "ノルウェー軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/"
       }
     ]
   }
