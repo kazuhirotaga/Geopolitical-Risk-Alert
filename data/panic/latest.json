@@ -1,121 +1,92 @@
 {
   "date": "2026-05-14",
-  "summary": "世界各地では、エネルギー供給の不安定化やインフレの進行が社会不安を引き起こしています。特にインドではディーゼル不足による物流混乱やパニック買いが深刻化しており、社会活動への影響が懸念されます。北米ではインフレにより食料支援イベントでの混雑が目立ち、生活困窮が表面化しています。欧州では燃料供給への懸念や政治的緊張が見られるものの、広範なパニックには至っていません。中東でも労働争議が発生しており、一部地域で社会経済的な不安定要素が増大傾向にあります。",
-  "global_panic_index": 48,
+  "summary": "世界全体でみると、社会不安やパニックの状況は地域間で大きな差を見せています。特にインドではディーゼル燃料不足が深刻化し、物流網に影響を与え、燃料ポンプの枯渇や販売制限、労働者デモにおける政府の強硬な対応が社会秩序の緊張を高めています。一方、北米では銀行システムへの潜在的な「取り付け騒ぎリスク」が指摘され、特定の物資不足の噂も散見されますが、大規模なパニックには至っていません。ヨーロッパでは航空燃料不足の懸念が見られますが、全体的には安定した状況を保っており、グローバルなパニック指数は中程度の不安段階に留まっています。",
+  "global_panic_index": 45,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 48,
+      "panic_index": 35,
       "status": "unstable",
-      "main_cause": "食料不安、インフレ、潜在的な金融リスク",
+      "main_cause": "金融不安、一部物資不足の懸念",
       "incidents": [
         {
-          "title": "LA郡での食料配布イベントにおける長蛇の列と供給不足",
-          "location": "アメリカ合衆国、ロサンゼルス",
-          "severity": 75,
-          "description": "インフレの影響で生活が困窮する市民が増加し、ロサンゼルス郡の食料配布イベントには長蛇の列ができ、一部の参加者は食料を受け取れずに帰されました。これは食料不安の深刻化を示唆しています。",
-          "source": "ABC News"
-        },
-        {
-          "title": "米FDICによる2023年の銀行取り付け騒ぎリスク分析",
-          "location": "アメリカ合衆国",
-          "severity": 40,
-          "description": "連邦預金保険公社（FDIC）が2023年に大規模な預金者が取り付け騒ぎのリスクを駆動したと報告。これは過去の出来事の分析ですが、今後の金融システムへの潜在的な脆弱性を示唆しています。",
+          "title": "FDIC: Big depositors drove run risk in 2023",
+          "location": "United States",
+          "severity": 50,
+          "description": "米国で、大手預金者が2023年に銀行の取り付け騒ぎのリスクを増大させたとFDICが報告。金融システムへの潜在的な不安要因が指摘されており、金融機関への信頼に影響を与える可能性を秘めている。",
           "source": "American Banker"
         },
         {
-          "title": "ジェット燃料不足に関する懸念と否定の議論",
-          "location": "アメリカ合衆国",
-          "severity": 30,
-          "description": "ジェット燃料不足の噂が広がる中、プライベートジェットのCEOは、航空会社が利益の出ないフライトをキャンセルするための神話だと主張。情報が錯綜し、一部に不安を引き起こしています。",
+          "title": "The airplane fuel shortage is a myth propagated by airlines",
+          "location": "United States",
+          "severity": 20,
+          "description": "航空燃料不足の噂が広まっているが、航空会社が採算の取れないフライトをキャンセルするために流している神話であると私用ジェットCEOが発言。不安の源は存在するものの、根拠は薄いとされている。",
           "source": "Fortune"
+        },
+        {
+          "title": "Toyota is About to Run Out of Motor Oil",
+          "location": "United States",
+          "severity": 30,
+          "description": "トヨタ車向けのエンジンオイルが間もなく不足するとの懸念が報じられている。特定の製品の供給不安は、消費者心理に軽度の不安を引き起こす可能性がある。",
+          "source": "Autoblog"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 28,
+      "panic_index": 25,
       "status": "stable",
-      "main_cause": "燃料供給への懸念、政治的緊張",
+      "main_cause": "エネルギー供給への潜在的懸念",
       "incidents": [
         {
-          "title": "ジェット燃料不足の可能性に関する懸念",
-          "location": "イギリス",
-          "severity": 40,
-          "description": "ジェット燃料の不足に関する議論が続いており、航空業界や旅行者の一部に潜在的な不安を引き起こしています。現時点では懸念の段階に留まっています。",
+          "title": "Should we be worried about talk of jet fuel shortages?",
+          "location": "United Kingdom",
+          "severity": 25,
+          "description": "英国でジェット燃料不足の話題について懸念すべきかという議論が報じられている。現時点では直接的なパニックではないものの、エネルギー供給に関する潜在的な不安要素として認識されている。",
           "source": "The Times"
-        },
-        {
-          "title": "フランス中央銀行総裁の後継者争いが政治的緊張を引き起こす",
-          "location": "フランス",
-          "severity": 30,
-          "description": "2027年大統領選挙を控え、フランス中央銀行の総裁選を巡る政治的対立がマクロン大統領の権力基盤を試しています。直接的な社会パニックではないが、政治的安定への懸念があります。",
-          "source": "The Straits Times"
-        },
-        {
-          "title": "ハリー王子・メーガン妃の英国帰国計画が王室の『パニック』を引き起こす",
-          "location": "イギリス",
-          "severity": 15,
-          "description": "ハリー王子夫妻の英国帰国計画が「並行する君主制」への懸念から王室内部で「パニック」を引き起こしていると報じられました。これは王室内の政治的な問題であり、広範な社会パニックではありません。",
-          "source": "The Times of India"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 67,
+      "region": "southeast_asia",
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "エネルギー不足（燃料）、社会インフラの混乱、労働不安",
+      "main_cause": "エネルギー不足、労働不安と社会秩序の緊張",
       "incidents": [
         {
-          "title": "インド各地でのディーゼル不足と物流網への打撃",
-          "location": "インド、ケララ州・オリッサ州など",
-          "severity": 85,
-          "description": "インド各地でディーゼル不足が深刻化し、販売制限が実施されています。これによりトラック運転手が立ち往生し、物流網に大きな打撃を与えています。ガソリンスタンドには長蛇の列ができ、一部ではパニック買いも発生しています。",
-          "source": "MSN, Business Standard, Ommcom News"
+          "title": "Diesel shortage hitting India's freight network",
+          "location": "India",
+          "severity": 75,
+          "description": "インドでディーゼル燃料が深刻に不足し、貨物輸送網に大きな打撃を与えている。燃料ポンプが枯渇し、トラックが長距離移動を強いられる状況が発生しており、社会インフラへの影響は大きい。",
+          "source": "MSN"
         },
         {
-          "title": "実際の不足がない中での燃料パニック買いとガソリンスタンドの枯渇",
-          "location": "インド、オリッサ州・ブバネシュワル",
-          "severity": 80,
-          "description": "公式には燃料不足がないにも関わらず、消費者の不安によるパニック買いが発生し、ガソリンスタンドのポンプが枯渇する事態が生じています。情報の錯綜と心理的要因が混乱を増幅させています。",
-          "source": "Business Standard, Ommcom News"
+          "title": "Diesel shortage strands truckers as Kerala limits fuel sales",
+          "location": "Kerala, India",
+          "severity": 75,
+          "description": "インドのケララ州でディーゼル燃料不足によりトラック運転手が立ち往生。州当局が燃料販売を制限しており、物流への影響が深刻化し、地域経済に不安が広がっている。",
+          "source": "MSN"
         },
         {
-          "title": "ノイダの労働者抗議デモと外国資金疑惑",
-          "location": "インド、ノイダ",
-          "severity": 60,
-          "description": "ノイダで発生した労働者による抗議デモの容疑者が外国から1億ルピー以上を受け取っていたと警察が発表。この疑惑は社会不安を増大させ、デモの背景に外部勢力の介入がある可能性を示唆しています。",
-          "source": "Deccan Herald, National Herald, Organiser, Mathrubhumi English, english.punjabkesari.com"
+          "title": "No shortage, yet pumps run dry: Odisha fuel chaos exposes cracks",
+          "location": "Odisha, India",
+          "severity": 65,
+          "description": "インドのオリッサ州で、実際の燃料不足がないにもかかわらず、混乱により燃料ポンプが枯渇する事態が発生。情報の混乱と消費者心理がパニックを引き起こし、供給網の脆弱性が露呈している。",
+          "source": "Business Standard"
         },
         {
-          "title": "政府の金購入停止要請に対する宝石商の抗議",
-          "location": "インド、デラドゥン",
-          "severity": 50,
-          "description": "インド政府の金購入停止要請に対し、デラドゥンの宝石商らが大規模な抗議デモを実施。経済政策が特定の業界に与える影響が大きく、社会的な反発を生み出しています。",
-          "source": "The Times of India"
+          "title": "Noida labour protest accused received over Rs 1 crore from foreign countries",
+          "location": "Noida, India",
+          "severity": 70,
+          "description": "インドのノイダで発生した労働者抗議デモの容疑者が外国から多額の資金を受け取っていた疑いが浮上。デモの背景に外部からの影響が指摘され、社会不安を助長し、治安当局の警戒を高めている。",
+          "source": "Deccan Herald"
         },
         {
-          "title": "教師不足に対する保護者の抗議活動",
-          "location": "インド、サトサンガム",
-          "severity": 45,
-          "description": "学校での教師不足に対し、保護者らが抗議活動を行いました。行政の保証により状況は正常に戻りましたが、教育現場における潜在的な社会不安が示唆されました。",
-          "source": "TRIPURA STAR NEWS"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "労働争議",
-      "incidents": [
-        {
-          "title": "イスラエルの銀行従業員による大規模ストライキ",
-          "location": "イスラエル",
-          "severity": 50,
-          "description": "イスラエル最大の銀行の一つであるハポアリム銀行の従業員8,000人がストライキを実施。「組織の経営陣は孤立している」と批判し、労働条件改善を要求。経済活動への影響が懸念されます。",
-          "source": "חרדים10"
+          "title": "Noida Violence: NSA invoked against Satyam Verma and Aakriti Choudhary over alleged role in labour protest",
+          "location": "Noida, India",
+          "severity": 70,
+          "description": "ノイダの労働者抗議デモを巡り、暴力も示唆される中、ジャーナリストや活動家に国家安全保障法が適用された。社会秩序の維持に向けた政府の厳しい姿勢が緊張を高め、広範な不安を引き起こしている。",
+          "source": "Organiser"
         }
       ]
     }

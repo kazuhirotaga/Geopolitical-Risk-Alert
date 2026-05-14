@@ -1,13 +1,13 @@
 [
   {
     "date": "2026-05-14",
-    "summary": "米中間の台湾を巡る緊張、ウクライナでのロシア軍による大規模攻撃、中東におけるイスラエルとイランの対立激化など、地政学的リスクが高まっている。気候変動による影響も懸念される。",
-    "overall_risk_level": "high",
+    "summary": "ウクライナ情勢の悪化、中東地域の緊張激化、米中対立の深刻化が複合的に絡み合い、世界的な地政学リスクが高まっている。特にホルムズ海峡を巡る情勢は、エネルギー安全保障と食糧安全保障に深刻な影響を与える可能性がある。",
+    "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
-      "southeast_asia": "low",
-      "south_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "critical",
@@ -15,7 +15,7 @@
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-14T19:51:45.661953"
+    "generated_at": "2026-05-14T22:14:11.396950"
   },
   {
     "date": "2026-05-13",
