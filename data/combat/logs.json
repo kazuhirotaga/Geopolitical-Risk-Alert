@@ -1,8 +1,24 @@
 [
   {
     "date": "2026-05-15",
-    "summary": "ウクライナでの停戦合意にも関わらず戦闘継続。フィリピンで日米軍事演習実施、日本がミサイル発射。イスラエルは対イラン戦争を背景にF-35Iの航続距離延長。NATOは地上ロボットの実戦投入を検討。",
+    "summary": "日米比加が参加するバリカタン演習で退役艦艇を撃沈。日本がフィリピンで初のミサイル発射を実施。ウクライナとロシアは停戦合意にも関わらず戦闘継続。イスラエルはイランとの戦争中にF-35Iの航続距離を延長。",
     "events": [
+      {
+        "id": "event_007",
+        "timestamp": "2026-05-15",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "アメリカ海兵隊、フィリピンで離島奪還演習を実施",
+        "content": "アメリカ海兵隊がフィリピンで離島奪還演習を実施。MADIS部隊が実弾射撃の機会を得る。",
+        "involved_parties": [
+          "アメリカ海兵隊",
+          "フィリピン軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/15/us-marines-practice-seizing-remote-islands-in-philippine-exercise/"
+      },
       {
         "id": "combat_event_1",
         "timestamp": "2026-05-14",
@@ -34,6 +50,54 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/mideast-africa/2026/05/14/israel-to-extend-f-35i-range-amid-war-with-iran/"
+      },
+      {
+        "id": "event_001",
+        "timestamp": "2026-05-14",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "日本、フィリピンで初のミサイル発射",
+        "content": "日本がフィリピン国内から初のミサイル発射を実施。88式地対艦ミサイルが約75km先の標的（第二次世界大戦時の掃海艇）に命中。",
+        "involved_parties": [
+          "日本",
+          "フィリピン"
+        ],
+        "event_type": "attack",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/14/japan-fires-first-ever-missiles-from-philippine-soil/"
+      },
+      {
+        "id": "event_004",
+        "timestamp": "2026-05-14",
+        "location": "イスラエル",
+        "region": "middle_east",
+        "title": "イスラエル、イランとの戦争中にF-35Iの航続距離を延長",
+        "content": "イスラエルはイランとの戦争中にF-35I戦闘機の航続距離を延長するため、Elbit Systemsに3400万ドルの開発契約を授与。",
+        "involved_parties": [
+          "イスラエル",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/05/14/israel-to-extend-f-35i-range-amid-war-with-iran/"
+      },
+      {
+        "id": "event_006",
+        "timestamp": "2026-05-13",
+        "location": "オーストリア",
+        "region": "europe",
+        "title": "オーストリア空軍がアメリカ軍機を迎撃",
+        "content": "オーストリア空軍が、２日連続で領空侵犯したアメリカ軍機を迎撃。5月10日の迎撃は、ドイツ国境から60km以上離れたオーバーエステライヒ州のTotes Gebirge山地上空で発生。",
+        "involved_parties": [
+          "オーストリア軍",
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/13/austrian-jets-intercept-unauthorized-us-military-planes-two-days-in-a-row/"
       },
       {
         "id": "combat_event_3",
@@ -68,22 +132,6 @@
         "source_url": "https://www.defensenews.com/global/europe/2026/05/11/ukrainian-drone-strike-on-empty-baltic-fuel-depot-prompts-top-level-resignation-in-latvia/"
       },
       {
-        "id": "combat_event_5",
-        "timestamp": "2026-05-08",
-        "location": "ホルムズ海峡周辺",
-        "region": "middle_east",
-        "title": "米軍、イラン籍タンカーの封鎖突破を阻止",
-        "content": "米軍がホルムズ海峡周辺で、イラン軍の施設への攻撃を実施。また、IRGCが発射したミサイルを無効化し、イラン籍タンカーの封鎖突破を阻止。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/08/us-forces-disable-iranian-flagged-tankers-trying-to-cross-blockade/"
-      },
-      {
         "id": "combat_event_6",
         "timestamp": "2026-05-11",
         "location": "フィリピン",
@@ -102,6 +150,56 @@
         "source_url": "https://www.defensenews.com/news/your-military/2026/05/11/us-partner-nations-sink-two-decommissioned-ships-during-exercise-balikatan/"
       },
       {
+        "id": "event_002",
+        "timestamp": "2026-05-11",
+        "location": "Balikatan Exercise",
+        "region": "east_asia",
+        "title": "バリカタン演習で退役艦艇を撃沈",
+        "content": "米国、フィリピン、日本、カナダが参加するバリカタン演習で、陸・海・空プラットフォームを使用し、2隻の退役艦艇を撃沈。",
+        "involved_parties": [
+          "アメリカ軍",
+          "フィリピン軍",
+          "自衛隊",
+          "カナダ軍"
+        ],
+        "event_type": "attack",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/05/11/us-partner-nations-sink-two-decommissioned-ships-during-exercise-balikatan/"
+      },
+      {
+        "id": "event_003",
+        "timestamp": "2026-05-11",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "米国の仲介による停戦にも関わらず、ウクライナとロシアが戦闘継続",
+        "content": "米国が仲介した5月9日から5月11日までの停戦合意にも関わらず、ウクライナとロシアは前線での戦闘を継続。",
+        "involved_parties": [
+          "ロシア軍",
+          "ウクライナ軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/11/ukraine-and-russia-fight-on-despite-us-mediated-ceasefire/"
+      },
+      {
+        "id": "event_005",
+        "timestamp": "2026-05-11",
+        "location": "ラトビア",
+        "region": "europe",
+        "title": "ウクライナのドローン攻撃、ラトビアの燃料貯蔵施設に着弾",
+        "content": "ロシアがウクライナのドローンを妨害し、意図的にバルト三国に向け燃料貯蔵施設に着弾。ラトビア高官が辞任。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "attack",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/11/ukrainian-drone-strike-on-empty-baltic-fuel-depot-prompts-top-level-resignation-in-latvia/"
+      },
+      {
         "id": "combat_event_7",
         "timestamp": "2026-05-10",
         "location": "オーストリア",
@@ -116,6 +214,22 @@
         "urgency": "low",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/05/13/austrian-jets-intercept-unauthorized-us-military-planes-two-days-in-a-row/"
+      },
+      {
+        "id": "combat_event_5",
+        "timestamp": "2026-05-08",
+        "location": "ホルムズ海峡周辺",
+        "region": "middle_east",
+        "title": "米軍、イラン籍タンカーの封鎖突破を阻止",
+        "content": "米軍がホルムズ海峡周辺で、イラン軍の施設への攻撃を実施。また、IRGCが発射したミサイルを無効化し、イラン籍タンカーの封鎖突破を阻止。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/08/us-forces-disable-iranian-flagged-tankers-trying-to-cross-blockade/"
       }
     ]
   },
