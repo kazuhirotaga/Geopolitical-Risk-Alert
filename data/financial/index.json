@@ -1,16 +1,16 @@
 [
   {
     "date": "2026-05-15",
-    "summary": "世界経済は、インフレ懸念、地政学的リスク、暗号資産市場の不安定性など、複合的なリスクに直面。特に、米国の金融政策と中国経済の動向が注目される。AI関連株への過熱感や、エネルギー市場の変動もリスク要因。",
+    "summary": "世界的にインフレ懸念が高まり、債券利回りが急騰。株式市場は下落傾向。中東情勢の不安定化による原油価格上昇もリスク要因。暗号資産市場は規制動向と金利動向に左右され、ボラティリティが高い。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
-      "north_america": "high",
+      "north_america": "medium",
       "europe": "medium",
-      "east_asia": "medium"
+      "east_asia": "high"
     },
-    "generated_at": "2026-05-15T11:24:28.546158"
+    "generated_at": "2026-05-15T14:15:52.316969"
   },
   {
     "date": "2026-05-14",

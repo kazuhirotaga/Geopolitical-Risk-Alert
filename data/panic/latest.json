@@ -1,121 +1,100 @@
 {
   "date": "2026-05-15",
-  "summary": "現在、世界各地でエネルギー不足、政治的不安、労働紛争が複合的に社会不安を招いています。キューバでは燃料不足と大規模停電が暴動に発展し、南米ボリビアでは反政府デモ中に爆発音が報告されるなど、社会秩序の動揺が顕著です。南アジアのインドではディーゼル不足が物流に影響を与え、誤情報が社会不安を助長する事態も発生しており、警戒が必要な状況が続いています。",
-  "global_panic_index": 68,
+  "summary": "世界全体では、一部地域で金融不安、エネルギー不足、大規模な社会不安が顕著に高まっています。米国での銀行取り付け騒ぎの警告や、インドでの深刻な燃料不足と輸送網の混乱、キューバでの電力網障害とそれに伴う社会不安が特に警戒されます。これらの事象は、経済的安定性、生活必需品の供給、および社会秩序への懸念を増幅させており、特定の地域では警戒を要する状況が続いています。",
+  "global_panic_index": 65,
   "regions": [
-    {
-      "region": "south_america",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "政治的不安、社会経済的不満",
-      "incidents": [
-        {
-          "title": "鉱山グループによる反政府デモと爆発音",
-          "location": "ボリビア",
-          "severity": 70,
-          "description": "鉱山労働者グループによる反政府デモが発生し、抗議活動中に爆発音が報告されました。これは政府への不満がエスカレートしていることを示唆し、社会秩序の不安定化を招いています。",
-          "source": "Al Jazeera"
-        }
-      ]
-    },
     {
       "region": "north_america",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "エネルギー不足、インフラ障害、労働紛争",
+      "main_cause": "金融不安",
       "incidents": [
         {
-          "title": "キューバで燃料不足と大規模停電による暴動",
-          "location": "キューバ",
-          "severity": 85,
-          "description": "キューバでは燃料不足と22時間にも及ぶ大規模停電が引き金となり、各地で暴動が発生しています。生活インフラの麻痺が深刻な社会不安と秩序の崩壊を招いています。",
-          "source": "Egyptian Gazette"
-        },
-        {
-          "title": "バス運転手の賃金抗議と深刻な運転手不足",
-          "location": "米国（推定）",
-          "severity": 45,
-          "description": "NHCSのバス運転手が賃上げを求めて抗議活動を行い、深刻化する運転手不足に警鐘を鳴らしています。これは公共交通機関の運行への影響と、住民の移動に支障をきたす可能性があり、潜在的な社会不安要因となっています。",
-          "source": "MSN"
+          "title": "米国で91の銀行が取り付け騒ぎのリスクに直面",
+          "location": "US",
+          "severity": 70,
+          "description": "米国において、JPMorganを含む91の金融機関が取り付け騒ぎの深刻なリスクに直面していると報じられ、金融システムへの不信感と潜在的なパニックが懸念されています。",
+          "source": "Fathom Journal"
         }
       ]
     },
     {
-      "region": "south_asia",
+      "region": "south_america",
       "panic_index": 65,
       "status": "volatile",
-      "main_cause": "エネルギー不足、労働紛争、政治的不安、金融不安、情報混乱",
+      "main_cause": "エネルギー不足, 反政府デモ",
       "incidents": [
         {
-          "title": "インドでディーゼル不足が物流網を直撃、燃料ポンプ枯渇",
-          "location": "インド",
-          "severity": 75,
-          "description": "インド各地でディーゼル燃料が不足し、トラックが給油のために80km以上移動する事態が発生。多くの燃料ポンプが枯渇し、国内の物流網に深刻な影響を与え、経済活動と住民生活に不安をもたらしています。",
-          "source": "MSN"
-        },
-        {
-          "title": "オディシャ州で燃料不足ではないのにガソリンポンプが枯渇する混乱",
-          "location": "インド、オディシャ",
-          "severity": 70,
-          "description": "インドのオディシャ州では、供給は存在するにもかかわらずガソリンポンプが枯渇し、燃料供給システムに混乱が生じています。情報伝達の不備や管理体制の脆弱性が、住民の不安と買いだめを招いている可能性があります。",
-          "source": "Business Standard"
-        },
-        {
-          "title": "Noida抗議デモでSNS誤情報が社会不安を誘発",
-          "location": "インド、Noida",
+          "title": "ボリビアで鉱業グループが反政府デモ、爆発音も",
+          "location": "Bolivia",
           "severity": 60,
-          "description": "Noidaでの抗議デモに関してソーシャルメディア上で誤情報が広まり、それが地域の社会不安を煽る結果となりました。当局は誤情報の発信源に対してFIR（第一情報報告書）を提出し、情報統制の動きを見せています。",
-          "source": "MSN"
+          "description": "ボリビアで鉱業グループが大規模な反政府デモを実施し、爆発音が聞かれるなど緊張が高まっています。これは社会不安と政府への不満が激化していることを示唆しています。",
+          "source": "Al Jazeera"
         },
         {
-          "title": "バングラデシュで銀行支店が抗議者により封鎖",
-          "location": "バングラデシュ、チッタゴン",
+          "title": "キューバで電力網障害が続き、大規模停電と社会不安を誘発",
+          "location": "Cuba",
           "severity": 65,
-          "description": "チッタゴンで、イスラム銀行の「ヘアカット」提案に抗議する人々が5つの支店を封鎖しました。これは金融機関に対する不信感の高まりを示しており、取り付け騒ぎなどの金融パニックに発展する懸念があります。",
-          "source": "The Business Standard"
+          "description": "キューバでは再び電力網が機能不全に陥り、広範囲で大規模な停電が発生しています。これにより社会不安が引き起こされ、生活インフラの不安定さが市民の不満を増大させています。",
+          "source": "DW.com, Latest news from Azerbaijan"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "africa",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 75,
+      "status": "critical",
+      "main_cause": "エネルギー不足, 労働不安, 金融不安",
+      "incidents": [
+        {
+          "title": "インド全土で深刻なディーゼル不足と輸送網の混乱",
+          "location": "India (広範囲)",
+          "severity": 75,
+          "description": "インド各地でディーゼル不足が発生し、燃料ポンプが枯渇してトラックが長蛇の列をなしています。輸送網への深刻な影響が懸念され、エネルギー供給の危機が広範な買いだめと社会パニックを引き起こす恐れがあります。",
+          "source": "MSN, Business Standard"
         },
         {
-          "title": "インド・オディシャで「死の証明」抗議、食料権キャンペーンが農村銀行のSOP要求",
-          "location": "インド、オディシャ",
+          "title": "Noidaの労働不安が国家安全保障法適用と海外資金疑惑で深刻化",
+          "location": "India (Noida, Hyderabad, Delhi)",
           "severity": 55,
-          "description": "オディシャ州で部族の男性が「死の証明」を求める異例の抗議を行ったことを受け、食料権キャンペーンが農村銀行に対し、より適切な対応を促すSOPの策定を求めています。これは社会保障や金融サービスへの深刻な不満を表しています。",
-          "source": "The New Indian Express"
+          "description": "インドのNoidaにおける労働不安が、国家安全保障法の適用や海外からの資金提供疑惑によって複雑化・深刻化しています。抗議活動は首都デリーにも波及し、社会的な緊張が高まっています。",
+          "source": "The Siasat Daily, NDTV, WION, The Statesman, Daily Pioneer, Hindustan Times, Mathrubhumi English, India.Com"
+        },
+        {
+          "title": "バングラデシュでイスラム銀行支店が抗議者により封鎖",
+          "location": "Bangladesh (Chittagong)",
+          "severity": 60,
+          "description": "バングラデシュのチッタゴンで、イスラム銀行の支店が「ヘアカット」提案に抗議する人々によって封鎖されました。これは銀行システムへの不信感と市民の直接行動を示唆し、金融不安につながる可能性があります。",
+          "source": "The Business Standard"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 10,
-      "status": "stable",
-      "main_cause": "なし",
-      "incidents": []
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 10,
-      "status": "stable",
-      "main_cause": "なし",
-      "incidents": []
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 10,
-      "status": "stable",
-      "main_cause": "なし",
-      "incidents": []
-    },
-    {
-      "region": "africa",
-      "panic_index": 10,
-      "status": "stable",
-      "main_cause": "なし",
-      "incidents": []
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 10,
-      "status": "stable",
-      "main_cause": "なし",
+      "panic_index": 5,
+      "status": "normal",
+      "main_cause": "N/A",
       "incidents": []
     }
   ]

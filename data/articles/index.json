@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-15",
-    "summary": "ウクライナ情勢の悪化とイランを巡る緊張が継続。米中関係はビジネス優先にシフトするも、台湾問題で対立。世界的なエネルギー危機と食糧危機も深刻化しており、地政学リスクは高水準を維持。",
+    "summary": "ウクライナ情勢の悪化、イランを巡る緊張、米中間の不一致など、地政学的リスクが高まっている。特にウクライナでのロシア軍による大規模攻撃は深刻で、中東地域も不安定化の兆候が見られる。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "none",
+      "southeast_asia": "medium",
       "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "high",
       "europe": "critical",
-      "africa": "medium",
+      "africa": "high",
       "north_america": "medium",
-      "south_america": "low"
+      "south_america": "none"
     },
-    "generated_at": "2026-05-15T11:24:01.915942"
+    "generated_at": "2026-05-15T14:15:29.528008"
   },
   {
     "date": "2026-05-14",

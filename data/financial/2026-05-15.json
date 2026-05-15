@@ -1,53 +1,72 @@
 {
   "date": "2026-05-15",
-  "summary": "世界経済は、インフレ懸念、地政学的リスク、暗号資産市場の不安定性など、複合的なリスクに直面。特に、米国の金融政策と中国経済の動向が注目される。AI関連株への過熱感や、エネルギー市場の変動もリスク要因。",
+  "summary": "世界的にインフレ懸念が高まり、債券利回りが急騰。株式市場は下落傾向。中東情勢の不安定化による原油価格上昇もリスク要因。暗号資産市場は規制動向と金利動向に左右され、ボラティリティが高い。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "Why Britain’s potential next PM is putting investors on edge",
-      "region": "europe",
+      "title": "Oil prices jump after Trump leaves China with Iran conflict still at a stalemate",
+      "region": "east_asia",
+      "risk_level": "high",
+      "summary": "トランプ大統領の中国訪問後、イラン情勢の膠着状態が続き原油価格が上昇。中国がアメリカからの原油購入に合意したことも価格上昇を後押し。",
+      "analysis": "中東の地政学的リスクが原油価格を押し上げ、インフレ懸念を増大させている。中国の米国産原油購入は、米中間の貿易関係改善の兆しとも解釈できるが、ホルムズ海峡の封鎖リスクが解消されない限り、エネルギー供給の不安定性は続く。原油価格の高騰は、世界経済の成長を抑制する可能性があり、特にエネルギー輸入依存度の高い国にとっては大きなリスクとなる。",
+      "key_entities": [
+        "トランプ大統領",
+        "習近平",
+        "イラン",
+        "ホルムズ海峡"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "30-year Treasury yield tops 5.1%, highest in nearly a year",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "米30年債利回りが5.1%を超え、約1年ぶりの高水準。インフレ指標がFRB議長交代後の金利政策の不確実性を高めている。",
+      "analysis": "長期金利の上昇は、企業の借入コスト増加や住宅ローン金利上昇を通じて、経済活動を抑制する可能性がある。FRBの新議長であるケビン・ウォーシュ氏のインフレに対する姿勢が市場の注目を集めており、今後の金融政策の方向性に対する不透明感が市場のボラティリティを高めている。債券市場の動向は、株式市場や暗号資産市場にも影響を与えるため、注視が必要。",
+      "key_entities": [
+        "FRB",
+        "ケビン・ウォーシュ",
+        "米国債"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Stock Market Today: Dow Falls As Oil Prices, Yields Jump; Nvidia, Cerebras Slide (Live Coverage)",
+      "region": "global",
       "risk_level": "medium",
-      "summary": "英国で左派政権が誕生する可能性が、財政規律への懸念から投資家を不安にさせている。国債やポンドへの影響が懸念される。",
-      "analysis": "アンディ・バーナム氏率いる政権への移行は、市場に不確実性をもたらす可能性がある。左派的な政策は、財政支出の増加や増税につながり、国債利回りの上昇やポンド安を引き起こす可能性がある。投資家は、今後の政策発表や経済指標に注目し、ポートフォリオのリスクヘッジを検討する必要がある。ただし、政権交代が必ずしもネガティブな結果をもたらすとは限らず、新たな成長戦略や社会政策が経済にプラスの影響を与える可能性もある。",
+      "summary": "原油価格と債券利回りの上昇を受け、ダウ平均が下落。NvidiaやCerebrasなどのハイテク株も下落。",
+      "analysis": "金利上昇と原油高は、株式市場全体にとってネガティブな要因となる。特に、高PERのハイテク株は金利上昇の影響を受けやすく、調整局面に入る可能性がある。CerebrasのようなIPO直後の企業は、市場のセンチメントに左右されやすく、ボラティリティが高まる傾向にある。投資家はリスク回避姿勢を強め、より安定したセクターへの資金移動を検討する可能性がある。",
       "key_entities": [
-        "Andy Burnham",
-        "U.K. government",
-        "Bank of England"
+        "ダウ平均",
+        "Nvidia",
+        "Cerebras"
       ],
       "sources": [
-        "CNBC - Top News"
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Family investors turn to old-economy businesses like dealerships and fisheries to avoid AI disruption",
+      "title": "Cerebras stock falls 10% after blockbuster IPO debut — here's what's happening",
       "region": "global",
-      "risk_level": "low",
-      "summary": "ファミリーオフィスが、AIによる破壊的影響を避けるため、自動車販売店や漁業などの伝統的なビジネスに投資をシフトしている。",
-      "analysis": "AI技術の急速な発展により、多くの産業が変革を迫られている。ファミリーオフィスは、安定したキャッシュフローと比較的低い技術革新リスクを持つ伝統的なビジネスに魅力を感じている。これは、リスク回避的な投資戦略の一環であり、長期的な資産保全を目的としていると考えられる。ただし、伝統的なビジネスも、AI技術の導入による効率化や新たなビジネスモデルの創出を検討する必要がある。",
+      "risk_level": "medium",
+      "summary": "Cerebras Systemsの株価が、前日の華々しいIPOデビュー後、取引開始直後に10%下落。",
+      "analysis": "IPO後の株価下落は、市場の期待値が高すぎたことや、利益確定売りなどが考えられる。AI関連株への過熱感も冷めつつある可能性があり、投資家は企業のファンダメンタルズをより慎重に見極める必要がある。Cerebrasの今後の株価動向は、AI市場全体のセンチメントを測る上で重要な指標となる。",
       "key_entities": [
-        "Family offices"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Magnum Ice Cream stock soars 18% after report of potential private equity takeover",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "マグナムアイスクリームが、プライベートエクイティによる買収の可能性報道を受け、株価が急騰。ユニリーバからのスピンオフ後わずか6ヶ月での出来事。",
-      "analysis": "プライベートエクイティによる買収は、企業の価値向上や経営効率化の機会を提供する可能性がある。マグナムアイスクリームの場合、独立企業としての成長戦略やブランド価値が評価されたと考えられる。ただし、買収後の経営方針や組織体制の変化には注意が必要であり、従業員や顧客への影響も考慮する必要がある。",
-      "key_entities": [
-        "Magnum Ice Cream",
-        "Unilever",
-        "Blackstone",
-        "CDR"
+        "Cerebras Systems",
+        "AI"
       ],
       "sources": [
         "CNBC - Top News"
@@ -60,14 +79,51 @@
       "title": "Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%",
       "region": "global",
       "risk_level": "high",
-      "summary": "Thorchainで1000万ドルのクロスチェーンエクスプロイトが発生し、取引が停止。RUNEトークンは12%下落した。",
-      "analysis": "暗号資産市場におけるセキュリティリスクが改めて浮き彫りになった。クロスチェーン技術の脆弱性は、ハッカーにとって格好の標的となり得る。Thorchainの事件は、DeFi（分散型金融）プラットフォームの信頼性を損なう可能性があり、投資家のリスク回避姿勢を強める可能性がある。規制当局は、暗号資産市場のセキュリティ対策強化を求める圧力を強めるだろう。",
+      "summary": "Thorchainが1000万ドルのクロスチェーンエクスプロイトを受け取引を停止。RUNEトークンは12%下落。",
+      "analysis": "暗号資産市場におけるセキュリティリスクが改めて浮き彫りになった。DeFi（分散型金融）プラットフォームは、その複雑さから脆弱性が内在しやすく、ハッキングのリスクが高い。Thorchainの事件は、投資家心理を悪化させ、DeFi市場全体の信頼性を損なう可能性がある。規制当局による監視強化も予想される。",
       "key_entities": [
         "Thorchain",
-        "RUNE token"
+        "RUNE",
+        "DeFi"
       ],
       "sources": [
         "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "US debt load could undercut Warsh's plan to shrink Fed balance sheet",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "米国の債務残高が、FRB議長ケビン・ウォーシュ氏によるバランスシート縮小計画を阻害する可能性がある。",
+      "analysis": "米国の債務残高がGDPに対して高水準で推移しており、FRBがバランスシートを縮小する際に、金利上昇圧力を強める可能性がある。金利上昇は、政府の利払い負担を増加させ、財政状況を悪化させる。FRBは、インフレ抑制と経済成長のバランスを取りながら、慎重な金融政策運営を迫られる。",
+      "key_entities": [
+        "FRB",
+        "ケビン・ウォーシュ",
+        "米国債務"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Why Britain’s potential next PM is putting investors on edge",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "次期首相候補であるアンディ・バーナム氏率いる左派政権の誕生が、英国の財政規律に対する懸念から投資家を不安にさせている。",
+      "analysis": "左派政権の誕生は、増税や規制強化など、企業活動にとってネガティブな政策が導入される可能性を高める。投資家は、英国の財政状況が悪化し、国債の格下げにつながることを懸念している。ポンド安や英国からの資本流出も予想され、英国経済全体に悪影響を及ぼす可能性がある。",
+      "key_entities": [
+        "アンディ・バーナム",
+        "英国",
+        "ポンド"
+      ],
+      "sources": [
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -77,11 +133,11 @@
       "title": "UAE fast tracks second West-East oil pipeline to bypass Strait of Hormuz",
       "region": "global",
       "risk_level": "medium",
-      "summary": "UAEがホルムズ海峡を迂回する2本目の東西石油パイプラインを建設。世界のエネルギー供給が逼迫する中、ホルムズ海峡の通過制限への対策。",
-      "analysis": "地政学的リスクがエネルギー市場に与える影響を軽減するための動き。ホルムズ海峡は、世界の石油輸送の重要なルートであるが、紛争やテロのリスクが高い。UAEのパイプライン建設は、エネルギー供給の安定化に貢献する可能性がある。ただし、パイプライン建設には、環境への影響や建設コストなどの課題も存在する。",
+      "summary": "UAEがホルムズ海峡を迂回する東西石油パイプラインの建設を加速。世界のエネルギー供給が圧迫され、ホルムズ海峡の通行が制限されている状況に対応。",
+      "analysis": "ホルムズ海峡の地政学的リスクが、エネルギー供給の安定性を脅かしている。UAEのパイプライン建設は、エネルギー供給の多様化を図るものであり、原油価格の安定化に貢献する可能性がある。しかし、パイプラインの建設には時間とコストがかかり、短期的な供給不安を解消する効果は限定的。",
       "key_entities": [
         "UAE",
-        "Strait of Hormuz"
+        "ホルムズ海峡"
       ],
       "sources": [
         "CNBC - Top News"
@@ -91,16 +147,15 @@
       ]
     },
     {
-      "title": "Oil prices jump after Trump says China agreed to buy U.S. crude following Xi talks",
-      "region": "east_asia",
+      "title": "Billionaire Gautam Adani and nephew agree to pay $18 million in SEC settlement over fraud allegations",
+      "region": "south_asia",
       "risk_level": "medium",
-      "summary": "トランプ氏の発言を受け、中国が米国産原油の購入に合意したとの報道で原油価格が上昇。",
-      "analysis": "米中間の貿易関係の改善が、エネルギー市場にプラスの影響を与えている。中国の米国産原油購入は、米国のエネルギー産業を支援し、貿易赤字の削減に貢献する可能性がある。ただし、米中関係は依然として不安定であり、今後の動向に注意が必要である。また、OPECプラスの減産政策や地政学的リスクも、原油価格に影響を与える要因となる。",
+      "summary": "インドの富豪ガウタム・アダニ氏とその甥であるサガル・アダニ氏が、投資家を欺いたとされるSECの訴訟で、1800万ドルの和解金を支払うことに合意。",
+      "analysis": "アダニグループに対する不正疑惑は、インド市場全体の信頼性を損なう可能性がある。SECとの和解は、アダニグループの評判を回復させる上で一定の効果があると考えられるが、投資家の警戒感は依然として残るだろう。インド市場への投資判断は、企業のガバナンスや透明性を慎重に見極める必要がある。",
       "key_entities": [
-        "China",
-        "U.S.",
-        "Donald Trump",
-        "Xi Jinping"
+        "ガウタム・アダニ",
+        "アダニグループ",
+        "SEC"
       ],
       "sources": [
         "CNBC - Top News"
@@ -110,67 +165,17 @@
       ]
     },
     {
-      "title": "The U.S. stock market is getting close to dot-com bubble peak valuations",
+      "title": "Bitcoin is still stuck below its 200-day average. Treasury yields may be the reason.",
       "region": "global",
-      "risk_level": "high",
-      "summary": "米国株式市場のバリュエーションが、ドットコムバブル期のピークに近づいている。",
-      "analysis": "株式市場の過熱感に対する懸念が高まっている。PER（株価収益率）などの指標が歴史的な高水準に達しており、調整リスクが高まっている可能性がある。特に、AI関連株などの成長株に資金が集中しており、バブルの兆候が見られる。投資家は、ポートフォリオのリスク管理を徹底し、慎重な投資判断を行う必要がある。",
+      "risk_level": "medium",
+      "summary": "ビットコイン価格が200日移動平均線を下回ったまま。米国債利回りの上昇が原因の可能性。",
+      "analysis": "米国債利回りの上昇は、リスク資産であるビットコインへの投資魅力を相対的に低下させる。機関投資家は、より安全な資産である債券への資金移動を検討する可能性がある。ビットコイン価格の回復には、インフレ懸念の緩和や、暗号資産に対する規制の明確化が必要となる。",
       "key_entities": [
-        "U.S. stock market"
+        "ビットコイン",
+        "米国債"
       ],
       "sources": [
         "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Cerebras stock falls after blockbuster IPO debut — here's what's happening",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "Cerebras Systemsの株価が、華々しいIPOデビューの後、取引開始早々に下落。",
-      "analysis": "IPO後の株価変動は、市場の期待値と実際の業績とのギャップを示す可能性がある。Cerebrasは、AIチップ市場で高い成長性を持つと期待されているが、競争激化や技術革新のスピードに対応する必要がある。投資家は、Cerebrasの長期的な成長戦略や収益性を見極める必要がある。",
-      "key_entities": [
-        "Cerebras Systems"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "SpaceX IPO prospectus could land as soon as next week, sources say",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "SpaceXのIPO目論見書が来週にも発表される可能性がある。記録的な株式市場デビューが期待される。",
-      "analysis": "SpaceXのIPOは、宇宙産業への投資家の関心を高める可能性がある。SpaceXは、再利用可能なロケット技術や宇宙輸送サービスで高い競争力を持つ。ただし、宇宙開発には、技術的なリスクや規制リスクも存在する。投資家は、SpaceXの事業戦略や財務状況を慎重に分析する必要がある。",
-      "key_entities": [
-        "SpaceX",
-        "Elon Musk"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "FRB理事のミラン氏が辞任し、次期議長としてウォーシュ氏を支持。金融政策への影響が注目される。",
-      "analysis": "FRB議長の交代は、金融政策の方向性に大きな影響を与える可能性がある。ウォーシュ氏が議長に就任した場合、インフレ抑制を重視したタカ派的な政策が採用される可能性が高まる。これは、金利上昇や量的引き締めにつながり、株式市場や債券市場にネガティブな影響を与える可能性がある。投資家は、FRBの政策動向を注視し、ポートフォリオのリスクヘッジを検討する必要がある。",
-      "key_entities": [
-        "Federal Reserve",
-        "Miran",
-        "Warsh"
-      ],
-      "sources": [
-        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -179,11 +184,11 @@
   ],
   "region_risk_map": {
     "global": "high",
-    "north_america": "high",
+    "north_america": "medium",
     "europe": "medium",
-    "east_asia": "medium"
+    "east_asia": "high"
   },
-  "generated_at": "2026-05-15T11:24:28.546158",
+  "generated_at": "2026-05-15T14:15:52.316969",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
