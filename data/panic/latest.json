@@ -1,49 +1,42 @@
 {
-  "date": "2026-05-14",
-  "summary": "世界全体でみると、社会不安やパニックの状況は地域間で大きな差を見せています。特にインドではディーゼル燃料不足が深刻化し、物流網に影響を与え、燃料ポンプの枯渇や販売制限、労働者デモにおける政府の強硬な対応が社会秩序の緊張を高めています。一方、北米では銀行システムへの潜在的な「取り付け騒ぎリスク」が指摘され、特定の物資不足の噂も散見されますが、大規模なパニックには至っていません。ヨーロッパでは航空燃料不足の懸念が見られますが、全体的には安定した状況を保っており、グローバルなパニック指数は中程度の不安段階に留まっています。",
-  "global_panic_index": 45,
+  "date": "2026-05-15",
+  "summary": "世界各地でエネルギー不足と社会不安が顕在化しています。南米ボリビアでは大規模な反政府デモと警察との衝突、カリブ海のキューバでは電力網の機能不全による大規模停電とそれに伴う社会不安が報告されています。東南アジアのインドではディーゼル不足が深刻化し、物流に影響を与え、一部地域では給油所が枯渇。また、デモに対する国家安全保障法の適用や暴力行為が確認され、緊張が高まっています。国際的な燃料供給への懸念も散見され、サプライチェーンの脆弱性が意識される中、複数の地域で警戒状態が続いています。",
+  "global_panic_index": 72,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 35,
-      "status": "unstable",
-      "main_cause": "金融不安、一部物資不足の懸念",
+      "region": "south_america",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "政治不安、大規模な抗議デモ",
       "incidents": [
         {
-          "title": "FDIC: Big depositors drove run risk in 2023",
-          "location": "United States",
-          "severity": 50,
-          "description": "米国で、大手預金者が2023年に銀行の取り付け騒ぎのリスクを増大させたとFDICが報告。金融システムへの潜在的な不安要因が指摘されており、金融機関への信頼に影響を与える可能性を秘めている。",
-          "source": "American Banker"
+          "title": "Bolivian miners clash with police, demand president’s resignation",
+          "location": "ボリビア、ラパス",
+          "severity": 65,
+          "description": "ボリビアの鉱山労働者らが首都ラパスで警察と衝突し、大統領の辞任を要求。大規模な抗議活動が政治的緊張を高め、社会秩序に混乱をもたらしている。",
+          "source": "Reuters"
         },
         {
-          "title": "The airplane fuel shortage is a myth propagated by airlines",
-          "location": "United States",
-          "severity": 20,
-          "description": "航空燃料不足の噂が広まっているが、航空会社が採算の取れないフライトをキャンセルするために流している神話であると私用ジェットCEOが発言。不安の源は存在するものの、根拠は薄いとされている。",
-          "source": "Fortune"
-        },
-        {
-          "title": "Toyota is About to Run Out of Motor Oil",
-          "location": "United States",
-          "severity": 30,
-          "description": "トヨタ車向けのエンジンオイルが間もなく不足するとの懸念が報じられている。特定の製品の供給不安は、消費者心理に軽度の不安を引き起こす可能性がある。",
-          "source": "Autoblog"
+          "title": "Explosions heard as mining groups stage antigovernment protest",
+          "location": "ボリビア",
+          "severity": 70,
+          "description": "鉱山グループによる反政府抗議デモ中に爆発音が報告された。これは治安部隊との衝突や状況のさらなる緊迫化を示唆しており、社会不安が拡大している。",
+          "source": "Al Jazeera"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "エネルギー供給への潜在的懸念",
+      "region": "north_america",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、社会インフラの機能不全",
       "incidents": [
         {
-          "title": "Should we be worried about talk of jet fuel shortages?",
-          "location": "United Kingdom",
-          "severity": 25,
-          "description": "英国でジェット燃料不足の話題について懸念すべきかという議論が報じられている。現時点では直接的なパニックではないものの、エネルギー供給に関する潜在的な不安要素として認識されている。",
-          "source": "The Times"
+          "title": "Cuba's grid falters again, triggering blackouts and unrest",
+          "location": "キューバ",
+          "severity": 75,
+          "description": "キューバの電力網が再び機能不全に陥り、大規模な停電が発生。これにより国内で社会不安や抗議活動が勃発し、市民生活に深刻な影響を与えている。",
+          "source": "DW.com"
         }
       ]
     },
@@ -51,42 +44,42 @@
       "region": "southeast_asia",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "エネルギー不足、労働不安と社会秩序の緊張",
+      "main_cause": "エネルギー不足、社会不安、労働争議",
       "incidents": [
         {
-          "title": "Diesel shortage hitting India's freight network",
-          "location": "India",
+          "title": "Diesel shortage strands truckers as Kerala limits fuel sales",
+          "location": "インド、ケララ州",
           "severity": 75,
-          "description": "インドでディーゼル燃料が深刻に不足し、貨物輸送網に大きな打撃を与えている。燃料ポンプが枯渇し、トラックが長距離移動を強いられる状況が発生しており、社会インフラへの影響は大きい。",
+          "description": "インドのケララ州でディーゼル不足が深刻化し、多くのトラック運転手が立ち往生している。燃料販売が制限され、物流の停滞と経済活動への影響が懸念される。",
           "source": "MSN"
         },
         {
-          "title": "Diesel shortage strands truckers as Kerala limits fuel sales",
-          "location": "Kerala, India",
-          "severity": 75,
-          "description": "インドのケララ州でディーゼル燃料不足によりトラック運転手が立ち往生。州当局が燃料販売を制限しており、物流への影響が深刻化し、地域経済に不安が広がっている。",
+          "title": "Diesel shortage hitting India's freight network? Trucks queue up as fuel pumps run dry",
+          "location": "インド",
+          "severity": 70,
+          "description": "インド全土でディーゼル不足が報じられ、貨物輸送網に打撃を与えている。燃料を求めてトラック運転手は長距離移動を強いられ、給油所には長蛇の列が発生。",
           "source": "MSN"
         },
         {
           "title": "No shortage, yet pumps run dry: Odisha fuel chaos exposes cracks",
-          "location": "Odisha, India",
-          "severity": 65,
-          "description": "インドのオリッサ州で、実際の燃料不足がないにもかかわらず、混乱により燃料ポンプが枯渇する事態が発生。情報の混乱と消費者心理がパニックを引き起こし、供給網の脆弱性が露呈している。",
+          "location": "インド、オリッサ州",
+          "severity": 70,
+          "description": "オリッサ州では公式に燃料不足は否定されているものの、給油所では燃料が枯渇。政府発表と現実の乖離が市民の不信感を招き、買いだめや混乱を助長している。",
           "source": "Business Standard"
         },
         {
-          "title": "Noida labour protest accused received over Rs 1 crore from foreign countries",
-          "location": "Noida, India",
+          "title": "Noida Violence: NSA invoked against accused over alleged role in labour protest",
+          "location": "インド、ノイダ",
           "severity": 70,
-          "description": "インドのノイダで発生した労働者抗議デモの容疑者が外国から多額の資金を受け取っていた疑いが浮上。デモの背景に外部からの影響が指摘され、社会不安を助長し、治安当局の警戒を高めている。",
-          "source": "Deccan Herald"
+          "description": "ノイダでの労働者抗議デモを巡る暴力行為に関連し、国家安全保障法が適用された。デモを主導したとされる人物らが捜査対象となり、状況は緊迫している。",
+          "source": "Organiser"
         },
         {
-          "title": "Noida Violence: NSA invoked against Satyam Verma and Aakriti Choudhary over alleged role in labour protest",
-          "location": "Noida, India",
-          "severity": 70,
-          "description": "ノイダの労働者抗議デモを巡り、暴力も示唆される中、ジャーナリストや活動家に国家安全保障法が適用された。社会秩序の維持に向けた政府の厳しい姿勢が緊張を高め、広範な不安を引き起こしている。",
-          "source": "Organiser"
+          "title": "Noida unrest: Police invoke NSA, investigate overseas funds linked to protest accused",
+          "location": "インド、ノイダ",
+          "severity": 65,
+          "description": "ノイダでの抗議デモに関連し、警察が国家安全保障法を適用。デモ主催者への海外資金流入疑惑を捜査しており、社会の緊張と不信感が高まっている。",
+          "source": "The Statesman"
         }
       ]
     }

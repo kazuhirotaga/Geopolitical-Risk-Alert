@@ -1,5 +1,18 @@
 [
   {
+    "id": "1c717e582358",
+    "title": "ロシアがウクライナに大規模攻撃 首都キーウで死者21人に",
+    "summary": "ウクライナの首都キーウでは14日にかけてのロシアによる大規模な攻撃で、これまでに21人が死亡し、ミサイルによる攻撃で崩壊した集合住宅の現場では、がれきの撤去や行方がわからない住民の捜索が行われていました。",
+    "url": "http://www3.nhk.or.jp/news/html/20260515/k10015122151000.html",
+    "published": "2026-05-15T09:25:38+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
     "id": "a8d834116317",
     "title": "プーチン大統領 制裁下でもロシアの工業生産拡大と誇示",
     "summary": "ロシアのプーチン大統領は、ウクライナ侵攻に伴う経済制裁にも関わらず、去年のロシアの工業生産は侵攻開始の前の年の水準を12％上回ったと明らかにし、制裁の影響を最小限に抑えていると強調するねらいもあるとみられます。",
@@ -26,34 +39,6 @@
     ]
   },
   {
-    "id": "257319ad40a6",
-    "title": "アメリカとイラン外交活発化 ホルムズ海峡近くでは依然攻撃も",
-    "summary": "アメリカのトランプ大統領は、アメリカメディアとのインタビューでイラン情勢を巡り、中国の習近平国家主席から協力の申し出があったと主張し、一方のイラン側も外交を活発化させています。また、ホルムズ海峡の近くでは、船への攻撃があり、安全が保たれない状況が続いています。",
-    "url": "http://www3.nhk.or.jp/news/html/20260515/k10015122141000.html",
-    "published": "2026-05-15T06:00:53+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "east_asia",
-      "middle_east",
-      "north_america"
-    ]
-  },
-  {
-    "id": "a7292d3d6d18",
-    "title": "ロシアがウクライナに大規模攻撃 首都キーウで死者12人に",
-    "summary": "ウクライナの首都キーウでは14日にかけてのロシアによる大規模な攻撃で、これまでに12人が死亡し、ミサイルによる攻撃で崩壊した集合住宅の現場では、がれきの撤去や行方がわからない住民の捜索が行われていました。",
-    "url": "http://www3.nhk.or.jp/news/html/20260515/k10015122151000.html",
-    "published": "2026-05-15T05:44:15+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
     "id": "a4e806d74007",
     "title": "【Q＆A】最新AI「ミュトス」は何が違う？必要な対応は？",
     "summary": "アメリカの新興AI企業が開発した最新のAIモデル「クロード・ミュトス」。サイバー攻撃に悪用された場合、金融システムなどに深刻な被害をもたらすリスクもあるとして、世界各国の政府機関や企業が警戒を強め、対応を検討しています。これまでの情報セキュリティーの常識が覆る可能性もあるとされている最新AI。いったい何が違うのか、その特性や今後求められる対応を専門家などへの取材をもとにまとめました。",
@@ -67,8 +52,114 @@
     ]
   },
   {
-    "id": "7e8f5e58d463",
-    "title": "米中首脳会談 台湾めぐり習主席 アメリカ側をけん制",
+    "id": "c08dcb8b1f29",
+    "title": "What happens to those who say no to fighting wars?",
+    "summary": "Al Jazeera’s @avawarrinerr explains what it means for people who object to fighting in wars today.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-happens-to-those-who-say-no-to-fighting-wars?traffic_source=rss",
+    "published": "2026-05-15T03:00:13+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "94f255ab3ed5",
+    "title": "CIA chief visits Cuba as energy crisis worsens",
+    "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+    "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-05-15T02:40:50+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "8fd856d43aaf",
+    "title": "Israel-Lebanon talks held in Washington as expiration of ceasefire nears",
+    "summary": "Al Jazeera's Manuel Rapalo reports from Washington, where the first of two days of Lebanon-Israel talks concluded.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israel-lebanon-talks-held-in-washington-as-expiration-of-ceasefire-nears?traffic_source=rss",
+    "published": "2026-05-15T02:35:30+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "f72c37d96956",
+    "title": "Eurovision braces for new protests over Israel’s participation",
+    "summary": "Eurovision is heading towards its grand final, but organisers are bracing for more demonstrations against Israel.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss",
+    "published": "2026-05-15T00:35:47+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east",
+      "europe"
+    ]
+  },
+  {
+    "id": "5ef486dbdc5e",
+    "title": "Iran war live: Trump’s visit to China shadowed by conflict with Tehran",
+    "summary": "Iran's foreign minister said Iranians 'never bow to pressure', and there is no military solution to issues with Tehran.",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss",
+    "published": "2026-05-15T00:00:00+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia",
+      "middle_east"
+    ]
+  },
+  {
+    "id": "495447fc7096",
+    "title": "Explosions heard as mining groups stage antigovernment protest in Bolivia",
+    "summary": "Protesters have demanded the resignation of President Rodrigo Paz, who was elected on a platform of economic reform.",
+    "url": "https://www.aljazeera.com/economy/2026/5/14/explosions-heard-as-mining-groups-stage-anti-government-protest-in-bolivia?traffic_source=rss",
+    "published": "2026-05-14T23:28:00+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "62508f80e22d",
+    "title": "UN aid convoy hit by drone strikes in Ukraine’s Kherson",
+    "summary": "A UN humanitarian convoy delivering aid to the city of Kherson was hit twice by drones.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson?traffic_source=rss",
+    "published": "2026-05-14T23:22:38+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "41dd4f58298b",
+    "title": "Cuba’s Diaz-Canel open to US aid amid worsening fuel crisis, blackouts",
+    "summary": "The comments came as a US delegation led by CIA Director John Ratcliffe met Cuban officials in Havana on Thursday.",
+    "url": "https://www.aljazeera.com/news/2026/5/14/cubas-diaz-canel-open-to-us-aid-amid-worsening-fuel-crisis-blackouts?traffic_source=rss",
+    "published": "2026-05-14T22:30:06+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "ba163aad94f5",
+    "title": "【詳しく】米中首脳会談 台湾めぐり習主席 アメリカ側をけん制",
     "summary": "アメリカのトランプ大統領と、中国の習近平国家主席が北京で会談し、アメリカ側は、イランが核兵器を保有してはならず、ホルムズ海峡は開放されていなければならないという認識で一致したと明らかにしました。一方、台湾をめぐり、習主席は「対応を誤れば両国は衝突し、非常に危険な状況に陥る」と述べて、アメリカ側を強くけん制しました。",
     "url": "http://www3.nhk.or.jp/news/html/20260514/k10015121151000.html",
     "published": "2026-05-14T22:08:47+09:00",
@@ -79,19 +170,6 @@
       "east_asia",
       "middle_east",
       "north_america"
-    ]
-  },
-  {
-    "id": "94754d84e539",
-    "title": "Cuba says CIA chief visited Havana as energy crisis worsens",
-    "summary": "The reported visit came after the US renewed an offer of aid to ease the effects of its oil blockade.",
-    "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-05-14T21:39:10+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   },
   {
@@ -255,64 +333,12 @@
     ]
   },
   {
-    "id": "ee698488d432",
-    "title": "Acute hunger grips nearly 20 million people in war-battered Sudan, says IPC",
-    "summary": "A lack of access to food and health facilities will lead to death for many, warns the Norwegian Refugee Council.",
-    "url": "https://www.aljazeera.com/news/2026/5/14/acute-hunger-grips-nearly-20-million-people-in-war-battered-sudan-says-ipc?traffic_source=rss",
-    "published": "2026-05-14T18:23:09+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
-    "id": "8fe41cdcc6ce",
-    "title": "Cuba plunged deeper into fuel crisis amid 22-hour blackouts",
-    "summary": "Cuba faced nationwide disruption after officials say the country had completely run out of diesel and fuel oil.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/cuba-plunged-deeper-into-fuel-crisis-amid-22-hour-blackouts?traffic_source=rss",
-    "published": "2026-05-14T18:13:48+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "4ad4617247ff",
     "title": "War criminal Ratko Mladić's jail release request denied",
     "summary": "A UN judge admits the 84-year-old is \"in the final stages of his life\", but says prison conditions in The Hague ensure his maximum comfort.",
     "url": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
     "published": "2026-05-14T17:45:39+00:00",
     "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "7cbf8bd62181",
-    "title": "Iran urges BRICS nations to condemn US-Israeli war aggression",
-    "summary": "Foreign Minister Abbas Araghchi also accused the UAE of direct involvement in military operations against Iran.",
-    "url": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss",
-    "published": "2026-05-14T17:29:53+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "c64bbf0bfe3d",
-    "title": "‘Absolutely no fuel’: Cuba hit by blackouts, protests amid power outages",
-    "summary": "Large parts of eastern Cuba were plunged into darkness in the latest round of nationwide electricity shutdowns.",
-    "url": "https://www.aljazeera.com/news/2026/5/14/absolutely-no-fuel-cuba-hit-by-blackouts-protests-amid-power-outages?traffic_source=rss",
-    "published": "2026-05-14T16:45:52+00:00",
-    "source_name": "Al Jazeera",
     "source_type": "media",
     "language": "en",
     "regions": [
@@ -423,6 +449,32 @@
     "language": "ja",
     "regions": [
       "middle_east"
+    ]
+  },
+  {
+    "id": "fde5ac41371d",
+    "title": "HIV prevention and treatment services faltering, warns UNAIDS",
+    "summary": "Decades of gains in the fight against AIDS are under growing threat as donor funding declines and community-based health services collapse in some of the world’s most vulnerable countries, the head of the joint UN programme on HIV/AIDS warned on Thursday.",
+    "url": "https://news.un.org/feed/view/en/story/2026/05/1167515",
+    "published": "2026-05-14T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "f86f39b09310",
+    "title": "World News in Brief: Malnutrition in Somalia, hunger crisis in DR Congo, energy shortages in Cuba",
+    "summary": "Nearly six million people in Somalia – almost a third of the population analysed – are projected to face acute hunger between April and June, with 1.9 million expected to experience emergency levels, UN-backed food security experts warned on Thursday.",
+    "url": "https://news.un.org/feed/view/en/story/2026/05/1167514",
+    "published": "2026-05-14T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "africa"
     ]
   },
   {
@@ -1247,19 +1299,6 @@
     ]
   },
   {
-    "id": "72f3d4602de1",
-    "title": "Nuclear energy in the Middle East: A realistic choice or a risk?",
-    "summary": "As global electricity demand grows, so does the popularity of nuclear energy. In the Middle East, several countries are evaluating or advancing nuclear power projects, balancing weighty issues such as regional security, climatic conditions and international cooperation.",
-    "url": "https://news.un.org/feed/view/en/story/2026/05/1167448",
-    "published": "2026-05-09T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "667716f9e109",
     "title": "ロシアとウクライナ 米提案で3日間停戦に合意 実現するか",
     "summary": "アメリカのトランプ大統領は8日、SNSでロシアとウクライナが5月9日から11日までの3日間、停戦すると発表しました。ロシアとウクライナもアメリカの提案を受け入れるとしていて、実際に停戦が実現するかが焦点です。",
@@ -1284,19 +1323,6 @@
     "language": "ja",
     "regions": [
       "east_asia"
-    ]
-  },
-  {
-    "id": "2e108c2cc0e5",
-    "title": "World News in Brief: Haiti crisis continues, Gaza-West Bank update, Sir David Attenborough at 100",
-    "summary": "Haiti continues to face escalating violence and deepening insecurity, with gangs expanding their reach beyond Port-au-Prince and civilians increasingly caught between armed groups and security operations.",
-    "url": "https://news.un.org/feed/view/en/story/2026/05/1167475",
-    "published": "2026-05-08T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   }
 ]

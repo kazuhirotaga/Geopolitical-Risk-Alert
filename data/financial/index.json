@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-05-15",
+    "summary": "株式市場は好調を維持する一方、インフレ懸念と金融政策の不確実性が高まっています。米中首脳会談による原油価格上昇、SpaceXのIPO、暗号資産市場の規制動向も注目されます。",
+    "overall_risk_level": "medium",
+    "article_count": 9,
+    "region_risk_map": {
+      "global": "high",
+      "north_america": "medium",
+      "europe": "medium",
+      "east_asia": "medium"
+    },
+    "generated_at": "2026-05-15T03:49:49.776746"
+  },
+  {
     "date": "2026-05-14",
     "summary": "株式市場は好調を維持する一方で、インフレとスタグフレーションへの懸念が高まっている。FRB議長交代とSpaceXのIPOが市場の変動要因となる可能性があり、AI関連株の過熱感と暗号資産市場の規制動向も注視が必要。",
     "overall_risk_level": "medium",
