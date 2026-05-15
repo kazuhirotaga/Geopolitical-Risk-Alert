@@ -1,13 +1,13 @@
 [
   {
     "date": "2026-05-15",
-    "summary": "ウクライナ情勢の悪化、イランを巡る緊張、米中間の不確実性など、地政学リスクが高まっている。特にウクライナではロシアの攻撃が激化し、中東ではイランとアメリカの対立が深刻化している。世界経済への影響も懸念される。",
+    "summary": "ウクライナ情勢の悪化、中東における緊張の高まり、米中間の不確実性など、地政学的リスクが全体的に高まっている。特にウクライナと中東地域において、紛争の激化と人道危機が深刻化している。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "low",
-      "south_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "high",
       "central_asia": "none",
       "middle_east": "high",
       "europe": "critical",
@@ -15,7 +15,7 @@
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-15T16:54:04.857601"
+    "generated_at": "2026-05-15T19:44:07.561762"
   },
   {
     "date": "2026-05-14",

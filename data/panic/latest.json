@@ -1,122 +1,102 @@
 {
   "date": "2026-05-15",
-  "summary": "世界各地では、食料・エネルギー不足や大規模な抗議活動が社会不安を引き起こしている。特に、キューバでは電力網の機能不全による全国的な停電と混乱が、インドではディーゼル・ガソリンの深刻な燃料不足が闇市場と価格高騰を招き、物流および市民生活に深刻な打撃を与えている。ボリビアでは反政府デモが爆発音を伴い暴力的になりつつあり、社会秩序の不安定化が懸念される。一方で、金融システムへの直接的な大規模パニックは限定的であり、多くの地域は比較的安定しているものの、特定の地域での資源不足と政治的緊張が深刻化している。",
-  "global_panic_index": 70,
+  "summary": "世界各地でエネルギー不足、金融機関への不信、政治的緊張を背景とした社会不安が顕著に現れています。特に南アジアと南米では、燃料不足による生活インフラの混乱や大規模な抗議活動が多発し、社会秩序に深刻な影響を及ぼしています。部分的にパニック状況が見られるものの、全体的な社会インフラの麻痺には至っていませんが、警戒が必要なレベルにあります。",
+  "global_panic_index": 65,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 55,
+      "region": "South Asia",
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "エネルギー不足、社会不安",
+      "main_cause": "エネルギー不足、長期的な社会不安、金融機関への不信",
       "incidents": [
         {
-          "title": "キューバの電力網機能不全と社会不安",
-          "location": "キューバ",
-          "severity": 85,
-          "description": "キューバで再び電力網が機能不全に陥り、全国的な停電とそれに伴う社会不安や混乱が発生している。生活インフラの崩壊が市民生活に深刻な影響を与えている。",
-          "source": "DW.com"
+          "title": "イスラム銀行支店が「ヘアカット」提案に抗議され封鎖",
+          "location": "バングラデシュ、チッタゴン",
+          "severity": 65,
+          "description": "「ヘアカット」提案に反対する抗議者がイスラム銀行5支店を封鎖。市民が金融サービスを利用できなくなり、金融システムへの不信感と不安が高まっています。経済活動への影響も懸念されます。",
+          "source": "The Business Standard"
         },
         {
-          "title": "キューバで部分的な電力網障害",
-          "location": "キューバ",
+          "title": "インドでディーゼル不足が輸送網を直撃、給油所枯渇",
+          "location": "インド",
+          "severity": 70,
+          "description": "ディーゼル不足が深刻化し、貨物輸送網が混乱。給油所が枯渇し、トラック運転手が80km近く移動して燃料を探す事態が発生。物流の停滞と経済活動への広範な影響が懸念されます。",
+          "source": "MSN"
+        },
+        {
+          "title": "燃料不足でガソリン闇取引が横行、価格高騰",
+          "location": "インド、ビハール州ガヤ",
           "severity": 80,
-          "description": "社会不安が高まる中、キューバが部分的な電力網の障害に直面。市民は不安定な電力供給と停電に悩まされている。",
-          "source": "Latest news from Azerbaijan"
+          "description": "深刻な燃料不足を背景にガソリンの闇取引が横行し、価格は1リットルあたり240ルピーにまで急騰。市民生活に直接的な打撃を与え、経済的困窮と不満が拡大しています。",
+          "source": "ETV Bharat"
         },
         {
-          "title": "NYブロンクス住民がCitizens BankのICE関連企業との提携に抗議",
-          "location": "米国、ニューヨーク（ノースウェストブロンクス）",
-          "severity": 30,
-          "description": "ニューヨークのノースウェストブロンクス住民が、Citizens BankとICE（移民税関執行局）の収容関連企業との提携に抗議デモを実施。組織的な抗議活動が行われている。",
-          "source": "The Riverdale Press"
+          "title": "マニプール州で3年にわたる社会不安が継続",
+          "location": "インド、マニプール州",
+          "severity": 85,
+          "description": "3年にわたり社会不安が継続しており、民族間の対立や政治的混乱が背景にあります。地域住民は長期的な緊張状態に置かれ、社会秩序の不安定さが深刻化しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "ノイダの労働不安抗議に国家安全保障法適用、外国送金も報道",
+          "location": "インド、ノイダ/ハイデラバード/デリー",
+          "severity": 60,
+          "description": "ノイダの労働者抗議に対し国家安全保障法が適用され、抗議デモがハイデラバードやデリーに波及。容疑者の銀行口座に不審な外国送金があったとの報道もあり、政府の対応と背景への社会不安が増大しています。",
+          "source": "The Siasat Daily 他"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "N/A",
-      "incidents": []
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 15,
-      "status": "normal",
-      "main_cause": "N/A",
-      "incidents": []
-    },
-    {
-      "region": "africa",
-      "panic_index": 0,
-      "status": "normal",
-      "main_cause": "N/A",
-      "incidents": []
-    },
-    {
       "region": "south_america",
-      "panic_index": 75,
+      "panic_index": 72,
       "status": "volatile",
-      "main_cause": "反政府デモ、政治的不安定",
+      "main_cause": "エネルギー不足、反政府抗議",
       "incidents": [
         {
-          "title": "ボリビアで鉱山グループが反政府デモ、爆発音も",
-          "location": "ボリビア",
+          "title": "キューバで電力網が再び機能不全、停電と社会不安を誘発",
+          "location": "キューバ",
           "severity": 75,
-          "description": "ボリビアで鉱山労働者グループが反政府デモを行い、現場から爆発音が聞こえた。これは単なる抗議以上の、社会秩序を揺るがす暴力的な要素を伴う動きである。",
+          "description": "電力網の度重なる機能不全により広範囲で停電が発生。基本的な生活インフラの不安定さが市民の不満と緊張を引き起こし、各地で社会不安が高まっています。",
+          "source": "dw.com"
+        },
+        {
+          "title": "鉱業グループが反政府抗議デモ、爆発音も報告",
+          "location": "ボリビア",
+          "severity": 70,
+          "description": "鉱業グループが反政府抗議デモを実施し、複数の場所で爆発音が報告されました。このデモは政府に対する強い不満を表しており、暴力行為の兆候が見られ、社会秩序の悪化が懸念されます。",
           "source": "Al Jazeera"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 70,
-      "status": "critical",
-      "main_cause": "燃料不足、大規模抗議デモ、金融機関への不信",
+      "region": "africa",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "金融システムへの不信感（噂）",
       "incidents": [
         {
-          "title": "インドの貨物網を襲うディーゼル不足",
-          "location": "インド",
-          "severity": 80,
-          "description": "インドの貨物ネットワークでディーゼル燃料の深刻な不足が発生。トラックが燃料を求めて長距離移動し、ガソリンスタンドには長蛇の列ができ、一部では燃料切れも報告されている。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド・ビハール州ガヤでガソリン不足と闇市場横行",
-          "location": "インド、ビハール州ガヤ",
-          "severity": 85,
-          "description": "ビハール州ガヤで燃料不足が深刻化し、ガソリンの闇市場が横行。価格は1リットルあたり240ルピーに高騰し、市民の生活を直接圧迫している。",
-          "source": "ETV Bharat"
-        },
-        {
-          "title": "バングラデシュで「ヘアカット」提案に抗議、イスラム銀行支店が封鎖",
-          "location": "バングラデシュ、チッタゴン",
-          "severity": 60,
-          "description": "「ヘアカット」提案に抗議するデモ隊が、チッタゴンにある5つのイスラム銀行支店を封鎖。金融機関への不信感と直接的な行動が社会不安を示唆している。",
-          "source": "The Business Standard"
-        },
-        {
-          "title": "インド・ノイダでの労働者抗議とNSA発動",
-          "location": "インド、ノイダ（関連デモはジャンタル・マンタルでも）",
-          "severity": 65,
-          "description": "ノイダでの労働者抗議デモに対し、警察が国家安全保障法（NSA）を発動し、抗議容疑者の銀行口座に多額の海外送金があったと発表。政治的緊張と社会的分断が報じられている。",
-          "source": "Various Sources (The Siasat Daily, WION, The Statesman, NDTV, Hindustan Times, Daily Pioneer, India.Com)"
-        },
-        {
-          "title": "インド・クワクタでインド銀行支店復旧を求める抗議",
-          "location": "インド、マニプール州クワクタ",
+          "title": "世界銀行がナイジェリア人をブロックしているとの噂",
+          "location": "ナイジェリア",
           "severity": 40,
-          "description": "クワクタの住民が、閉鎖されたインド銀行支店の復旧を求めて抗議活動を実施。地域住民の不満が表明されている。",
-          "source": "Imphal Times"
+          "description": "世界銀行がナイジェリア国民をブロックしているという噂が広まり、金融システムへの不信感を煽っています。具体的なパニックには至っていませんが、潜在的な経済不安を引き起こす可能性があります。",
+          "source": "Arise News"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 20,
+      "region": "north_america",
+      "panic_index": 30,
       "status": "stable",
-      "main_cause": "N/A",
-      "incidents": []
+      "main_cause": "社会問題への企業関与への抗議",
+      "incidents": [
+        {
+          "title": "銀行とICE（移民税関執行局）の拘留企業との関係に抗議",
+          "location": "米国、ノースウェストブロンクス",
+          "severity": 30,
+          "description": "シティズンズ銀行がICEの拘留施設運営企業と関係を持つことに反対する住民が抗議デモを実施。企業の社会的責任に関する問題提起であり、小規模な社会不安に留まります。",
+          "source": "The Riverdale Press"
+        }
+      ]
     }
   ]
 }
