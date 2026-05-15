@@ -1,20 +1,20 @@
 {
   "date": "2026-05-15",
-  "summary": "世界各地では、エネルギー供給不安や政治的混乱、労働争議を背景とした大規模な抗議活動が目立っています。特に南米のボリビアとカリブ海のキューバでは、政府への不満やインフラの脆弱性が社会不安を引き起こし、警戒状態に近い状況が見られます。インドでは燃料不足と労働問題が複合的に影響し、複数の地域で緊迫が高まっています。金融機関への抗議も見られ、一部地域では社会秩序が不安定化する兆候が観測されますが、広範な無秩序状態には至っていません。",
-  "global_panic_index": 65,
+  "summary": "現在、世界各地でエネルギー不足、政治的不安、労働紛争が複合的に社会不安を招いています。キューバでは燃料不足と大規模停電が暴動に発展し、南米ボリビアでは反政府デモ中に爆発音が報告されるなど、社会秩序の動揺が顕著です。南アジアのインドではディーゼル不足が物流に影響を与え、誤情報が社会不安を助長する事態も発生しており、警戒が必要な状況が続いています。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "south_america",
-      "panic_index": 75,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "政治的混乱、大規模な抗議デモ",
+      "main_cause": "政治的不安、社会経済的不満",
       "incidents": [
         {
-          "title": "鉱山労働者による反政府抗議と警察との衝突",
-          "location": "ボリビア、ラパス",
-          "severity": 75,
-          "description": "鉱山労働者グループが反政府抗議を行い、爆発音も報告された。首都ラパスでは警察と激しく衝突し、大統領辞任を要求するなど、社会秩序の不安定化が懸念されている。",
-          "source": "Al Jazeera, Reuters"
+          "title": "鉱山グループによる反政府デモと爆発音",
+          "location": "ボリビア",
+          "severity": 70,
+          "description": "鉱山労働者グループによる反政府デモが発生し、抗議活動中に爆発音が報告されました。これは政府への不満がエスカレートしていることを示唆し、社会秩序の不安定化を招いています。",
+          "source": "Al Jazeera"
         }
       ]
     },
@@ -22,75 +22,101 @@
       "region": "north_america",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "エネルギー不足（電力）、社会不安",
+      "main_cause": "エネルギー不足、インフラ障害、労働紛争",
       "incidents": [
         {
-          "title": "頻発する停電とそれに伴う社会不安",
+          "title": "キューバで燃料不足と大規模停電による暴動",
           "location": "キューバ",
-          "severity": 70,
-          "description": "国内の電力網が再び機能不全に陥り、広範囲で停電が発生。これを受けて各地で社会不安や抗議活動が報告されており、生活基盤の脆弱さが浮き彫りとなっている。",
-          "source": "DW.com, Latest news from Azerbaijan"
+          "severity": 85,
+          "description": "キューバでは燃料不足と22時間にも及ぶ大規模停電が引き金となり、各地で暴動が発生しています。生活インフラの麻痺が深刻な社会不安と秩序の崩壊を招いています。",
+          "source": "Egyptian Gazette"
+        },
+        {
+          "title": "バス運転手の賃金抗議と深刻な運転手不足",
+          "location": "米国（推定）",
+          "severity": 45,
+          "description": "NHCSのバス運転手が賃上げを求めて抗議活動を行い、深刻化する運転手不足に警鐘を鳴らしています。これは公共交通機関の運行への影響と、住民の移動に支障をきたす可能性があり、潜在的な社会不安要因となっています。",
+          "source": "MSN"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 70,
+      "region": "south_asia",
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "大規模な抗議デモ、エネルギー不足、政府への不信感",
+      "main_cause": "エネルギー不足、労働紛争、政治的不安、金融不安、情報混乱",
       "incidents": [
         {
-          "title": "労働争議を巡る大規模抗議と政府の厳しい対応",
-          "location": "インド、ノイダ、デリー",
-          "severity": 65,
-          "description": "ノイダの労働争議に関連して、活動家らが国家安全保障法（NSA）適用に抗議デモを実施。また、海外からの不審な資金流入も捜査されており、政府の強硬な対応が社会不安を増幅させている。",
-          "source": "The Siasat Daily, Hindustan Times, WION"
+          "title": "インドでディーゼル不足が物流網を直撃、燃料ポンプ枯渇",
+          "location": "インド",
+          "severity": 75,
+          "description": "インド各地でディーゼル燃料が不足し、トラックが給油のために80km以上移動する事態が発生。多くの燃料ポンプが枯渇し、国内の物流網に深刻な影響を与え、経済活動と住民生活に不安をもたらしています。",
+          "source": "MSN"
         },
         {
-          "title": "燃料（ディーゼル）不足と物流網の混乱",
-          "location": "インド、オディシャ州",
+          "title": "オディシャ州で燃料不足ではないのにガソリンポンプが枯渇する混乱",
+          "location": "インド、オディシャ",
           "severity": 70,
-          "description": "国内各地でディーゼル不足が発生し、貨物輸送網に深刻な影響を与えている。燃料ポンプが枯渇し、トラックが長距離を移動して燃料を求める光景が見られ、経済活動への影響が懸念される。",
-          "source": "MSN, Business Standard"
+          "description": "インドのオディシャ州では、供給は存在するにもかかわらずガソリンポンプが枯渇し、燃料供給システムに混乱が生じています。情報伝達の不備や管理体制の脆弱性が、住民の不安と買いだめを招いている可能性があります。",
+          "source": "Business Standard"
         },
         {
-          "title": "食料権を求める抗議活動と銀行への要請",
-          "location": "インド、オディシャ州",
+          "title": "Noida抗議デモでSNS誤情報が社会不安を誘発",
+          "location": "インド、Noida",
+          "severity": 60,
+          "description": "Noidaでの抗議デモに関してソーシャルメディア上で誤情報が広まり、それが地域の社会不安を煽る結果となりました。当局は誤情報の発信源に対してFIR（第一情報報告書）を提出し、情報統制の動きを見せています。",
+          "source": "MSN"
+        },
+        {
+          "title": "バングラデシュで銀行支店が抗議者により封鎖",
+          "location": "バングラデシュ、チッタゴン",
+          "severity": 65,
+          "description": "チッタゴンで、イスラム銀行の「ヘアカット」提案に抗議する人々が5つの支店を封鎖しました。これは金融機関に対する不信感の高まりを示しており、取り付け騒ぎなどの金融パニックに発展する懸念があります。",
+          "source": "The Business Standard"
+        },
+        {
+          "title": "インド・オディシャで「死の証明」抗議、食料権キャンペーンが農村銀行のSOP要求",
+          "location": "インド、オディシャ",
           "severity": 55,
-          "description": "オディシャ州の部族民が「死亡証明」を巡る問題を抱え、「食料権キャンペーン」が農村銀行に標準作業手順書の導入を要求。食料確保と行政サービスへの不満が背景にある。",
+          "description": "オディシャ州で部族の男性が「死の証明」を求める異例の抗議を行ったことを受け、食料権キャンペーンが農村銀行に対し、より適切な対応を促すSOPの策定を求めています。これは社会保障や金融サービスへの深刻な不満を表しています。",
           "source": "The New Indian Express"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "金融不安、大規模な抗議デモ",
-      "incidents": [
-        {
-          "title": "金融提案に対する銀行支店封鎖抗議",
-          "location": "バングラデシュ、チッタゴン",
-          "severity": 60,
-          "description": "特定の金融提案（「ヘアカット」）に抗議するため、デモ参加者らが5つのイスラム系銀行支店を封鎖した。これは金融機関への信頼低下や取り付け騒ぎに発展する可能性を孕んでいる。",
-          "source": "The Business Standard"
-        }
-      ]
+      "region": "europe",
+      "panic_index": 10,
+      "status": "stable",
+      "main_cause": "なし",
+      "incidents": []
     },
     {
-      "region": "europe",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "エネルギー不足（供給不安）",
-      "incidents": [
-        {
-          "title": "ジェット燃料不足に関する懸念報道",
-          "location": "イギリス",
-          "severity": 40,
-          "description": "イギリスの主要メディアがジェット燃料の潜在的な不足について懸念を報じている。現時点での具体的なパニックは限定的だが、航空業界や旅行者への影響について議論が続いている。",
-          "source": "The Times"
-        }
-      ]
+      "region": "east_asia",
+      "panic_index": 10,
+      "status": "stable",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 10,
+      "status": "stable",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "africa",
+      "panic_index": 10,
+      "status": "stable",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 10,
+      "status": "stable",
+      "main_cause": "なし",
+      "incidents": []
     }
   ]
 }

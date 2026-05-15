@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-15",
-    "summary": "ウクライナ情勢はロシアによるキーウへの大規模攻撃で悪化。イランを巡る緊張も継続し、ホルムズ海峡の安全保障が懸念される。米中間の台湾を巡る対立も深刻化しており、地政学的リスクは全体的に高い水準。",
+    "summary": "ウクライナ情勢の悪化とイランを巡る緊張が継続。米中関係はビジネス優先にシフトするも、台湾問題で対立。世界的なエネルギー危機と食糧危機も深刻化しており、地政学リスクは高水準を維持。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "none",
-      "south_asia": "none",
+      "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "critical",
-      "europe": "high",
+      "middle_east": "high",
+      "europe": "critical",
       "africa": "medium",
       "north_america": "medium",
       "south_america": "low"
     },
-    "generated_at": "2026-05-15T08:53:53.630818"
+    "generated_at": "2026-05-15T11:24:01.915942"
   },
   {
     "date": "2026-05-14",

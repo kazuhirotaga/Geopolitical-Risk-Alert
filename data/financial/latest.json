@@ -1,20 +1,90 @@
 {
   "date": "2026-05-15",
-  "summary": "株式市場は高値圏にあるものの、ドットコムバブル期に近い評価水準に達しており、調整リスクが高まっている。米中間の貿易交渉は進展を見せる一方、地政学的リスクも依然として存在し、原油価格の変動要因となっている。暗号資産市場は規制動向に左右されやすい状況が続いている。",
-  "overall_risk_level": "medium",
+  "summary": "世界経済は、インフレ懸念、地政学的リスク、暗号資産市場の不安定性など、複合的なリスクに直面。特に、米国の金融政策と中国経済の動向が注目される。AI関連株への過熱感や、エネルギー市場の変動もリスク要因。",
+  "overall_risk_level": "high",
   "articles": [
     {
-      "title": "The U.S. stock market is getting close to dot-com bubble peak valuations",
+      "title": "Why Britain’s potential next PM is putting investors on edge",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "英国で左派政権が誕生する可能性が、財政規律への懸念から投資家を不安にさせている。国債やポンドへの影響が懸念される。",
+      "analysis": "アンディ・バーナム氏率いる政権への移行は、市場に不確実性をもたらす可能性がある。左派的な政策は、財政支出の増加や増税につながり、国債利回りの上昇やポンド安を引き起こす可能性がある。投資家は、今後の政策発表や経済指標に注目し、ポートフォリオのリスクヘッジを検討する必要がある。ただし、政権交代が必ずしもネガティブな結果をもたらすとは限らず、新たな成長戦略や社会政策が経済にプラスの影響を与える可能性もある。",
+      "key_entities": [
+        "Andy Burnham",
+        "U.K. government",
+        "Bank of England"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Family investors turn to old-economy businesses like dealerships and fisheries to avoid AI disruption",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "ファミリーオフィスが、AIによる破壊的影響を避けるため、自動車販売店や漁業などの伝統的なビジネスに投資をシフトしている。",
+      "analysis": "AI技術の急速な発展により、多くの産業が変革を迫られている。ファミリーオフィスは、安定したキャッシュフローと比較的低い技術革新リスクを持つ伝統的なビジネスに魅力を感じている。これは、リスク回避的な投資戦略の一環であり、長期的な資産保全を目的としていると考えられる。ただし、伝統的なビジネスも、AI技術の導入による効率化や新たなビジネスモデルの創出を検討する必要がある。",
+      "key_entities": [
+        "Family offices"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Magnum Ice Cream stock soars 18% after report of potential private equity takeover",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "マグナムアイスクリームが、プライベートエクイティによる買収の可能性報道を受け、株価が急騰。ユニリーバからのスピンオフ後わずか6ヶ月での出来事。",
+      "analysis": "プライベートエクイティによる買収は、企業の価値向上や経営効率化の機会を提供する可能性がある。マグナムアイスクリームの場合、独立企業としての成長戦略やブランド価値が評価されたと考えられる。ただし、買収後の経営方針や組織体制の変化には注意が必要であり、従業員や顧客への影響も考慮する必要がある。",
+      "key_entities": [
+        "Magnum Ice Cream",
+        "Unilever",
+        "Blackstone",
+        "CDR"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%",
       "region": "global",
       "risk_level": "high",
-      "summary": "米国の株式市場はドットコムバブル期のピーク時の評価額に近づいており、市場の過熱感が高まっている。",
-      "analysis": "この記事は、現在の米国株式市場の評価額が過去のバブル期と比較して高い水準にあることを指摘しており、市場の調整リスクを示唆している。特に、金利上昇やインフレ懸念が強まる中で、高PER銘柄を中心に売り圧力が強まる可能性がある。投資家はポートフォリオのリスク管理を徹底し、過度なリスクテイクを避けるべきである。今後の市場動向を注視し、必要に応じてポジション調整を行うことが重要となる。",
+      "summary": "Thorchainで1000万ドルのクロスチェーンエクスプロイトが発生し、取引が停止。RUNEトークンは12%下落した。",
+      "analysis": "暗号資産市場におけるセキュリティリスクが改めて浮き彫りになった。クロスチェーン技術の脆弱性は、ハッカーにとって格好の標的となり得る。Thorchainの事件は、DeFi（分散型金融）プラットフォームの信頼性を損なう可能性があり、投資家のリスク回避姿勢を強める可能性がある。規制当局は、暗号資産市場のセキュリティ対策強化を求める圧力を強めるだろう。",
       "key_entities": [
-        "S&P 500",
-        "Nasdaq Composite"
+        "Thorchain",
+        "RUNE token"
       ],
       "sources": [
         "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "UAE fast tracks second West-East oil pipeline to bypass Strait of Hormuz",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "UAEがホルムズ海峡を迂回する2本目の東西石油パイプラインを建設。世界のエネルギー供給が逼迫する中、ホルムズ海峡の通過制限への対策。",
+      "analysis": "地政学的リスクがエネルギー市場に与える影響を軽減するための動き。ホルムズ海峡は、世界の石油輸送の重要なルートであるが、紛争やテロのリスクが高い。UAEのパイプライン建設は、エネルギー供給の安定化に貢献する可能性がある。ただし、パイプライン建設には、環境への影響や建設コストなどの課題も存在する。",
+      "key_entities": [
+        "UAE",
+        "Strait of Hormuz"
+      ],
+      "sources": [
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -24,67 +94,29 @@
       "title": "Oil prices jump after Trump says China agreed to buy U.S. crude following Xi talks",
       "region": "east_asia",
       "risk_level": "medium",
-      "summary": "トランプ大統領の発言を受け、中国が米国産原油の購入に合意したとの報道により、原油価格が上昇。",
-      "analysis": "米中間の貿易交渉の進展は、原油市場にプラスの影響を与えている。中国による米国産原油の購入合意は、原油需要の増加を意味し、価格上昇の要因となる。しかし、地政学的リスク（イラン情勢など）も依然として存在し、原油価格の変動要因となる可能性がある。投資家は、米中関係の動向と中東情勢を注視し、原油価格の変動に備える必要がある。",
+      "summary": "トランプ氏の発言を受け、中国が米国産原油の購入に合意したとの報道で原油価格が上昇。",
+      "analysis": "米中間の貿易関係の改善が、エネルギー市場にプラスの影響を与えている。中国の米国産原油購入は、米国のエネルギー産業を支援し、貿易赤字の削減に貢献する可能性がある。ただし、米中関係は依然として不安定であり、今後の動向に注意が必要である。また、OPECプラスの減産政策や地政学的リスクも、原油価格に影響を与える要因となる。",
       "key_entities": [
-        "Donald Trump",
-        "Xi Jinping",
         "China",
-        "U.S."
-      ],
-      "sources": [
-        "CNBC"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "South Korea’s Kospi retreats from record high to drop over 6% as heavyweight tech names sell-off",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "韓国のKospi指数は、トランプ大統領と習近平国家主席の会談2日目を控え、ハイテク株の売りにより過去最高値から6%以上下落。",
-      "analysis": "アジア市場全体が米中首脳会談の結果を注視する中、韓国Kospi指数の下落は、貿易交渉の不確実性に対する投資家の警戒感を示している。特に、ハイテク株の売りは、グローバルなサプライチェーンへの影響や、米中間の技術覇権争いに対する懸念を反映している可能性がある。投資家は、米中関係の動向とアジア市場の反応を注視し、ポートフォリオのリスク分散を検討する必要がある。",
-      "key_entities": [
-        "Kospi",
+        "U.S.",
         "Donald Trump",
         "Xi Jinping"
       ],
       "sources": [
-        "CNBC"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Defense stocks continue to come under pressure – why Citi is ‘reluctant’ to buy the dip",
+      "title": "The U.S. stock market is getting close to dot-com bubble peak valuations",
       "region": "global",
-      "risk_level": "low",
-      "summary": "iShares U.S. Aerospace & Defense ETFは3月初めから約10%下落しており、シティは押し目買いに慎重な姿勢を示している。",
-      "analysis": "防衛関連株の下落は、地政学的リスクの変化や、政府の国防予算の見直しなどが影響している可能性がある。シティが押し目買いに慎重な姿勢を示していることは、今後の防衛関連株の成長に対する不確実性を示唆している。投資家は、地政学的リスクの動向と政府の国防政策を注視し、防衛関連株への投資判断を慎重に行う必要がある。",
+      "risk_level": "high",
+      "summary": "米国株式市場のバリュエーションが、ドットコムバブル期のピークに近づいている。",
+      "analysis": "株式市場の過熱感に対する懸念が高まっている。PER（株価収益率）などの指標が歴史的な高水準に達しており、調整リスクが高まっている可能性がある。特に、AI関連株などの成長株に資金が集中しており、バブルの兆候が見られる。投資家は、ポートフォリオのリスク管理を徹底し、慎重な投資判断を行う必要がある。",
       "key_entities": [
-        "iShares U.S. Aerospace & Defense ETF",
-        "Citi"
-      ],
-      "sources": [
-        "CNBC"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "XRP, DOGE surge 5%, bitcoin above $81,000 as Clarity Act clears Senate banking panel",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "Clarity Actが上院銀行委員会を通過したことで、XRP、DOGEが5%急騰、ビットコインは81,000ドルを超えた。",
-      "analysis": "Clarity Actの進展は、暗号資産市場にポジティブな影響を与えている。規制の明確化は、投資家の不確実性を軽減し、市場への資金流入を促進する可能性がある。しかし、Clarity Actの最終的な成立には、まだ不確実性が残っており、今後の議会審議の動向を注視する必要がある。また、暗号資産市場はボラティリティが高く、価格変動リスクに注意する必要がある。",
-      "key_entities": [
-        "XRP",
-        "DOGE",
-        "Bitcoin",
-        "Clarity Act"
+        "U.S. stock market"
       ],
       "sources": [
         "CoinDesk"
@@ -94,88 +126,51 @@
       ]
     },
     {
-      "title": "Bitcoin is still stuck below its 200-day average. Treasury yields may be the reason.",
+      "title": "Cerebras stock falls after blockbuster IPO debut — here's what's happening",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインは200日移動平均を下回ったままであり、その理由として米国債利回りの上昇が考えられる。",
-      "analysis": "米国債利回りの上昇は、リスク資産であるビットコインにとってマイナスの影響を与える可能性がある。利回り上昇は、投資家のリスク回避姿勢を強め、ビットコインから債券への資金シフトを促す可能性がある。また、利回り上昇は、ビットコインの代替資産としての魅力も低下させる可能性がある。投資家は、米国債利回りの動向とビットコイン価格の相関関係を注視し、ポートフォリオのリスク管理を徹底する必要がある。",
+      "summary": "Cerebras Systemsの株価が、華々しいIPOデビューの後、取引開始早々に下落。",
+      "analysis": "IPO後の株価変動は、市場の期待値と実際の業績とのギャップを示す可能性がある。Cerebrasは、AIチップ市場で高い成長性を持つと期待されているが、競争激化や技術革新のスピードに対応する必要がある。投資家は、Cerebrasの長期的な成長戦略や収益性を見極める必要がある。",
       "key_entities": [
-        "Bitcoin",
-        "Treasury yields"
+        "Cerebras Systems"
       ],
       "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Cerebras pops 68% in Nasdaq debut, pushing the AI chipmaker's market cap to $95 billion",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Cerebrasがナスダックにデビューし、68%上昇、AIチップメーカーの時価総額は950億ドルに達した。",
-      "analysis": "CerebrasのIPO成功は、AI分野への投資家の関心の高さを反映している。AIチップ市場は成長が期待されており、Cerebrasのような革新的な企業は、今後の成長が期待される。しかし、AIチップ市場は競争が激しく、Cerebrasが競争優位性を維持できるかどうかは不透明である。投資家は、Cerebrasの技術力、市場シェア、競合状況などを分析し、投資判断を行う必要がある。",
-      "key_entities": [
-        "Cerebras",
-        "Nasdaq"
-      ],
-      "sources": [
-        "CNBC"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
-      "region": "east_asia",
+      "title": "SpaceX IPO prospectus could land as soon as next week, sources say",
+      "region": "europe",
       "risk_level": "medium",
-      "summary": "トランプ大統領が貿易、石油、台湾問題を中心とした協議のため中国を訪問。",
-      "analysis": "米中間の貿易交渉は、グローバル経済に大きな影響を与える。貿易摩擦の緩和は、経済成長を促進する可能性がある一方、緊張の高まりは、経済成長を阻害する可能性がある。台湾問題は、米中関係の緊張を高める要因となり、地政学的リスクを高める可能性がある。投資家は、米中関係の動向を注視し、ポートフォリオのリスク管理を徹底する必要がある。",
+      "summary": "SpaceXのIPO目論見書が来週にも発表される可能性がある。記録的な株式市場デビューが期待される。",
+      "analysis": "SpaceXのIPOは、宇宙産業への投資家の関心を高める可能性がある。SpaceXは、再利用可能なロケット技術や宇宙輸送サービスで高い競争力を持つ。ただし、宇宙開発には、技術的なリスクや規制リスクも存在する。投資家は、SpaceXの事業戦略や財務状況を慎重に分析する必要がある。",
       "key_entities": [
-        "Donald Trump",
-        "Xi Jinping",
-        "China",
-        "Taiwan"
+        "SpaceX",
+        "Elon Musk"
       ],
       "sources": [
-        "CNBC"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Billionaire Gautam Adani and nephew agree to pay $18 million in SEC settlement over fraud allegations",
-      "region": "south_asia",
+      "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
+      "region": "middle_east",
       "risk_level": "medium",
-      "summary": "インドの富豪ガウタム・アダニとその甥であるサガル・アダニは、投資家を欺いたとされる米証券取引委員会（SEC）の訴訟で1800万ドルの和解に合意。",
-      "analysis": "アダニグループに対するSECの訴訟は、同社のガバナンス体制に対する懸念を高める可能性がある。和解金は、同社の財務状況に大きな影響を与えるものではないものの、今後の事業展開に影響を与える可能性がある。投資家は、アダニグループのガバナンス体制の改善状況を注視し、投資判断を行う必要がある。",
+      "summary": "FRB理事のミラン氏が辞任し、次期議長としてウォーシュ氏を支持。金融政策への影響が注目される。",
+      "analysis": "FRB議長の交代は、金融政策の方向性に大きな影響を与える可能性がある。ウォーシュ氏が議長に就任した場合、インフレ抑制を重視したタカ派的な政策が採用される可能性が高まる。これは、金利上昇や量的引き締めにつながり、株式市場や債券市場にネガティブな影響を与える可能性がある。投資家は、FRBの政策動向を注視し、ポートフォリオのリスクヘッジを検討する必要がある。",
       "key_entities": [
-        "Gautam Adani",
-        "Sagar Adani",
-        "SEC"
+        "Federal Reserve",
+        "Miran",
+        "Warsh"
       ],
       "sources": [
-        "CNBC"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "CIA chief makes historic trip to Cuba as US blockade chokes island's energy supplies",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "CIA長官がキューバを訪問。米国の封鎖により、キューバのエネルギー供給が逼迫している。",
-      "analysis": "米国の対キューバ政策は、キューバ経済に大きな影響を与えている。エネルギー供給の逼迫は、キューバの経済活動を阻害し、社会不安を高める可能性がある。CIA長官の訪問は、米キューバ関係の改善に向けた動きである可能性があるが、今後の両国関係の動向は不透明である。投資家は、米キューバ関係の動向を注視し、キューバ関連の投資判断を慎重に行う必要がある。",
-      "key_entities": [
-        "CIA",
-        "Cuba"
-      ],
-      "sources": [
-        "CNBC"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -184,11 +179,11 @@
   ],
   "region_risk_map": {
     "global": "high",
-    "north_america": "medium",
-    "europe": "low",
+    "north_america": "high",
+    "europe": "medium",
     "east_asia": "medium"
   },
-  "generated_at": "2026-05-15T08:54:19.463945",
+  "generated_at": "2026-05-15T11:24:28.546158",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
