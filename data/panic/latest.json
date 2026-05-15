@@ -1,85 +1,94 @@
 {
   "date": "2026-05-15",
-  "summary": "世界各地でエネルギー不足と社会不安が顕在化しています。南米ボリビアでは大規模な反政府デモと警察との衝突、カリブ海のキューバでは電力網の機能不全による大規模停電とそれに伴う社会不安が報告されています。東南アジアのインドではディーゼル不足が深刻化し、物流に影響を与え、一部地域では給油所が枯渇。また、デモに対する国家安全保障法の適用や暴力行為が確認され、緊張が高まっています。国際的な燃料供給への懸念も散見され、サプライチェーンの脆弱性が意識される中、複数の地域で警戒状態が続いています。",
-  "global_panic_index": 72,
+  "summary": "世界各地では、エネルギー供給不安や政治的混乱、労働争議を背景とした大規模な抗議活動が目立っています。特に南米のボリビアとカリブ海のキューバでは、政府への不満やインフラの脆弱性が社会不安を引き起こし、警戒状態に近い状況が見られます。インドでは燃料不足と労働問題が複合的に影響し、複数の地域で緊迫が高まっています。金融機関への抗議も見られ、一部地域では社会秩序が不安定化する兆候が観測されますが、広範な無秩序状態には至っていません。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "south_america",
-      "panic_index": 70,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "政治不安、大規模な抗議デモ",
+      "main_cause": "政治的混乱、大規模な抗議デモ",
       "incidents": [
         {
-          "title": "Bolivian miners clash with police, demand president’s resignation",
+          "title": "鉱山労働者による反政府抗議と警察との衝突",
           "location": "ボリビア、ラパス",
-          "severity": 65,
-          "description": "ボリビアの鉱山労働者らが首都ラパスで警察と衝突し、大統領の辞任を要求。大規模な抗議活動が政治的緊張を高め、社会秩序に混乱をもたらしている。",
-          "source": "Reuters"
-        },
-        {
-          "title": "Explosions heard as mining groups stage antigovernment protest",
-          "location": "ボリビア",
-          "severity": 70,
-          "description": "鉱山グループによる反政府抗議デモ中に爆発音が報告された。これは治安部隊との衝突や状況のさらなる緊迫化を示唆しており、社会不安が拡大している。",
-          "source": "Al Jazeera"
+          "severity": 75,
+          "description": "鉱山労働者グループが反政府抗議を行い、爆発音も報告された。首都ラパスでは警察と激しく衝突し、大統領辞任を要求するなど、社会秩序の不安定化が懸念されている。",
+          "source": "Al Jazeera, Reuters"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 75,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "エネルギー不足、社会インフラの機能不全",
+      "main_cause": "エネルギー不足（電力）、社会不安",
       "incidents": [
         {
-          "title": "Cuba's grid falters again, triggering blackouts and unrest",
+          "title": "頻発する停電とそれに伴う社会不安",
           "location": "キューバ",
-          "severity": 75,
-          "description": "キューバの電力網が再び機能不全に陥り、大規模な停電が発生。これにより国内で社会不安や抗議活動が勃発し、市民生活に深刻な影響を与えている。",
-          "source": "DW.com"
+          "severity": 70,
+          "description": "国内の電力網が再び機能不全に陥り、広範囲で停電が発生。これを受けて各地で社会不安や抗議活動が報告されており、生活基盤の脆弱さが浮き彫りとなっている。",
+          "source": "DW.com, Latest news from Azerbaijan"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "大規模な抗議デモ、エネルギー不足、政府への不信感",
+      "incidents": [
+        {
+          "title": "労働争議を巡る大規模抗議と政府の厳しい対応",
+          "location": "インド、ノイダ、デリー",
+          "severity": 65,
+          "description": "ノイダの労働争議に関連して、活動家らが国家安全保障法（NSA）適用に抗議デモを実施。また、海外からの不審な資金流入も捜査されており、政府の強硬な対応が社会不安を増幅させている。",
+          "source": "The Siasat Daily, Hindustan Times, WION"
+        },
+        {
+          "title": "燃料（ディーゼル）不足と物流網の混乱",
+          "location": "インド、オディシャ州",
+          "severity": 70,
+          "description": "国内各地でディーゼル不足が発生し、貨物輸送網に深刻な影響を与えている。燃料ポンプが枯渇し、トラックが長距離を移動して燃料を求める光景が見られ、経済活動への影響が懸念される。",
+          "source": "MSN, Business Standard"
+        },
+        {
+          "title": "食料権を求める抗議活動と銀行への要請",
+          "location": "インド、オディシャ州",
+          "severity": 55,
+          "description": "オディシャ州の部族民が「死亡証明」を巡る問題を抱え、「食料権キャンペーン」が農村銀行に標準作業手順書の導入を要求。食料確保と行政サービスへの不満が背景にある。",
+          "source": "The New Indian Express"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、社会不安、労働争議",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "金融不安、大規模な抗議デモ",
       "incidents": [
         {
-          "title": "Diesel shortage strands truckers as Kerala limits fuel sales",
-          "location": "インド、ケララ州",
-          "severity": 75,
-          "description": "インドのケララ州でディーゼル不足が深刻化し、多くのトラック運転手が立ち往生している。燃料販売が制限され、物流の停滞と経済活動への影響が懸念される。",
-          "source": "MSN"
-        },
+          "title": "金融提案に対する銀行支店封鎖抗議",
+          "location": "バングラデシュ、チッタゴン",
+          "severity": 60,
+          "description": "特定の金融提案（「ヘアカット」）に抗議するため、デモ参加者らが5つのイスラム系銀行支店を封鎖した。これは金融機関への信頼低下や取り付け騒ぎに発展する可能性を孕んでいる。",
+          "source": "The Business Standard"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "エネルギー不足（供給不安）",
+      "incidents": [
         {
-          "title": "Diesel shortage hitting India's freight network? Trucks queue up as fuel pumps run dry",
-          "location": "インド",
-          "severity": 70,
-          "description": "インド全土でディーゼル不足が報じられ、貨物輸送網に打撃を与えている。燃料を求めてトラック運転手は長距離移動を強いられ、給油所には長蛇の列が発生。",
-          "source": "MSN"
-        },
-        {
-          "title": "No shortage, yet pumps run dry: Odisha fuel chaos exposes cracks",
-          "location": "インド、オリッサ州",
-          "severity": 70,
-          "description": "オリッサ州では公式に燃料不足は否定されているものの、給油所では燃料が枯渇。政府発表と現実の乖離が市民の不信感を招き、買いだめや混乱を助長している。",
-          "source": "Business Standard"
-        },
-        {
-          "title": "Noida Violence: NSA invoked against accused over alleged role in labour protest",
-          "location": "インド、ノイダ",
-          "severity": 70,
-          "description": "ノイダでの労働者抗議デモを巡る暴力行為に関連し、国家安全保障法が適用された。デモを主導したとされる人物らが捜査対象となり、状況は緊迫している。",
-          "source": "Organiser"
-        },
-        {
-          "title": "Noida unrest: Police invoke NSA, investigate overseas funds linked to protest accused",
-          "location": "インド、ノイダ",
-          "severity": 65,
-          "description": "ノイダでの抗議デモに関連し、警察が国家安全保障法を適用。デモ主催者への海外資金流入疑惑を捜査しており、社会の緊張と不信感が高まっている。",
-          "source": "The Statesman"
+          "title": "ジェット燃料不足に関する懸念報道",
+          "location": "イギリス",
+          "severity": 40,
+          "description": "イギリスの主要メディアがジェット燃料の潜在的な不足について懸念を報じている。現時点での具体的なパニックは限定的だが、航空業界や旅行者への影響について議論が続いている。",
+          "source": "The Times"
         }
       ]
     }

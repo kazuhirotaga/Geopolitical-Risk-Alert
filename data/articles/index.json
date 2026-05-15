@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-15",
-    "summary": "ウクライナ情勢はロシアの攻撃激化で悪化。中東ではイスラエルとイランの緊張が継続し、レバノンとの停戦交渉も難航。米中関係は台湾問題を巡り緊張状態。AI技術の軍事利用リスクも浮上し、地政学的リスクは全体的に高い。",
+    "summary": "ウクライナ情勢はロシアによるキーウへの大規模攻撃で悪化。イランを巡る緊張も継続し、ホルムズ海峡の安全保障が懸念される。米中間の台湾を巡る対立も深刻化しており、地政学的リスクは全体的に高い水準。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
-      "southeast_asia": "low",
+      "southeast_asia": "none",
       "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "critical",
+      "europe": "high",
       "africa": "medium",
       "north_america": "medium",
       "south_america": "low"
     },
-    "generated_at": "2026-05-15T03:49:26.778591"
+    "generated_at": "2026-05-15T08:53:53.630818"
   },
   {
     "date": "2026-05-14",
