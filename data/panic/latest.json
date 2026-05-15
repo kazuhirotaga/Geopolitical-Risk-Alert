@@ -1,55 +1,47 @@
 {
   "date": "2026-05-15",
-  "summary": "世界全体では、一部地域で金融不安、エネルギー不足、大規模な社会不安が顕著に高まっています。米国での銀行取り付け騒ぎの警告や、インドでの深刻な燃料不足と輸送網の混乱、キューバでの電力網障害とそれに伴う社会不安が特に警戒されます。これらの事象は、経済的安定性、生活必需品の供給、および社会秩序への懸念を増幅させており、特定の地域では警戒を要する状況が続いています。",
-  "global_panic_index": 65,
+  "summary": "世界各地では、食料・エネルギー不足や大規模な抗議活動が社会不安を引き起こしている。特に、キューバでは電力網の機能不全による全国的な停電と混乱が、インドではディーゼル・ガソリンの深刻な燃料不足が闇市場と価格高騰を招き、物流および市民生活に深刻な打撃を与えている。ボリビアでは反政府デモが爆発音を伴い暴力的になりつつあり、社会秩序の不安定化が懸念される。一方で、金融システムへの直接的な大規模パニックは限定的であり、多くの地域は比較的安定しているものの、特定の地域での資源不足と政治的緊張が深刻化している。",
+  "global_panic_index": 70,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 70,
+      "panic_index": 55,
       "status": "volatile",
-      "main_cause": "金融不安",
+      "main_cause": "エネルギー不足、社会不安",
       "incidents": [
         {
-          "title": "米国で91の銀行が取り付け騒ぎのリスクに直面",
-          "location": "US",
-          "severity": 70,
-          "description": "米国において、JPMorganを含む91の金融機関が取り付け騒ぎの深刻なリスクに直面していると報じられ、金融システムへの不信感と潜在的なパニックが懸念されています。",
-          "source": "Fathom Journal"
-        }
-      ]
-    },
-    {
-      "region": "south_america",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "エネルギー不足, 反政府デモ",
-      "incidents": [
-        {
-          "title": "ボリビアで鉱業グループが反政府デモ、爆発音も",
-          "location": "Bolivia",
-          "severity": 60,
-          "description": "ボリビアで鉱業グループが大規模な反政府デモを実施し、爆発音が聞かれるなど緊張が高まっています。これは社会不安と政府への不満が激化していることを示唆しています。",
-          "source": "Al Jazeera"
+          "title": "キューバの電力網機能不全と社会不安",
+          "location": "キューバ",
+          "severity": 85,
+          "description": "キューバで再び電力網が機能不全に陥り、全国的な停電とそれに伴う社会不安や混乱が発生している。生活インフラの崩壊が市民生活に深刻な影響を与えている。",
+          "source": "DW.com"
         },
         {
-          "title": "キューバで電力網障害が続き、大規模停電と社会不安を誘発",
-          "location": "Cuba",
-          "severity": 65,
-          "description": "キューバでは再び電力網が機能不全に陥り、広範囲で大規模な停電が発生しています。これにより社会不安が引き起こされ、生活インフラの不安定さが市民の不満を増大させています。",
-          "source": "DW.com, Latest news from Azerbaijan"
+          "title": "キューバで部分的な電力網障害",
+          "location": "キューバ",
+          "severity": 80,
+          "description": "社会不安が高まる中、キューバが部分的な電力網の障害に直面。市民は不安定な電力供給と停電に悩まされている。",
+          "source": "Latest news from Azerbaijan"
+        },
+        {
+          "title": "NYブロンクス住民がCitizens BankのICE関連企業との提携に抗議",
+          "location": "米国、ニューヨーク（ノースウェストブロンクス）",
+          "severity": 30,
+          "description": "ニューヨークのノースウェストブロンクス住民が、Citizens BankとICE（移民税関執行局）の収容関連企業との提携に抗議デモを実施。組織的な抗議活動が行われている。",
+          "source": "The Riverdale Press"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 0,
+      "panic_index": 10,
       "status": "normal",
       "main_cause": "N/A",
       "incidents": []
     },
     {
       "region": "middle_east",
-      "panic_index": 0,
+      "panic_index": 15,
       "status": "normal",
       "main_cause": "N/A",
       "incidents": []
@@ -62,38 +54,67 @@
       "incidents": []
     },
     {
-      "region": "southeast_asia",
+      "region": "south_america",
       "panic_index": 75,
-      "status": "critical",
-      "main_cause": "エネルギー不足, 労働不安, 金融不安",
+      "status": "volatile",
+      "main_cause": "反政府デモ、政治的不安定",
       "incidents": [
         {
-          "title": "インド全土で深刻なディーゼル不足と輸送網の混乱",
-          "location": "India (広範囲)",
+          "title": "ボリビアで鉱山グループが反政府デモ、爆発音も",
+          "location": "ボリビア",
           "severity": 75,
-          "description": "インド各地でディーゼル不足が発生し、燃料ポンプが枯渇してトラックが長蛇の列をなしています。輸送網への深刻な影響が懸念され、エネルギー供給の危機が広範な買いだめと社会パニックを引き起こす恐れがあります。",
-          "source": "MSN, Business Standard"
+          "description": "ボリビアで鉱山労働者グループが反政府デモを行い、現場から爆発音が聞こえた。これは単なる抗議以上の、社会秩序を揺るがす暴力的な要素を伴う動きである。",
+          "source": "Al Jazeera"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 70,
+      "status": "critical",
+      "main_cause": "燃料不足、大規模抗議デモ、金融機関への不信",
+      "incidents": [
+        {
+          "title": "インドの貨物網を襲うディーゼル不足",
+          "location": "インド",
+          "severity": 80,
+          "description": "インドの貨物ネットワークでディーゼル燃料の深刻な不足が発生。トラックが燃料を求めて長距離移動し、ガソリンスタンドには長蛇の列ができ、一部では燃料切れも報告されている。",
+          "source": "MSN"
         },
         {
-          "title": "Noidaの労働不安が国家安全保障法適用と海外資金疑惑で深刻化",
-          "location": "India (Noida, Hyderabad, Delhi)",
-          "severity": 55,
-          "description": "インドのNoidaにおける労働不安が、国家安全保障法の適用や海外からの資金提供疑惑によって複雑化・深刻化しています。抗議活動は首都デリーにも波及し、社会的な緊張が高まっています。",
-          "source": "The Siasat Daily, NDTV, WION, The Statesman, Daily Pioneer, Hindustan Times, Mathrubhumi English, India.Com"
+          "title": "インド・ビハール州ガヤでガソリン不足と闇市場横行",
+          "location": "インド、ビハール州ガヤ",
+          "severity": 85,
+          "description": "ビハール州ガヤで燃料不足が深刻化し、ガソリンの闇市場が横行。価格は1リットルあたり240ルピーに高騰し、市民の生活を直接圧迫している。",
+          "source": "ETV Bharat"
         },
         {
-          "title": "バングラデシュでイスラム銀行支店が抗議者により封鎖",
-          "location": "Bangladesh (Chittagong)",
+          "title": "バングラデシュで「ヘアカット」提案に抗議、イスラム銀行支店が封鎖",
+          "location": "バングラデシュ、チッタゴン",
           "severity": 60,
-          "description": "バングラデシュのチッタゴンで、イスラム銀行の支店が「ヘアカット」提案に抗議する人々によって封鎖されました。これは銀行システムへの不信感と市民の直接行動を示唆し、金融不安につながる可能性があります。",
+          "description": "「ヘアカット」提案に抗議するデモ隊が、チッタゴンにある5つのイスラム銀行支店を封鎖。金融機関への不信感と直接的な行動が社会不安を示唆している。",
           "source": "The Business Standard"
+        },
+        {
+          "title": "インド・ノイダでの労働者抗議とNSA発動",
+          "location": "インド、ノイダ（関連デモはジャンタル・マンタルでも）",
+          "severity": 65,
+          "description": "ノイダでの労働者抗議デモに対し、警察が国家安全保障法（NSA）を発動し、抗議容疑者の銀行口座に多額の海外送金があったと発表。政治的緊張と社会的分断が報じられている。",
+          "source": "Various Sources (The Siasat Daily, WION, The Statesman, NDTV, Hindustan Times, Daily Pioneer, India.Com)"
+        },
+        {
+          "title": "インド・クワクタでインド銀行支店復旧を求める抗議",
+          "location": "インド、マニプール州クワクタ",
+          "severity": 40,
+          "description": "クワクタの住民が、閉鎖されたインド銀行支店の復旧を求めて抗議活動を実施。地域住民の不満が表明されている。",
+          "source": "Imphal Times"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 5,
-      "status": "normal",
+      "panic_index": 20,
+      "status": "stable",
       "main_cause": "N/A",
       "incidents": []
     }
