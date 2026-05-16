@@ -1,13 +1,13 @@
 [
   {
     "date": "2026-05-16",
-    "summary": "ウクライナ情勢の悪化、中東での緊張激化、米中間の不確実性など、地政学リスクが全体的に高まっている。特にウクライナ、中東地域は紛争が激化しており、世界的なエネルギー危機や食糧危機も深刻化している。",
+    "summary": "ウクライナ情勢は依然として緊迫。中東ではイスラエルと周辺国との緊張が継続し、人道危機も深刻化。米中関係は台湾問題を巡り緊張が続く。世界的な食糧危機、エネルギー危機も懸念される。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
       "southeast_asia": "none",
-      "south_asia": "high",
+      "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "critical",
@@ -15,7 +15,7 @@
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-16T10:19:54.412383"
+    "generated_at": "2026-05-16T13:40:08.002007"
   },
   {
     "date": "2026-05-15",
