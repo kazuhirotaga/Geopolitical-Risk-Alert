@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-16",
-    "summary": "ウクライナ情勢の悪化、中東における緊張の高まり、アフリカにおける人道危機など、地政学リスクが複合的に高まっている。米中関係の動向も注視が必要。",
+    "summary": "ウクライナ情勢の悪化、台湾を巡る米中間の緊張、中東における紛争の継続、アフリカにおける人道危機など、地政学リスクが複合的に高まっている。特にウクライナにおけるデジタル技術の活用は、今後の紛争のあり方に大きな影響を与える可能性がある。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "medium",
+      "east_asia": "high",
       "southeast_asia": "none",
-      "south_asia": "none",
+      "south_asia": "medium",
       "central_asia": "none",
       "middle_east": "high",
-      "europe": "critical",
-      "africa": "medium",
-      "north_america": "low",
-      "south_america": "none"
+      "europe": "medium",
+      "africa": "high",
+      "north_america": "medium",
+      "south_america": "medium"
     },
-    "generated_at": "2026-05-16T19:10:42.029966"
+    "generated_at": "2026-05-16T21:54:34.004187"
   },
   {
     "date": "2026-05-15",

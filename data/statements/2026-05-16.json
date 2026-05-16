@@ -1,51 +1,51 @@
 {
   "date": "2026-05-16",
-  "summary": "FRB人事の変動と金融機関への規制緩和が中心。パウエル議長代行の任命、ウォーシュ新議長の就任予定、UBSグループなどに対するエンフォースメントアクションの終了などが発表された。市場への直接的な影響は限定的だが、今後の金融政策への影響が注目される。",
+  "summary": "FRB理事の交代と、一時的な議長任命が発表された。また、複数の銀行に対する監督措置の終了が発表され、金融機関の再編や規制緩和の動きが見られる。市場への直接的な影響は限定的だが、今後の金融政策の方向性を示唆する可能性がある。",
   "statements": [
     {
-      "speaker": "Federal Reserve Board",
-      "title": "連邦準備制度理事会",
-      "quote": "ジェローム・H・パウエルを臨時代理議長に任命する。パウエルは、ケビン・M・ウォーシュが新議長として就任するまでその職を務める。",
-      "context": "連邦準備制度理事会のプレスリリース",
-      "analysis": "パウエル氏が臨時代理議長に任命されたことは、FRB議長交代までの暫定的な措置であり、政策の継続性を示唆する。ウォーシュ氏の議長就任時期が明確でないため、今後の金融政策の方向性に対する不確実性が残る。",
+      "speaker": "Jerome H. Powell",
+      "title": "Federal Reserve Board chair pro tempore",
+      "quote": "ケビン・M・ウォッシュ氏が新議長に就任するまで、臨時代理議長として職務を遂行する。",
+      "context": "FRB理事会による発表",
+      "analysis": "パウエル氏が一時的に議長代理を務めることは、新議長就任までの移行期間におけるFRBの政策運営の安定性を示唆する。市場は新議長の政策手腕に注目しており、パウエル氏の代理期間中の発言は、今後の金融政策の方向性を占う上で重要となる。",
       "importance": "medium",
       "tags": [
         "FRB",
-        "議長",
+        "金融政策",
         "人事"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm"
     },
     {
-      "speaker": "Federal Reserve Board",
-      "title": "連邦準備制度理事会",
-      "quote": "UBSグループAG、クレディ・スイスAG、クレディ・スイス・ホールディングス（USA）、インク、およびクレディ・スイスAGニューヨーク支店とのエンフォースメントアクションの終了を発表する。",
-      "context": "連邦準備制度理事会のプレスリリース",
-      "analysis": "UBSグループとクレディ・スイスに対するエンフォースメントアクションの終了は、これらの金融機関の規制遵守状況が改善されたことを示唆する。金融セクター全体の安定化に寄与する可能性がある。",
+      "speaker": "Stephen I. Miran",
+      "title": "Member of the Federal Reserve Board",
+      "quote": "後任の理事が就任する時、またはその直前に、FRB理事を辞任する。",
+      "context": "FRB理事会への辞表提出",
+      "analysis": "理事の辞任は、FRBの政策決定に影響を与える可能性がある。後任人事が速やかに行われるか、また、後任者がどのような政策スタンスを持つかが、今後の金融政策の方向性を左右する。辞任のタイミングも、今後の金融政策の変更を示唆する可能性がある。",
       "importance": "medium",
+      "tags": [
+        "FRB",
+        "人事",
+        "金融政策"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm"
+    },
+    {
+      "speaker": "連邦準備制度理事会",
+      "title": "発表主体",
+      "quote": "UBSグループAG、クレディ・スイスAG、クレディ・スイス・ホールディングス（USA）、インク、およびクレディ・スイスAGニューヨーク支店との執行措置を終了する。",
+      "context": "FRB理事会による発表",
+      "analysis": "過去の不正行為や規制違反に対する措置が終了したことは、これらの金融機関のコンプライアンス体制が改善されたことを示唆する。しかし、過去の不正行為が完全に解消されたわけではない可能性もあり、今後の動向を注視する必要がある。",
+      "importance": "low",
       "tags": [
         "FRB",
         "規制",
         "金融機関"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm"
-    },
-    {
-      "speaker": "Stephen I. Miran",
-      "title": "連邦準備制度理事会理事",
-      "quote": "連邦準備制度理事会の理事を辞任する。辞任は、後任の理事が就任する時、またはその直前に発効する。",
-      "context": "連邦準備制度理事会のプレスリリース",
-      "analysis": "ミラン理事の辞任は、FRBの政策決定に影響を与える可能性がある。後任人事によっては、金融政策の方向性が変わる可能性も考慮する必要がある。",
-      "importance": "medium",
-      "tags": [
-        "FRB",
-        "理事",
-        "辞任"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm"
     }
   ],
-  "generated_at": "2026-05-16T19:11:10.916723",
+  "generated_at": "2026-05-16T21:55:05.045756",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
