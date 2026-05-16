@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-05-16",
+    "summary": "ウクライナ・ロシア間で停戦合意も戦闘継続。フィリピンで日米合同演習実施。イスラエルはイランとの戦争を想定しF-35Iの航続距離延長。米軍はモロッコ演習で不明となっていた兵士の遺体を収容。",
+    "events": [
+      {
+        "id": "event-001",
+        "timestamp": "2026-05-14",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "自衛隊、フィリピン領内で初のミサイル発射訓練",
+        "content": "自衛隊がフィリピン国内で初めてミサイル発射訓練を実施。88式地対艦ミサイルが、約75km先の標的（旧式掃海艇）に命中。",
+        "involved_parties": [
+          "自衛隊",
+          "フィリピン軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/14/japan-fires-first-ever-missiles-from-philippine-soil/"
+      },
+      {
+        "id": "event-002",
+        "timestamp": "2026-05-11",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米比合同演習「バリカタン」で退役艦を撃沈",
+        "content": "米国、フィリピン、日本、カナダ軍が参加するバリカタン演習において、退役艦2隻を標的として、陸海空からの攻撃により撃沈。",
+        "involved_parties": [
+          "米軍",
+          "フィリピン軍",
+          "自衛隊",
+          "カナダ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/05/11/us-partner-nations-sink-two-decommissioned-ships-during-exercise-balikatan/"
+      },
+      {
+        "id": "event-003",
+        "timestamp": "2026-05-09/2026-05-11",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "米国の仲介による停戦にも関わらず、ウクライナとロシアが戦闘",
+        "content": "トランプ米大統領の仲介により、5月9日から11日まで停戦合意が成立したにもかかわらず、ウクライナとロシアは前線で戦闘を継続。",
+        "involved_parties": [
+          "ロシア軍",
+          "ウクライナ軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/11/ukraine-and-russia-fight-on-despite-us-mediated-ceasefire/"
+      },
+      {
+        "id": "event-004",
+        "timestamp": "2026-05-11",
+        "location": "ラトビア（バルト海沿岸）",
+        "region": "europe",
+        "title": "ウクライナのドローン攻撃がバルト海の燃料貯蔵施設に着弾",
+        "content": "ウクライナのドローン攻撃により、バルト海沿岸の燃料貯蔵施設が被害を受ける。ロシアがウクライナのドローンを欺瞞し、意図的に近隣諸国へ誘導した可能性。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/11/ukrainian-drone-strike-on-empty-baltic-fuel-depot-prompts-top-level-resignation-in-latvia/"
+      },
+      {
+        "id": "event-005",
+        "timestamp": "2026-05-10",
+        "location": "オーストリア、オーバーエスターライヒ州",
+        "region": "europe",
+        "title": "オーストリア軍機が米軍機を2日連続で迎撃",
+        "content": "オーストリア軍機が、ドイツ国境から60km以上離れたオーバーエスターライヒ州トーテス・ゲビルゲ山地上空で、許可のない米軍機を迎撃。",
+        "involved_parties": [
+          "オーストリア軍",
+          "米軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/13/austrian-jets-intercept-unauthorized-us-military-planes-two-days-in-a-row/"
+      },
+      {
+        "id": "event-006",
+        "timestamp": "2026-05-02",
+        "location": "モロッコ南部沿岸",
+        "region": "middle_east",
+        "title": "モロッコでの米軍演習中に不明となった兵士の遺体を発見",
+        "content": "モロッコ南部で行われた米軍演習中に不明となっていた米兵2名のうち、2人目の遺体が発見された。",
+        "involved_parties": [
+          "米軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/05/14/us-army-recovers-remains-of-second-soldier-reported-missing-during-moroccan-exercise/"
+      },
+      {
+        "id": "event-007",
+        "timestamp": "2026-05-14",
+        "location": "イスラエル",
+        "region": "middle_east",
+        "title": "イスラエル、イランとの戦争を想定しF-35Iの航続距離を延長",
+        "content": "エルビットシステムズがF-35Iの航続距離延長のため、約3400万ドルの開発契約を獲得。",
+        "involved_parties": [
+          "イスラエル"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/05/14/israel-to-extend-f-35i-range-amid-war-with-iran/"
+      },
+      {
+        "id": "event-008",
+        "timestamp": "2026-05-15",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米海兵隊、フィリピンで離島奪還訓練を実施",
+        "content": "米海兵隊がフィリピンで離島奪還訓練を実施。本国では実弾射撃に制限があるため、海外での実射訓練の機会を重視。",
+        "involved_parties": [
+          "米海兵隊",
+          "フィリピン軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/15/us-marines-practice-seizing-remote-islands-in-philippine-exercise/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-15",
     "summary": "日米比加が参加するバリカタン演習で退役艦艇を撃沈。日本がフィリピンで初のミサイル発射を実施。ウクライナとロシアは停戦合意にも関わらず戦闘継続。イスラエルはイランとの戦争中にF-35Iの航続距離を延長。",
     "events": [
@@ -4309,76 +4443,6 @@
         "involved_parties": [
           "イギリス軍",
           "ロシア軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-15",
-    "summary": "ホルムズ海峡における緊張が継続し、アメリカ海軍が封鎖を開始。米イラン間の和平交渉は決裂。ウクライナではドイツ製兵器の実戦データ収集が進む。エストニアはドローンと防空システム購入のため戦闘車両予算を転用。",
-    "events": [
-      {
-        "id": "event_1",
-        "timestamp": "2026-04-12",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "アメリカ海軍によるホルムズ海峡封鎖",
-        "content": "トランプ大統領は、アメリカ海軍がホルムズ海峡を直ちに封鎖すると発表。イランによる攻撃に対しては断固とした措置を取ることを示唆し、緊張が高まっている。",
-        "involved_parties": [
-          "アメリカ海軍",
-          "イラン"
-        ],
-        "event_type": "blockade",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
-      },
-      {
-        "id": "event_2",
-        "timestamp": "2026-04-12",
-        "location": "パキスタン",
-        "region": "middle_east",
-        "title": "米イラン和平交渉が決裂",
-        "content": "アメリカとイランの間で行われていた和平交渉が決裂。双方が相手に責任を転嫁しており、数千人が死亡し世界経済を混乱させている紛争の終結は見通せない状況。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/"
-      },
-      {
-        "id": "event_3",
-        "timestamp": "2026-04-14",
-        "location": "Red Sea",
-        "region": "middle_east",
-        "title": "イエメンのフーシ派による紅海の脅威",
-        "content": "専門家は、ホルムズ海峡だけでなく、イエメンのフーシ派が紅海を潜在的なチョークポイントとして利用する可能性を警告している。",
-        "involved_parties": [
-          "フーシ派"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/14/amid-focus-on-strait-of-hormuz-experts-sound-warning-on-yemens-houthis-and-red-sea/"
-      },
-      {
-        "id": "event_4",
-        "timestamp": "2026-04-09",
-        "location": "北大西洋",
-        "region": "europe",
-        "title": "イギリス軍によるロシア潜水艦の抑止",
-        "content": "イギリス軍は、海底ケーブルへの攻撃を阻止するため、ロシアの潜水艦を抑止するために軍隊を派遣。ノルウェー軍もP-8哨戒機とフリゲート艦を展開。",
-        "involved_parties": [
-          "イギリス軍",
-          "ロシア軍",
-          "ノルウェー軍"
         ],
         "event_type": "other",
         "urgency": "medium",
