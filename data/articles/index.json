@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-16",
-    "summary": "ウクライナ情勢の悪化、中東における緊張の高まり、米中関係の複雑化が地政学リスクを高めている。特に、イスラエルとレバノンの停戦合意延長にもかかわらず攻撃が継続しており、懸念される。",
+    "summary": "ウクライナ情勢の悪化、中東における緊張の高まり、アフリカにおける人道危機など、地政学リスクが複合的に高まっている。米中関係の動向も注視が必要。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "none",
-      "south_asia": "medium",
+      "south_asia": "none",
       "central_asia": "none",
-      "middle_east": "critical",
+      "middle_east": "high",
       "europe": "critical",
-      "africa": "high",
-      "north_america": "medium",
+      "africa": "medium",
+      "north_america": "low",
       "south_america": "none"
     },
-    "generated_at": "2026-05-16T16:01:23.929198"
+    "generated_at": "2026-05-16T19:10:42.029966"
   },
   {
     "date": "2026-05-15",

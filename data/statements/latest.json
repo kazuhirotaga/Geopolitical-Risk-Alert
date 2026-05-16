@@ -1,133 +1,51 @@
 {
   "date": "2026-05-16",
-  "summary": "FRB関連の動きが中心。パウエル議長代行の任命、ウォーシュ氏の新議長就任予定、理事の辞任、銀行関連の承認・終了措置など、FRBの組織と規制に関する動きが目立つ。金融政策への直接的な言及は少ない。",
+  "summary": "FRB人事の変動と金融機関への規制緩和が中心。パウエル議長代行の任命、ウォーシュ新議長の就任予定、UBSグループなどに対するエンフォースメントアクションの終了などが発表された。市場への直接的な影響は限定的だが、今後の金融政策への影響が注目される。",
   "statements": [
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "ジェローム・H・パウエルを議長代行に任命する。パウエルはケビン・M・ウォーシュが新議長として就任するまで議長代行を務める。",
-      "context": "FRBのプレスリリース",
-      "analysis": "ウォーシュ氏の議長就任が決定しており、パウエル氏は一時的な議長代行となる。金融政策の方向性への影響は、ウォーシュ氏の政策スタンスに依存する。市場は新議長の政策手腕を見極める段階に入るだろう。",
-      "importance": "high",
+      "speaker": "Federal Reserve Board",
+      "title": "連邦準備制度理事会",
+      "quote": "ジェローム・H・パウエルを臨時代理議長に任命する。パウエルは、ケビン・M・ウォーシュが新議長として就任するまでその職を務める。",
+      "context": "連邦準備制度理事会のプレスリリース",
+      "analysis": "パウエル氏が臨時代理議長に任命されたことは、FRB議長交代までの暫定的な措置であり、政策の継続性を示唆する。ウォーシュ氏の議長就任時期が明確でないため、今後の金融政策の方向性に対する不確実性が残る。",
+      "importance": "medium",
       "tags": [
         "FRB",
         "議長",
-        "人事",
-        "金融政策"
+        "人事"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm"
     },
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "Stephen M. Calk 2025 Trustによる申請を承認する。",
-      "context": "FRBのプレスリリース",
-      "analysis": "具体的な内容は不明だが、銀行規制に関するFRBの審査プロセスの一環。個別の信託に関する承認であり、市場全体への影響は限定的と考えられる。",
-      "importance": "low",
-      "tags": [
-        "FRB",
-        "銀行",
-        "規制"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "United Texas Bankの連邦準備制度による監督から通貨監督庁による国立銀行への転換に異議を唱えないことを発表する。",
-      "context": "FRBのプレスリリース",
-      "analysis": "銀行の監督機関の変更に関する発表。銀行の経営戦略や規制環境への適応を示す動きであり、地域金融機関の動向を把握する上で参考になる。",
-      "importance": "low",
-      "tags": [
-        "FRB",
-        "銀行",
-        "規制",
-        "地域金融"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "UBS Group AG、Credit Suisse AG、Credit Suisse Holdings (USA), Inc.、および Credit Suisse AG, New York Branchとの執行措置の終了を発表する。",
-      "context": "FRBのプレスリリース",
-      "analysis": "過去の不正行為や規制違反に対する是正措置が完了したことを示す。金融機関の健全性向上に貢献する一方、過去の不正行為の規模や内容によっては、市場の信頼回復に時間がかかる可能性もある。",
+      "speaker": "Federal Reserve Board",
+      "title": "連邦準備制度理事会",
+      "quote": "UBSグループAG、クレディ・スイスAG、クレディ・スイス・ホールディングス（USA）、インク、およびクレディ・スイスAGニューヨーク支店とのエンフォースメントアクションの終了を発表する。",
+      "context": "連邦準備制度理事会のプレスリリース",
+      "analysis": "UBSグループとクレディ・スイスに対するエンフォースメントアクションの終了は、これらの金融機関の規制遵守状況が改善されたことを示唆する。金融セクター全体の安定化に寄与する可能性がある。",
       "importance": "medium",
       "tags": [
         "FRB",
-        "銀行",
         "規制",
-        "コンプライアンス",
-        "UBS",
-        "Credit Suisse"
+        "金融機関"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm"
     },
     {
       "speaker": "Stephen I. Miran",
       "title": "連邦準備制度理事会理事",
-      "quote": "後任の理事が就任する際、またはその直前に、連邦準備制度理事会の理事を辞任する。",
-      "context": "FRBのプレスリリース",
-      "analysis": "理事の辞任は、FRBの政策決定に影響を与える可能性がある。後任の人選や、Miran氏の辞任理由によっては、金融市場に変動が生じる可能性もある。",
+      "quote": "連邦準備制度理事会の理事を辞任する。辞任は、後任の理事が就任する時、またはその直前に発効する。",
+      "context": "連邦準備制度理事会のプレスリリース",
+      "analysis": "ミラン理事の辞任は、FRBの政策決定に影響を与える可能性がある。後任人事によっては、金融政策の方向性が変わる可能性も考慮する必要がある。",
       "importance": "medium",
       "tags": [
         "FRB",
         "理事",
-        "人事",
-        "金融政策"
+        "辞任"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "銀行のシニア金融担当役員を対象とした、割引窓口の営業日数と準備預金残高の管理戦略および慣行に関する2つの調査結果を発表する。",
-      "context": "FRBのプレスリリース",
-      "analysis": "銀行の流動性管理に関する調査結果であり、金融システムの安定性評価に役立つ。調査結果の詳細な分析により、金融機関のリスク管理体制やFRBの金融政策の効果に関する洞察が得られる。",
-      "importance": "medium",
-      "tags": [
-        "FRB",
-        "銀行",
-        "流動性",
-        "準備預金",
-        "金融政策"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "2025年の米国家計の経済的幸福に関する報告書を発表する。",
-      "context": "FRBのプレスリリース",
-      "analysis": "家計の経済状況に関する包括的な報告書であり、FRBの金融政策決定における重要な判断材料となる。インフレ、雇用、所得格差などの問題に対する政策対応の方向性を示唆する可能性がある。",
-      "importance": "high",
-      "tags": [
-        "FRB",
-        "家計",
-        "経済",
-        "インフレ",
-        "雇用",
-        "所得"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "F & M Holding Company, Inc. および Thread Bancorp, Inc.との執行措置の終了を発表する。",
-      "context": "FRBのプレスリリース",
-      "analysis": "銀行持株会社に対する過去の規制違反に関する是正措置が完了したことを示す。地域金融機関のコンプライアンス体制強化に貢献する。",
-      "importance": "low",
-      "tags": [
-        "FRB",
-        "銀行",
-        "規制",
-        "コンプライアンス"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm"
     }
   ],
-  "generated_at": "2026-05-16T16:02:02.462674",
+  "generated_at": "2026-05-16T19:11:10.916723",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
