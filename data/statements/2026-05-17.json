@@ -1,37 +1,38 @@
 {
   "date": "2026-05-17",
-  "summary": "FRB関連の動きが中心。パウエル議長代行の任命、新議長の就任予定、理事の辞任、銀行関連の規制緩和などが発表された。金融政策の方向性への直接的な言及はないものの、人事と規制緩和の動向が注目される。",
+  "summary": "FRB関連の動きが中心。パウエル議長代行の任命、ウォーシュ新議長の就任予定、理事の辞任、銀行関連の承認・終了措置など、FRBの組織と規制に関する動きが目立つ。金融政策に関する直接的な発言は確認されず。",
   "statements": [
     {
       "speaker": "Jerome H. Powell",
       "title": "Federal Reserve Board chair pro tempore",
-      "quote": "ケビン・M・ウォーシュ氏が新議長に就任するまで、議長代行を務める。",
-      "context": "連邦準備制度理事会による発表",
-      "analysis": "パウエル氏が一時的に議長代行を務めることは、新議長就任までの移行期間におけるFRBの政策運営の安定性を示唆する。市場への直接的な影響は限定的と考えられるが、新議長の政策手腕に対する期待と不安が入り混じる可能性がある。",
+      "quote": "議長代行として職務を遂行する。",
+      "context": "ケビン・M・ウォーシュ氏が新議長に就任するまでの間の議長代行としての任命を受けて。",
+      "analysis": "パウエル氏が一時的に議長代行を務めることで、FRBの政策決定に一時的な影響が出る可能性は低い。ウォーシュ氏の議長就任までの繋ぎとしての役割と考えられる。市場への影響は限定的と予想される。",
       "importance": "medium",
       "tags": [
         "FRB",
-        "人事",
-        "金融政策"
+        "議長",
+        "人事"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm"
     },
     {
       "speaker": "Stephen I. Miran",
-      "title": "Member of the Federal Reserve Board",
-      "quote": "後任の理事が就任する、または就任直前に、連邦準備制度理事を辞任する。",
-      "context": "連邦準備制度理事会への辞任届提出",
-      "analysis": "理事の辞任は、FRBの政策決定に影響を与える可能性がある。特に、辞任のタイミングが後任の就任と関連付けられていることから、政策の連続性に対する配慮が見られる。後任人事の発表が待たれる。",
+      "title": "member of the Federal Reserve Board",
+      "quote": "後任の理事が就任する時、またはその直前に辞任する。",
+      "context": "連邦準備制度理事会理事としての辞任を表明。",
+      "analysis": "理事の辞任はFRBの政策決定に影響を与える可能性がある。後任人事が速やかに決定されるかどうかが注目される。辞任の理由や背景によっては、市場に不透明感を与える可能性もある。",
       "importance": "medium",
       "tags": [
         "FRB",
-        "人事",
-        "金融政策"
+        "理事",
+        "辞任",
+        "人事"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm"
     }
   ],
-  "generated_at": "2026-05-17T13:39:30.219130",
+  "generated_at": "2026-05-17T16:01:51.520048",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
