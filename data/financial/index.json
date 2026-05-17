@@ -1,16 +1,16 @@
 [
   {
     "date": "2026-05-17",
-    "summary": "世界経済は、インフレ高止まりと金利引き下げに対するFRB内の意見対立、地政学的リスク（ホルムズ海峡封鎖の可能性、イラン情勢）、暗号資産市場の変動性、米中貿易関係の複雑さなどにより、全体的に中程度のリスクに晒されている。AI関連銘柄への過熱感も懸念される。",
-    "overall_risk_level": "medium",
+    "summary": "世界経済は、インフレ高止まりによる利下げ期待の後退、地政学的リスク、AI関連株への過熱感などから、全体的に高いリスクに晒されている。特に、原油価格の高騰、暗号資産市場の不安定性、米中関係の動向が注目される。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "critical",
       "north_america": "medium",
-      "europe": "medium",
+      "europe": "none",
       "east_asia": "medium"
     },
-    "generated_at": "2026-05-17T08:26:24.506292"
+    "generated_at": "2026-05-17T10:25:52.108960"
   },
   {
     "date": "2026-05-16",

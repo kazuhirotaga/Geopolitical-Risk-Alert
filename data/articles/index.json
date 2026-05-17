@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-17",
-    "summary": "ウクライナ情勢の悪化、中東におけるイスラエルとイランの緊張、アフリカでのエボラ出血熱流行など、地政学リスクは全体的に高い。特にウクライナと中東地域は、紛争激化の懸念からリスクレベルがクリティカルに上昇。",
+    "summary": "ウクライナ情勢の悪化、中東における緊張の高まり、アフリカでのエボラ出血熱の流行など、地政学リスクが広範囲にわたり高まっています。特に、ウクライナと中東の状況は、国際的な安全保障に深刻な影響を与える可能性があります。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
       "southeast_asia": "none",
-      "south_asia": "medium",
+      "south_asia": "low",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "critical",
+      "europe": "high",
       "africa": "high",
       "north_america": "medium",
-      "south_america": "low"
+      "south_america": "none"
     },
-    "generated_at": "2026-05-17T08:26:00.948978"
+    "generated_at": "2026-05-17T10:25:24.932525"
   },
   {
     "date": "2026-05-16",
