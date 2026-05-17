@@ -1,78 +1,34 @@
 {
   "date": "2026-05-17",
-  "summary": "世界各地で社会不安が増大しており、特にアフリカでは治安悪化による暴徒化、東南アジア（インド含む）では深刻なエネルギー不足とそれに伴うパニック買いが顕著です。中東では医療物資不足と地政学的緊張が続き、ヨーロッパや南米でも大規模デモや政治的混乱が見られます。全体として、世界的な緊迫度は「不安の増大」から「警戒状態」への移行期にあります。",
-  "global_panic_index": 60,
+  "summary": "世界各地では、食料・エネルギー不足、金融不安、治安悪化を巡る抗議活動など、多様な社会不安が広がりを見せています。特に中東のレバノンでは医療物資の深刻な枯渇が生命に関わる危機的状況にあり、アジアでは燃料不足と買いだめ、労働争議の暴徒化が警戒レベルに達しています。アフリカでも治安不安が暴徒化デモに発展し、政府庁舎が放火されるなど不安定な状態が続いています。全体としては、特定の地域で危機的な状況が見られるものの、世界全体で警戒を要する不安定な状況が続いています。",
+  "global_panic_index": 55,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 48,
+      "region": "north_america",
+      "panic_index": 33,
       "status": "unstable",
-      "main_cause": "社会分断、大規模デモ、政治的対立",
+      "main_cause": "財政政策への不満、食料・水資源への懸念",
       "incidents": [
         {
-          "title": "ロンドンで大規模デモ、警察官4000人配備",
-          "location": "イギリス・ロンドン",
-          "severity": 65,
-          "description": "反移民と親パレスチナの2つの大規模デモが中心部を埋め尽くし、警察が4000人配備されるなど厳戒態勢が敷かれた。社会の分断が可視化されている。",
-          "source": "TBS NEWS DIG"
+          "title": "データセンターへの税優遇を巡る抗議デモ",
+          "location": "Hillsboro, 米国",
+          "severity": 45,
+          "description": "オレゴン州ヒルズボロのデータセンターに対する数百万ドル規模の減税措置に反対する抗議デモが拡大し、社会的な不満が高まっています。",
+          "source": "The Hillsboro Herald"
         },
         {
-          "title": "ロンドンでの抗議デモでヘイトクライムに関連し11名逮捕",
-          "location": "イギリス・ロンドン",
-          "severity": 50,
-          "description": "デモにおけるヘイトスピーチを取り締まる中で11名が逮捕された。社会的な緊張が高まり、秩序維持のための当局介入が示されている。",
-          "source": "London Evening Standard"
+          "title": "フードバンクが支援を要請",
+          "location": "Aldergrove, カナダ",
+          "severity": 25,
+          "description": "カナダのアルダーグローブのフードバンクが、利用者のための交通支援と寄付を求めており、地域における食料不安の兆候がうかがえます。",
+          "source": "Langley Advance Times"
         },
         {
-          "title": "英労働党内の不穏な空気の中で候補者承認",
-          "location": "イギリス",
+          "title": "水不足への懸念と解決策の模索",
+          "location": "Cambridge, カナダ",
           "severity": 30,
-          "description": "労働党内の「unrest（不安）」が報じられており、特定の選挙区での候補者承認に際して党内対立が示唆されている。広範な社会パニックには至っていない。",
-          "source": "MSN"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 57,
-      "status": "unstable",
-      "main_cause": "医療・物資不足、地政学的緊張",
-      "incidents": [
-        {
-          "title": "レバノンの病院、数日中に不可欠な医療品が枯渇する可能性",
-          "location": "レバノン",
-          "severity": 80,
-          "description": "WHOがレバノンの病院が数日以内に重要な医療物資を使い果たす可能性があると警告。人道危機につながる深刻な懸念が高まっている。",
-          "source": "DD News"
-        },
-        {
-          "title": "アブダビの原子力施設へのドローン攻撃でIAEAが『重大な懸念』を表明",
-          "location": "アラブ首長国連邦・アブダビ",
-          "severity": 70,
-          "description": "原子力施設へのドローン攻撃について国際原子力機関（IAEA）が強い懸念を示した。地域の安全保障と安定に対する深刻な脅威である。",
-          "source": "Radio Free Europe/Radio Liberty"
-        },
-        {
-          "title": "ヨルダン川西岸の土地売却を非難",
-          "location": "ヨルダン川西岸",
-          "severity": 20,
-          "description": "ヨルダン川西岸の土地売却を巡る政治的論争。地域住民の不満や緊張の背景となる可能性があるが、直接的なパニックには至っていない。",
-          "source": "Jacobin"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 90,
-      "status": "critical",
-      "main_cause": "治安悪化、抗議の暴徒化",
-      "incidents": [
-        {
-          "title": "ナイジェリアで治安悪化への抗議デモ、若者が政府庁舎に放火",
-          "location": "ナイジェリア・Gwarzo",
-          "severity": 90,
-          "description": "治安悪化に対する若者の抗議がエスカレートし、地方政府庁舎に放火された。社会秩序の崩壊と暴力的なパニック状態を示している。",
-          "source": "Daily Post Nigeria"
+          "description": "地域の水不足問題に対し、ケンブリッジの企業が1500万ドルの解決策を提案しています。水資源への懸念が住民の間に存在しています。",
+          "source": "CambridgeToday.ca"
         }
       ]
     },
@@ -80,72 +36,109 @@
       "region": "south_america",
       "panic_index": 60,
       "status": "unstable",
-      "main_cause": "政治的混乱",
+      "main_cause": "広範な社会不安",
       "incidents": [
         {
-          "title": "ラテンアメリカ諸国がボリビアの騒乱への懸念を強める",
+          "title": "ボリビアの社会不安に対する隣国の懸念",
           "location": "ボリビア",
           "severity": 60,
-          "description": "ボリビア国内の社会不安に対し、周辺のラテンアメリカ諸国が懸念を表明している。政治的混乱が地域全体に波及する可能性があり、警戒が必要。",
+          "description": "ボリビアで広がる社会不安について、ラテンアメリカ諸国が懸念を強めています。国内情勢の不安定化が地域全体に波及する恐れがあります。",
           "source": "Bloomberg.com"
         }
       ]
     },
     {
-      "region": "east_asia",
+      "region": "europe",
       "panic_index": 40,
-      "status": "stable",
-      "main_cause": "不動産市場の混乱",
+      "status": "unstable",
+      "main_cause": "デモ中の秩序悪化、ヘイトクライム",
       "incidents": [
         {
-          "title": "ソウルのアパート売買、全税、家賃が『トリプル高騰』、5年で最悪の供給不足",
-          "location": "韓国・ソウル",
+          "title": "ロンドンでの抗議デモ中のヘイトクライムによる逮捕",
+          "location": "London, UK",
           "severity": 40,
-          "description": "ソウルの不動産市場で供給不足が深刻化し、価格が高騰。多くの住民が住居確保への不安を感じており、経済的な社会不安が広がっている。",
-          "source": "아시아경제"
+          "description": "ロンドンでの抗議デモ中に有害な言論を巡るヘイトクライムが発生し、11人が逮捕されました。デモの混乱と社会の分断が問題となっています。",
+          "source": "London Evening Standard"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 67,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、パニック買い、社会不安の暴力化",
+      "region": "middle_east",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "医療物資の深刻な不足",
       "incidents": [
         {
-          "title": "インド・アムリトサルで燃料のパニック買い、ガソリンスタンドが枯渇",
-          "location": "インド・アムリトサル",
-          "severity": 90,
-          "description": "アムリトサルで燃料不足が報じられ、市民がパニック買いに走り、ガソリンスタンドの在庫が枯渇した。具体的な社会パニック行動が確認されている。",
-          "source": "MSN"
-        },
-        {
-          "title": "インドの貨物網を襲うディーゼル不足、給油のために80km移動するトラックも",
-          "location": "インド",
+          "title": "レバノンの病院、医療物資枯渇の危機",
+          "location": "レバノン",
           "severity": 85,
-          "description": "インド全土でディーゼル不足が深刻化し、物流網に大きな影響を与えている。トラックが燃料を求めて長距離移動するなど、経済活動への打撃が大きい。",
+          "description": "WHOは、レバノンの病院が数日以内に重要な医療物資を使い果たす可能性が高いと警告しています。これは人命に関わる極めて深刻な危機です。",
+          "source": "DD News"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 53,
+      "status": "volatile",
+      "main_cause": "治安不安を巡る暴徒化デモ",
+      "incidents": [
+        {
+          "title": "治安不安を巡る抗議デモが暴徒化し政府庁舎が放火",
+          "location": "Kano, Gwarzo, ナイジェリア",
+          "severity": 75,
+          "description": "ナイジェリアのカノ州グワルゾで、治安不安に対する若者たちの抗議デモが暴徒化。政府庁舎が放火されるなど、社会秩序が深刻な混乱に陥っています。",
+          "source": "Business News Nigeria / Daily Post Nigeria"
+        },
+        {
+          "title": "プロジェクト配置を巡る住民抗議",
+          "location": "ガーナ",
+          "severity": 30,
+          "description": "ガーナで、24時間経済市場とUHAS薬局プロジェクトの配置を巡り、住民が抗議活動を行っています。地域開発に関する不満が表面化しています。",
+          "source": "MyJoyOnline"
+        }
+      ]
+    },
+    {
+      "region": "asia",
+      "panic_index": 61,
+      "status": "volatile",
+      "main_cause": "エネルギー不足と買いだめ、労働争議の暴徒化、誤情報による社会不安、住宅供給不足",
+      "incidents": [
+        {
+          "title": "インド全土でディーゼル不足が物流を直撃",
+          "location": "インド",
+          "severity": 75,
+          "description": "インドの貨物輸送網をディーゼル不足が直撃。トラック運転手が80kmも燃料を探し回る状況で、燃料ポンプが枯渇し、物流に深刻な影響が出ています。",
           "source": "MSN"
         },
         {
-          "title": "インド・デヘラードゥーンの工業地域で労働不安が暴力化、禁止命令を発令",
-          "location": "インド・デヘラードゥーン",
-          "severity": 80,
-          "description": "労働不安が暴力的衝突に発展し、工業地域に禁止命令が発令された。社会秩序が著しく乱れており、警戒すべき状況である。",
+          "title": "アムリトサルで燃料不足によるパニック買い",
+          "location": "Amritsar, インド",
+          "severity": 78,
+          "description": "アムリトサルで燃料不足によるパニック買いが発生し、ガソリンスタンドが燃料切れに陥っています。市民の間に強い不安が広がっています。",
+          "source": "MSN"
+        },
+        {
+          "title": "ノイダの工業地帯で労働争議が暴徒化し禁止命令",
+          "location": "Dehradun, インド",
+          "severity": 70,
+          "description": "インドのデラドゥンの工業地帯で労働争議が暴徒化し、秩序維持のために禁止命令が発令されました。社会的な緊張が非常に高まっています。",
           "source": "The New Indian Express"
         },
         {
-          "title": "インド・ボンナイで深刻な燃料不足、ガソリンポンプが在庫切れ",
-          "location": "インド・オディシャ州ボンナイ",
-          "severity": 75,
-          "description": "オディシャ州ボンナイで深刻な燃料不足が発生し、ガソリンポンプの在庫が完全に枯渇した。生活インフラへの影響が懸念される。",
-          "source": "Odisha TV"
+          "title": "ソーシャルメディアの誤情報がノイダの社会不安を誘発",
+          "location": "Noida, インド",
+          "severity": 55,
+          "description": "ノイダでの抗議デモを巡り、ソーシャルメディア上の誤情報が社会不安を煽り、当局が虚偽情報対策に乗り出しています。情報混乱が事態を悪化させています。",
+          "source": "MSN"
         },
         {
-          "title": "インド・ノイダでの抗議デモ、ソーシャルメディアの誤情報が不安を煽る",
-          "location": "インド・ノイダ",
-          "severity": 50,
-          "description": "ノイダでの抗議デモに関連し、ソーシャルメディア上の誤情報が社会不安を増幅させている。情報の混乱がパニックにつながるリスクがある。",
-          "source": "MSN"
+          "title": "ソウルの住宅市場で過去5年間で最悪の供給不足",
+          "location": "Seoul, 韓国",
+          "severity": 40,
+          "description": "ソウルのマンション販売、チョンセ、家賃が「トリプルブルラン」となり、過去5年間で最悪の供給不足に直面。住宅市場の不安定化が社会不安の要因となっています。",
+          "source": "아시아경제"
         }
       ]
     }
