@@ -1,22 +1,22 @@
 {
   "date": "2026-05-17",
-  "summary": "世界的なインフレ懸念とそれに伴う債券利回りの上昇が株式市場を圧迫。米連邦準備制度理事会（FRB）の利下げ期待が後退し、ドル高が進む。地政学的リスクも高まり、原油価格高騰の可能性も。",
-  "overall_risk_level": "high",
+  "summary": "世界経済は、インフレ高止まりと金利引き下げに対するFRB内の意見対立、地政学的リスク（ホルムズ海峡封鎖の可能性、イラン情勢）、暗号資産市場の変動性、米中貿易関係の複雑さなどにより、全体的に中程度のリスクに晒されている。AI関連銘柄への過熱感も懸念される。",
+  "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "Global shares stumble while bond yields climb on inflation worries",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "インフレ懸念から債券利回りが上昇し、世界株式市場が下落。FRBの利下げ期待が後退し、リスクオフの動きが強まっている。",
-      "analysis": "インフレ圧力の高まりは、各国の金融政策に影響を与え、利上げ圧力を強める可能性が高い。債券利回りの上昇は、企業の借入コストを増加させ、設備投資や成長を抑制する要因となる。株式市場は、金利上昇と景気減速のダブルパンチに見舞われるリスクが高まっている。特に、高PERのグロース株や新興国市場は、影響を受けやすい。投資家は、リスク資産のポジションを縮小し、安全資産へのシフトを検討する必要がある。",
+      "title": "China signals tariff cuts, advances in farm market access after Trump-Xi summit",
+      "region": "east_asia",
+      "risk_level": "low",
+      "summary": "米中首脳会談後、中国が関税引き下げと農産物市場へのアクセス改善を示唆。米中間の貿易関係改善の兆しが見られる。",
+      "analysis": "米中間の貿易摩擦緩和は、世界経済の安定化に寄与する可能性がある。特に農産物市場にとってはプラス要因となる。ただし、具体的な関税引き下げ幅や市場開放の程度によっては、影響が限定的になる可能性もある。今後の両国間の交渉の進展を注視する必要がある。地政学的な緊張が緩和されれば、投資家のリスク選好度が高まり、株式市場にも好影響を与える可能性がある。",
       "key_entities": [
-        "FRB",
-        "各国中央銀行",
-        "債券市場",
-        "株式市場"
+        "China",
+        "U.S.",
+        "Trump",
+        "Xi Jinping"
       ],
       "sources": [
-        "Yahoo Finance"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -26,11 +26,12 @@
       "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
       "region": "global",
       "risk_level": "medium",
-      "summary": "FRBの新理事であるKevin Warshは、インフレ高止まりの中で利下げを求める声と対峙することになる。政策決定の不確実性が高まっている。",
-      "analysis": "Warsh理事の就任は、FRBの政策スタンスに変化をもたらす可能性がある。インフレ抑制を重視するWarsh理事の存在は、早期利下げ期待を抑制し、タカ派的な政策を支持する勢力を強める可能性がある。政策決定の不確実性は、市場のボラティリティを高め、投資家のリスク選好度を低下させる要因となる。今後のFRBの政策決定に注目が集まる。",
+      "summary": "インフレ高止まりと米国債利回り急騰の中、ケビン・ウォーシュがFRB入り。利下げに消極的なFOMCとの対立が予想される。",
+      "analysis": "FRB内部の意見対立は、金融政策の不確実性を高め、市場のボラティリティを増大させる可能性がある。特に、インフレ抑制と景気後退回避という二つの目標の間でバランスを取ることが難しくなる。利上げが継続されれば、景気後退のリスクが高まり、株式市場や債券市場に悪影響を与える可能性がある。一方、早期の利下げはインフレを再燃させるリスクがある。FRBの政策決定は、世界経済全体に大きな影響を与えるため、その動向を注意深く監視する必要がある。",
       "key_entities": [
-        "FRB",
-        "Kevin Warsh"
+        "Federal Reserve",
+        "Kevin Warsh",
+        "FOMC"
       ],
       "sources": [
         "CNBC - Top News"
@@ -42,14 +43,13 @@
     {
       "title": "Global oil stockpiles could hit record lows if Strait of Hormuz remains closed",
       "region": "global",
-      "risk_level": "critical",
-      "summary": "ホルムズ海峡の閉鎖が続けば、世界の原油在庫が記録的な低水準に達する可能性がある。原油価格の高騰と世界経済への影響が懸念される。",
-      "analysis": "ホルムズ海峡は、世界の原油輸送の重要なルートであり、閉鎖されれば原油供給に深刻な影響を与える。原油価格の高騰は、インフレを加速させ、景気減速を招く可能性がある。地政学的リスクの高まりは、金融市場の不安定化を招き、投資家のリスク回避姿勢を強める要因となる。エネルギー関連企業にとっては、価格上昇の恩恵を受ける可能性がある一方、供給途絶のリスクも考慮する必要がある。",
+      "risk_level": "high",
+      "summary": "ホルムズ海峡の閉鎖が続けば、世界の石油在庫が5月末までに過去最低水準に達する可能性があるとUBSが警告。",
+      "analysis": "ホルムズ海峡は、世界の石油輸送の重要なルートであり、その閉鎖は原油価格の急騰を引き起こす可能性がある。原油価格の上昇は、インフレを加速させ、世界経済の成長を阻害する要因となる。特に、エネルギー輸入依存度の高い国々にとっては深刻な影響が予想される。地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株式市場や債券市場にも悪影響を与える可能性がある。代替輸送ルートの確保や、石油備蓄の放出などの対策が急務となる。",
       "key_entities": [
-        "ホルムズ海峡",
-        "OPEC",
-        "原油市場",
-        "UBS"
+        "UBS",
+        "Strait of Hormuz",
+        "Oil"
       ],
       "sources": [
         "CNBC - Top News"
@@ -59,71 +59,15 @@
       ]
     },
     {
-      "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
+      "title": "Crypto users are choosing juicy yields over protection, putting billions at risk of hacks",
       "region": "global",
       "risk_level": "high",
-      "summary": "ビットコインが78,000ドルまで下落し、SOLやXRPも5%下落。レバレッジをかけた暗号資産ロングポジションが5億ドルの損失を計上。",
-      "analysis": "暗号資産市場は、依然として高いボラティリティに晒されており、レバレッジ取引は大きな損失を招く可能性がある。金利上昇やインフレ懸念などのマクロ経済要因も、暗号資産市場に影響を与えている。規制の不確実性も、市場の成長を阻害する要因となっている。投資家は、暗号資産への投資には慎重な姿勢を保ち、リスク管理を徹底する必要がある。",
+      "summary": "暗号資産ユーザーが高利回りを優先し、セキュリティ対策を怠ることで、ハッキングのリスクに晒されている。",
+      "analysis": "DeFi（分散型金融）プラットフォームにおける高利回りは魅力的だが、セキュリティリスクも高い。スマートコントラクトの脆弱性や、プラットフォーム自体の信頼性の問題など、様々なリスクが存在する。ハッキングによる資金流出は、投資家にとって大きな損失となるだけでなく、暗号資産市場全体の信頼性を損なう可能性がある。規制の整備や、セキュリティ対策の強化が急務となる。投資家自身も、リスクを十分に理解した上で、慎重な投資判断を行う必要がある。",
       "key_entities": [
-        "ビットコイン",
-        "SOL",
-        "XRP",
-        "暗号資産市場"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "China signals tariff cuts, advances in farm market access after Trump-Xi summit",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "米中首脳会談後、中国が関税引き下げと農産物市場へのアクセス改善を示唆。貿易関係改善への期待が高まる。",
-      "analysis": "米中間の貿易関係改善は、世界経済の成長を促進する要因となる。関税引き下げは、貿易量を増加させ、企業の収益を改善する可能性がある。しかし、米中間の構造的な対立は依然として存在し、貿易関係の改善が一時的なものに終わる可能性もある。今後の米中関係の動向に注目が集まる。",
-      "key_entities": [
-        "中国商務省",
-        "トランプ",
-        "習近平"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "UAE says its decision to leave OPEC was a strategic economic move, not a political one",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "UAEがOPEC脱退を戦略的な経済的決定と説明。原油市場への影響とOPECの結束への懸念が生じる。",
-      "analysis": "UAEのOPEC脱退は、OPECの原油政策に影響を与える可能性がある。UAEが独自の生産戦略を追求することで、原油価格の変動性が高まる可能性がある。OPECの結束が弱まれば、原油市場の安定性が損なわれるリスクがある。他のOPEC加盟国の動向にも注目が集まる。",
-      "key_entities": [
-        "UAE",
-        "OPEC",
-        "原油市場"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "SpaceXが6月11日にIPO価格を決定し、ナスダックに上場予定。IPO市場への影響と評価額に注目が集まる。",
-      "analysis": "SpaceXのIPOは、近年稀に見る大型IPOであり、市場の注目を集めている。SpaceXの成功は、他の宇宙関連企業のIPOを促進する可能性がある。しかし、IPO市場は、景気変動や金利動向に影響を受けやすく、SpaceXのIPOが成功するかどうかは不確実である。Jim Cramer氏がSpaceXのIPOが市場に破壊的である可能性を示唆している点も考慮する必要がある。",
-      "key_entities": [
-        "SpaceX",
-        "ナスダック",
-        "IPO市場",
-        "Jim Cramer"
+        "Crypto",
+        "DeFi",
+        "Hacks"
       ],
       "sources": [
         "CoinDesk"
@@ -136,12 +80,12 @@
       "title": "Stocks like Nvidia have accelerating 'momentum,' Goldman Sachs says",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ゴールドマン・サックスがNvidiaのような株は勢いがあると指摘。AI関連株への投資熱が高まっている。",
-      "analysis": "AI関連株は、高い成長性への期待から投資家の関心を集めている。Nvidiaは、AIチップ市場で高いシェアを誇り、今後の成長が期待される。しかし、AI関連株は、PERが高く、バリュエーションが割高であるとの指摘もある。市場の過熱感には注意が必要である。",
+      "summary": "ゴールドマン・サックスは、Nvidiaのような銘柄が勢いを増していると指摘。AI関連銘柄への過熱感を示唆。",
+      "analysis": "AI関連銘柄への投資家の関心が高まり、株価が急騰している。しかし、その成長が持続可能かどうかは不透明である。過度な期待は、バブルを形成し、株価の急落を招く可能性がある。企業のファンダメンタルズを慎重に分析し、過熱感に注意する必要がある。金利上昇や景気後退などの外部要因も、AI関連銘柄の株価に影響を与える可能性がある。",
       "key_entities": [
         "Nvidia",
-        "ゴールドマン・サックス",
-        "AI関連株"
+        "Goldman Sachs",
+        "AI"
       ],
       "sources": [
         "CNBC - Top News"
@@ -151,34 +95,15 @@
       ]
     },
     {
-      "title": "Trump went big on tech stocks in first quarter of 2026, new filings show",
+      "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
       "region": "global",
-      "risk_level": "low",
-      "summary": "トランプ氏が2026年第1四半期にAmazon、Meta、Oracleなどのテクノロジー株を大量に購入。",
-      "analysis": "トランプ氏の投資行動は、市場に影響を与える可能性がある。トランプ氏がテクノロジー株に強気であることは、市場のセンチメントを改善する可能性がある。しかし、トランプ氏の投資判断が常に正しいとは限らず、投資家は自身の判断に基づいて投資を行う必要がある。",
-      "key_entities": [
-        "トランプ",
-        "Amazon",
-        "Meta",
-        "Oracle"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Saudi Arabia is tokenizing its multi-trillion dollar economy to protect its wealth from global shocks",
-      "region": "middle_east",
       "risk_level": "medium",
-      "summary": "サウジアラビアが、グローバルショックから資産を守るために、数兆ドル規模の経済をトークン化。",
-      "analysis": "サウジアラビアのトークン化戦略は、新たな資金調達手段や投資機会を生み出す可能性がある。しかし、トークン化された資産の価値評価や規制の整備は、まだ初期段階にあり、リスクも存在する。暗号資産市場のボラティリティやセキュリティリスクも考慮する必要がある。",
+      "summary": "SpaceXが6月11日にIPO価格を決定し、ナスダックでの歴史的なデビューを目指す。",
+      "analysis": "SpaceXのIPOは、市場に大きな注目を集めることが予想される。しかし、Jim Cramerが指摘するように、投機的な性質が強く、市場全体に悪影響を及ぼす可能性もある。IPO価格が過大評価されている場合、株価の急落を招き、投資家の損失を招く可能性がある。また、SpaceXの成功は、他の宇宙関連企業のIPOを促進する可能性があるが、その中には、実績の乏しい企業も含まれる可能性があるため、注意が必要である。",
       "key_entities": [
-        "サウジアラビア",
-        "暗号資産",
-        "トークン化"
+        "SpaceX",
+        "Nasdaq",
+        "IPO"
       ],
       "sources": [
         "CoinDesk"
@@ -186,15 +111,84 @@
       "source_types": [
         "media"
       ]
+    },
+    {
+      "title": "Trump says China and Taiwan should 'both cool it'",
+      "region": "east_asia",
+      "risk_level": "medium",
+      "summary": "トランプ大統領が中国と台湾に対し、「冷静になるべき」と発言。米中関係と台湾情勢に対する懸念が残る。",
+      "analysis": "トランプ大統領の発言は、米中間の緊張緩和を促す意図があると考えられる。しかし、台湾問題は、米中関係における最もデリケートな問題の一つであり、わずかな発言でも市場に大きな影響を与える可能性がある。中国が台湾に対する軍事的な圧力を強める場合、地政学的リスクが高まり、世界経済に悪影響を与える可能性がある。米国の台湾に対する政策も、今後の米中関係を左右する重要な要素となる。",
+      "key_entities": [
+        "Trump",
+        "China",
+        "Taiwan"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "UAE says its decision to leave OPEC was a strategic economic move, not a political one",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "UAEがOPEC脱退は政治的ではなく戦略的な経済的動きだと発表。原油市場への影響が懸念される。",
+      "analysis": "UAEのOPEC脱退は、原油市場の安定性に影響を与える可能性がある。UAEが独自の生産戦略を追求することで、OPECの結束力が弱まり、原油価格の変動性が高まる可能性がある。また、他の産油国もUAEに追随する可能性があり、OPECの存在意義が問われることになるかもしれない。原油価格の変動は、インフレや景気動向に大きな影響を与えるため、その動向を注意深く監視する必要がある。",
+      "key_entities": [
+        "UAE",
+        "OPEC"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, May 16, 2026: Rates rise right along with Treasury yields",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "住宅ローン金利と借り換え金利が上昇。米国債利回りの上昇に連動。",
+      "analysis": "米国債利回りの上昇は、住宅ローン金利の上昇を招き、住宅市場に悪影響を与える可能性がある。住宅購入意欲の減退や、住宅価格の下落などが予想される。また、借り換え金利の上昇は、既存の住宅ローン保有者の負担を増大させる可能性がある。金利上昇は、消費者の購買力を低下させ、景気全体の減速につながる可能性もある。",
+      "key_entities": [
+        "Mortgage Rates",
+        "Treasury Yields"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Berkshire's new CEO overhauls portfolio, dumping a slate of stocks",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "バークシャー・ハサウェイの新CEOがポートフォリオを大幅に見直し、多くの株式を売却。",
+      "analysis": "バークシャー・ハサウェイのポートフォリオ変更は、市場に影響を与える可能性がある。特に、大量に売却された銘柄の株価は下落する可能性がある。また、バークシャー・ハサウェイの投資戦略の変化は、他の投資家の投資判断にも影響を与える可能性がある。新CEOの投資戦略が、今後のバークシャー・ハサウェイの業績にどのように影響するかを注視する必要がある。",
+      "key_entities": [
+        "Berkshire Hathaway",
+        "Greg Abel"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
     }
   ],
   "region_risk_map": {
-    "global": "critical",
+    "global": "high",
     "north_america": "medium",
     "europe": "medium",
     "east_asia": "medium"
   },
-  "generated_at": "2026-05-17T03:50:17.829467",
+  "generated_at": "2026-05-17T08:26:24.506292",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
