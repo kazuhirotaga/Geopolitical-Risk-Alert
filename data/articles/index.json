@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-17",
-    "summary": "ウクライナ情勢の緊迫化、中東でのイスラエルとハマスの衝突激化、コンゴ民主共和国でのエボラ出血熱流行、UAE原子力発電所へのドローン攻撃など、地政学的リスクが世界的に高まっている。",
+    "summary": "ウクライナ情勢の悪化、中東での緊張激化、コンゴ民主共和国でのエボラ出血熱流行など、地政学的リスクが高まっています。特に、UAE原子力発電所への攻撃は、グローバルな安全保障に対する新たな脅威を示唆しています。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "none",
-      "south_asia": "medium",
+      "south_asia": "low",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
-      "africa": "critical",
-      "north_america": "high",
+      "africa": "high",
+      "north_america": "low",
       "south_america": "none"
     },
-    "generated_at": "2026-05-17T16:01:19.461666"
+    "generated_at": "2026-05-17T19:14:29.138291"
   },
   {
     "date": "2026-05-16",
