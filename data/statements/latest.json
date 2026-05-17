@@ -1,13 +1,13 @@
 {
   "date": "2026-05-17",
-  "summary": "FRB人事の変動と金融機関への規制緩和が中心。パウエル議長代行の任命、ウォーシュ新議長の就任予定、UBSグループなどに対する執行措置の終了などが発表された。市場への直接的な影響は限定的だが、今後の金融政策への注目が集まる。",
+  "summary": "FRB関連の動きが中心。パウエル議長代行の任命、新議長の就任予定、理事の辞任、銀行関連の規制緩和などが発表された。金融政策の方向性への直接的な言及はないものの、人事と規制緩和の動向が注目される。",
   "statements": [
     {
       "speaker": "Jerome H. Powell",
       "title": "Federal Reserve Board chair pro tempore",
-      "quote": "議長代行として、ケビン・M・ウォーシュ氏が新議長に就任するまで職務を遂行する。",
-      "context": "連邦準備制度理事会による議長代行任命の発表",
-      "analysis": "パウエル氏の議長代行就任は一時的なものであり、ウォーシュ氏の新議長就任までの繋ぎ役となる。市場はウォーシュ氏の金融政策手腕に注目しており、今後のFRBの方向性を見極めようとしている。",
+      "quote": "ケビン・M・ウォーシュ氏が新議長に就任するまで、議長代行を務める。",
+      "context": "連邦準備制度理事会による発表",
+      "analysis": "パウエル氏が一時的に議長代行を務めることは、新議長就任までの移行期間におけるFRBの政策運営の安定性を示唆する。市場への直接的な影響は限定的と考えられるが、新議長の政策手腕に対する期待と不安が入り混じる可能性がある。",
       "importance": "medium",
       "tags": [
         "FRB",
@@ -17,35 +17,21 @@
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm"
     },
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "発表",
-      "quote": "UBSグループAG、クレディ・スイスAG、クレディ・スイス・ホールディングス（USA）、インク、およびクレディ・スイスAGニューヨーク支店に対する執行措置を終了する。",
-      "context": "連邦準備制度理事会によるプレスリリース",
-      "analysis": "UBSグループとクレディ・スイスに対する執行措置の終了は、両社の経営状況が改善したことを示唆する。金融市場の安定化に貢献する可能性がある一方、規制緩和の動きとして捉えられ、今後の金融機関のリスク管理に対する懸念も生じうる。",
-      "importance": "medium",
-      "tags": [
-        "FRB",
-        "規制緩和",
-        "金融機関"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm"
-    },
-    {
       "speaker": "Stephen I. Miran",
-      "title": "Federal Reserve Board member",
-      "quote": "理事としての辞任を、後任が就任する時、またはその直前に有効とすることを提出する。",
+      "title": "Member of the Federal Reserve Board",
+      "quote": "後任の理事が就任する、または就任直前に、連邦準備制度理事を辞任する。",
       "context": "連邦準備制度理事会への辞任届提出",
-      "analysis": "理事の辞任は、FRBの政策決定に影響を与える可能性がある。後任人事とその政策スタンスが注目される。辞任のタイミングが後任の就任直前であることから、政策の連続性を意識したものであると考えられる。",
+      "analysis": "理事の辞任は、FRBの政策決定に影響を与える可能性がある。特に、辞任のタイミングが後任の就任と関連付けられていることから、政策の連続性に対する配慮が見られる。後任人事の発表が待たれる。",
       "importance": "medium",
       "tags": [
         "FRB",
         "人事",
-        "辞任"
+        "金融政策"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm"
     }
   ],
-  "generated_at": "2026-05-17T10:26:03.641840",
+  "generated_at": "2026-05-17T13:39:30.219130",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
