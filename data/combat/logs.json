@@ -1,5 +1,126 @@
 [
   {
+    "date": "2026-05-17",
+    "summary": "ウクライナでの戦闘継続、日米比加共同演習、イスラエル-イラン間の緊張などが報告。NATOは地上ロボット導入を検討、対ドローン対策も進展。台湾を巡る米中間の緊張も継続。",
+    "events": [
+      {
+        "id": "event-001",
+        "timestamp": "2026-05-14",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "日本、フィリピン領土から初のミサイル発射",
+        "content": "日本がフィリピン国内で、88式地対艦ミサイルを旧式掃海艇に向けて発射。約6分間の飛行後、47マイル先の目標に命中。",
+        "involved_parties": [
+          "日本",
+          "フィリピン"
+        ],
+        "event_type": "attack",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/14/japan-fires-first-ever-missiles-from-philippine-soil/"
+      },
+      {
+        "id": "event-002",
+        "timestamp": "2026-05-11",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "米国の仲介による停戦にもかかわらず、ウクライナとロシアの戦闘継続",
+        "content": "トランプ大統領の主導による5月9日から11日までの停戦合意にもかかわらず、ロシアとウクライナは前線での戦闘を報告。",
+        "involved_parties": [
+          "ウクライナ",
+          "ロシア"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/11/ukraine-and-russia-fight-on-despite-us-mediated-ceasefire/"
+      },
+      {
+        "id": "event-003",
+        "timestamp": "2026-05-11",
+        "location": "バルト海沿岸（ラトビア）",
+        "region": "europe",
+        "title": "ウクライナのドローン攻撃がラトビアの燃料貯蔵施設に",
+        "content": "ウクライナのドローンが、ロシアの妨害により標的から逸れ、バルト海沿岸のラトビアにある燃料貯蔵施設を攻撃。",
+        "involved_parties": [
+          "ウクライナ",
+          "ロシア",
+          "ラトビア"
+        ],
+        "event_type": "attack",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/11/ukrainian-drone-strike-on-empty-baltic-fuel-depot-prompts-top-level-resignation-in-latvia/"
+      },
+      {
+        "id": "event-004",
+        "timestamp": "2026-05-11",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米比など、退役艦2隻を撃沈する演習を実施",
+        "content": "米国、フィリピン、日本、カナダが参加し、2日間の実弾演習で退役艦2隻を撃沈。陸海空のプラットフォームを使用。",
+        "involved_parties": [
+          "アメリカ",
+          "フィリピン",
+          "日本",
+          "カナダ"
+        ],
+        "event_type": "attack",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/05/11/us-partner-nations-sink-two-decommissioned-ships-during-exercise-balikatan/"
+      },
+      {
+        "id": "event-005",
+        "timestamp": "2026-05-10",
+        "location": "オーストリア上空",
+        "region": "europe",
+        "title": "オーストリア軍機が米軍機を二日連続で迎撃",
+        "content": "オーストリア軍機が、ドイツ国境から60km以上離れたオーバーオーストリア州のTotes Gebirge山地上空で、許可なく侵入した米軍機を迎撃。",
+        "involved_parties": [
+          "オーストリア",
+          "アメリカ"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/13/austrian-jets-intercept-unauthorized-us-military-planes-two-days-in-a-row/"
+      },
+      {
+        "id": "event-006",
+        "timestamp": "2026-05-14",
+        "location": "台湾海峡",
+        "region": "east_asia",
+        "title": "中国、台湾を巡り米国に警告",
+        "content": "習近平国家主席がトランプ大統領に対し、台湾をめぐる誤った行動は米中間の直接的な対立につながる可能性があると警告。",
+        "involved_parties": [
+          "中国",
+          "アメリカ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/14/china-fires-verbal-warning-shot-at-us-over-taiwan/"
+      },
+      {
+        "id": "event-007",
+        "timestamp": "2026-05-14",
+        "location": "イスラエル",
+        "region": "middle_east",
+        "title": "イスラエル、イランとの戦争を受けF-35Iの航続距離を延長",
+        "content": "エルビット・システムズが約3400万ドル相当の開発契約を受注し、F-35I戦闘機の航続距離延長を実施。",
+        "involved_parties": [
+          "イスラエル",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/05/14/israel-to-extend-f-35i-range-amid-war-with-iran/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-16",
     "summary": "ウクライナ・ロシア間の停戦合意にも関わらず戦闘が継続。日本がフィリピンで初のミサイル発射訓練を実施。米国はイランとの戦争費用増加に対応。",
     "events": [
@@ -4058,396 +4179,6 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/04/10/uks-starmer-and-trump-discussed-military-options-for-strait-of-hormuz/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-16",
-    "summary": "ホルムズ海峡における米国の機雷除去作戦の可能性、イラン戦争による英国軍の弱体化、EUのウクライナ戦争の教訓を取り入れた防衛研究開発への投資、米国によるイラン封鎖の可能性、レバノンとイスラエルの和平交渉開始などが注目される。",
-    "events": [
-      {
-        "id": "event-20260416-001",
-        "timestamp": "2026-04-16",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "アメリカ軍によるホルムズ海峡の機雷除去作戦の検討",
-        "content": "アメリカ軍が、ドローン、爆発物を搭載したロボット、ヘリコプターを使用してホルムズ海峡の機雷除去作戦を行う可能性を検討。ただし、イランからの攻撃に対する脆弱性が懸念される。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/16/how-the-us-military-could-clear-mines-from-the-strait-of-hormuz/"
-      },
-      {
-        "id": "event-20260416-002",
-        "timestamp": "2026-04-16",
-        "location": "紅海",
-        "region": "middle_east",
-        "title": "イエメンのフーシ派による紅海封鎖の可能性",
-        "content": "専門家が、イエメンのフーシ派が紅海を封鎖する可能性について警告。ホルムズ海峡だけでなく、紅海も潜在的なチョークポイントとなりうる。",
-        "involved_parties": [
-          "イエメンのフーシ派",
-          "その他関係国"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/14/amid-focus-on-strait-of-hormuz-experts-sound-warning-on-yemens-houthis-and-red-sea/"
-      },
-      {
-        "id": "event-20260416-003",
-        "timestamp": "2026-04-16",
-        "location": "ワシントンD.C.",
-        "region": "middle_east",
-        "title": "レバノンとイスラエルの交渉開始",
-        "content": "レバノンとイスラエルの交渉がワシントンで開始。両国は1948年以来、技術的には戦争状態にあるため、まれな外交的関与となる。",
-        "involved_parties": [
-          "レバノン",
-          "イスラエル"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/14/lebanon-and-israel-talks-set-to-begin-in-washington/"
-      },
-      {
-        "id": "event-20260416-004",
-        "timestamp": "2026-04-16",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ドイツ製兵器のウクライナにおける性能評価",
-        "content": "ドイツ政府が、ウクライナでの戦闘におけるドイツ製兵器（Panzerhaubitze 2000、RCH-155、IRIS-T）の性能に関するデータ共有協定を締結。",
-        "involved_parties": [
-          "ドイツ",
-          "ウクライナ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/"
-      },
-      {
-        "id": "CE003",
-        "timestamp": "2026-04-15",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ドイツ製兵器の戦場データ収集",
-        "content": "ウクライナにおけるドイツ製兵器（Panzerhaubitze 2000、RCH-155、IRIS-T）の戦闘データ共有に関する二国間合意が成立。ドイツは実戦データを兵器開発に活用。",
-        "involved_parties": [
-          "ドイツ",
-          "ウクライナ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/"
-      },
-      {
-        "id": "EVENT-20260415-001",
-        "timestamp": "2026-04-15",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ドイツ製兵器のウクライナでのデータ共有",
-        "content": "ドイツ政府は、ウクライナにおけるドイツ製兵器（Panzerhaubitze 2000、RCH-155、IRIS-T）の使用に関するデータを共有する二国間協定を締結。",
-        "involved_parties": [
-          "ウクライナ",
-          "ドイツ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/"
-      },
-      {
-        "id": "EVENT-20260415-002",
-        "timestamp": "2026-04-15",
-        "location": "エストニア",
-        "region": "europe",
-        "title": "エストニアがドローンと防空システムを購入するために資金を転用",
-        "content": "エストニアの国防大臣は、ウクライナでのロシアの侵攻から得られた教訓に基づき、戦闘車両の資金をドローンと防空システムの購入に充てる決定を下したと述べた。",
-        "involved_parties": [
-          "エストニア"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/15/estonia-raids-combat-vehicle-funds-to-buy-more-drones-air-defenses/"
-      },
-      {
-        "id": "CE-20260415-001",
-        "timestamp": "2026-04-15",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ドイツ、ウクライナでの兵器性能データを共有",
-        "content": "ドイツ政府は、ウクライナにおけるPanzerhaubitze 2000、RCH-155自走砲、IRIS-T防空システムの戦闘データを共有する二国間合意を締結。",
-        "involved_parties": [
-          "ドイツ",
-          "ウクライナ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/"
-      },
-      {
-        "id": "EVENT-20260414-001",
-        "timestamp": "2026-04-14",
-        "location": "レバノン、イスラエル",
-        "region": "middle_east",
-        "title": "レバノンとイスラエルの協議開始",
-        "content": "レバノンとイスラエルがワシントンで協議を開始。両国は1948年以来、技術的には戦争状態にある。",
-        "involved_parties": [
-          "レバノン",
-          "イスラエル"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/14/lebanon-and-israel-talks-set-to-begin-in-washington/"
-      },
-      {
-        "id": "CE-20260414-001",
-        "timestamp": "2026-04-14",
-        "location": "紅海",
-        "region": "middle_east",
-        "title": "イエメンのフーシ派による紅海への脅威",
-        "content": "外交政策の専門家は、イランとその代理勢力がホルムズ海峡だけでなく、紅海も封鎖する可能性があると警告。",
-        "involved_parties": [
-          "イラン",
-          "フーシ派"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/14/amid-focus-on-strait-of-hormuz-experts-sound-warning-on-yemens-houthis-and-red-sea/"
-      },
-      {
-        "id": "EVENT-20260413-001",
-        "timestamp": "2026-04-13",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "米国による対イラン封鎖の可能性",
-        "content": "専門家は、米国による対イラン封鎖が大規模な軍事行動になると警告。具体的な内容は未だ不明。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "blockade",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/13/us-blockade-of-iran-will-be-major-military-endeavor-experts-say/"
-      },
-      {
-        "id": "CE-20260413-001",
-        "timestamp": "2026-04-13",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "米国のイラン封鎖は大規模な軍事作戦となる見込み",
-        "content": "専門家は、米国のイラン封鎖には多数の軍艦が必要となると指摘。しかし、米国軍は具体的な兵力規模など詳細を明らかにしていない。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "blockade",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/13/us-blockade-of-iran-will-be-major-military-endeavor-experts-say/"
-      },
-      {
-        "id": "CE001",
-        "timestamp": "2026-04-12",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "米海軍、ホルムズ海峡を封鎖",
-        "content": "トランプ大統領は、米海軍がホルムズ海峡を即時封鎖すると発表。イランからの攻撃には断固たる対応を取ると警告。具体的な封鎖態勢や規模は不明。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "blockade",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
-      },
-      {
-        "id": "CE002",
-        "timestamp": "2026-04-12",
-        "location": "パキスタン",
-        "region": "middle_east",
-        "title": "米イラン和平交渉が決裂",
-        "content": "21時間に及ぶ米国とイランの和平交渉が決裂。両国は互いに責任を転嫁し、戦闘終結の見通しは立たず、世界経済への影響が懸念される。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/"
-      },
-      {
-        "id": "EVENT-20260412-001",
-        "timestamp": "2026-04-12",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "米海軍がホルムズ海峡を封鎖",
-        "content": "トランプ大統領が、米海軍がホルムズ海峡を即時封鎖すると発表。イランによる攻撃に対しては断固たる措置を取ると警告。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "blockade",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
-      },
-      {
-        "id": "EVENT-20260412-002",
-        "timestamp": "2026-04-12",
-        "location": "パキスタン",
-        "region": "middle_east",
-        "title": "米イラン和平交渉が決裂",
-        "content": "米イラン間の和平交渉が合意に至らず終了。双方とも相手に責任を転嫁している。数千人が死亡し、世界経済が混乱。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/"
-      },
-      {
-        "id": "CE-20260412-001",
-        "timestamp": "2026-04-12",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "米国海軍、ホルムズ海峡を封鎖",
-        "content": "トランプ大統領が、米国海軍によるホルムズ海峡の封鎖を即時実施すると発表。イランが米国または平和的な船舶に発砲した場合、報復措置を取ると警告。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "blockade",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
-      },
-      {
-        "id": "CE-20260412-002",
-        "timestamp": "2026-04-12",
-        "location": "パキスタン",
-        "region": "middle_east",
-        "title": "米イラン和平交渉が決裂",
-        "content": "米国とイランの和平交渉がパキスタンで21時間に及んだが、合意に至らず決裂。双方とも相手に責任を転嫁。数千人が死亡し、世界経済が混乱している。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/"
-      },
-      {
-        "id": "event-20260412-001",
-        "timestamp": "2026-04-12",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "アメリカ海軍によるホルムズ海峡封鎖",
-        "content": "トランプ大統領がホルムズ海峡の封鎖を即時実施すると発表。イランからの攻撃に対しては断固とした対応を取る姿勢を示す。",
-        "involved_parties": [
-          "アメリカ海軍",
-          "イラン"
-        ],
-        "event_type": "blockade",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
-      },
-      {
-        "id": "event-20260412-002",
-        "timestamp": "2026-04-12",
-        "location": "パキスタン",
-        "region": "middle_east",
-        "title": "アメリカ・イラン和平交渉の決裂",
-        "content": "21時間に及ぶアメリカとイランの和平交渉が決裂。双方とも相手に責任を転嫁しており、数千人の死者を出した紛争の終結は見通せない。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/"
-      },
-      {
-        "id": "CE004",
-        "timestamp": "2026-04-09",
-        "location": "北大西洋",
-        "region": "europe",
-        "title": "英軍、ロシア潜水艦の攻撃を抑止するため軍を展開",
-        "content": "英国は、海底ケーブルへの攻撃を阻止するため、ロシアの潜水艦を抑止するために軍隊を展開。ノルウェーもP-8哨戒機とフリゲート艦を展開。",
-        "involved_parties": [
-          "イギリス軍",
-          "ロシア軍",
-          "ノルウェー軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/"
-      },
-      {
-        "id": "EVENT-20260409-001",
-        "timestamp": "2026-04-09",
-        "location": "北大西洋",
-        "region": "europe",
-        "title": "英国がロシアの潜水艦を抑止するために軍隊を派遣",
-        "content": "英国は海底ケーブルへの攻撃を阻止するため、ロシアの潜水艦を抑止するために軍隊を派遣。ノルウェーもP-8哨戒機とフリゲート艦を配備。",
-        "involved_parties": [
-          "イギリス",
-          "ロシア"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/"
-      },
-      {
-        "id": "CE-20260409-001",
-        "timestamp": "2026-04-09",
-        "location": "バルト三国",
-        "region": "europe",
-        "title": "ロシアが90日でバルト三国を制圧可能との研究",
-        "content": "研究によると、ロシアは90日でバルト三国を制圧できる可能性がある。ただし、NATO加盟国であるバルト三国へのロシアの攻撃意欲については、意見が分かれている。",
-        "involved_parties": [
-          "ロシア",
-          "バルト三国"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/13/study-suggests-russia-could-conquer-baltic-states-in-90-days/"
-      },
-      {
-        "id": "CE-20260409-002",
-        "timestamp": "2026-04-09",
-        "location": "北大西洋",
-        "region": "europe",
-        "title": "英国、ロシア潜水艦による海底ケーブル攻撃を阻止するため軍隊を派遣",
-        "content": "英国は、ロシアの潜水艦が海底ケーブルを攻撃するのを阻止するために軍隊を派遣。ノルウェーもP-8哨戒機とフリゲート艦を派遣した。",
-        "involved_parties": [
-          "イギリス軍",
-          "ロシア軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/"
       }
     ]
   }
