@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-18",
+    "summary": "中東情勢が極めて不安定化。イラン核合意を巡る米イランの対立激化、イスラエル・レバノン間の衝突継続、ガザ地区での緊張など複合的な要因がリスクを高めている。アフリカではエボラ出血熱の流行が国際的な懸念事項に。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "high",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-05-18T04:02:00.813790"
+  },
+  {
     "date": "2026-05-17",
     "summary": "中東情勢の緊迫化が継続。イスラエルとレバノンの衝突、ガザ地区での軍事作戦、イラン核開発を巡る米国の強硬姿勢などリスク要因が複合的に作用。アフリカではエボラ出血熱の流行が国際的な緊急事態に。東アジアでは台湾海峡の緊張が継続。",
     "overall_risk_level": "high",

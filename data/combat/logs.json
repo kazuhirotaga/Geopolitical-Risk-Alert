@@ -1,5 +1,123 @@
 [
   {
+    "date": "2026-05-18",
+    "summary": "ウクライナ・ロシア間の戦闘は停戦合意にも関わらず継続。日本がフィリピンで初のミサイル発射実験を実施。米軍はモロッコでの演習中に不明となっていた兵士の遺体を発見。イスラエルはイランとの戦争を背景にF-35Iの航続距離延長を計画。",
+    "events": [
+      {
+        "id": "event-001",
+        "timestamp": "2026-05-14",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "日本、フィリピン領内で初のミサイル発射実験",
+        "content": "日本がフィリピン国内で初のミサイル発射実験を実施。88式地対艦ミサイルが約75km先の標的（第二次世界大戦時代の掃海艇）に命中。",
+        "involved_parties": [
+          "日本"
+        ],
+        "event_type": "attack",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/14/japan-fires-first-ever-missiles-from-philippine-soil/"
+      },
+      {
+        "id": "event-002",
+        "timestamp": "2026-05-09/2026-05-11",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナとロシア、停戦合意にもかかわらず戦闘継続",
+        "content": "米国が仲介した5月9日から11日までの停戦合意にもかかわらず、ウクライナとロシアは前線で戦闘を継続。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/11/ukraine-and-russia-fight-on-despite-us-mediated-ceasefire/"
+      },
+      {
+        "id": "event-003",
+        "timestamp": "2026-05-11",
+        "location": "ラトビア",
+        "region": "europe",
+        "title": "ウクライナのドローン攻撃、バルト海の燃料 depot を攻撃",
+        "content": "ウクライナのドローン攻撃がラトビアの燃料 depot を攻撃。ウクライナ当局者は、ロシアがウクライナのドローンを偽装し、ロシア国内の標的ではなく近隣のバルト三国を攻撃するよう誘導していると述べている。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "attack",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/11/ukrainian-drone-strike-on-empty-baltic-fuel-depot-prompts-top-level-resignation-in-latvia/"
+      },
+      {
+        "id": "event-004",
+        "timestamp": "2026-05-11",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米軍とパートナー国、演習中に退役艦を沈没",
+        "content": "米軍、フィリピン、日本、カナダ軍が合同演習「バリカタン」で、陸、海、空のプラットフォームを使用し、2隻の退役艦を沈没させた。",
+        "involved_parties": [
+          "米軍",
+          "フィリピン軍",
+          "日本軍",
+          "カナダ軍"
+        ],
+        "event_type": "attack",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-military/2026/05/11/us-partner-nations-sink-two-decommissioned-ships-during-exercise-balikatan/"
+      },
+      {
+        "id": "event-005",
+        "timestamp": "2026-05-10",
+        "location": "オーストリア",
+        "region": "europe",
+        "title": "オーストリア軍機、米軍機を2日連続で要撃",
+        "content": "オーストリア軍機が、許可なく領空侵犯した米軍機を2日連続で要撃。5月10日の要撃は、ドイツ国境から60km以上離れたオーバーオーストリア州のTotes Gebirge山地上空で発生。",
+        "involved_parties": [
+          "オーストリア軍",
+          "米軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/13/austrian-jets-intercept-unauthorized-us-military-planes-two-days-in-a-row/"
+      },
+      {
+        "id": "event-006",
+        "timestamp": "2026-05-14",
+        "location": "イスラエル",
+        "region": "middle_east",
+        "title": "イスラエル、イランとの戦争を背景にF-35Iの航続距離延長",
+        "content": "イスラエルはイランとの戦争を背景に、F-35I戦闘機の航続距離延長を決定。Elbit Systems社が約3400万ドルの開発契約を受注。",
+        "involved_parties": [
+          "イスラエル",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/05/14/israel-to-extend-f-35i-range-amid-war-with-iran/"
+      },
+      {
+        "id": "event-007",
+        "timestamp": "2026-05-15",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米海兵隊、フィリピンでの演習で離島奪還訓練を実施",
+        "content": "米海兵隊がフィリピンでの演習で離島奪還訓練を実施。MADIS（陸上配備型対空防衛システム）部隊が実弾射撃を実施する機会を得た。",
+        "involved_parties": [
+          "米海兵隊"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/15/us-marines-practice-seizing-remote-islands-in-philippine-exercise/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-17",
     "summary": "ウクライナ・ロシア間での停戦合意にも関わらず戦闘継続。日本がフィリピンで初のミサイル発射実験を実施。米軍はモロッコでの演習中に不明となっていた兵士の遺体を収容。",
     "events": [
@@ -4045,140 +4163,6 @@
         "urgency": "low",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/14/lebanon-and-israel-talks-set-to-begin-in-washington/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-17",
-    "summary": "今週は、アメリカとイランの対立激化、ウクライナでの戦闘継続、台湾をめぐる情報戦、ヨーロッパの防衛強化策などが注目された。和平交渉は決裂し、ホルムズ海峡の封鎖、イラン戦争などが懸念される。ヨーロッパではウクライナの戦訓に基づいた防衛投資が進み、アジア太平洋地域では中国の情報戦や日本の武器輸出緩和が注目されている。",
-    "events": [
-      {
-        "id": "event-001",
-        "timestamp": "2026-04-12",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "アメリカ海軍、ホルムズ海峡の封鎖を示唆",
-        "content": "トランプ大統領が、イランに対するホルムズ海峡の封鎖を「即時」に実施すると発言。イランがアメリカ軍または平和的な船舶に発砲した場合、「地獄に吹き飛ばす」と警告。",
-        "involved_parties": [
-          "アメリカ海軍",
-          "イラン"
-        ],
-        "event_type": "blockade",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
-      },
-      {
-        "id": "event-002",
-        "timestamp": "2026-04-12",
-        "location": "パキスタン",
-        "region": "middle_east",
-        "title": "米イラン和平交渉、合意に至らず",
-        "content": "アメリカとイランの和平交渉が21時間に及んだものの、決裂。双方が相手側の責任を主張し、数千人の死者を出した戦闘は継続、世界経済への影響も懸念される。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/"
-      },
-      {
-        "id": "event-003",
-        "timestamp": "2026-04-16",
-        "location": "ホルムズ海峡、紅海",
-        "region": "middle_east",
-        "title": "イエメン・フーシ派、紅海における脅威",
-        "content": "ホルムズ海峡に焦点が集まる中、専門家はイランとその代理勢力であるイエメンのフーシ派が紅海を封鎖する可能性を警告。紛争における潜在的なチョークポイントとして指摘。",
-        "involved_parties": [
-          "イラン",
-          "フーシ派"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/14/amid-focus-on-strait-of-hormuz-experts-sound-warning-on-yemens-houthis-and-red-sea/"
-      },
-      {
-        "id": "event-004",
-        "timestamp": "2026-04-15",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ドイツ製兵器のウクライナでの運用データ共有",
-        "content": "ドイツ政府は、ウクライナにおけるドイツ製兵器（Panzerhaubitze 2000、RCH-155自走砲、IRIS-T防空システム）の運用データを共有する二国間協定を締結。",
-        "involved_parties": [
-          "ドイツ",
-          "ウクライナ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/"
-      },
-      {
-        "id": "event-005",
-        "timestamp": "2026-04-16",
-        "location": "ワシントンD.C.",
-        "region": "middle_east",
-        "title": "レバノンとイスラエルの交渉開始",
-        "content": "レバノンとイスラエルの交渉がワシントンで開始。両国は1948年以来、技術的には戦争状態にあり、今回の交渉は稀な外交的取り組みとなる。",
-        "involved_parties": [
-          "レバノン",
-          "イスラエル"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/14/lebanon-and-israel-talks-set-to-begin-in-washington/"
-      },
-      {
-        "id": "event-006",
-        "timestamp": "2026-04-16",
-        "location": "ヨーロッパ",
-        "region": "europe",
-        "title": "EU、ウクライナ戦争の教訓を基に防衛研究開発へ10億ドル超を投資",
-        "content": "EUが、ウクライナ戦争の教訓を基に、徘徊型兵器や安価な大量ドローン生産など、21世紀の戦争に焦点を当てた防衛研究開発プロジェクトに10億ドル以上を投資。",
-        "involved_parties": [
-          "EU"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/16/eu-pumps-over-1-billion-into-defense-rd-centered-around-ukraine-war-lessons/"
-      },
-      {
-        "id": "event-007",
-        "timestamp": "2026-04-16",
-        "location": "アメリカ",
-        "region": "middle_east",
-        "title": "アメリカ上院、イスラエルへの軍事装備品販売を承認",
-        "content": "アメリカ上院は、イスラエルへの約4億5000万ドル相当の爆弾とブルドーザーの販売を阻止する決議を否決。",
-        "involved_parties": [
-          "アメリカ",
-          "イスラエル"
-        ],
-        "event_type": "other",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/16/senate-republicans-back-trump-military-sales-to-israel/"
-      },
-      {
-        "id": "event-008",
-        "timestamp": "2026-04-10",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "イギリスとトランプ政権、ホルムズ海峡における軍事的選択肢を協議",
-        "content": "イギリスのスターマーとトランプ政権がホルムズ海峡における軍事的選択肢について協議。マクロン大統領も戦争終結後にヨーロッパが海峡の安全を確保する可能性を示唆。",
-        "involved_parties": [
-          "イギリス",
-          "アメリカ",
-          "フランス"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/10/uks-starmer-and-trump-discussed-military-options-for-strait-of-hormuz/"
       }
     ]
   }
