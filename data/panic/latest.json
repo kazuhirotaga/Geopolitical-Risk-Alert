@@ -1,129 +1,122 @@
 {
   "date": "2026-05-18",
-  "summary": "世界各地で社会不安が高まっており、特に南アジアとアフリカでは、燃料不足によるパニック買いや物流の混乱、治安悪化を巡る大規模かつ暴力的な抗議デモが頻発し、社会秩序が一時的に麻痺する事態に発展しています。東アジアでは医薬品不足が深刻な懸念材料となっています。北米や中東でも税制不満や土地問題に起因する抗議活動が見られ、全体として警戒レベルが上がっています。",
-  "global_panic_index": 75,
+  "summary": "世界各地で資源不足、金融不安、社会的分断を背景とした抗議デモやパニック行動が散発的に発生しています。特に南アジアでは燃料不足による買いだめや暴力的な抗議活動が報告され、中東では地域紛争の緊張と医療物資不足が深刻化。アフリカの一部では通貨不安が懸念されています。グローバルな緊迫度は中程度であり、一部地域で警戒すべき状況が続いています。",
+  "global_panic_index": 62,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "税制・経済格差への不満、資源不足",
-      "incidents": [
-        {
-          "title": "データセンター税制優遇への抗議活動",
-          "location": "Hillsboro, 米国",
-          "severity": 45,
-          "description": "データセンターへの巨額な税制優遇措置に対し、市民が抗議デモを実施。不公平感から社会不安が高まっていますが、大規模な暴動には至っていません。",
-          "source": "The Hillsboro Herald"
-        },
-        {
-          "title": "燃料価格高騰が非営利団体を圧迫",
-          "location": "East Bank, 米国",
-          "severity": 35,
-          "description": "燃料価格の高騰により、非営利団体が週末の支援活動を継続できず、経済的な困難が社会の脆弱層に影響を与え始めています。",
-          "source": "WCHS"
-        },
-        {
-          "title": "地域的な水不足と解決策模索",
-          "location": "Cambridge, カナダ",
-          "severity": 40,
-          "description": "地域で水不足が深刻化し、解決策が模索されています。直接的なパニックは報告されていませんが、生活基盤への懸念が存在します。",
-          "source": "CambridgeToday.ca"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 70,
+      "region": "middle_east",
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "医薬品供給不安",
+      "main_cause": "地域紛争の緊張、人道危機、資源不足",
       "incidents": [
         {
-          "title": "小児用医薬品アチバン不足による緊急危機",
-          "location": "韓国",
-          "severity": 70,
-          "description": "小児用医薬品アチバンの深刻な不足が報じられ、小児救急医療における危機的状況への懸念が高まっています。保護者や医療関係者の間に強い不安が広がっています。",
-          "source": "The Korea Herald"
+          "title": "レバノン、医療物資が数日中に枯渇の危機",
+          "location": "レバノン",
+          "severity": 80,
+          "description": "WHOがレバノンの病院における医療物資の深刻な不足を警告。数日中に重要な物資が尽きる可能性があり、人道危機への懸念が高まっている。",
+          "source": "DD News"
+        },
+        {
+          "title": "イスラエル軍、パレスチナ攻撃者に死刑導入を決定",
+          "location": "ヨルダン川西岸",
+          "severity": 60,
+          "description": "イスラエル軍がヨルダン川西岸でパレスチナ人攻撃者に対する死刑導入を決定。これにより地域住民間の緊張と紛争激化への懸念が強まっている。",
+          "source": "Middle East Monitor"
+        },
+        {
+          "title": "イスラエル人入植者による家畜轢き逃げ事件",
+          "location": "ヨルダン川西岸",
+          "severity": 40,
+          "description": "ヨルダン川西岸でイスラエル人入植者が家畜を轢き逃げする事件が発生。パレスチナ人コミュニティとの間で既存の緊張がさらに高まる要因となっている。",
+          "source": "Al Jazeera"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "燃料不足、社会経済的不満、暴力的な抗議",
+      "panic_index": 68,
+      "status": "volatile",
+      "main_cause": "資源不足（燃料・水）、労働不安、社会的分断",
       "incidents": [
         {
-          "title": "アムリトサルで燃料不足とパニック買い",
-          "location": "Amritsar, インド",
-          "severity": 80,
-          "description": "燃料ポンプが在庫切れとなり、市民の間でパニック買いが発生。ガソリンスタンドに長蛇の列ができ、都市機能に影響が出始めています。",
+          "title": "アムリトサルで燃料のパニック買い、ガソリンスタンドで燃料切れ",
+          "location": "インド、アムリトサル",
+          "severity": 85,
+          "description": "アムリトサル市で燃料不足への懸念からパニック買いが発生し、複数のガソリンスタンドで燃料が枯渇。市民生活に大きな影響が出ており、社会的な混乱が懸念される。",
           "source": "MSN"
         },
         {
-          "title": "ディーゼル不足が貨物輸送網を麻痺",
-          "location": "インド",
-          "severity": 75,
-          "description": "全国的なディーゼル不足が深刻化し、貨物輸送網に大きな影響を与えています。トラック運転手が給油のために長距離移動を強いられ、物流の混乱が懸念されています。",
-          "source": "MSN"
-        },
-        {
-          "title": "コルカタで立ち退き抗議が暴徒化、警官負傷",
-          "location": "Kolkata, インド",
+          "title": "コルカタでブルドーザー抗議集会が暴徒化、警官10名負傷",
+          "location": "インド、コルカタ",
           "severity": 70,
-          "description": "強制立ち退きに反対する抗議デモが暴徒化し、警察官3名が負傷する事態に発展。社会秩序の不安定さが増しています。",
+          "description": "コルカタで開催されたブルドーザーに関する抗議集会が暴力的にエスカレートし、警官10名が負傷、21名が拘束された。デモの暴徒化は治安悪化を示す。",
           "source": "The Times of India"
         },
         {
-          "title": "労働不安の暴徒化でデヘラードゥーンに禁止命令",
-          "location": "Dehradun, インド",
-          "severity": 75,
-          "description": "デヘラードゥーンの工業地域で労働不安が暴徒化し、当局が禁止命令を発令。工場の操業にも影響が出ています。",
-          "source": "The New Indian Express"
+          "title": "ハイデラバードで水不足に関する抗議デモ",
+          "location": "インド、ハイデラバード",
+          "severity": 65,
+          "description": "ハイデラバードの一部地域で深刻な水不足に対し、BRS（政党）が抗議デモを実施。生活必需品の不足が住民の不満を募らせている。",
+          "source": "The Siasat Daily"
         },
         {
-          "title": "DUET副学長任命を巡る衝突で負傷者",
-          "location": "Dhaka, バングラデシュ",
-          "severity": 65,
-          "description": "ダッカのDUET副学長任命を巡る衝突で数名が負傷。教育機関を舞台とした政治的・社会的な緊張が高まっています。",
-          "source": "Dhaka Tribune"
+          "title": "デリーで燃料節約措置、テレワーク勧告と公共交通機関増便",
+          "location": "インド、デリー",
+          "severity": 60,
+          "description": "デリー首都圏で燃料節約策が導入され、テレワーク勧告や公共交通機関の増便が実施されている。燃料不足が都市機能と市民生活に影響を与え始めている。",
+          "source": "Mint"
+        },
+        {
+          "title": "オディシャ州で熱波と停電により5,300羽のニワトリが死亡",
+          "location": "インド、オディシャ州",
+          "severity": 60,
+          "description": "熱波による停電が原因で養鶏場で大量のニワトリが死亡。食料供給への懸念が高まり、インフラの脆弱性が浮き彫りになった。",
+          "source": "The New Indian Express"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "治安悪化、暴力的な抗議",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "金融不安（通貨下落）",
       "incidents": [
         {
-          "title": "治安悪化への抗議が暴徒化、政府庁舎放火",
-          "location": "Kano, ナイジェリア",
-          "severity": 90,
-          "description": "治安悪化に対する住民の抗議デモが暴徒化し、カノ州グワルゾの政府庁舎が放火されました。これは社会秩序が著しく混乱していることを示唆しています。",
-          "source": "Business News Nigeria"
-        },
-        {
-          "title": "住民が市場・薬局プロジェクトの立地を巡り抗議",
+          "title": "ガーナ中央銀行、セディ通貨安の中「パニック不要」とドル供給を保証",
           "location": "ガーナ",
-          "severity": 40,
-          "description": "住民が24時間市場およびUHAS薬局プロジェクトの立地決定に抗議。生活環境への影響を懸念する声が上がっています。",
+          "severity": 65,
+          "description": "ガーナの通貨セディの圧力が高まる中、中央銀行が企業に対し十分なドル供給を保証し、パニックを抑えようとしている。金融市場の不安定さが市民の不安を引き起こす可能性。",
           "source": "MyJoyOnline"
         }
       ]
     },
     {
-      "region": "middle_east",
+      "region": "europe",
       "panic_index": 55,
       "status": "unstable",
-      "main_cause": "土地問題、政治的緊張",
+      "main_cause": "社会的分断、ヘイトスピーチ",
       "incidents": [
         {
-          "title": "ヨルダン川西岸での土地売却問題に対する非難",
-          "location": "ヨルダン川西岸",
+          "title": "ロンドンでの抗議デモ中のヘイトクライムで11名逮捕",
+          "location": "イギリス、ロンドン",
           "severity": 55,
-          "description": "ヨルダン川西岸での土地売却問題が批判されており、地域の潜在的な緊張が高まっています。直接的なパニックは報告されていませんが、社会不安の大きな要因です。",
-          "source": "Jacobin"
+          "description": "ロンドンでの抗議デモにおける有害な言動の取り締まりにより、ヘイトクライム容疑で11名が逮捕された。社会的分断と治安問題が浮き彫りになっている。",
+          "source": "London Evening Standard"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "経済格差への不満、地域的な資源問題",
+      "incidents": [
+        {
+          "title": "ヒルズボロのデータセンター抗議デモ、巨額の税金優遇措置への不満増大",
+          "location": "アメリカ、ヒルズボロ",
+          "severity": 55,
+          "description": "ヒルズボロのデータセンターに対する抗議デモが、数百万ドル規模の税金優遇措置への住民の不満増大を示している。経済的な不公平感が社会不安を引き起こしている。",
+          "source": "The Hillsboro Herald"
         }
       ]
     }
