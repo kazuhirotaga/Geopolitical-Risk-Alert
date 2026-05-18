@@ -1,122 +1,158 @@
 {
   "date": "2026-05-18",
-  "summary": "世界全体では、局所的ながらも複数の地域で社会不安やパニックの兆候が見られます。特にインドでは水不足に対する大規模な抗議活動が複数発生し、一部は暴徒化しています。中東では紛争の激化と医療物資不足が深刻化しており、社会秩序への影響が懸念されます。その他、各地で労働争議や経済的不満によるデモが散見され、一部地域では公共サービスの停止に至る事態も発生しており、全体として不安定な状況が続いています。",
-  "global_panic_index": 55,
+  "summary": "世界各地で社会不安が増大しており、特に南米、中東、南アジアでは高い緊張状態が続いています。ボリビアでは大規模な政治デモが続き、中東ではレバノンの医療品不足やヨルダン川西岸地区の紛争による緊張が高まっています。インドでは水不足や燃料不足による買いだめ、労働不安が複合的に発生しており、複数の地域で生活必需品や社会インフラに関連するパニックの兆候が見られます。",
+  "global_panic_index": 58,
   "regions": [
     {
-      "region": "middle_east",
+      "region": "south_america",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "紛争の激化、医療物資不足",
+      "main_cause": "政治的対立、社会不安",
       "incidents": [
         {
-          "title": "入植者による家畜轢き逃げ事件",
-          "location": "ヨルダン川西岸",
+          "title": "Bolivia protesters allied with ex-leader Morales march on capital as unrest widens",
+          "location": "ボリビア",
+          "severity": 70,
+          "description": "元指導者モラレス氏に連帯する抗議デモ隊が首都に進軍し、社会不安が広範に拡大している状況です。政治的な対立が住民の行動に大きな影響を与えています。",
+          "source": "Audacy"
+        },
+        {
+          "title": "Latin American nations amp up their concerns over Bolivia unrest",
+          "location": "ボリビア",
           "severity": 65,
-          "description": "イスラエル人入植者が占領下のヨルダン川西岸でパレスチナ人の家畜を轢き逃げする事件が発生。この地域の民族間対立と暴力行為が依然として深刻であることを示し、住民の不安を煽っています。",
+          "description": "ボリビア国内の不安状況に対し、周辺のラテンアメリカ諸国が懸念を表明しており、地域全体の安定に影響を及ぼす可能性が指摘されています。",
+          "source": "Buenos Aires Times"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 75,
+      "status": "critical",
+      "main_cause": "地域紛争、人道危機、資源不足",
+      "incidents": [
+        {
+          "title": "Lebanon’s hospitals may run out of vital medical supplies within days, WHO warns",
+          "location": "レバノン",
+          "severity": 75,
+          "description": "世界保健機関（WHO）が、レバノンの病院が数日以内に生命維持に必要な医療物資を使い果たす可能性があると警告。公衆衛生における深刻な危機が迫っています。",
+          "source": "DD News"
+        },
+        {
+          "title": "Zohran Mamdani Is Right to Condemn West Bank Land Sales",
+          "location": "占領下のヨルダン川西岸地区",
+          "severity": 60,
+          "description": "ヨルダン川西岸地区での土地売却に対する非難が報じられ、地域の緊張を高める要因となっています。住民間の対立と不安を招く問題です。",
+          "source": "Jacobin"
+        },
+        {
+          "title": "Israeli settlers run over livestock in occupied West Bank",
+          "location": "占領下のヨルダン川西岸地区",
+          "severity": 65,
+          "description": "イスラエル人入植者がヨルダン川西岸地区で家畜をひき殺す事件が発生。住民の生活と感情を損なう行為であり、地域社会の不安と怒りを増幅させています。",
           "source": "Al Jazeera"
         },
         {
-          "title": "パレスチナ人攻撃者への死刑導入",
-          "location": "ヨルダン川西岸",
-          "severity": 75,
-          "description": "イスラエル軍がヨルダン川西岸でパレスチナ人攻撃者に対し死刑を導入すると発表。これは紛争のさらなる激化と人権状況の悪化を招く可能性があり、地域の緊張を非常に高めています。",
+          "title": "Israeli military to implement death penalty against Palestinian attackers in West Bank",
+          "location": "占領下のヨルダン川西岸地区",
+          "severity": 70,
+          "description": "イスラエル軍がヨルダン川西岸地区のパレスチナ人襲撃者に対し死刑を執行する方針を発表。地域の緊張を極度に高め、大規模な抗議活動や暴力に繋がりかねません。",
           "source": "Middle East Monitor"
-        },
-        {
-          "title": "レバノンでの医療物資不足の警告",
-          "location": "レバノン",
-          "severity": 80,
-          "description": "WHOは、レバノンの病院が数日以内に重要な医療物資を使い果たす可能性があると警告。これは医療崩壊に繋がりかねない深刻な人道危機であり、国民のパニックを招く恐れがあります。",
-          "source": "DD News"
         }
       ]
     },
     {
-      "region": "east_asia",
+      "region": "south_asia",
       "panic_index": 75,
-      "status": "critical",
-      "main_cause": "水不足、労働不安、公共サービス停止",
+      "status": "volatile",
+      "main_cause": "食料・水・エネルギー不足、労働条件への不満",
       "incidents": [
         {
-          "title": "水不足に対する「空の鍋」抗議デモ",
-          "location": "インド、Qutbullapur",
-          "severity": 70,
-          "description": "Qutbullapurで深刻な水不足に対する「空の鍋」デモが発生。生活必需品の不足は住民の直接的な苦痛に繋がり、広範な抗議活動や社会不安を引き起こす可能性が高いです。",
+          "title": "Panic buying in Amritsar; pumps run out of fuel",
+          "location": "インド・アムリトサル",
+          "severity": 80,
+          "description": "アムリトサルで燃料の買いだめが発生し、ガソリンスタンドで燃料が底をつきました。これはエネルギー不足に対する住民の強いパニック反応を示しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "Empty Pots Protest in Qutbullapur Over Water Shortage",
+          "location": "インド・Qutbullapur",
+          "severity": 75,
+          "description": "Qutbullapurで水不足に抗議する「空の鍋デモ」が行われました。生活に不可欠な水の不足は住民の深刻な不安と怒りを引き起こしています。",
           "source": "The Hans India"
         },
         {
-          "title": "Noidaでの労働不安",
-          "location": "インド、Noida",
-          "severity": 60,
-          "description": "Noidaで労働不安が報告されており、複数の企業が影響を受けています。労働者の不満は社会全体の安定を損なう要因となり、連鎖的なデモや混乱に発展する恐れがあります。",
-          "source": "SabrangIndia"
-        },
-        {
-          "title": "コルカタでのデモ暴徒化",
-          "location": "インド、コルカタ",
+          "title": "Srinagar residents protest against acute shortage of potable water",
+          "location": "インド・シュリーナガル",
           "severity": 75,
-          "description": "ブルドーザー抗議集会がコルカタで暴徒化し、警察官10人が負傷、21人が逮捕されました。デモの暴力化は社会秩序の危険な兆候であり、住民の安全に対する懸念を高めます。",
-          "source": "The Times of India"
+          "description": "シュリーナガルの住民が飲料水の深刻な不足に抗議。水不足は広範な地域で発生しており、生活基盤への影響が住民のパニックを引き起こしています。",
+          "source": "Kashmir Media Service"
         },
         {
-          "title": "銀行の全国ストライキの可能性",
-          "location": "インド全土",
-          "severity": 80,
-          "description": "SBIの職員が全国規模のストライキを計画しており、5月25日と26日に実施される可能性があります。これが実現すれば、金融サービスに広範な混乱が生じ、経済活動に大きな打撃を与えるでしょう。",
+          "title": "Nationwide Bank Strikes Loom: SBI Staff Demand Fair Treatment",
+          "location": "インド",
+          "severity": 65,
+          "description": "インドの州立銀行SBIの職員が全国規模のストライキを計画。金融サービスへの影響が懸念され、経済活動への不安と混乱を招く可能性があります。",
           "source": "Devdiscourse"
         },
         {
-          "title": "バスサービス停止と従業員の抗議",
-          "location": "インド、Bhubaneswar",
-          "severity": 65,
-          "description": "給与未払いに対しバス従業員が抗議し、Bhubaneswarでバスサービスが停止しました。公共交通機関の麻痺は市民生活に直接的な影響を与え、社会不安を増大させます。",
-          "source": "pragativadi.com"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 30,
-      "status": "unstable",
-      "main_cause": "経済政策への不満",
-      "incidents": [
-        {
-          "title": "データセンターへの税優遇を巡る抗議デモ",
-          "location": "米国、Hillsboro",
-          "severity": 30,
-          "description": "Hillsboroでデータセンターへの税優遇に反対する大規模な抗議デモが発生しています。これは特定の政策に対する経済的不満を示すもので、地方レベルでの社会不安の兆候が見られます。",
-          "source": "The Hillsboro Herald"
+          "title": "Labourer unrest in Dehradun: 13 held, police suspect links to Noida unrest",
+          "location": "インド・デヘラードゥーン",
+          "severity": 60,
+          "description": "デヘラードゥーンで労働者の不安が報告され、13人が拘束されました。警察はノイダでの労働不安との関連も示唆しており、広範な労働問題が懸念されます。",
+          "source": "The Times of India"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 25,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "年金制度への不満",
+      "main_cause": "社会・経済政策への不満",
       "incidents": [
         {
-          "title": "年金抗議デモの開催",
+          "title": "ロンドンで対立する2グループの大規模デモが同時に　43人逮捕と警察発表",
+          "location": "英国・ロンドン",
+          "severity": 60,
+          "description": "ロンドンで思想の異なる2つの大規模デモが同時に行われ、43人が逮捕されました。公共秩序が乱れ、警察介入が必要となる状況が発生しています。",
+          "source": "BBC"
+        },
+        {
+          "title": "Pension Protest to be held at Bank of Ireland AGM",
           "location": "アイルランド",
-          "severity": 25,
-          "description": "アイルランド銀行の株主総会で年金問題に関する抗議デモが予定されています。これは特定の経済政策への不満を示すもので、現時点では限定的な社会不安に留まっています。",
+          "severity": 45,
+          "description": "アイルランド銀行の株主総会で年金に関する抗議デモが予定されています。これは特定の経済政策に対する国民の不満を示しています。",
           "source": "Gript"
         }
       ]
     },
     {
-      "region": "south_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "政治的・社会的不安定",
+      "region": "north_america",
+      "panic_index": 40,
+      "status": "stable",
+      "main_cause": "地域開発、税制優遇への不満",
       "incidents": [
         {
-          "title": "ボリビアの社会不安に対する懸念増大",
-          "location": "ボリビア",
-          "severity": 45,
-          "description": "ラテンアメリカ諸国がボリビアの社会不安について懸念を強めています。国内の政治的・社会的不安定は周辺国にも波及する可能性があり、地域の警戒が高まっています。",
-          "source": "Buenos Aires Times"
+          "title": "Hillsboro Data Center Protest Shows Growing Unrest Over Millions Of Tax Giveaways",
+          "location": "米国・ヒルズボロ",
+          "severity": 40,
+          "description": "ヒルズボロでデータセンターへの巨額の税制優遇に抗議するデモが行われ、地域住民の不満が高まっています。特定の開発政策への反発です。",
+          "source": "The Hillsboro Herald"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "国際情勢への抗議",
+      "incidents": [
+        {
+          "title": "パレスチナ抹殺許すな/ナクバ７８年でデモ/東京・渋谷",
+          "location": "日本・東京",
+          "severity": 40,
+          "description": "「ナクバ」78年を記念し、パレスチナへの連帯と支持を示す大規模なデモが東京・渋谷で行われました。国際問題に対する市民の関心と抗議活動です。",
+          "source": "しんぶん赤旗"
         }
       ]
     }
