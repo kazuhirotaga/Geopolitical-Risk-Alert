@@ -1,16 +1,16 @@
 [
   {
     "date": "2026-05-18",
-    "summary": "世界的なインフレ懸念から債券利回りが上昇し、原油価格の高騰と地政学的リスクが市場を圧迫。中国経済の減速も加わり、金融市場全体に不確実性が高まっている。暗号資産市場も不安定。",
+    "summary": "中東情勢の緊迫化による原油価格高騰とインフレ懸念、それに伴う金融引き締め観測が市場を圧迫。特に欧州のエネルギー供給リスクが高まっている。暗号資産市場はボラティリティが高く、規制動向も不透明。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
       "north_america": "medium",
-      "europe": "medium",
+      "europe": "critical",
       "east_asia": "medium"
     },
-    "generated_at": "2026-05-18T10:13:02.253104"
+    "generated_at": "2026-05-18T15:41:06.739058"
   },
   {
     "date": "2026-05-17",
