@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-19",
-    "summary": "ウクライナ情勢の泥沼化、中東地域の緊張、エボラ出血熱の流行など、地政学リスクは全体的に高い水準を維持。特に中東地域は、イスラエルと周辺国の対立、ホルムズ海峡の不安定化など、複合的な要因でリスクが顕在化している。",
+    "summary": "ウクライナ情勢の悪化、中東地域の緊張、エボラ出血熱の拡大など、地政学リスクが高まっている。特に、ウクライナ戦争の長期化と中東における偶発的な軍事衝突の可能性が懸念される。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "none",
+      "southeast_asia": "low",
       "south_asia": "low",
       "central_asia": "none",
-      "middle_east": "high",
+      "middle_east": "critical",
       "europe": "critical",
       "africa": "high",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "medium"
     },
-    "generated_at": "2026-05-19T19:56:18.024366"
+    "generated_at": "2026-05-19T22:19:16.505443"
   },
   {
     "date": "2026-05-18",

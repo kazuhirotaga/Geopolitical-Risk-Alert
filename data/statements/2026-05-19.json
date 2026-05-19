@@ -1,37 +1,37 @@
 {
   "date": "2026-05-19",
-  "summary": "FRB関連の動きが活発。パウエル議長代行の任命、新議長の就任予定、理事の辞任、銀行関連の承認・終了措置など、FRBの組織と規制に関する動きが中心。金融政策への直接的な言及は少ない。",
+  "summary": "FRB関連の動きが中心。パウエル議長代行の任命、ウォーシュ新議長の就任予定、理事の辞任など、FRBの人事異動が相次いでいる。また、UBSグループなどに対する執行措置の終了も発表された。",
   "statements": [
     {
       "speaker": "Jerome H. Powell",
       "title": "Federal Reserve Board chair pro tempore",
-      "quote": "私は、ケビン・M・ウォーシュ氏が新議長として就任するまで、議長代行を務めます。",
-      "context": "FRBによる議長代行任命の発表",
-      "analysis": "パウエル氏が一時的に議長代行を務めることになった。ウォーシュ氏の議長就任が近いことを示唆しており、今後の金融政策運営に変化が生じる可能性がある。市場は新議長の政策手腕に注目するだろう。",
-      "importance": "high",
+      "quote": "議長代行として職務を遂行する",
+      "context": "ケビン・M・ウォーシュが新議長に就任するまでの間の議長代行としての任命を受けて",
+      "analysis": "パウエル氏が一時的に議長代行を務めることは、FRBの政策運営に一時的な安定をもたらす可能性がある。しかし、ウォーシュ氏の就任が近づくにつれ、市場は新議長の政策スタンスに注目が集まるだろう。",
+      "importance": "medium",
       "tags": [
         "FRB",
-        "議長",
-        "人事"
+        "人事",
+        "金融政策"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm"
     },
     {
       "speaker": "Stephen I. Miran",
-      "title": "Member of the Federal Reserve Board",
-      "quote": "後任の理事が就任する際、またはその直前に、私は連邦準備制度理事を辞任します。",
-      "context": "FRB理事辞任の表明",
-      "analysis": "理事の辞任は、FRBの政策決定に影響を与える可能性がある。後任人事が注目され、金融政策の方向性に対する憶測を呼ぶ可能性がある。特に、Miran氏の政策スタンスが明確だった場合、その影響は大きい。",
+      "title": "member of the Federal Reserve Board",
+      "quote": "後任が就任する時、またはその直前にFRB理事を辞任する",
+      "context": "FRB理事としての辞任を表明",
+      "analysis": "理事の辞任は、FRBの政策決定に影響を与える可能性がある。後任の人選とその政策スタンスが注目される。特に、Miran氏の専門分野や政策的立場によっては、市場への影響も考えられる。",
       "importance": "medium",
       "tags": [
         "FRB",
-        "理事",
-        "辞任"
+        "人事",
+        "金融政策"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm"
     }
   ],
-  "generated_at": "2026-05-19T19:56:50.887920",
+  "generated_at": "2026-05-19T22:19:48.657029",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
