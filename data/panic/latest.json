@@ -1,121 +1,115 @@
 {
-  "date": "2026-05-18",
-  "summary": "世界各地で一部地域的なパニックと社会不安が高まっています。特にインドではディーゼル燃料や水不足によるパニック買いと抗議デモが深刻化しており、中東では政治的・民族的対立が激化し、社会的な緊張が続いています。ボリビアでは大規模な抗議デモが首都に進軍する事態となり、英国ロンドンでも対立デモが衝突、逮捕者が出るなど、社会秩序の不安定化が見られます。その他地域では目立ったパニック事象は報じられていません。",
-  "global_panic_index": 68,
+  "date": "2026-05-19",
+  "summary": "世界各地で政治的対立、資源不足、社会経済的不満に起因する社会不安が増大しています。特に南米ボリビアとインドでは、大規模な抗議活動や生活インフラへの影響が顕著で、一部地域ではパニック買いや衝突が発生し、警戒が必要です。中東では民族間対立による緊張が高まっています。全体としては、地域的な不安定要素が複数存在し、社会心理的な緊迫度が増している状況です。",
+  "global_panic_index": 55,
   "regions": [
-    {
-      "region": "middle_east",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "政治的・民族的対立、人権侵害、入植者による嫌がらせ",
-      "incidents": [
-        {
-          "title": "イスラエル、ヨルダン川西岸パレスチナ人への死刑法を制定",
-          "location": "Occupied West Bank (イスラエル/パレスチナ)",
-          "severity": 75,
-          "description": "イスラエルが占領下のヨルダン川西岸でパレスチナ人に対し死刑法を適用する方針を制定。地域住民の報復への懸念と社会不安を大きく高めており、緊張状態が継続している。",
-          "source": "Truthout / Middle East Monitor"
-        },
-        {
-          "title": "イスラエル入植者による家畜轢き逃げ事件",
-          "location": "Occupied West Bank (イスラエル/パレスチナ)",
-          "severity": 65,
-          "description": "ヨルダン川西岸でイスラエル入植者がパレスチナ人の家畜を轢く事件が発生。住民の生活を脅かし、民族間の対立を激化させる行為として強い不満と不安を招いている。",
-          "source": "Al Jazeera / Modern Ghana"
-        }
-      ]
-    },
     {
       "region": "south_america",
       "panic_index": 65,
       "status": "volatile",
-      "main_cause": "政治的混乱、大規模な抗議デモ",
+      "main_cause": "政治的対立、大規模な抗議デモ",
       "incidents": [
         {
-          "title": "ボリビアで元指導者モラレス氏同盟の抗議者が首都に進軍、騒乱拡大",
-          "location": "Bolivia (首都へ)",
-          "severity": 70,
-          "description": "ボリビアで元指導者モラレス氏を支持する大規模な抗議デモ隊が首都に進軍しており、政治的混乱が深まっています。この動きは広範囲に社会不安を拡大させている。",
-          "source": "WRAL / KSAT / Oskaloosa Herald 他"
+          "title": "モラレス派プロテスターと警察の衝突、広がる社会不安",
+          "location": "ボリビア（ラパス）",
+          "severity": 75,
+          "description": "モラレス前大統領派のデモ隊が首都ラパスに向けて行進し、警察と衝突。複数の報道機関が衝突の激化と社会不安の広がりを報じており、大規模な道路封鎖も報告されている。",
+          "source": "Al Jazeera 他"
         },
         {
-          "title": "ラテンアメリカ諸国がボリビアの騒乱に懸念表明",
-          "location": "Latin America (地域全体)",
-          "severity": 60,
-          "description": "ボリビアの政治的騒乱に対し、周辺のラテンアメリカ諸国が懸念を表明。地域全体の安定への影響が懸念され、不確実性が高まっている。",
+          "title": "ボリビアの抗議活動の拡大に中南米諸国が懸念",
+          "location": "ボリビア",
+          "severity": 70,
+          "description": "ボリビア国内で拡大する抗議活動に対し、周辺の中南米諸国が懸念を表明。政治的緊張と社会秩序の不安定化が地域全体に波及する可能性が示唆されている。",
           "source": "Buenos Aires Times"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "民族・政治的対立に起因する大規模デモ",
+      "region": "southeast_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "水・エネルギー不足、パニック買い",
       "incidents": [
         {
-          "title": "ロンドンで対立する2グループの大規模デモが同時に発生し43人逮捕",
-          "location": "London, UK",
+          "title": "水不足に対する大規模抗議デモ",
+          "location": "インド（ムルンド、クトゥブッラプル、スリナガル）",
           "severity": 68,
-          "description": "ロンドンで反イスラムとパレスチナ支持の2つの大規模デモが同時に発生し、43人が逮捕された。社会の分断と緊張が高まり、公共の秩序が乱れる事態となっている。",
-          "source": "BBC / ロイター"
+          "description": "インドの複数都市で深刻な水不足に対し、住民が路上に出て「空の鍋」を掲げるなど大規模な抗議デモを実施。生活必需品への不安が顕在化している。",
+          "source": "Mumbai Mirror 他"
+        },
+        {
+          "title": "ディーゼル不足とパニック買い",
+          "location": "インド（アムリトサル）",
+          "severity": 78,
+          "description": "ディーゼル燃料の深刻な不足が発生し、燃料ポンプが枯渇。トラックが長距離を移動して燃料を探す状況で、アムリトサルではパニック買いが発生している。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "民族間対立、政治的緊張",
+      "incidents": [
+        {
+          "title": "イスラエル人入植者による家畜轢き殺し",
+          "location": "占領下のヨルダン川西岸",
+          "severity": 65,
+          "description": "占領下のヨルダン川西岸でイスラエル人入植者がパレスチナ人の家畜を轢き殺す事件が発生。民族間の緊張と対立が、地域住民の生活に直接的な脅威を与えている。",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "イスラエル、ヨルダン川西岸のパレスチナ人に死刑法を適用",
+          "location": "占領下のヨルダン川西岸",
+          "severity": 60,
+          "description": "イスラエルが占領下のヨルダン川西岸でパレスチナ人攻撃者に対する死刑法を施行。この決定は、地域住民の間にさらなる恐怖と不安を引き起こす可能性がある。",
+          "source": "Truthout 他"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "政治・社会経済的不満",
+      "incidents": [
+        {
+          "title": "ロンドンで対立する2グループの大規模デモ",
+          "location": "イギリス（ロンドン）",
+          "severity": 50,
+          "description": "ロンドン市内で対立する2つのグループによる大規模なデモが同時に行われ、警察が43人を逮捕。社会的な意見の対立が表面化し、秩序維持に警察が介入する事態となっている。",
+          "source": "BBC"
+        },
+        {
+          "title": "アイルランド銀行AGMで年金抗議デモ",
+          "location": "アイルランド",
+          "severity": 40,
+          "description": "アイルランド銀行の年次株主総会（AGM）で年金に関する抗議デモが実施される。経済的な不満が金融機関に向けられており、社会経済的な不安の兆候が見られる。",
+          "source": "Gript"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "該当なし",
-      "incidents": []
-    },
-    {
-      "region": "africa",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "該当なし",
-      "incidents": []
-    },
-    {
-      "region": "north_america",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "該当なし",
-      "incidents": []
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "該当なし",
-      "incidents": []
-    },
-    {
-      "region": "asia",
-      "panic_index": 78,
-      "status": "critical",
-      "main_cause": "エネルギー・水不足、生活必需品の供給不安",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "政治・社会的不満",
       "incidents": [
         {
-          "title": "インドでディーゼル燃料不足によるパニック買いと給油所の枯渇",
-          "location": "India (Amritsarなど)",
-          "severity": 80,
-          "description": "インド各地でディーゼル燃料が不足し、トラックが燃料を探して80km移動。一部地域ではパニック買いが発生し給油所が枯渇するなど、物流や日常生活に深刻な影響を与えている。",
-          "source": "MSN"
+          "title": "「令和の百姓一揆」釧路でもデモ行進",
+          "location": "日本（釧路）",
+          "severity": 35,
+          "description": "「令和の百姓一揆」と称するデモ行進が釧路で行われた。特定の政策や社会状況に対する不満を表明するもので、社会不安の軽微な表出と見られる。",
+          "source": "北海道新聞デジタル"
         },
         {
-          "title": "インド各地で水不足に対する住民の抗議デモ",
-          "location": "India (Qutbullapur, Srinagarなど)",
-          "severity": 75,
-          "description": "インドの複数の都市で、飲料水不足に対する住民の抗議デモが発生。生活必需品の供給不安が広がり、人々の不満と社会不安が高まっている。",
-          "source": "The Hans India / Kashmir Media Service"
-        },
-        {
-          "title": "インドで全国的な銀行ストライキの可能性が浮上",
-          "location": "India (全国)",
-          "severity": 65,
-          "description": "インドの銀行職員による全国的なストライキが迫っており、実現すれば金融サービスが麻痺し、広範な経済的・社会的不安を引き起こす恐れがある。",
-          "source": "Devdiscourse"
+          "title": "大阪都構想3度目の住民投票巡る抗議デモ",
+          "location": "日本（大阪）",
+          "severity": 30,
+          "description": "大阪都構想の再々度の住民投票を巡り、「もうやめて」と訴える抗議デモが発生。政治的な決定に対する住民の疲弊と反発が示されている。",
+          "source": "毎日新聞"
         }
       ]
     }

@@ -1,5 +1,90 @@
 [
   {
+    "date": "2026-05-19",
+    "summary": "アフリカでのISISリーダー殺害、ウクライナ国産誘導爆弾の実戦配備、フィリピンでの日米合同ミサイル演習など、地政学的な緊張と新たな軍事技術の動向が示された。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-05-18",
+        "location": "アフリカ",
+        "region": "middle_east",
+        "title": "ISISリーダー殺害",
+        "content": "米軍主導の作戦により、アフリカにおけるISISのリーダーが殺害された。米軍部隊削減計画に対する懸念が表明されている。",
+        "involved_parties": [
+          "米軍",
+          "ISIS"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/18/isis-leader-killed-in-africa-as-us-commander-raises-force-reduction-concerns/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-05-18",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ国産誘導爆弾の実戦配備",
+        "content": "ウクライナが国産の250kg誘導爆弾を実戦配備。ロシアの滑空爆弾攻撃への対抗と、西側諸国への依存軽減が目的。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/18/ukraine-declares-its-first-homegrown-guided-aerial-bomb-combat-ready/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-05-15",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米海兵隊、フィリピンで離島奪還演習",
+        "content": "米海兵隊がフィリピンで離島奪還演習を実施。実弾射撃の機会を重視。",
+        "involved_parties": [
+          "米海兵隊",
+          "フィリピン軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/15/us-marines-practice-seizing-remote-islands-in-philippine-exercise/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-05-14",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "日本、フィリピンで初のミサイル発射",
+        "content": "日本がフィリピンの地で初のミサイル発射を実施。88式地対艦ミサイルが、47マイル先の標的（旧型掃海艇）に命中。",
+        "involved_parties": [
+          "自衛隊"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/14/japan-fires-first-ever-missiles-from-philippine-soil/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-05-17",
+        "location": "オーストリア",
+        "region": "europe",
+        "title": "オーストリア軍機が米軍機を2日連続で迎撃",
+        "content": "5月10日、オーストリア軍機が領空侵犯の疑いがある米軍機を2日連続で迎撃した。迎撃地点はドイツ国境から60km以上離れたオーバーエスターライヒ州。",
+        "involved_parties": [
+          "オーストリア軍",
+          "米軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/13/austrian-jets-intercept-unauthorized-us-military-planes-two-days-in-a-row/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-18",
     "summary": "今週は、米軍とパートナー国によるフィリピンでの共同演習、日本によるフィリピンからの初のミサイル発射訓練、NATOによる対ドローンシステムの共同開発などが確認された。また、イスラエルがイランとの戦争を想定しF-35Iの射程延長を図る。",
     "events": [
@@ -4046,123 +4131,6 @@
         "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-18",
-    "summary": "ホルムズ海峡におけるイランとアメリカの緊張激化、台湾周辺での中国の軍事演習、ウクライナにおける兵器データ共有、防衛装備の近代化と増産に向けた各国の動きが確認された。",
-    "events": [
-      {
-        "id": "event-001",
-        "timestamp": "2026-04-12",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "米海軍、ホルムズ海峡を封鎖",
-        "content": "トランプ大統領が、ホルムズ海峡の封鎖を即時実施すると発表。イランによる攻撃に対しては断固たる措置を取ると警告。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "blockade",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/"
-      },
-      {
-        "id": "event-002",
-        "timestamp": "2026-04-12",
-        "location": "パキスタン",
-        "region": "middle_east",
-        "title": "米イラン和平交渉が決裂",
-        "content": "21時間にわたる和平交渉が決裂。双方が相手の責任を主張。数千人が死亡し、世界経済が混乱。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/"
-      },
-      {
-        "id": "event-003",
-        "timestamp": "2026-04-16",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "ホルムズ海峡の機雷除去作戦の可能性",
-        "content": "米軍は、ドローンやロボットを活用したホルムズ海峡の機雷除去作戦を検討。イランからの攻撃に対する脆弱性も指摘。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/16/how-the-us-military-could-clear-mines-from-the-strait-of-hormuz/"
-      },
-      {
-        "id": "event-004",
-        "timestamp": "2026-04-17",
-        "location": "台湾周辺",
-        "region": "east_asia",
-        "title": "中国、台湾に対する情報戦を展開",
-        "content": "中国軍が台湾周辺で大規模な軍事演習を実施する一方で、スマートフォンを通じて情報戦を展開。台湾国内の声を悪用する。",
-        "involved_parties": [
-          "中国",
-          "台湾"
-        ],
-        "event_type": "cyber",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/17/china-turns-taiwans-own-voices-against-it-in-information-war/"
-      },
-      {
-        "id": "event-005",
-        "timestamp": "2026-04-15",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ドイツ製兵器の戦闘データ共有",
-        "content": "ドイツとウクライナ間で、Panzerhaubitze 2000、RCH-155、IRIS-Tの戦闘データ共有に関する新たな合意が締結。",
-        "involved_parties": [
-          "ドイツ",
-          "ウクライナ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-German-weapons-performance-in-ukraine/"
-      },
-      {
-        "id": "event-006",
-        "timestamp": "2026-04-16",
-        "location": "ヨーロッパ",
-        "region": "europe",
-        "title": "EU、防衛研究開発に10億ドル投資",
-        "content": "EUがウクライナ戦争の教訓を活かし、徘徊型兵器や低コスト大量生産ドローンなどの防衛研究開発に10億ドル以上を投資。",
-        "involved_parties": [
-          "EU"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/16/eu-pumps-over-1-billion-into-defense-rd-centered-around-ukraine-war-lessons/"
-      },
-      {
-        "id": "event-007",
-        "timestamp": "2026-04-16",
-        "location": "レバノン",
-        "region": "middle_east",
-        "title": "レバノンとイスラエル、ワシントンで会談開始",
-        "content": "レバノンとイスラエルが、1948年以来となる外交的会合をワシントンで開始。両国は技術的には戦争状態。",
-        "involved_parties": [
-          "レバノン",
-          "イスラエル"
-        ],
-        "event_type": "other",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/04/14/lebanon-and-israel-talks-set-to-begin-in-washington/"
       }
     ]
   }
