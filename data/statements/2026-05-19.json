@@ -1,37 +1,37 @@
 {
   "date": "2026-05-19",
-  "summary": "FRB関連の動きが活発。パウエル議長が一時的な議長代行に指名されたほか、理事の辞任、銀行の監督機関変更、UBSグループなどに対する執行措置の終了などが発表された。金融政策への直接的な言及はないものの、FRBの人事と規制に関する動きが注目される。",
+  "summary": "FRB関連の動きが活発。パウエル議長代行の任命、新議長の就任予定、理事の辞任、銀行関連の承認・終了措置など、FRBの組織と規制に関する動きが中心。金融政策への直接的な言及は少ない。",
   "statements": [
     {
       "speaker": "Jerome H. Powell",
       "title": "Federal Reserve Board chair pro tempore",
-      "quote": "議長代行として職務を遂行する。",
-      "context": "ケビン・M・ウォッシュ氏が新議長に就任するまでの間の一時的な措置。",
-      "analysis": "パウエル氏が一時的に議長代行を務めることは、FRBの政策運営に一時的な安定をもたらす可能性がある。しかし、ウォッシュ氏の就任が近づくにつれ、金融政策の方向性に対する不確実性が高まる可能性がある。市場はウォッシュ氏の政策スタンスを注視するだろう。",
-      "importance": "medium",
+      "quote": "私は、ケビン・M・ウォーシュ氏が新議長として就任するまで、議長代行を務めます。",
+      "context": "FRBによる議長代行任命の発表",
+      "analysis": "パウエル氏が一時的に議長代行を務めることになった。ウォーシュ氏の議長就任が近いことを示唆しており、今後の金融政策運営に変化が生じる可能性がある。市場は新議長の政策手腕に注目するだろう。",
+      "importance": "high",
       "tags": [
         "FRB",
-        "人事",
-        "金融政策"
+        "議長",
+        "人事"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm"
     },
     {
       "speaker": "Stephen I. Miran",
       "title": "Member of the Federal Reserve Board",
-      "quote": "後任の理事が就任する時、またはその直前に辞任する。",
-      "context": "FRB理事の辞任。",
-      "analysis": "理事の辞任は、FRBの政策決定プロセスに影響を与える可能性がある。特に、Miran氏の政策スタンスが明確であった場合、後任人事によって金融政策の方向性が変化する可能性も考えられる。市場は後任人事に注目し、その政策スタンスを評価するだろう。",
+      "quote": "後任の理事が就任する際、またはその直前に、私は連邦準備制度理事を辞任します。",
+      "context": "FRB理事辞任の表明",
+      "analysis": "理事の辞任は、FRBの政策決定に影響を与える可能性がある。後任人事が注目され、金融政策の方向性に対する憶測を呼ぶ可能性がある。特に、Miran氏の政策スタンスが明確だった場合、その影響は大きい。",
       "importance": "medium",
       "tags": [
         "FRB",
-        "人事",
-        "金融政策"
+        "理事",
+        "辞任"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm"
     }
   ],
-  "generated_at": "2026-05-19T15:33:48.778785",
+  "generated_at": "2026-05-19T19:56:50.887920",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
