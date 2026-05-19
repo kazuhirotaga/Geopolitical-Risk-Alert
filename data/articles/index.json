@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-19",
-    "summary": "ウクライナ情勢の緊迫化、イランを巡る中東情勢の不安定化、エボラ出血熱の感染拡大、核テロの脅威増大など、地政学的リスクが高まっています。日韓エネルギー協力の動きも見られますが、全体として不安定要素が多い状況です。",
+    "summary": "ウクライナ情勢の緊迫化、中東におけるイスラエルと周辺国の緊張、アフリカでのエボラ出血熱の流行など、地政学リスクは全体的に高い水準。エネルギー安全保障を巡る国際協力の動きも見られる。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
       "southeast_asia": "none",
-      "south_asia": "none",
+      "south_asia": "low",
       "central_asia": "none",
-      "middle_east": "critical",
+      "middle_east": "high",
       "europe": "critical",
       "africa": "high",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-19T09:53:15.864277"
+    "generated_at": "2026-05-19T15:33:13.938731"
   },
   {
     "date": "2026-05-18",
