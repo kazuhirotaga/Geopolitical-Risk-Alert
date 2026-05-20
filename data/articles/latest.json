@@ -1,166 +1,64 @@
 {
   "date": "2026-05-20",
-  "summary": "中東情勢の緊迫化、ウクライナ戦争の長期化、アフリカでのエボラ出血熱の流行など、地政学リスクが高まっている。特にイランを巡る米国の動きが世界経済に大きな影響を与えており、注視が必要。",
+  "summary": "世界各地で地政学的リスクが高まっている。特に、中東における緊張、アフリカでのエボラ出血熱の流行、東アジアにおける軍事的緊張が懸念される。エネルギー価格の高騰とそれに関連する社会不安もリスク要因。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "台湾 頼清徳総統 武器売却めぐりアメリカとの協議に応じる考え",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "頼清徳総統がアメリカとの武器売却協議に応じる姿勢を示唆。米中関係、台湾海峡の緊張に影響を与える可能性。",
-      "analysis": "トランプ大統領が台湾への武器売却を中国との交渉材料とする可能性を示唆する中、頼清徳総統が協議に応じる姿勢を示したことは、台湾の防衛強化への強い意志の表れである。しかし、中国はこれに強く反発する可能性が高く、台湾海峡の緊張が高まるリスクがある。アメリカの武器売却の条件やタイミングも、今後の米中関係に影響を与えるだろう。",
-      "key_entities": [
-        "頼清徳",
-        "トランプ",
-        "アメリカ",
-        "台湾",
-        "中国"
-      ],
-      "sources": [
-        "NHK World"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "トランプ大統領 キューバの外交解決“可能”",
-      "region": "north_america",
-      "risk_level": "low",
-      "summary": "トランプ大統領がキューバとの外交的解決の可能性を示唆。ただし、政権内にはキューバ指導部へのいらだちも存在。",
-      "analysis": "トランプ大統領がキューバとの外交的解決に前向きな姿勢を示したことは、米国の対キューバ政策に変化が生じる可能性を示唆する。しかし、政権内にキューバ指導部への不満が存在することから、交渉は難航する可能性もある。今後の米キューバ関係の進展は、中南米地域の地政学的バランスに影響を与える可能性がある。",
-      "key_entities": [
-        "トランプ",
-        "アメリカ",
-        "キューバ"
-      ],
-      "sources": [
-        "NHK World"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
-      "region": "europe",
-      "risk_level": "high",
-      "summary": "ロシアがウクライナでの戦況悪化を受け、外交を装っている可能性。停戦交渉は時間稼ぎの策略との分析も。",
-      "analysis": "ロシアが停戦交渉に言及しているものの、一部アナリストはこれを時間稼ぎの策略と見ている。ウクライナでの戦況がロシアにとって不利な状況にあることが背景にあると考えられる。もしロシアが外交を装っているだけならば、紛争の長期化は避けられず、ヨーロッパ全体の安全保障に深刻な影響を与える。",
-      "key_entities": [
-        "プーチン",
-        "ロシア",
-        "ウクライナ"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "ガザへ向かう支援船団の活動家がイスラエルに拘束され、ハンガーストライキを実施。中東情勢の不安定化要因。",
-      "analysis": "イスラエルがガザへ向かう支援船団を阻止し、活動家を拘束したことは、国際社会からの批判を招く可能性がある。活動家たちのハンガーストライキは、イスラエルに対する圧力を強めるだろう。ガザ地区の人道状況は依然として深刻であり、今回の事件は中東和平プロセスをさらに困難にする可能性がある。",
-      "key_entities": [
-        "イスラエル",
-        "ガザ",
-        "パレスチナ"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
-      "region": "africa",
-      "risk_level": "medium",
-      "summary": "コンゴ民主共和国でエボラ出血熱が発生。紛争地域での発生のため、感染拡大の抑制が困難。",
-      "analysis": "コンゴ民主共和国でのエボラ出血熱の発生は、アフリカ地域における公衆衛生上の大きな脅威となる。特に、紛争地域での発生であるため、医療活動が制限され、感染拡大を抑制することが困難になる。国際社会からの支援が不可欠であり、感染拡大を防ぐための迅速な対応が求められる。",
-      "key_entities": [
-        "エボラ",
-        "コンゴ民主共和国",
-        "WHO"
-      ],
-      "sources": [
-        "BBC - World"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Chinese supertankers exit Hormuz as Trump, Vance talk up Iran deal",
+      "title": "トランプ大統領が攻撃再開の可能性に言及 イランはけん制",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "ホルムズ海峡から中国のタンカーが出港。トランプ政権がイランとの合意を模索する中、原油価格の変動に注意。",
-      "analysis": "ホルムズ海峡は世界の原油輸送の要衝であり、その安定は世界経済に大きな影響を与える。中国のタンカーが出港したことは、イラン情勢の緊張緩和を示唆する可能性があるが、トランプ政権がイランとの合意を模索する中で、原油価格の変動に注意が必要である。合意が成立しなければ、軍事衝突のリスクが高まり、原油価格が急騰する可能性もある。",
+      "summary": "トランプ大統領がイランへの攻撃再開に言及し、イランも反発。戦闘終結協議の見通しは不透明。",
+      "analysis": "アメリカとイランの緊張状態が継続しており、偶発的な衝突や誤算によるエスカレーションのリスクが高い。ホルムズ海峡の不安定化は、世界のエネルギー供給に深刻な影響を与える可能性がある。トランプ大統領の発言は、国内の政治的思惑や経済状況も影響していると考えられる。今後の交渉の行方と、両国の軍事的な動きを注視する必要がある。",
       "key_entities": [
-        "中国",
-        "ホルムズ海峡",
-        "トランプ",
-        "イラン"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "イランが新たな戦線を示唆。トランプ大統領がイランに期限を設定し、中東情勢が極めて不安定。",
-      "analysis": "イランが新たな戦線を示唆したことは、中東地域における紛争のエスカレーションを意味する。トランプ大統領がイランに期限を設定したことも、事態をさらに悪化させる可能性がある。アメリカとイランの直接的な軍事衝突は、地域全体を巻き込む大規模な紛争に発展する可能性があり、世界経済にも深刻な影響を与える。",
-      "key_entities": [
+        "アメリカ",
         "イラン",
-        "トランプ",
-        "アメリカ"
+        "トランプ大統領",
+        "革命防衛隊"
       ],
       "sources": [
-        "Al Jazeera"
+        "NHK World"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "UN cuts global growth forecast, blaming Middle East crisis",
-      "region": "global",
+      "title": "エボラ出血熱 世界中に広がるおそれは？【Q＆A】",
+      "region": "africa",
       "risk_level": "high",
-      "summary": "国連が世界経済成長予測を下方修正。中東危機が世界経済に深刻な影響を与えていると指摘。",
-      "analysis": "国連が世界経済成長予測を下方修正したことは、中東危機が世界経済に深刻な影響を与えていることを示している。特に、原油価格の高騰や貿易の停滞が、世界経済の成長を阻害する要因となっている。中東地域の安定化が、世界経済の回復にとって不可欠である。",
+      "summary": "コンゴ民主共和国でエボラ出血熱が流行。WHOは「国際的に懸念される公衆衛生上の緊急事態」を宣言。",
+      "analysis": "エボラ出血熱の流行は、コンゴ民主共和国の不安定な治安状況と相まって、制御が困難になっている。周辺国への拡大リスクも高く、国際的な支援が不可欠である。WHOの緊急事態宣言は、各国に対する警戒と対策の強化を促すもの。ワクチン開発と供給の遅れも懸念材料。",
       "key_entities": [
-        "国連",
-        "中東"
+        "コンゴ民主共和国",
+        "WHO",
+        "西條政幸"
       ],
       "sources": [
-        "Al Jazeera"
+        "NHK World",
+        "BBC - World",
+        "Al Jazeera",
+        "国連ニュース"
       ],
       "source_types": [
+        "media",
         "international_org"
       ]
     },
     {
-      "title": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "米副大統領がイランとの交渉決裂の場合、軍事行動の準備があると発言。中東地域の緊張が極度に高まる。",
-      "analysis": "米副大統領がイランとの交渉決裂の場合、軍事行動の準備があると発言したことは、アメリカがイランに対して強い圧力をかけていることを示している。イランがアメリカの要求に応じない場合、軍事衝突のリスクが現実味を帯びてくる。中東地域の緊張が極度に高まっており、予断を許さない状況である。",
+      "title": "台湾 頼清徳総統 武器売却めぐりアメリカとの協議に応じる考え",
+      "region": "east_asia",
+      "risk_level": "medium",
+      "summary": "台湾の頼清徳総統が、アメリカとの武器売却協議に応じる意向を示唆。米中関係への影響が懸念される。",
+      "analysis": "アメリカによる台湾への武器売却は、中国の反発を招き、東アジア地域の緊張を高める要因となる。台湾の防衛力強化は、中国の軍事的圧力を抑止する効果がある一方、中国側の強硬姿勢を招く可能性もある。米中関係の悪化は、貿易や経済にも悪影響を及ぼす。",
       "key_entities": [
-        "JD Vance",
+        "台湾",
         "アメリカ",
-        "イラン"
+        "中国",
+        "頼清徳総統",
+        "トランプ大統領"
       ],
       "sources": [
+        "NHK World",
         "Al Jazeera"
       ],
       "source_types": [
@@ -168,18 +66,127 @@
       ]
     },
     {
-      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イスラエルによるレバノンへの攻撃による死者が3,000人を超えたと発表。停戦合意にも関わらず紛争が継続。",
-      "analysis": "イスラエルによるレバノンへの攻撃による死者が3,000人を超えたことは、紛争の深刻さを物語っている。名目上の停戦合意にも関わらず紛争が継続していることは、中東地域の不安定さを浮き彫りにしている。国際社会は、紛争の早期終結に向けて、より積極的な役割を果たす必要がある。",
+      "title": "イギリス ロシア産原油からのジェット燃料などを制裁から除外",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "イギリス政府が、ロシア産原油を元にした第三国製造のジェット燃料などの輸入を許可。燃料価格上昇が背景。",
+      "analysis": "イギリスの制裁緩和は、エネルギー価格の高騰を抑制するための苦肉の策と考えられる。しかし、ロシアへの経済制裁の効果を弱める可能性があり、国際的な批判を招く恐れもある。エネルギー安全保障と地政学的リスクのバランスを取ることが難しい状況を示している。",
       "key_entities": [
-        "イスラエル",
-        "レバノン",
-        "ヒズボラ"
+        "イギリス",
+        "ロシア"
       ],
       "sources": [
-        "BBC - World"
+        "NHK World",
+        "Al Jazeera"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "中国海軍「空母『遼寧』西太平洋に派遣し実弾射撃含む訓練」",
+      "region": "east_asia",
+      "risk_level": "medium",
+      "summary": "中国軍が空母「遼寧」を西太平洋に派遣し、実弾射撃訓練を実施。周辺地域への示威行動。",
+      "analysis": "中国の軍事活動の活発化は、東アジア地域の緊張を高める要因となる。特に、台湾周辺海域での活動は、台湾海峡の安定を脅かす可能性がある。アメリカをはじめとする関係各国は、中国の軍事動向を警戒し、外交的な対話を通じて緊張緩和を目指す必要がある。",
+      "key_entities": [
+        "中国",
+        "遼寧"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "日韓首脳 エネルギー協力立ち上げで一致 具体的な行動を検討へ",
+      "region": "east_asia",
+      "risk_level": "low",
+      "summary": "日韓首脳会談で、エネルギー供給の強靭化に向けた協力体制を構築。関係改善の兆し。",
+      "analysis": "日韓のエネルギー協力は、両国のエネルギー安全保障を強化する上で重要な意味を持つ。特に、地政学的リスクが高まる中で、エネルギー供給の安定化は喫緊の課題である。両国の関係改善は、東アジア地域の安定にも貢献する。",
+      "key_entities": [
+        "日本",
+        "韓国",
+        "高市総理大臣",
+        "李在明大統領"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "ベラルーシがロシアと訓練 ロシアは攻撃関与への懸念を批判",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "ベラルーシがロシアと核兵器使用訓練を実施。ロシアはウクライナへの攻撃関与への懸念を批判。",
+      "analysis": "ベラルーシとロシアの軍事協力は、ウクライナ情勢をさらに不安定化させる可能性がある。核兵器使用訓練は、NATO諸国に対する威嚇と見なされる可能性があり、緊張を高める要因となる。ロシアによるウクライナ侵攻が長期化する中で、ベラルーシの役割が注目される。",
+      "key_entities": [
+        "ベラルーシ",
+        "ロシア",
+        "ゼレンスキー大統領"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "ホルムズ海峡封鎖は壊滅的な影響 世界的危機",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "国連事務総長がホルムズ海峡の封鎖による途上国への影響を懸念。世界的危機として開放に向け取り組む考えを示す。",
+      "analysis": "ホルムズ海峡は世界のエネルギー供給において極めて重要なルートであり、封鎖されれば世界経済に壊滅的な影響を与える。イラン情勢が不安定な中、ホルムズ海峡の安全確保は国際社会にとって喫緊の課題である。国連の関与は、事態の沈静化に貢献する可能性がある。",
+      "key_entities": [
+        "国連",
+        "グテーレス事務総長",
+        "イラン"
+      ],
+      "sources": [
+        "NHK World",
+        "国連ニュース"
+      ],
+      "source_types": [
+        "media",
+        "international_org"
+      ]
+    },
+    {
+      "title": "フィリピン マルコス大統領「両国関係は新たな段階に入った」",
+      "region": "southeast_asia",
+      "risk_level": "low",
+      "summary": "フィリピンのマルコス大統領が、日本の武器輸出容認を歓迎。両国関係の強化を示唆。",
+      "analysis": "フィリピンと日本の関係強化は、南シナ海における中国の海洋進出に対抗する上で重要な意味を持つ。日本の武器輸出容認は、フィリピンの防衛力強化に貢献する一方、中国との関係に影響を与える可能性もある。地域のパワーバランスの変化に注目する必要がある。",
+      "key_entities": [
+        "フィリピン",
+        "日本",
+        "マルコス大統領"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Samsung workers about to strike in South Korea",
+      "region": "east_asia",
+      "risk_level": "low",
+      "summary": "Workers' union says protest over bonuses will continue for 18 days.",
+      "analysis": "The strike of Samsung workers, while primarily a labor dispute, can have broader economic implications. A prolonged strike could disrupt production, impacting global supply chains and potentially affecting South Korea's economic growth. This event highlights the importance of labor relations and their potential impact on national and international economies.",
+      "key_entities": [
+        "Samsung",
+        "South Korea"
+      ],
+      "sources": [
+        "Al Jazeera"
       ],
       "source_types": [
         "media"
@@ -188,16 +195,16 @@
   ],
   "region_risk_map": {
     "east_asia": "medium",
-    "southeast_asia": "none",
-    "south_asia": "none",
+    "southeast_asia": "low",
+    "south_asia": "low",
     "central_asia": "none",
-    "middle_east": "critical",
-    "europe": "high",
-    "africa": "medium",
-    "north_america": "low",
+    "middle_east": "high",
+    "europe": "medium",
+    "africa": "high",
+    "north_america": "medium",
     "south_america": "none"
   },
-  "generated_at": "2026-05-20T09:41:26.801588",
+  "generated_at": "2026-05-20T15:31:14.567860",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

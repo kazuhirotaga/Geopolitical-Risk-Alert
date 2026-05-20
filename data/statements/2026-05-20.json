@@ -1,19 +1,18 @@
 {
   "date": "2026-05-20",
-  "summary": "FRB関連の動きが活発。パウエル議長が暫定議長に就任する一方、後任議長が指名されるなど、FRBのトップ人事が大きく動いている。また、UBSグループなどに対する執行措置の終了も発表された。",
+  "summary": "FRB関連の人事と規制緩和の動きが中心。パウエル氏が暫定議長に就任し、ウォーシュ氏の新議長就任までの繋ぎを務める。UBSグループなどに対する執行措置の終了も発表され、金融機関への規制緩和が進んでいる。",
   "statements": [
     {
       "speaker": "Jerome H. Powell",
       "title": "Federal Reserve Board chair pro tempore",
       "quote": "I will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair.",
       "context": "FRBによる発表",
-      "analysis": "パウエル氏が暫定議長として、ウォーシュ氏の新議長就任までの間、FRBを率いることを表明。FRB議長の交代は金融政策や市場心理に大きな影響を与えるため、今後の動向が注目される。",
-      "importance": "high",
+      "analysis": "パウエル氏が暫定議長として、次期議長であるウォーシュ氏の就任までの間、FRBの舵取りを行うことを明確にした。金融政策の継続性と移行期間の安定化を意図していると考えられる。市場への影響は限定的だが、今後の政策変更への注目が集まる。",
+      "importance": "medium",
       "tags": [
         "FRB",
-        "議長",
-        "金融政策",
-        "人事"
+        "人事",
+        "金融政策"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm"
     },
@@ -22,34 +21,30 @@
       "title": "Member of the Federal Reserve Board",
       "quote": "I submit my resignation as a member of the Federal Reserve Board, effective when or shortly before my successor on the Board is sworn in.",
       "context": "FRBによる発表",
-      "analysis": "ミラン理事が辞任を表明。後任理事の就任時期に合わせて辞任する意向を示しており、FRBの理事構成に変化が生じる。理事の交代は、金融政策の決定プロセスに影響を与える可能性がある。",
+      "analysis": "ミラン理事が辞任を表明。後任人事が決定次第、退任となる。辞任の理由は不明だが、FRBの政策決定に影響を与える可能性がある。後任人事の発表と、その人物の金融政策スタンスが注目される。",
       "importance": "medium",
       "tags": [
         "FRB",
-        "理事",
-        "辞任",
         "人事"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm"
     },
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "Federal Reserve Board",
-      "quote": "連邦準備制度理事会は、UBSグループAG、クレディ・スイスAG、クレディ・スイス・ホールディングス（USA）、Inc.、およびクレディ・スイスAG、ニューヨーク支店との執行措置の終了を発表します。",
+      "speaker": "Federal Reserve Board (発表)",
+      "title": "FRB",
+      "quote": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
       "context": "FRBによる発表",
-      "analysis": "UBSグループとクレディ・スイスに対する執行措置が終了。これは、両金融機関の経営状況が改善したことを示唆する可能性がある。金融市場におけるリスク軽減につながる可能性がある。",
+      "analysis": "UBSグループとクレディ・スイスに対する執行措置の終了は、金融機関に対する規制緩和の兆候と見られる。過去の不正行為に対する制裁が一段落し、両行の経営の自由度が高まる可能性がある。金融市場全体への影響は限定的だが、個別企業の株価には影響を与える可能性がある。",
       "importance": "medium",
       "tags": [
         "FRB",
-        "UBS",
-        "クレディ・スイス",
-        "金融規制",
-        "執行措置"
+        "規制緩和",
+        "金融機関"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm"
     }
   ],
-  "generated_at": "2026-05-20T09:42:01.258115",
+  "generated_at": "2026-05-20T15:31:48.173826",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

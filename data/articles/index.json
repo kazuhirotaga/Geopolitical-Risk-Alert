@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-20",
-    "summary": "中東情勢の緊迫化、ウクライナ戦争の長期化、アフリカでのエボラ出血熱の流行など、地政学リスクが高まっている。特にイランを巡る米国の動きが世界経済に大きな影響を与えており、注視が必要。",
+    "summary": "世界各地で地政学的リスクが高まっている。特に、中東における緊張、アフリカでのエボラ出血熱の流行、東アジアにおける軍事的緊張が懸念される。エネルギー価格の高騰とそれに関連する社会不安もリスク要因。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "none",
-      "south_asia": "none",
+      "southeast_asia": "low",
+      "south_asia": "low",
       "central_asia": "none",
-      "middle_east": "critical",
-      "europe": "high",
-      "africa": "medium",
-      "north_america": "low",
+      "middle_east": "high",
+      "europe": "medium",
+      "africa": "high",
+      "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-20T09:41:26.801588"
+    "generated_at": "2026-05-20T15:31:14.567860"
   },
   {
     "date": "2026-05-19",
