@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-20",
-    "summary": "世界各地で地政学的リスクが高まっている。特に、中東における緊張、アフリカでのエボラ出血熱の流行、東アジアにおける軍事的緊張が懸念される。エネルギー価格の高騰とそれに関連する社会不安もリスク要因。",
+    "summary": "世界各地で地政学的緊張が高まる。米中間の対立、ロシア・ウクライナ戦争の長期化、中東情勢の不安定化、キューバとの関係悪化、エボラ出血熱の流行などが複合的に影響し、世界経済の不確実性が増している。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -11,11 +11,11 @@
       "central_asia": "none",
       "middle_east": "high",
       "europe": "medium",
-      "africa": "high",
+      "africa": "medium",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "low"
     },
-    "generated_at": "2026-05-20T15:31:14.567860"
+    "generated_at": "2026-05-20T20:23:11.461765"
   },
   {
     "date": "2026-05-19",
