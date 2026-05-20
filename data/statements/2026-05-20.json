@@ -1,13 +1,13 @@
 {
   "date": "2026-05-20",
-  "summary": "FRB関連のニュースが中心。新たな決済システムの提案や、FOMC議事録の公開、議長人事など、金融政策や金融機関の監督に関する動きが見られる。市場への直接的な影響は限定的だが、今後の金融政策の方向性を示唆する可能性がある。",
+  "summary": "FRB関連のニュースが中心。パウエル議長代行の任命、FOMC議事録の公開、決済口座に関する提案など、金融政策や金融機関の監督に関する動きが見られる。市場への直接的な影響は限定的だが、今後の政策運営に注目が集まる。",
   "statements": [
     {
-      "speaker": "Federal Reserve Board",
-      "title": "連邦準備制度理事会",
-      "quote": "適格な金融機関が決済を清算・決済するために使用できる『決済口座』の設立提案について、パブリックコメントを募集します。",
-      "context": "連邦準備制度理事会のプレスリリース",
-      "analysis": "新たな決済システムの構築に向けた動きであり、フィンテック企業や新たな金融機関の参入を促す可能性がある。既存の金融機関にとっては競争激化の要因となる一方、効率的な決済インフラの構築は経済全体の活性化に繋がる。",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "適格な金融機関が決済に利用できる『決済口座』設立の提案について、パブリックコメントを募集する",
+      "context": "FRBのプレスリリース",
+      "analysis": "決済システムの効率化と安全性の向上を目指す提案。フィンテック企業や新たな金融機関の参入を促進する可能性がある。パブリックコメントの結果次第で、金融業界の構造変化を促す可能性も秘めている。",
       "importance": "medium",
       "tags": [
         "金融政策",
@@ -17,49 +17,64 @@
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm"
     },
     {
-      "speaker": "Federal Open Market Committee",
-      "title": "連邦公開市場委員会",
-      "quote": "2026年4月28-29日の連邦公開市場委員会の議事録",
-      "context": "連邦準備制度理事会のプレスリリース",
-      "analysis": "議事録の内容次第で、今後の金融政策の方向性（利上げ、利下げ、量的緩和など）に関する手がかりが得られる可能性がある。市場参加者は、インフレ見通し、雇用状況、経済成長に関する委員の意見に注目するだろう。",
+      "speaker": "連邦公開市場委員会",
+      "title": "FOMC",
+      "quote": "2026年4月28-29日のFOMC議事録を公開",
+      "context": "FRBのプレスリリース",
+      "analysis": "議事録の内容次第で、今後の金融政策の方向性に関する市場の憶測が強まる可能性がある。特に、インフレ見通しや利上げペースに関する議論に注目が集まるだろう。",
       "importance": "high",
       "tags": [
         "金融政策",
         "FOMC",
-        "議事録"
+        "インフレ",
+        "利上げ"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm"
     },
     {
-      "speaker": "Jerome H. Powell",
-      "title": "連邦準備制度理事会議長（臨時代理）",
-      "quote": "ケビン・M・ウォーシュが新議長として就任するまで、議長臨時代理を務めます。",
-      "context": "連邦準備制度理事会のプレスリリース",
-      "analysis": "議長交代に伴う一時的な措置。ウォーシュ氏の政策スタンスが不明な場合、市場は一時的に様子見姿勢となる可能性がある。パウエル氏の臨時代理期間中の発言は、市場に影響を与える可能性があるため注意が必要。",
-      "importance": "medium",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "ケビン・M・ウォーシュ氏が新議長に就任するまで、ジェローム・H・パウエル氏が議長代行を務める",
+      "context": "FRBのプレスリリース",
+      "analysis": "議長交代は、金融政策の方向性に影響を与える可能性がある。ウォーシュ氏の政策スタンスが明確になるまで、市場は様子見姿勢を強めるかもしれない。",
+      "importance": "high",
       "tags": [
+        "金融政策",
         "FRB",
-        "議長",
-        "人事"
+        "議長交代"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm"
     },
     {
-      "speaker": "Stephen I. Miran",
-      "title": "連邦準備制度理事会理事",
-      "quote": "後任の理事が就任する際、またはその直前に、連邦準備制度理事会理事を辞任します。",
-      "context": "連邦準備制度理事会のプレスリリース",
-      "analysis": "理事の辞任は、FRBの政策決定に影響を与える可能性がある。後任の人選や、Miran氏の辞任理由によっては、市場に不透明感を与える可能性もある。",
-      "importance": "low",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "スティーブン・I・ミラン氏がFRB理事を辞任。後任が就任次第、辞任が有効となる",
+      "context": "FRBのプレスリリース",
+      "analysis": "理事の辞任は、FRBの政策決定に影響を与える可能性がある。後任人事が注目される。",
+      "importance": "medium",
       "tags": [
         "FRB",
         "理事",
-        "人事"
+        "辞任"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm"
+    },
+    {
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "UBSグループ、クレディ・スイスAGなどに対する執行措置を終了",
+      "context": "FRBのプレスリリース",
+      "analysis": "過去の不正行為に対する対応が一段落したことを示す。金融機関の健全性に対するFRBの監視体制が強化された結果とも言える。",
+      "importance": "low",
+      "tags": [
+        "金融規制",
+        "UBS",
+        "クレディ・スイス"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm"
     }
   ],
-  "generated_at": "2026-05-20T20:23:45.184286",
+  "generated_at": "2026-05-20T22:26:00.986901",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
