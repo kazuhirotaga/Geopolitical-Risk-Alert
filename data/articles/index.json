@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-20",
+    "summary": "中東における緊張が極めて高い状態にあり、イランを巡る軍事衝突の可能性が現実味を帯びている。ウクライナ情勢も依然として深刻であり、世界経済への影響が懸念される。エボラ出血熱の感染拡大もリスク要因として注視が必要。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "low",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-05-20T03:56:22.574979"
+  },
+  {
     "date": "2026-05-19",
     "summary": "ウクライナ情勢の悪化、中東地域の緊張、エボラ出血熱の拡大など、地政学リスクが高まっている。特に、ウクライナ戦争の長期化と中東における偶発的な軍事衝突の可能性が懸念される。",
     "overall_risk_level": "high",
