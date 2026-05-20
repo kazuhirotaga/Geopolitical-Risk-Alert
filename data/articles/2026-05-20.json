@@ -1,88 +1,56 @@
 {
   "date": "2026-05-20",
-  "summary": "中東における緊張が極めて高い状態にあり、イランを巡る軍事衝突の可能性が現実味を帯びている。ウクライナ情勢も依然として深刻であり、世界経済への影響が懸念される。エボラ出血熱の感染拡大もリスク要因として注視が必要。",
+  "summary": "中東情勢の緊迫化、ウクライナ戦争の長期化、アフリカでのエボラ出血熱の流行など、地政学リスクが高まっている。特にイランを巡る米国の動きが世界経済に大きな影響を与えており、注視が必要。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "米副大統領が、イランとの核合意交渉が決裂した場合、軍事行動の準備ができていると発言。緊張が極度に高まっている。",
-      "analysis": "米国の高官が軍事行動の可能性に言及したことで、中東地域における地政学的リスクが著しく高まっている。イランの核開発疑惑を巡る交渉は難航しており、合意に至らない場合、米国が軍事力行使に踏み切る可能性が示唆された。これにより、原油価格の高騰や、地域全体への紛争拡大のリスクが高まる。今後の交渉の行方と、米国の具体的な軍事計画の有無が注目される。",
-      "key_entities": [
-        "US",
-        "Iran"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "米上院が、大統領のイランに対する戦争権限を制限する決議案を可決。政権内部でも対イラン強硬策への懸念が強まっている。",
-      "analysis": "米上院が、大統領の戦争権限を制限する決議案を進めたことは、政権内部における対イラン政策に対する意見の相違を示唆している。大統領の軍事行動を抑制しようとする動きは、イランとの偶発的な衝突を回避する上で一定の効果が期待できる。しかし、決議案の成立如何に関わらず、米国とイランの緊張状態は依然として高く、地域情勢は不安定な状況が続くと予想される。",
-      "key_entities": [
-        "US",
-        "Iran",
-        "US Senate",
-        "Trump"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Iran war live: Tehran warns of ‘many more surprises’ if conflict resumes",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "イランが、米国との紛争が再開された場合、「さらなるサプライズ」があると警告。緊張緩和の見通しは立っていない。",
-      "analysis": "イランが米国との紛争再開に際して「さらなるサプライズ」を警告したことは、事態のエスカレーションを招きかねない。具体的な内容が不明であるため、どのような手段が用いられるか予測することは困難だが、中東地域全体の不安定化を招く可能性は否定できない。米国とイランの対立は、代理戦争やサイバー攻撃など、様々な形で展開される可能性があり、国際社会は緊張緩和に向けた外交努力を続ける必要がある。",
-      "key_entities": [
-        "Iran",
-        "US"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "More than 15,800 people killed in Russia’s all-out war on Ukraine: UN",
-      "region": "europe",
-      "risk_level": "high",
-      "summary": "ウクライナでの死者が15,800人を超えたと国連が発表。紛争は長期化しており、人道状況は悪化の一途を辿っている。",
-      "analysis": "ウクライナにおける紛争の長期化は、人道的な危機を深刻化させている。国連の発表によれば、死者数は15,800人を超え、その中には多くの子どもが含まれている。紛争は、インフラの破壊や避難民の増加を引き起こし、ウクライナの経済や社会に深刻な影響を与えている。国際社会は、人道支援の強化とともに、紛争の早期終結に向けた外交努力を続ける必要がある。",
-      "key_entities": [
-        "Russia",
-        "Ukraine",
-        "UN"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "international_org"
-      ]
-    },
-    {
-      "title": "Does Ukraine have the advantage at the moment?",
-      "region": "europe",
+      "title": "台湾 頼清徳総統 武器売却めぐりアメリカとの協議に応じる考え",
+      "region": "east_asia",
       "risk_level": "medium",
-      "summary": "キーウがモスクワ地域への大規模な攻撃で戦争をロシア国内に拡大させている。",
-      "analysis": "ウクライナ軍がロシア領内への攻撃を強化していることは、紛争の新たな局面を示唆している。これにより、ロシア国内での厭戦気分が高まる可能性もあるが、同時に、ロシアによる報復攻撃のリスクも高まる。紛争の地理的な拡大は、欧州全体の安全保障環境に深刻な影響を与え、NATO諸国への波及も懸念される。今後の紛争の行方は、国際社会の安定に大きな影響を与える。",
+      "summary": "頼清徳総統がアメリカとの武器売却協議に応じる姿勢を示唆。米中関係、台湾海峡の緊張に影響を与える可能性。",
+      "analysis": "トランプ大統領が台湾への武器売却を中国との交渉材料とする可能性を示唆する中、頼清徳総統が協議に応じる姿勢を示したことは、台湾の防衛強化への強い意志の表れである。しかし、中国はこれに強く反発する可能性が高く、台湾海峡の緊張が高まるリスクがある。アメリカの武器売却の条件やタイミングも、今後の米中関係に影響を与えるだろう。",
       "key_entities": [
-        "Ukraine",
-        "Russia"
+        "頼清徳",
+        "トランプ",
+        "アメリカ",
+        "台湾",
+        "中国"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "トランプ大統領 キューバの外交解決“可能”",
+      "region": "north_america",
+      "risk_level": "low",
+      "summary": "トランプ大統領がキューバとの外交的解決の可能性を示唆。ただし、政権内にはキューバ指導部へのいらだちも存在。",
+      "analysis": "トランプ大統領がキューバとの外交的解決に前向きな姿勢を示したことは、米国の対キューバ政策に変化が生じる可能性を示唆する。しかし、政権内にキューバ指導部への不満が存在することから、交渉は難航する可能性もある。今後の米キューバ関係の進展は、中南米地域の地政学的バランスに影響を与える可能性がある。",
+      "key_entities": [
+        "トランプ",
+        "アメリカ",
+        "キューバ"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
+      "region": "europe",
+      "risk_level": "high",
+      "summary": "ロシアがウクライナでの戦況悪化を受け、外交を装っている可能性。停戦交渉は時間稼ぎの策略との分析も。",
+      "analysis": "ロシアが停戦交渉に言及しているものの、一部アナリストはこれを時間稼ぎの策略と見ている。ウクライナでの戦況がロシアにとって不利な状況にあることが背景にあると考えられる。もしロシアが外交を装っているだけならば、紛争の長期化は避けられず、ヨーロッパ全体の安全保障に深刻な影響を与える。",
+      "key_entities": [
+        "プーチン",
+        "ロシア",
+        "ウクライナ"
       ],
       "sources": [
         "Al Jazeera"
@@ -92,12 +60,32 @@
       ]
     },
     {
-      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
+      "title": "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "ガザへ向かう支援船団の活動家がイスラエルに拘束され、ハンガーストライキを実施。中東情勢の不安定化要因。",
+      "analysis": "イスラエルがガザへ向かう支援船団を阻止し、活動家を拘束したことは、国際社会からの批判を招く可能性がある。活動家たちのハンガーストライキは、イスラエルに対する圧力を強めるだろう。ガザ地区の人道状況は依然として深刻であり、今回の事件は中東和平プロセスをさらに困難にする可能性がある。",
+      "key_entities": [
+        "イスラエル",
+        "ガザ",
+        "パレスチナ"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
       "region": "africa",
       "risk_level": "medium",
-      "summary": "WHOの専門家が、エボラ出血熱の感染拡大が当初の想定よりも速い可能性を警告。感染拡大への懸念が高まっている。",
-      "analysis": "中央アフリカにおけるエボラ出血熱の感染拡大は、公衆衛生上の深刻な脅威となっている。WHOの警告によれば、感染拡大の速度は当初の想定よりも速く、実際の感染者数は報告されている数よりもはるかに多い可能性がある。感染拡大は、医療体制の脆弱な地域において特に深刻な影響を及ぼし、国際的な支援が必要不可欠である。また、エボラ出血熱の感染拡大は、地域経済や社会にも大きな影響を与え、政治的な不安定化を招く可能性もある。",
+      "summary": "コンゴ民主共和国でエボラ出血熱が発生。紛争地域での発生のため、感染拡大の抑制が困難。",
+      "analysis": "コンゴ民主共和国でのエボラ出血熱の発生は、アフリカ地域における公衆衛生上の大きな脅威となる。特に、紛争地域での発生であるため、医療活動が制限され、感染拡大を抑制することが困難になる。国際社会からの支援が不可欠であり、感染拡大を防ぐための迅速な対応が求められる。",
       "key_entities": [
+        "エボラ",
+        "コンゴ民主共和国",
         "WHO"
       ],
       "sources": [
@@ -108,15 +96,16 @@
       ]
     },
     {
-      "title": "Nigeria says joint US strikes kill 175 ISIL fighters in country’s northeast",
-      "region": "africa",
-      "risk_level": "medium",
-      "summary": "ナイジェリア軍が、米国との共同作戦でISIL戦闘員175人を殺害したと発表。テロ対策は継続されている。",
-      "analysis": "ナイジェリアにおける米国との共同作戦によるISIL戦闘員の殺害は、テロ対策における一定の成果を示している。しかし、ISILをはじめとするテロ組織は、依然としてナイジェリアを含むアフリカ地域において活動を続けており、治安情勢は不安定な状況が続いている。テロ対策は、軍事的な手段だけでなく、貧困や格差といった根本的な原因に対処する必要があり、包括的なアプローチが求められる。",
+      "title": "Chinese supertankers exit Hormuz as Trump, Vance talk up Iran deal",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "ホルムズ海峡から中国のタンカーが出港。トランプ政権がイランとの合意を模索する中、原油価格の変動に注意。",
+      "analysis": "ホルムズ海峡は世界の原油輸送の要衝であり、その安定は世界経済に大きな影響を与える。中国のタンカーが出港したことは、イラン情勢の緊張緩和を示唆する可能性があるが、トランプ政権がイランとの合意を模索する中で、原油価格の変動に注意が必要である。合意が成立しなければ、軍事衝突のリスクが高まり、原油価格が急騰する可能性もある。",
       "key_entities": [
-        "Nigeria",
-        "US",
-        "ISIL"
+        "中国",
+        "ホルムズ海峡",
+        "トランプ",
+        "イラン"
       ],
       "sources": [
         "Al Jazeera"
@@ -126,51 +115,71 @@
       ]
     },
     {
-      "title": "日韓首脳 エネルギー協力立ち上げで一致 具体的な行動を検討へ",
-      "region": "south_asia",
-      "risk_level": "low",
-      "summary": "日韓首脳がエネルギー協力の立ち上げで合意。インド太平洋地域での備蓄強化など、具体的な行動を検討する。",
-      "analysis": "日韓首脳がエネルギー協力の立ち上げで合意したことは、両国間の関係改善に向けた一歩となる。エネルギー安全保障の強化は、地政学的なリスクに対する両国の脆弱性を軽減する上で重要であり、協力関係の深化が期待される。しかし、過去の歴史問題や領土問題を巡る対立が依然として存在するため、協力関係の進展には慎重な姿勢も必要である。",
+      "title": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
+      "region": "middle_east",
+      "risk_level": "critical",
+      "summary": "イランが新たな戦線を示唆。トランプ大統領がイランに期限を設定し、中東情勢が極めて不安定。",
+      "analysis": "イランが新たな戦線を示唆したことは、中東地域における紛争のエスカレーションを意味する。トランプ大統領がイランに期限を設定したことも、事態をさらに悪化させる可能性がある。アメリカとイランの直接的な軍事衝突は、地域全体を巻き込む大規模な紛争に発展する可能性があり、世界経済にも深刻な影響を与える。",
       "key_entities": [
-        "Japan",
-        "South Korea"
+        "イラン",
+        "トランプ",
+        "アメリカ"
       ],
       "sources": [
-        "NHK World"
+        "Al Jazeera"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "中国海軍「空母『遼寧』西太平洋に派遣し実弾射撃含む訓練」",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "中国海軍が空母「遼寧」を西太平洋に派遣し、実弾射撃を含む訓練を実施すると発表。周辺地域への示威行動と見られる。",
-      "analysis": "中国海軍が空母「遼寧」を西太平洋に派遣し、実弾射撃を含む訓練を実施することは、周辺地域に対する示威行動と見なされる。これにより、周辺諸国との緊張が高まる可能性があり、特に台湾や日本との関係に影響を与える可能性がある。中国の軍事的なプレゼンスの拡大は、地域全体の安全保障環境に変化をもたらし、米国との競争を激化させる要因となる。",
+      "title": "UN cuts global growth forecast, blaming Middle East crisis",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "国連が世界経済成長予測を下方修正。中東危機が世界経済に深刻な影響を与えていると指摘。",
+      "analysis": "国連が世界経済成長予測を下方修正したことは、中東危機が世界経済に深刻な影響を与えていることを示している。特に、原油価格の高騰や貿易の停滞が、世界経済の成長を阻害する要因となっている。中東地域の安定化が、世界経済の回復にとって不可欠である。",
       "key_entities": [
-        "China"
+        "国連",
+        "中東"
       ],
       "sources": [
-        "NHK World"
+        "Al Jazeera"
+      ],
+      "source_types": [
+        "international_org"
+      ]
+    },
+    {
+      "title": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
+      "region": "middle_east",
+      "risk_level": "critical",
+      "summary": "米副大統領がイランとの交渉決裂の場合、軍事行動の準備があると発言。中東地域の緊張が極度に高まる。",
+      "analysis": "米副大統領がイランとの交渉決裂の場合、軍事行動の準備があると発言したことは、アメリカがイランに対して強い圧力をかけていることを示している。イランがアメリカの要求に応じない場合、軍事衝突のリスクが現実味を帯びてくる。中東地域の緊張が極度に高まっており、予断を許さない状況である。",
+      "key_entities": [
+        "JD Vance",
+        "アメリカ",
+        "イラン"
+      ],
+      "sources": [
+        "Al Jazeera"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "ベラルーシがロシアと訓練 ロシアは攻撃関与への懸念を批判",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "ベラルーシがロシアと核兵器使用訓練を実施。ロシアはベラルーシのウクライナ侵攻関与への懸念を批判。",
-      "analysis": "ベラルーシがロシアと核兵器使用訓練を実施することは、欧州の安全保障環境を悪化させる要因となる。ベラルーシがロシアのウクライナ侵攻に加担する可能性への懸念が高まっており、NATO諸国は警戒を強めている。核兵器の使用を想定した訓練は、偶発的な核戦争のリスクを高め、国際社会に深刻な影響を与える可能性がある。",
+      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "イスラエルによるレバノンへの攻撃による死者が3,000人を超えたと発表。停戦合意にも関わらず紛争が継続。",
+      "analysis": "イスラエルによるレバノンへの攻撃による死者が3,000人を超えたことは、紛争の深刻さを物語っている。名目上の停戦合意にも関わらず紛争が継続していることは、中東地域の不安定さを浮き彫りにしている。国際社会は、紛争の早期終結に向けて、より積極的な役割を果たす必要がある。",
       "key_entities": [
-        "Belarus",
-        "Russia",
-        "Ukraine"
+        "イスラエル",
+        "レバノン",
+        "ヒズボラ"
       ],
       "sources": [
-        "NHK World"
+        "BBC - World"
       ],
       "source_types": [
         "media"
@@ -180,15 +189,15 @@
   "region_risk_map": {
     "east_asia": "medium",
     "southeast_asia": "none",
-    "south_asia": "low",
+    "south_asia": "none",
     "central_asia": "none",
     "middle_east": "critical",
     "europe": "high",
     "africa": "medium",
-    "north_america": "medium",
+    "north_america": "low",
     "south_america": "none"
   },
-  "generated_at": "2026-05-20T03:56:22.574979",
+  "generated_at": "2026-05-20T09:41:26.801588",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
