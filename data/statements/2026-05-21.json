@@ -1,14 +1,28 @@
 {
   "date": "2026-05-21",
-  "summary": "FRB関連の動きが中心。パウエル議長代行の任命、FOMC議事要旨の公開、決済口座に関する提案など、金融政策や金融機関の監督に関する情報が多く、市場への影響は中立からややポジティブと見られる。",
+  "summary": "FRB関連の発表が中心。パウエル議長の後任人事、決済システムの提案、FOMC議事録公開など、金融政策と金融機関の監督に関する動きが見られる。市場への直接的な影響は限定的だが、今後の政策運営に注目が集まる。",
   "statements": [
     {
-      "speaker": "Jerome H. Powell",
-      "title": "Federal Reserve Board chair pro tempore",
-      "quote": "ケビン・M・ウォーシュ氏が新議長として就任するまで、議長代行を務める。",
-      "context": "FRB理事会による発表",
-      "analysis": "パウエル氏が議長代行に就任したことは、一時的な措置であり、新議長の就任までの移行期間におけるFRBの安定運営を意味する。市場への直接的な影響は限定的だが、新議長の政策手腕に対する期待感が高まる可能性がある。",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "法的資格のある金融機関が決済を清算・決済する特定の目的で使用できる「決済口座」の設立に関する提案について、一般からの意見を募集します。",
+      "context": "FRBによるプレスリリース",
+      "analysis": "FRBが新たな決済システムの構築を検討していることを示唆する。フィンテック企業や新たな金融機関の参入を促進し、決済効率の向上を目指す可能性がある。今後の詳細な提案内容と、それに対する金融機関や市場の反応を注視する必要がある。",
       "importance": "medium",
+      "tags": [
+        "金融政策",
+        "決済システム",
+        "フィンテック"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm"
+    },
+    {
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "ジェローム・H・パウエルを臨時代理議長に任命します。パウエルは、ケビン・M・ウォーシュが新議長として就任するまで、臨時代理議長を務めます。",
+      "context": "FRBによるプレスリリース",
+      "analysis": "FRB議長が交代することを示唆する。パウエル氏からウォーシュ氏への移行期間における政策運営の安定性が焦点となる。ウォーシュ氏の金融政策に対する考え方や、今後のFRBの方向性について、市場の関心が高まるだろう。",
+      "importance": "high",
       "tags": [
         "FRB",
         "人事",
@@ -17,50 +31,35 @@
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm"
     },
     {
-      "speaker": "Federal Open Market Committee (FOMC)",
-      "title": "連邦公開市場委員会",
-      "quote": "4月28-29日のFOMC議事要旨を公開",
-      "context": "FRB理事会による発表",
-      "analysis": "FOMC議事要旨の公開は、今後の金融政策の方向性を示唆する重要な情報源となる。議事要旨の内容次第では、市場の金利予想やリスク選好に大きな影響を与える可能性がある。特に、インフレ見通しや利上げペースに関する議論は注目される。",
-      "importance": "high",
+      "speaker": "連邦公開市場委員会",
+      "title": "FOMC",
+      "quote": "2026年4月28-29日の連邦公開市場委員会の議事録",
+      "context": "FRBによるプレスリリース",
+      "analysis": "4月会合における金融政策決定の背景や議論の詳細が明らかになる。インフレ、雇用、経済成長に対する委員の認識や、今後の政策運営に関する手がかりを探る上で重要。市場参加者は、議事録の内容を詳細に分析し、今後のFRBの政策スタンスを予測しようとするだろう。",
+      "importance": "medium",
       "tags": [
-        "FRB",
-        "FOMC",
         "金融政策",
-        "議事要旨"
+        "FOMC",
+        "議事録"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm"
     },
     {
-      "speaker": "Federal Reserve Board",
-      "title": "連邦準備制度理事会",
-      "quote": "法的資格のある金融機関が決済に使用できる『決済口座』設立の提案に関するパブリックコメントを募集する。",
-      "context": "FRB理事会による発表",
-      "analysis": "決済口座の設立提案は、金融機関の決済システムを効率化し、金融包摂を促進する可能性がある。パブリックコメントの結果次第では、今後の金融規制や金融サービスのあり方に影響を与える可能性がある。",
-      "importance": "medium",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "UBSグループAG、クレディ・スイスAG、クレディ・スイス・ホールディングス（USA）、Inc.、およびクレディ・スイスAG、ニューヨーク支店との執行措置の終了を発表します。",
+      "context": "FRBによるプレスリリース",
+      "analysis": "過去の不正行為や規制違反に対する是正措置が完了したことを意味する。対象となった金融機関にとっては、規制上の負担が軽減され、経営の自由度が高まる可能性がある。市場全体への影響は限定的だが、金融機関のコンプライアンス体制強化の重要性を示唆する。",
+      "importance": "low",
       "tags": [
-        "FRB",
-        "決済システム",
-        "金融規制"
+        "金融規制",
+        "コンプライアンス",
+        "金融機関"
       ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm"
-    },
-    {
-      "speaker": "Stephen I. Miran",
-      "title": "Federal Reserve Board member",
-      "quote": "後任者が就任する際、またはその直前にFRB理事を辞任する。",
-      "context": "FRB理事会による発表",
-      "analysis": "ミラン理事の辞任は、FRBの政策決定に影響を与える可能性がある。後任者の選定とその政策スタンスが注目される。辞任のタイミングも、今後の金融政策の方向性を占う上で重要な要素となる。",
-      "importance": "medium",
-      "tags": [
-        "FRB",
-        "人事",
-        "金融政策"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm"
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm"
     }
   ],
-  "generated_at": "2026-05-21T15:37:24.845449",
+  "generated_at": "2026-05-21T19:59:10.313504",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

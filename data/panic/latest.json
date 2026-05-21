@@ -1,20 +1,70 @@
 {
   "date": "2026-05-21",
-  "summary": "世界全体では、インドで深刻な燃料不足によるパニック買いや物流混乱、大規模な抗議活動が発生し、社会不安が急速に拡大しています。南米ボリビアでも政府への大規模デモが社会秩序の混乱を招き、一部で略奪行為が見られるなど、極めて緊迫した状況です。欧州の一部でも燃料供給への懸念が生じ、中東や北米では限定的な抗議活動が確認されています。エネルギー供給問題が多くの地域で社会心理的なパニックや不安の主要因となっており、金融市場は各国中央銀行の介入により辛うじて安定を保っているものの、根本的なリスクは解消されていません。",
+  "summary": "世界各地で社会不安の兆候が見られますが、地域によってその深刻度は大きく異なります。南米ボリビアでは、数週間にわたる社会混乱が続き、食料をめぐる争いも発生するなど、一部で社会秩序の崩壊とパニックの危険性が高まっています。南アジアのインドではディーゼル燃料不足が深刻化し、輸送網の混乱や農民の抗議に発展しており、経済活動への影響が懸念されます。欧州ロシアでも局所的な燃料不足が報告される一方、北米や東アジア、東南アジアでは比較的安定した状況が保たれています。全体としては中程度の不安が広がりつつあります。",
   "global_panic_index": 55,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "労働条件の不満",
+      "region": "south_america",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "社会不安, 物資不足, 政治的混乱",
       "incidents": [
         {
-          "title": "Dayton prison nurses protest conditions, staffing shortage",
-          "location": "Dayton, United States",
-          "severity": 30,
-          "description": "オハイオ州デイトンの刑務所看護師らが、劣悪な労働環境と人員不足に対し抗議活動を実施。これは限定的な労働問題に起因する社会不安の兆候です。",
-          "source": "Dayton Daily News"
+          "title": "ボリビアにおける社会不安と広範な混乱",
+          "location": "ボリビア",
+          "severity": 70,
+          "description": "数週間にわたる社会不安がボリビア全土で広範な混乱を引き起こし、大統領が内閣改造を余儀なくされる事態に発展しています。社会の機能不全が懸念されます。",
+          "source": "Sky News"
+        },
+        {
+          "title": "抗議デモ中の食料をめぐる争い",
+          "location": "ボリビア、ラパス",
+          "severity": 80,
+          "description": "抗議デモが続くラパスで、ニワトリをめぐる争いが発生しました。これは物資不足と社会秩序の乱れ、略奪の兆候を示しており、深刻なパニック状態です。",
+          "source": "RTL Today"
+        },
+        {
+          "title": "ブラジル選挙における汚職問題",
+          "location": "ブラジル",
+          "severity": 35,
+          "description": "ブラジルでは選挙における汚職問題が再燃し、特定の候補者の選挙運動に影響を与えています。社会不安の潜在的な要因となる可能性があります。",
+          "source": "Bloomberg.com"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "燃料不足, 金融不安",
+      "incidents": [
+        {
+          "title": "インドにおけるディーゼル燃料不足の深刻化",
+          "location": "インド",
+          "severity": 70,
+          "description": "インドの貨物輸送網がディーゼル燃料不足の影響を受けています。トラックが長距離移動を強いられ、一部の給油所では燃料が枯渇し、経済活動に大きな支障をきたしています。",
+          "source": "MSN"
+        },
+        {
+          "title": "アムレリにおけるディーゼル危機と農民の抗議",
+          "location": "インド、アムレリ",
+          "severity": 60,
+          "description": "インドのアムレリ地区でディーゼル燃料危機が発生し、農民が産業界と同等の供給を求めて抗議活動を行っています。燃料不足による社会的な不満が高まっています。",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "ルピー安に対する中央銀行の介入",
+          "location": "インド",
+          "severity": 45,
+          "description": "インド準備銀行はルピーの下落を食い止めるため、積極的な市場介入を続けています。石油価格のリスクが残り、金融市場の不安定さが続いています。",
+          "source": "Reuters"
+        },
+        {
+          "title": "燃料不足に関する政府批判の拡大",
+          "location": "インド",
+          "severity": 65,
+          "description": "複数の報道により燃料不足が広がる中で、政治家が政府の対応を批判しています。燃料供給に対する国民の懸念が政治問題化しています。",
+          "source": "MSN"
         }
       ]
     },
@@ -22,117 +72,81 @@
       "region": "europe",
       "panic_index": 45,
       "status": "unstable",
-      "main_cause": "エネルギー供給不安、潜在的な経済不安",
+      "main_cause": "燃料不足, 食料価格の懸念",
       "incidents": [
         {
-          "title": "Russian city gas stations run out of gasoline",
-          "location": "Russia (unspecified city)",
-          "severity": 65,
-          "description": "ロシアの一部都市でガソリンスタンドが燃料切れとなり、住民から不満の声が上がっています。政府は燃料不足のリスクを否定していますが、潜在的なエネルギー危機への懸念が高まっています。",
+          "title": "ロシアの一部都市でガソリンスタンドが燃料切れ",
+          "location": "ロシア",
+          "severity": 55,
+          "description": "クレムリンは燃料不足のリスクを否定していますが、ロシアの一部の都市では住民がガソリンスタンドの燃料切れを訴えています。局所的なパニック買いにつながる可能性があります。",
           "source": "Meduza"
         },
         {
-          "title": "Commerzbank Staff Protest UniCredit Bid",
-          "location": "Germany (unspecified)",
+          "title": "英国における食料価格の懸念",
+          "location": "英国",
           "severity": 35,
-          "description": "コメルツ銀行の従業員が、ユニクレジットによる買収提案に対し抗議活動を実施。これは銀行員の雇用や労働条件に関する限定的な不安を示しています。",
-          "source": "Banking Exchange"
+          "description": "イングランド銀行総裁は食料価格の凍結が「持続不可能」であると発言し、食料品の値上がりに対する国民の懸念が示唆されています。",
+          "source": "Yahoo Finance UK"
         },
         {
-          "title": "Bank of England governor warns food price freezes are ‘unsustainable’",
-          "location": "United Kingdom",
-          "severity": 40,
-          "description": "イングランド銀行総裁が食料価格凍結策の持続不能性を指摘。将来的な食料価格上昇とそれに伴う国民の生活不安への懸念が示唆されます。",
-          "source": "Yahoo Finance UK"
+          "title": "ジェット燃料不足への航空会社の対応",
+          "location": "欧州 (航空業界)",
+          "severity": 30,
+          "description": "EasyJetのCEOは、夏のフライトがジェット燃料不足に見舞われることはないと述べています。これは、燃料供給に対する懸念が背景にあることを示しています。",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "人手不足 (特定分野), 食料支援の必要性",
+      "incidents": [
+        {
+          "title": "デイトン刑務所の看護師による抗議",
+          "location": "米国、デイトン",
+          "severity": 20,
+          "description": "デイトンの刑務所看護師が労働条件と人員不足に抗議しています。これは特定の専門分野における人手不足の問題ですが、社会全体のパニックには至っていません。",
+          "source": "Dayton Daily News"
+        },
+        {
+          "title": "フードバンクボランティアの表彰",
+          "location": "カナダ、ビーバーバレー",
+          "severity": 25,
+          "description": "フードバンクのボランティアが年間市民に選ばれました。これは地域における食料支援の重要性を示唆するものであり、食料不足への潜在的な懸念が見られます。",
+          "source": "Trail Times"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 35,
+      "panic_index": 30,
       "status": "stable",
-      "main_cause": "支払いカットへの抗議",
+      "main_cause": "支払い削減に対する抗議",
       "incidents": [
         {
-          "title": "Wounded Palestinians protest payment cuts in Ramallah",
-          "location": "Ramallah, Palestine",
-          "severity": 35,
-          "description": "ラマラで負傷したパレスチナ人らが、支払いカットに対して抗議デモを実施。政府の財政状況や支援の減少が市民の不満を高めている状況です。",
+          "title": "支払い削減に対する負傷パレスチナ人の抗議",
+          "location": "パレスチナ、ラマラ",
+          "severity": 30,
+          "description": "負傷したパレスチナ人が支払い削減に抗議するデモを行っています。これは局所的な社会不安の兆候ですが、広範なパニック行動には発展していません。",
           "source": "The New Arab"
         }
       ]
     },
     {
-      "region": "africa",
+      "region": "east_asia",
       "panic_index": 10,
       "status": "normal",
-      "main_cause": "特になし",
+      "main_cause": "なし",
       "incidents": []
     },
     {
-      "region": "south_america",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "大規模抗議デモ、社会秩序の混乱",
-      "incidents": [
-        {
-          "title": "Bolivia rocked by protests as US warns of ‘coup d’état’",
-          "location": "Bolivia",
-          "severity": 75,
-          "description": "ボリビア全土で政府に対する大規模な抗議活動が発生し、米国はクーデターの可能性を警告。政治的な不安定さと社会秩序の深刻な混乱が懸念されています。",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Fighting over a chicken in protest-hit La Paz",
-          "location": "La Paz, Bolivia",
-          "severity": 80,
-          "description": "抗議活動が続くラパスで、食料品（鶏肉）を巡る争いが発生。食料を求める混乱や略奪行為が社会秩序の崩壊を示唆しており、パニック状態に近い状況です。",
-          "source": "RTL Today"
-        }
-      ]
-    },
-    {
       "region": "southeast_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、パニック買い",
-      "incidents": [
-        {
-          "title": "Panic buying in Amritsar; pumps run out of fuel",
-          "location": "Amritsar, India",
-          "severity": 85,
-          "description": "インドのアムリトサルで燃料のパニック買いが発生し、ガソリンスタンドが燃料切れに陥りました。買いだめと供給インフラのマヒが深刻なパニック状態を招いています。",
-          "source": "MSN"
-        },
-        {
-          "title": "Diesel shortage hitting India's freight network?",
-          "location": "India (nationwide)",
-          "severity": 70,
-          "description": "インド全土で深刻なディーゼル不足が発生し、貨物輸送網に大きな影響を与えています。トラックが燃料を求めて長距離移動したり、燃料ポンプが枯渇する事態が報告されています。",
-          "source": "MSN"
-        },
-        {
-          "title": "Gujarat farmers, truck drivers protest over diesel shortage at fuel pumps",
-          "location": "Gujarat, India",
-          "severity": 60,
-          "description": "インドのグジャラート州で、農民やトラック運転手がディーゼル不足に対し抗議活動を実施。エネルギー不足が特定の産業と市民生活に深刻な影響を与えています。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Diesel crisis hits Amreli: Farmers demand supplies at par with industries",
-          "location": "Amreli, India",
-          "severity": 65,
-          "description": "インドのアムレリでもディーゼル危機が発生し、農民が産業と同等の燃料供給を要求しています。燃料不足が地域の農業経済に打撃を与えている状況です。",
-          "source": "Bhaskar English"
-        },
-        {
-          "title": "Rupee shored up by firm central bank intervention but oil risks linger",
-          "location": "India (nationwide)",
-          "severity": 50,
-          "description": "インドの中央銀行はルピーの安定化のために積極的に市場介入を行っていますが、原油価格の高騰リスクが残り、金融市場には潜在的な不安要素があります。",
-          "source": "Reuters"
-        }
-      ]
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
     }
   ]
 }

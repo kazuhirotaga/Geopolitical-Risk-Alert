@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-21",
-    "summary": "米イラン間の緊張緩和の兆しが見える一方、米中間の対立が激化。ウクライナ情勢は依然として不安定で、アフリカではエボラ出血熱の流行が深刻化。世界全体で地政学的リスクは高い状態が継続。",
+    "summary": "米イラン間の緊張緩和に向けた動きがある一方、ロシア・ウクライナ情勢は依然として不安定。米中間の対立も継続し、世界各地で紛争や人道危機が発生しており、地政学リスクは高い水準で推移。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -9,13 +9,13 @@
       "southeast_asia": "none",
       "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "medium",
-      "europe": "high",
-      "africa": "high",
+      "middle_east": "high",
+      "europe": "critical",
+      "africa": "medium",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-21T15:36:48.163263"
+    "generated_at": "2026-05-21T19:58:33.720666"
   },
   {
     "date": "2026-05-20",
