@@ -1,5 +1,106 @@
 [
   {
+    "date": "2026-05-21",
+    "summary": "ロシアが核演習を実施、ベラルーシも参加。リトアニアでドローン侵入が発生し、議員が避難。エストニアではNATO軍機がウクライナのドローンを撃墜。日本がフィリピンで初のミサイル発射を実施。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-05-20",
+        "location": "リトアニア、ビリニュス",
+        "region": "europe",
+        "title": "リトアニア領空でドローン侵入",
+        "content": "リトアニア領空にドローンが侵入。これにより、ビリニュスの航空交通が一時停止され、議員らが避難する事態となった。バルト海地域での一連のセキュリティインシデントの最新事例。",
+        "involved_parties": [
+          "不明",
+          "リトアニア"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/20/lithuanian-lawmakers-shelter-vilnius-air-traffic-suspended-due-to-drone-incursion/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-05-20",
+        "location": "ベラルーシ",
+        "region": "europe",
+        "title": "ロシアがベラルーシを含む核演習を実施",
+        "content": "ロシアが予告なしの核演習を開始。ベラルーシのミサイル発射基地も含まれる。国内向けの核戦力誇示と、海外での外交活動を組み合わせた、クレムリンが繰り返してきたパターンに合致。",
+        "involved_parties": [
+          "ロシア",
+          "ベラルーシ"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/20/russia-launches-unannounced-nuclear-exercise-including-belarusian-launch-sites/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-05-19",
+        "location": "エストニア",
+        "region": "europe",
+        "title": "NATO軍機がエストニア上空でウクライナのドローンを撃墜",
+        "content": "エストニアのメディア報道によると、リトアニアのシャウレイに駐留するルーマニアのF-16戦闘機が、エストニア上空でウクライナのドローンを撃墜。領空侵犯のエスカレーション。",
+        "involved_parties": [
+          "NATO",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/19/nato-jet-shoots-down-ukrainian-drone-over-estonia-in-escalation-of-airspace-violations/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-05-18",
+        "location": "アフリカ",
+        "region": "middle_east",
+        "title": "アフリカでISIS指導者が死亡",
+        "content": "最近の作戦にもかかわらず、米軍の兵力削減の動きは、アフリカ大陸から発生するテロ計画を阻止するアメリカの能力に対する懸念を引き起こしている。",
+        "involved_parties": [
+          "アメリカ",
+          "ISIS"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/18/isis-leader-killed-in-africa-as-us-commander-raises-force-reduction-concerns/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-05-18",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナが国産誘導航空爆弾を実戦配備",
+        "content": "ウクライナが、ロシアの滑空爆弾攻撃への対抗策、そして中距離目標に対する西側の精密攻撃能力への依存からの脱却として、国産の250kg誘導航空爆弾を実戦配備。",
+        "involved_parties": [
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/18/ukraine-declares-its-first-homegrown-guided-aerial-bomb-combat-ready/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-05-14",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "日本がフィリピンで初のミサイル発射",
+        "content": "日本の88式地対艦ミサイルがフィリピン国内で初めて発射され、47マイル先の標的（第二次世界大戦時代の旧掃海艇）に命中。飛行時間は6分。",
+        "involved_parties": [
+          "日本",
+          "フィリピン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/14/japan-fires-first-ever-missiles-from-philippine-soil/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-20",
     "summary": "リトアニア領空侵犯、ロシアの核演習、NATOの東部抑止戦略、ウクライナ国産誘導爆弾の実戦準備、日本がフィリピンでミサイル発射等、地政学的緊張が高まる一日。",
     "events": [
@@ -4015,92 +4116,6 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/17/china-turns-taiwans-own-voices-against-it-in-information-war/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-20",
-    "summary": "ホルムズ海峡でイランが船舶への攻撃を実施、緊張が高まる。アメリカ海軍はイランへ向かう貨物船を砲撃。バルト三国はイラン戦争によるアメリカからの武器供給遅延に警戒。情報戦の激化も確認。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-04-20",
-        "location": "ペルシャ湾",
-        "region": "middle_east",
-        "title": "米海軍駆逐艦がイランへ向かう貨物船を攻撃",
-        "content": "米海軍駆逐艦スプルーアンスが、イランの港へ向かおうとした貨物船トゥスカのエンジンルームに5インチ砲を複数発射し、航行不能にした。CENTCOMが発表。",
-        "involved_parties": [
-          "アメリカ海軍",
-          "貨物船Touska"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/20/us-navy-destroyer-fires-on-cargo-vessel-attempting-to-sail-to-iranian-port/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-18",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "イラン海軍がホルムズ海峡を再び封鎖",
-        "content": "土曜日、ホルムズ海峡を通過しようとした商船がイラン海軍から無線メッセージを受け、通行を許可されなかった。複数の船舶が銃撃を受けたと報告。",
-        "involved_parties": [
-          "イラン海軍",
-          "商船"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/18/vessels-report-being-hit-by-gunfire-as-iran-says-strait-of-hormuz-shut-again/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2025-12",
-        "location": "台湾周辺海域",
-        "region": "east_asia",
-        "title": "中国軍が台湾周辺で大規模な軍事演習を実施",
-        "content": "中国軍の軍艦と戦闘機が2025年12月に台湾周辺で大規模な軍事演習を実施。同時に、スマートフォンを通じて台湾に対する情報戦を展開。",
-        "involved_parties": [
-          "中国軍",
-          "台湾"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/17/china-turns-taiwans-own-voices-against-it-in-information-war/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-04-15",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ドイツ製兵器のウクライナにおける戦闘データ共有協定",
-        "content": "ドイツ製兵器（Panzerhaubitze 2000、RCH-155、IRIS-T）のウクライナにおける戦闘データ共有に関する新たな二国間協定が締結。ドイツは実戦データを収集。",
-        "involved_parties": [
-          "ドイツ",
-          "ウクライナ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/"
-      },
-      {
-        "id": "event-5",
-        "timestamp": "2026-04-13",
-        "location": "バルト三国",
-        "region": "europe",
-        "title": "ロシアが90日間でバルト三国を制圧可能との研究",
-        "content": "ロシアがNATO加盟国であるバルト三国を攻撃した場合、90日間で制圧可能とする研究結果が発表された。ただし、当局者やアナリストの間ではロシアの侵攻意欲に対する見解が分かれている。",
-        "involved_parties": [
-          "ロシア",
-          "バルト三国"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/13/study-suggests-russia-could-conquer-baltic-states-in-90-days/"
       }
     ]
   }
