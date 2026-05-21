@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-21",
-    "summary": "ロシアが核演習を実施、ベラルーシも参加。リトアニアでドローン侵入が発生し、議員が避難。エストニアではNATO軍機がウクライナのドローンを撃墜。日本がフィリピンで初のミサイル発射を実施。",
+    "summary": "バルト海でのドローン侵入、ロシアの核演習、ウクライナ国産誘導爆弾の配備など、地政学的緊張が高まる。NATOは東部抑止戦略を強化、米国は対NATO支援を縮小する計画。中東ではイスラエルとイランの対立が継続。",
     "events": [
       {
         "id": "event-1",
@@ -36,12 +36,60 @@
         "source_url": "https://www.defensenews.com/global/europe/2026/05/20/russia-launches-unannounced-nuclear-exercise-including-belarusian-launch-sites/"
       },
       {
+        "id": "event-20260520-1",
+        "timestamp": "2026-05-20",
+        "location": "リトアニア、ビリニュス",
+        "region": "europe",
+        "title": "リトアニア領空へのドローン侵入",
+        "content": "リトアニア領空がドローンにより侵害され、ビリニュスの航空交通が一時停止。議員らは避難を余儀なくされた。バルト海地域でのセキュリティインシデントが続発。",
+        "involved_parties": [
+          "リトアニア",
+          "不明なドローン運用者"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/20/lithuanian-lawmakers-shelter-vilnius-air-traffic-suspended-due-to-drone-incursion/"
+      },
+      {
+        "id": "event-20260520-2",
+        "timestamp": "2026-05-20",
+        "location": "ロシア、ベラルーシ",
+        "region": "europe",
+        "title": "ロシアによる予告なしの核演習",
+        "content": "ロシアがベラルーシの射撃場を含む、予告なしの核演習を開始。国内外へのメッセージングとして、軍事的誇示と外交を組み合わせた動きとみられる。",
+        "involved_parties": [
+          "ロシア",
+          "ベラルーシ"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/20/russia-launches-unannounced-nuclear-exercise-including-belarusian-launch-sites/"
+      },
+      {
         "id": "event-3",
         "timestamp": "2026-05-19",
         "location": "エストニア",
         "region": "europe",
         "title": "NATO軍機がエストニア上空でウクライナのドローンを撃墜",
         "content": "エストニアのメディア報道によると、リトアニアのシャウレイに駐留するルーマニアのF-16戦闘機が、エストニア上空でウクライナのドローンを撃墜。領空侵犯のエスカレーション。",
+        "involved_parties": [
+          "NATO",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/19/nato-jet-shoots-down-ukrainian-drone-over-estonia-in-escalation-of-airspace-violations/"
+      },
+      {
+        "id": "event-20260519-1",
+        "timestamp": "2026-05-19",
+        "location": "エストニア",
+        "region": "europe",
+        "title": "NATO軍機によるウクライナのドローン撃墜",
+        "content": "エストニア上空で、リトアニアに駐留するルーマニアのF-16戦闘機がウクライナのドローンを撃墜。領空侵犯のエスカレーション。",
         "involved_parties": [
           "NATO",
           "ウクライナ"
@@ -83,6 +131,53 @@
         "source_url": "https://www.defensenews.com/global/europe/2026/05/18/ukraine-declares-its-first-homegrown-guided-aerial-bomb-combat-ready/"
       },
       {
+        "id": "event-20260518-1",
+        "timestamp": "2026-05-18",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ国産誘導爆弾の戦闘準備完了",
+        "content": "ウクライナが初の国産誘導航空爆弾の戦闘準備完了を発表。ロシアの滑空爆弾攻撃への対抗策として、また中距離目標に対する西側の精密攻撃能力への依存度を減らす目的。",
+        "involved_parties": [
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/18/ukraine-declares-its-first-homegrown-guided-aerial-bomb-combat-ready/"
+      },
+      {
+        "id": "event-20260518-2",
+        "timestamp": "2026-05-18",
+        "location": "アフリカ",
+        "region": "middle_east",
+        "title": "アフリカでISIS指導者殺害",
+        "content": "アフリカにおいてISIS指導者が殺害された。米軍の兵力削減によりテロ対策への影響が懸念されている。",
+        "involved_parties": [
+          "アメリカ",
+          "ISIS"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/18/isis-leader-killed-in-africa-as-us-commander-raises-force-reduction-concerns/"
+      },
+      {
+        "id": "event-20260515-1",
+        "timestamp": "2026-05-15",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米海兵隊、フィリピンで離島奪還訓練を実施",
+        "content": "米海兵隊がフィリピンで離島奪還訓練を実施。実弾射撃の機会を重視し、作戦能力の向上を図る。",
+        "involved_parties": [
+          "アメリカ",
+          "フィリピン"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/15/us-marines-practice-seizing-remote-islands-in-philippine-exercise/"
+      },
+      {
         "id": "event-6",
         "timestamp": "2026-05-14",
         "location": "フィリピン",
@@ -97,6 +192,37 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/14/japan-fires-first-ever-missiles-from-philippine-soil/"
+      },
+      {
+        "id": "event-20260514-1",
+        "timestamp": "2026-05-14",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "日本、フィリピンで初のミサイル発射",
+        "content": "日本がフィリピンの地で初のミサイル発射を実施。88式地対艦ミサイルが、47マイル先の旧式掃海艇を標的にし、6分間の飛行の後、命中。",
+        "involved_parties": [
+          "日本"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/14/japan-fires-first-ever-missiles-from-philippine-soil/"
+      },
+      {
+        "id": "event-20260514-2",
+        "timestamp": "2026-05-14",
+        "location": "イスラエル",
+        "region": "middle_east",
+        "title": "イスラエル、対イラン戦争におけるF-35Iの航続距離延長",
+        "content": "イスラエルがイランとの戦争においてF-35I戦闘機の航続距離を延長。Elbit Systemsに約3400万ドルの開発契約。",
+        "involved_parties": [
+          "イスラエル",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/mideast-africa/2026/05/14/israel-to-extend-f-35i-range-amid-war-with-iran/"
       }
     ]
   },

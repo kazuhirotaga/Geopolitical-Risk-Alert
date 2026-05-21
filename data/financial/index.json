@@ -1,19 +1,16 @@
 [
   {
     "date": "2026-05-21",
-    "summary": "AI関連銘柄の好調とSpaceX、OpenAIのIPO計画が市場を牽引する一方、インフレ懸念による利上げ観測、地政学的リスク、暗号資産規制の動向が金融市場の不確実性を高めています。特に、AIバブルの可能性と、伝統的ソフトウェア企業への影響が懸念されます。",
+    "summary": "世界経済はインフレ懸念とAI関連の動向に揺さぶられている。特に、工業用金属価格の上昇、NvidiaのAIチップ市場における競争激化、そして暗号資産市場の規制動向がリスク要因として注目される。SpaceXやOpenAIといった大型IPOの動きも市場に影響を与える可能性がある。",
     "overall_risk_level": "medium",
-    "article_count": 10,
+    "article_count": 8,
     "region_risk_map": {
-      "global": "medium",
+      "global": "high",
       "north_america": "medium",
-      "europe": "medium",
-      "east_asia": "medium",
-      "south_america": "none",
-      "africa": "none",
-      "middle_east": "high"
+      "europe": "low",
+      "east_asia": "high"
     },
-    "generated_at": "2026-05-21T04:05:31.662292"
+    "generated_at": "2026-05-21T09:50:14.283153"
   },
   {
     "date": "2026-05-20",
