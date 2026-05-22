@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-22",
-    "summary": "中東情勢の緊迫化、特にアメリカとイランの対立が深刻化しており、台湾海峡の緊張も高まっている。ウクライナ情勢も依然として不安定であり、世界各地で地政学リスクが高まっている。",
+    "summary": "ウクライナ情勢の緊迫化、米国の対キューバ・イラン強硬姿勢、NPT再検討会議の難航など、地政学的リスクが高まっている。特に中東地域、東アジア地域、ヨーロッパ地域における緊張が顕著。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -9,13 +9,13 @@
       "southeast_asia": "none",
       "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "critical",
+      "middle_east": "high",
       "europe": "high",
       "africa": "medium",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "medium"
     },
-    "generated_at": "2026-05-22T09:34:21.948761"
+    "generated_at": "2026-05-22T14:46:53.137623"
   },
   {
     "date": "2026-05-21",

@@ -1,143 +1,138 @@
 {
   "date": "2026-05-22",
-  "summary": "世界各地で食料・エネルギー不足に起因する買いだめや社会不安、金融市場における不安定要因が散見されます。特に東南アジア地域では燃料不足によるパニック買いや計画的な騒乱の疑いが報告され、中東では学生デモや経済的な不満による抗議活動が続いています。全体的な緊迫度は中程度で、地域によっては警戒が必要です。",
-  "global_panic_index": 47,
+  "summary": "世界各地で複数のパニック要因が見られ、特にアフリカの一部地域では治安悪化による無秩序な逃避が発生し、非常に深刻な状況です。南米や中東では大規模な抗議活動や社会不安が続き、政治的・社会的な緊張が高まっています。欧州では燃料不足への懸念と一部地域での実質的な不足が報告され、市民生活への影響が懸念されます。南アジアでは銀行ストライキ、燃料不足への抗議、誤情報による不安が複合的に発生しており、社会的な不安定さが増しています。北米でも局地的な暴動や潜在的な金融不安が指摘されています。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 39,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "社会秩序の混乱、食料不安",
+      "main_cause": "局所的な社会秩序の乱れ、潜在的な金融不安",
       "incidents": [
         {
-          "title": "ニューハンプシャー州での暴動、多数逮捕",
-          "location": "米国、ニューハンプシャー州",
-          "severity": 70,
-          "description": "米国ニューハンプシャー州のビーチで暴動が発生し、多数が逮捕されました。社会秩序の混乱を示す事象であり、警察当局による介入が必要なレベルの緊迫度です。",
+          "title": "Riot At The Beach, Dozens Arrested",
+          "location": "US (New Hampshire)",
+          "severity": 75,
+          "description": "米国のビーチリゾートで暴動が発生し、多数の人々が逮捕されました。これは公共の秩序が乱れ、社会不安が高まっていることを示唆します。",
           "source": "Patch"
         },
         {
-          "title": "カナダでの食料不安への取り組みとフードバンク活動",
-          "location": "カナダ、オレンジビル/ビーバーバレー",
-          "severity": 30,
-          "description": "カナダの複数地域で食料不安が報告され、チャリティランやフードバンクのボランティア活動を通じて支援が求められています。直接的なパニックではないものの、社会的な食料不安の存在を示唆しています。",
-          "source": "Orangeville Citizen | / Trail Times"
-        },
-        {
-          "title": "米連邦準備制度理事会（FRB）当局者のインフレ懸念",
-          "location": "米国",
-          "severity": 25,
-          "description": "FRB当局者が金利変更に慎重な姿勢を見せつつも、インフレ懸念が依然として重要視されています。これは経済的な不安定要素として、軽微な社会不安の要因となり得ます。",
-          "source": "TradingView"
-        }
-      ]
-    },
-    {
-      "region": "south_america",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "社会不安",
-      "incidents": [
-        {
-          "title": "ボリビアにおける社会不安の背景",
-          "location": "ボリビア",
-          "severity": 50,
-          "description": "ボリビアでは「社会不安 (social unrest)」の背景について報じられています。具体的な原因は不明ながら、国内に広範な不満や不安定な状況が存在することを示唆しています。",
-          "source": "France 24"
+          "title": "Former Silvergate CRO Breaks Silence: Regulatory Pressure, Not Bank Run, Caused Collapse",
+          "location": "US (Global Crypto Market related)",
+          "severity": 35,
+          "description": "破綻したSilvergate銀行の元幹部が、破綻原因は規制圧力であり取り付け騒ぎではなかったと証言。過去の金融不安に対する人々の懸念が未だ燻っていることを示唆します。",
+          "source": "CryptoRank"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 37,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "エネルギー不足",
+      "main_cause": "エネルギー不足への懸念、局所的な燃料不足",
       "incidents": [
         {
-          "title": "ロシアの一都市でガソリンスタンドが燃料切れ",
-          "location": "ロシア",
-          "severity": 65,
-          "description": "ウクライナのドローン攻撃を受けたロシアの製油所に関するクレムリンの声明に対し、あるロシアの都市ではガソリンスタンドで燃料切れが発生し、住民から苦情が寄せられています。エネルギー供給への不安と実際の品切れが発生し、警戒状態です。",
+          "title": "Kremlin denies fuel shortage risk, but residents report gas stations running out of gasoline",
+          "location": "Russia",
+          "severity": 70,
+          "description": "ロシア政府はウクライナによる製油所攻撃による燃料不足リスクを否定するも、一部の都市ではガソリンスタンドで燃料切れが発生し、住民が不満を訴えています。",
           "source": "Meduza"
         },
         {
-          "title": "EasyJet最高経営責任者がジェット燃料不足の影響を否定",
-          "location": "英国/欧州",
-          "severity": 25,
-          "description": "EasyJetの最高経営責任者は、夏季のフライトがジェット燃料不足の影響を受けないと発言しました。これは燃料不足の懸念が一部で存在していたことを示唆しており、軽微な不安要因があったと評価されます。",
-          "source": "BBC"
-        },
+          "title": "How will jet fuel shortages affect your summer holiday?",
+          "location": "UK",
+          "severity": 40,
+          "description": "夏のホリデーシーズンに向けて、ジェット燃料不足が旅行に影響を与える可能性が報じられており、市民の旅行計画に潜在的な不安を与えています。",
+          "source": "The Times"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "広範囲な社会不安",
+      "incidents": [
         {
-          "title": "トッテナム・ファンによる試合後の抗議計画",
-          "location": "英国",
-          "severity": 20,
-          "description": "トッテナム・ホットスパーのファンがエバートン戦の結果にかかわらず抗議デモを計画しています。これはスポーツクラブ運営への不満に基づくもので、一般的な社会パニックとは異なるものの、集団的な不満表明として軽微な社会不安の兆候です。",
-          "source": "MSN"
+          "title": "What's behind the social unrest in Bolivia?",
+          "location": "Bolivia",
+          "severity": 65,
+          "description": "ボリビアでは社会不安が広範囲に及んでおり、その背景について詳細な分析が求められています。これは国の安定性に対する懸念を高めます。",
+          "source": "France 24"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 53,
-      "status": "unstable",
-      "main_cause": "政治的・経済的不満",
+      "panic_index": 60,
+      "status": "volatile",
+      "main_cause": "大規模な抗議デモ、政治的緊張",
       "incidents": [
         {
-          "title": "イランの学生による抗議デモが3日目に突入",
-          "location": "イラン",
+          "title": "Iranian students protest for third day as US pressure mounts",
+          "location": "Iran",
           "severity": 60,
-          "description": "イランで学生による抗議デモが3日間継続しており、米国の圧力が強まる中で社会の緊張が高まっています。これは政情不安と国民の不満が結びついた、不安が増大している状況を示しています。",
+          "description": "イランでは学生による抗議デモが3日連続で発生しており、米国の圧力増大と相まって政治的・社会的な緊張が高まっています。",
           "source": "DD News"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "無秩序な逃避、治安悪化",
+      "incidents": [
+        {
+          "title": "Ekiti Students Flee School in Bandit Panic, Reach Safety",
+          "location": "Nigeria (Ekiti)",
+          "severity": 85,
+          "description": "ナイジェリアのエキティ州で、武装勢力（バンディット）の襲撃パニックにより、学生が学校から避難する事態が発生。これは命の危険を伴う無秩序な逃避であり、極めて深刻なパニック状況です。",
+          "source": "Nigerian Bulletin"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "燃料不足への抗議、銀行ストライキ、誤情報による社会不安",
+      "incidents": [
+        {
+          "title": "Nationwide bank strike planned in India",
+          "location": "India",
+          "severity": 50,
+          "description": "インドの主要銀行であるSBIの職員による2日間の全国的なストライキが計画されており、銀行サービスの中断により、市民生活や経済活動に影響が出る懸念があります。",
+          "source": "The Economic Times, NDTV Profit, Business Today"
         },
         {
-          "title": "パレスチナで負傷者が支払いカットに抗議",
-          "location": "パレスチナ、ラマラ",
+          "title": "Fuel shortage protest in Junagadh, India",
+          "location": "India (Junagadh)",
+          "severity": 65,
+          "description": "インドのジュナガドでディーゼル燃料不足に対する抗議デモが発生しており、特に農家への影響が深刻化していることが報じられています。",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "Delhi Police urges public not to panic over false claims of rising missing persons cases",
+          "location": "India (Delhi)",
           "severity": 45,
-          "description": "ラマラでは、支払いカットに不満を持つ負傷したパレスチナ人による抗議デモが行われています。経済的な不満が具体的なデモ行動に繋がり、社会不安の増大を示しています。",
-          "source": "The New Arab"
+          "description": "デリー警察が、行方不明者数増加の誤情報が拡散されていることに対し、市民にパニックにならないよう呼びかけています。これは誤情報による社会不安が広まっている兆候です。",
+          "source": "The News Mill"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 56,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "エネルギー不足、社会不安、金融不安",
+      "main_cause": "政治的な偽情報の拡散による社会不安",
       "incidents": [
         {
-          "title": "インド・アムリトサルで燃料の買いだめと品切れが発生",
-          "location": "インド、アムリトサル",
-          "severity": 75,
-          "description": "インドのアムリトサルでは、燃料のパニック買いが発生し、ガソリンスタンドで燃料が品切れとなりました。これはエネルギー不足に対する市民の強い不安と具体的なパニック行動を示しており、警戒状態にあります。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド・ノイダでの騒乱に計画的関与の疑い",
-          "location": "インド、ノイダ",
-          "severity": 65,
-          "description": "インドのノイダで発生した騒乱について、計画的な関与の疑いがあると報じられ、対テロ部隊がソーシャルメディアアカウントを監視しています。これは社会秩序を脅かす潜在的な脅威であり、警戒状態にあります。",
-          "source": "MSN"
-        },
-        {
-          "title": "インドで燃料不足の報告に対し政府が批判される",
-          "location": "インド",
-          "severity": 55,
-          "description": "インドでは燃料不足の報道があり、これに対し与党のMLAが政府を非難しています。国民の間で燃料不足への懸念が高まり、政治的な不満にも繋がっている状況で、不安が増大しています。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド中央銀行によるルピー安定化のためのドル売却",
-          "location": "インド",
-          "severity": 40,
-          "description": "インド中央銀行（RBI）はルピーの安定化を図るため、ドル売り介入を強化しました。これは通貨価値の変動に対する懸念が存在し、金融市場の安定を維持するための措置が必要とされている状況を示しています。",
-          "source": "Finimize"
-        },
-        {
-          "title": "インドで燃料・LPG不足の噂を政府が否定し国民に冷静を呼びかけ",
-          "location": "インド",
+          "title": "False claims of post-election unrest in Solomon Islands share fabricated images",
+          "location": "Solomon Islands",
           "severity": 45,
-          "description": "インドの石油マーケティング会社は燃料とLPGの不足懸念を否定し、噂に惑わされないよう国民に呼びかけました。これは、すでに不足の噂が広がり、一部で不安が拡大していることを示唆しています。",
-          "source": "lokmattimes.com"
+          "description": "ソロモン諸島で選挙後の社会不安に関する偽情報が、捏造された画像と共に拡散していることが報じられています。政治的緊張が高まる中で、誤情報が社会不安を煽っています。",
+          "source": "AFP Fact Check"
         }
       ]
     }
