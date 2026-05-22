@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-05-22",
+    "summary": "中東情勢の緊迫化による原油価格上昇リスク、日本のインフレ鈍化による金融政策への影響、AI関連投資の活況、暗号資産市場の規制強化の動きなどが複合的に絡み合い、金融市場の不確実性が高まっています。",
+    "overall_risk_level": "medium",
+    "article_count": 10,
+    "region_risk_map": {
+      "global": "medium",
+      "north_america": "medium",
+      "europe": "medium",
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "high"
+    },
+    "generated_at": "2026-05-22T04:00:44.365663"
+  },
+  {
     "date": "2026-05-21",
     "summary": "金融市場は、長期金利の上昇、AI関連投資の活況、暗号資産市場の動向、地政学的リスクなど複数の要因が複雑に絡み合い、ボラティリティが高まっている。特に、債券市場と株式市場の衝突の可能性、予測市場への規制強化、主要企業のIPOなどが注目される。",
     "overall_risk_level": "medium",

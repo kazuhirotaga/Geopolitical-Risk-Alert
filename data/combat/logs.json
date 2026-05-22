@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-05-22",
+    "summary": "ヨーロッパにおける緊張が高まる。ロシアは核演習を実施、NATOは東部での抑止戦略を強化。リトアニアではドローン侵入が発生、エストニアではウクライナのドローンが撃墜されるなど、安全保障上の懸念が顕在化している。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-05-20",
+        "location": "リトアニア、ビリニュス",
+        "region": "europe",
+        "title": "ドローン侵入によるリトアニア議会避難と航空交通停止",
+        "content": "リトアニアの領空がドローンによって侵害され、議会が避難、ビリニュスの航空交通が一時的に停止。バルト海地域における安全保障上の懸念が高まっている。",
+        "involved_parties": [
+          "リトアニア政府",
+          "不明なドローン運用者"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/20/lithuanian-lawmakers-shelter-vilnius-air-traffic-suspended-due-to-drone-incursion/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-05-20",
+        "location": "ロシア、ベラルーシ",
+        "region": "europe",
+        "title": "ロシア、ベラルーシ発射地点を含む核演習を実施",
+        "content": "ロシアが予告なしの核演習を開始。演習にはベラルーシの発射地点も含まれる。これは、国内での軍事的誇示と海外での外交活動を組み合わせたクレムリンの常套手段。",
+        "involved_parties": [
+          "ロシア軍",
+          "ベラルーシ軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/20/russia-launches-unannounced-nuclear-exercise-including-belarusian-launch-sites/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-05-19",
+        "location": "エストニア",
+        "region": "europe",
+        "title": "NATO軍機がエストニア上空でウクライナのドローンを撃墜",
+        "content": "エストニア上空で、NATO軍機（リトアニアのシャウレイに駐留するルーマニア空軍のF-16戦闘機）がウクライナのドローンを撃墜。領空侵犯のエスカレーション。",
+        "involved_parties": [
+          "NATO軍",
+          "ウクライナ軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/19/nato-jet-shoots-down-ukrainian-drone-over-estonia-in-escalation-of-airspace-violations/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-05-18",
+        "location": "アフリカ",
+        "region": "africa",
+        "title": "アフリカでISISリーダーが死亡",
+        "content": "アフリカにおいてISISのリーダーが殺害された。米軍部隊削減による、アフリカ大陸からのテロ計画阻止能力への懸念が生じている。",
+        "involved_parties": [
+          "米軍",
+          "ISIS"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/18/isis-leader-killed-in-africa-as-us-commander-raises-force-reduction-concerns/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-05-18",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ、初の国産誘導航空爆弾を実戦配備",
+        "content": "ウクライナが、ロシアのグライド爆弾攻撃への対抗策として、初の国産誘導航空爆弾（250キロ）を実戦配備。これにより、射程内の目標に対する西側の精密攻撃能力への依存を軽減する。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/18/ukraine-declares-its-first-homegrown-guided-aerial-bomb-combat-ready/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-05-15",
+        "location": "フィリピン",
+        "region": "east_asia",
+        "title": "米海兵隊、フィリピンでの演習で遠隔地の島嶼占領を訓練",
+        "content": "米海兵隊がフィリピンで、遠隔地の島嶼を占領する演習を実施。実弾射撃の機会を得て、ミサイル発射訓練を行った。",
+        "involved_parties": [
+          "米海兵隊",
+          "フィリピン軍"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/15/us-marines-practice-seizing-remote-islands-in-philippine-exercise/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-21",
     "summary": "ヨーロッパ各地でドローン関連の事案が多発。リトアニアでは領空侵犯により議会が避難、エストニアではNATO軍がウクライナのドローンを撃墜。トルコは無人 Naval ドローンを大量購入。",
     "events": [
@@ -4169,76 +4271,6 @@
           "台湾"
         ],
         "event_type": "cyber",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/17/china-turns-taiwans-own-voices-against-it-in-information-war/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-21",
-    "summary": "ペルシャ湾・ホルムズ海峡で緊張激化。アメリカ海軍がイランに向かう貨物船を攻撃、イランはホルムズ海峡を再び封鎖と発表。バルト三国はイラン戦争の影響でアメリカからの武器供給遅延に懸念。台湾周辺では中国軍が大規模な軍事演習を実施。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-04-20",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "イラン海軍がホルムズ海峡を再封鎖",
-        "content": "イラン海軍が商船に対し、ホルムズ海峡の通過を許可しないと通告。複数の船舶が銃撃を受けたと報告。",
-        "involved_parties": [
-          "イラン海軍",
-          "商船"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/18/vessels-report-being-hit-by-gunfire-as-iran-says-strait-of-hormuz-shut-again/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-20",
-        "location": "ホルムズ海峡付近",
-        "region": "middle_east",
-        "title": "米海軍駆逐艦がイランへ向かう貨物船を攻撃",
-        "content": "米海軍駆逐艦USSスプルーアンスが、イランの港へ向かおうとした貨物船Touskaのエンジンルームに5インチ砲を数発発射し、航行不能にしたとCENTCOMが発表。",
-        "involved_parties": [
-          "アメリカ海軍",
-          "Touska"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/20/us-navy-destroyer-fires-on-cargo-vessel-attempting-to-sail-to-iranian-port/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-04-20",
-        "location": "バルト三国",
-        "region": "europe",
-        "title": "バルト三国が米国の武器供給遅延に警戒",
-        "content": "イラン戦争の影響による弾薬供給の遅延が、バルト三国におけるHIMARSの運用に影響を与える可能性。非ロッキード・マーティン製ロケットの使用許可が焦点。",
-        "involved_parties": [
-          "バルト三国",
-          "アメリカ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/20/baltic-nations-brace-for-impact-of-iran-war-delaying-us-weapons-shipments/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-04-17",
-        "location": "台湾周辺",
-        "region": "east_asia",
-        "title": "中国軍が台湾周辺で大規模軍事演習",
-        "content": "中国の軍艦と戦闘機が台湾周辺で大規模な軍事演習を実施。同時に、スマートフォンを通じて台湾に対する情報戦を展開。",
-        "involved_parties": [
-          "中国軍",
-          "台湾"
-        ],
-        "event_type": "other",
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/17/china-turns-taiwans-own-voices-against-it-in-information-war/"
