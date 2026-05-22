@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-22",
-    "summary": "イランを巡る緊張、ウクライナ情勢の悪化、米中対立、中東の不安定化など、地政学的リスクが高まっている。特にイラン情勢は、米国とイランの対立が軍事衝突に発展する可能性があり、世界経済への影響も懸念される。",
-    "overall_risk_level": "critical",
+    "summary": "米中対立、ロシア・ウクライナ戦争、イスラエル・パレスチナ問題、イラン情勢などが複合的に絡み合い、地政学リスクは全体的に高い水準。特にイランを巡る緊張とウクライナ情勢が世界経済に悪影響を及ぼしている。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
       "southeast_asia": "none",
-      "south_asia": "none",
+      "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "critical",
+      "middle_east": "high",
       "europe": "high",
-      "africa": "low",
+      "africa": "medium",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "low"
     },
-    "generated_at": "2026-05-22T17:10:51.358479"
+    "generated_at": "2026-05-22T19:53:02.758586"
   },
   {
     "date": "2026-05-21",
