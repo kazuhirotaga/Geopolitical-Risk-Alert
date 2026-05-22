@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-22",
-    "summary": "ウクライナ情勢の緊迫化、米国の対キューバ・イラン強硬姿勢、NPT再検討会議の難航など、地政学的リスクが高まっている。特に中東地域、東アジア地域、ヨーロッパ地域における緊張が顕著。",
-    "overall_risk_level": "high",
+    "summary": "イランを巡る緊張、ウクライナ情勢の悪化、米中対立、中東の不安定化など、地政学的リスクが高まっている。特にイラン情勢は、米国とイランの対立が軍事衝突に発展する可能性があり、世界経済への影響も懸念される。",
+    "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
       "southeast_asia": "none",
-      "south_asia": "medium",
+      "south_asia": "none",
       "central_asia": "none",
-      "middle_east": "high",
+      "middle_east": "critical",
       "europe": "high",
-      "africa": "medium",
+      "africa": "low",
       "north_america": "medium",
-      "south_america": "medium"
+      "south_america": "none"
     },
-    "generated_at": "2026-05-22T14:46:53.137623"
+    "generated_at": "2026-05-22T17:10:51.358479"
   },
   {
     "date": "2026-05-21",
