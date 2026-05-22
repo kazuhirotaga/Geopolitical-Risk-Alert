@@ -1,17 +1,17 @@
 {
   "date": "2026-05-22",
-  "summary": "株式市場は好調だが、米国とイランの戦争によるインフレ懸念、予測市場への規制強化、暗号資産市場の変動など、複数のリスク要因が混在している。特に消費者心理の悪化と地政学的リスクが懸念される。",
+  "summary": "株式市場は最高値を更新する一方で、イラン戦争によるインフレ懸念から消費者心理は過去最低を記録。暗号資産市場はボラティリティが低下傾向にあるものの、規制強化の動きもみられる。地政学的リスクと金融市場の変動に注意が必要。",
   "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "Dow jumps more than 300 points to record as Wall Street heads for winning week, Treasury yields ease: Live updates",
+      "title": "Dow adds nearly 300 points Friday for new record close; S&P 500 notches eighth winning week: Live updates",
       "region": "global",
       "risk_level": "low",
-      "summary": "株式市場と債券市場でボラティリティが高まっているものの、ダウ平均は300ポイント以上上昇し、過去最高値を記録。今週は上昇傾向。",
-      "analysis": "株式市場は好調だが、ボラティリティの上昇は潜在的なリスクを示唆している。金利の低下は市場を支える要因となるが、長期的な持続可能性には疑問が残る。投資家は市場の変動に注意し、リスク管理を徹底する必要がある。",
+      "summary": "株式市場は好調を維持し、ダウ平均は過去最高値を更新。S&P500も8週連続で上昇。ただし、株式と債券市場のボラティリティは今週上昇している。",
+      "analysis": "株式市場は引き続き上昇傾向にあるものの、ボラティリティの上昇は警戒信号。金利上昇やインフレ懸念が強まれば、調整局面に入る可能性もある。現在の強気相場がいつまで続くか、注意深く見守る必要がある。",
       "key_entities": [
         "Dow Jones",
-        "Treasury yields"
+        "S&P 500"
       ],
       "sources": [
         "CNBC - Top News"
@@ -24,12 +24,11 @@
       "title": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "米国とイランの戦争によるインフレ懸念の高まりから、5月の消費者心理が過去最低を記録。",
-      "analysis": "消費者心理の悪化は、個人消費の減退につながり、経済成長を抑制する可能性がある。特に、米国とイランの戦争が長期化すれば、原油価格の高騰を通じてインフレ圧力がさらに強まり、消費者心理を悪化させる悪循環に陥る恐れがある。政府はインフレ抑制策を講じるとともに、地政学的リスクの緩和に努める必要がある。",
+      "summary": "イラン戦争によるインフレ懸念から、消費者心理が過去最低を記録。原油価格の高騰が家計を圧迫している。",
+      "analysis": "中東地域の地政学的リスクが、インフレを通じて世界経済に悪影響を及ぼしている。特に、原油価格の高騰は、運輸コストやエネルギー価格の上昇につながり、広範囲な産業に影響を与える可能性がある。消費者心理の悪化は、消費支出の減少を招き、景気後退のリスクを高める。",
       "key_entities": [
-        "U.S.-Iran war",
-        "Consumer sentiment",
-        "Inflation"
+        "U.S.",
+        "Iran"
       ],
       "sources": [
         "CNBC - Top News"
@@ -42,12 +41,11 @@
       "title": "Iran war leaves U.S. gas prices at highest levels in nearly four years ahead of Memorial Day",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イラン戦争の影響で、米国のガソリン価格がメモリアルデーを前に4年ぶりの高水準に。",
-      "analysis": "ガソリン価格の高騰は、消費者の可処分所得を圧迫し、個人消費を抑制する要因となる。また、企業の輸送コスト増加を通じて、インフレ圧力を高める可能性もある。米国政府は、戦略石油備蓄の放出や外交努力を通じて、原油価格の安定化を図る必要がある。",
+      "summary": "イラン戦争の影響で、米国のガソリン価格が約4年ぶりの高水準に。原油在庫の減少も価格上昇を後押し。",
+      "analysis": "中東情勢の緊迫化が、エネルギー市場に大きな影響を与えている。ホルムズ海峡の封鎖などの事態が発生すれば、原油供給が滞り、さらなる価格高騰につながる可能性がある。ガソリン価格の上昇は、消費者の購買力を低下させ、経済成長の足かせとなる。",
       "key_entities": [
-        "U.S.-Iran war",
-        "Gas prices",
-        "Oil inventories"
+        "U.S.",
+        "Iran"
       ],
       "sources": [
         "CNBC - Top News"
@@ -60,64 +58,12 @@
       "title": "Oversight Chairman Comer launches congressional probe into insider trading on Kalshi, Polymarket",
       "region": "global",
       "risk_level": "medium",
-      "summary": "議会がKalshiやPolymarketのような予測市場におけるインサイダー取引の懸念から調査を開始。",
-      "analysis": "予測市場への規制強化は、市場の透明性と公正性を高める上で重要である。インサイダー取引が横行すれば、市場の信頼性が損なわれ、投資家の参加意欲を低下させる可能性がある。議会は、適切な規制枠組みを構築し、市場の健全性を維持する必要がある。",
+      "summary": "議会がKalshiやPolymarketなどの予測市場におけるインサイダー取引疑惑を調査。規制強化の動きが強まっている。",
+      "analysis": "予測市場は、情報収集やリスクヘッジに役立つ一方、インサイダー取引のリスクも抱えている。今回の議会調査は、予測市場の透明性と公正性を確保するための重要な一歩となる。規制強化が進めば、予測市場の成長が抑制される可能性もある。",
       "key_entities": [
         "Kalshi",
         "Polymarket",
-        "Insider trading"
-      ],
-      "sources": [
-        "CNBC - Top News",
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Trump Media moves another $205 million in bitcoin as losses on crypto bet swell to $455 million",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "トランプ・メディアがビットコインでさらに2億500万ドルを移動。暗号資産への投資による損失は4億5500万ドルに膨らむ。",
-      "analysis": "トランプ・メディアの暗号資産投資の失敗は、企業の財務状況に悪影響を及ぼす可能性がある。また、暗号資産市場全体の信頼性を損なう可能性もある。投資家は、企業の暗号資産投資戦略を慎重に評価し、リスク管理を徹底する必要がある。",
-      "key_entities": [
-        "Trump Media",
-        "Bitcoin"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin implied volatility drops to 7 month low despite macro risks",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "マクロリスクにもかかわらず、ビットコインのインプライド・ボラティリティが7ヶ月ぶりの低水準に。",
-      "analysis": "ビットコインのインプライド・ボラティリティの低下は、市場の安定化を示唆する一方で、潜在的なリスクを軽視している可能性もある。地政学的リスクや規制リスクが高まる中で、ボラティリティが低い状態が続けば、突然の価格変動に対する脆弱性が高まる恐れがある。投資家は、市場の動向を注意深く監視し、リスク管理を徹底する必要がある。",
-      "key_entities": [
-        "Bitcoin",
-        "Implied volatility"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "ウォーシュ氏のFRBにおける「体制転換」は、ウォール街の内部構造に深く影響を与える可能性がある。",
-      "analysis": "FRBの政策変更は、金融市場全体に大きな影響を与える可能性がある。ウォーシュ氏の政策が、市場の流動性や金利にどのような影響を与えるかを注意深く監視する必要がある。特に、FRBの介入方法に関するルールが明確化されれば、市場の透明性が高まり、リスク管理が容易になる可能性がある。",
-      "key_entities": [
-        "Federal Reserve",
-        "Kevin Warsh"
+        "Congress"
       ],
       "sources": [
         "CNBC - Top News"
@@ -127,14 +73,47 @@
       ]
     },
     {
-      "title": "Arm shares extend weekly rally to almost 50%, and Starbucks pulls the plug on an AI project",
+      "title": "India cracks down on prediction markets: Polymarket goes dark, Kalshi could be next",
+      "region": "south_asia",
+      "risk_level": "medium",
+      "summary": "インド政府が予測市場を取り締まり。Polymarketが閉鎖され、Kalshiも影響を受ける可能性。",
+      "analysis": "インドにおける予測市場の規制強化は、グローバルな規制動向に影響を与える可能性がある。他の国々も、同様の措置を講じる可能性があり、予測市場の国際的な展開に不確実性をもたらす。",
+      "key_entities": [
+        "Polymarket",
+        "Kalshi",
+        "India"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Robinhood CryptoのCOOが退任。収益の減速が背景にある。",
+      "analysis": "Robinhood CryptoのCOO退任は、暗号資産市場の成長鈍化を示唆する可能性がある。競争激化や規制強化などが、収益減速の要因として考えられる。Robinhood Cryptoの今後の戦略に注目が集まる。",
+      "key_entities": [
+        "Robinhood Crypto"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Qualcomm's stock pop shows investors are 'waking up' to boom in AI devices",
       "region": "global",
       "risk_level": "low",
-      "summary": "Armの株価は週間の上昇率をほぼ50%に伸ばし、スターバックスはAIプロジェクトを中止。",
-      "analysis": "Armの株価急騰は、半導体市場の好調を示唆する一方で、過熱感も懸念される。スターバックスのAIプロジェクト中止は、AI技術の導入における課題を示唆している。投資家は、企業の技術戦略を慎重に評価し、リスク管理を徹底する必要がある。",
+      "summary": "Qualcommの株価が急騰。AIデバイスの普及に対する投資家の期待が高まっている。",
+      "analysis": "AIデバイス市場の成長は、半導体メーカーにとって大きなビジネスチャンスとなる。Qualcommは、AIデバイス向けチップ市場で優位な地位を確立しており、今後の成長が期待される。ただし、競争激化や技術革新のスピードによっては、リスクも存在する。",
       "key_entities": [
-        "Arm",
-        "Starbucks",
+        "Qualcomm",
         "AI"
       ],
       "sources": [
@@ -148,12 +127,11 @@
       "title": "Oil-rich Alberta to hold a vote on whether to separate from Canada",
       "region": "north_america",
       "risk_level": "medium",
-      "summary": "石油が豊富なアルバータ州が、カナダからの分離に関する投票を実施。",
-      "analysis": "アルバータ州の分離投票は、カナダ経済に大きな影響を与える可能性がある。特に、石油産業への影響が懸念される。分離が実現すれば、カナダの石油生産量が減少し、原油価格が上昇する可能性がある。投資家は、カナダの政治情勢を注意深く監視し、リスク管理を徹底する必要がある。",
+      "summary": "カナダのアルバータ州が、カナダからの分離を問う住民投票を実施する可能性。",
+      "analysis": "アルバータ州の分離運動は、カナダ経済に大きな影響を与える可能性がある。特に、エネルギー産業への影響は大きく、原油価格やカナダドルの変動につながる可能性がある。政治的な不確実性も高まり、投資家のリスク回避姿勢を強める可能性がある。",
       "key_entities": [
         "Alberta",
-        "Canada",
-        "Oil"
+        "Canada"
       ],
       "sources": [
         "CNBC - Top News"
@@ -166,16 +144,28 @@
       "title": "OKX and ICE are bringing 'never-expiring' oil futures to 120 million crypto users",
       "region": "global",
       "risk_level": "medium",
-      "summary": "OKXとICEが、1億2000万人の暗号資産ユーザーに「無期限」原油先物を提供。",
-      "analysis": "暗号資産市場における原油先物の導入は、市場の多様性を高める一方で、新たなリスクをもたらす可能性もある。特に、無期限先物の価格変動リスクは高く、投資家は十分な注意が必要である。規制当局は、市場の健全性を維持するために、適切な規制枠組みを構築する必要がある。",
+      "summary": "OKXとICEが、暗号資産ユーザー向けに無期限の原油先物取引を提供。",
+      "analysis": "暗号資産市場と伝統的な金融市場の融合が進んでいる。無期限原油先物取引は、暗号資産ユーザーにとって新たな投資機会となる一方、リスク管理の重要性も高まる。規制当局の監視強化も予想される。",
       "key_entities": [
         "OKX",
-        "ICE",
-        "Oil futures",
-        "Cryptocurrency"
+        "ICE"
       ],
       "sources": [
         "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Stocks continue surging to record highs. Here's how to hedge",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "株式市場が記録的な高値を更新し続ける中、ヘッジ戦略の重要性が高まっている。",
+      "analysis": "株式市場が過熱気味であるため、下落リスクに備えるためのヘッジ戦略が重要となる。プットオプションの購入や、ボラティリティ指数の上昇に賭けるなど、様々なヘッジ手法が存在する。投資家は、自身のポートフォリオのリスク許容度に合わせて、適切なヘッジ戦略を選択する必要がある。",
+      "key_entities": [],
+      "sources": [
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -188,7 +178,7 @@
     "europe": "none",
     "east_asia": "none"
   },
-  "generated_at": "2026-05-22T19:53:26.319170",
+  "generated_at": "2026-05-22T22:12:25.146097",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
