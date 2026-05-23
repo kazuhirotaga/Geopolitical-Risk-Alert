@@ -1,35 +1,18 @@
 {
   "date": "2026-05-23",
-  "summary": "イラン戦争によるインフレ懸念と消費者心理の悪化、ビットコインETFからの資金流出、高金利預金商品の存在が市場の不確実性を高めています。地政学的リスクと金融政策の動向に注意が必要です。",
+  "summary": "世界経済はインフレ圧力と地政学的リスクの高まりにより、不確実性が増している。特にアメリカとイランの間の緊張、米中貿易摩擦、そして原油価格の高騰が市場のセンチメントを悪化させている。暗号資産市場もボラティリティが高く、注意が必要。",
   "overall_risk_level": "high",
   "articles": [
     {
-      "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "ビットコイン価格が74,300ドルまで下落。スポットETFから2週間で22.6億ドルの資金流出が発生。",
-      "analysis": "ビットコインETFからの大規模な資金流出は、投資家のリスク回避姿勢を示唆しています。価格下落は短期的な調整の可能性もありますが、マクロ経済の不確実性や規制強化の懸念が背景にある場合、さらなる下落リスクも考慮する必要があります。今後のETFの資金動向と市場心理の回復が焦点となります。",
-      "key_entities": [
-        "Bitcoin",
-        "Spot ETFs"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
       "title": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イラン戦争によるインフレ懸念から、5月の消費者信頼感が過去最低を記録。",
-      "analysis": "イラン戦争による原油価格の高騰がインフレを加速させ、消費者心理を悪化させています。これは、消費支出の減少、企業収益の圧迫、経済成長の鈍化につながる可能性があります。特に、中東地域だけでなく、世界経済への影響も注視する必要があります。和平交渉の進展と原油価格の安定化が急務です。",
+      "risk_level": "critical",
+      "summary": "アメリカとイランの戦争がインフレ懸念を高め、消費者心理が記録的な低水準に落ち込んだ。原油価格の高騰がさらなるインフレ圧力を生む可能性。",
+      "analysis": "アメリカとイランの間の地政学的緊張は、原油価格の高騰を通じて世界経済に深刻な影響を与えている。消費者心理の悪化は、消費支出の減少につながり、景気後退のリスクを高める。特に中東地域は、紛争の直接的な影響を受けるため、経済的な不安定性が増大する可能性がある。今後の原油価格の動向と、紛争の激化度合いが重要な指標となる。",
       "key_entities": [
-        "Iran",
-        "Consumer Sentiment",
-        "Inflation"
+        "アメリカ",
+        "イラン",
+        "原油価格"
       ],
       "sources": [
         "CNBC - Top News"
@@ -39,49 +22,15 @@
       ]
     },
     {
-      "title": "Iran war leaves U.S. gas prices at highest levels in nearly four years ahead of Memorial Day",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イラン戦争の影響で、米国のガソリン価格が4年ぶりの高水準に。原油在庫の減少も懸念。",
-      "analysis": "イラン戦争による供給不安がガソリン価格を押し上げ、消費者への負担が増加しています。メモリアルデーを前に、旅行需要の減少や消費支出の抑制が予想されます。原油在庫の減少は、さらなる価格上昇のリスクを高めるため、供給安定化に向けた外交努力が重要となります。",
-      "key_entities": [
-        "Iran",
-        "Gas Prices",
-        "Oil Inventories"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Dow adds nearly 300 points Friday for new record close; S&P 500 notches eighth winning week: Live updates",
+      "title": "New Fed Chair Kevin Warsh faces 'doom loop' of debt and inflation. What's going on in the bond market?",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "ダウ平均が約300ポイント上昇し、過去最高値を更新。S&P500は8週連続の上昇。",
-      "analysis": "株価が上昇している一方で、他の記事ではインフレや地政学的リスクが指摘されており、市場の楽観的な見通しと現実の乖離が懸念されます。株価上昇の背景には、過剰流動性や将来の成長への期待があると考えられますが、リスクオフの動きに注意が必要です。",
+      "risk_level": "high",
+      "summary": "新FRB議長のケビン・ウォーシュは、債務とインフレの悪循環に直面している。債券市場の動向が注目される。",
+      "analysis": "ケビン・ウォーシュがFRB議長に就任し、インフレ抑制と債務管理という難しい課題に直面している。債券市場の動向は、FRBの金融政策に大きな影響を与える。ウォーシュ議長が、市場の期待に応えつつ、経済の安定を維持できるかが焦点となる。特に、利上げのタイミングや量的引き締め策の実施方法が、市場のボラティリティを高める可能性がある。",
       "key_entities": [
-        "Dow Jones",
-        "S&P 500"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Best money market account rates today, May 23, 2026: Best account provides 4.01% APY",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "優良なマネーマーケット口座の金利は最大4.01% APY。",
-      "analysis": "高金利のマネーマーケット口座の存在は、投資家にとって安全な避難場所を提供し、市場のボラティリティに対する緩衝材となります。しかし、高金利はインフレ圧力を反映している可能性もあり、金融政策の引き締めを促す要因となることも考えられます。",
-      "key_entities": [
-        "Money Market Accounts",
-        "APY"
+        "FRB",
+        "ケビン・ウォーシュ",
+        "債券市場"
       ],
       "sources": [
         "Yahoo Finance"
@@ -91,49 +40,15 @@
       ]
     },
     {
-      "title": "Best high-yield savings interest rates today, May 23, 2026: Earn up to 4.1% APY",
+      "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
       "region": "global",
-      "risk_level": "low",
-      "summary": "高利回り預金金利は最大4.1% APY。",
-      "analysis": "高金利預金は、インフレに対する購買力維持の手段として有効です。しかし、高金利は経済全体の金利水準の上昇を意味し、企業の借入コスト増加や投資抑制につながる可能性もあります。",
+      "risk_level": "high",
+      "summary": "ビットコイン価格が急落し、現物ETFから2週間で22.6億ドルの資金が流出した。暗号資産市場のボラティリティが高まっている。",
+      "analysis": "ビットコイン価格の急落は、暗号資産市場全体のセンチメントを悪化させている。ETFからの資金流出は、機関投資家のリスク回避姿勢を示唆する。今後の価格動向は、規制の動向やマクロ経済環境に大きく左右される。特に、FRBの金融政策や地政学的リスクが、暗号資産市場に大きな影響を与える可能性がある。",
       "key_entities": [
-        "High-Yield Savings Accounts",
-        "APY"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Qualcomm's stock pop shows investors are 'waking up' to boom in AI devices",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Qualcommの株価上昇は、AIデバイス市場の成長に対する投資家の期待を示唆。",
-      "analysis": "AIデバイス市場の成長は、半導体産業全体に恩恵をもたらす可能性があります。Qualcommの株価上昇は、AI関連技術への投資意欲を高め、関連企業の株価上昇を牽引する可能性があります。ただし、技術革新のスピードが速いため、競争激化や技術陳腐化のリスクも考慮する必要があります。",
-      "key_entities": [
-        "Qualcomm",
-        "AI Devices"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "ビットコインのハッシュレートの11%を支配するF2Poolの創設者が、SpaceXの初の火星ミッションを率いる。",
-      "analysis": "このニュースは、暗号資産業界のリーダーが宇宙開発という新たな分野に進出することを示唆しています。技術革新とリスクテイクの精神が、異なる分野で融合することで、新たなビジネスチャンスや技術革新が生まれる可能性があります。ただし、宇宙開発には多大な資金と技術が必要であり、成功の保証はありません。",
-      "key_entities": [
-        "F2Pool",
-        "Bitcoin",
-        "SpaceX"
+        "ビットコイン",
+        "暗号資産ETF",
+        "FRB"
       ],
       "sources": [
         "CoinDesk"
@@ -143,32 +58,124 @@
       ]
     },
     {
-      "title": "Barclays Warns of Upside Risk to Its $100 Oil Price Forecast for 2026",
+      "title": "Stock market returns are often subpar after a strong 3-year streak, history shows",
       "region": "global",
       "risk_level": "medium",
-      "summary": "バークレイズは、2026年の原油価格予測100ドルに上方修正リスクがあると警告。",
-      "analysis": "原油価格の上昇は、インフレ圧力を高め、経済成長を抑制する可能性があります。特に、エネルギー輸入依存度の高い国々にとっては、貿易収支の悪化や通貨安につながるリスクがあります。地政学的リスクや供給制約が原油価格を押し上げる要因となるため、今後の動向を注視する必要があります。",
+      "summary": "過去3年間の好調な株式市場の後、リターンは低下する傾向がある。投資家は過度な期待をすべきではない。",
+      "analysis": "過去のデータに基づくと、株式市場は好調な期間の後、調整局面に入る可能性が高い。現在の市場は、過去3年間で大幅な上昇を記録しており、過大評価されている可能性がある。投資家は、リスク管理を徹底し、ポートフォリオの分散化を図るべきである。特に、金利上昇やインフレ圧力が高まる中、慎重な投資判断が求められる。",
       "key_entities": [
-        "Barclays",
-        "Oil Price"
+        "株式市場",
+        "金利",
+        "インフレ"
       ],
       "sources": [
-        "Yahoo Finance"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Oversight Chairman Comer launches congressional probe into insider trading on Kalshi, Polymarket",
+      "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
+      "region": "east_asia",
+      "risk_level": "medium",
+      "summary": "APECでの米中間の意見の相違は、貿易摩擦が依然として深刻であることを示唆している。",
+      "analysis": "米中間の貿易摩擦は、世界経済の成長を阻害する要因となっている。APECでの交渉が決裂した場合、両国間の貿易関係はさらに悪化する可能性があり、サプライチェーンの混乱や企業収益の悪化につながる。今後の両国間の交渉の行方が、世界経済に大きな影響を与える。",
+      "key_entities": [
+        "アメリカ",
+        "中国",
+        "APEC",
+        "貿易摩擦"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
       "region": "global",
       "risk_level": "medium",
-      "summary": "議会がKalshiとPolymarketにおけるインサイダー取引疑惑の調査を開始。",
-      "analysis": "予測市場におけるインサイダー取引は、市場の公正性を損ない、投資家の信頼を失墜させる可能性があります。議会の調査は、規制強化につながる可能性があり、予測市場の成長を阻害する要因となることも考えられます。透明性の確保と監視体制の強化が急務です。",
+      "summary": "アメリカ人は祝日の週末にインフレの影響を感じている。旅行、レクリエーション、食品の価格が特に上昇。",
+      "analysis": "インフレは、消費者の購買力を低下させ、経済成長を抑制する要因となる。特に、生活必需品の価格上昇は、低所得者層に大きな負担をかける。FRBは、インフレ抑制のために金融引き締め政策を継続する可能性が高いが、景気後退のリスクも考慮する必要がある。",
       "key_entities": [
-        "Kalshi",
-        "Polymarket",
-        "Insider Trading"
+        "アメリカ",
+        "インフレ",
+        "FRB"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Nvidia says its forecast for $200 billion CPU market includes China",
+      "region": "east_asia",
+      "risk_level": "low",
+      "summary": "Nvidiaは、2000億ドルのCPU市場予測に中国を含めていると発表。",
+      "analysis": "Nvidiaの中国市場への期待は、半導体産業の成長を支える重要な要素となる。しかし、米中間の貿易摩擦や技術規制の強化により、Nvidiaの中国市場での事業展開には不確実性が存在する。今後の両国間の関係が、Nvidiaの業績に大きな影響を与える可能性がある。",
+      "key_entities": [
+        "Nvidia",
+        "中国",
+        "半導体"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Oil-rich Alberta to hold a vote on whether to separate from Canada",
+      "region": "north_america",
+      "risk_level": "medium",
+      "summary": "石油が豊富なアルバータ州が、カナダからの分離に関する投票を実施する。",
+      "analysis": "アルバータ州の分離投票は、カナダ経済に大きな影響を与える可能性がある。特に、石油産業はアルバータ州の主要な産業であり、分離が実現した場合、カナダのエネルギー政策や財政に大きな変化が生じる可能性がある。今後の投票結果と、カナダ政府の対応が注目される。",
+      "key_entities": [
+        "アルバータ州",
+        "カナダ",
+        "石油"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Clarity Act could spark a boom in crypto ‘yield-as-a-service’",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Clarity Actにより、暗号資産の「イールド・アズ・ア・サービス」が活況を呈する可能性。",
+      "analysis": "Clarity Actが成立した場合、暗号資産市場における新たなビジネスモデルが生まれる可能性がある。しかし、規制の明確化は、同時に新たなリスクも生み出す可能性がある。投資家は、リスク管理を徹底し、慎重な投資判断を行うべきである。",
+      "key_entities": [
+        "Clarity Act",
+        "暗号資産",
+        "イールド・アズ・ア・サービス"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Stocks continue surging to record highs. Here's how to hedge",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "株価は記録的な高値を更新し続けている。ヘッジ戦略が重要になっている。",
+      "analysis": "株式市場が記録的な高値を更新し続ける中、調整局面への警戒感が高まっている。投資家は、ポートフォリオのリスクを軽減するために、ヘッジ戦略を検討する必要がある。特に、オプション取引やショートポジションの活用が有効である。",
+      "key_entities": [
+        "株式市場",
+        "ヘッジ",
+        "オプション取引"
       ],
       "sources": [
         "CNBC - Top News"
@@ -181,10 +188,10 @@
   "region_risk_map": {
     "global": "high",
     "north_america": "medium",
-    "europe": "low",
-    "east_asia": "low"
+    "europe": "none",
+    "east_asia": "medium"
   },
-  "generated_at": "2026-05-23T10:39:01.077197",
+  "generated_at": "2026-05-23T13:44:24.890736",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
