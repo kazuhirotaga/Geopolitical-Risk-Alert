@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-23",
+    "summary": "米イラン間の緊張がエスカレートし、NPT体制への信頼が揺らぐ。ウクライナ情勢も依然として不安定。米中関係、米ロ関係も悪化の一途をたどる。世界各地で紛争や政情不安が頻発し、地政学リスクは極めて高い。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "high",
+      "southeast_asia": "none",
+      "south_asia": "critical",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "high",
+      "south_america": "medium"
+    },
+    "generated_at": "2026-05-23T03:37:19.261146"
+  },
+  {
     "date": "2026-05-22",
     "summary": "中東情勢が緊迫化。米イラン間の対立激化と、それに伴うNATOの動き、NPT再検討会議の決裂が重なり、地政学的リスクは高水準。ウクライナ情勢も依然として不安定であり、世界各地で紛争や政情不安が散見される。",
     "overall_risk_level": "high",
