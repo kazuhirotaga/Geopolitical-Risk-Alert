@@ -1,48 +1,49 @@
 {
   "date": "2026-05-23",
-  "summary": "世界各地では、金融システムの潜在的な脆弱性、エネルギー供給への懸念、特定分野における人材・物資不足、そして地域的な抗議活動や政治的緊張が散見されます。現時点で大規模な社会秩序の崩壊や広範なパニックは確認されていませんが、いくつかの地域では不安の増大が見られ、特に燃料不足の懸念や金融機関の安定性に関する議論が注目されています。全体としては警戒が必要な不安定な状況が続いています。",
-  "global_panic_index": 48,
+  "summary": "現在の世界情勢は、特定の地域で深刻な社会不安とパニック事象が散見されるものの、広範囲にわたるグローバルなパニックには至っていません。南米ボリビアでは暴力的なデモと略奪が発生し「critical」状態にある一方、南アジアのインドでは水不足や宗教的対立による不安、英国では燃料供給への懸念が報告されています。全体として、地域的な緊張と不安が主要な課題となっています。",
+  "global_panic_index": 65,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "金融システムへの潜在的懸念、特定分野の供給・人材不足",
+      "region": "south_america",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "抗議デモの暴徒化、社会秩序の混乱",
       "incidents": [
         {
-          "title": "合成モーターオイル不足がディーラーサービスと新車生産を脅かす",
-          "location": "USA",
-          "severity": 40,
-          "description": "自動車産業において合成モーターオイルの供給不足が発生しており、ディーラーのサービス部門や新車の生産に影響を及ぼす懸念が高まっています。これは特定の産業セクターにおけるサプライチェーンの脆弱性を示しています。",
-          "source": "Automotive News"
+          "title": "ボリビアで暴力的な衝突と略奪を伴う抗議デモ",
+          "location": "La Paz, Bolivia",
+          "severity": 85,
+          "description": "ボリビアのラパスで抗議デモが暴力的な衝突と略奪に発展。警察介入後も混乱は続き、治安悪化が深刻化している。社会秩序が一部崩壊し、住民は極度の不安に晒されている。",
+          "source": "Inbox.lv"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "資源不足、宗教的対立、労働問題",
+      "incidents": [
+        {
+          "title": "インド、テランガナ州で飲料水不足への抗議デモ",
+          "location": "Telangana, India",
+          "severity": 65,
+          "description": "インドのテランガナ州で飲料水不足に対する大規模な抗議デモが発生。生活必需品の供給不安定が地域住民の不満と社会不安を増大させている。",
+          "source": "Telangana Today"
         },
         {
-          "title": "FDICの調査がデジタル資産と史上最速の銀行取り付け騒ぎを関連付ける",
-          "location": "USA",
-          "severity": 55,
-          "description": "米国預金保険公社(FDIC)の調査が、デジタル資産が2023年の銀行取り付け騒ぎを加速させた可能性を示唆。金融システムの脆弱性や信頼性への懸念を再燃させ、潜在的なパニックの引き金となりうる議論を呼んでいます。",
-          "source": "Bitcoin News"
+          "title": "インド、Bhojshalaで宗教的対立を伴う抗議デモ",
+          "location": "Bhojshala, India",
+          "severity": 60,
+          "description": "インドのBhojshalaでヒンドゥー教の祭礼とイスラム教徒の抗議デモが同時発生し、宗教間の緊張が顕在化。潜在的な衝突リスクが高まり、社会の不安定要因となっている。",
+          "source": "MSN"
         },
         {
-          "title": "2023年の銀行取り付け騒ぎが民間信用市場のストレスについて語ること",
-          "location": "USA",
-          "severity": 55,
-          "description": "2023年に発生した銀行取り付け騒ぎの経験が、現在の民間信用市場のストレス要因を浮き彫りにしています。この分析は、将来的な金融危機や広範なパニックにつながる可能性のある潜在的なリスクを示唆しています。",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "ベンニントン郵便局の閉鎖が住民を苛立たせる",
-          "location": "Bennington, USA",
-          "severity": 35,
-          "description": "米国ベンニントンの郵便局が人員不足により閉鎖され、地域住民が不便と不満を表明しています。これは公共サービスの継続性への懸念と、生活への影響からくる軽微な社会不安を示しています。",
-          "source": "KXII"
-        },
-        {
-          "title": "サウスカロライナ州が人手不足に対応するためEMS訓練を拡大",
-          "location": "South Carolina, USA",
-          "severity": 35,
-          "description": "サウスカロライナ州がEMS（救急医療サービス）の人手不足に対応するため訓練プログラムを拡大。これは重要な公共サービス維持への懸念を示し、将来的な緊急対応能力への不安を引き起こす可能性があります。",
-          "source": "WRDW"
+          "title": "インド全国銀行ストライキの呼びかけ（後に中止）",
+          "location": "India (Nationwide)",
+          "severity": 50,
+          "description": "インド全国で予定されていた主要銀行のストライキが中止された。ストが実行されれば金融システムに深刻な混乱と社会不安をもたらす可能性があり、その懸念が浮上した。",
+          "source": "The Times of India"
         }
       ]
     },
@@ -50,116 +51,14 @@
       "region": "europe",
       "panic_index": 50,
       "status": "unstable",
-      "main_cause": "エネルギー供給の不確実性、公共サービスへの懸念",
+      "main_cause": "エネルギー供給への不安",
       "incidents": [
         {
-          "title": "英国は燃料不足に陥るのか？「レッドゾーン」警告が不足の懸念を高める",
-          "location": "Britain, UK",
-          "severity": 60,
-          "description": "英国で燃料供給に関する「レッドゾーン」警告が発令され、深刻な燃料不足への懸念が高まっています。これは過去の事例から買いだめや供給網の混乱を招き、広範な社会パニックにつながるリスクを内包しています。",
+          "title": "英国における燃料不足の懸念増大",
+          "location": "Britain (United Kingdom)",
+          "severity": 45,
+          "description": "英国で燃料不足に関する「レッドゾーン警告」が報じられ、夏の休暇シーズンを前に供給への国民の懸念が拡大している。具体的な不足は確認されていないものの、不安が増大している。",
           "source": "The i Paper"
-        },
-        {
-          "title": "ジェット燃料不足は夏の休暇に影響するか？知っておくべきこと",
-          "location": "UK",
-          "severity": 50,
-          "description": "夏の休暇シーズンを前に、ジェット燃料不足が旅行計画に影響を及ぼす可能性が指摘されています。旅行業界と一般市民の間で懸念が広がり、混乱や不安を招く恐れがあります。",
-          "source": "The Times"
-        },
-        {
-          "title": "供給が逼迫：スイスは間もなく医師不足に陥る、専門家も警告",
-          "location": "Switzerland",
-          "severity": 45,
-          "description": "スイスで医師不足が深刻化し、将来的に医療システムが供給圧力を受けるとの警告が発されています。これは公衆衛生に対する長期的な不安要素であり、潜在的な社会不安につながる可能性があります。",
-          "source": "blue News"
-        },
-        {
-          "title": "メイバンクホリデー週末、南クロイドン列車が運休",
-          "location": "Croydon, UK",
-          "severity": 30,
-          "description": "英国クロイドン南部で、メイバンクホリデー週末に列車が運休となりました。特定の地域の交通機関の混乱は、住民に不便をもたらし、小さな規模ながらも社会的なストレス要因となります。",
-          "source": "Sutton Guardian"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "経済的圧力、金融市場の変動",
-      "incidents": [
-        {
-          "title": "主要国営銀行5行の貸出コストが上昇",
-          "location": "Taipei, Taiwan",
-          "severity": 35,
-          "description": "台湾の主要国営銀行5行で貸出コストが上昇しました。これは経済活動に影響を与え、企業の資金調達や個人の消費に負担をかける可能性があり、広範な経済不安につながる可能性があります。",
-          "source": "Taipei Times"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "燃料不足への抗議、労働争議、宗教的緊張",
-      "incidents": [
-        {
-          "title": "AAPのGopal Italiaがジュナーガドの燃料不足に抗議：農家を苦しめるディーゼル危機を指摘",
-          "location": "Junagadh, India",
-          "severity": 45,
-          "description": "インドのジュナーガドで、AAPのGopal Italia氏が燃料不足に抗議し、農家を苦しめるディーゼル危機を指摘しました。これはエネルギー不足が経済と生活に与える影響に対する公衆の不満を示しています。",
-          "source": "Bhaskar English"
-        },
-        {
-          "title": "SBI職員ストライキ中止：5月25-26日の抗議活動を延期、支店は通常通り機能",
-          "location": "India",
-          "severity": 20,
-          "description": "インドのSBI（State Bank of India）職員による2日間の全国的なストライキが中止されました。これにより、広範な銀行サービス停止による金融パニックや社会混乱の潜在的リスクが回避されました。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "ボージシャラでの最初の金曜日にヒンドゥー教の「マハ・アールティー」とイスラム教徒の抗議",
-          "location": "India",
-          "severity": 40,
-          "description": "インドの歴史的建造物ボージシャラで、ヒンドゥー教の宗教儀式とイスラム教徒の抗議活動が同時に発生。これはデリケートな宗教的緊張が社会不安に繋がる可能性を示唆しています。",
-          "source": "MSN"
-        },
-        {
-          "title": "ノイダ抗議2026：国家が理解を拒否した労働者の蜂起",
-          "location": "Noida, India",
-          "severity": 40,
-          "description": "インドのノイダで労働者の蜂起が発生し、国家の対応に対する不満が報じられています。これは労働者の権利や生活条件に対する不満が社会不安を引き起こす可能性を示しています。",
-          "source": "SabrangIndia"
-        }
-      ]
-    },
-    {
-      "region": "south_america",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "政治的不安定要因",
-      "incidents": [
-        {
-          "title": "元ボリビア大統領エボ・モラレス氏が米国を混乱扇動と非難",
-          "location": "Bolivia",
-          "severity": 30,
-          "description": "ボリビアの元大統領エボ・モラレス氏が米国を国内の混乱を扇動していると非難しました。これは政治的なレトリックであり、国の不安定な状況や外部からの影響に関する社会的な議論を引き起こしています。",
-          "source": "upi.com"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "地政学的・経済的摩擦",
-      "incidents": [
-        {
-          "title": "オランダ、イスラエル・ヨルダン川西岸入植地からの物品輸入・販売禁止を提案",
-          "location": "Israel (West Bank)",
-          "severity": 25,
-          "description": "オランダがイスラエル占領下のヨルダン川西岸入植地からの物品輸入・販売禁止を提案しました。これは地政学的な緊張を高め、地域経済に影響を与える可能性があり、国際関係における摩擦の兆候です。",
-          "source": "The Jerusalem Post"
         }
       ]
     }
