@@ -1,11 +1,11 @@
 [
   {
     "date": "2026-05-23",
-    "summary": "ウクライナ情勢は依然として不安定で、ロシアの軍事侵攻が継続。イランを巡る米国の動向も不透明。NPT再検討会議が決裂し、核拡散リスクが高まっている。世界各地で地政学的緊張が高まる状況が続いている。",
+    "summary": "ウクライナ情勢は膠着状態。中東では米イラン間の緊張緩和に向けた動きがあるものの、イスラエルとガザの衝突は継続。米中間の緊張も依然として高く、地政学リスクは全体的に高い水準を維持。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "critical",
       "southeast_asia": "none",
       "south_asia": "medium",
       "central_asia": "none",
@@ -15,7 +15,7 @@
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-23T16:04:26.261793"
+    "generated_at": "2026-05-23T19:16:38.083966"
   },
   {
     "date": "2026-05-22",
