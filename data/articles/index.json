@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-23",
-    "summary": "ウクライナ情勢の緊迫化、米イラン間の緊張、NPT体制の崩壊危機など、地政学的リスクが高まっている。特に中東地域は、イスラエルとレバノンの衝突、米イラン間の対立、ガザの危機的状況が複合的に絡み合い、不安定要素が顕著。",
+    "summary": "ウクライナ情勢は依然として不安定で、ロシアの軍事侵攻が継続。イランを巡る米国の動向も不透明。NPT再検討会議が決裂し、核拡散リスクが高まっている。世界各地で地政学的緊張が高まる状況が続いている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -9,13 +9,13 @@
       "southeast_asia": "none",
       "south_asia": "medium",
       "central_asia": "none",
-      "middle_east": "critical",
+      "middle_east": "high",
       "europe": "high",
       "africa": "medium",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-23T13:44:05.197836"
+    "generated_at": "2026-05-23T16:04:26.261793"
   },
   {
     "date": "2026-05-22",
