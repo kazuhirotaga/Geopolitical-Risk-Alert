@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-24",
-    "summary": "中東情勢は、米イラン間の停戦交渉が進展する一方で、イスラエルとガザ、レバノン南部での衝突が継続し、緊張が依然として高い。ウクライナ情勢もロシアの攻撃が激化し、予断を許さない状況が続いている。",
+    "summary": "中東におけるイランを巡る緊張、ウクライナ情勢の激化、セネガルにおける政治的混乱、パキスタンでのテロ事件など、地政学的リスクが高まっている。特に中東情勢は、米国大統領選挙にも影響を与える可能性があり、注視が必要。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -9,13 +9,13 @@
       "southeast_asia": "none",
       "south_asia": "high",
       "central_asia": "none",
-      "middle_east": "high",
+      "middle_east": "critical",
       "europe": "critical",
       "africa": "medium",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-24T19:22:28.745441"
+    "generated_at": "2026-05-24T21:59:02.995359"
   },
   {
     "date": "2026-05-23",
