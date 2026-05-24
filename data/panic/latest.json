@@ -1,100 +1,115 @@
 {
-  "date": "2026-05-23",
-  "summary": "現在、世界各地で資源不足と政治的不安定が複合的に社会不安を引き起こしています。中東では医療システムの崩壊危機が深刻化し、南アジアでは燃料不足による買いだめや金融機関への不信感が顕著です。ヨーロッパでは大規模な抗議デモが警察との衝突に至るなど、一部地域で緊張が高まっています。全体的に「警戒状態」から「不安定」な状況にあり、各国の政府による迅速な対応が求められます。",
-  "global_panic_index": 68,
+  "date": "2026-05-24",
+  "summary": "世界各地で社会不安が増大しており、特に南アジアでは水や燃料といった生活必需品の深刻な不足が複数の抗議デモや警察との衝突を引き起こし、警戒レベルに達しています。中東では医療インフラの崩壊危機が深刻な懸念材料となり、欧州の一部では反政府デモの暴力化が報じられています。全体として、複数の地域で社会インフラの脆弱化や政治的緊張が市民のパニックを誘発しかねない状況にあります。",
+  "global_panic_index": 60,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "公共サービスの人員不足",
-      "incidents": [
-        {
-          "title": "郵便局の閉鎖と住民の不満",
-          "location": "Bennington, US",
-          "severity": 30,
-          "description": "人員不足により郵便局が閉鎖され、地域住民が基本的な公共サービスを受けられずに不満を抱いています。生活への影響は限定的ですが、潜在的な不満の蓄積が見られます。",
-          "source": "KXII"
-        }
-      ]
-    },
-    {
       "region": "europe",
-      "panic_index": 60,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "政治的抗議デモと資源不足への懸念",
+      "main_cause": "政治的緊張、社会秩序の乱れ",
       "incidents": [
         {
-          "title": "セルビア首都で反政府デモと警察の衝突",
-          "location": "Belgrade, Serbia",
-          "severity": 70,
-          "description": "反政府デモ隊と警察が衝突し、社会秩序が不安定化しています。大規模な抗議活動が暴力沙汰に発展する可能性を示唆し、市民の間に緊張が走っています。",
-          "source": "Audacy"
+          "title": "セルビア首都で反政府デモが警察と衝突し暴力化",
+          "location": "セルビア、ベオグラード",
+          "severity": 65,
+          "description": "反政府ラリー後にデモ参加者と警察が衝突。複数の情報源が衝突の暴力化を報じており、政治的な緊張と市民の不満が表面化している。社会の不安定化が懸念される状況。",
+          "source": "Audacy, MSN"
         },
         {
-          "title": "イギリスでの燃料不足懸念、「赤ゾーン」警告",
-          "location": "UK",
-          "severity": 55,
-          "description": "イギリス国内で燃料不足の懸念が高まり、「赤ゾーン」警告が発令されました。この警告は、大規模な買いだめや供給混乱への不安を広げる可能性があります。",
-          "source": "The i Paper"
+          "title": "英国サリー州で祝日の反社会行動に警察が対応",
+          "location": "英国、サリー",
+          "severity": 30,
+          "description": "銀行休日に発生した反社会行動に対し、地元警察が対応している。大規模なパニックには至っていないが、地域社会における軽微な社会秩序の乱れが散発的に見られる状況。",
+          "source": "BBC"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "医療システム崩壊危機",
+      "region": "north_america",
+      "panic_index": 25,
+      "status": "normal",
+      "main_cause": "潜在的なインフラへの懸念",
       "incidents": [
         {
-          "title": "ヨルダン川西岸の医療システムが崩壊寸前",
-          "location": "West Bank",
-          "severity": 80,
-          "description": "債務危機によりヨルダン川西岸地区の医療システムが崩壊寸前の状態にあり、住民の基本的な医療アクセスが深刻に脅かされています。この状況は人道危機に繋がりかねません。",
-          "source": "Arab News"
+          "title": "コロンバス消防局が人員・機材不足の主張を否定",
+          "location": "米国、コロンバス",
+          "severity": 35,
+          "description": "消防局が人員および機材不足の主張を否定する声明を発表。不足の主張が上がること自体、市民の安全保障に対する潜在的な不安を示唆しているが、直接的なパニックには至っていない。",
+          "source": "The Columbus Dispatch"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 70,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "燃料不足、金融不安、水不足、政治的抗議",
+      "main_cause": "生活必需品の不足、社会秩序の乱れ、労働争議",
       "incidents": [
         {
-          "title": "インド・アムリトサルで燃料の買いだめと供給枯渇",
-          "location": "Amritsar, India",
+          "title": "インド、カルビ・アングロングで土地侵犯デモ中に警察が発砲、負傷者",
+          "location": "インド、Karbi Anglong",
+          "severity": 80,
+          "description": "土地侵犯問題を巡る抗議デモ中に警察が発砲し3人が負傷。深刻な社会不安と治安部隊との緊張関係が浮き彫りになり、状況のエスカレートが懸念される極めて緊迫した状況。",
+          "source": "The News Mill"
+        },
+        {
+          "title": "インド、ハイデラバードで飲料水不足に対する抗議デモ",
+          "location": "インド、Telangana (Khairatabad)",
+          "severity": 70,
+          "description": "飲料水不足が深刻化し、BRS党員と住民が水道局前で抗議デモを実施。生活に不可欠な資源の不足は住民の切迫感を高め、大規模な社会不安に発展するリスクが高い。",
+          "source": "Telangana Today"
+        },
+        {
+          "title": "インド、オディシャ州トゥアムルランプールで燃料不足が発生",
+          "location": "インド、Odisha (Thuamul Rampur)",
           "severity": 75,
-          "description": "インドのアムリトサルで燃料の買いだめが発生し、ガソリンスタンドが燃料切れに陥る事態が発生。市民の生活に混乱が生じ、パニック状態が見られます。",
-          "source": "MSN"
-        },
-        {
-          "title": "パキスタンで政治犯釈放を求める大規模な抗議活動",
-          "location": "Pakistan",
-          "severity": 65,
-          "description": "パキスタンで主要政治家の釈放を求める大規模な抗議活動が開始され、政治的混乱と社会不安の拡大が懸念されています。デモの広がりによっては治安が悪化する恐れがあります。",
-          "source": "Dawn"
-        },
-        {
-          "title": "インド・オディシャ州で燃料不足によりポンプが枯渇",
-          "location": "Odisha, India",
-          "severity": 65,
-          "description": "インドのオディシャ州トゥアムルランプールで燃料不足が発生し、ガソリンスタンドのポンプが枯渇。地域住民の移動や物流に深刻な影響が出ています。",
+          "description": "地域で燃料不足が発生し、ガソリンスタンドが供給停止状態に。燃料は市民生活と経済活動の基盤であり、その不足は交通機関の麻痺や買いだめなど、広範なパニックを引き起こす可能性がある。",
           "source": "orissapost.com"
         },
         {
-          "title": "バングラデシュの金融機関で預金者による全額返済要求",
-          "location": "Bangladesh",
-          "severity": 60,
-          "description": "バングラデシュの非銀行系金融機関（NBFI）6社の預金者が年内の全額返済を要求。金融システムへの不信感が高まり、取り付け騒ぎに発展する可能性が懸念されます。",
-          "source": "newagebd.net"
+          "title": "インドSBI銀行職員が全国規模の2日間のストライキを呼びかけ",
+          "location": "インド",
+          "severity": 68,
+          "description": "インド最大手銀行SBIの職員が全国的なストライキを計画。金融機関のサービス停止は経済活動に甚大な影響を与え、市民の金融不安を煽り、取り付け騒ぎに繋がる可能性も否定できない。",
+          "source": "MSN"
         },
         {
-          "title": "インド・テランガーナ州で飲料水不足に対する抗議デモ",
-          "location": "Telangana, India",
-          "severity": 50,
-          "description": "インドのテランガーナ州で飲料水不足に抗議するデモが発生。生活必需品の供給不安が住民の不満を高め、地域社会の不安定化を招いています。",
-          "source": "Telangana Today"
+          "title": "インド、インドールで水不足が道路封鎖と抗議デモを引き起こす",
+          "location": "インド、Indore",
+          "severity": 70,
+          "description": "水不足を原因とする道路封鎖と抗議デモが勃発。生活必需品の欠乏は市民の怒りと絶望感を増幅させ、社会秩序の広範囲な混乱やパニック行動に繋がる可能性が高い、危険な兆候。",
+          "source": "Bhaskar English"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "医療インフラの崩壊危機、債務危機",
+      "incidents": [
+        {
+          "title": "ヨルダン川西岸で債務危機により医療システムが崩壊寸前",
+          "location": "ヨルダン川西岸",
+          "severity": 85,
+          "description": "深刻な債務危機により、ヨルダン川西岸の医療システムが機能停止の危機に瀕している。基本的な医療サービスが提供できなくなることは、住民の生命を脅かし、大規模なパニックを引き起こす。",
+          "source": "Arab News"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "政治的緊張、警察の残虐行為",
+      "incidents": [
+        {
+          "title": "ケニア、ブシアでデモ中の警察発砲について批判",
+          "location": "ケニア、Busia",
+          "severity": 70,
+          "description": "ブシアでの抗議デモ中に警察が発砲し、負傷者が出た事態に対し非難の声が上がっている。警察による武力行使は市民の不信感を高め、更なる社会不安と衝突を誘発する恐れがある。",
+          "source": "People Daily"
         }
       ]
     }
