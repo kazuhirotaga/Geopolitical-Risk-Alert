@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-24",
-    "summary": "ウクライナ情勢は依然として緊迫。ロシアによる攻撃が継続し、ウクライナも反撃を強化。一方、アメリカとイランの間で停戦合意に向けた動きが見られるが、不確実性も残る。中東地域は引き続き不安定。",
+    "summary": "ウクライナ情勢の緊迫化、米イラン間の緊張緩和の兆し、パキスタンでのテロ事件など、地政学的リスクが複合的に高まっている。特にウクライナ情勢は新型ミサイルの使用などエスカレーションの様相を呈しており、注視が必要。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "none",
-      "south_asia": "medium",
+      "south_asia": "high",
       "central_asia": "none",
       "middle_east": "high",
-      "europe": "high",
+      "europe": "critical",
       "africa": "medium",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "medium"
     },
-    "generated_at": "2026-05-24T10:44:00.798796"
+    "generated_at": "2026-05-24T13:43:47.248817"
   },
   {
     "date": "2026-05-23",
