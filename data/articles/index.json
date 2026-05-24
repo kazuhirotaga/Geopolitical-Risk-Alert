@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-24",
+    "summary": "ウクライナ情勢はロシアへの長距離攻撃強化でエスカレート。イランを巡る米国の動きも活発化し、中東情勢も緊迫。NPT再検討会議が決裂し、核軍縮への懸念が高まるなど、地政学的リスクは全体的に高い水準。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-05-24T03:59:00.676010"
+  },
+  {
     "date": "2026-05-23",
     "summary": "ウクライナ情勢の緊迫化、イランを巡る米国の動き、台湾海峡の緊張など、地政学的リスクが高まっている。NPT再検討会議が決裂し、核軍縮の停滞も懸念される。",
     "overall_risk_level": "high",
