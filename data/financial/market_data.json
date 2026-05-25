@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-25T10:16:42.892761",
+  "generated_at": "2026-05-25T15:16:17.947487",
   "indices": [
     {
       "symbol": "^N225",
       "label": "日経平均株価",
-      "current_price": 65158.19140625,
-      "price_formatted": "65,158.19",
-      "change": 1819.12109375,
-      "change_formatted": "+1,819.12",
-      "change_percent": 2.872036303619372,
-      "change_percent_formatted": "+2.87%",
+      "current_price": 63339.0703125,
+      "price_formatted": "63,339.07",
+      "change": 1654.9296875,
+      "change_formatted": "+1,654.93",
+      "change_percent": 2.682909530280904,
+      "change_percent_formatted": "+2.68%",
       "trend": "up",
-      "date": "2026-05-25"
+      "date": "2026-05-22"
     },
     {
       "symbol": "^DJI",
@@ -40,13 +40,13 @@
     {
       "symbol": "^VIX",
       "label": "VIX指数 (恐怖指数)",
-      "current_price": 16.709999084472656,
-      "price_formatted": "16.71",
-      "change": 0.009998321533203125,
-      "change_formatted": "+0.01",
-      "change_percent": 0.05987018608640632,
-      "change_percent_formatted": "+0.06%",
-      "trend": "up",
+      "current_price": 16.690000534057617,
+      "price_formatted": "16.69",
+      "change": -0.010000228881835938,
+      "change_formatted": "-0.01",
+      "change_percent": -0.059881607335182815,
+      "change_percent_formatted": "-0.06%",
+      "trend": "down",
       "date": "2026-05-25"
     },
     {
@@ -64,24 +64,24 @@
     {
       "symbol": "USDJPY=X",
       "label": "ドル円相場",
-      "current_price": 158.9320068359375,
-      "price_formatted": "158.93",
-      "change": -0.08599853515625,
-      "change_formatted": "-0.09",
-      "change_percent": -0.05408100482430199,
-      "change_percent_formatted": "-0.05%",
+      "current_price": 158.91600036621094,
+      "price_formatted": "158.92",
+      "change": -0.1020050048828125,
+      "change_formatted": "-0.10",
+      "change_percent": -0.06414682704940716,
+      "change_percent_formatted": "-0.06%",
       "trend": "down",
       "date": "2026-05-25"
     },
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 77586.03125,
-      "price_formatted": "77,586",
-      "change": 604.90625,
-      "change_formatted": "+605",
-      "change_percent": 0.7857851518797627,
-      "change_percent_formatted": "+0.79%",
+      "current_price": 77596.046875,
+      "price_formatted": "77,596",
+      "change": 614.921875,
+      "change_formatted": "+615",
+      "change_percent": 0.7987956463353842,
+      "change_percent_formatted": "+0.80%",
       "trend": "up",
       "date": "2026-05-25"
     },
