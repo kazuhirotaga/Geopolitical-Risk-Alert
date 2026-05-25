@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-25",
-    "summary": "ウクライナ情勢はロシアがキーウへの攻撃を予告し緊迫。米イラン間の緊張緩和に向けた動きがある一方、イスラエル・パレスチナ間の衝突は激化。世界各地で地政学的リスクが高まっている。",
+    "summary": "ウクライナ情勢はロシアのキーウ攻撃警告で緊迫。中東ではイスラエルとヒズボラの衝突激化、イランを巡る米国の動きも不透明。世界的な核軍縮体制の弱体化も懸念される。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -9,13 +9,13 @@
       "southeast_asia": "none",
       "south_asia": "high",
       "central_asia": "none",
-      "middle_east": "high",
+      "middle_east": "critical",
       "europe": "critical",
       "africa": "medium",
-      "north_america": "medium",
+      "north_america": "high",
       "south_america": "low"
     },
-    "generated_at": "2026-05-25T19:46:35.830732"
+    "generated_at": "2026-05-25T22:11:09.365814"
   },
   {
     "date": "2026-05-24",
