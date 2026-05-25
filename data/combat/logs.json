@@ -1,5 +1,105 @@
 [
   {
+    "date": "2026-05-25",
+    "summary": "ウクライナ周辺での軍事的な緊張が継続。ロシアが核演習を実施し、NATOは東部での抑止戦略を強化。エストニアではNATO軍機がウクライナのドローンを撃墜。米国はNATOへの関与を縮小する動きを見せる一方、ポーランドへの軍事協力は継続。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-05-20",
+        "location": "ロシア、ベラルーシ",
+        "region": "europe",
+        "title": "ロシア、ベラルーシを含む核演習を実施",
+        "content": "ロシアがベラルーシの射撃場を含む、事前通告なしの核演習を実施。核戦力の誇示と外交的メッセージを組み合わせた行動。",
+        "involved_parties": [
+          "ロシア軍",
+          "ベラルーシ軍"
+        ],
+        "event_type": "exercise",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/20/russia-launches-unannounced-nuclear-exercise-including-belarusian-launch-sites/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-05-20",
+        "location": "エストニア",
+        "region": "europe",
+        "title": "NATO軍機、エストニア上空でウクライナのドローンを撃墜",
+        "content": "エストニアのメディア報道によると、リトアニアのシャウレイに駐留するルーマニアのF-16戦闘機が、エストニア上空でウクライナのドローンを撃墜。",
+        "involved_parties": [
+          "NATO軍",
+          "ウクライナ軍"
+        ],
+        "event_type": "air_defense",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/19/nato-jet-shoots-down-ukrainian-drone-over-estonia-in-escalation-of-airspace-violations/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-05-20",
+        "location": "リトアニア、ビリニュス",
+        "region": "europe",
+        "title": "ドローン侵入によりリトアニア議会が一時避難、ビリニュスの航空交通が停止",
+        "content": "リトアニアの領空がドローンによって侵害され、議会関係者が避難、ビリニュスの航空交通が一時的に停止。バルト地域における一連の安全保障上のインシデントの一環。",
+        "involved_parties": [
+          "リトアニア政府",
+          "不明ドローン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/20/lithuanian-lawmakers-shelter-vilnius-air-traffic-suspended-due-to-drone-incursion/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-05-22",
+        "location": "不明",
+        "region": "unknown",
+        "title": "「オペレーション・エピック・フューリー」で米軍機42機が損失または損傷",
+        "content": "米議会の報告書によると、アメリカ軍の作戦「オペレーション・エピック・フューリー」において、ドローンを中心に42機の航空機が損失または損傷。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-05-18",
+        "location": "アフリカ",
+        "region": "africa",
+        "title": "アフリカでISISの指導者が殺害される",
+        "content": "アフリカにおけるISISの指導者が殺害された。米軍の部隊削減が、テロ計画を阻止する能力に懸念を引き起こしている。",
+        "involved_parties": [
+          "アメリカ軍",
+          "ISIS"
+        ],
+        "event_type": "clash",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/18/isis-leader-killed-in-africa-as-us-commander-raises-force-reduction-concerns/"
+      },
+      {
+        "id": "event-6",
+        "timestamp": "2026-05-18",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ、国産の誘導航空爆弾を戦闘準備完了と発表",
+        "content": "ウクライナが、ロシアの滑空爆弾攻撃への対抗措置として、国産の250kg誘導航空爆弾を戦闘準備完了と発表。中距離目標に対する西側の精密攻撃能力への依存を軽減。",
+        "involved_parties": [
+          "ウクライナ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/18/ukraine-declares-its-first-homegrown-guided-aerial-bomb-combat-ready/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-24",
     "summary": "米国主導のOperation Epic Furyでの航空機損失が判明。リビアとシリアがトルコの軍事演習に初参加。ロシアはベラルーシを含む核演習を実施。NATO軍がエストニア上空でウクライナのドローンを撃墜。ウクライナは国産の誘導爆弾を実戦配備。",
     "events": [
@@ -4055,92 +4155,6 @@
         "urgency": "critical",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/18/vessels-report-being-hit-by-gunfire-as-iran-says-strait-of-hormuz-shut-again/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-24",
-    "summary": "今週は、ウクライナが新たな対ドローン防衛システムを導入、イランがホルムズ海峡を再び封鎖し、米海軍がイランに向かう貨物船を攻撃するなど、地政学的な緊張が高まっている。ロシアのNATOに対する潜在的な脅威も懸念されている。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-04-23",
-        "location": "不明",
-        "region": "europe",
-        "title": "ウクライナ無人艇がShahedドローンを撃墜",
-        "content": "ウクライナが無人艇から迎撃ミサイルを発射し、Shahedドローンを撃墜。ロシアの将来的な交渉における譲歩を迫る能力を鈍らせる可能性のある新たな防衛手段。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "ロシア軍"
-        ],
-        "event_type": "attack",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/industry/techwatch/2026/04/23/in-first-ukrainian-unmanned-vessel-launches-interceptor-to-knock-out-shahed-drone/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-20",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "イラン、ホルムズ海峡を再び封鎖",
-        "content": "イラン海軍がホルムズ海峡を通過しようとする商船に対し、通過を許可しないと無線で通告。船舶が銃撃を受けたとの報告もあり。",
-        "involved_parties": [
-          "イラン海軍",
-          "商船"
-        ],
-        "event_type": "blockade",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/18/vessels-report-being-hit-by-gunfire-as-iran-says-strait-of-hormuz-shut-again/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-04-20",
-        "location": "不明",
-        "region": "middle_east",
-        "title": "米海軍、イランに向かう貨物船を攻撃",
-        "content": "米海軍駆逐艦USS Spruanceが、イランの港に向かおうとした貨物船Touskaのエンジンルームに5インチ砲を数発発砲し、推進力を停止させた。",
-        "involved_parties": [
-          "米海軍",
-          "不明（貨物船）"
-        ],
-        "event_type": "attack",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/20/us-navy-destroyer-fires-on-cargo-vessel-attempting-to-sail-to-iranian-port/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-04-22",
-        "location": "不明",
-        "region": "europe",
-        "title": "オランダ、ロシアがウクライナ侵攻後1年でNATOと衝突準備完了の可能性を警告",
-        "content": "オランダの諜報報告によると、モスクワの目標はNATOを軍事的に打ち負かすことではなく、限定的な領土獲得を通じてNATOを分裂させること。",
-        "involved_parties": [
-          "ロシア",
-          "NATO"
-        ],
-        "event_type": "threat",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/22/russia-could-be-ready-for-nato-conflict-year-after-ukraine-dutch-warn/"
-      },
-      {
-        "id": "event-5",
-        "timestamp": "2026-04-17",
-        "location": "台湾",
-        "region": "east_asia",
-        "title": "中国、台湾に対する情報戦を展開",
-        "content": "中国軍の艦艇と戦闘機が台湾周辺で大規模な演習を実施する一方で、スマートフォン画面上では並行して情報戦が展開された。",
-        "involved_parties": [
-          "中国",
-          "台湾"
-        ],
-        "event_type": "cyber",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/17/china-turns-taiwans-own-voices-against-it-in-information-war/"
       }
     ]
   }

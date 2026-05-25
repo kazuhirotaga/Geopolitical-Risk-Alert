@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-25",
+    "summary": "中東情勢が緊迫化。イランを巡る米国の動きと、それに伴う周辺地域への影響が深刻化している。ウクライナ情勢も依然として不安定であり、地政学的リスクは全体的に高い水準を維持している。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "none",
+      "south_asia": "medium",
+      "central_asia": "none",
+      "middle_east": "high",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "none"
+    },
+    "generated_at": "2026-05-25T04:10:23.124060"
+  },
+  {
     "date": "2026-05-24",
     "summary": "中東におけるイランを巡る緊張、ウクライナ情勢の激化、セネガルにおける政治的混乱、パキスタンでのテロ事件など、地政学的リスクが高まっている。特に中東情勢は、米国大統領選挙にも影響を与える可能性があり、注視が必要。",
     "overall_risk_level": "high",
