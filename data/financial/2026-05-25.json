@@ -1,73 +1,17 @@
 {
   "date": "2026-05-25",
-  "summary": "中東情勢の緩和期待から原油価格が下落し、リスクオンの動きが見られる一方、AI関連投資の過熱や暗号資産市場の不安定さなど、注意すべきリスクも存在する。FRBの金融政策に関する不確実性も継続。",
-  "overall_risk_level": "medium",
+  "summary": "中東情勢の緊迫化と米イラン間の交渉動向が市場を大きく左右。原油価格の変動、インフレ圧力、暗号資産市場の規制動向など、複合的なリスク要因が金融市場の不確実性を高めている。",
+  "overall_risk_level": "high",
   "articles": [
     {
-      "title": "Dollar drifts lower as oil falls on Hormuz deal optimism",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "ホルムズ海峡の再開期待から原油価格が下落し、ドルが下落。リスクオンの動きがドル安を招いている。",
-      "analysis": "ホルムズ海峡の安定化は、原油価格の安定に繋がり、インフレ抑制に寄与する可能性がある。しかし、楽観的な見通しが先行し、地政学的リスクが再燃した場合、原油価格の急騰とドルの急騰を招くリスクがある。短期的なドル安は、新興国市場への資金流入を促す可能性がある。",
-      "key_entities": [
-        "ドル",
-        "原油",
-        "ホルムズ海峡"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "European stocks highest since March 2 as U.S.-Iran talks continue; euro zone bond yields drop on peace hopes",
-      "region": "europe",
-      "risk_level": "low",
-      "summary": "米国とイランの対話継続を受け、欧州株式市場は上昇。ユーロ圏の債券利回りも低下し、市場は和平への期待感を示している。",
-      "analysis": "中東情勢の緩和期待は、欧州経済にとってプラス要因となる。エネルギー価格の安定化は、インフレ抑制に繋がり、欧州中央銀行（ECB）の金融政策の柔軟性を高める可能性がある。ただし、対話が決裂した場合、市場は急激にリスクオフに転換する可能性がある。",
-      "key_entities": [
-        "欧州株式市場",
-        "ユーロ圏",
-        "ECB",
-        "米国",
-        "イラン"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin ETFs Lose $2.26 Billion In Two Weeks",
-      "region": "global",
+      "title": "Bitcoin, crypto prices tick up as US-Iran peace deal odds climb",
+      "region": "middle_east",
       "risk_level": "medium",
-      "summary": "ビットコインETFから2週間で22.6億ドルの資金流出が発生。暗号資産市場のセンチメント悪化を示唆。",
-      "analysis": "ビットコインETFからの大規模な資金流出は、暗号資産市場全体の信頼低下を招く可能性がある。特に、機関投資家の動向に影響を与え、価格変動を激しくするリスクがある。規制の不確実性や、他の投資対象へのシフトも資金流出の要因として考えられる。",
+      "summary": "米イラン和平交渉の進展期待から、ビットコインなどの暗号資産価格が上昇。地政学的リスク緩和が市場心理を改善。",
+      "analysis": "米イラン間の和平交渉の進展は、中東地域の地政学的リスクを緩和し、投資家のリスク選好度を高める要因となる。暗号資産市場は、リスク資産としての側面が強いため、地政学的リスクの低下は価格上昇を促す。ただし、交渉の決裂や情勢の急変により、価格が急落する可能性も考慮する必要がある。今後の交渉の進捗と、中東地域の安定化に向けた具体的な動きが注目される。",
       "key_entities": [
-        "ビットコイン",
-        "ビットコインETF"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "AI is speeding up the quantum threat to crypto, security experts warn",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "AIの進化により、量子コンピュータによる暗号資産のセキュリティリスクが加速。長期的な暗号資産の安全性に対する懸念が高まっている。",
-      "analysis": "量子コンピュータの実用化は、暗号資産の根幹を揺るがす可能性があり、長期的な投資判断に影響を与える。量子耐性を持つ暗号技術の開発が急務であり、関連技術への投資が活発化する可能性がある。既存の暗号資産の価値が大幅に下落するリスクも考慮する必要がある。",
-      "key_entities": [
-        "AI",
-        "量子コンピュータ",
-        "暗号資産"
+        "Bitcoin",
+        "Crypto"
       ],
       "sources": [
         "CoinDesk"
@@ -77,15 +21,48 @@
       ]
     },
     {
+      "title": "European stocks highest since March 2 as U.S.-Iran talks continue; euro zone bond yields drop on peace hopes",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "米イラン交渉継続を受け、欧州株式市場が上昇。ユーロ圏の債券利回りは低下。和平への期待感が市場を牽引。",
+      "analysis": "欧州株式市場の上昇とユーロ圏債券利回りの低下は、米イラン間の和平交渉に対する市場の期待感を示している。和平が実現すれば、原油価格の安定化、インフレ圧力の緩和、サプライチェーンの正常化など、欧州経済にプラスの影響が期待できる。ただし、交渉の行方には依然として不確実性が存在し、合意に至らない場合は、市場のセンチメントが悪化する可能性がある。原油価格の動向と、欧州中央銀行（ECB）の金融政策の方向性が注目される。",
+      "key_entities": [
+        "Euro zone",
+        "ECB"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Gold rises as dollar, oil ease on U.S.-Iran deal prospects",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "米イラン和平の可能性が高まる中、ドルと原油価格が下落し、安全資産とされる金価格が上昇。",
+      "analysis": "米イラン間の和平交渉が進展するとの見通しから、リスク回避の動きが弱まり、ドルと原油価格が下落。一方、地政学的リスクの低下に対する不確実性から、安全資産としての金への需要が高まっている。金価格は、インフレヘッジとしての役割も果たすため、今後のインフレ動向にも左右される。米イラン間の交渉の進捗と、主要国の金融政策の方向性が注目される。",
+      "key_entities": [
+        "Gold",
+        "Dollar",
+        "Oil"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
       "title": "Oil market at 'tank bottoms' in Asia, and Europe isn't far behind, warns market veteran Jeff Currie",
       "region": "europe",
       "risk_level": "high",
-      "summary": "アジアの石油市場は在庫が逼迫しており、欧州も同様の状況に近づいていると専門家が警告。供給不足のリスクが高まっている。",
-      "analysis": "石油在庫の逼迫は、地政学的リスクの高まりと相まって、原油価格の急騰を招く可能性がある。特に、中東情勢が不安定な状況下では、供給ショックが発生するリスクが高い。エネルギー価格の高騰は、インフレを加速させ、世界経済の成長を阻害する要因となる。",
+      "summary": "アジアの石油市場は在庫が逼迫しており、欧州も同様の状況に近づいていると専門家が警告。供給不足のリスク。",
+      "analysis": "アジアと欧州の石油市場における在庫逼迫は、供給不足のリスクを高め、原油価格の急騰を招く可能性がある。特に、中東情勢の不安定化が供給に影響を与えれば、その影響はさらに深刻化する。原油価格の上昇は、インフレ圧力を高め、経済成長を抑制する要因となる。各国政府は、戦略備蓄の放出や代替エネルギーの活用など、供給不足への対策を講じる必要がある。中東地域の地政学的リスクと、主要産油国の生産動向が注目される。",
       "key_entities": [
-        "原油",
-        "アジア",
-        "欧州",
+        "Oil",
         "Jeff Currie"
       ],
       "sources": [
@@ -96,71 +73,16 @@
       ]
     },
     {
-      "title": "Here are the 3 big things we're watching in the stock market in the week ahead",
-      "region": "global",
+      "title": "Indonesia blocks Polymarket, calling prediction market online gambling in disguise",
+      "region": "southeast_asia",
       "risk_level": "medium",
-      "summary": "今週の株式市場の注目点は、AIのソフトウェアへの影響とインフレに関する議論。市場の変動性が高まる可能性。",
-      "analysis": "AI関連銘柄の過熱感と、インフレ動向に対する不確実性が、株式市場のボラティリティを高める要因となる。FRBの金融政策に関する手がかりを探る動きが活発化し、経済指標の結果に市場が敏感に反応する可能性がある。特に、PCEデフレーターの結果が注目される。",
+      "summary": "インドネシアが予測市場Polymarketをオンラインギャンブルとみなし、アクセスを遮断。暗号資産規制の不確実性。",
+      "analysis": "インドネシアによるPolymarketの遮断は、暗号資産関連サービスの規制に対する不確実性を示している。予測市場は、情報収集や意思決定に役立つ可能性がある一方、ギャンブルとしての側面も持ち合わせているため、規制当局の判断が分かれる。今回の措置は、他の国々における暗号資産規制の動向にも影響を与える可能性がある。各国の規制当局の動向と、暗号資産関連サービスの法的地位が注目される。",
       "key_entities": [
-        "AI",
-        "インフレ",
-        "FRB",
-        "株式市場"
+        "Polymarket"
       ],
       "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "China tech plays to ride out macro volatility",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "中国株式市場では、マクロ経済の変動に関わらず、AI関連銘柄に注目が集まっている。",
-      "analysis": "中国政府によるAI産業への積極的な投資と支援が、AI関連銘柄の成長を後押ししている。しかし、過度な期待が先行し、バブルが発生するリスクも存在する。米中間の技術覇権争いが激化した場合、中国のAI産業に悪影響を及ぼす可能性もある。",
-      "key_entities": [
-        "中国",
-        "AI",
-        "中国株式市場"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Strategy Pauses Bitcoin Buying as $1.5B Bond Repurchase Takes Priority",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "ある投資戦略が、15億ドルの債券買い戻しを優先するため、ビットコインの購入を一時停止。",
-      "analysis": "この戦略の変更は、ビットコイン市場への資金流入を一時的に減少させる可能性がある。しかし、債券買い戻しが完了すれば、再びビットコイン購入を再開する可能性もある。企業の財務戦略の変化が、暗号資産市場に影響を与える事例として注目される。",
-      "key_entities": [
-        "ビットコイン",
-        "債券"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Birkenstock (BIRK) Soars 33% on $250M Buyback",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Birkenstockが2.5億ドルの自社株買いを発表し、株価が33%急騰。",
-      "analysis": "自社株買いは、株主還元策としてポジティブに評価されることが多い。しかし、企業の成長戦略や財務状況によっては、将来的な投資機会を逸する可能性もある。株価の急騰は、短期的な市場の反応であり、長期的な成長を保証するものではない。",
-      "key_entities": [
-        "Birkenstock",
-        "自社株買い"
-      ],
-      "sources": [
-        "Yahoo Finance"
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -170,14 +92,13 @@
       "title": "PCE, jobless claims and housing data test Fed cut hopes: Crypto Week Ahead",
       "region": "global",
       "risk_level": "medium",
-      "summary": "PCE、失業保険申請件数、住宅データがFRBの利下げ期待を試す。暗号資産市場もこれらの指標に注目。",
-      "analysis": "FRBの金融政策は、暗号資産市場にも大きな影響を与える。インフレ指標が予想を上回れば、FRBは利下げを先送りする可能性が高まり、暗号資産市場は下落する可能性がある。逆に、インフレが鈍化すれば、利下げ期待が高まり、暗号資産市場は上昇する可能性がある。",
+      "summary": "米国のPCE、失業保険申請件数、住宅データが、FRBの利下げ期待を試す展開。暗号資産市場への影響も注視。",
+      "analysis": "米国の経済指標は、FRBの金融政策の方向性を左右する重要な要素となる。PCE（個人消費支出）デフレーターは、インフレの動向を示す指標であり、FRBの利下げ判断に大きな影響を与える。失業保険申請件数は、労働市場の状況を示す指標であり、景気後退のリスクを判断する上で重要となる。住宅データは、住宅市場の状況を示す指標であり、金利動向に敏感に反応する。これらの経済指標の結果次第では、FRBの利下げ期待が後退し、暗号資産市場を含む金融市場全体に影響を与える可能性がある。FRBの金融政策の動向と、米国の経済指標の結果が注目される。",
       "key_entities": [
         "PCE",
-        "失業保険申請件数",
-        "住宅データ",
-        "FRB",
-        "暗号資産"
+        "Jobless claims",
+        "Housing data",
+        "Fed"
       ],
       "sources": [
         "CoinDesk"
@@ -185,15 +106,85 @@
       "source_types": [
         "media"
       ]
+    },
+    {
+      "title": "HYPE funds attract millions as investors dump bitcoin and ether ETFs",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ビットコインやイーサリアムのETFから資金が流出し、HYPEファンドに資金が流入。投資家のリスク選好の変化。",
+      "analysis": "ビットコインやイーサリアムのETFからの資金流出とHYPEファンドへの資金流入は、投資家のリスク選好の変化を示唆している。HYPEファンドは、特定のテーマやトレンドに特化した投資を行うため、リスクが高いとされる。今回の資金移動は、短期的な利益を追求する投資家が増加していることを示している可能性がある。ただし、HYPEファンドは、市場の変動に敏感であり、価格が急落するリスクも考慮する必要がある。市場のセンチメントと、HYPEファンドのパフォーマンスが注目される。",
+      "key_entities": [
+        "Bitcoin",
+        "Ether",
+        "HYPE funds"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "AI is speeding up the quantum threat to crypto, security experts warn",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "AIの進化により、量子コンピュータによる暗号資産への攻撃リスクが加速。セキュリティ対策の重要性が高まる。",
+      "analysis": "AIの進化は、量子コンピュータの開発を加速させ、暗号資産のセキュリティに対する脅威を高めている。量子コンピュータは、従来のコンピュータでは解読困難な暗号を解読できる可能性があるため、暗号資産の秘密鍵が盗まれ、不正送金が行われるリスクがある。暗号資産関連企業は、量子コンピュータに対抗するためのセキュリティ対策を強化する必要がある。量子コンピュータの開発動向と、暗号資産のセキュリティ対策の進展が注目される。",
+      "key_entities": [
+        "AI",
+        "Quantum computer",
+        "Crypto"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Beware the boom and bust cycle of memory stocks, investors warn amid AI excitement",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "AIブームの中でメモリ株の好調が続くが、投資家は過去のサイクルを警告。長期的な視点が必要。",
+      "analysis": "AIブームにより、メモリ株の需要が急増し、価格が上昇している。しかし、メモリ市場は、過去に何度もブームと不況を繰り返しており、現在の好調がいつまで続くかは不透明である。投資家は、短期的な利益に目を奪われず、長期的な視点を持って投資判断を行う必要がある。メモリ市場の需給バランスと、AI関連技術の進展が注目される。",
+      "key_entities": [
+        "Memory stocks",
+        "AI"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Japan’s Nikkei 225 tops 65,000 for first time as oil falls on Hormuz reopening hopes",
+      "region": "east_asia",
+      "risk_level": "low",
+      "summary": "ホルムズ海峡再開への期待から原油価格が下落し、日本の日経平均株価が史上最高値を更新。リスクオンの流れ。",
+      "analysis": "ホルムズ海峡の再開への期待は、原油価格の下落を招き、インフレ圧力を緩和する要因となる。原油価格の下落は、企業収益の改善や消費者の購買意欲の向上につながり、経済成長を促進する可能性がある。日経平均株価の史上最高値更新は、日本の経済状況に対する投資家の信頼感を示している。ただし、ホルムズ海峡の再開が実現しない場合や、原油価格が再び上昇した場合は、市場のセンチメントが悪化する可能性がある。中東地域の地政学的リスクと、日本の経済指標の結果が注目される。",
+      "key_entities": [
+        "Nikkei 225",
+        "Oil"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
     }
   ],
   "region_risk_map": {
-    "global": "medium",
-    "north_america": "low",
+    "global": "high",
+    "north_america": "medium",
     "europe": "high",
-    "east_asia": "medium"
+    "east_asia": "low"
   },
-  "generated_at": "2026-05-25T15:16:33.594678",
+  "generated_at": "2026-05-25T19:46:58.595389",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
