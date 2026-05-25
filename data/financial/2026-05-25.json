@@ -1,18 +1,18 @@
 {
   "date": "2026-05-25",
-  "summary": "原油価格の急落と米中間の緊張緩和の兆しにより、市場心理は改善。日経平均株価は高値を更新。しかし、米国におけるインフレ圧力と債務問題、暗号資産市場のボラティリティ、地政学的リスクは依然として金融市場に影響を与えている。",
+  "summary": "2026年5月25日の金融・経済リスク概況：米国とイランの交渉進展期待から株式市場は上昇、原油価格は下落。しかし、原油供給逼迫の懸念や、安定コインのリスク、AI関連株の過熱感など、複数のリスク要因が依然として存在し、注意が必要。",
   "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "Japan’s Nikkei 225 tops 65,000 for first time as oil falls on Hormuz reopening hopes",
-      "region": "east_asia",
+      "title": "European stocks highest since March 2 as U.S.-Iran talks continue",
+      "region": "europe",
       "risk_level": "low",
-      "summary": "ホルムズ海峡再開への期待から原油価格が急落し、日経平均株価が65,000円を突破。リスクセンチメントが改善。",
-      "analysis": "原油価格の下落は、インフレ懸念の緩和と企業収益の改善期待につながり、株式市場を押し上げた。ただし、取引量が少ない中での上昇であり、今後の地政学的リスクや原油価格の変動には注意が必要。日経平均株価は高値を更新したが、持続的な上昇にはさらなる経済指標の改善が求められる。",
+      "summary": "米国とイランの交渉継続を受け、欧州株式市場は3月2日以来の高水準を記録。アジア市場も同様に上昇。",
+      "analysis": "米国とイランの交渉進展への期待感が、リスクオンセンチメントを刺激し、欧州株式市場を押し上げている。しかし、交渉の行方次第では市場のセンチメントが急変する可能性もあり、注意が必要。特に、エネルギー価格の変動は、欧州経済に大きな影響を与えるため、今後の動向を注視する必要がある。",
       "key_entities": [
-        "日経平均株価",
-        "原油価格",
-        "ホルムズ海峡"
+        "Nikkei 225",
+        "米国",
+        "イラン"
       ],
       "sources": [
         "CNBC - Top News"
@@ -22,16 +22,125 @@
       ]
     },
     {
-      "title": "Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner'",
+      "title": "Gas Shortages Are Coming, and Chevron's CEO Says Economies Will Have to Slow. These Consumer Stocks Are Most at Risk.",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "シェブロンCEOが、ガス供給不足が迫っており、経済減速が必要になると警告。消費関連株が最もリスクにさらされる。",
+      "analysis": "エネルギー供給不足は、インフレを加速させ、消費者の購買力を低下させる可能性がある。特に、エネルギー価格に敏感な消費関連株は、大きな打撃を受ける可能性がある。企業は、サプライチェーンの多様化や、エネルギー効率の改善など、供給不足への対策を講じる必要がある。また、政府は、エネルギー政策の見直しや、代替エネルギーへの投資を促進する必要がある。",
+      "key_entities": [
+        "Chevron",
+        "消費関連企業"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Stablecoins Are Private Money. That’s Why They’re a Risk to the Economy.",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "安定コインはプライベートマネーであり、経済にとってリスクであるとの指摘。",
+      "analysis": "安定コインは、その価値が法定通貨に連動しているにもかかわらず、規制の枠組みが整っていないため、マネーロンダリングやテロ資金供与のリスクがある。また、安定コインの発行体が破綻した場合、投資家保護の仕組みが不十分であるため、金融システム全体に影響を与える可能性がある。各国政府は、安定コインに対する規制を強化し、金融システムの安定性を確保する必要がある。",
+      "key_entities": [
+        "安定コイン",
+        "法定通貨"
+      ],
+      "sources": [
+        "Yahoo Finance",
+        "WSJ"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Oil Slides as Ships Move Toward Hormuz",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ホルムズ海峡への船舶移動に伴い、原油価格が下落。",
+      "analysis": "ホルムズ海峡の安全確保への期待感が、原油価格の下落を招いている。しかし、地政学的リスクは依然として高く、状況が急変する可能性もある。特に、中東地域の緊張が高まれば、原油価格が急騰し、世界経済に大きな影響を与える可能性がある。企業は、原油価格の変動リスクに備え、ヘッジ戦略などを検討する必要がある。",
+      "key_entities": [
+        "ホルムズ海峡",
+        "原油"
+      ],
+      "sources": [
+        "Yahoo Finance",
+        "WSJ"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Gold rises as dollar, oil ease on U.S.-Iran deal prospects",
       "region": "middle_east",
       "risk_level": "low",
-      "summary": "トランプ大統領がイランとの協議が建設的に進んでいると発言し、原油価格が5%下落。ホルムズ海峡の開放合意が近いと示唆。",
-      "analysis": "イランとの和平合意の可能性は、原油供給の安定化期待を高め、原油価格を押し下げた。しかし、合意内容の詳細や履行状況によっては、市場の変動性が高まる可能性もある。地政学的リスクの緩和は、世界経済の安定に寄与するが、今後の動向を注視する必要がある。",
+      "summary": "米国とイランの合意期待でドルと原油が下落する中、金価格が上昇。",
+      "analysis": "米国とイランの合意期待は、リスク回避の動きを弱め、安全資産である金への需要を高めている。しかし、合意が実現しなかった場合、金価格は下落する可能性がある。投資家は、地政学的リスクの動向を注視し、慎重な投資判断を行う必要がある。",
       "key_entities": [
-        "原油価格",
-        "トランプ大統領",
-        "イラン",
-        "ホルムズ海峡"
+        "金",
+        "ドル",
+        "原油",
+        "米国",
+        "イラン"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "India turns to Latin American, African oil after Hormuz disruption",
+      "region": "south_asia",
+      "risk_level": "medium",
+      "summary": "ホルムズ海峡の混乱を受け、インドがラテンアメリカ、アフリカの原油に目を向ける。",
+      "analysis": "ホルムズ海峡の混乱は、インドのエネルギー供給に影響を与えており、供給源の多様化が急務となっている。ラテンアメリカやアフリカからの原油調達は、供給リスクを軽減する効果があるが、輸送コストや政治リスクなどを考慮する必要がある。インド政府は、エネルギー安全保障を強化するため、長期的なエネルギー戦略を策定する必要がある。",
+      "key_entities": [
+        "インド",
+        "ホルムズ海峡",
+        "ラテンアメリカ",
+        "アフリカ",
+        "原油"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Singapore reports lower-than-expected inflation for April at 1.8%, revises economic growth higher",
+      "region": "southeast_asia",
+      "risk_level": "low",
+      "summary": "シンガポールが4月のインフレ率を予想を下回る1.8%と発表、経済成長見通しを上方修正。",
+      "analysis": "シンガポールのインフレ率低下は、金融引き締め政策の効果が現れていることを示唆している。経済成長見通しの上方修正は、シンガポール経済の底堅さを示している。しかし、世界経済の減速や、地政学的リスクなど、外部環境の変化には注意が必要である。",
+      "key_entities": [
+        "シンガポール",
+        "インフレ率",
+        "経済成長"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Beware the boom and bust cycle of memory stocks, investors warn amid AI boom",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "AIブームの中、メモリ株の好況と不況のサイクルに注意するよう投資家が警告。",
+      "analysis": "AIブームは、メモリ需要を急増させているが、メモリ市場は供給過剰になりやすく、価格変動が激しい。投資家は、メモリ株の過熱感に注意し、慎重な投資判断を行う必要がある。特に、メモリメーカーの業績は、市況に大きく左右されるため、長期的な視点での投資が重要である。",
+      "key_entities": [
+        "メモリ株",
+        "AI"
       ],
       "sources": [
         "CNBC - Top News"
@@ -44,33 +153,15 @@
       "title": "Americans are 'entrenched' in financial stress amid debt and price pressures",
       "region": "global",
       "risk_level": "medium",
-      "summary": "インフレと高水準の債務により、多くのアメリカ人が経済的なストレスを感じている。債務管理支援の必要性が高まっている。",
-      "analysis": "インフレと高債務は、消費者の購買力を低下させ、経済成長の足かせとなる可能性がある。特に低所得者層への影響が大きく、社会不安につながるリスクもある。債務管理支援の強化や、インフレ抑制策の実施が急務である。",
+      "summary": "アメリカ人は、債務と物価上昇の圧力の中で、経済的ストレスに苦しんでいる。",
+      "analysis": "インフレと高水準の債務は、アメリカ人の家計を圧迫しており、経済的ストレスを高めている。特に、低所得者層は、生活必需品の価格上昇に苦しんでおり、債務返済が困難になっている。政府は、インフレ抑制策や、債務軽減策などを実施し、家計の負担を軽減する必要がある。",
       "key_entities": [
+        "アメリカ",
         "インフレ",
-        "債務",
-        "消費者"
+        "債務"
       ],
       "sources": [
         "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "ビットコインが74,300ドルまで下落。スポットETFから2週間で22.6億ドルの資金が流出。",
-      "analysis": "ビットコイン価格の下落とETFからの資金流出は、暗号資産市場全体のセンチメント悪化を示唆する。規制の不確実性、マクロ経済の変動、技術的な課題などが複合的に影響していると考えられる。今後の市場動向には注意が必要であり、投資家はリスク管理を徹底すべきである。",
-      "key_entities": [
-        "ビットコイン",
-        "スポットETF",
-        "暗号資産市場"
-      ],
-      "sources": [
-        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -80,13 +171,12 @@
       "title": "AI is speeding up the quantum threat to crypto, security experts warn",
       "region": "global",
       "risk_level": "medium",
-      "summary": "AIの進化により、量子コンピュータによる暗号資産への脅威が加速しているとセキュリティ専門家が警告。",
-      "analysis": "量子コンピュータの発展は、既存の暗号化技術を無効化する可能性があり、暗号資産のセキュリティに対する重大なリスクとなる。AIの活用により、量子コンピュータの開発が加速しているため、早急な対策が必要である。量子耐性のある暗号技術への移行や、セキュリティプロトコルの強化が求められる。",
+      "summary": "AIが量子コンピュータによる暗号資産への脅威を加速させているとセキュリティ専門家が警告。",
+      "analysis": "量子コンピュータの発展は、現在の暗号技術を無効化する可能性があり、暗号資産のセキュリティを脅かす。AIは、量子コンピュータの開発を加速させる可能性があり、暗号資産のリスクを高める。暗号資産業界は、量子コンピュータ耐性のある暗号技術の開発を急ぐ必要がある。",
       "key_entities": [
         "AI",
         "量子コンピュータ",
-        "暗号資産",
-        "セキュリティ"
+        "暗号資産"
       ],
       "sources": [
         "CoinDesk"
@@ -94,113 +184,15 @@
       "source_types": [
         "media"
       ]
-    },
-    {
-      "title": "The Middle East war is testing the Gulf's ambitions to become an AI hub",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "中東戦争の影響で、データセンターへの攻撃やエネルギー価格の高騰が、湾岸地域のAIハブとしての野心を試している。",
-      "analysis": "地政学的リスクは、AIインフラの安定的な運用を阻害し、投資意欲を減退させる可能性がある。データセンターのセキュリティ強化や、エネルギー供給の安定化が課題となる。中東地域におけるAI産業の発展には、地政学的リスクの軽減が不可欠である。",
-      "key_entities": [
-        "中東戦争",
-        "AI",
-        "データセンター",
-        "エネルギー価格"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "APECでの米中間の意見の相違は、貿易関係における緊張が依然として高いことを示唆。",
-      "analysis": "米中間の貿易摩擦は、世界経済の成長を阻害する要因となる。関税の引き上げや貿易制限は、サプライチェーンの混乱やインフレを引き起こす可能性がある。両国間の対話と協力が求められるが、現状では緊張緩和の兆しは見られない。",
-      "key_entities": [
-        "米国",
-        "中国",
-        "APEC",
-        "貿易"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Nvidia says its forecast for $200 billion CPU market includes China",
-      "region": "east_asia",
-      "risk_level": "low",
-      "summary": "Nvidiaは、2000億ドルのCPU市場予測に中国が含まれていると発表。",
-      "analysis": "Nvidiaの中国市場への期待は、半導体需要の拡大を示唆する。しかし、米中間の貿易摩擦や技術規制の影響を受ける可能性もある。中国市場における競争激化や、地政学的リスクにも注意が必要である。",
-      "key_entities": [
-        "Nvidia",
-        "CPU",
-        "中国",
-        "半導体"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Norway Doubles Down on Oil and Gas as Europe Scrambles for Supply",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "ヨーロッパが供給確保に奔走する中、ノルウェーは石油とガスの増産に注力。",
-      "analysis": "ヨーロッパのエネルギー危機は、地政学的リスクとエネルギー安全保障の重要性を示唆する。ノルウェーの増産は、短期的には供給不足を緩和するが、長期的なエネルギー戦略としては持続可能性に課題が残る。再生可能エネルギーへの移行を加速する必要がある。",
-      "key_entities": [
-        "ノルウェー",
-        "石油",
-        "ガス",
-        "ヨーロッパ",
-        "エネルギー"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Suspect dead after opening fire near White House security checkpoint, Secret Service says",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "ホワイトハウス付近で発砲事件が発生し、容疑者が死亡。大統領に影響はなし。",
-      "analysis": "政治的な不安定要素となりうる事件。金融市場への直接的な影響は限定的と考えられるが、今後の類似事件の発生や、それに対する政府の対応によっては、市場心理が悪化する可能性もある。",
-      "key_entities": [
-        "ホワイトハウス",
-        "シークレットサービス",
-        "トランプ大統領"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
     }
   ],
   "region_risk_map": {
-    "global": "medium",
+    "global": "high",
     "north_america": "medium",
     "europe": "medium",
-    "east_asia": "medium",
-    "south_america": "none",
-    "africa": "none",
-    "middle_east": "low"
+    "east_asia": "low"
   },
-  "generated_at": "2026-05-25T04:10:43.257594",
+  "generated_at": "2026-05-25T10:16:56.978300",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

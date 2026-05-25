@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-25",
-    "summary": "中東情勢が緊迫化。イランを巡る米国の動きと、それに伴う周辺地域への影響が深刻化している。ウクライナ情勢も依然として不安定であり、地政学的リスクは全体的に高い水準を維持している。",
+    "summary": "ウクライナ情勢はロシアの攻撃激化とウクライナの反撃で緊張が継続。イランを巡る米国の動きも不透明。北朝鮮の動向も注視が必要。世界各地で紛争や政情不安が散見され、地政学リスクは高い水準。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "none",
-      "south_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "high",
       "central_asia": "none",
       "middle_east": "high",
-      "europe": "high",
+      "europe": "critical",
       "africa": "medium",
       "north_america": "medium",
-      "south_america": "none"
+      "south_america": "low"
     },
-    "generated_at": "2026-05-25T04:10:23.124060"
+    "generated_at": "2026-05-25T10:16:37.904999"
   },
   {
     "date": "2026-05-24",
