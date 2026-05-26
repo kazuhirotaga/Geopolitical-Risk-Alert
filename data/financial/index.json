@@ -1,19 +1,16 @@
 [
   {
     "date": "2026-05-26",
-    "summary": "中東情勢の緊迫化と緩和期待が交錯し、原油価格と金融市場に影響を与えている。米イラン交渉の進展に不確実性が残る一方、アジア市場は堅調。AI関連銘柄への熱狂と、それ以外の銘柄への関心の分散が見られる。",
-    "overall_risk_level": "medium",
+    "summary": "中東情勢緊迫化と米イラン和平交渉の不確実性から、原油価格が上昇し、株式市場は地域によって異なる反応を示しています。AI関連銘柄への注目は継続しつつ、金融引き締め長期化への懸念も残ります。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "global": "medium",
+      "global": "high",
       "north_america": "medium",
-      "europe": "medium",
-      "east_asia": "low",
-      "south_america": "none",
-      "africa": "none",
-      "middle_east": "high"
+      "europe": "high",
+      "east_asia": "medium"
     },
-    "generated_at": "2026-05-26T03:56:22.809477"
+    "generated_at": "2026-05-26T10:03:30.409116"
   },
   {
     "date": "2026-05-25",

@@ -1,17 +1,63 @@
 {
   "date": "2026-05-26",
-  "summary": "中東情勢が極めて不安定化。米イラン間の軍事衝突が継続し、イスラエルとヒズボラの緊張も高まる。ウクライナ情勢も悪化の一途をたどり、ロシアがキーウへの攻撃を警告。世界的な地政学リスクが高まっている。",
-  "overall_risk_level": "critical",
+  "summary": "イランを巡る米国の軍事行動と交渉の並行、ウクライナ情勢の激化、北朝鮮のミサイル発射など、地政学的リスクが複合的に高まっている。エネルギー安全保障を巡る新たな枠組みも模索される中、世界的な緊張状態が継続。",
+  "overall_risk_level": "high",
   "articles": [
     {
       "title": "米軍がイラン船舶やミサイル施設攻撃 “自衛のため”",
       "region": "middle_east",
       "risk_level": "critical",
-      "summary": "米中央軍がイラン南部で機雷敷設中の船舶やミサイル施設を標的に自衛のための攻撃を実施。米イラン間の緊張がエスカレート。",
-      "analysis": "アメリカ軍によるイランへの直接的な軍事攻撃は、両国間の緊張を著しく高める。交渉が行われている最中での攻撃であり、交渉の行方を不透明にするだけでなく、全面的な軍事衝突のリスクを高める。イランは報復措置を取る可能性が高く、中東地域の不安定化は避けられない。原油価格の高騰や、航路の封鎖など、世界経済への影響も懸念される。",
+      "summary": "米軍がイラン南部で船舶やミサイル施設を標的に自衛のための攻撃を実施。イランとの交渉が行われる中で緊張が高まっている。",
+      "analysis": "米国がイラン国内の標的に対して軍事攻撃を行ったことは、交渉の進展を阻害する可能性が高い。米国は自衛を主張しているが、イラン側はこれを挑発と受け止める可能性があり、偶発的な衝突のリスクが高まっている。ホルムズ海峡付近での攻撃は、原油価格の高騰を招き、世界経済に悪影響を及ぼす可能性がある。交渉の行方次第では、更なる軍事衝突に発展する危険性も否定できない。",
       "key_entities": [
-        "アメリカ中央軍",
-        "イラン"
+        "アメリカ",
+        "イラン",
+        "トランプ大統領",
+        "アメリカ中央軍"
+      ],
+      "sources": [
+        "NHK World",
+        "BBC - World",
+        "Al Jazeera"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "ロシア ウクライナに軍事侵攻（5月26日の動き）",
+      "region": "europe",
+      "risk_level": "critical",
+      "summary": "ロシアによるウクライナへの軍事侵攻が継続。ロシアが首都キーウへの攻撃を示唆し、外交官に退避を警告するなど緊張が高まっている。",
+      "analysis": "ロシアがキーウへの攻撃を示唆したことは、紛争のエスカレーションを意味する。特に、新型弾道ミサイル「オレシュニク」の使用は、民間人への被害を拡大させる可能性があり、国際法違反の疑いも生じる。外交官への退避警告は、攻撃が差し迫っていることを示唆しており、ウクライナ情勢は極めて不安定な状況にある。NATO諸国への影響も懸念される。",
+      "key_entities": [
+        "ロシア",
+        "ウクライナ",
+        "ゼレンスキー大統領",
+        "NATO"
+      ],
+      "sources": [
+        "NHK World",
+        "BBC - World",
+        "国連ニュース"
+      ],
+      "source_types": [
+        "media",
+        "international_org"
+      ]
+    },
+    {
+      "title": "北朝鮮が黄海に向け短距離の弾道ミサイルなど発射 韓国軍発表",
+      "region": "east_asia",
+      "risk_level": "high",
+      "summary": "北朝鮮が黄海に向けて短距離弾道ミサイルを発射。日米韓が情報共有を進めている。",
+      "analysis": "北朝鮮による弾道ミサイル発射は、地域の緊張を高める行為であり、国連安保理決議違反である。特に、米国との対話が停滞する中で、軍事的な挑発を繰り返すことで、交渉を有利に進めようとする意図が見られる。日米韓の連携強化は、北朝鮮に対する抑止力を高める効果が期待されるが、同時に北朝鮮の反発を招く可能性もある。",
+      "key_entities": [
+        "北朝鮮",
+        "韓国",
+        "日本",
+        "アメリカ",
+        "キム・ジョンウン総書記"
       ],
       "sources": [
         "NHK World"
@@ -21,37 +67,20 @@
       ]
     },
     {
-      "title": "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "ネタニヤフ首相の指示により、イスラエル軍がレバノンにおけるヒズボラへの攻撃を強化。地域紛争のリスクが増大。",
-      "analysis": "イスラエルによるヒズボラへの攻撃強化は、レバノン国内の不安定化を招き、地域全体を巻き込む紛争に発展する可能性を孕んでいる。ヒズボラはイランの支援を受けており、イスラエルとイランの代理戦争の様相を呈する可能性もある。ガザ地区での戦闘も継続しており、イスラエル周辺の安全保障環境は極めて厳しい状況にある。",
+      "title": "日米豪印外相 エネルギーや重要鉱物協力の新枠組み創設で合意",
+      "region": "south_asia",
+      "risk_level": "medium",
+      "summary": "クアッド外相会合で、インド太平洋地域のエネルギー安全保障と重要鉱物の安定供給に向けた新たな協力枠組み創設で合意。",
+      "analysis": "クアッドによるエネルギー・鉱物資源協力は、中国への依存度を下げることを目的とした経済安全保障上の重要な取り組みである。しかし、中国はこれを牽制とみなし、対抗措置を講じる可能性もある。また、資源獲得競争が激化することで、地域紛争のリスクが高まる可能性も否定できない。",
       "key_entities": [
-        "イスラエル",
-        "ネタニヤフ",
-        "ヒズボラ",
-        "レバノン"
+        "日本",
+        "アメリカ",
+        "オーストラリア",
+        "インド",
+        "クアッド"
       ],
       "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "ロシア 在キーウ外交官らに退避を警告 ウクライナ側は強く反発",
-      "region": "europe",
-      "risk_level": "high",
-      "summary": "ロシア外務省がキーウ攻撃を示唆し、外交官らに退避を警告。ウクライナ側は強く反発し、緊張が高まっている。",
-      "analysis": "ロシアによるキーウへの攻撃警告は、ウクライナ情勢のエスカレーションを意味する。ロシアが新型弾道ミサイルを使用しているとの報道もあり、攻撃の激化が懸念される。外交官への退避勧告は、攻撃が差し迫っていることを示唆しており、国際社会は事態の悪化を注視する必要がある。NATO諸国への影響も考慮する必要がある。",
-      "key_entities": [
-        "ロシア",
-        "ウクライナ"
-      ],
-      "sources": [
-        "NHK World",
-        "BBC - World"
+        "NHK World"
       ],
       "source_types": [
         "media"
@@ -59,16 +88,15 @@
     },
     {
       "title": "中国習主席とパキスタン首相が会談 イラン情勢で意見交換",
-      "region": "east_asia",
+      "region": "middle_east",
       "risk_level": "medium",
-      "summary": "中国の習近平国家主席とパキスタンのシャリフ首相がイラン情勢について意見交換。パキスタンは米イラン間の仲介役を担っている。",
-      "analysis": "中国がパキスタンを通じてイラン情勢に関与することは、中東地域における中国の影響力拡大を意味する。パキスタンは伝統的に中国と友好的な関係にあり、中国はパキスタンを通じて中東地域へのアクセスを強化している。アメリカとイランの対立が激化する中、中国がどのような役割を果たすかが注目される。",
+      "summary": "中国の習近平国家主席がパキスタンのシャリフ首相と会談し、イラン情勢について意見交換。パキスタン軍参謀長は米イラン協議の合意が近いとの認識を示す。",
+      "analysis": "中国がパキスタンを通じてイラン情勢に関与することは、中東地域における影響力拡大の意図を示すものと考えられる。パキスタンが仲介役を担うことで、米イラン間の緊張緩和に貢献する可能性もあるが、同時に中国のプレゼンスが高まることで、地域バランスが変化する可能性もある。",
       "key_entities": [
         "中国",
-        "習近平",
         "パキスタン",
-        "シャリフ",
-        "イラン"
+        "習近平国家主席",
+        "シャリフ首相"
       ],
       "sources": [
         "NHK World"
@@ -80,9 +108,9 @@
     {
       "title": "NPT再検討会議「最終文書」採択できず閉会 米とイランが対立",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "NPT再検討会議が米イランの対立により最終文書を採択できずに閉会。核軍縮の停滞とNPT体制への信頼低下が懸念される。",
-      "analysis": "NPT再検討会議の失敗は、核軍縮に向けた国際的な努力の停滞を示す。米イランの対立が背景にあり、両国間の緊張が核不拡散体制にも影響を与えている。NPT体制への信頼が揺らぐことで、各国が核兵器開発に傾斜するリスクが高まる。特に、中東地域における核拡散の懸念が高まっている。",
+      "risk_level": "high",
+      "summary": "NPT再検討会議が米イランの対立により最終文書を採択できずに閉会。NPT体制への信頼が揺らぎ、核軍縮が停滞する可能性。",
+      "analysis": "NPT再検討会議の失敗は、国際的な核不拡散体制の弱体化を意味する。米イランの対立が根深いことを示しており、イランの核開発を巡る懸念が再燃する可能性がある。また、他の核保有国も軍縮へのインセンティブを失い、核軍拡競争のリスクが高まる。",
       "key_entities": [
         "アメリカ",
         "イラン",
@@ -98,33 +126,15 @@
       ]
     },
     {
-      "title": "パキスタン南西部で爆発23人死亡 反政府武装勢力が犯行声明",
-      "region": "south_asia",
+      "title": "NATO加盟国 ホルムズ海峡へ艦船派遣の準備進める” 事務総長",
+      "region": "middle_east",
       "risk_level": "medium",
-      "summary": "パキスタン南西部で列車爆破事件が発生し23人死亡。反政府武装勢力が犯行声明を出し、テロ事件として捜査。",
-      "analysis": "パキスタンにおけるテロ事件は、国内の不安定化を招き、周辺地域への影響も懸念される。反政府武装勢力の活動が活発化しており、政府の治安維持能力が問われる。特に、アフガニスタンとの国境地域におけるテロ活動は、地域全体の安全保障環境を悪化させる可能性がある。",
+      "summary": "NATO加盟国がホルムズ海峡への艦船派遣を準備。アメリカがNATOの対応に不満を示す中での動き。",
+      "analysis": "NATO加盟国によるホルムズ海峡への艦船派遣は、航行の自由を確保し、原油供給を安定させることを目的とする。しかし、イランはこれを自国に対する脅威とみなし、対抗措置を講じる可能性もある。アメリカとNATOの連携が不十分な場合、地域における抑止力が低下し、偶発的な衝突のリスクが高まる。",
       "key_entities": [
-        "パキスタン",
-        "反政府武装勢力"
-      ],
-      "sources": [
-        "NHK World",
-        "BBC - World"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "ゼレンスキー大統領“軍事関連企業を攻撃”長距離攻撃を強化へ",
-      "region": "europe",
-      "risk_level": "high",
-      "summary": "ウクライナのゼレンスキー大統領が、ロシアの軍事関連企業への攻撃を明らかにし、長距離攻撃を強化する方針を示す。",
-      "analysis": "ウクライナによるロシア領内への攻撃は、紛争のエスカレーションを招き、ロシアによる報復攻撃を誘発する可能性が高い。特に、軍事関連企業への攻撃は、ロシアの軍事能力を低下させることを目的としており、ロシアはこれを看過しないだろう。両国間の緊張はさらに高まり、長期化する可能性が高まっている。",
-      "key_entities": [
-        "ウクライナ",
-        "ゼレンスキー",
-        "ロシア"
+        "NATO",
+        "アメリカ",
+        "イラン"
       ],
       "sources": [
         "NHK World"
@@ -134,48 +144,52 @@
       ]
     },
     {
-      "title": "Tensions rise in Bolivia as protesters march toward presidential palace",
-      "region": "south_america",
-      "risk_level": "medium",
-      "summary": "ボリビアで抗議デモが激化し、大統領府に向かって行進。警察が封鎖線を維持し、緊張が高まっている。",
-      "analysis": "ボリビアにおける政治的緊張は、国内の不安定化を招き、周辺国への影響も懸念される。抗議デモの原因は不明だが、政府に対する不満が高まっていることが背景にあると考えられる。政府はデモ隊との対話を通じて、事態の沈静化を図る必要がある。",
-      "key_entities": [
-        "ボリビア",
-        "大統領"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Cost of living crisis reshapes Eid spending in Nigeria",
-      "region": "africa",
-      "risk_level": "low",
-      "summary": "ナイジェリアの生活費危機が、イードの支出を変化させている。家族は支出を調整し、祝賀を削減。",
-      "analysis": "ナイジェリアの経済状況の悪化は、社会不安を招き、政治的安定を損なう可能性がある。生活費の上昇は、国民の不満を高め、政府に対する抗議活動につながる可能性もある。政府は経済対策を講じ、国民の生活を支援する必要がある。",
-      "key_entities": [
-        "ナイジェリア"
-      ],
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Istanbul’s Bilgi University reopened after police crackdown",
+      "title": "ローマ教皇 就任後初の重要文書 AIの軍事利用に懸念示す",
       "region": "global",
-      "risk_level": "low",
-      "summary": "警察の取り締まり後、イスタンブールのビルギ大学が再開。学生たちは、大学を閉鎖する命令に対する抗議活動を行った。",
-      "analysis": "トルコにおける大学閉鎖と学生の抗議活動は、政府の言論統制に対する抵抗を示す。政府は学生の抗議活動を抑圧するのではなく、対話を通じて解決を図るべきである。大学の自治は、民主主義社会における重要な要素であり、政府はこれを尊重する必要がある。",
+      "risk_level": "medium",
+      "summary": "ローマ教皇がAIの軍事利用に懸念を示す重要文書を発表。",
+      "analysis": "ローマ教皇によるAIの軍事利用への懸念表明は、国際社会における倫理的な議論を喚起する可能性がある。AI兵器の開発・使用は、人間の判断を介さない殺傷能力を持つ兵器の登場を意味し、誤作動や暴走のリスクがある。国際的な規制枠組みの構築が急務である。",
       "key_entities": [
-        "トルコ"
+        "ローマ教皇",
+        "AI"
       ],
       "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "パキスタン南西部で爆発23人死亡 反政府武装勢力が犯行声明",
+      "region": "south_asia",
+      "risk_level": "medium",
+      "summary": "パキスタン南西部で鉄道爆破事件が発生し、反政府武装勢力が犯行声明を出した。",
+      "analysis": "パキスタンにおけるテロ事件は、国内の不安定化を招き、周辺地域への影響も懸念される。特に、分離独立を求める武装勢力の活動は、国家の統一を脅かす要因となる。パキスタン政府は、テロ対策を強化するとともに、地域住民の不満を解消するための取り組みを進める必要がある。",
+      "key_entities": [
+        "パキスタン",
+        "反政府武装勢力"
+      ],
+      "sources": [
+        "NHK World"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "US launches new strikes on Iran, targeting missile sites and boats",
+      "region": "middle_east",
+      "risk_level": "critical",
+      "summary": "US Central Command says the strikes were taken in \"self-defence\". It comes as senior Iranian negotiators are in Qatar for talks to end the war.",
+      "analysis": "The US strikes on Iranian targets, while framed as self-defense, significantly escalate tensions and undermine ongoing peace talks in Qatar. The timing of the strikes, coinciding with negotiations, suggests a deliberate attempt to exert pressure on Iran. This increases the risk of miscalculation and further military escalation, potentially derailing any prospects for a ceasefire. The attacks near the Strait of Hormuz raise concerns about disruptions to global oil supplies.",
+      "key_entities": [
+        "US",
+        "Iran",
+        "US Central Command"
+      ],
+      "sources": [
+        "BBC - World",
         "Al Jazeera"
       ],
       "source_types": [
@@ -184,17 +198,17 @@
     }
   ],
   "region_risk_map": {
-    "east_asia": "medium",
+    "east_asia": "high",
     "southeast_asia": "none",
     "south_asia": "medium",
     "central_asia": "none",
     "middle_east": "critical",
-    "europe": "high",
+    "europe": "critical",
     "africa": "low",
     "north_america": "medium",
-    "south_america": "medium"
+    "south_america": "low"
   },
-  "generated_at": "2026-05-26T03:55:58.237616",
+  "generated_at": "2026-05-26T10:03:08.574142",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

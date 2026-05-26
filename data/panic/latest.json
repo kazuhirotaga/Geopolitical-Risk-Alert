@@ -1,189 +1,152 @@
 {
   "date": "2026-05-26",
-  "summary": "世界各地で食料・エネルギー不足、金融不安、治安悪化を原因とする社会不安やパニックが顕著です。特にアフリカ南部では略奪行為が報告され、バングラデシュではATMの現金枯渇が発生し、市民生活に深刻な影響が出ています。インドでは水不足に対する大規模デモ、イギリスでは燃料供給不安が高まるなど、広範囲で警戒を要する状況にあります。全体として、局地的なパニックが散見され、一部地域では社会秩序が揺らいでいます。",
-  "global_panic_index": 72,
+  "summary": "世界各地で、生活基盤に関わる資源不足（水、燃料、食料関連資材）に起因する大規模な抗議活動や、ATMの現金不足、さらには暴動といった社会不安が顕在化しています。特に南アジアとアフリカでは複数の国で多様な問題が複合的に発生し、中東でも根深い社会不安が継続。金融システム全体への潜在的な取り付け騒ぎへの警戒も指摘されており、地域によっては緊迫した状況が常態化しています。",
+  "global_panic_index": 65,
   "regions": [
     {
-      "region": "southeast_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "金融システム不安、現金不足",
-      "incidents": [
-        {
-          "title": "Clients suffer as ATMs run dry",
-          "location": "Bangladesh",
-          "severity": 85,
-          "description": "バングラデシュでATMから現金が供給されず、多くの利用者が困窮しています。これは取り付け騒ぎに準じる金融システムへの不信とパニックを引き起こしています。",
-          "source": "newagebd.net"
-        },
-        {
-          "title": "ATM booths run dry on first day of weeklong holiday",
-          "location": "Bangladesh",
-          "severity": 85,
-          "description": "長期休暇の初日にATMの現金が枯渇し、市民が銀行サービスを利用できない状況です。生活必需品の購入にも影響が出ており、強い不安を誘発しています。",
-          "source": "The Daily Star"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "資源不足（水、農業資材）、生活コスト",
-      "incidents": [
-        {
-          "title": "Water war erupts in PA as tensions flood the house",
-          "location": "Pakistan",
-          "severity": 80,
-          "description": "パキスタンで水不足を巡る「水戦争」が発生し、地域社会内で深刻な緊張と衝突が起こっています。生活基盤の欠如が直接的な暴力に繋がっています。",
-          "source": "The Express Tribune"
-        },
-        {
-          "title": "Congress protests water shortage in Jaipur amid heatwave",
-          "location": "India, Jaipur",
-          "severity": 70,
-          "description": "熱波に見舞われるジャイプールで深刻な水不足に対し、政党が抗議デモを実施。市民の生活に直結する資源の欠如が大きな社会不安を引き起こしています。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "Seed, fertiliser shortage sparks BKS protest",
-          "location": "India",
-          "severity": 70,
-          "description": "インドで種子と肥料の不足が農業従事者の大規模な抗議活動を引き起こしています。食料生産の基盤が揺らぎ、将来的な食料不安への懸念が高まっています。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "No shortage yet in TN petrol pumps, but inventory window shrinks",
-          "location": "India, Tamil Nadu",
-          "severity": 60,
-          "description": "タミル・ナードゥ州のガソリンスタンドではまだ不足はないものの、在庫期間が縮小しており、将来的な燃料不足への懸念と不安が指摘されています。",
-          "source": "The New Indian Express"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 88,
-      "status": "critical",
-      "main_cause": "治安悪化、不法移民問題、社会経済的ストレス",
-      "incidents": [
-        {
-          "title": "Planned shutdown overshadowed by looting, gang activity in Bloemfontein",
-          "location": "South Africa, Bloemfontein",
-          "severity": 90,
-          "description": "南アフリカのブルームフォンテインで予定された閉鎖が略奪とギャング活動によって影を潜めました。これは社会秩序の崩壊と広範なパニックを示唆しています。",
-          "source": "OFM News"
-        },
-        {
-          "title": "Government moves to calm fears of unrest ahead of June 30th illegal immigration deadline",
-          "location": "South Africa",
-          "severity": 80,
-          "description": "南アフリカ政府が、不法移民の期限前に社会不安が広がる恐れがあるとして、沈静化に動いています。これは広範囲な社会緊張と潜在的パニックを示唆します。",
-          "source": "EWN"
-        },
-        {
-          "title": "Sultanate Council denies viral video of palace protest",
-          "location": "Nigeria",
-          "severity": 40,
-          "description": "ナイジェリアで宮殿抗議デモの動画が拡散されましたが、評議会はこれを否定。情報が錯綜する中で、潜在的な社会不安の兆候が見られます。",
-          "source": "The Guardian Nigeria News"
-        }
-      ]
-    },
-    {
       "region": "europe",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "エネルギー供給不安、生活コスト、治安悪化",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "エネルギー不足への懸念",
       "incidents": [
         {
-          "title": "Could Britain run out of fuel? ‘Red zone’ warning raises shortage fears",
-          "location": "UK",
-          "severity": 75,
-          "description": "英国で燃料不足の可能性について「レッドゾーン」警告が出され、供給不安が深刻化しています。これは買いだめや社会機能の停滞を招く恐れがあり、高い警戒が必要です。",
-          "source": "MSN"
-        },
-        {
-          "title": "West Lothian youths 'running riot' at council building as staff hit 'panic button'",
-          "location": "Scotland, West Lothian",
-          "severity": 65,
-          "description": "スコットランドのウェスト・ロージアンで若者たちが庁舎で暴れ、職員がパニックボタンを押す事態に。小規模ながらも治安悪化と公共施設の安全への脅威を示しています。",
-          "source": "Edinburgh Live"
-        },
-        {
-          "title": "Madrid protesters decry rising rents and housing shortage",
-          "location": "Spain, Madrid",
-          "severity": 55,
-          "description": "マドリードで家賃高騰と住宅不足に抗議するデモが発生。生活コストの増加が市民の不満を高め、社会不安の背景となっています。",
-          "source": "DW.com"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 60,
-      "status": "volatile",
-      "main_cause": "政治的抑圧と社会不安",
-      "incidents": [
-        {
-          "title": "What we know about Iran’s execution linked to the January 2026 protests",
-          "location": "Iran",
+          "title": "英国での燃料不足懸念",
+          "location": "イギリス",
           "severity": 60,
-          "description": "イランでは2026年1月の抗議活動に関連する処刑が報じられ、過去の社会不安と政治的抑圧が依然として深い影響を与えていることを示唆しています。",
-          "source": "Latest news from Azerbaijan"
-        },
-        {
-          "title": "Iranian president orders restoration of internet access to pre-protest level",
-          "location": "Iran",
-          "severity": 50,
-          "description": "イラン大統領が抗議活動前のインターネット接続レベルへの回復を指示。これは以前に大規模な抗議活動があり、情報統制が行われたことを示唆し、潜在的な社会不安が継続しています。",
-          "source": "usmuslims.com"
-        }
-      ]
-    },
-    {
-      "region": "south_america",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "政治的対立、社会不安",
-      "incidents": [
-        {
-          "title": "Bolivia protesters allied with ex-leader Morales clash with police as unrest widens",
-          "location": "Bolivia",
-          "severity": 70,
-          "description": "ボリビアでエボ・モラレス元大統領支持派の抗議デモが警察と衝突し、社会不安が拡大しています。政治的対立が暴力的な混乱に発展する危険性を示しています。",
+          "description": "英国で燃料不足のリスクが「レッドゾーン」に達するとの警告が出ており、供給網への懸念から国民の不安が高まる可能性がある。現在のところ実際の不足は確認されていないが、政府は状況を注視している。",
           "source": "MSN"
-        },
-        {
-          "title": "Venezuela Prison Protest: What's Behind the Unrest",
-          "location": "Venezuela",
-          "severity": 50,
-          "description": "ベネズエラの刑務所で抗議活動が発生しており、その背景にある社会不安が指摘されています。限定的な場所での抗議ですが、広範な社会問題の兆候と見られます。",
-          "source": "TradeKaizen"
         }
       ]
     },
     {
       "region": "north_america",
       "panic_index": 20,
-      "status": "stable",
-      "main_cause": "政治的対立 (党派内)",
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 65,
+      "status": "unstable",
+      "main_cause": "社会不安の継続、政治的抑圧",
       "incidents": [
         {
-          "title": "Meeks predicts GOP defections as Trump faces party unrest",
-          "location": "US",
-          "severity": 20,
-          "description": "トランプ氏が党内の不安に直面する中、共和党からの離脱が予測されています。これは政治的な党派内の動揺であり、社会全体のパニックには繋がっていません。",
-          "source": "MSN"
+          "title": "イランにおける社会不安の継続",
+          "location": "イラン",
+          "severity": 70,
+          "description": "イランでは政権のプロパガンダの下で社会不安が継続していると報じられており、国民の不満が根深いことを示唆している。過去の抗議活動の再燃も懸念される状況。",
+          "source": "irannewsupdate.com"
+        },
+        {
+          "title": "イラン大統領によるインターネットアクセス制限解除命令",
+          "location": "イラン",
+          "severity": 60,
+          "description": "イラン大統領が抗議活動以前のレベルにインターネットアクセスを回復するよう命じたとの報道。これは過去に大規模な抗議活動があり、それに対してインターネット規制が敷かれていたことを示している。",
+          "source": "Anadolu Ajansı"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 0,
-      "status": "normal",
-      "main_cause": "該当なし",
-      "incidents": []
+      "region": "africa",
+      "panic_index": 75,
+      "status": "critical",
+      "main_cause": "暴動、反移民感情、社会騒乱",
+      "incidents": [
+        {
+          "title": "コンゴでエボラセンター抗議に暴徒化",
+          "location": "コンゴ",
+          "severity": 90,
+          "description": "コンゴでエボラ治療センターへの抗議活動が暴徒化し、地域に混乱と暴力が広がっている。公衆衛生問題に対する不満が、社会の不安定要因と結びつき爆発した形。",
+          "source": "Mwakilishi.com"
+        },
+        {
+          "title": "南アフリカで反移民騒乱への懸念",
+          "location": "南アフリカ",
+          "severity": 75,
+          "description": "不法移民問題の期限が迫る中、政府が社会騒乱の沈静化を図る動きを見せている。政府が警戒するほど、反移民感情が社会不安を引き起こす可能性が高まっている。",
+          "source": "EWN"
+        },
+        {
+          "title": "南アフリカ、反移民不安に対し法的な抗議と行動計画を呼びかけ",
+          "location": "南アフリカ",
+          "severity": 70,
+          "description": "反移民の騒乱が続く中、JCPS大臣らが法的な抗議と国家行動計画の迅速な実施を呼びかけている。これは反移民感情が広範な社会不安を引き起こしていることを示唆。",
+          "source": "Joburg ETC"
+        },
+        {
+          "title": "ナイジェリア、宮殿抗議のフェイク動画を否定",
+          "location": "ナイジェリア",
+          "severity": 60,
+          "description": "スルタン評議会が宮殿への抗議デモを映したとされる動画がデマであると否定。動画の真偽に関わらず、このような噂が拡散する背景には、社会に不満や不安が存在している可能性がある。",
+          "source": "The Guardian Nigeria News"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "社会不安の背景にある問題",
+      "incidents": [
+        {
+          "title": "ベネズエラ、刑務所抗議の背景にある社会不安",
+          "location": "ベネズエラ",
+          "severity": 70,
+          "description": "ベネズエラの刑務所での抗議活動は、単なる施設内の問題ではなく、広範な社会不安の兆候であると報じられている。社会の根深い問題が表面化している可能性。",
+          "source": "TradeKaizen"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "資源不足、金融不安、大規模抗議",
+      "incidents": [
+        {
+          "title": "インドとネパール国境で燃料不足と密輸、ガソリンスタンド枯渇",
+          "location": "インド/ネパール国境",
+          "severity": 85,
+          "description": "インドのウッタルプラデーシュ州国境地域で燃料がネパールへ密輸され、現地ガソリンスタンドが枯渇。価格も高騰しており、住民生活に深刻な影響とパニックを引き起こしている。",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "バングラデシュ、祝日中にATMの現金が枯渇",
+          "location": "ダッカ、バングラデシュ",
+          "severity": 80,
+          "description": "祝日のラッシュ時にダッカのATMから現金が不足し、国民の間に金融不安を誘発する可能性がある。生活必需品購入などへの影響が懸念される。",
+          "source": "businesstimes-bd.com"
+        },
+        {
+          "title": "カラチの水不足を巡りシンド州議会で混乱",
+          "location": "カラチ、パキスタン",
+          "severity": 75,
+          "description": "パキスタン・シンド州議会でカラチの水不足問題を巡り騒動が発生。深刻な水不足が市民の不満を高め、政治的な混乱にまで発展していることを示している。",
+          "source": "Dawn"
+        },
+        {
+          "title": "インド、種子・肥料不足が農民の抗議デモを誘発",
+          "location": "インド",
+          "severity": 70,
+          "description": "インドで種子や肥料の不足が深刻化し、農民組合（BKS）が抗議デモを実施。農業生産への直接的な影響は食料不安に直結し、広範な社会不安の原因となる。",
+          "source": "The Times of India"
+        },
+        {
+          "title": "インド・ハンプで象の移動に反対し住民パニック",
+          "location": "ハンプ、インド",
+          "severity": 65,
+          "description": "インドのハンプで寺院の象ラクシュミーの移動に地元住民が反対し、「パニック」に陥っていると報じられた。文化的な象徴に対する強い感情が地域的な混乱を引き起こしている。",
+          "source": "The New Indian Express"
+        }
+      ]
     }
   ]
 }
