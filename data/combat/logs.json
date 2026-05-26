@@ -1,5 +1,90 @@
 [
   {
+    "date": "2026-05-26",
+    "summary": "ウクライナ周辺での軍事活動活発化、NATOとロシア間の緊張状態が継続。米軍の欧州からの段階的撤退と、東欧における防衛体制構築の動きが見られる。トルコの軍事演習にリビア、シリアが参加。",
+    "events": [
+      {
+        "id": "event-001",
+        "timestamp": "2026-05-20",
+        "location": "エストニア",
+        "region": "europe",
+        "title": "NATO軍機がエストニア上空でウクライナのドローンを撃墜",
+        "content": "エストニア上空で領空侵犯が発生。NATO軍（ルーマニア空軍F-16）がウクライナ所属のドローンを迎撃、撃墜。領空侵犯のエスカレーション。",
+        "involved_parties": [
+          "NATO",
+          "ウクライナ"
+        ],
+        "event_type": "clash",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/19/nato-jet-shoots-down-ukrainian-drone-over-estonia-in-escalation-of-airspace-violations/"
+      },
+      {
+        "id": "event-002",
+        "timestamp": "2026-05-20",
+        "location": "リトアニア・ビリニュス",
+        "region": "europe",
+        "title": "リトアニアでドローン侵入、議会関係者が避難、航空交通が中断",
+        "content": "リトアニアの領空がドローンによって侵害され、首都ビリニュスでは議会関係者が避難し、航空交通が一時的に中断。バルト海地域における一連の安全保障上の事件の最新事例。",
+        "involved_parties": [
+          "リトアニア"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/20/lithuanian-lawmakers-shelter-vilnius-air-traffic-suspended-due-to-drone-incursion/"
+      },
+      {
+        "id": "event-003",
+        "timestamp": "2026-05-20",
+        "location": "ベラルーシ",
+        "region": "europe",
+        "title": "ロシアがベラルーシを含む地域で予告なしの核演習を実施",
+        "content": "ロシアが予告なしの核演習を開始。ベラルーシのミサイル発射施設も含まれる。ロシアは国内外に対し、軍事力誇示と外交を両立させる姿勢。",
+        "involved_parties": [
+          "ロシア",
+          "ベラルーシ"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/20/russia-launches-unannounced-nuclear-exercise-including-belarusian-launch-sites/"
+      },
+      {
+        "id": "event-004",
+        "timestamp": "2026-05-22",
+        "location": "不明",
+        "region": "middle_east",
+        "title": "リビアとシリアがトルコの軍事演習に初参加",
+        "content": "トルコが主催する軍事演習にリビアとシリアが初めて参加。トルコは、両国の参加をそれぞれの国における軍事再編とアドバイザリープログラムの一環と位置付け。",
+        "involved_parties": [
+          "トルコ",
+          "リビア",
+          "シリア"
+        ],
+        "event_type": "other",
+        "urgency": "low",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/22/libya-and-syria-join-turkeys-flagship-military-exercise-in-historic-firsts/"
+      },
+      {
+        "id": "event-005",
+        "timestamp": "2026-05-22",
+        "location": "不明",
+        "region": "europe",
+        "title": "米議会報告書、「オペレーション・エピック・フューリー」で米軍機42機が損失または損傷",
+        "content": "米議会報告書によると、「オペレーション・エピック・フューリー」において、米軍機42機が損失または損傷。ドローンが最も多く、損失数のうち25機を占める。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-25",
     "summary": "ウクライナ周辺での軍事活動が活発化。ロシアは核演習を実施し、NATOは東部での抑止戦略を強化。エストニアではウクライナのドローンが撃墜されるなど、緊張が高まっている。",
     "events": [
@@ -4086,75 +4171,6 @@
         "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/industry/techwatch/2026/04/23/in-first-ukrainian-unmanned-vessel-launches-interceptor-to-knock-out-shahed-drone/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-25",
-    "summary": "ウクライナで地上ロボットの活用が進みロシア軍陣地を初めて占拠。米海軍はイランへ向かう貨物船を砲撃。米国は中東に空母3隻を展開。欧州では弾道ミサイル開発の動き、NATOはAWACSの機種転換を検討。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-04-24",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ軍、地上ロボットを前線での兵站に導入",
-        "content": "ウクライナ軍は兵士の代替として、25,000機の地上ロボットを前線に投入する計画。3月には9,000回以上の前線ミッションを実行し、昨年夏には初めてロシア軍の拠点を制圧した。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "ロシア軍"
-        ],
-        "event_type": "clash",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/unmanned/2026/04/24/ukraine-to-field-25000-ground-robots-in-push-to-replace-soldiers-for-frontline-logistics/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-23",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ無人艇がShahedドローンを撃墜",
-        "content": "ウクライナの無人艇が迎撃ミサイルを発射し、Shahedドローンを撃墜。将来の交渉においてロシアの譲歩を抑えるための新たな防衛手段となる可能性がある。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "ロシア軍"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/industry/techwatch/2026/04/23/in-first-ukrainian-unmanned-vessel-launches-interceptor-to-knock-out-shahed-drone/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-04-20",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "アメリカ海軍駆逐艦、イランへ向かう貨物船を攻撃",
-        "content": "アメリカ海軍駆逐艦USS Spruanceが、イランの港へ向かおうとした貨物船Touskaのエンジンルームに5インチ砲を数発発砲し、推進力を奪った。",
-        "involved_parties": [
-          "アメリカ海軍",
-          "イラン"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/20/us-navy-destroyer-fires-on-cargo-vessel-attempting-to-sail-to-iranian-port/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-04-18",
-        "location": "ホルムズ海峡",
-        "region": "middle_east",
-        "title": "ホルムズ海峡で船舶への銃撃事件発生、イランが海峡を再封鎖",
-        "content": "土曜日、ホルムズ海峡を通過しようとした商船がイラン海軍から無線で通行を許可しないとのメッセージを受け取った。また、船舶が銃撃を受けたと報告されている。",
-        "involved_parties": [
-          "イラン海軍"
-        ],
-        "event_type": "clash",
-        "urgency": "critical",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/18/vessels-report-being-hit-by-gunfire-as-iran-says-strait-of-hormuz-shut-again/"
       }
     ]
   }
