@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-05-27",
-    "summary": "原油価格の変動、インフレ懸念、暗号資産市場の動向が注目される。SnowflakeのAmazonクラウドへの巨額投資やMicronの好調など、個別企業の動向も市場に影響を与えている。地政学的リスクも引き続き警戒が必要。",
+    "summary": "世界経済はインフレ指標の発表を控え、金融市場は神経質な動き。中東情勢の不安定化、暗号資産市場の規制動向、企業業績の明暗など、複合的なリスク要因が混在し、全体として中程度のリスクレベル。",
     "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "medium",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "medium"
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "medium",
+      "middle_east": "high"
     },
-    "generated_at": "2026-05-27T20:26:40.409307"
+    "generated_at": "2026-05-27T22:44:12.447943"
   },
   {
     "date": "2026-05-26",

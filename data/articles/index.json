@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-27",
-    "summary": "世界各地で地政学的緊張が高まっている。特に中東ではイスラエルとイランの対立が激化し、ウクライナ情勢も依然として不安定。東アジアでは北朝鮮のミサイル発射実験が継続され、台湾海峡の緊張も高まっている。",
+    "summary": "中東情勢が極めて不安定化。イスラエルとイランの代理戦争激化に加え、米国とイランの直接対立も深刻化。ウクライナ情勢も膠着状態が続き、地政学的リスクは全体的に高い。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "high",
       "southeast_asia": "medium",
-      "south_asia": "medium",
+      "south_asia": "low",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
       "africa": "medium",
-      "north_america": "medium",
+      "north_america": "low",
       "south_america": "none"
     },
-    "generated_at": "2026-05-27T20:26:20.589490"
+    "generated_at": "2026-05-27T22:43:50.113961"
   },
   {
     "date": "2026-05-26",
