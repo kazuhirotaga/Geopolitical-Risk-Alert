@@ -1,5 +1,90 @@
 [
   {
+    "date": "2026-05-27",
+    "summary": "アメリカ軍がイランに対して自衛のための攻撃を実施。リトアニア領空にドローン侵入。ロシアがベラルーシを含む核演習を実施。ウクライナ情勢を巡る動きも活発。",
+    "events": [
+      {
+        "id": "event-001",
+        "timestamp": "2026-05-26",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ軍によるイランへの自衛攻撃",
+        "content": "アメリカ軍が、イランのミサイル発射地点と機雷敷設を試みるボートに対して軍事攻撃を実施。停戦期間中に発生。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/26/us-launches-self-defense-strikes-against-iran-amid-ongoing-ceasefire/"
+      },
+      {
+        "id": "event-002",
+        "timestamp": "2026-05-20",
+        "location": "リトアニア、ビリニュス",
+        "region": "europe",
+        "title": "リトアニア領空へのドローン侵入",
+        "content": "リトアニアの領空がドローンによって侵害され、ビリニュスの航空交通が一時停止。議員らは避難を余儀なくされた。バルト海地域における一連のセキュリティ事件の一つ。",
+        "involved_parties": [
+          "不明",
+          "リトアニア"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/20/lithuanian-lawmakers-shelter-vilnius-air-traffic-suspended-due-to-drone-incursion/"
+      },
+      {
+        "id": "event-003",
+        "timestamp": "2026-05-20",
+        "location": "ロシア、ベラルーシ",
+        "region": "europe",
+        "title": "ロシアによる核演習",
+        "content": "ロシアが、ベラルーシの発射地点を含む、予告なしの核演習を実施。国内外へのメッセージ発信を目的とした動き。",
+        "involved_parties": [
+          "ロシア",
+          "ベラルーシ"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/20/russia-launches-unannounced-nuclear-exercise-including-belarusian-launch-sites/"
+      },
+      {
+        "id": "event-004",
+        "timestamp": "2026-05-22",
+        "location": "Operation Epic Fury",
+        "region": "unknown",
+        "title": "Operation Epic Furyにおける米軍航空機の損失",
+        "content": "議会報告書によると、Operation Epic Furyにおいて、米軍の航空機42機が損失または損傷。うち25機がドローン。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/"
+      },
+      {
+        "id": "event-005",
+        "timestamp": "2026-05-20",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "NATO東部抑止戦略",
+        "content": "NATOは東部における抑止戦略を策定。ウクライナにおける戦闘を教訓に、グレーゾーンでの活動を排除する。",
+        "involved_parties": [
+          "NATO",
+          "ウクライナ"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/20/nato-eastern-deterrence-strategy-takes-shape-around-autonomous-zone/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-26",
     "summary": "本日、米軍がイランに対して自衛的攻撃を実施。リトアニアではドローン侵入が発生し、ロシアは核演習を実施。米国はポーランドへの5000人規模の部隊派遣を発表し、NATOの東部抑止戦略が具体化。",
     "events": [
@@ -4103,74 +4188,6 @@
         "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/04/22/russia-could-be-ready-for-nato-conflict-year-after-ukraine-dutch-warn/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-26",
-    "summary": "ウクライナで地上ロボットの活用が進展。アメリカ海軍はイランに向かう貨物船を砲撃。中東地域ではアメリカの空母3隻が展開。欧州では弾道ミサイル開発の検討が進む。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-03",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ軍、地上ロボットの戦線投入を拡大",
-        "content": "3月に9,000回以上の戦線ミッションを実施。これは11月の3倍の数。昨年夏には初めてロシア軍の拠点をロボットが占拠。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "ロシア軍"
-        ],
-        "event_type": "occupy",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/unmanned/2026/04/24/ukraine-to-field-25000-ground-robots-in-push-to-replace-soldiers-for-frontline-logistics/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-20",
-        "location": "中東",
-        "region": "middle_east",
-        "title": "米海軍、イランへ向かう貨物船を攻撃",
-        "content": "米海軍の駆逐艦USS Spruanceが、イランの港へ向かおうとした貨物船Touskaのエンジンルームに5インチ砲を複数発射し、航行不能にしたとCENTCOMが発表。",
-        "involved_parties": [
-          "アメリカ海軍"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/20/us-navy-destroyer-fires-on-cargo-vessel-attempting-to-sail-to-iranian-port/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-04-24",
-        "location": "中東",
-        "region": "middle_east",
-        "title": "米空母3隻が中東に展開",
-        "content": "アメリカ軍の航空母艦3隻が、2003年以来初めて中央軍の担当地域で作戦行動を実施。",
-        "involved_parties": [
-          "アメリカ軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-04-23",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ、無人艇からShahedドローン迎撃ミサイルを発射",
-        "content": "ウクライナが無人艇からShahedドローンを撃墜する新しい防衛手段を初めて展開。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "ロシア軍"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/industry/techwatch/2026/04/23/in-first-ukrainian-unmanned-vessel-launches-interceptor-to-knock-out-shahed-drone/"
       }
     ]
   }
