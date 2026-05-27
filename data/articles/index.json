@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-27",
-    "summary": "中東、ウクライナ情勢緊迫化。イスラエルがレバノンで軍事作戦拡大の構えを見せる一方、米イラン間の停戦協議は難航。ウクライナではロシアの攻撃が激化し、ロシアはキーウへの攻撃を示唆。北朝鮮はミサイル発射実験を実施し、地政学的緊張が高まっている。",
+    "summary": "ウクライナ情勢の激化、中東におけるイスラエルとイランの緊張、北朝鮮のミサイル発射実験など、地政学リスクが複合的に高まっている。特にウクライナと中東の情勢は、国際的な安全保障と経済に深刻な影響を与える可能性が高い。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "low",
+      "southeast_asia": "medium",
       "south_asia": "medium",
-      "central_asia": "none",
+      "central_asia": "medium",
       "middle_east": "high",
-      "europe": "high",
+      "europe": "critical",
       "africa": "medium",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-27T04:10:04.603078"
+    "generated_at": "2026-05-27T10:00:12.711698"
   },
   {
     "date": "2026-05-26",

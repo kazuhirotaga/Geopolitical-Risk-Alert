@@ -1,16 +1,16 @@
 [
   {
     "date": "2026-05-27",
-    "summary": "株式市場はAI関連銘柄を中心に堅調。米S&P500、ナスダックは最高値を更新。日本、韓国も高値を記録。地政学的リスクとしてホルムズ海峡の閉鎖懸念が原油価格高騰の可能性を示唆。暗号資産市場はビットコインの需要低迷とETFからの資金流出が継続。",
-    "overall_risk_level": "medium",
+    "summary": "AI半導体ブームが継続する一方で、地政学的リスクと暗号資産市場の不安定化が顕著。ロシアのドローン対策法成立、中東和平交渉の不確実性、そしてDeFiへのAIハッキングリスク増大が懸念される。金利動向も市場に影響を与えている。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "global": "high",
-      "north_america": "medium",
+      "north_america": "low",
       "europe": "medium",
-      "east_asia": "medium"
+      "east_asia": "low"
     },
-    "generated_at": "2026-05-27T04:10:27.111610"
+    "generated_at": "2026-05-27T10:00:36.908646"
   },
   {
     "date": "2026-05-26",

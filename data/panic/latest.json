@@ -1,108 +1,116 @@
 {
   "date": "2026-05-27",
-  "summary": "世界各地でパニックや社会不安の兆候が見られ、地域によっては深刻な状況にあります。バングラデシュのATM現金枯渇は金融パニックの初期段階を示し、中東のガザ地区では水不足による人道的危機が続くなど、生活インフラの機能不全が顕著です。ベネズエラの刑務所暴動や、イギリス・インドでの水不足抗議、ドイツでの銀行労働者のストライキなど、多様な要因が社会の安定を揺るがしています。全体として、潜在的な金融不安や生活必需品不足が社会の緊張を高めており、警戒が必要な局面です。",
-  "global_panic_index": 65,
+  "summary": "世界各地で金融市場への警戒感や生活必需品不足による社会不安が報告されています。特に中東では水不足と政治的緊張が市民の抗議活動に繋がり、南アジアの一部ではATM現金不足が金融パニックの兆候を見せています。広範な社会インフラのマヒや無秩序な逃避といったレベルには至らないものの、複数の地域で警戒が必要な状況が続いています。",
+  "global_panic_index": 58,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 50,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "金融不安",
+      "main_cause": "金融市場への懸念、特定の物資不足",
       "incidents": [
         {
-          "title": "銀行の潜在的取り付け騒ぎへの警告",
-          "location": "米国（広範）",
-          "severity": 50,
-          "description": "ブルームバーグやアドバイザー・パースペクティブスが、銀行に対して高速度の取り付け騒ぎ（bank run）に備えるよう警告を発している。これは金融システムの潜在的な脆弱性を示唆しており、将来的な預金者の不安や金融パニックのリスクを高める可能性がある。",
-          "source": "Bloomberg / Advisor Perspectives"
+          "title": "ステーブルコインと取り付け騒ぎの警告",
+          "location": "グローバル（米国に拠点を持つ金融機関からの警告）",
+          "severity": 60,
+          "description": "ステーブルコインの市場規模が過去最高を記録する中、金融市場では取り付け騒ぎ（bank-run）の警告が強まっており、金融システムの安定性への懸念が高まっています。",
+          "source": "CryptoSlate"
+        },
+        {
+          "title": "銀行における急速な資金流出への備え",
+          "location": "グローバル（金融機関全体への警告）",
+          "severity": 60,
+          "description": "アドバイザーレポートが、銀行に対し急速な資金流出（High-Speed Run）への準備を促しており、潜在的な金融不安への対応が課題となっています。",
+          "source": "Advisor Perspectives"
+        },
+        {
+          "title": "合成モーターオイルの供給不足",
+          "location": "米国（グローバル市場への影響）",
+          "severity": 45,
+          "description": "合成モーターオイルの不足が2027年中頃まで続く可能性が指摘されており、自動車整備業界に影響が出ています。消費者の日常生活に間接的な不安を与えています。",
+          "source": "Automotive News"
         }
       ]
     },
     {
       "region": "south_america",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "国内治安の悪化、政治的混乱",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "治安の悪化",
       "incidents": [
         {
-          "title": "ベネズエラでの刑務所暴動調査",
+          "title": "ベネズエラ刑務所暴動の調査開始",
           "location": "ベネズエラ",
-          "severity": 75,
-          "description": "ベネズエラ当局が刑務所暴動の調査を開始し、政府は司法改革を推進している。これは国内の治安悪化と社会秩序の深刻な混乱を示しており、広範な国民の不安を助長する要因となっている。",
+          "severity": 55,
+          "description": "ベネズエラ当局が刑務所での暴動に対する調査を開始し、政府は司法改革を推進しています。これは国内の治安悪化と社会不安の兆候を示しています。",
           "source": "Venezuelanalysis"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "水不足、労働争議",
+      "region": "middle_east",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "人道危機、政治的・宗教的緊張",
       "incidents": [
         {
-          "title": "イギリスでの熱波中の水不足",
-          "location": "イギリス（南東部）",
-          "severity": 60,
-          "description": "イギリス南東部で熱波中に水道が枯渇し、給水会社が住民から強い批判を浴びている。生活必需品である水が供給停止になることは、住民に直接的な苦痛と強い不満をもたらし、社会不安を増大させる。",
-          "source": "The Telegraph"
+          "title": "ガザ地区での水不足抗議デモ",
+          "location": "ガザ地区",
+          "severity": 75,
+          "description": "イスラエルによる援助制限が続く中、ガザ地区のパレスチナ人が水不足に対して抗議デモを行っています。これは人道危機と市民の切迫した状況を反映しています。",
+          "source": "Middle East Eye"
         },
         {
-          "title": "ドイツの銀行労働者によるストライキと抗議",
-          "location": "ドイツ",
-          "severity": 45,
-          "description": "ドイツのポストバンクで新たな警告ストライキが発生し、ドイツ銀行の年次総会を前に抗議活動が展開されている。大手銀行での労働争議は、金融システムへの懸念を生み、社会的な不安定要素となりうる。",
-          "source": "marketscreener.com"
+          "title": "イスラエルによる宗教施設の接収",
+          "location": "イスラエル/パレスチナ（ナビ・サミュエル・モスク）",
+          "severity": 70,
+          "description": "イスラエルが歴史的なナビ・サミュエル・モスクをイスラム信託財産から接収したと報じられ、パレスチナ人からの強い反発と地域の緊張が高まっています。",
+          "source": "Middle East Eye"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 78,
-      "status": "volatile",
-      "main_cause": "紛争、人道的危機、政治的・宗教的緊張",
+      "region": "europe",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "生活インフラの不調",
       "incidents": [
         {
-          "title": "ガザ地区での水不足抗議",
-          "location": "ガザ地区",
-          "severity": 80,
-          "description": "イスラエルによる援助制限が続く中で、ガザ地区のパレスチナ人が深刻な水不足に抗議している。戦争状態にある地域での生存危機は絶望的な状況を生み、大規模な暴動や無秩序な逃避に繋がる危険性がある。",
-          "source": "Middle East Eye"
-        },
+          "title": "熱波中の断水に対する批判",
+          "location": "イギリス（南東部）",
+          "severity": 60,
+          "description": "熱波中に南東イングランド水道で断水が発生し、住民から厳しい批判が集まっています。生活に不可欠な水の供給停止は市民の不安を煽ります。",
+          "source": "The Telegraph"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "生活必需品の不足",
+      "incidents": [
         {
-          "title": "イスラエルによる宗教施設の強制掌握",
-          "location": "イスラエル/パレスチナ地域",
-          "severity": 70,
-          "description": "イスラエルが歴史的なナビ・サムエル・モスクをイスラム・ワクフから掌握した。これは非常に感情的な問題であり、地域住民の強い反発と不安を引き起こし、大規模な抗議活動や紛争再燃の火種となる可能性が高い。",
-          "source": "Middle East Eye / Haaretz"
+          "title": "インドでの水不足に対する住民抗議",
+          "location": "インド（ジャガトプラ）",
+          "severity": 60,
+          "description": "インドのジャガトプラ地域で、水不足に苦しむ住民が抗議活動を実施しています。生活に不可欠な資源の不足は、住民の大きな不安と不満を引き起こしています。",
+          "source": "The Times of India"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 67,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "金融不安、水不足、地域社会の対立",
+      "main_cause": "金融不安",
       "incidents": [
         {
-          "title": "バングラデシュ・ダッカでのATM現金枯渇",
+          "title": "ダッカのATMで現金枯渇",
           "location": "バングラデシュ（ダッカ）",
-          "severity": 85,
-          "description": "バングラデシュの首都ダッカでATMから現金が払底し、中央銀行の指示にもかかわらず顧客がパニック的に現金を探し求めている。これは金融システムへの信頼喪失と経済的な混乱を引き起こし、市民生活に深刻な影響を与えている。",
+          "severity": 70,
+          "description": "ダッカ市内のATMで現金が枯渇する事態が発生し、顧客が現金を求めて奔走しています。これは銀行システムへの不信感と取り付け騒ぎへの懸念を高めています。",
           "source": "The Financial Express"
-        },
-        {
-          "title": "インド・ジャガトプラでの水不足抗議",
-          "location": "インド（ジャガトプラ）",
-          "severity": 65,
-          "description": "インドのジャガトプラ地域で住民が深刻な水不足に抗議している。生活必需品の不足は、住民の強い不満と不安を引き起こし、広範な社会不安へと発展する可能性を秘めている。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "インド・ハンピでの象移動反対による地元住民のパニック",
-          "location": "インド（ハンピ）",
-          "severity": 50,
-          "description": "インドのハンピで、寺の象ラクシュミの移動に地元住民が強く反対し、パニック状態に陥っている。これは地域限定的だが、文化的・宗教的な問題が住民の感情を非常に高め、混乱を引き起こしている状況を示す。",
-          "source": "The New Indian Express"
         }
       ]
     }
