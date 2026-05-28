@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-28",
-    "summary": "中東情勢が極めて不安定。イランとイスラエルの衝突が継続し、アメリカも介入。ウクライナ情勢も緊迫しており、世界経済への影響が懸念される。東アジアでは、日米比の連携強化が進む一方、北朝鮮のミサイル発射が継続。",
-    "overall_risk_level": "critical",
+    "summary": "中東情勢が緊迫化。米イラン間の停戦協議は不確実性を増し、イスラエルのガザ地区支配拡大、レバノンへの攻撃など、地域紛争激化の懸念が高まる。ウクライナ情勢も膠着状態が続き、地政学的リスクは全体的に高水準。",
+    "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
-      "east_asia": "high",
+      "east_asia": "medium",
       "southeast_asia": "medium",
-      "south_asia": "medium",
+      "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "high",
-      "africa": "high",
+      "europe": "medium",
+      "africa": "medium",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-28T20:28:22.977950"
+    "generated_at": "2026-05-28T22:42:26.554869"
   },
   {
     "date": "2026-05-27",

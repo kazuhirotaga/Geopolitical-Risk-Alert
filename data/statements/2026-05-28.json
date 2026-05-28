@@ -1,66 +1,24 @@
 {
   "date": "2026-05-28",
-  "summary": "FRB関連のニュースが中心。特に、新議長の就任と金融政策に関する動向が注目される。個別の銀行職員に対する措置も発表されているが、市場全体への影響は限定的と見られる。",
+  "summary": "本日注目すべきは、FRB議長に就任したKevin Warsh氏の動向です。金融政策への影響が注目されます。その他、FRB関連の規制や執行に関する情報も発表されています。",
   "statements": [
     {
       "speaker": "Kevin Warsh",
       "title": "連邦準備制度理事会（FRB）議長",
-      "quote": "連邦準備制度理事会の議長および理事として就任し、連邦公開市場委員会（FOMC）の議長に全会一致で選出されました。",
-      "context": "就任時の宣誓式",
-      "analysis": "Kevin Warsh氏のFRB議長就任は、今後の金融政策の方向性を示す重要な出来事。FOMCでの全会一致での選出は、当面は安定的な政策運営が行われることを示唆する。市場はWarsh議長の今後の発言や政策手腕に注目するだろう。",
+      "quote": "連邦準備制度理事会の議長および理事として就任し、連邦公開市場委員会（FOMC）の議長に全会一致で選出された。",
+      "context": "FRB議長就任時の宣誓式",
+      "analysis": "Warsh氏の議長就任は、今後の金融政策の方向性を示唆する重要な出来事です。FOMCでの全会一致での選出は、当面は安定的な政策運営が行われる可能性を示唆しますが、今後の発言や政策決定を注視する必要があります。市場は、Warsh氏の金融政策に対するスタンスを見極めようとするでしょう。",
       "importance": "critical",
       "tags": [
         "金融政策",
         "FRB",
-        "議長",
-        "FOMC"
+        "FOMC",
+        "議長"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会",
-      "title": "政府機関",
-      "quote": "アトランティック・ユニオン銀行の元従業員とフロスト銀行の元従業員に対する執行措置を発表します。",
-      "context": "プレスリリース",
-      "analysis": "個別の銀行職員に対する執行措置は、金融機関のコンプライアンス遵守を促すためのもの。市場全体への直接的な影響は小さいと考えられるが、金融機関のリスク管理に対する監視が強化されていることを示唆する。",
-      "importance": "low",
-      "tags": [
-        "金融規制",
-        "コンプライアンス",
-        "銀行"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会",
-      "title": "政府機関",
-      "quote": "特定の国内外の銀行組織に対する破綻処理計画に関するフィードバックレターを公表します。",
-      "context": "プレスリリース",
-      "analysis": "銀行の破綻処理計画に関するフィードバックレターの公表は、金融システムの安定性を維持するための取り組みの一環。金融機関に対する規制強化の姿勢を示すものであり、長期的に金融システムの安定化に貢献すると考えられる。",
-      "importance": "medium",
-      "tags": [
-        "金融規制",
-        "破綻処理",
-        "銀行"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm"
-    },
-    {
-      "speaker": "連邦準備制度理事会",
-      "title": "政府機関",
-      "quote": "2026年4月20日と29日の理事会公定歩合会議の議事録。",
-      "context": "プレスリリース",
-      "analysis": "公定歩合会議の議事録公開は、金融政策の透明性を高めるためのもの。議事録の内容次第では、今後の金融政策の方向性に関する手がかりが得られる可能性があるため、市場関係者は詳細な分析を行うだろう。",
-      "importance": "medium",
-      "tags": [
-        "金融政策",
-        "公定歩合",
-        "FRB"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm"
     }
   ],
-  "generated_at": "2026-05-28T20:28:53.642071",
+  "generated_at": "2026-05-28T22:42:52.008386",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
