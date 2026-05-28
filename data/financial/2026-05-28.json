@@ -1,18 +1,19 @@
 {
   "date": "2026-05-28",
-  "summary": "中東情勢の緊迫化（米イラン間の緊張）が市場を揺るがし、原油価格や暗号資産市場に影響を与えている。インフレ懸念も根強く、金融市場全体に不確実性が高まっている。AI関連銘柄は引き続き注目を集めている。",
-  "overall_risk_level": "high",
+  "summary": "本日、米国イラン間の緊張緩和の兆しが見られる一方で、インフレ懸念は依然として残存。AI関連銘柄への資金流入が継続する一方、暗号資産市場は不安定な動き。米国の貯蓄率低下も懸念材料。",
+  "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "Oil prices pull back on report U.S.-Iran agreement to extend ceasefire awaits Trump approval",
+      "title": "Oil prices turn lower as U.S.-Iran ceasefire extension awaits Trump approval",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "米イラン間の停戦合意報道を受け、原油価格が一時下落。しかし、合意の不確実性から依然として市場は不安定。",
-      "analysis": "米イラン間の緊張緩和期待は原油価格に下押し圧力をかけるが、合意が頓挫すれば再び上昇する可能性が高い。地政学的リスクが原油市場に与える影響は大きく、投資家は動向を注視する必要がある。Bank of Americaは、和平合意の有無で原油価格のシナリオを分けて分析しており、投資家は両方の可能性に備えるべきである。",
+      "summary": "米国とイランの停戦合意延長報道を受け、原油価格が下落。中東地域の地政学的リスクが緩和される可能性。",
+      "analysis": "米国とイランの停戦合意延長の可能性は、原油市場に一時的な安定をもたらす可能性があります。しかし、トランプ大統領の承認待ちであり、合意が破棄された場合、再び地政学的リスクが高まり、原油価格が急騰する可能性があります。また、市場は米イラン間の核合意の可能性を織り込み始めていますが、実現可能性は依然として不透明です。今後の動向を注視する必要があります。",
       "key_entities": [
-        "U.S. Government",
-        "Iran Government",
-        "Oil Prices"
+        "米国",
+        "イラン",
+        "トランプ大統領",
+        "原油市場"
       ],
       "sources": [
         "CNBC - Top News"
@@ -22,15 +23,16 @@
       ]
     },
     {
-      "title": "AI play Nebius is surging after mysterious new hedge fund manager reveals stake. Here are his other holdings",
+      "title": "Americans’ savings rate falls to lowest level since 2022 as inflation outpaces paychecks",
       "region": "global",
       "risk_level": "medium",
-      "summary": "AI関連企業のNebius株が急騰。新たなヘッジファンドによる投資が判明し、AI分野への関心が高まっている。",
-      "analysis": "AI分野への投資は引き続き活発であり、Nebiusのような企業は成長の潜在力を持つ。しかし、AI分野は競争が激しく、技術革新のスピードも速いため、投資リスクも高い。FedのMusalemはAIがインフレを抑制するという見方に懐疑的であり、過度な期待は禁物である。",
+      "summary": "インフレ率が賃金上昇率を上回り、米国の貯蓄率が2022年以来の最低水準に低下。家計の経済的ストレスが増大。",
+      "analysis": "米国の貯蓄率低下は、個人消費の減速につながる可能性があります。インフレが継続する中で、消費者は貯蓄を取り崩して生活費を賄う必要に迫られており、将来的な経済成長の足かせとなる可能性があります。FRBの金融政策にも影響を与え、利上げのペースを緩める要因となる可能性もあります。今後のインフレ指標と賃金動向を注視する必要があります。",
       "key_entities": [
-        "Nebius",
-        "AI",
-        "Hedge Fund"
+        "米国",
+        "FRB",
+        "インフレ",
+        "個人消費"
       ],
       "sources": [
         "CNBC - Top News"
@@ -40,32 +42,15 @@
       ]
     },
     {
-      "title": "Micron and Sandisk aren't the only tech stocks booming — take a look at these 3 cybersecurity plays",
+      "title": "Dell shares jump 19% after server maker reports fastest sales growth since return to public market in 2018",
       "region": "global",
       "risk_level": "low",
-      "summary": "半導体だけでなく、サイバーセキュリティ関連株も好調。技術革新と需要拡大が背景にある。",
-      "analysis": "サイバーセキュリティは現代社会において不可欠な要素であり、関連企業の成長は今後も期待できる。しかし、市場競争は激しく、技術革新のスピードも速いため、企業選定は慎重に行う必要がある。",
+      "summary": "Dellのサーバー販売が好調で、株価が急騰。AI関連需要の増加が成長を牽引。",
+      "analysis": "Dellの株価急騰は、AI関連需要の拡大を反映しています。同社はGPUを搭載したサーバーの組み立てに注力しており、AI市場の成長の恩恵を受けています。ただし、AI市場は競争が激化しており、Dellが今後も高い成長率を維持できるかは不透明です。競合他社の動向や技術革新のスピードを注視する必要があります。",
       "key_entities": [
-        "Micron",
-        "Sandisk",
-        "Cybersecurity"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Gaming association says states have lost $1 billion in tax revenue due to prediction markets",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "予測市場の拡大により、各州の税収が減少。ギャンブル業界団体が規制強化を訴えている。",
-      "analysis": "予測市場は新しい投資形態として注目を集めているが、規制の不備や税収への影響が課題となっている。政府による規制強化が進む可能性があり、関連企業のビジネスモデルに影響を与える可能性がある。",
-      "key_entities": [
-        "Gaming Association",
-        "Prediction Markets"
+        "Dell",
+        "AI",
+        "GPU"
       ],
       "sources": [
         "CNBC - Top News"
@@ -75,14 +60,16 @@
       ]
     },
     {
-      "title": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows",
+      "title": "U.S. government is reportedly set to invest in drone industry. These are Wall Street’s favorite plays",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "4月のコアインフレ率は年率3.3%と予想通り。FRBはインフレ動向を注視し、利上げの可能性も残る。",
-      "analysis": "インフレ率は依然としてFRBの目標水準を上回っており、利上げの可能性が残る。インフレが収まらない場合、金融引き締めが強化され、景気後退のリスクが高まる可能性がある。",
+      "risk_level": "low",
+      "summary": "米国政府がドローン産業への投資を検討。Unusual MachinesやMotorola Solutionsなどが恩恵を受けると予想。",
+      "analysis": "米国政府のドローン産業への投資は、関連企業の株価上昇を促す可能性があります。特に、Unusual MachinesやMotorola Solutionsなどの企業は、政府からの資金援助や契約獲得の可能性が高く、成長が期待されます。ただし、ドローン産業は規制が厳しく、技術革新のスピードも速いため、投資には注意が必要です。",
       "key_entities": [
-        "Federal Reserve",
-        "Inflation"
+        "米国政府",
+        "ドローン産業",
+        "Unusual Machines",
+        "Motorola Solutions"
       ],
       "sources": [
         "CNBC - Top News"
@@ -92,15 +79,34 @@
       ]
     },
     {
-      "title": "Bitcoin pinned below $73,000 despite potential U.S.-Iran deal news",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "米イラン間の和平交渉の進展にもかかわらず、ビットコイン価格は73,000ドルを下回る。地政学的リスクが暗号資産市場に影響。",
-      "analysis": "地政学的リスクの高まりは、暗号資産市場にネガティブな影響を与える。米イラン間の緊張緩和期待は一時的に価格を押し上げる可能性があるが、根本的なリスクは解消されていない。BlackRockのビットコインETFからの大規模な資金流出も、市場心理を悪化させている。",
+      "title": "Red-hot Arm Holdings soars to another all-time high. What's fueling the move this time?",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "Arm Holdingsの株価が史上最高値を更新。市場の関心の高さを示唆。",
+      "analysis": "Arm Holdingsの株価上昇は、半導体市場の成長と、同社の技術的優位性を反映しています。特に、AIやIoTなどの分野での需要拡大が、Arm Holdingsの成長を牽引しています。ただし、半導体市場は景気変動の影響を受けやすく、Arm Holdingsの株価も変動する可能性があります。",
       "key_entities": [
-        "Bitcoin",
-        "U.S. Government",
-        "Iran Government"
+        "Arm Holdings",
+        "半導体市場",
+        "AI",
+        "IoT"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "暗号資産取引会社FalconXがSECにIPOを申請。暗号資産市場の成熟を示す兆候。",
+      "analysis": "FalconXのIPO申請は、暗号資産市場が成熟し、機関投資家の関心が高まっていることを示唆しています。ただし、暗号資産市場は規制が厳しく、価格変動も大きいため、FalconXのIPOが成功するかどうかは不透明です。SECの審査結果や市場の反応を注視する必要があります。",
+      "key_entities": [
+        "FalconX",
+        "SEC",
+        "暗号資産市場"
       ],
       "sources": [
         "CoinDesk"
@@ -110,18 +116,56 @@
       ]
     },
     {
-      "title": "US inflation firming as Iran war drives up prices",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イラン戦争が物価を押し上げ、米国のインフレを加速させている。",
-      "analysis": "中東の地政学的リスクは、サプライチェーンの混乱を通じてインフレを悪化させる可能性がある。原油価格の上昇は、輸送コストやエネルギー価格の上昇につながり、広範囲にわたる物価上昇を引き起こす。",
+      "title": "CFTC sues Rhode Island over actions against prediction markets",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "CFTCが予測市場に対する規制権限を巡りロードアイランド州を提訴。規制の不確実性が高まる。",
+      "analysis": "CFTCによるロードアイランド州の提訴は、予測市場に対する規制の不確実性を示唆しています。規制当局と州政府の間で意見の相違があり、予測市場の発展を阻害する可能性があります。今後の訴訟の行方や規制の動向を注視する必要があります。",
       "key_entities": [
-        "Inflation",
-        "Iran",
-        "U.S. Government"
+        "CFTC",
+        "ロードアイランド州",
+        "予測市場"
       ],
       "sources": [
-        "Yahoo Finance"
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules",
+      "region": "europe",
+      "risk_level": "medium",
+      "summary": "UniCreditが、MiCA規則下で欧州が暗号資産関連銀行の危機を抑制するのに苦労する可能性があると警告。",
+      "analysis": "UniCreditの警告は、MiCA規則が暗号資産関連銀行の危機に対応する上で十分ではない可能性があることを示唆しています。暗号資産市場の急速な成長と複雑さにより、既存の規制枠組みではリスクを十分に管理できない可能性があります。規制当局は、MiCA規則を強化し、暗号資産関連銀行に対する監督を強化する必要があるかもしれません。",
+      "key_entities": [
+        "UniCredit",
+        "MiCA",
+        "暗号資産関連銀行",
+        "欧州"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "The wealthiest investors are pulling money out of the U.S. in the 'de-dollarization' trade",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "富裕層投資家が米国から資金を引き揚げ。AIバブル、関税、ドル安、不安定な経済政策、債務増加などが要因。",
+      "analysis": "富裕層投資家の米国からの資金引き揚げは、米国の経済見通しに対する懸念の高まりを示唆しています。AIバブル、関税、ドル安、不安定な経済政策、債務増加などの要因が複合的に影響しており、米国の投資環境が悪化している可能性があります。ドルの価値が下落し、米国経済の競争力が低下する可能性があります。今後の経済政策や市場の動向を注視する必要があります。",
+      "key_entities": [
+        "米国",
+        "ドル",
+        "AI",
+        "関税"
+      ],
+      "sources": [
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -131,46 +175,13 @@
       "title": "More workers are raiding their 401(k)s as average balances fall, Fidelity says",
       "region": "global",
       "risk_level": "medium",
-      "summary": "市場の変動により401(k)の平均残高が減少し、資金を引き出す労働者が増加。経済状況の悪化を示唆。",
-      "analysis": "401(k)からの資金引き出しは、個人の経済状況が悪化していることを示唆する。これは、消費支出の減少や景気後退のリスクを高める可能性がある。退職後の生活設計にも影響を与えるため、長期的な視点での資産運用が重要となる。",
+      "summary": "平均残高が減少する中、401(k)からの引き出しが増加。市場変動と生活費上昇が原因。",
+      "analysis": "401(k)からの引き出し増加は、労働者の経済的苦境を示唆しています。市場変動による残高減少に加え、インフレによる生活費上昇が、貯蓄を取り崩す要因となっています。これは、将来の退職後の生活に不安をもたらすだけでなく、現在の消費を抑制する可能性があります。政府や企業は、労働者の経済的安定を支援するための対策を講じる必要性があります。",
       "key_entities": [
         "401(k)",
-        "Fidelity"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Samsung units to buy $408 million stake in South Korea’s biggest crypto exchange",
-      "region": "east_asia",
-      "risk_level": "low",
-      "summary": "サムスンが韓国最大の暗号資産取引所の株式を取得。暗号資産市場への関与を強化。",
-      "analysis": "サムスンの暗号資産取引所への投資は、暗号資産市場の成長に対する期待の表れである。規制が整備されれば、機関投資家の参入が進み、市場の安定化につながる可能性がある。",
-      "key_entities": [
-        "Samsung",
-        "Crypto Exchange"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Oil markets are betting on a swift end to the Iran war. Investors may regret it",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "原油市場はイラン戦争の早期終結を期待しているが、楽観的な見通しは危険。地政学的リスクは依然として高い。",
-      "analysis": "原油市場は米イラン間の緊張緩和期待に過度に反応している可能性がある。地政学的リスクは依然として高く、紛争が長期化すれば原油価格が急騰する可能性がある。投資家はリスク管理を徹底し、慎重な投資判断を行う必要がある。",
-      "key_entities": [
-        "Oil Prices",
-        "Iran",
-        "U.S. Government"
+        "Fidelity",
+        "インフレ",
+        "退職貯蓄"
       ],
       "sources": [
         "CNBC - Top News"
@@ -183,11 +194,10 @@
   "region_risk_map": {
     "global": "high",
     "north_america": "medium",
-    "europe": "low",
-    "east_asia": "low",
-    "middle_east": "high"
+    "europe": "medium",
+    "east_asia": "none"
   },
-  "generated_at": "2026-05-28T16:07:34.285746",
+  "generated_at": "2026-05-28T20:28:43.710072",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

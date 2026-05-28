@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-28",
-    "summary": "中東情勢が極めて不安定化。アメリカとイランの軍事衝突が継続し、イスラエルとレバノンの緊張も高まっている。ウクライナ情勢も膠着状態が続く。東アジアでは、日フィリピンの安全保障協力が進展する一方、北朝鮮のミサイル発射実験が確認された。",
+    "summary": "中東情勢が極めて不安定。イランとイスラエルの衝突が継続し、アメリカも介入。ウクライナ情勢も緊迫しており、世界経済への影響が懸念される。東アジアでは、日米比の連携強化が進む一方、北朝鮮のミサイル発射が継続。",
     "overall_risk_level": "critical",
     "article_count": 10,
     "region_risk_map": {
@@ -11,11 +11,11 @@
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
-      "africa": "medium",
+      "africa": "high",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-28T16:07:15.140081"
+    "generated_at": "2026-05-28T20:28:22.977950"
   },
   {
     "date": "2026-05-27",

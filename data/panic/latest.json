@@ -1,146 +1,167 @@
 {
   "date": "2026-05-28",
-  "summary": "世界各地で食料・エネルギー不足、金融システムの脆弱性、政治的抗議活動が社会不安を増大させています。特に南米ボリビアでは大統領が「転換点」と警告するほどの政治的混乱が続き、アジアでは水不足やATMの現金枯渇といった生活必需品・金融インフラの障害が顕著です。グローバルな金融市場ではステーブルコインの取り付け騒ぎの警告が強まるなど、広範囲で警戒状態が続いています。",
-  "global_panic_index": 65,
+  "summary": "世界各地で食料・金融・水資源に関する不安が高まっており、特に南米ボリビアでは大規模な抗議デモと政府の危機警告により国家が「崩壊寸前」の状態にあります。ヨーロッパではATMの現金不足や食料バンクの在庫低下が見られ、南アジアでは水不足が深刻な抗議活動を引き起こしています。全体として、経済的・社会的なストレスが増大し、一部地域ではパニックの兆候や混乱が顕著です。",
+  "global_panic_index": 60,
   "regions": [
     {
       "region": "south_america",
       "panic_index": 85,
-      "status": "critical",
-      "main_cause": "政治的混乱、大規模な抗議デモ",
+      "status": "volatile",
+      "main_cause": "経済危機、政治的混乱、政府への大規模な抗議デモ",
       "incidents": [
         {
-          "title": "大統領が「転換点」と警告する抗議デモ",
+          "title": "ボリビア大統領、国家が「崩壊寸前」と警告",
           "location": "ボリビア",
           "severity": 90,
-          "description": "ボリビア大統領が国内の抗議デモに対し「転換点」にあると警告。社会秩序が著しく混乱し、国家機能の維持が危ぶまれるほどの深刻な政治的・社会的不安が高まっています。",
-          "source": "BBC"
+          "description": "数週間にわたる大規模な抗議デモが続く中、ボリビア大統領が国家の「崩壊寸前」を警告。経済危機が背景にあり、社会秩序が深刻な影響を受けている。",
+          "source": "BBC / Australian Broadcasting Corporation"
+        },
+        {
+          "title": "アイマラ族女性が経済危機に抗議",
+          "location": "ラパス、ボリビア",
+          "severity": 80,
+          "description": "ボリビアの首都ラパスで、アイマラ族の女性たちが深刻化する経済危機に対し抗議デモを実施。生活苦と政府への不満が背景にある。",
+          "source": "Reuters Connect"
         }
       ]
     },
     {
-      "region": "asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "水不足、金融不安、エネルギー供給リスク",
+      "region": "europe",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "金融不安、食料不足、公共サービスへの不満、経済債務",
       "incidents": [
         {
-          "title": "ATMの現金が枯渇、市民生活に影響",
+          "title": "スペインでATMの現金不足が深刻化",
+          "location": "スペイン",
+          "severity": 65,
+          "description": "報道によると、スペインの半数以上の人々がATMの現金不足により不便を強いられている。これは金融システムへの潜在的な不安を示唆している。",
+          "source": "Demócrata"
+        },
+        {
+          "title": "英国フードバンクの在庫が不足",
+          "location": "ニュートン・アボット、英国",
+          "severity": 60,
+          "description": "ニュートン・アボットのフードバンクが在庫不足に直面し、市民に支援を呼びかけている。食料不安が市民生活に影響を及ぼしている。",
+          "source": "Teignmouth Post"
+        },
+        {
+          "title": "ドイツで医療従事者が大規模な賃金カット計画に抗議",
+          "location": "ドイツ",
+          "severity": 40,
+          "description": "ドイツで医療従事者らが大規模な予算削減計画に対し抗議デモを行っている。公共サービスの質と労働条件への懸念が表明されている。",
+          "source": "dw.com"
+        },
+        {
+          "title": "ドイツ銀行AG株主総会前に活動家が抗議",
+          "location": "フランクフルト、ドイツ",
+          "severity": 40,
+          "description": "ドイツ銀行AGの年次株主総会に先立ち、活動家たちがフランクフルトで抗議デモを実施。企業の活動や政策に対する社会的な不満が示された。",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "欧州の「不可能な債務」問題が浮上",
+          "location": "ヨーロッパ",
+          "severity": 50,
+          "description": "欧州がケインズが軽視した「長期的な不可能債務」に直面しているとの分析。広範な経済不安と将来への懸念が議論されている。",
+          "source": "Brussels Signal"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "水不足、金融不安、政治的混乱",
+      "incidents": [
+        {
+          "title": "インド・ジャイプールで水不足抗議デモ",
+          "location": "ジャイプール、インド",
+          "severity": 65,
+          "description": "熱波の中、ジャイプールで深刻な飲料水不足に対する抗議デモが発生。学生が独自の方法で抗議し、議会も当局に解決を要求している。",
+          "source": "India Today / The News Mill"
+        },
+        {
+          "title": "バングラデシュでATMが枯渇、現金不足に直面",
           "location": "バングラデシュ",
-          "severity": 75,
-          "description": "週間の大型連休初日にATMから現金が枯渇する事態が発生。金融システムへの不信感と市民の現金へのアクセスに対する不安が広がり、取り付け騒ぎに発展する懸念があります。",
+          "severity": 70,
+          "description": "長期休暇初日にATMの現金が枯渇し、市民が現金不足に直面。金融システムへの不信感や生活の不便さが広がっている。",
           "source": "The Daily Star"
         },
         {
-          "title": "深刻な水不足への抗議活動と政治的圧力",
-          "location": "インド、ジャイプール",
-          "severity": 70,
-          "description": "熱波の中、ジャイプールの学生や議会が深刻な飲用水不足に対し抗議活動を展開。政治家からは24時間以内の解決を求める最後通牒が出され、生活必需品の供給不安が政治問題化しています。",
-          "source": "India Today, The News Mill"
-        },
-        {
-          "title": "ホルムズ海峡の火種とASEANの脆弱性",
-          "location": "アジア（ホルムズ海峡周辺）",
-          "severity": 65,
-          "description": "ホルムズ海峡における地政学的緊張が、ASEAN諸国のエネルギー供給における脆弱性を露呈。広範なアジア地域でのエネルギー不足や物価高騰への懸念が高まっています。",
-          "source": "아시아경제"
-        },
-        {
-          "title": "政治的混乱：元州首相宅への捜査に対する抗議",
-          "location": "インド、ケララ州",
-          "severity": 55,
-          "description": "インド共産党マルクス主義派（CPI(M)）が、前ケララ州首相の住居へのED（執行局）の家宅捜索に抗議。政治的緊張と社会的な不安定感が広がり、治安悪化の懸念があります。",
+          "title": "インド・ケララ州で政治的混乱",
+          "location": "ケララ、インド",
+          "severity": 45,
+          "description": "インド共産党マルクス主義派（CPI(M)）が、前ケララ州首相の自宅へのED（執行局）の捜査に抗議。政治的緊張と混乱が示されている。",
           "source": "Devdiscourse"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 65,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "経済不安、高失業率",
+      "main_cause": "経済の停滞、高失業率、金融システムへの不信",
       "incidents": [
         {
-          "title": "パレスチナ自治区における雇用市場の崩壊",
-          "location": "パレスチナ自治区（ヨルダン川西岸地区）",
-          "severity": 65,
-          "description": "ヨルダン川西岸地区の卒業生が、崩壊状態にある雇用市場に直面。若者の高失業率は深刻な社会不安の温床となり、将来への絶望感から大規模な抗議行動や社会秩序の悪化につながる可能性があります。",
+          "title": "パレスチナの若者が崩壊した雇用市場に直面",
+          "location": "ヨルダン川西岸、パレスチナ",
+          "severity": 60,
+          "description": "ヨルダン川西岸地区のパレスチナ人卒業生が高失業率と崩壊した雇用市場に直面。若者の未来への不安と社会不安の根源となっている。",
           "source": "Al Jazeera"
+        },
+        {
+          "title": "イラクが国有銀行での大規模詐欺を阻止",
+          "location": "イラク",
+          "severity": 55,
+          "description": "イラク政府が国有銀行における1.5兆ディナール規模の詐欺未遂を阻止したと発表。金融システムへの信頼性に疑問を投げかける事態。",
+          "source": "The New Region"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "社会サービスへの不安、食料支援の逼迫",
+      "region": "southeast_asia",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "地政学リスク、エネルギー安全保障の脆弱性",
       "incidents": [
         {
-          "title": "医療従事者が大幅な人員削減計画に抗議",
-          "location": "ドイツ",
-          "severity": 60,
-          "description": "ドイツの医療従事者が政府の医療分野における大幅な人員削減計画に抗議。重要な社会サービスである医療へのアクセス不安が高まり、国民の健康と福祉に関する深刻な懸念が広がっています。",
-          "source": "dw.com"
-        },
-        {
-          "title": "フードバンクの在庫が底をつき支援要請",
-          "location": "イギリス、ニュートンアボット",
-          "severity": 60,
-          "description": "ニュートンアボットのフードバンクが食料在庫の枯渇に直面し、市民に支援を要請。生活困窮者への食料供給が逼迫しており、地域社会における貧困と食料不安が顕在化しています。",
-          "source": "www.dawlish-today.co.uk"
-        },
-        {
-          "title": "銀行前での活動家による抗議デモ",
-          "location": "ドイツ、フランクフルト",
-          "severity": 45,
-          "description": "ドイチェ・バンクAGの株主総会前で活動家が抗議デモを実施。具体的な内容不明ながら、金融機関への不満や環境・社会問題に対する意識の高まりが背景にあると考えられます。",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "銀行休日の列車運行障害",
-          "location": "イギリス南東部",
-          "severity": 40,
-          "description": "銀行休日中にイギリス南東部で列車運行に障害が発生。祝日を利用した移動に影響が出たことで、市民の不満が高まり、公共交通機関の信頼性に対する不安が生じています。",
-          "source": "AOL.com"
-        }
-      ]
-    },
-    {
-      "region": "oceania",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "燃料不足",
-      "incidents": [
-        {
-          "title": "一部ガソリンスタンドで燃料が枯渇",
-          "location": "オーストラリア",
-          "severity": 65,
-          "description": "国内の一部ガソリンスタンドで燃料が完全に枯渇し、他の地域でもディーゼル燃料の不足が報告されています。これはエネルギー供給網の脆弱性を示し、市民生活や物流への深刻な影響が懸念されます。",
-          "source": "The Canberra Times"
+          "title": "ホルムズ海峡とASEANの脆弱性に関するレポート",
+          "location": "ASEAN地域、ホルムズ海峡",
+          "severity": 50,
+          "description": "アジア経済に関するレポートが、ホルムズ海峡の情勢とASEAN諸国の潜在的なエネルギー安全保障上の脆弱性を指摘。将来的な社会不安のリスクが示唆される。",
+          "source": "아시아경제"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 30,
+      "panic_index": 25,
       "status": "stable",
-      "main_cause": "社会インフラの機能不全",
+      "main_cause": "広範な社会・政治的緊張",
       "incidents": [
         {
-          "title": "バス運転手不足による公共交通機関の逼迫",
-          "location": "米国（ナショナル・パーク・サービス関連か地方）",
-          "severity": 50,
-          "description": "NPS（国立公園局、または地方の公共交通機関）がバス運転手不足により逼迫。公共交通サービスの低下は、通勤・通学や観光など市民生活に影響を与え、不便や不満を生じさせています。",
-          "source": "The Inquirer and Mirror"
-        },
-        {
-          "title": "ブルース・スプリングスティーンのコンサートが抗議の場に",
-          "location": "米国、フィラデルフィア",
+          "title": "「移動する抗議者」が州境を越える犯罪行為の全国的問題に",
+          "location": "米国",
           "severity": 35,
-          "description": "ブルース・スプリングスティーンのコンサートが「teeth-kicking」な抗議の場になると報じられています。具体的な抗議内容は不明ですが、エンターテイメントが政治的メッセージを伝える場となる可能性を示唆します。",
-          "source": "MSN"
+          "description": "広範囲にわたる抗議活動が、州境を越えた犯罪行為を引き起こす全国的な問題として認識されつつある。社会の分裂と治安への懸念が浮上。",
+          "source": "Homeland Security Today"
         }
       ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "特記事項なし",
+      "incidents": []
+    },
+    {
+      "region": "africa",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "特記事項なし",
+      "incidents": []
     }
   ]
 }
