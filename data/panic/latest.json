@@ -1,107 +1,100 @@
 {
   "date": "2026-05-28",
-  "summary": "世界各地で、水や燃料といった生活必需品の供給不安が顕著化し、これに関連する抗議活動やサービスの停止警告が報じられています。特に、一部地域ではATMの現金枯渇といった金融不安も発生。大規模なパニックや秩序崩壊には至っていませんが、人々の不安感は増大しており、社会的警戒レベルが上昇傾向にあります。金融市場の潜在的リスクも懸念されます。",
-  "global_panic_index": 58,
+  "summary": "世界各地で生活必需品の不足（水、現金）や大規模な抗議活動、地政学的緊張が顕著であり、社会不安が増大しています。特に南米ボリビアでは国家が「転換点」にあると警告され、英国では水供給停止の可能性が市民に強い懸念を与えています。アジア地域でも金融システムの一部機能不全や地政学的リスクが浮上し、中東では軍事衝突の懸念が続いています。全体としては、地域的な緊張が高まり、一部でパニックに近い状況が見られる「不安の増大」から「警戒状態」への移行期にあります。",
+  "global_panic_index": 60,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 55,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "社会的不満、公共サービスの問題",
+      "main_cause": "社会的不安、インフラの機能不全",
       "incidents": [
         {
-          "title": "ニュージャージー州の移民収容施設前での抗議デモ",
-          "location": "ニュージャージー州（米国）",
-          "severity": 50,
-          "description": "デラニー・ホール移民収容施設前で、抗議者と移民税関捜査局（ICE）との間の緊張状態が続いています。これは特定の政策に対する社会的不満の表れであり、地域的な不安を増大させています。",
+          "title": "デラニーホール拘置施設外での抗議活動とICEの対立",
+          "location": "ニュージャージー州, 米国",
+          "severity": 55,
+          "description": "ニュージャージー州のデラニーホール拘置施設外で、抗議者と移民・関税執行局（ICE）との間で騒乱が続いています。地域的な緊張が高まっていますが、広範なパニックには至っていません。",
           "source": "NBC New York"
         },
         {
-          "title": "バス運転手不足による公共交通機関の機能低下",
-          "location": "米国",
-          "severity": 45,
-          "description": "全米各地でバス運転手不足が深刻化し、公立学校の運営や公共交通サービスに影響を及ぼしています。これは日常生活における利便性の低下と、潜在的な社会インフラへの懸念を引き起こしています。",
+          "title": "バス運転手不足による国立公園局の負担",
+          "location": "米国（NPS管轄地域）",
+          "severity": 30,
+          "description": "国立公園局（NPS）がバス運転手不足により運営に支障をきたしています。観光客や地域住民の利便性に影響が出ていますが、直接的なパニックには繋がっていません。",
           "source": "The Inquirer and Mirror"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 70,
+      "region": "south_america",
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "水不足、環境問題",
+      "main_cause": "大規模な抗議デモ、政治的緊張",
       "incidents": [
         {
-          "title": "英南東部で水不足により給水停止の警告",
-          "location": "英国",
-          "severity": 70,
-          "description": "サウス・イースト・ウォーター社が、貯水池の枯渇により顧客への給水が停止される可能性を警告しました。これは広範囲にわたる住民の生活に直接的な影響を及ぼすものであり、飲料水確保への懸念からパニックに繋がりかねない状況です。",
-          "source": "The Telegraph"
+          "title": "ボリビア大統領、抗議活動の中で国が「転換点」にあると警告",
+          "location": "ボリビア",
+          "severity": 75,
+          "description": "ボリビア大統領が、全国的な抗議活動の中で国が「転換点（breaking point）」にあると警告しました。これは社会秩序の危機を示唆し、広範な社会不安と政治的緊迫感が非常に高い状況です。",
+          "source": "BBC"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
+      "region": "europe",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "水不足、インフラの機能不全、地域的な社会不安",
+      "incidents": [
+        {
+          "title": "南東部の水道会社、貯水池枯渇で顧客の供給停止を警告",
+          "location": "英国南東部",
+          "severity": 80,
+          "description": "南東部の水道会社が、貯水池の枯渇により顧客への水供給を停止する可能性があると警告しました。生活必需品の供給停止は市民に強いパニックと不安を引き起こす危険な状況です。",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "パリ左岸で混乱（Turmoil）が発生",
+          "location": "パリ, フランス",
+          "severity": 45,
+          "description": "パリの「左岸」で混乱（Turmoil）が発生しているとの報道があります。具体的な内容は不明ですが、地域的な文化・経済的な不安を示唆しています。",
+          "source": "en-contact.com"
+        },
+        {
+          "title": "銀行休業日の南東部での列車運行混乱",
+          "location": "英国南東部",
+          "severity": 30,
+          "description": "銀行休業日に英国南東部で列車運行の混乱が発生しました。交通インフラの一時的な問題であり、広範なパニックには繋がっていません。",
+          "source": "AOL.com"
+        }
+      ]
     },
     {
       "region": "middle_east",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "政治的抑圧、地政学的緊張",
-      "incidents": [
-        {
-          "title": "イラン人学生による3日間にわたる抗議活動",
-          "location": "イラン",
-          "severity": 60,
-          "description": "米国からの圧力が高まる中、イランの学生が3日間にわたり抗議活動を続けています。これは国内の政治的、社会的不満の表れであり、国際情勢と連動して不安定さを増す可能性があります。",
-          "source": "DD News"
-        },
-        {
-          "title": "ホルムズ海峡の緊張とASEANの脆弱性に関する報告",
-          "location": "ホルムズ海峡",
-          "severity": 55,
-          "description": "ホルムズ海峡の地政学的緊張は、世界のエネルギー供給に深刻な影響を及ぼす可能性があり、特にアジア地域の経済的脆弱性が指摘されています。潜在的な広範囲の不安要因となっています。",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
-    },
-    {
-      "region": "south_america",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
-    },
-    {
-      "region": "southeast_asia",
       "panic_index": 65,
       "status": "volatile",
-      "main_cause": "金融不安、誤情報の拡散",
+      "main_cause": "地政学的緊張、紛争リスク、経済的苦境",
       "incidents": [
         {
-          "title": "バングラデシュでATMの現金が枯渇",
-          "location": "バングラデシュ",
+          "title": "米国がイランでの新たな「防御的」攻撃を確認",
+          "location": "イラン",
           "severity": 70,
-          "description": "長期休暇の初日に多くのATMが現金不足に陥り、顧客は大きな困難に直面しています。これは金融システムへの信頼性低下と、生活資金へのアクセス不安から広範なパニックを引き起こす可能性があります。",
-          "source": "The Daily Star, Dhaka Tribune"
+          "description": "米国がイランでの新たな「防御的」攻撃を確認しました。地域における軍事衝突の懸念が高まり、市民の安全保障に関する不安を増大させています。",
+          "source": "Radio Free Europe/Radio Liberty"
         },
         {
-          "title": "ソロモン諸島で選挙後の混乱に関する誤情報が拡散",
-          "location": "ソロモン諸島",
+          "title": "ホルムズ海峡の緊張とASEANへの影響",
+          "location": "ホルムズ海峡",
+          "severity": 70,
+          "description": "戦略的に重要なホルムズ海峡における緊張が指摘されており、これはエネルギー供給不安や地政学的リスクを高め、広範な経済的・社会的な不安を招く可能性があります。",
+          "source": "아시아경제"
+        },
+        {
+          "title": "パレスチナ人卒業生が崩壊した雇用市場に直面",
+          "location": "ヨルダン川西岸, パレスチナ",
           "severity": 40,
-          "description": "選挙後の混乱に関する虚偽の主張や加工された画像がSNSで拡散されています。誤情報が社会不安や誤解を招く可能性があり、潜在的な不安定要素として注視されています。",
-          "source": "AFP Fact Check"
+          "description": "ヨルダン川西岸のパレスチナ人卒業生が、崩壊した雇用市場に直面しています。高い失業率は社会不安の温床であり、将来への絶望感は高まっています。",
+          "source": "Al Jazeera"
         }
       ]
     },
@@ -109,45 +102,59 @@
       "region": "south_asia",
       "panic_index": 60,
       "status": "unstable",
-      "main_cause": "水・燃料不足、環境被害",
+      "main_cause": "水不足、政治的騒乱、社会運動",
       "incidents": [
         {
-          "title": "インド・ジャイプールで熱波と水不足に対する抗議デモ",
-          "location": "ジャイプール（インド）",
-          "severity": 65,
-          "description": "熱波による深刻な水不足に対し、市民団体が政府に24時間の最終通告を出し抗議デモを行っています。生活に不可欠な資源の不足は、住民の生命と生活への切迫した脅威となり、パニックを誘発する可能性が高いです。",
+          "title": "熱波の中での水不足に対する抗議デモ",
+          "location": "ジャイプール, インド",
+          "severity": 70,
+          "description": "熱波が続くジャイプールで、水不足に対する大規模な抗議デモが発生し、政府に24時間以内の解決を要求しています。生活必需品の不足は直接的なパニックに繋がりかねない状況です。",
           "source": "The News Mill"
         },
         {
-          "title": "インド政府、燃料不足を否定し転用を警告",
-          "location": "インド",
+          "title": "Gen Z抗議活動における人権侵害に対する勧告",
+          "location": "ネパール",
           "severity": 45,
-          "description": "政府は燃料不足を否定しつつ、小売業者による燃料転用を警告しています。この発表は、燃料供給への国民の懸念が高まっていることを示唆しており、潜在的な買いだめや不安の増大に繋がる可能性があります。",
-          "source": "The New Indian Express"
+          "description": "ネパール国家人権委員会（NHRC）が、若者世代の抗議活動での人権侵害について行動を勧告しました。これは世代間の対立や政府への不満が高まっていることを示唆しています。",
+          "source": "The Kathmandu Post"
         },
         {
-          "title": "ネパールでZ世代の抗議活動の権利侵害に対する勧告",
-          "location": "ネパール",
-          "severity": 40,
-          "description": "ネパール国家人権委員会が、Z世代の抗議活動の権利侵害について関係者への措置を勧告しました。これは若者層の社会的不満と抗議活動の存在を示しており、社会の不安定要素となり得ます。",
-          "source": "The Kathmandu Post"
+          "title": "元ケララ州首相宅への家宅捜索に対する政治的騒乱と抗議デモ",
+          "location": "ケララ州, インド",
+          "severity": 50,
+          "description": "インドのケララ州で、元州首相宅へのED（執行局）による家宅捜索に対し、CPI(M)が抗議デモを実施し、政治的騒乱（Political Unrest）が発生しています。地域的な政治的緊張が高まっています。",
+          "source": "Devdiscourse"
         }
       ]
     },
     {
-      "region": "oceania",
-      "panic_index": 75,
+      "region": "southeast_asia",
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "燃料不足",
+      "main_cause": "金融インフラの機能不全、エネルギー供給不安",
       "incidents": [
         {
-          "title": "オーストラリアで一部のガソリンスタンドが燃料枯渇",
-          "location": "オーストラリア",
-          "severity": 75,
-          "description": "特定の燃料スタンドでディーゼル燃料が完全に枯渇し、他の場所でも不足が進行しています。これは物流や日常生活に深刻な影響を及ぼし、広範囲で燃料の買いだめや移動手段への不安を引き起こし、パニックを助長する可能性があります。",
-          "source": "The Canberra Times"
+          "title": "週間の祝日初日にATM現金が枯渇",
+          "location": "バングラデシュ",
+          "severity": 70,
+          "description": "長期休暇の初日にATMから現金が枯渇する事態が発生しました。これは市民生活に大きな混乱をもたらし、金融システムへの信頼喪失や取り付け騒ぎに発展する可能性があります。",
+          "source": "The Daily Star"
         }
       ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "情報なし",
+      "incidents": []
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "情報なし",
+      "incidents": []
     }
   ]
 }
