@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-28",
+    "summary": "中東情勢が極めて不安定化。アメリカとイランの軍事衝突が継続し、イスラエルとレバノンの緊張も高まる。ウクライナ情勢も依然として深刻で、世界秩序への懸念が強まっている。",
+    "overall_risk_level": "critical",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "medium",
+      "south_asia": "none",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "high",
+      "south_america": "medium"
+    },
+    "generated_at": "2026-05-28T03:58:02.809999"
+  },
+  {
     "date": "2026-05-27",
     "summary": "中東情勢が極めて不安定化。イスラエルとイランの代理戦争激化に加え、米国とイランの直接対立も深刻化。ウクライナ情勢も膠着状態が続き、地政学的リスクは全体的に高い。",
     "overall_risk_level": "high",

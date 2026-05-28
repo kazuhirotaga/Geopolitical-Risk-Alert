@@ -1,5 +1,58 @@
 [
   {
+    "date": "2026-05-28",
+    "summary": "米軍がイランのミサイル発射拠点と機雷敷設中の船舶に対し自衛措置として攻撃。ラトビアはロシア国境にドローン迎撃部隊を派遣。ウクライナ軍幹部は、今後6ヶ月が戦争の転換点になるとの見通しを示す。",
+    "events": [
+      {
+        "id": "event-001",
+        "timestamp": "2026-05-26",
+        "location": "中東地域（具体的な場所は不明）",
+        "region": "middle_east",
+        "title": "米軍によるイランへの自衛的攻撃",
+        "content": "米軍は、イランのミサイル発射拠点と機雷敷設を試みる船舶に対し、自衛措置として軍事攻撃を実施。停戦合意下での攻撃となる。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/26/us-launches-self-defense-strikes-against-iran-amid-ongoing-ceasefire/"
+      },
+      {
+        "id": "event-002",
+        "timestamp": "2026-05-27",
+        "location": "ラトビア・ロシア国境",
+        "region": "europe",
+        "title": "ラトビア、ロシア国境にドローン迎撃部隊を派遣",
+        "content": "ラトビア軍は、ロシア国境へのドローン侵入に対抗するため、ローカル迎撃ドローンを装備した部隊を派遣。",
+        "involved_parties": [
+          "ラトビア軍",
+          "ロシア（ドローン）"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/27/latvia-sends-mobile-intercept-units-to-russian-border-in-wake-of-drone-incursions/"
+      },
+      {
+        "id": "event-003",
+        "timestamp": "2026-05-22",
+        "location": "不明",
+        "region": "europe",
+        "title": "「オペレーション・エピックフューリー」におけるアメリカ軍航空機の損失",
+        "content": "議会報告書によると、「オペレーション・エピックフューリー」で42機の米軍航空機が損失または損傷。うち25機がドローン。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-27",
     "summary": "ウクライナ情勢は転換期を迎え、米国はイランへの自衛的攻撃を実施。ラトビアはロシア国境にドローン対策部隊を配備。米国は「Operation Epic Fury」で多数の航空機を損失。トルコは海軍ドローンによる敵艦攻撃能力の獲得を目指す。",
     "events": [
@@ -4119,75 +4172,6 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-27",
-    "summary": "ウクライナでは地上ロボットがロシア軍陣地を初めて占拠。無人艇によるShahedドローン迎撃も成功。米軍は中東に空母3隻を展開。欧州では弾道ミサイル開発の動き。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-03",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ軍、地上ロボットによる前線任務を拡大",
-        "content": "ウクライナ軍が地上ロボットによる前線任務を拡大。3月には9,000回以上の任務を実施。2025年夏にはロシア軍の陣地を初めて占拠。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "ロシア軍"
-        ],
-        "event_type": "clash",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/unmanned/2026/04/24/ukraine-to-field-25000-ground-robots-in-push-to-replace-soldiers-for-frontline-logistics/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-24",
-        "location": "中東",
-        "region": "middle_east",
-        "title": "米空母3隻が中東で作戦行動",
-        "content": "米海軍の空母3隻が、2003年以来初めて中央軍の責任区域で作戦行動を実施。",
-        "involved_parties": [
-          "アメリカ軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-04-23",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ軍、無人艇からShahedドローン迎撃ミサイル発射",
-        "content": "ウクライナ軍が無人艇から迎撃ミサイルを発射し、Shahedドローンを撃墜。ロシアの将来の交渉における譲歩を強制する能力を鈍らせる可能性。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "ロシア軍"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/industry/techwatch/2026/04/23/in-first-ukrainian-unmanned-vessel-launches-interceptor-to-knock-out-shahed-drone/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-04-22",
-        "location": "ヨーロッパ",
-        "region": "europe",
-        "title": "オランダ情報機関、ロシアがNATOと衝突する可能性を警告",
-        "content": "オランダの情報機関は、ロシアがウクライナでの軍事作戦後1年でNATOと衝突する可能性があると警告。ロシアの目標はNATOを軍事的に打ち負かすことではなく、限定的な領土獲得を通じて分裂させること。",
-        "involved_parties": [
-          "ロシア",
-          "NATO"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/22/russia-could-be-ready-for-nato-conflict-year-after-ukraine-dutch-warn/"
       }
     ]
   }
