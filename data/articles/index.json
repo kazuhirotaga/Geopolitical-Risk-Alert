@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-29",
-    "summary": "中東情勢が緊迫化。イスラエルとイランの対立に加え、ガザ地区の支配拡大、レバノンへの攻撃など、地域全体が不安定化。ウクライナ情勢も依然として深刻で、世界的な安全保障リスクが高まっている。",
+    "summary": "ウクライナ情勢の悪化、中東地域の緊張継続、米中対立など、地政学的リスクは依然として高い。特にウクライナにおけるロシアの攻勢と、イスラエル・パレスチナ間の緊張激化が懸念される。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
@@ -11,11 +11,11 @@
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "high",
-      "africa": "high",
+      "africa": "medium",
       "north_america": "medium",
       "south_america": "none"
     },
-    "generated_at": "2026-05-29T10:00:07.764871"
+    "generated_at": "2026-05-29T15:46:15.779085"
   },
   {
     "date": "2026-05-28",
