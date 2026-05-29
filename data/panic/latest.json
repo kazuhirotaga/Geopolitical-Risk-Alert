@@ -1,88 +1,116 @@
 {
   "date": "2026-05-29",
-  "summary": "世界全体では、アフリカと南アジアの一部地域で水や燃料といった生活必需品の深刻な不足が続き、これに対する大規模な抗議デモが多発しています。特にケニアでは抗議が暴力化し、死者を出す事態に発展しました。その他地域では政治的な抗議活動や潜在的な経済不安の兆候が見られますが、広範な社会インフラのマヒや無秩序なパニックには至っていません。局所的な危機が継続しており、監視が必要です。",
-  "global_panic_index": 62,
+  "summary": "世界全体では、一部地域で水や燃料といった生活必需品の深刻な不足が住民の抗議活動を引き起こし、社会不安が増大しています。特にアフリカのガーナと南アジアのインドで顕著です。一方、北米では小規模な抗議が報じられ、東アジアでは大規模な政治デモが展開されていますが、これらは現状で社会秩序の崩壊には至っていません。全体として、特定のインフラ問題が地域的な不安を高めている状況です。",
+  "global_panic_index": 42,
   "regions": [
     {
-      "region": "africa",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "水・燃料不足、暴力的な抗議活動",
+      "region": "north_america",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "データセンター建設に関する住民の懸念",
       "incidents": [
         {
-          "title": "Gbetsile地区の深刻な水不足に対する住民抗議",
-          "location": "ガーナ、Gbetsile",
-          "severity": 70,
-          "description": "数ヶ月にわたる深刻な水不足に耐えかねた住民が、政府およびガーナ水道公社に対し大規模な抗議デモを実施。生活必需品の不足が住民の切迫感を高め、社会不安を引き起こしている。",
-          "source": "Modern Ghana"
-        },
-        {
-          "title": "燃料抗議中の学生殺害に激怒した若者による街のシャットダウン抗議",
-          "location": "ケニア、Kakamega",
-          "severity": 85,
-          "description": "燃料価格高騰に対する抗議デモ中に学生が殺害されたことを受け、若者たちが大規模な抗議活動を展開。Kakamega市がシャットダウン状態となり、暴力的な衝突も発生し社会秩序が大きく乱れた。",
-          "source": "standardmedia.co.ke"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 65,
-      "status": "unstable",
-      "main_cause": "水・燃料不足、熱波",
-      "incidents": [
-        {
-          "title": "デリーの深刻な水不足に対する与党による『マトカ・フォール』抗議デモ",
-          "location": "インド、デリー",
-          "severity": 65,
-          "description": "熱波と水不足が重なり、首都デリーで住民が深刻な生活困難に直面。野党AAPが『マトカ・フォール』（水瓶を割る）抗議デモを組織し、与党BJPに責任を問う大規模な抗議活動が展開されている。",
-          "source": "Deccan Herald, ThePrint, Oneindia"
-        },
-        {
-          "title": "アーンドラ・プラデーシュ州での燃料危機に対する抗議デモ",
-          "location": "インド、アーンドラ・プラデーシュ州",
-          "severity": 60,
-          "description": "州内での燃料不足が深刻化し、与党YSRCPの指導者らがこれに抗議するデモを実施。エネルギー不足が経済活動や日常生活に影響を与え、社会的な不満が高まっている。",
-          "source": "Dailyhunt"
+          "title": "データセンター建設への抗議活動",
+          "location": "アメリカ、Cache County (Box Elder)",
+          "severity": 30,
+          "description": "Box Elderのデータセンターに関する住民の不安がCache Countyへ波及し、5月30日に抗議デモが予定されています。これは地域住民の生活環境や資源への影響に対する懸念から発生しており、今後の展開が注視されます。",
+          "source": "Cache Valley Daily"
         }
       ]
     },
     {
       "region": "east_asia",
       "panic_index": 45,
-      "status": "stable",
-      "main_cause": "政治的デモ、潜在的な金融不安",
+      "status": "unstable",
+      "main_cause": "政治的イシュー（反戦、改憲反対）に対する大規模デモ",
       "incidents": [
         {
-          "title": "国会前での反戦・改憲反対大規模デモ",
-          "location": "日本、東京（国会前）",
-          "severity": 45,
-          "description": "約1万人が国会前に集結し、「戦争反対」「総理は憲法守れ」などを訴える大規模な政治的デモが行われた。特定の物資不足や金融不安に起因するものではなく、社会秩序への直接的な影響は限定的。",
-          "source": "朝日新聞, 毎日新聞, 東京新聞デジタル"
+          "title": "国会前で約1万人が反戦・改憲反対デモ",
+          "location": "日本、国会前",
+          "severity": 50,
+          "description": "国会前で約1万人が戦争反対や改憲反対を訴える大規模なデモを行いました。参加者は「総理は憲法守れ」などのコールを上げ、全国各地150か所でも同様の抗議活動が展開されましたが、暴徒化や略奪の報告はありません。",
+          "source": "毎日新聞, 朝日新聞, 東京新聞デジタル"
         },
         {
-          "title": "金融当局と韓国預金保険公社による「迅速な再編」導入発表",
-          "location": "韓国",
-          "severity": 35,
-          "description": "金融当局が「迅速な再編」制度を導入する計画を発表。これは潜在的な金融機関の危機に備えた予防的措置であり、現時点で具体的な取り付け騒ぎやパニックは報告されていないが、金融市場の警戒感を示唆する。",
-          "source": "매일경제"
+          "title": "各地で「小さなデモ」が共感を呼ぶ",
+          "location": "日本、全国各地",
+          "severity": 40,
+          "description": "国会前だけでなく、駅前や公園など各地で小規模なデモが頻繁に開催され、「声を上げるのは特別なことじゃない」というメッセージが広がっています。これは社会全体の政治的関心や不満の広がりを示唆しています。",
+          "source": "朝日新聞"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 25,
-      "status": "normal",
-      "main_cause": "地域的な抗議活動",
+      "region": "south_asia",
+      "panic_index": 70,
+      "status": "unstable",
+      "main_cause": "深刻な水不足および燃料不足",
       "incidents": [
         {
-          "title": "データセンター建設への抗議活動が他郡へ拡大",
-          "location": "米国、ユタ州（Box Elder郡、Cache郡）",
-          "severity": 25,
-          "description": "Box Elder郡でのデータセンター建設に対する住民の抗議活動が、予定地の変更に伴いCache郡へと場所を移して継続される。地域的な環境問題や開発計画への不満が背景にある。広範な社会不安には至っていない。",
-          "source": "Cache Valley Daily"
+          "title": "デリーで水不足に対する大規模抗議デモ",
+          "location": "インド、デリー",
+          "severity": 75,
+          "description": "熱波の中、デリーで深刻な水不足が発生し、AAP（Aam Aadmi Party）が「Matka Phor（水瓶割り）」を含む大規模な抗議デモを複数回実施しています。住民の生活に直接影響する問題であり、不満が爆発寸前の状況です。",
+          "source": "Deccan Herald, ThePrint, Devdiscourse, Oneindia"
+        },
+        {
+          "title": "Jagatpura地区の住民が水不足に抗議",
+          "location": "インド、Jagatpura",
+          "severity": 70,
+          "description": "Jagatpuraの住民もまた、水不足に対して抗議活動を行っています。都市部での広範な水供給問題が住民の間に深刻な不安と不満を引き起こしており、状況が悪化すればさらなる混乱に繋がりかねません。",
+          "source": "MSN"
+        },
+        {
+          "title": "Andhra Pradesh州で燃料危機に対する抗議",
+          "location": "インド、Andhra Pradesh州",
+          "severity": 65,
+          "description": "Andhra Pradesh州では燃料危機と不足が報じられ、YSRCPの指導者らが抗議活動を行っています。エネルギー供給の不安定さは経済活動だけでなく、日常生活にも大きな影響を与え、社会不安を増幅させています。",
+          "source": "Dailyhunt"
         }
       ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "数ヶ月にわたる深刻な水不足",
+      "incidents": [
+        {
+          "title": "Gbetsileで数ヶ月にわたる水不足に住民が抗議",
+          "location": "ガーナ、Gbetsile",
+          "severity": 80,
+          "description": "ガーナのGbetsile地域とその周辺で、数ヶ月にわたる深刻な水不足が発生し、住民が大規模な抗議デモを複数回実施しています。これは基本的な生活インフラの危機であり、住民の生活と健康を脅かす重大な社会不安の源となっています。",
+          "source": "Modern Ghana"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "特になし（インフレ懸念は報じられるがパニックには至らず）",
+      "incidents": []
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 15,
+      "status": "normal",
+      "main_cause": "特になし（危機によるリスクは指摘されるがパニックには至らず）",
+      "incidents": []
+    },
+    {
+      "region": "south_america",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
     }
   ]
 }

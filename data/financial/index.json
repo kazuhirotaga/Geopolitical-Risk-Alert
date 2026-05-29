@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-05-29",
-    "summary": "株式市場は最高値を更新する一方で、原油価格は下落。AI関連銘柄は急騰したが、サイバーセキュリティ企業は人員削減。イラン情勢の不確実性が市場を左右し、インフレによる家計への影響も懸念される。暗号資産市場は株式市場と異なり、ETFからの資金流出が続く。",
+    "summary": "株式市場はテクノロジー主導で最高値を更新する一方、原油価格は下落。AI関連銘柄が好調だが、企業はAI投資と人員削減のトレードオフに直面。ビットコインはETFからの資金流出が続き、軟調な展開。米イラン間の合意への期待と、地政学的リスクが混在する状況。",
     "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "medium",
       "north_america": "medium",
-      "europe": "low",
-      "east_asia": "medium"
+      "europe": "medium",
+      "east_asia": "medium",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "high"
     },
-    "generated_at": "2026-05-29T20:31:37.637246"
+    "generated_at": "2026-05-29T22:39:27.886151"
   },
   {
     "date": "2026-05-28",
