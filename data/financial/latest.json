@@ -1,18 +1,19 @@
 {
   "date": "2026-05-29",
-  "summary": "中東情勢の緊迫化と米国のインフレ懸念が市場を揺るがす一方、AI関連銘柄や一部暗号資産には資金流入が継続。富裕層の米国離れもリスク要因として注視される。",
-  "overall_risk_level": "medium",
+  "summary": "中東情勢の緊迫化によるエネルギー危機と、AI関連投資の活況が市場を二分する。暗号資産市場は規制と技術革新の狭間で動揺し、全体として地政学的リスクと技術革新リスクが混在する状況。",
+  "overall_risk_level": "high",
   "articles": [
     {
-      "title": "Asia markets rise as investors weigh Iran military activity against signs of temporary U.S.-Iran deal",
+      "title": "Strait of Hormuz shutdown: A visual guide to world's most critical oil chokepoint",
       "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "アジア市場は、イラン情勢の緊張と米イラン間の一時的な合意への期待が交錯する中、上昇。",
-      "analysis": "中東地域の地政学的リスクは依然として高いものの、一時的な米イラン間の合意への期待が市場心理を支えている。しかし、合意が頓挫した場合、原油価格の高騰やサプライチェーンの混乱を通じて、世界経済に悪影響を及ぼす可能性がある。アジア市場は、この影響を直接受ける可能性が高く、特にエネルギー輸入依存度の高い国は注意が必要。",
+      "risk_level": "critical",
+      "summary": "ホルムズ海峡の封鎖がイラン戦争勃発により貿易を停止させ、深刻な世界的エネルギーショックを引き起こした。",
+      "analysis": "ホルムズ海峡の封鎖は、世界の石油供給に壊滅的な影響を与える。記事は、その影響を視覚的に示しており、エネルギー価格の急騰と世界経済の減速を引き起こす可能性が高い。地政学的リスクが現実のものとなり、エネルギー市場に直接的な影響を与えていることを示唆する。代替供給ルートの確保やエネルギー備蓄の放出などの対策が必要となるが、根本的な解決には至らない可能性が高い。関連する企業は、エネルギー企業、海運会社、保険会社などが挙げられる。",
       "key_entities": [
+        "OPEC",
         "イラン",
         "米国",
-        "原油市場"
+        "主要エネルギー企業"
       ],
       "sources": [
         "CNBC - Top News"
@@ -22,15 +23,15 @@
       ]
     },
     {
-      "title": "Americans’ savings rate falls to lowest level since 2022 as inflation outpaces paychecks",
+      "title": "Exxon warns oil inventories will hit dangerously low levels in weeks, forcing prices to shoot higher",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "インフレが賃金上昇を上回り、米国の貯蓄率が2022年以来の最低水準に低下。家計の経済的ストレスが増大。",
-      "analysis": "米国の貯蓄率低下は、個人消費の減速につながる可能性があり、景気後退のリスクを高める。インフレが持続する場合、FRBは追加利上げを余儀なくされ、景気への更なる圧迫となる。企業収益の悪化や失業率の上昇も懸念されるため、株式市場への影響も大きい。特に、低所得者層への影響が深刻化する可能性があり、社会不安の増大にもつながりかねない。",
+      "risk_level": "high",
+      "summary": "Exxon幹部は、石油在庫が記録的な低水準に達すると、ブレント原油価格が1バレルあたり150～160ドルに急騰すると警告。",
+      "analysis": "石油在庫の急激な減少は、供給不足と価格高騰を招き、インフレを加速させる可能性がある。特に、ホルムズ海峡の封鎖と重なることで、エネルギー危機が深刻化するリスクがある。中央銀行はインフレ抑制のために更なる金融引き締めを余儀なくされ、景気後退のリスクが高まる。企業はエネルギーコストの上昇に対応するため、価格転嫁やコスト削減を迫られる。消費者もエネルギー価格の上昇による負担増に直面する。",
       "key_entities": [
-        "FRB",
-        "インフレ率",
-        "個人消費"
+        "ExxonMobil",
+        "OPEC",
+        "IEA"
       ],
       "sources": [
         "CNBC - Top News"
@@ -40,18 +41,53 @@
       ]
     },
     {
-      "title": "The wealthiest investors are pulling money out of the U.S. in the 'de-dollarization' trade",
+      "title": "Trump's Oman outburst throws 'Switzerland of the Middle East' into the spotlight",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "AIバブルへの懸念、関税、ドル安、不安定な経済政策、債務増加により、富裕層が米国から資金を引き揚げ。",
-      "analysis": "富裕層の米国からの資金流出は、ドルの価値低下を加速させる可能性があり、輸入物価の上昇を通じてインフレを悪化させる。また、米国債の需要低下や資本市場の不安定化にもつながる。背景には、米国の経済政策に対する不確実性の高まりがあり、今後の政策運営によっては、更なる資金流出を招く可能性がある。特に、AIバブル崩壊のリスクは、市場全体のセンチメントを悪化させる要因となる。",
+      "risk_level": "high",
+      "summary": "トランプ政権が長年の同盟国であるオマーンに対し、制裁と軍事行動をちらつかせている。",
+      "analysis": "オマーンに対する制裁や軍事行動の脅威は、中東地域の不安定化を招き、地政学的リスクを高める。オマーンは中東における重要な調停役であり、その役割が損なわれることで、紛争解決が困難になる可能性がある。また、オマーンの経済にも大きな打撃を与え、投資家の信頼を損なう。原油価格への影響も懸念される。",
       "key_entities": [
-        "ドル",
-        "米国債",
-        "AI関連銘柄"
+        "トランプ政権",
+        "オマーン",
+        "イラン"
       ],
       "sources": [
         "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "AI is boosting the stock market. But it's a threat to private credit",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "AI関連投資は株式市場を押し上げているが、ソフトウェア投資におけるプライベートクレジットにとっては脅威となっている。",
+      "analysis": "AI技術の進化は、株式市場に新たな成長機会をもたらす一方で、既存のビジネスモデルを破壊する可能性も秘めている。特に、ソフトウェア投資におけるプライベートクレジットは、AIによる自動化や効率化によって需要が減少するリスクがある。投資家は、AI関連の投資機会を見極めると同時に、既存のポートフォリオにおけるリスクを評価する必要がある。",
+      "key_entities": [
+        "AI関連企業",
+        "プライベートクレジットファンド"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin, ether little-changed despite record stocks, falling oil and easing war fears",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "株式市場が最高値を更新し、原油価格が下落し、戦争への懸念が緩和されているにもかかわらず、ビットコインとイーサリアムの価格はほとんど変化していない。",
+      "analysis": "暗号資産市場は、伝統的な金融市場との連動性が低下している可能性を示唆している。これは、暗号資産が独立した資産クラスとして成熟しつつあることを意味するかもしれない。しかし、同時に、市場の流動性や投資家の関心が低下している可能性も考慮する必要がある。今後の価格動向は、規制の動向や技術革新、機関投資家の参入など、複数の要因によって左右される。",
+      "key_entities": [
+        "Bitcoin",
+        "Ethereum",
+        "主要暗号資産取引所"
+      ],
+      "sources": [
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -61,12 +97,12 @@
       "title": "UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules",
       "region": "europe",
       "risk_level": "medium",
-      "summary": "UniCreditは、MiCA規制下で欧州が暗号資産銀行の危機を抑制するのに苦労する可能性があると警告。",
-      "analysis": "MiCA（暗号資産市場規制）は、暗号資産市場の健全性を高めることを目的とするが、規制の不備や抜け穴が存在する場合、暗号資産関連の金融機関の破綻リスクを完全に排除することはできない。特に、DeFi（分散型金融）の急速な発展は、規制当局の監視を困難にし、新たなリスクを生み出す可能性がある。欧州の金融システム全体への影響は限定的と考えられるが、暗号資産へのエクスポージャーが高い金融機関は注意が必要。",
+      "summary": "UniCreditは、MiCA規制の下では、ヨーロッパは暗号資産銀行の危機を封じ込めるのに苦労する可能性があると警告している。",
+      "analysis": "MiCA（暗号資産市場規制）は、暗号資産市場の健全性を高めることを目的としているが、その規制内容によっては、市場の成長を阻害したり、新たなリスクを生み出す可能性もある。UniCreditの警告は、規制当局が市場の動向を十分に理解し、柔軟な対応を取る必要性を示唆している。特に、暗号資産銀行の破綻リスクは、金融システム全体に波及する可能性があるため、適切な監督体制の構築が急務である。",
       "key_entities": [
-        "MiCA",
-        "DeFi",
-        "暗号資産銀行"
+        "UniCredit",
+        "欧州中央銀行",
+        "MiCA"
       ],
       "sources": [
         "CoinDesk"
@@ -76,15 +112,15 @@
       ]
     },
     {
-      "title": "U.S.-Iran strikes rattle global markets, send bitcoin to 6-week low",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "米イラン間の攻撃が世界市場を揺るがし、ビットコインは6週間ぶりの安値に。",
-      "analysis": "米イラン間の軍事衝突は、地政学的リスクを高め、原油価格の高騰やサプライチェーンの混乱を通じて、世界経済に悪影響を及ぼす。リスク回避の動きから、安全資産とされる米国債への資金流入が加速する可能性がある。ビットコインは、リスク資産として認識されており、地政学的リスクの高まりを受けて下落した。今後の情勢次第では、更なる価格下落も予想される。",
+      "title": "Kalshi follows CFTC in suing Minnesota over law criminalizing prediction markets",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Kalshiは、予測市場を犯罪とするミネソタ州の法律をめぐり、CFTCに続いてミネソタ州を提訴。",
+      "analysis": "予測市場に対する規制は、イノベーションを阻害する可能性がある。Kalshiの提訴は、予測市場の合法性と規制のあり方をめぐる議論を活発化させるだろう。予測市場は、リスク管理や意思決定に役立つツールとして期待されているが、ギャンブルとの区別やインサイダー取引の防止など、解決すべき課題も多い。規制当局は、イノベーションを促進しつつ、投資家保護を図るバランスの取れた規制を策定する必要がある。",
       "key_entities": [
-        "ビットコイン",
-        "原油市場",
-        "米国債"
+        "Kalshi",
+        "CFTC",
+        "ミネソタ州"
       ],
       "sources": [
         "CoinDesk"
@@ -94,33 +130,13 @@
       ]
     },
     {
-      "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+      "title": "Jim Cramer says these 3 mistakes are keeping investors out of AI winners",
       "region": "global",
       "risk_level": "low",
-      "summary": "Calamosは、保護されたビットコインETFが暗号資産市場の変動に耐えうると見ている。",
-      "analysis": "保護されたビットコインETFは、下落リスクを軽減する仕組みを備えており、機関投資家の参入を促す可能性がある。しかし、手数料が高い場合や、市場の急変動に対応できない場合もあるため、注意が必要。暗号資産市場全体のボラティリティは依然として高く、投資判断は慎重に行うべきである。",
+      "summary": "CNBCのジム・クレイマーは、投資家が市場最大のAI関連銘柄を見逃している3つの理由を指摘。",
+      "analysis": "AI関連銘柄への投資は、高い成長性が期待できる一方で、リスクも伴う。ジム・クレイマーの指摘は、投資家が冷静な判断を下し、適切なリスク管理を行うことの重要性を示唆している。特に、過度な期待や情報不足による誤った判断は、大きな損失につながる可能性がある。投資家は、企業の技術力や競争力、市場の成長性などを慎重に評価する必要がある。",
       "key_entities": [
-        "ビットコインETF",
-        "暗号資産市場",
-        "機関投資家"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Red-hot Arm Holdings soars to another all-time high. What's fueling the move this time?",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "Arm Holdingsが再び史上最高値を更新。その要因は何か。",
-      "analysis": "Arm Holdingsは、AI関連需要の拡大やデータセンター向け半導体市場の成長を背景に、株価が上昇している。しかし、PER（株価収益率）が高く、バリュエーションが割高になっている可能性もある。今後の成長が期待されるものの、市場の期待に応えられなかった場合、株価が急落するリスクもある。",
-      "key_entities": [
-        "Arm Holdings",
-        "AI",
-        "半導体市場"
+        "AI関連企業"
       ],
       "sources": [
         "CNBC - Top News"
@@ -130,51 +146,15 @@
       ]
     },
     {
-      "title": "Oil Prices Fall, Despite Iran's 14-Point 'Fabrication'; Airline Stocks Fly",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "イランの主張にもかかわらず原油価格は下落、航空株は上昇。",
-      "analysis": "米イラン間の緊張緩和への期待が、原油価格の下落と航空株の上昇につながった。しかし、地政学的リスクは依然として高く、今後の情勢次第では、原油価格が急騰する可能性もある。航空会社は、燃料費の上昇に直面する可能性があり、収益への影響が懸念される。",
-      "key_entities": [
-        "原油市場",
-        "航空会社",
-        "イラン"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Samsung units to buy $408 million stake in South Korea’s biggest crypto exchange",
-      "region": "east_asia",
-      "risk_level": "low",
-      "summary": "サムスン傘下の企業が、韓国最大の暗号資産取引所の株式を4億800万ドルで取得。",
-      "analysis": "サムスンの暗号資産市場への参入は、市場の成熟度を高める可能性がある。しかし、規制リスクや市場のボラティリティは依然として高く、投資判断は慎重に行うべきである。韓国の暗号資産市場は、規制が厳しく、今後の規制動向によっては、サムスンの投資戦略に影響を与える可能性もある。",
-      "key_entities": [
-        "サムスン",
-        "暗号資産取引所",
-        "韓国"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "More workers are raiding their 401(k)s as average balances fall, Fidelity says",
+      "title": "U.S. government is reportedly set to invest in drone industry. These are Wall Street’s favorite plays",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "平均残高が減少する中、401(k)を取り崩す労働者が増加しているとFidelityが発表。",
-      "analysis": "401(k)の取り崩し増加は、家計の経済状況が悪化していることを示唆する。市場の変動による残高減少に加え、インフレによる生活費の上昇が、労働者の資金繰りを圧迫している可能性がある。これは、将来の年金受給額の減少につながり、老後の生活設計に影響を与える。",
+      "risk_level": "low",
+      "summary": "米国政府がドローン産業に投資する予定であると報じられている。アナリストは、Unusual MachinesやMotorola Solutionsなどの株式が、ドローン産業への関心の高まりから最も恩恵を受ける可能性が高いと考えている。",
+      "analysis": "政府のドローン産業への投資は、関連企業の成長を促進し、新たな雇用を創出する可能性がある。特に、Unusual MachinesやMotorola Solutionsなどの企業は、技術力や市場シェアの高さから、政府の支援を受ける可能性が高い。投資家は、ドローン産業の成長性に着目し、関連銘柄への投資を検討する価値がある。",
       "key_entities": [
-        "401(k)",
-        "Fidelity",
-        "年金"
+        "Unusual Machines",
+        "Motorola Solutions",
+        "米国政府"
       ],
       "sources": [
         "CNBC - Top News"
@@ -185,15 +165,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "medium",
+    "global": "high",
     "north_america": "medium",
     "europe": "medium",
-    "east_asia": "low",
-    "south_america": "none",
-    "africa": "none",
-    "middle_east": "high"
+    "east_asia": "low"
   },
-  "generated_at": "2026-05-29T03:59:59.660438",
+  "generated_at": "2026-05-29T10:00:27.513356",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
