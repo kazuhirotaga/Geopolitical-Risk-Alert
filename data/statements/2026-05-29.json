@@ -1,56 +1,37 @@
 {
   "date": "2026-05-29",
-  "summary": "本日注目すべきは、FRB議長に就任したKevin Warsh氏の動向と、FRBの金融政策に関する情報公開です。Warsh議長の選出は金融政策の方向性を示唆する可能性があり、市場の関心を集めています。",
+  "summary": "本日は、FRB関連の公開情報が中心。金融政策の方向性に関する直接的な発言は見当たらず、個別事案の対応や議事録公開に留まる。市場への直接的な影響は限定的と考えられる。",
   "statements": [
     {
-      "speaker": "Kevin Warsh",
-      "title": "連邦準備制度理事会（FRB）議長",
-      "quote": "連邦準備制度理事会の理事および連邦公開市場委員会の委員長として就任した。",
-      "context": "就任式での宣誓",
-      "analysis": "Kevin Warsh氏がFRB議長に就任したことは、今後の金融政策に大きな影響を与える可能性があります。彼の過去の言動や政策スタンスから、今後の金融引き締めや緩和の方向性を予測しようとする動きが市場で活発化するでしょう。特に、インフレ抑制と雇用維持のバランスをどのように取るか注目されます。",
-      "importance": "critical",
+      "speaker": "連邦準備制度理事会",
+      "title": "FRB",
+      "quote": "Atlantic Union Bankの元従業員およびFrost Bankの元従業員に対する執行措置を発表",
+      "context": "FRBによるプレスリリース",
+      "analysis": "金融機関の元従業員に対する執行措置は、FRBが金融機関のコンプライアンスと内部統制を重視していることを示唆する。ただし、個別事案であり、金融市場全体への影響は小さいと考えられる。今後の同様の事例の頻度や、対象となる金融機関の規模によっては、金融機関のリスク管理体制に対する懸念が高まる可能性がある。",
+      "importance": "low",
       "tags": [
-        "金融政策",
-        "FRB",
-        "金利",
-        "インフレ",
-        "雇用"
+        "金融規制",
+        "コンプライアンス",
+        "リスク管理"
       ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm"
-    },
-    {
-      "speaker": "連邦公開市場委員会（FOMC)",
-      "title": "連邦公開市場委員会",
-      "quote": "Warsh氏を委員長として満場一致で選出した。",
-      "context": "連邦公開市場委員会での決定",
-      "analysis": "FOMCがWarsh氏を委員長に選出したことは、FRB内における彼のリーダーシップに対する強い支持を示しています。これは、今後の金融政策決定において、Warsh氏の意見が大きく反映される可能性を示唆しており、市場は彼の発言や政策動向を注視していくでしょう。",
-      "importance": "high",
-      "tags": [
-        "金融政策",
-        "FRB",
-        "FOMC",
-        "金利"
-      ],
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm"
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm"
     },
     {
       "speaker": "連邦準備制度理事会",
-      "title": "連邦準備制度理事会",
-      "quote": "2026年4月20日と29日の割引率会合の議事録を公開した。",
-      "context": "定例の情報公開",
-      "analysis": "割引率会合の議事録公開は、FRBの政策決定プロセスを透明化する上で重要です。議事録の内容から、FRB内部の議論や政策判断の根拠を読み解くことができ、今後の金融政策の方向性を予測する手がかりとなります。特に、インフレ動向や金融市場の安定性に対する懸念などが示唆されている場合、市場に大きな影響を与える可能性があります。",
+      "title": "FRB",
+      "quote": "2026年4月20日および29日の理事会公定歩合会議の議事録を公開",
+      "context": "FRBによるプレスリリース",
+      "analysis": "公定歩合会議の議事録公開は、FRBの透明性向上への取り組みの一環である。議事録の内容を精査することで、FRB内部における金融政策に関する議論の詳細や、今後の政策変更の可能性を探ることができる。ただし、議事録は過去の会議内容であり、直近の市場動向を直接反映するものではない点に注意が必要。",
       "importance": "medium",
       "tags": [
         "金融政策",
-        "FRB",
-        "金利",
-        "割引率",
-        "インフレ"
+        "公定歩合",
+        "議事録"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm"
     }
   ],
-  "generated_at": "2026-05-29T15:46:48.265766",
+  "generated_at": "2026-05-29T20:31:46.536562",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

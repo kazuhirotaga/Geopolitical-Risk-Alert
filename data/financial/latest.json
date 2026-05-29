@@ -1,16 +1,17 @@
 {
   "date": "2026-05-29",
-  "summary": "株式市場はテクノロジー主導で上昇する一方、ビットコインは下落傾向。AI関連銘柄は好調だが、金利政策や地政学的リスクも依然として存在し、市場の不確実性を高めている。",
+  "summary": "株式市場は最高値を更新する一方で、原油価格は下落。AI関連銘柄は急騰したが、サイバーセキュリティ企業は人員削減。イラン情勢の不確実性が市場を左右し、インフレによる家計への影響も懸念される。暗号資産市場は株式市場と異なり、ETFからの資金流出が続く。",
   "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "Stocks add to May gains Friday with tech leading the way again. The Nasdaq is up 8% for month: Live updates",
+      "title": "Stocks close at record highs with tech leading the way again. Nasdaq gains 8% in May",
       "region": "global",
       "risk_level": "low",
-      "summary": "テクノロジーセクターのラリーに牽引され、主要株価指数は上昇し、高値を更新。5月は好調な推移。",
-      "analysis": "テクノロジー株が市場を牽引している状況は、特定のセクターへの依存度を高め、調整リスクを孕んでいる。好調な企業業績が背景にあるものの、金利動向やマクロ経済の変動には注意が必要。市場全体のセンチメントは強気だが、過熱感も否定できない。",
+      "summary": "米国株式市場はテクノロジー株主導で最高値を更新。5月は主要平均株価が上昇。原油価格の下落も市場を支援。",
+      "analysis": "株式市場全体としては楽観的な状況が続いている。特にテクノロジーセクターが市場を牽引しており、投資家のリスク選好度が高いことを示唆する。しかし、原油価格の下落が経済成長の鈍化を示唆する可能性もあり、注意が必要。今後の金融政策や経済指標の発表が市場の方向性を左右するだろう。",
       "key_entities": [
-        "Nasdaq"
+        "Nasdaq",
+        "テクノロジーセクター"
       ],
       "sources": [
         "CNBC - Top News"
@@ -20,34 +21,18 @@
       ]
     },
     {
-      "title": "Dell stock skyrockets 32%, heads for best day ever as AI server revenue soars",
-      "region": "global",
+      "title": "Brent oil price posts biggest monthly loss in six years as market counts on a U.S.-Iran deal",
+      "region": "middle_east",
       "risk_level": "medium",
-      "summary": "Dellの株価が急騰。AIサーバーの売上が大幅に増加し、2018年の再上場以来最高の収益成長率を記録。",
-      "analysis": "AIサーバー市場の急成長はDellにとって大きな追い風だが、この成長が持続可能かどうかは不透明。競合他社の動向や、AI技術の進化のスピードによっては、Dellの優位性が揺らぐ可能性もある。サプライチェーンの問題や、地政学的なリスクも考慮する必要がある。",
+      "summary": "原油価格は、米国とイランの合意期待から大幅に下落。トランプ大統領がイランとの合意について最終決定を行う。",
+      "analysis": "原油価格の下落は、インフレ抑制にはプラスに働く可能性がある。しかし、地政学的リスクが依然として高く、合意が成立しない場合、原油価格が急騰するリスクがある。また、原油価格の下落はエネルギーセクターの企業収益に悪影響を及ぼす可能性がある。",
       "key_entities": [
-        "Dell"
+        "Brent原油",
+        "米国",
+        "イラン",
+        "トランプ大統領"
       ],
       "sources": [
-        "CNBC - Top News",
-        "Yahoo Finance",
-        "investors.com"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "SentinelOne shares slide despite earnings beat as weak outlook weighs",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "SentinelOneの株価が下落。好調な決算にもかかわらず、弱い見通しが重しとなっている。人員削減も発表。",
-      "analysis": "SentinelOneの株価下落は、サイバーセキュリティ市場の競争激化を示唆している。人員削減はコスト削減策だが、成長戦略に影響を与える可能性もある。AI投資を強化する方針だが、競争優位性を確立できるかどうかは不透明。市場の期待値が高かった分、失望感が大きくなっている。",
-      "key_entities": [
-        "SentinelOne"
-      ],
-      "sources": [
-        "Yahoo Finance",
         "CNBC - Top News"
       ],
       "source_types": [
@@ -55,16 +40,91 @@
       ]
     },
     {
-      "title": "Bitcoin slides to April lows as crypto diverges from record-chasing U.S. equities",
+      "title": "Dell stock skyrockets 32% for its best day ever as AI server revenue soars",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "ビットコインが4月の安値まで下落。米国株式市場が最高値を更新する中、暗号資産市場は逆行。",
-      "analysis": "ビットコインの下落は、暗号資産市場全体のセンチメント悪化を示唆している。ETFからの資金流出が続いていることも、需要の弱さを示している。規制の不確実性や、マクロ経済の変動も、ビットコイン価格に影響を与えている。株式市場との乖離は、リスクオフの動きが強まっている可能性を示唆している。",
+      "risk_level": "low",
+      "summary": "Dellの株価が急騰。AIサーバーの売上が前年比757%増と大幅に増加。",
+      "analysis": "AI関連需要の急増がDellの業績を押し上げている。これは、AI技術が急速に普及し、企業がAI関連投資を積極的に行っていることを示唆する。AI関連銘柄への投資は、今後も高いリターンが期待できる可能性がある。ただし、AI市場の競争激化や規制強化のリスクも考慮する必要がある。",
       "key_entities": [
-        "Bitcoin"
+        "Dell",
+        "AIサーバー"
       ],
       "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "SentinelOne stock drops 8% as cyber firm trims headcount to boost AI investments",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "SentinelOneの株価が下落。AI投資を強化するため人員削減を実施。ガイダンスも弱気。",
+      "analysis": "AI投資の強化は長期的な成長戦略としては有効だが、人員削減は短期的に業績悪化を招く可能性がある。また、ガイダンスが弱気であることも投資家の懸念を招いている。サイバーセキュリティ市場は競争が激しく、技術革新のスピードも速いため、企業は常に新しい技術を取り入れる必要がある。",
+      "key_entities": [
+        "SentinelOne",
+        "AI",
+        "サイバーセキュリティ"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "イラン情勢の影響で、米国の平均的な家計はガスとエネルギーの支出が450ドル増加。",
+      "analysis": "エネルギー価格の上昇は、インフレを加速させ、消費者の購買力を低下させる。特に低所得者層への影響が大きい。米国政府は、エネルギー価格の安定化に向けて、イランとの交渉を進める必要がある。また、再生可能エネルギーへの投資を拡大することで、エネルギー自給率を高めることも重要。",
+      "key_entities": [
+        "イラン",
+        "米国",
+        "エネルギー価格",
+        "インフレ"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Mercedes-Benz may be shut out of U.S. market under bill aimed at Chinese automaker ownership",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "メルセデス・ベンツが、中国の自動車メーカーの所有権を対象とした法案により、米国市場から締め出される可能性。",
+      "analysis": "米中間の貿易摩擦が激化する中で、特定の企業が政治的な影響を受けるリスクが高まっている。メルセデス・ベンツが米国市場から締め出された場合、同社の業績に大きな影響を与える可能性がある。また、他の企業も同様のリスクにさらされる可能性がある。",
+      "key_entities": [
+        "メルセデス・ベンツ",
+        "中国",
+        "米国",
+        "貿易摩擦"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Tokens or humans? The new corporate trade-off",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "AIのコストが予想以上に高く、企業はAI導入と人員削減のトレードオフに直面。",
+      "analysis": "AI導入による効率化は企業の競争力を高めるが、人員削減は社会的な問題を引き起こす可能性がある。企業は、AI導入による経済的なメリットと、人員削減による社会的なコストを慎重に比較検討する必要がある。また、AIによって代替されない新しい職種を創出することも重要。",
+      "key_entities": [
+        "AI",
+        "人員削減",
+        "企業"
+      ],
+      "sources": [
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -74,10 +134,12 @@
       "title": "Bitcoin ETF outflows reach record 9-day streak as investors pull $2.8 billion",
       "region": "global",
       "risk_level": "medium",
-      "summary": "ビットコインETFからの資金流出が9日間連続で記録を更新。投資家は28億ドルを引き揚げ。",
-      "analysis": "ビットコインETFからの大規模な資金流出は、機関投資家のセンチメント悪化を示唆している。過去のデータと比較すると、今回の流出規模は異例であり、市場への影響は大きい。金利上昇や、規制強化の懸念が、資金流出の背景にあると考えられる。",
+      "summary": "ビットコインETFからの資金流出が9日連続で記録を更新。投資家は28億ドルを引き揚げ。",
+      "analysis": "ビットコインETFからの資金流出は、暗号資産市場に対する投資家の信頼が低下していることを示唆する。金利上昇や規制強化などの要因が、資金流出を加速させている可能性がある。ビットコイン価格は、今後も下落傾向が続く可能性がある。",
       "key_entities": [
-        "Bitcoin ETF"
+        "ビットコイン",
+        "ビットコインETF",
+        "資金流出"
       ],
       "sources": [
         "CoinDesk"
@@ -87,48 +149,15 @@
       ]
     },
     {
-      "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "FRBのボウマン理事が、インフレ高騰に対する利上げに警告。エネルギー価格と関税が主な要因であり、効果がないと指摘。",
-      "analysis": "FRB内部で、インフレに対する政策判断が分かれていることが示唆される。利上げを抑制する姿勢は、景気後退のリスクを軽減する可能性がある一方、インフレ抑制が遅れる可能性もある。今後のFRBの政策決定は、市場に大きな影響を与える。",
-      "key_entities": [
-        "FRB",
-        "Michelle Bowman"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
       "title": "Exxon warns oil inventories will hit dangerously low levels in weeks, forcing prices to shoot higher",
       "region": "global",
       "risk_level": "high",
-      "summary": "Exxonが、石油在庫が数週間以内に危険な水準まで低下し、価格が急騰すると警告。ブレント原油価格は1バレル150～160ドルに達する可能性。",
-      "analysis": "石油在庫の逼迫は、エネルギー価格の高騰を招き、インフレを加速させる可能性がある。地政学的なリスク（イラン情勢など）も、石油供給を不安定にする要因となる。エネルギー価格の上昇は、企業業績や消費者支出に悪影響を及ぼし、景気後退のリスクを高める。",
+      "summary": "Exxonは、数週間以内に原油在庫が危険なほど低い水準に達し、価格が急騰すると警告。",
+      "analysis": "原油在庫の減少は、地政学的リスクの高まりや、OPECプラスの減産などが原因と考えられる。原油価格の急騰は、インフレを加速させ、世界経済に悪影響を及ぼす可能性がある。各国政府は、原油の安定供給に向けて、外交努力を強化する必要がある。",
       "key_entities": [
         "Exxon",
-        "Brent oil"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Trump's Oman outburst throws 'Switzerland of the Middle East' into the spotlight",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "トランプ政権がオマーンに対し制裁と軍事行動をちらつかせ、中東情勢が緊迫化。",
-      "analysis": "オマーンに対する制裁や軍事行動は、中東地域の不安定化を招き、原油価格の高騰やサプライチェーンの混乱を引き起こす可能性がある。地政学的なリスクが高まり、投資家のリスク回避姿勢が強まる可能性がある。",
-      "key_entities": [
-        "Oman",
-        "Donald Trump"
+        "原油在庫",
+        "原油価格"
       ],
       "sources": [
         "CNBC - Top News"
@@ -141,28 +170,13 @@
       "title": "Paxos wins SEC approval to clear U.S. stocks on blockchain",
       "region": "global",
       "risk_level": "low",
-      "summary": "PaxosがSECの承認を得て、米国株式のブロックチェーン上での清算が可能に。",
-      "analysis": "PaxosのSEC承認は、ブロックチェーン技術の金融市場への浸透を加速させる可能性がある。取引の効率化や透明性の向上に貢献する一方、規制の枠組みが未整備な部分も多く、リスク管理が重要となる。",
+      "summary": "PaxosがSECの承認を得て、米国株式のブロックチェーン上での清算サービスを提供。",
+      "analysis": "PaxosのSEC承認は、ブロックチェーン技術が金融市場に浸透していく上で重要な一歩となる。株式取引の効率化や透明性向上に貢献する可能性がある。ただし、規制上の課題やセキュリティリスクも考慮する必要がある。",
       "key_entities": [
         "Paxos",
-        "SEC"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules",
-      "region": "europe",
-      "risk_level": "medium",
-      "summary": "UniCreditが、MiCA規制下でも欧州が暗号資産銀行危機を抑制するのに苦労する可能性があると警告。",
-      "analysis": "MiCA規制は暗号資産市場の健全性を高めることを目的としているが、規制の抜け穴や、想定外のリスクが存在する可能性もある。暗号資産銀行の破綻は、金融システム全体に波及する可能性があり、注意が必要。",
-      "key_entities": [
-        "UniCredit",
-        "MiCA"
+        "SEC",
+        "ブロックチェーン",
+        "株式"
       ],
       "sources": [
         "CoinDesk"
@@ -175,10 +189,10 @@
   "region_risk_map": {
     "global": "high",
     "north_america": "medium",
-    "europe": "medium",
-    "east_asia": "none"
+    "europe": "low",
+    "east_asia": "medium"
   },
-  "generated_at": "2026-05-29T15:46:37.595013",
+  "generated_at": "2026-05-29T20:31:37.637246",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

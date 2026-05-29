@@ -1,92 +1,86 @@
 {
   "date": "2026-05-29",
-  "summary": "世界全体では、中程度の社会不安が複数の地域で散見される状況です。アフリカでは特に、ガーナにおける水不足危機が人命に関わる事態に発展し、激しい抗議デモが頻発しており、社会秩序が不安定化しています。南アフリカでも公共サービスの崩壊が懸念され、警戒が必要です。アジアではインドでの水不足が大規模な抗議デモを引き起こし、当局が「パニックするな」と呼びかけるなど、市民の不安が顕在化しています。韓国では金融システムの安定化に向けた予防的措置が講じられ、潜在的な金融不安への対応が見られます。北米では、データセンター建設を巡る地域住民の抗議活動や、過去の金融不安の余波が引き続き監視されています。全体として、生活インフラの不足、地政学的緊張、そして金融システムへの不信感が社会不安の主要なドライバーとなっています。",
-  "global_panic_index": 58,
+  "summary": "世界全体では、アフリカと南アジアの一部地域で水や燃料といった生活必需品の深刻な不足が続き、これに対する大規模な抗議デモが多発しています。特にケニアでは抗議が暴力化し、死者を出す事態に発展しました。その他地域では政治的な抗議活動や潜在的な経済不安の兆候が見られますが、広範な社会インフラのマヒや無秩序なパニックには至っていません。局所的な危機が継続しており、監視が必要です。",
+  "global_panic_index": 62,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "地域開発を巡る対立、金融システムへの潜在的不信感",
+      "region": "africa",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "水・燃料不足、暴力的な抗議活動",
       "incidents": [
         {
-          "title": "データセンター建設への抗議活動",
-          "location": "Box Elder/Cache County, USA",
-          "severity": 45,
-          "description": "米国ユタ州でデータセンター建設を巡り、住民が抗議デモを計画。環境や生活への影響への懸念から地域社会に不満と騒動が広がっている。",
-          "source": "Cache Valley Daily"
+          "title": "Gbetsile地区の深刻な水不足に対する住民抗議",
+          "location": "ガーナ、Gbetsile",
+          "severity": 70,
+          "description": "数ヶ月にわたる深刻な水不足に耐えかねた住民が、政府およびガーナ水道公社に対し大規模な抗議デモを実施。生活必需品の不足が住民の切迫感を高め、社会不安を引き起こしている。",
+          "source": "Modern Ghana"
         },
         {
-          "title": "シリコンバレー銀行破綻の余波",
-          "location": "USA",
-          "severity": 55,
-          "description": "シリコンバレー銀行破綻とステーブルコインの価値変動に関する説明。直接の取り付け騒ぎは鎮静化したが、金融システムへの信頼に潜在的な不安が残る状況。",
-          "source": "CoinMarketCap"
+          "title": "燃料抗議中の学生殺害に激怒した若者による街のシャットダウン抗議",
+          "location": "ケニア、Kakamega",
+          "severity": 85,
+          "description": "燃料価格高騰に対する抗議デモ中に学生が殺害されたことを受け、若者たちが大規模な抗議活動を展開。Kakamega市がシャットダウン状態となり、暴力的な衝突も発生し社会秩序が大きく乱れた。",
+          "source": "standardmedia.co.ke"
         }
       ]
     },
     {
-      "region": "africa",
-      "panic_index": 72,
-      "status": "volatile",
-      "main_cause": "深刻な生活インフラ（水）不足、公共サービス崩壊による社会不安",
+      "region": "south_asia",
+      "panic_index": 65,
+      "status": "unstable",
+      "main_cause": "水・燃料不足、熱波",
       "incidents": [
         {
-          "title": "ガーナ・Gbetsileでの水不足抗議と死亡事故",
-          "location": "Gbetsile, Ghana",
-          "severity": 80,
-          "description": "ガーナのGbetsileで数ヶ月に及ぶ水不足が深刻化し、6歳児が汚水槽で死亡。これを受け住民による大規模な抗議デモが発生しており、社会秩序が危険な状態。",
-          "source": "CitiNewsroom.com"
-        },
-        {
-          "title": "ガーナ・Gbetsileでの長期水不足に対する抗議デモ",
-          "location": "Gbetsile, Ghana",
+          "title": "デリーの深刻な水不足に対する与党による『マトカ・フォール』抗議デモ",
+          "location": "インド、デリー",
           "severity": 65,
-          "description": "ガーナのGbetsile地域で数ヶ月にわたる深刻な水不足に対し、住民が大規模な抗議デモを実施。基本的な生活インフラの欠如が住民の強い不満を引き起こしている。",
-          "source": "Modern Ghana"
+          "description": "熱波と水不足が重なり、首都デリーで住民が深刻な生活困難に直面。野党AAPが『マトカ・フォール』（水瓶を割る）抗議デモを組織し、与党BJPに責任を問う大規模な抗議活動が展開されている。",
+          "source": "Deccan Herald, ThePrint, Oneindia"
         },
         {
-          "title": "南アフリカ自治体の財政破綻と公共サービス崩壊",
-          "location": "Mohokare Municipality, South Africa",
-          "severity": 70,
-          "description": "南アフリカのモホカレ自治体で財政破綻が迫り、公共サービスが機能不全に陥っている。住民の生活基盤が脅かされ、広範な社会不安を引き起こす可能性が高い。",
-          "source": "Democratic Alliance"
+          "title": "アーンドラ・プラデーシュ州での燃料危機に対する抗議デモ",
+          "location": "インド、アーンドラ・プラデーシュ州",
+          "severity": 60,
+          "description": "州内での燃料不足が深刻化し、与党YSRCPの指導者らがこれに抗議するデモを実施。エネルギー不足が経済活動や日常生活に影響を与え、社会的な不満が高まっている。",
+          "source": "Dailyhunt"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 53,
-      "status": "unstable",
-      "main_cause": "深刻な水不足、金融システムへの警戒感、地政学的リスクによる経済不安",
+      "panic_index": 45,
+      "status": "stable",
+      "main_cause": "政治的デモ、潜在的な金融不安",
       "incidents": [
         {
-          "title": "インド・デリーでの水不足に対する大規模抗議",
-          "location": "Delhi, India",
-          "severity": 60,
-          "description": "インドのデリーで深刻な水不足を訴える大規模な抗議デモが発生。「水を与えろ」と市民が要求し、生活インフラの不備が社会不安を増幅させている。",
-          "source": "Deccan Herald"
+          "title": "国会前での反戦・改憲反対大規模デモ",
+          "location": "日本、東京（国会前）",
+          "severity": 45,
+          "description": "約1万人が国会前に集結し、「戦争反対」「総理は憲法守れ」などを訴える大規模な政治的デモが行われた。特定の物資不足や金融不安に起因するものではなく、社会秩序への直接的な影響は限定的。",
+          "source": "朝日新聞, 毎日新聞, 東京新聞デジタル"
         },
         {
-          "title": "インド教育当局、「パニックするな」と指示",
-          "location": "India",
-          "severity": 55,
-          "description": "インドの教育当局が学校に対し、特定の政策を擁護する動画作成を依頼し、「パニックするな」と指示。これは政策に対する広範な社会不安や動揺が背景にあることを示唆。",
-          "source": "TheWire.in"
-        },
-        {
-          "title": "韓国金融当局、迅速な再編計画を導入",
-          "location": "South Korea",
-          "severity": 50,
-          "description": "韓国の金融当局と預金保険公社が金融システム安定化のため「迅速な再編」計画を導入。これは潜在的な金融不安に対応するための予防的措置とみられる。",
+          "title": "金融当局と韓国預金保険公社による「迅速な再編」導入発表",
+          "location": "韓国",
+          "severity": 35,
+          "description": "金融当局が「迅速な再編」制度を導入する計画を発表。これは潜在的な金融機関の危機に備えた予防的措置であり、現時点で具体的な取り付け騒ぎやパニックは報告されていないが、金融市場の警戒感を示唆する。",
           "source": "매일경제"
-        },
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 25,
+      "status": "normal",
+      "main_cause": "地域的な抗議活動",
+      "incidents": [
         {
-          "title": "西アジア危機がインド経済にリスクとRBIが警告",
-          "location": "India (commenting on West Asia)",
-          "severity": 40,
-          "description": "インド準備銀行が西アジア地域の危機が国内の経済成長とインフレに短期的なリスクをもたらすと指摘。地政学的緊張が経済的な不安感を高めている状況。",
-          "source": "Business Standard"
+          "title": "データセンター建設への抗議活動が他郡へ拡大",
+          "location": "米国、ユタ州（Box Elder郡、Cache郡）",
+          "severity": 25,
+          "description": "Box Elder郡でのデータセンター建設に対する住民の抗議活動が、予定地の変更に伴いCache郡へと場所を移して継続される。地域的な環境問題や開発計画への不満が背景にある。広範な社会不安には至っていない。",
+          "source": "Cache Valley Daily"
         }
       ]
     }
