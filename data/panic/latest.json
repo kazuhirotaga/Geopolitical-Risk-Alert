@@ -1,157 +1,129 @@
 {
-  "date": "2026-05-28",
-  "summary": "世界各地で地域的な社会不安が散見される状況です。特に南米ボリビアでは経済危機と政府への大規模な抗議デモが続き、大統領が「限界点」を警告するなど最も緊迫しています。アジアではインドでの深刻な水不足による抗議活動や、バングラデシュでのATM枯渇が市民生活に直接的な影響を与えています。欧州では経済不安の兆候やフードバンクの在庫不足が報じられ、中東や北米でも社会秩序や経済に対する懸念が確認されるものの、現時点では世界規模の連鎖的なパニックには至っていません。",
-  "global_panic_index": 55,
+  "date": "2026-05-29",
+  "summary": "世界各地で局所的ながらも深刻な社会不安の兆候が見られます。南米ボリビアでは大規模な抗議活動が国を「限界点」に追い込み、中東では経済的困窮と政治的緊張が複合的に社会を不安定化させています。アジアの一部地域では生活必需品の不足や金融システムへの懸念が顕在化し、欧州では公共サービスへの不満が高まっています。全体として、市民生活に直結するインフラ問題や経済的苦境が、各地で社会的な動揺を引き起こしており、状況によっては急速なパニックに発展するリスクを抱えています。",
+  "global_panic_index": 56,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 45,
+      "panic_index": 43,
       "status": "unstable",
-      "main_cause": "経済不安、食料不足の兆候、社会サービスへの懸念",
+      "main_cause": "公共サービスへの不満、経済不安",
       "incidents": [
         {
-          "title": "Licensable picture: Activists protest before the Deutsche Bank AG annual shareholders meeting in Frankfurt",
-          "location": "ドイツ・フランクフルト",
+          "title": "Activists protest before Deutsche Bank AG annual shareholders meeting",
+          "location": "Frankfurt, Germany",
           "severity": 30,
-          "description": "ドイツ銀行の株主総会前で活動家が抗議活動を実施。経済的な不満や企業活動への異議を唱えるもので、大規模な混乱には至っていない。",
+          "description": "ドイツ銀行の年次株主総会前に、複数の活動家グループが企業の行動や政策に対し抗議活動を実施しました。具体的な暴動には発展していないものの、金融機関への不満の表出です。",
           "source": "reutersconnect.com"
         },
         {
-          "title": "The impossible debt: Europe arrives at the long run Keynes brushed aside",
-          "location": "欧州全域",
-          "severity": 45,
-          "description": "欧州が長期的な財政問題に直面しているとの論評。直接的なパニックではないが、広範な経済不安や金融システムの安定性への懸念が高まっていることを示唆。",
-          "source": "Brussels Signal"
-        },
-        {
-          "title": "Newton Abbot food bank seeks help from public as stocks run low",
-          "location": "イギリス・ニュートンアボット",
-          "severity": 55,
-          "description": "地域のフードバンクで食料在庫が不足しており、市民に支援を呼びかけている。食料供給に対する不安が高まり、困窮する市民への影響が懸念される。",
-          "source": "Teignmouth Post"
-        },
-        {
-          "title": "Germany news: Health care staff protest plan for major cuts",
-          "location": "ドイツ",
+          "title": "Health care staff protest plan for major cuts",
+          "location": "Germany",
           "severity": 40,
-          "description": "ドイツで医療従事者が大規模な医療費削減計画に抗議。医療サービスの質とアクセスに対する市民の不安を引き起こす可能性がある。",
+          "description": "ドイツ国内で医療従事者が、政府による大規模な医療費削減計画に反対するデモを行いました。公共サービス維持への懸念が高まっており、国民の不安を煽る可能性があります。",
           "source": "dw.com"
+        },
+        {
+          "title": "Fury in Kent at South East Water’s outages",
+          "location": "Kent, UK",
+          "severity": 60,
+          "description": "英国ケント州で、水道会社South East Waterによる度重なる断水に対し、住民から激しい怒りの声が上がっています。生活インフラの機能不全は、住民の不満を増大させ社会不安を引き起こしています。",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 43,
+      "status": "unstable",
+      "main_cause": "抗議活動の広がり、社会秩序への懸念",
+      "incidents": [
+        {
+          "title": "The Traveling Protestor: A National Problem of Interstate Criminal Conduct",
+          "location": "United States",
+          "severity": 50,
+          "description": "米国において、州を越えて移動する抗議活動家が犯罪行為に関与するケースが問題視されています。抗議活動が組織化され、より広範な地域に社会秩序の乱れをもたらす懸念があります。",
+          "source": "Homeland Security Today"
+        },
+        {
+          "title": "Bruce Springsteen’s next Philly show will be a 'teeth-kicking' protest",
+          "location": "Philadelphia, United States",
+          "severity": 35,
+          "description": "ロック歌手ブルース・スプリングスティーンのフィラデルフィア公演が、社会や政治に対する強いメッセージを込めた「プロテスト」の性格を持つと報じられました。文化的な表現を通じた社会批判が注目されています。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "雇用不安、金融機関の安定性への潜在的脅威",
+      "panic_index": 60,
+      "status": "volatile",
+      "main_cause": "経済的困窮、政治的緊張、金融システム不安",
       "incidents": [
         {
           "title": "Palestinian graduates in the West Bank enter a collapsed job market",
-          "location": "パレスチナ・ヨルダン川西岸地区",
-          "severity": 40,
-          "description": "西岸地区のパレスチナ人卒業生が崩壊した雇用市場に直面。若者の失業は社会不安の大きな要因となり、将来への絶望感からデモや暴動に発展するリスクがある。",
+          "location": "West Bank",
+          "severity": 60,
+          "description": "パレスチナ自治区の若者たちが、完全に崩壊した労働市場に直面しており、深刻な失業問題が社会不安と絶望感を増幅させています。経済的困窮が社会の不安定化を招いています。",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+          "location": "Occupied West Bank",
+          "severity": 65,
+          "description": "EUが占領下のヨルダン川西岸の「過激派」イスラエル人入植者に対し制裁を科しました。これは地域の緊張をさらに高め、紛争の激化や住民間の対立を助長する恐れがあります。",
           "source": "Al Jazeera"
         },
         {
           "title": "Iraq says foiled 1.5 trillion dinar fraud attempt on state banks",
-          "location": "イラク",
-          "severity": 40,
-          "description": "イラクが国有銀行に対する1.5兆ディナールの大規模な詐欺未遂を阻止。もし成功していれば金融システムに大きな打撃を与え、取り付け騒ぎに発展する恐れがあった。",
+          "location": "Iraq",
+          "severity": 55,
+          "description": "イラク政府が国有銀行に対する約1兆5千億ディナール（約11億ドル）の大規模な詐欺未遂事件を阻止したと発表しました。この事件は金融システムへの信頼に揺らぎを与えかねない事態です。",
           "source": "The New Region"
         }
       ]
     },
     {
       "region": "south_america",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "経済危機、政府への大規模な抗議活動",
+      "panic_index": 73,
+      "status": "critical",
+      "main_cause": "大規模な抗議活動、政情不安",
       "incidents": [
         {
-          "title": "Bolivian president warns country at 'breaking point' amid protests",
-          "location": "ボリビア",
-          "severity": 75,
-          "description": "ボリビア大統領が、数週間にわたる抗議活動を受けて国が「限界点」にあると警告。経済危機と社会不安が深刻化し、社会秩序の崩壊が懸念される緊迫した状況。",
-          "source": "BBC"
-        },
-        {
           "title": "Morales says Bolivia ‘rebelling’ against government that answers to US",
-          "location": "ボリビア",
-          "severity": 75,
-          "description": "モラレス元大統領が、ボリビアが政府に対して「反乱」を起こしていると発言。大規模な反政府デモが続き、政治的な対立が激化し国家分裂の危機に瀕している。",
+          "location": "Bolivia",
+          "severity": 70,
+          "description": "ボリビアのエボ・モラレス前大統領が、米国に従属する現政府に対し国民が「反乱を起こしている」と発言しました。これは大規模な反政府デモや政情不安の深刻化を示唆しています。",
           "source": "Daily Sabah"
         },
         {
-          "title": "Licensable picture: Aymara women protest over Bolivia’s economic crisis, in La Paz",
-          "location": "ボリビア・ラパス",
-          "severity": 75,
-          "description": "ボリビアの経済危機に抗議するアイマラ人女性たちのデモの様子。経済的な困窮が直接的な行動に繋がり、国民の不満が爆発寸前の状態。",
-          "source": "reutersconnect.com"
-        },
-        {
           "title": "Bolivian president warns country at 'breaking point' after weeks of protests",
-          "location": "ボリビア",
-          "severity": 78,
-          "description": "ボリビア大統領が数週間の抗議活動で国が「限界点」にあると再警告。状況がさらに悪化しており、政府と国民の間の信頼が失われつつある深刻な状態。",
+          "location": "Bolivia",
+          "severity": 75,
+          "description": "ボリビア大統領が、数週間にわたる大規模な抗議活動により国が「限界点」に達していると警告しました。社会秩序の崩壊や主要インフラのマヒが懸念される、極めて危険な状況です。",
           "source": "Australian Broadcasting Corporation"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 60,
+      "panic_index": 63,
       "status": "volatile",
-      "main_cause": "水不足、金融インフラの混乱、エネルギー供給の懸念",
+      "main_cause": "生活必需品の不足、金融システムへの不信",
       "incidents": [
         {
           "title": "Jaipur students stage unique protest over drinking water shortage using HOD's fridge",
-          "location": "インド・ジャイプール",
+          "location": "Jaipur, India",
           "severity": 55,
-          "description": "深刻な飲料水不足に対し、学生たちが大学の冷蔵庫を使って抗議。生活必需品の不足が人々の不満を募らせ、より大規模な抗議活動に発展する可能性。",
+          "description": "インドのジャイプールで、飲用水不足に抗議するため学生たちがユニークなデモを実施しました。生活必需品である水の問題は、住民の不満を増大させ、社会の安定を脅かしています。",
           "source": "India Today"
         },
         {
           "title": "ATM booths run dry on first day of weeklong holiday",
-          "location": "バングラデシュ",
-          "severity": 65,
-          "description": "長期休暇初日にATMの現金が枯渇。金融システムへの信頼失墜や、現金の引き出しを求める人々による混乱、あるいは暴動の可能性も示唆される。",
+          "location": "(Likely Bangladesh)",
+          "severity": 70,
+          "description": "長期休暇の初日に、各地のATMで現金が枯渇する事態が発生しました。これは金融システムへの信頼を揺るがし、市民の日常生活に深刻な混乱とパニックを引き起こしています。",
           "source": "The Daily Star"
-        },
-        {
-          "title": "Congress protests water shortage in Jaipur amid heatwave, Khachariyawas issues 24-hour ultimatum",
-          "location": "インド・ジャイプール",
-          "severity": 60,
-          "description": "熱波中の水不足に対し、政党が抗議デモを行い、24時間以内の解決を要求。政治的な対立が加わり、事態がエスカレートする危険性がある。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "People take to streets with torches over water shortage in U'khand | Delhi also facing water shortage: Reports",
-          "location": "インド・ウッタラカンド、デリー",
-          "severity": 65,
-          "description": "水不足に対して人々がトーチを持って街頭デモを実施。複数の都市で水不足が深刻化しており、不満が蓄積され、暴動や略奪につながる可能性が高い。",
-          "source": "Inshorts"
-        },
-        {
-          "title": "[Asia Report] The Flames of Hormuz and ASEAN's Achilles' Heel",
-          "location": "アジア（特にASEAN諸国）",
-          "severity": 50,
-          "description": "ホルムズ海峡の情勢不安とASEAN諸国のエネルギー供給における脆弱性を指摘。これは潜在的なエネルギー不足への懸念を引き起こし、広範な社会不安につながる可能性がある。",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "社会秩序への潜在的脅威",
-      "incidents": [
-        {
-          "title": "The Traveling Protestor: A National Problem of Interstate Criminal Conduct",
-          "location": "米国",
-          "severity": 50,
-          "description": "州をまたがる抗議活動が犯罪行為に発展する問題が国家的な懸念事項となっている。抗議活動の過激化や組織犯罪化は、社会秩序の維持に対する脅威となる。",
-          "source": "Homeland Security Today"
         }
       ]
     }

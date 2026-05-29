@@ -1,5 +1,74 @@
 [
   {
+    "date": "2026-05-29",
+    "summary": "アメリカとイランの間で停戦合意にも関わらずアメリカがイランを攻撃。ラトビアはロシア国境にドローン迎撃部隊を派遣。ウクライナ情勢は瀬戸際にあり、今後の6ヶ月が重要となる見込み。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-05-26",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "アメリカ軍がイランのミサイル発射地点と機雷敷設船を攻撃",
+        "content": "アメリカ軍は、イランが機雷を敷設しようとしていたとして、イラン国内のミサイル発射地点と船舶に対して自衛のための攻撃を実施。停戦合意にも関わらず攻撃が行われた。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/26/us-launches-self-defense-strikes-against-iran-amid-ongoing-ceasefire/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-05-27",
+        "location": "ラトビア・ロシア国境",
+        "region": "europe",
+        "title": "ラトビアがロシア国境にドローン迎撃部隊を派遣",
+        "content": "ラトビア軍は、ロシア国境におけるドローン侵入に対応するため、ローカルインターセプタードローンを装備した機動迎撃部隊を国境地帯に配備。",
+        "involved_parties": [
+          "ラトビア軍",
+          "ロシア"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/27/latvia-sends-mobile-intercept-units-to-russian-border-in-wake-of-drone-incursions/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-05-27",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナ軍司令官が今後の戦局における重要な転換点を予測",
+        "content": "ウクライナ軍の司令官は、ロシアからの戦場での主導権を奪い、和平交渉に向けた立場を強化するために、今後6ヶ月が極めて重要な期間となるとの見解を示す。",
+        "involved_parties": [
+          "ウクライナ軍",
+          "ロシア軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/27/senior-ukrainian-commander-sees-imminent-turning-point-in-war/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-05-22",
+        "location": "不明",
+        "region": "europe",
+        "title": "米軍「オペレーション・エピック・フューリー」で42機の航空機が損失・損傷",
+        "content": "米国議会の報告書によると、「オペレーション・エピック・フューリー」において、米軍は42機の航空機を損失または損傷。内、ドローンが25機を占める。",
+        "involved_parties": [
+          "アメリカ軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-28",
     "summary": "米国がイランに対して「自衛」のための攻撃を実施。ウクライナはスウェーデンから旧型Gripen戦闘機の供与を受け、新型機20機を購入予定。ラトビアはロシア国境にドローン迎撃部隊を派遣。米軍需物資の枯渇と再構築の遅延が指摘される。",
     "events": [
@@ -4085,93 +4154,6 @@
         "urgency": "high",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/unmanned/2026/04/24/ukraine-to-field-25000-ground-robots-in-push-to-replace-soldiers-for-frontline-logistics/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-29",
-    "summary": "ウクライナ、イランでの戦闘関連事象が発生。ウクライナでは無人艇によるShahedドローン迎撃、地上ロボットの戦線投入、ロシアとの停戦協議に関する動き。イランでは戦争の長期化懸念と戦費増大が報告。米軍はフィリピンで模擬防衛作戦を実施。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-04-29",
-        "location": "フィリピン",
-        "region": "east_asia",
-        "title": "米海兵隊、フィリピンでの模擬防衛作戦でビーチ侵攻部隊を制圧",
-        "content": "米海兵隊がフィリピンでの模擬防衛作戦に参加。ビーチに侵攻する敵部隊を制圧し、撤退する敵に対し爆薬を搭載したドローンによる攻撃を実施。",
-        "involved_parties": [
-          "米海兵隊",
-          "模擬敵部隊"
-        ],
-        "event_type": "clash",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-23",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ無人艇がShahedドローン迎撃に成功",
-        "content": "ウクライナが無人艇から発射した迎撃ミサイルによりShahedドローンの撃墜に成功。将来的な交渉においてロシアの譲歩を引き出すための強力な防衛手段となる可能性。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "ロシア軍"
-        ],
-        "event_type": "clash",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/industry/techwatch/2026/04/23/in-first-ukrainian-unmanned-vessel-launches-interceptor-to-knock-out-shahed-drone/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-04-24",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ軍、地上ロボットを前線での兵站に投入",
-        "content": "ウクライナ軍は25,000機の地上ロボットを前線での兵站任務に投入。3月には9,000回以上の前線ミッションを実施し、昨年夏には初めてロシア軍の陣地を占拠。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "ロシア軍"
-        ],
-        "event_type": "clash",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/unmanned/2026/04/24/ukraine-to-field-25000-ground-robots-in-push-to-replace-soldiers-for-frontline-logistics/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-04-29",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "トランプ氏、プーチン氏とウクライナ停戦について協議",
-        "content": "トランプ氏がプーチン氏との電話会談で、ウクライナでの停戦について協議したと発言。",
-        "involved_parties": [
-          "アメリカ",
-          "ロシア",
-          "ウクライナ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/"
-      },
-      {
-        "id": "event-5",
-        "timestamp": "2026-04-29",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "イラン戦争の費用、250億ドルに",
-        "content": "米国防総省関係者によると、イラン戦争にかかる費用は現在までに250億ドルに達しており、その大部分が軍需品に費やされている。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/"
       }
     ]
   }
