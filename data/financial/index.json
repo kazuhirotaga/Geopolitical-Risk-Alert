@@ -1,19 +1,16 @@
 [
   {
     "date": "2026-05-30",
-    "summary": "株式市場はテクノロジー株主導で最高値を更新する一方、原油価格は下落。AI関連銘柄への期待が高まる。しかし、米イラン間の緊張緩和期待と裏腹に、中東情勢は依然としてリスク要因。暗号資産市場は株式市場と異なり、Bitcoin ETFからの資金流出が続く。",
+    "summary": "株式市場は好調を維持する一方、暗号資産市場はETF需要の減退や量子コンピュータのリスクなどから低迷。AI関連銘柄はDellの好決算を受け急騰。中東情勢は原油価格に影響を与え、インフレ懸念も残る。全体として市場の二極化が進むリスクがある。",
     "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
-      "global": "medium",
-      "north_america": "low",
-      "europe": "low",
-      "east_asia": "none",
-      "south_america": "none",
-      "africa": "none",
-      "middle_east": "medium"
+      "global": "high",
+      "north_america": "medium",
+      "europe": "medium",
+      "east_asia": "none"
     },
-    "generated_at": "2026-05-30T03:45:55.363846"
+    "generated_at": "2026-05-30T08:32:42.560628"
   },
   {
     "date": "2026-05-29",
