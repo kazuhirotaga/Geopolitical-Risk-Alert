@@ -1,19 +1,16 @@
 [
   {
     "date": "2026-05-30",
-    "summary": "本日、金融市場は複数のリスク要因に直面しています。イランを巡る地政学的緊張、暗号資産市場の変動、AI関連株の過熱感、そして米国の対イラン制裁強化などが複合的に影響し、市場の不確実性を高めています。",
+    "summary": "株式市場は好調を維持する一方、インフレと金利上昇の懸念が残る。地政学的リスクとしてイラン情勢が引き続き注視される。暗号資産市場は規制リスクと技術的リスクが混在し、ボラティリティが高い状況が続く。",
     "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
-      "global": "medium",
+      "global": "high",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "low",
-      "south_america": "none",
-      "africa": "none",
-      "middle_east": "high"
+      "east_asia": "none"
     },
-    "generated_at": "2026-05-30T16:08:03.105189"
+    "generated_at": "2026-05-30T19:23:12.941847"
   },
   {
     "date": "2026-05-29",
