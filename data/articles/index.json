@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-30",
+    "summary": "ウクライナ情勢の緊迫化、イスラエル・パレスチナ紛争の激化、イランを巡る緊張など、地政学的リスクが高まっている。特に、紛争地域における性暴力の増加が深刻な問題となっている。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "medium",
+      "south_asia": "none",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "critical",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "low"
+    },
+    "generated_at": "2026-05-30T03:45:37.542562"
+  },
+  {
     "date": "2026-05-29",
     "summary": "ウクライナ情勢緊迫化、イスラエル・イランを巡る緊張、国連の紛争地性暴力リストへのイスラエル・ロシア追加など、地政学的リスクが高まっている。アジア安全保障会議では国際秩序の維持が訴えられた。",
     "overall_risk_level": "high",

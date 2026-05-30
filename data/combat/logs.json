@@ -1,5 +1,76 @@
 [
   {
+    "date": "2026-05-30",
+    "summary": "ロシア・ウクライナ情勢では、ロシア軍によるドローン攻撃がルーマニア領内にも及びNATOが防衛を誓約。米国はイランに対して自衛のための攻撃を実施。ウクライナではロシアの滑空爆弾による攻撃が激化。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-05-26",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米軍がイランのミサイル発射地点と機雷敷設艇に対し自衛攻撃",
+        "content": "米国軍は、停戦合意下にもかかわらず、イランのミサイル発射地点と機雷敷設を試みるボートに対して軍事攻撃を実施。自衛措置として行われた。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/26/us-launches-self-defense-strikes-against-iran-amid-ongoing-ceasefire/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-05-29",
+        "location": "ルーマニア",
+        "region": "europe",
+        "title": "ロシアのドローンがルーマニア領内のアパートを攻撃",
+        "content": "ロシアのドローンがルーマニア領内のアパートを攻撃し、民間人2名が負傷。NATOは同盟国の領土を断固として守ると表明。",
+        "involved_parties": [
+          "ロシア軍",
+          "ルーマニア",
+          "NATO"
+        ],
+        "event_type": "bombing",
+        "urgency": "critical",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/29/romania-says-russian-drone-hit-apartment-block-nato-vows-to-defend-alliance-territory/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-05-29",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ロシア軍による滑空爆弾攻撃が激化",
+        "content": "ロシア軍はウクライナの最前線陣地に対し、記録的な数の滑空爆弾を投入し、攻撃を激化させている。ウクライナ国防省が発表。",
+        "involved_parties": [
+          "ロシア軍",
+          "ウクライナ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/29/ukraine-would-gain-advantage-over-russian-glide-bombs-with-gripen-meteor-combo/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-05-29",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ウクライナにおけるロシア軍の死者数が約50万人に達したと英国情報機関が発表",
+        "content": "英国の情報機関のトップが、ウクライナにおけるロシア軍の死者数が約50万人に達したと発表。2022年の侵攻開始以来、ロシア軍は初めて守勢に回っているとの見方を示した。",
+        "involved_parties": [
+          "ロシア軍",
+          "ウクライナ軍"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/29/nearly-500000-russian-soldiers-killed-in-ukraine-top-uk-intel-chief-says/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-29",
     "summary": "ウクライナでのロシア軍兵士の死者数が増加。ルーマニアではロシアのドローンが集合住宅を攻撃。アメリカはイランに対する自衛的攻撃を実施。ラトビアはドローン侵入を受け、ロシア国境に迎撃部隊を派遣。ウクライナはスウェーデンのグリペン戦闘機を購入し、ロシアの滑空爆弾に対抗。",
     "events": [
@@ -4068,92 +4139,6 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/europe/2026/04/30/investigation-russian-shadow-airlines-use-algeria-as-base-for-secretive-missions/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-30",
-    "summary": "ウクライナでは前線での兵士交代が問題視され、軍幹部が対応。イラン戦争の費用は250億ドルに達する。米海兵隊はフィリピンで模擬防衛訓練を実施。ウクライナは地上ロボットを前線に投入し、ロシア軍の拠点を占拠した。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-04-29",
-        "location": "フィリピン",
-        "region": "east_asia",
-        "title": "米海兵隊、フィリピンで模擬防衛演習を実施",
-        "content": "米海兵隊が、爆発物を搭載した一人称視点ドローンを使用し、海岸に侵入した敵を撃退する模擬演習を実施。フィリピンの防衛を想定。",
-        "involved_parties": [
-          "アメリカ軍",
-          "模擬敵軍"
-        ],
-        "event_type": "other",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-29",
-        "location": "不明",
-        "region": "middle_east",
-        "title": "イラン戦争、これまでの費用は250億ドル",
-        "content": "米国防総省当局者が下院軍事委員会で、イラン戦争にかかった費用がこれまでに250億ドルに達したと証言。費用の大部分は軍需品に充当。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-04-29",
-        "location": "不明",
-        "region": "europe",
-        "title": "トランプ氏、プーチン氏とウクライナ停戦について協議",
-        "content": "トランプ氏は、ロシアのプーチン大統領との電話会談で、ウクライナ戦争における「短期間の停戦」について提案したと発言。",
-        "involved_parties": [
-          "ロシア",
-          "ウクライナ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-04-23",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナの無人艦艇がShahedドローンを撃墜",
-        "content": "ウクライナが無人艦艇から迎撃ミサイルを発射し、ロシアのShahedドローンを撃墜。交渉におけるロシアの譲歩を弱める可能性。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "ロシア軍"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/industry/techwatch/2026/04/23/in-first-ukrainian-unmanned-vessel-launches-interceptor-to-knock-out-shahed-drone/"
-      },
-      {
-        "id": "event-5",
-        "timestamp": "2026-04-24",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ、25,000機の地上ロボットを導入",
-        "content": "ウクライナが前線での兵士の代替として25,000機の地上ロボットを導入。3月には9,000回以上の前線任務を実施、昨年夏には最初のロシア軍拠点を占拠。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "ロシア軍"
-        ],
-        "event_type": "occupy",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/unmanned/2026/04/24/ukraine-to-field-25000-ground-robots-in-push-to-replace-soldiers-for-frontline-logistics/"
       }
     ]
   }

@@ -1,116 +1,88 @@
 {
-  "date": "2026-05-29",
-  "summary": "世界全体では、一部地域で水や燃料といった生活必需品の深刻な不足が住民の抗議活動を引き起こし、社会不安が増大しています。特にアフリカのガーナと南アジアのインドで顕著です。一方、北米では小規模な抗議が報じられ、東アジアでは大規模な政治デモが展開されていますが、これらは現状で社会秩序の崩壊には至っていません。全体として、特定のインフラ問題が地域的な不安を高めている状況です。",
-  "global_panic_index": 42,
+  "date": "2026-05-30",
+  "summary": "世界各地で局地的な社会不安の兆候が見られます。特にアフリカのガーナと南アジアのインドでは、長期にわたる水不足や燃料不足といった生活必需品の供給問題が大規模な住民抗議デモを引き起こし、社会的な緊張が高まっています。日本では政治的な大規模デモに加え、過去に「暴動」と称される事態が報じられており、社会秩序への懸念が存在します。北米では特定の議題に関する抗議活動が見られるものの、全体的な金融不安や買いだめ、逃避行といった広範なパニック行動の報告は限定的です。",
+  "global_panic_index": 58,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 25,
+      "panic_index": 30,
       "status": "stable",
-      "main_cause": "データセンター建設に関する住民の懸念",
+      "main_cause": "特定の問題に対する地域的な抗議",
       "incidents": [
         {
           "title": "データセンター建設への抗議活動",
-          "location": "アメリカ、Cache County (Box Elder)",
+          "location": "Cache County, US",
           "severity": 30,
-          "description": "Box Elderのデータセンターに関する住民の不安がCache Countyへ波及し、5月30日に抗議デモが予定されています。これは地域住民の生活環境や資源への影響に対する懸念から発生しており、今後の展開が注視されます。",
+          "description": "ユタ州Box Elderデータセンターの建設に対する抗議活動がCache Countyに拡大する予定。特定の地域的な議題に限定された組織的なデモであり、広範なパニックには至っていない。",
           "source": "Cache Valley Daily"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "政治的イシュー（反戦、改憲反対）に対する大規模デモ",
-      "incidents": [
-        {
-          "title": "国会前で約1万人が反戦・改憲反対デモ",
-          "location": "日本、国会前",
-          "severity": 50,
-          "description": "国会前で約1万人が戦争反対や改憲反対を訴える大規模なデモを行いました。参加者は「総理は憲法守れ」などのコールを上げ、全国各地150か所でも同様の抗議活動が展開されましたが、暴徒化や略奪の報告はありません。",
-          "source": "毎日新聞, 朝日新聞, 東京新聞デジタル"
-        },
-        {
-          "title": "各地で「小さなデモ」が共感を呼ぶ",
-          "location": "日本、全国各地",
-          "severity": 40,
-          "description": "国会前だけでなく、駅前や公園など各地で小規模なデモが頻繁に開催され、「声を上げるのは特別なことじゃない」というメッセージが広がっています。これは社会全体の政治的関心や不満の広がりを示唆しています。",
-          "source": "朝日新聞"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 70,
-      "status": "unstable",
-      "main_cause": "深刻な水不足および燃料不足",
-      "incidents": [
-        {
-          "title": "デリーで水不足に対する大規模抗議デモ",
-          "location": "インド、デリー",
-          "severity": 75,
-          "description": "熱波の中、デリーで深刻な水不足が発生し、AAP（Aam Aadmi Party）が「Matka Phor（水瓶割り）」を含む大規模な抗議デモを複数回実施しています。住民の生活に直接影響する問題であり、不満が爆発寸前の状況です。",
-          "source": "Deccan Herald, ThePrint, Devdiscourse, Oneindia"
-        },
-        {
-          "title": "Jagatpura地区の住民が水不足に抗議",
-          "location": "インド、Jagatpura",
-          "severity": 70,
-          "description": "Jagatpuraの住民もまた、水不足に対して抗議活動を行っています。都市部での広範な水供給問題が住民の間に深刻な不安と不満を引き起こしており、状況が悪化すればさらなる混乱に繋がりかねません。",
-          "source": "MSN"
-        },
-        {
-          "title": "Andhra Pradesh州で燃料危機に対する抗議",
-          "location": "インド、Andhra Pradesh州",
-          "severity": 65,
-          "description": "Andhra Pradesh州では燃料危機と不足が報じられ、YSRCPの指導者らが抗議活動を行っています。エネルギー供給の不安定さは経済活動だけでなく、日常生活にも大きな影響を与え、社会不安を増幅させています。",
-          "source": "Dailyhunt"
-        }
-      ]
-    },
-    {
       "region": "africa",
-      "panic_index": 75,
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "数ヶ月にわたる深刻な水不足",
+      "main_cause": "長期的な水不足",
       "incidents": [
         {
-          "title": "Gbetsileで数ヶ月にわたる水不足に住民が抗議",
-          "location": "ガーナ、Gbetsile",
-          "severity": 80,
-          "description": "ガーナのGbetsile地域とその周辺で、数ヶ月にわたる深刻な水不足が発生し、住民が大規模な抗議デモを複数回実施しています。これは基本的な生活インフラの危機であり、住民の生活と健康を脅かす重大な社会不安の源となっています。",
-          "source": "Modern Ghana"
+          "title": "ガーナ、Gbetsile住民が数ヶ月にわたる水不足に抗議",
+          "location": "Gbetsile, Ghana",
+          "severity": 70,
+          "description": "Gbetsileの住民が数ヶ月続く深刻な水不足と不公平な水道料金に対し大規模な抗議デモを実施。生活必需品の不足が住民の不満を募らせ、社会的な不安定要因となっている。",
+          "source": "Modern Ghana / CitiNewsroom.com"
         }
       ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 20,
-      "status": "stable",
-      "main_cause": "特になし（インフレ懸念は報じられるがパニックには至らず）",
-      "incidents": []
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 15,
-      "status": "normal",
-      "main_cause": "特になし（危機によるリスクは指摘されるがパニックには至らず）",
-      "incidents": []
-    },
-    {
-      "region": "south_america",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
     },
     {
       "region": "southeast_asia",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "水と燃料の深刻な不足",
+      "incidents": [
+        {
+          "title": "デリーで深刻な水不足に対する抗議デモ",
+          "location": "Delhi, India",
+          "severity": 75,
+          "description": "熱波の中、デリーの複数の地域で水不足が深刻化し、政党主導の「マツカ・フォール」抗議デモが実施されている。生活必需品不足が広範な社会不安を引き起こしている。",
+          "source": "Deccan Herald / ThePrint / Devdiscourse"
+        },
+        {
+          "title": "アンドラプラデーシュ州で燃料危機に対する抗議",
+          "location": "Andhra Pradesh, India",
+          "severity": 65,
+          "description": "インドのアンドラプラデーシュ州で燃料不足が報告され、YSRCPのリーダーらが抗議活動を実施。エネルギー不足が生活に影響を与え、政治的なデモにつながっている状況。",
+          "source": "Dailyhunt"
+        },
+        {
+          "title": "ジャガトプラ住民が水不足に抗議",
+          "location": "Jagatpura, India",
+          "severity": 60,
+          "description": "ジャガトプラの住民が水不足に対して抗議デモを実施。デリー周辺の他地域でも同様の抗議が報告されており、水不足問題の広範な影響が懸念される。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "政治的問題に対する大規模デモ、一部での暴動",
+      "incidents": [
+        {
+          "title": "国会前で大規模な反戦・改憲反対デモ",
+          "location": "東京, 日本",
+          "severity": 60,
+          "description": "国会前で約1万人が集結し反戦・改憲反対を訴える大規模デモを実施。全国各地でも同様のデモが報告されており、政治的な社会不安が広範に存在する。",
+          "source": "毎日新聞 / 朝日新聞"
+        },
+        {
+          "title": "令和の日本で発生した「沖縄暴動」",
+          "location": "沖縄, 日本",
+          "severity": 80,
+          "description": "報道で「沖縄暴動」と称される事態が発生したと指摘。社会秩序が一時的に大きく混乱したことを示唆しており、地域レベルでの深刻な社会不安を表す事象。",
+          "source": "現代ビジネス"
+        }
+      ]
     }
   ]
 }
