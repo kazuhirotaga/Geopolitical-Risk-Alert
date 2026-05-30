@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-05-30",
-    "summary": "株式市場はAI関連銘柄を中心に好調を維持しているが、過熱感や著名投資家の警告も出ており、注意が必要。米イラン間の緊張緩和期待から原油価格が下落しているが、地政学的リスクは依然として高い。暗号資産市場はETF需要の減退から軟調。",
+    "summary": "本日、金融市場は複数のリスク要因に直面しています。イランを巡る地政学的緊張、暗号資産市場の変動、AI関連株の過熱感、そして米国の対イラン制裁強化などが複合的に影響し、市場の不確実性を高めています。",
     "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
-      "global": "high",
+      "global": "medium",
       "north_america": "medium",
       "europe": "medium",
-      "east_asia": "medium"
+      "east_asia": "low",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "high"
     },
-    "generated_at": "2026-05-30T13:47:31.121714"
+    "generated_at": "2026-05-30T16:08:03.105189"
   },
   {
     "date": "2026-05-29",
