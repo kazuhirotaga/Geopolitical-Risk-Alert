@@ -1,13 +1,13 @@
 {
   "date": "2026-05-30",
-  "summary": "本日は、FRB関連の公的文書公開が中心。金融政策の方向性を示唆するような要人発言は確認されず。金融機関の元従業員に対する措置に関する発表があったが、市場への直接的な影響は限定的と見られる。",
+  "summary": "本日は、FRB関連のニュースが中心です。金融政策に関する具体的な発言は見当たらず、金融機関の元従業員に対する執行措置と、割引率に関する過去の会議議事録の公開に留まります。市場への直接的な影響は限定的と考えられます。",
   "statements": [
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
+      "speaker": "Federal Reserve Board",
+      "title": "アメリカ合衆国連邦準備制度理事会",
       "quote": "Atlantic Union BankとFrost Bankの元従業員に対し、執行措置を実施",
-      "context": "FRBによるプレスリリース",
-      "analysis": "金融機関のコンプライアンス違反に対するFRBの姿勢を示すもの。個別の事案であり、金融システム全体への影響は小さいと考えられるが、金融機関は内部統制の強化を迫られる可能性がある。",
+      "context": "プレスリリース",
+      "analysis": "金融機関のコンプライアンス違反に対するFRBの姿勢を示すもの。個別の事案であり、金融市場全体への影響は小さいと考えられますが、金融機関に対する監督強化の兆候と捉えることも可能です。",
       "importance": "low",
       "tags": [
         "金融規制",
@@ -17,22 +17,22 @@
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm"
     },
     {
-      "speaker": "連邦準備制度理事会",
-      "title": "FRB",
-      "quote": "2026年4月20日と29日の公定歩合に関する理事会会合の議事録を公開",
-      "context": "FRBによるプレスリリース",
-      "analysis": "議事録の内容次第では、今後の金融政策の方向性に関する手がかりが得られる可能性がある。ただし、現時点では具体的な発言内容が不明なため、市場への影響は不確定。",
+      "speaker": "Federal Reserve Board",
+      "title": "アメリカ合衆国連邦準備制度理事会",
+      "quote": "2026年4月20日と29日の割引率に関する理事会会議の議事録を公開",
+      "context": "プレスリリース",
+      "analysis": "過去の金融政策決定プロセスに関する透明性向上を目的とした情報公開。議事録の内容次第では、今後の金融政策の方向性に関する手がかりが得られる可能性がありますが、現時点では具体的な影響は不明です。",
       "importance": "medium",
       "tags": [
         "金融政策",
-        "公定歩合",
+        "割引率",
         "FRB",
         "議事録"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm"
     }
   ],
-  "generated_at": "2026-05-30T08:32:50.238516",
+  "generated_at": "2026-05-30T10:49:44.687729",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

@@ -1,5 +1,32 @@
 [
   {
+    "id": "a1927ddbb5da",
+    "title": "イラン戦闘終結の覚書合意は不透明 米は経済制裁",
+    "summary": "アメリカのトランプ大統領は、イランとの戦闘終結に向けた協議をめぐり、最終的な判断を下すためとして会議を開きましたが、アメリカの有力紙は、トランプ大統領が結論を出さなかったと報じました。こうした中、アメリカは、経済制裁を発表するなどしてイランをけん制し、合意が実現するかは依然として不透明な状況です。",
+    "url": "http://www3.nhk.or.jp/news/html/20260530/k10015135611000.html",
+    "published": "2026-05-30T19:11:26+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
+    "id": "28358e403836",
+    "title": "キューバの米軍基地周辺で両軍高官が会談 緊張緩和か不透明",
+    "summary": "アメリカのトランプ政権がキューバへの圧力を強める中、両国の軍の高官が会談しましたが、詳細は明らかにされず、緊張の緩和に向かうのかは見通せない状況です。",
+    "url": "http://www3.nhk.or.jp/news/html/20260530/k10015136041000.html",
+    "published": "2026-05-30T18:15:33+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "north_america"
+    ]
+  },
+  {
     "id": "090d8835dd24",
     "title": "米国防長官 インド太平洋各国に安全保障負担要求 日本を評価",
     "summary": "シンガポールを訪れているアメリカのヘグセス国防長官は30日、「アジア安全保障会議」で演説し、中国が軍事力を急速に強化しているなか、インド太平洋地域の同盟国などが安全保障面での負担を増やすべきだと主張した上で、日本については、防衛力強化の取り組みを評価しました。",
@@ -26,6 +53,19 @@
     "regions": [
       "east_asia",
       "europe"
+    ]
+  },
+  {
+    "id": "191c2216e9f9",
+    "title": "Police fire tear gas during protest outside New Jersey ICE facility",
+    "summary": "Police fired tear gas and used horses to push back protesters outside the Delaney Hall immigration detention facility.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/police-fire-tear-gas-during-protest-outside-new-jersey-ice-facility?traffic_source=rss",
+    "published": "2026-05-30T09:28:36+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
     ]
   },
   {
@@ -161,9 +201,9 @@
     ]
   },
   {
-    "id": "745366885b77",
-    "title": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
-    "summary": "Israel pushes deeper into Lebanon just days after Israel's prime minister ordered 70 percent of Gaza to be occupied.",
+    "id": "d85778b4d7b3",
+    "title": "Iran war live: Supreme leader’s adviser blames US blockade for stalled deal",
+    "summary": "Israel issues two rounds of forced displacement orders for towns in southern Lebanon as forces push deeper into country.",
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
     "published": "2026-05-30T00:00:00+00:00",
     "source_name": "Al Jazeera",
@@ -294,19 +334,6 @@
     ]
   },
   {
-    "id": "615445d63811",
-    "title": "Canada sidelined in USMCA renegotiations as domestic economy dips",
-    "summary": "Canada strengthens Chinese trade ties, seeking economic diversification amid growing US–Canada trade tensions",
-    "url": "https://www.aljazeera.com/economy/2026/5/29/canada-sidelined-in-usmca-renegotiations-as-domestic-economy-dips?traffic_source=rss",
-    "published": "2026-05-29T20:41:21+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "north_america"
-    ]
-  },
-  {
     "id": "ece6c44a7c4c",
     "title": "【詳細】ロシア ウクライナに軍事侵攻（5月29日の動き）",
     "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる29日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
@@ -317,20 +344,6 @@
     "language": "ja",
     "regions": [
       "east_asia",
-      "europe"
-    ]
-  },
-  {
-    "id": "c6689ea6bbad",
-    "title": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
-    "summary": "New report says nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year.",
-    "url": "https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss",
-    "published": "2026-05-29T19:13:31+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
       "europe"
     ]
   },
@@ -359,19 +372,6 @@
     "language": "en",
     "regions": [
       "middle_east"
-    ]
-  },
-  {
-    "id": "11094a9b6ff9",
-    "title": "Russian rate of losses in Ukraine almost triples in one year",
-    "summary": "Territorially, Russia is at a standstill in 2026, assessments of its ground war reveal.",
-    "url": "https://www.aljazeera.com/news/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year?traffic_source=rss",
-    "published": "2026-05-29T18:28:55+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
     ]
   },
   {
