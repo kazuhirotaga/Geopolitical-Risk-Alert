@@ -1,144 +1,21 @@
 {
   "date": "2026-05-30",
-  "summary": "株式市場は好調を維持する一方、インフレと金利上昇の懸念が残る。地政学的リスクとしてイラン情勢が引き続き注視される。暗号資産市場は規制リスクと技術的リスクが混在し、ボラティリティが高い状況が続く。",
+  "summary": "株式市場は好調を維持する一方で、暗号資産市場は低迷。地政学的リスクとしてイラン情勢が引き続き懸念される。AI関連技術への投資が活発化する一方、詐欺や規制に関するリスクも顕在化している。",
   "overall_risk_level": "medium",
   "articles": [
     {
       "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イラン戦争の影響でホルムズ海峡の石油輸出量が回復しない可能性。航行の自由への挑戦が継続し、原油価格高騰のリスク。",
-      "analysis": "ホルムズ海峡の封鎖は、世界の原油供給に深刻な影響を与える。代替ルートの確保や備蓄放出などの対策が必要となるが、短期的には原油価格の上昇は避けられない。地政学的リスクがエネルギー市場に与える影響は大きく、インフレ圧力の増大につながる可能性がある。今後のイラン情勢と各国の対応を注視する必要がある。",
+      "summary": "イラン戦争の影響でホルムズ海峡の石油輸出量が回復しない可能性。航行の自由が脅かされ、将来への懸念が高まっている。",
+      "analysis": "ホルムズ海峡の封鎖は、世界の石油供給に深刻な影響を与える可能性があり、エネルギー価格の高騰を招く恐れがある。地政学的リスクの高まりは、投資家のリスク回避姿勢を強め、株式市場などへの悪影響も考えられる。代替ルートの確保やエネルギー源の多様化が急務となるが、短期的には供給不安が続く可能性が高い。イラン情勢の不安定化は、中東地域全体に波及し、さらなる地政学的リスクを高める可能性がある。",
       "key_entities": [
         "イラン",
         "ホルムズ海峡",
-        "原油価格"
+        "OPEC"
       ],
       "sources": [
         "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "SpaceX Holds $1.5 Billion in Bitcoin. Does That Make the Coin a Buy?",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "SpaceXが15億ドルのビットコインを保有。機関投資家の暗号資産への関心を示すが、ボラティリティリスクも考慮する必要。",
-      "analysis": "SpaceXのビットコイン保有は、暗号資産市場への機関投資家の参入を促す可能性がある。しかし、ビットコインの価格変動は大きく、SpaceXの財務状況に影響を与える可能性もある。また、規制当局の監視が強化される可能性もあり、今後の動向を注視する必要がある。暗号資産市場全体のボラティリティリスクは依然として高い。",
-      "key_entities": [
-        "SpaceX",
-        "Bitcoin"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "SECがAI取引ボットを装った1230万ドルの暗号資産詐欺でテキサス州の男性を提訴。暗号資産詐欺のリスク。",
-      "analysis": "AI技術を悪用した暗号資産詐欺が横行しており、投資家保護の観点から大きな問題となっている。SECは規制を強化する方針を示しており、暗号資産市場全体の信頼性低下につながる可能性がある。投資家は、高利回りを謳う投資案件には注意し、十分な情報収集を行う必要がある。",
-      "key_entities": [
-        "SEC",
-        "暗号資産",
-        "AI"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "AIハッカーによる攻撃リスクが、大手銀行のブロックチェーン技術導入を妨げている。DeFiの脆弱性が課題。",
-      "analysis": "AI技術の進化は、金融機関にとって新たな脅威となっている。特に、DeFi（分散型金融）の脆弱性を悪用したハッキング事件が多発しており、大手銀行はブロックチェーン技術の導入に慎重な姿勢を示している。セキュリティ対策の強化が急務であり、規制当局による監督も必要となる。",
-      "key_entities": [
-        "AI",
-        "ブロックチェーン",
-        "DeFi",
-        "大手銀行"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Dow Jones Futures: Iran Deal Or No, Market Hits Highs; Nvidia, Tesla Lead 5 Titans Near Buy Points",
-      "region": "middle_east",
-      "risk_level": "medium",
-      "summary": "イラン情勢に関わらず市場は高値を更新。Nvidia、Teslaなど主要銘柄が買いポイントに接近。",
-      "analysis": "市場はイラン情勢の影響を限定的に捉え、テクノロジー株を中心に上昇基調を維持している。NvidiaやTeslaなどの成長株は、引き続き投資家の関心を集めている。しかし、高PER（株価収益率）銘柄への集中投資は、市場全体の調整リスクを高める可能性がある。今後の金利動向や経済指標に注意する必要がある。",
-      "key_entities": [
-        "Dow Jones",
-        "Nvidia",
-        "Tesla"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Stocks including Nvidia and Apple are top picks as market run-up continues, Bank of America says",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "バンク・オブ・アメリカがNvidiaとAppleを6月のおすすめ銘柄に選定。市場の上昇が継続。",
-      "analysis": "バンク・オブ・アメリカがNvidiaとAppleを推奨していることは、市場のセンチメントが依然として強気であることを示している。これらの銘柄は、AIやテクノロジー分野の成長を牽引しており、長期的な投資対象として魅力的である。ただし、市場全体の過熱感には注意が必要であり、分散投資を心がけるべきである。",
-      "key_entities": [
-        "Nvidia",
-        "Apple",
-        "Bank of America"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Micron is one of the most overbought stocks after this week’s rally to new highs",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "Micron株が今週の高値更新で買われすぎの状態に。調整リスクが高まる。",
-      "analysis": "Micron株は、半導体市場の好調を背景に大きく上昇しているが、買われすぎの状態にある。テクニカル指標からも調整の兆候が見られるため、短期的な下落リスクが高まっている。投資家は、利益確定売りや市場全体の調整に注意する必要がある。",
-      "key_entities": [
-        "Micron"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Chevron CEO drops stark warning on oil prices",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "シェブロンCEOが原油価格について厳しい警告を発する。供給不安や地政学的リスクが背景。",
-      "analysis": "シェブロンCEOの警告は、原油市場の不安定性を示唆している。供給不安や地政学的リスクは、原油価格を押し上げる要因となる。インフレ圧力の増大や景気減速のリスクが高まる可能性がある。エネルギー政策の見直しや代替エネルギーへの投資が重要となる。",
-      "key_entities": [
-        "Chevron",
-        "原油価格"
-      ],
-      "sources": [
-        "Yahoo Finance"
       ],
       "source_types": [
         "media"
@@ -147,9 +24,9 @@
     {
       "title": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
       "region": "middle_east",
-      "risk_level": "high",
-      "summary": "米国がイランの暗号資産約10億ドルを没収。制裁強化の一環。地政学的リスクと暗号資産規制のリスク。",
-      "analysis": "米国によるイランの暗号資産没収は、制裁強化の一環であり、地政学的リスクを高める要因となる。また、暗号資産が制裁回避に利用されることを防ぐための規制強化が進む可能性がある。暗号資産市場全体の信頼性低下につながるリスクもある。",
+      "risk_level": "medium",
+      "summary": "米国がイランの暗号資産約10億ドル相当を押収。圧力強化の一環。",
+      "analysis": "米国の暗号資産押収は、イランに対する経済制裁の一環であり、地政学的緊張を高める可能性がある。暗号資産が制裁回避の手段として利用されている現状が浮き彫りになり、暗号資産に対する規制強化の動きを加速させる可能性がある。また、暗号資産市場全体に対する信頼性を損なう可能性も否定できない。地政学的リスクと規制リスクの両面から、暗号資産市場への影響が懸念される。",
       "key_entities": [
         "米国",
         "イラン",
@@ -163,16 +40,140 @@
       ]
     },
     {
-      "title": "Meta Platforms, Inc. (META) In Trouble Over Financial Scams On Platforms?",
+      "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Metaプラットフォーム上で金融詐欺が増加し、Meta社の責任が問われる可能性。",
-      "analysis": "Metaプラットフォーム上での金融詐欺の増加は、Meta社の評判を損なうだけでなく、法的責任を問われる可能性もある。プラットフォームのセキュリティ対策強化やユーザーへの注意喚起が急務となる。規制当局による監視も強化される可能性があり、Meta社の株価に影響を与える可能性がある。",
+      "summary": "SECがAI取引ボットを装った暗号資産詐欺でテキサス州の男性を提訴。1230万ドルの被害。",
+      "analysis": "AI技術を悪用した暗号資産詐欺事件は、投資家保護の重要性を示唆している。規制当局による監視強化は避けられず、暗号資産市場全体の健全な発展を阻害する可能性がある。また、AI技術に対する不信感を煽り、関連技術の普及を遅らせる可能性も考えられる。投資家は、高利回りを謳う投資案件に対して、より慎重な姿勢を持つ必要がある。",
       "key_entities": [
-        "Meta"
+        "SEC",
+        "暗号資産",
+        "AI"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin ETF outflows reach record 9-day streak as investors pull $2.8 billion",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ビットコインETFから9日間連続で資金流出。流出額は28億ドルに達し、需要減退の兆候。",
+      "analysis": "ビットコインETFからの資金流出は、暗号資産市場に対する投資家のセンチメント悪化を示唆している。株式市場の好調と比較して、暗号資産市場のパフォーマンスが低迷していることが、資金流出の要因として考えられる。また、規制の不確実性や地政学的リスクも、投資家のリスク回避姿勢を強めている可能性がある。ビットコイン価格の下落圧力が高まり、市場全体のボラティリティが増大するリスクがある。",
+      "key_entities": [
+        "ビットコイン",
+        "ETF"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Stocks including Nvidia and Apple are top picks as market run-up continues, Bank of America says",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "バンク・オブ・アメリカが6月のおすすめ銘柄としてNvidiaやAppleを選出。株式市場の好調が続く。",
+      "analysis": "バンク・オブ・アメリカによる推奨は、NvidiaやAppleといった大手テクノロジー企業への投資を促進する可能性がある。これらの企業は、AI技術の発展やデジタル経済の拡大といったトレンドの恩恵を受けており、今後も成長が期待される。ただし、市場全体の過熱感や金利上昇リスクには注意が必要である。特定の銘柄への集中投資は、ポートフォリオのリスクを高める可能性があるため、分散投資を心がけるべきである。",
+      "key_entities": [
+        "Nvidia",
+        "Apple",
+        "バンク・オブ・アメリカ"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Dell stock skyrockets 32% for its best day ever as AI server revenue soars",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "Dellの株価が急騰。AIサーバーの売上高が大幅に増加し、過去最高の伸びを記録。",
+      "analysis": "Dellの株価急騰は、AI関連市場の成長に対する期待感の高まりを示している。AIサーバーの需要増加は、データセンターの拡大やAIアプリケーションの普及を背景としており、今後も継続する可能性が高い。ただし、競合他社の参入や技術革新のスピードによっては、Dellの優位性が揺らぐ可能性もある。AI関連市場の動向を注視し、リスク管理を徹底する必要がある。",
+      "key_entities": [
+        "Dell",
+        "AI"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "SoftBank to build up AI data centres in France with major investment",
+      "region": "europe",
+      "risk_level": "low",
+      "summary": "ソフトバンクがフランスにAIデータセンターを建設。大規模投資を計画。",
+      "analysis": "ソフトバンクによるフランスへのAIデータセンター建設は、ヨーロッパにおけるAI技術の普及を促進する可能性がある。データセンターの需要増加は、AIアプリケーションの開発やクラウドサービスの拡大を背景としており、今後も成長が期待される。ただし、データセンターの建設には、環境負荷やエネルギー消費といった課題も存在する。持続可能なデータセンターの実現に向けて、技術革新や政策支援が求められる。",
+      "key_entities": [
+        "ソフトバンク",
+        "AI",
+        "フランス"
       ],
       "sources": [
         "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "イラン戦争終結は、米国における新たな不平等の時代の始まりとなる可能性。株価は上昇する一方、消費者は高いエネルギー価格に苦しむ。",
+      "analysis": "イラン戦争の終結は、一時的に市場の安定をもたらす可能性があるが、長期的に見ると、米国における経済格差を拡大させる可能性がある。株価の上昇は、富裕層の資産を増加させる一方、高いエネルギー価格は、低所得者層の生活を圧迫する。政府は、格差是正に向けた政策を推進する必要がある。また、エネルギー価格の安定化に向けて、再生可能エネルギーの普及やエネルギー効率の改善に取り組むべきである。",
+      "key_entities": [
+        "米国",
+        "イラン"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "DOJ seeks Judge Eleanor Ross recusal in Georgia election case, citing reports she was disciplined",
+      "region": "north_america",
+      "risk_level": "medium",
+      "summary": "司法省がジョージア州の選挙訴訟でエレノア・ロス判事の忌避を要求。過去の懲戒処分を理由とする。",
+      "analysis": "司法省による判事の忌避要求は、政治的な不確実性を高める可能性がある。選挙訴訟の結果は、今後の政治情勢に大きな影響を与える可能性があり、市場のボラティリティが増大するリスクがある。また、司法の独立性に対する懸念が高まり、投資家の信頼を損なう可能性も否定できない。政治リスクを考慮した上で、慎重な投資判断が求められる。",
+      "key_entities": [
+        "司法省",
+        "ジョージア州"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "AIを活用したハッカーの存在が、大手銀行のブロックチェーン導入を阻んでいる。セキュリティ上の懸念。",
+      "analysis": "AIを活用したハッキング技術の進化は、金融機関にとって深刻な脅威となっている。ブロックチェーン技術のセキュリティ脆弱性を悪用されるリスクがあり、大手銀行は導入に慎重な姿勢を示している。セキュリティ対策の強化は急務であり、AIを活用した防御システムの開発が求められる。また、規制当局による監視強化も不可欠である。金融機関は、セキュリティリスクを十分に理解した上で、ブロックチェーン技術の導入を検討する必要がある。",
+      "key_entities": [
+        "大手銀行",
+        "AI",
+        "ブロックチェーン"
+      ],
+      "sources": [
+        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -182,10 +183,10 @@
   "region_risk_map": {
     "global": "high",
     "north_america": "medium",
-    "europe": "medium",
+    "europe": "low",
     "east_asia": "none"
   },
-  "generated_at": "2026-05-30T19:23:12.941847",
+  "generated_at": "2026-05-30T22:04:18.592580",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
