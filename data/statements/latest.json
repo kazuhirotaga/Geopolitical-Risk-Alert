@@ -1,38 +1,38 @@
 {
   "date": "2026-05-31",
-  "summary": "本日は、FRB関連の公開情報が中心。金融政策に関する具体的な発言は見当たらず、個別事案に対する執行措置と、過去の公定歩合に関する議事録公開に留まる。市場への直接的な影響は限定的と考えられる。",
+  "summary": "本日は、FRB関連のニュースが中心。金融政策に関する具体的な発言は見当たらず、金融機関の元従業員に対する措置と、割引率に関する会議議事録の公開に留まる。市場への直接的な影響は小さいと考えられる。",
   "statements": [
     {
-      "speaker": "Federal Reserve Board",
-      "title": "アメリカ合衆国連邦準備制度理事会",
-      "quote": "Atlantic Union Bankの元従業員およびFrost Bankの元従業員に対する執行措置を発表。",
-      "context": "プレスリリース",
-      "analysis": "具体的な執行措置の内容は不明だが、金融機関の従業員に対する不正行為への対応を示すもの。個別の事案であり、金融市場全体への影響は小さいと考えられる。ただし、FRBが金融機関のコンプライアンスを重視している姿勢を示すものとして、間接的な影響はありうる。",
+      "speaker": "連邦準備制度理事会 (Federal Reserve Board)",
+      "title": "政府機関",
+      "quote": "Atlantic Union BankとFrost Bankの元従業員に対する執行措置を発表。",
+      "context": "公式プレスリリース",
+      "analysis": "金融機関の内部統制に関するFRBの姿勢を示すもの。個別の事案に対する措置であり、市場全体への影響は限定的。ただし、金融機関のリスク管理に対する監視が強化されている可能性を示唆する。",
       "importance": "low",
       "tags": [
         "金融規制",
-        "コンプライアンス",
-        "FRB"
+        "内部統制",
+        "リスク管理"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm"
     },
     {
-      "speaker": "Federal Reserve Board",
-      "title": "アメリカ合衆国連邦準備制度理事会",
-      "quote": "2026年4月20日および29日の理事会における公定歩合に関する議事録を公開。",
-      "context": "プレスリリース",
-      "analysis": "過去の議事録の公開であり、現時点での金融政策への直接的な影響はない。ただし、議事録の内容によっては、過去の政策決定の背景や議論の方向性を知る手がかりとなり、将来の政策を予測する上で参考になる可能性がある。詳細な内容の分析が必要。",
+      "speaker": "連邦準備制度理事会 (Federal Reserve Board)",
+      "title": "政府機関",
+      "quote": "2026年4月20日と29日の割引率に関する理事会会議の議事録を公開。",
+      "context": "公式プレスリリース",
+      "analysis": "議事録の内容次第で、今後の金融政策の方向性に関するヒントが得られる可能性がある。ただし、議事録の公開自体は定期的なものであり、サプライズは少ないと考えられる。詳細な内容分析が必要。",
       "importance": "medium",
       "tags": [
         "金融政策",
-        "公定歩合",
+        "割引率",
         "FRB",
         "議事録"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm"
     }
   ],
-  "generated_at": "2026-05-31T13:53:02.835938",
+  "generated_at": "2026-05-31T16:14:38.594948",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

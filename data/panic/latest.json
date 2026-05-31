@@ -1,79 +1,72 @@
 {
   "date": "2026-05-31",
-  "summary": "世界各地で地域的な社会不安とパニック事象が散発的に発生しています。フランスではサッカーの勝利を祝う暴動が数百人の逮捕者を出し、米国ニュージャージー州では大規模な抗議活動が警察との衝突に発展。中東ではイスラエル北部でのヒズボラの攻撃により住民がパニックに陥るなど、紛争による直接的な脅威が顕在化しています。また、アフリカでは資源不足に対する住民の抗議デモが続いており、生活基盤に対する不満が表面化しています。全体としては、特定の地域において秩序の混乱や住民の恐怖が強く報じられていますが、世界規模での統一的なパニックには至っていません。",
-  "global_panic_index": 58,
+  "summary": "世界各地で一部地域において社会不安とパニック事象が散見されます。特にフランスでは大規模な暴動と死傷者が報告され、中東イスラエルでは軍事攻撃による直接的なパニックが発生しています。米国では移民施設を巡る激しい抗議デモが続き、アフリカの一部では生活インフラ不足や学生暴動が顕在化しており、警戒を要する状況です。",
+  "global_panic_index": 78,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "大規模な抗議デモ・暴動（スポーツイベント起因）",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "大規模な暴動と社会秩序の混乱",
       "incidents": [
         {
-          "title": "PSG優勝後の暴動と逮捕",
-          "location": "フランス・パリ",
-          "severity": 68,
-          "description": "サッカーPSGのチャンピオンズリーグ優勝後、パリ市内で大規模な暴動が発生し、数百人の逮捕者が出ました。商店への略奪や警察との衝突も報じられています。",
-          "source": "Al Jazeera / The Times / France 24 / News.com.au"
+          "title": "サッカー試合後の大規模暴動",
+          "location": "フランス全土（パリ中心）",
+          "severity": 88,
+          "description": "チャンピオンズリーグ優勝を巡るPSGファンと称する集団が、パリをはじめフランス各地で暴動を起こし、1名が死亡、警官を含む多数の負傷者と780名以上の逮捕者が出ました。略奪行為も報告され、社会秩序が深刻に乱れました。",
+          "source": "BBC, France 24, Al Jazeera 他"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 60,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "大規模な抗議デモと治安部隊との衝突",
+      "main_cause": "政治的対立と抗議デモの激化",
       "incidents": [
         {
-          "title": "ニュージャージー州Delaney Hall周辺での騒乱",
-          "location": "米国・ニュージャージー州ニューアーク",
-          "severity": 65,
-          "description": "Delaney Hall周辺で抗議デモが暴力的な衝突に発展し、夜間外出禁止令が発令されました。州知事が平静を呼びかけ、州警察が介入する事態となっています。",
-          "source": "RLS Media / The New York Times / New York Post / Devdiscourse / MSN"
-        },
-        {
-          "title": "フィラデルフィアでの抗議活動",
-          "location": "米国・フィラデルフィア",
-          "severity": 40,
-          "description": "ブルース・スプリングスティーンのコンサートに関連して「歯を食いしばるような抗議」が予定されているとの報道があります。具体的なパニックには至っていません。",
-          "source": "MSN"
+          "title": "デラニーホール周辺での抗議デモと衝突",
+          "location": "米国ニュージャージー州ニューアーク",
+          "severity": 72,
+          "description": "デラニーホール（移民施設）を巡り、反ICE派と親ICE派の抗議デモが衝突し、警察との間でも激しい衝突が発生しました。事態鎮静化のため、ニューアーク市は夜間外出禁止令を発令しました。",
+          "source": "The New York Times, RLS Media, Fox News 他"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 70,
+      "panic_index": 90,
       "status": "critical",
-      "main_cause": "軍事衝突とミサイル攻撃による住民の恐怖",
+      "main_cause": "軍事衝突による生命の危機",
       "incidents": [
         {
-          "title": "ヒズボラ攻撃による北部ビーチでのパニック",
+          "title": "ヒズボラ攻撃によるビーチでのパニック",
           "location": "イスラエル北部",
-          "severity": 80,
-          "description": "ヒズボラの攻撃を受け、イスラエル北部のビーチで住民がパニックに陥り、避難する事態が発生しました。直接的な生命の脅威による集団的な恐怖が報告されています。",
+          "severity": 90,
+          "description": "ヒズボラによる攻撃（ストライキ）を受け、北部のビーチにいた人々がパニック状態に陥り、安全な場所を求めて逃げ惑う事態が発生しました。軍事衝突の直接的な影響による生命の危機が差し迫りました。",
           "source": "Al Jazeera"
-        },
-        {
-          "title": "イスラエルによるレバノン攻勢の拡大",
-          "location": "イスラエル・レバノン国境地域",
-          "severity": 70,
-          "description": "イスラエルがレバノンへの攻勢を拡大し、戦略的な拠点を掌握したとの報道。地域紛争の激化は住民の広範な不安と避難行動を誘発する可能性があります。",
-          "source": "Radio Free Europe/Radio Liberty"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "長期にわたる資源不足（水不足）に対する抗議",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "生活インフラ不足と社会的不満",
       "incidents": [
         {
           "title": "7ヶ月間の水不足に対する住民抗議",
-          "location": "ガーナ・Gbestile",
-          "severity": 50,
-          "description": "Gbestile地区の住民が7ヶ月にわたる深刻な水不足に対し抗議デモを実施しました。生活に不可欠な資源の欠如は住民のフラストレーションを高めています。",
-          "source": "MSN / Ghana News Agency"
+          "location": "ガーナ、グベスタイレ",
+          "severity": 65,
+          "description": "グベスタイレの住民が7ヶ月に及ぶ深刻な水不足に対し、大規模な抗議デモを実施しました。生活に不可欠なインフラの欠如が住民の強い不満と社会不安を引き起こしています。",
+          "source": "MSN, Ghana News Agency"
+        },
+        {
+          "title": "クラアインフォンテインでの学生暴動",
+          "location": "南アフリカ、クラアインフォンテイン",
+          "severity": 58,
+          "description": "クラアインフォンテインで学生による暴動が発生し、逮捕者が出ました。これは教育環境や社会経済的な不満が背景にあると見られ、治安悪化の兆候を示しています。",
+          "source": "Cape Argus, Daily Voice"
         }
       ]
     }
