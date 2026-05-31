@@ -1,75 +1,38 @@
 {
   "date": "2026-05-31",
-  "summary": "米国の政治・経済的不確実性が高まり、特にトランプ政権の政策に関連するリスクが顕在化。AI関連株への過熱感、暗号資産市場の規制動向、中東地域の地政学的リスクも注視が必要。全体として市場の変動性が増大する可能性が高い。",
+  "summary": "2026年5月31日の金融・経済リスク概況：高金利環境が継続する中、AI関連株への投資熱が高まっている。地政学的リスクとしてイラン情勢が引き続き注視される。暗号資産市場では規制動向と技術的リスクが混在し、個別銘柄の動向にばらつきが見られる。",
   "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "Trump plans to appeal order allowing all importers that paid struck-down tariffs to seek refunds",
+      "title": "Best money market account rates today, Sunday, May 31, 2026: Best account provides 4.01% APY",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "2026年5月31日時点でのマネーマーケットアカウントの最高金利は4.01% APY。高金利環境が継続している。",
+      "analysis": "4%を超えるマネーマーケットアカウント金利は、依然として高金利環境が続いていることを示唆する。これは、インフレ抑制のための金融引き締め政策が継続されている可能性を示唆する。投資家はリスク回避的な姿勢を強め、安全資産への資金移動を加速させる可能性がある。ただし、高金利は預金者にとっては有利であり、消費活動を一定程度支える効果も期待できる。",
+      "key_entities": [
+        "連邦準備制度理事会 (FRB)",
+        "マネーマーケットファンド"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Sunday, May 31, 2026: Fixed rates edge lower, ARMs remain volatile",
       "region": "global",
       "risk_level": "medium",
-      "summary": "トランプ政権が、関税還付を認める判決を不服として控訴する意向。貿易政策の不確実性が再燃し、企業活動やサプライチェーンに影響を与える可能性。",
-      "analysis": "トランプ政権の控訴は、過去の貿易政策の清算を遅らせ、企業に不確実性をもたらす。特に輸入企業は、還付金の受け取りが遅れることで資金繰りに影響を受ける可能性がある。市場は、今後の貿易政策の方向性を見極めるために、この訴訟の行方を注視するだろう。保護主義的な政策が再び強化されるリスクも考慮する必要がある。",
+      "summary": "2026年5月31日時点での住宅ローン金利は、固定金利が若干低下、変動金利は依然として不安定。",
+      "analysis": "固定金利の低下は、長期金利の低下を反映している可能性がある。これは、将来の景気減速に対する市場の懸念を示唆する。変動金利の不安定さは、短期金利の動向に対する不確実性を示している。住宅市場への影響は、固定金利の低下が住宅購入を促進する一方で、変動金利の不安定さが購入を躊躇させる可能性がある。全体として、住宅ローン市場は依然として不透明感が強い。",
       "key_entities": [
-        "Trump administration",
-        "輸入企業",
-        "米国裁判所"
+        "住宅金融機関",
+        "連邦住宅抵当公庫 (Freddie Mac)",
+        "連邦住宅貸付抵当公庫 (Fannie Mae)"
       ],
       "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "DOJ seeks Judge Eleanor Ross recusal in Georgia election case, citing reports she was disciplined",
-      "region": "north_america",
-      "risk_level": "medium",
-      "summary": "司法省が、ジョージア州の選挙訴訟において、過去の懲戒処分を理由にエレノア・ロス判事の忌避を求める。訴訟の遅延や政治的混乱を招く可能性。",
-      "analysis": "司法省による判事忌避の申し立ては、訴訟手続きを複雑化させ、結果として訴訟の遅延を招く可能性がある。選挙訴訟は政治的に非常に敏感であり、このような動きは政治的な不確実性を高める。市場は、訴訟の進展が政治情勢に与える影響を注視し、特に選挙関連の政策や規制の変更に注意を払う必要がある。",
-      "key_entities": [
-        "DOJ",
-        "Judge Eleanor Ross",
-        "Georgia Secretary of State Brad Raffensberger"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "SECが、AI取引ボットを装った詐欺的な暗号資産スキームに関与したテキサス州の男性を提訴。暗号資産市場における詐欺リスクへの警戒が必要。",
-      "analysis": "SECによる提訴は、暗号資産市場における詐欺行為に対する規制当局の監視が強化されていることを示唆する。AI技術を悪用した詐欺スキームは、投資家を欺きやすく、市場の信頼を損なう可能性がある。規制当局は、このような詐欺行為を取り締まるために、より厳格な規制を導入する可能性がある。投資家は、暗号資産への投資において、より慎重なデューデリジェンスを行う必要がある。",
-      "key_entities": [
-        "SEC",
-        "暗号資産",
-        "AI取引ボット"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "米国が、イランの暗号資産約10億ドル相当を没収。中東地域における地政学的リスクと暗号資産の利用に関する規制強化の可能性。",
-      "analysis": "米国によるイランの暗号資産没収は、中東地域における地政学的緊張を高める可能性がある。また、暗号資産が制裁回避の手段として利用されることに対する懸念が高まり、規制当局による監視が強化される可能性がある。暗号資産市場は、地政学的リスクと規制リスクの両方に直面しており、価格変動が激しくなる可能性がある。",
-      "key_entities": [
-        "米国",
-        "イラン",
-        "暗号資産"
-      ],
-      "sources": [
-        "CoinDesk"
+        "Yahoo Finance"
       ],
       "source_types": [
         "media"
@@ -79,83 +42,12 @@
       "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "ホルムズ海峡を通じた石油輸出が、イラン戦争前の水準に戻らない可能性。原油価格の高騰や世界経済への悪影響が懸念される。",
-      "analysis": "ホルムズ海峡の封鎖は、世界の石油供給に深刻な影響を与え、原油価格の高騰を招く可能性がある。特に、アジア地域への石油供給が滞ることで、経済成長に悪影響を及ぼす可能性がある。地政学的リスクが高まることで、投資家のリスク回避姿勢が強まり、株式市場や新興国市場からの資金流出が加速する可能性がある。",
+      "summary": "ホルムズ海峡を通じた石油輸出は、イラン戦争前の水準に戻らない可能性。航行の自由への深刻な挑戦。",
+      "analysis": "イラン戦争の影響でホルムズ海峡の石油輸出が減少することは、世界のエネルギー供給に深刻な影響を与える。原油価格の高騰は、インフレを加速させ、世界経済の成長を阻害する可能性がある。代替ルートの確保やエネルギー源の多様化が急務となる。地政学的リスクが高まり、中東地域の不安定化を招く可能性もある。",
       "key_entities": [
         "イラン",
-        "ホルムズ海峡",
-        "原油市場"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "SpaceXのIPOを控え、宇宙関連ETFに資金が流入。個人投資家の投機的な動きが過熱しており、市場のボラティリティを高める可能性。",
-      "analysis": "SpaceXのIPO期待による宇宙関連ETFへの資金流入は、個人投資家の投機的な動きが市場を牽引していることを示唆する。このような過熱感は、市場のボラティリティを高め、急激な価格変動を引き起こす可能性がある。特に、IPO後の株価が期待外れに終わった場合、大規模な売りが発生し、市場全体に悪影響を及ぼす可能性がある。",
-      "key_entities": [
-        "SpaceX",
-        "NASA ETF",
-        "個人投資家"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "AIを活用したハッカーの脅威が、大手銀行のブロックチェーン技術導入を阻んでいる。金融機関におけるサイバーセキュリティリスクの増大。",
-      "analysis": "AIを活用したハッカーの出現は、金融機関にとって深刻な脅威となっている。特に、ブロックチェーン技術は、セキュリティが脆弱な場合、大規模な攻撃を受けるリスクがある。大手銀行は、サイバーセキュリティ対策を強化するために、多大な投資を行う必要がある。また、規制当局は、金融機関に対するサイバーセキュリティ規制を強化する可能性がある。",
-      "key_entities": [
-        "大手銀行",
-        "ブロックチェーン",
-        "AIハッカー"
-      ],
-      "sources": [
-        "CoinDesk"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Stocks including Nvidia and Apple are top picks as market run-up continues, Bank of America says",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "バンク・オブ・アメリカが、NvidiaやAppleなどの株式を6月のトップピックに選定。市場の上昇トレンドが継続している。",
-      "analysis": "バンク・オブ・アメリカによる推奨は、市場のセンチメントを強気に保つ可能性がある。しかし、特定の銘柄に集中投資することは、リスクを高める可能性がある。投資家は、ポートフォリオの分散を意識し、リスク管理を徹底する必要がある。また、市場の上昇トレンドがいつまで続くか不透明であり、慎重な投資判断が求められる。",
-      "key_entities": [
-        "Bank of America",
-        "Nvidia",
-        "Apple"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Micron is one of the most overbought stocks after this week’s rally to new highs",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "Micron株が今週の高騰で買われすぎの状態に。過熱感による調整リスクが高まっている。",
-      "analysis": "Micron株の買われすぎの状態は、調整リスクを高める可能性がある。投資家は、利益確定の売りを検討する必要がある。また、市場全体のセンチメントが悪化した場合には、Micron株が大幅に下落する可能性がある。慎重な投資判断が求められる。",
-      "key_entities": [
-        "Micron Technology",
-        "Dell Technologies"
+        "OPEC",
+        "主要石油消費国"
       ],
       "sources": [
         "CNBC - Top News"
@@ -168,12 +60,120 @@
       "title": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "イラン戦争の終結が、米国の格差拡大の始まりとなる可能性。高エネルギー価格が消費者を圧迫し、株価は上昇するという状況。",
-      "analysis": "イラン戦争の終結は、一時的に市場を安定させる可能性があるが、高エネルギー価格が継続することで、消費者の購買力が低下し、格差が拡大する可能性がある。企業は、コスト上昇を価格に転嫁することで利益を確保する一方、低所得者層は生活費の上昇に苦しむことになる。政府は、格差是正のための政策を導入する必要がある。",
+      "summary": "イラン戦争終結は、米国における新たな不平等の時代の始まりに過ぎない可能性。株価は好調だが、消費者は高いエネルギー価格のコストを負担。",
+      "analysis": "イラン戦争の終結は、一時的に株価を押し上げる可能性があるが、エネルギー価格の高止まりは、低所得者層の生活を圧迫し、格差を拡大させる。政府は、エネルギー価格対策や低所得者層への支援策を強化する必要がある。長期的な視点では、再生可能エネルギーへの投資を促進し、エネルギー自給率を高めることが重要となる。",
       "key_entities": [
-        "イラン",
-        "米国",
-        "エネルギー価格"
+        "米国政府",
+        "エネルギー企業",
+        "消費者"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "SECが、偽のAI取引ボットを利用した1230万ドルの暗号資産詐欺に関与したテキサス州の男性を提訴。",
+      "analysis": "この事件は、暗号資産市場における詐欺のリスクを改めて浮き彫りにする。AI技術を悪用した詐欺は、投資家にとって見分けがつきにくく、被害が拡大しやすい。規制当局は、暗号資産関連の詐欺に対する監視を強化し、投資家保護を徹底する必要がある。投資家自身も、高利回りを謳う投資案件には慎重に対応し、十分な情報収集を行うことが重要となる。",
+      "key_entities": [
+        "SEC",
+        "暗号資産取引所",
+        "AI関連企業"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
+      "region": "middle_east",
+      "risk_level": "medium",
+      "summary": "米国が、イランの暗号資産約10億ドル相当を没収。圧力キャンペーンを拡大。",
+      "analysis": "米国のイランに対する暗号資産没収は、制裁回避に対する強い姿勢を示すもの。しかし、これは暗号資産の分散性と匿名性を利用した資金移動をさらに促進する可能性もある。地政学的リスクが高まり、暗号資産市場の規制強化を求める声が強まる可能性がある。",
+      "key_entities": [
+        "米国政府",
+        "イラン政府",
+        "暗号資産取引所"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "SpaceXのIPOを控え、NASA ETFなどの宇宙関連ETFに個人投資家の資金が流入。2ヶ月で26億ドル。",
+      "analysis": "SpaceXのIPO期待から宇宙関連ETFへの資金流入が加速している。これは、個人投資家のリスク選好が高まっていることを示唆する。ただし、宇宙関連産業はまだ黎明期であり、投資リスクも高い。個人投資家は、十分な情報収集を行い、分散投資を心がける必要がある。",
+      "key_entities": [
+        "SpaceX",
+        "NASA",
+        "ETF運用会社"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "AIを活用したハッカーの脅威が、大手銀行のブロックチェーン技術導入を阻んでいる。",
+      "analysis": "AIを活用したサイバー攻撃は、金融機関にとって深刻な脅威となる。特に、ブロックチェーン技術は、一度攻撃を受けるとデータの改ざんが困難であるため、セキュリティ対策が重要となる。大手銀行は、ブロックチェーン技術の導入を慎重に進め、セキュリティ対策を強化する必要がある。DeFi（分散型金融）の脆弱性が、伝統的な金融機関のブロックチェーン導入を阻害している。",
+      "key_entities": [
+        "大手銀行",
+        "サイバーセキュリティ企業",
+        "AI開発企業"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Stocks including Nvidia and Apple are top picks as market run-up continues, Bank of America says",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "バンク・オブ・アメリカが、6月の推奨銘柄としてNvidiaやAppleなどを選定。市場の上昇が継続。",
+      "analysis": "バンク・オブ・アメリカがNvidiaやAppleなどのテクノロジー株を推奨していることは、市場がリスクオンの状態にあることを示唆する。AI関連株への投資熱は依然として高く、市場全体を牽引する可能性がある。ただし、これらの銘柄はすでに高値圏にあり、調整リスクも高い。投資家は、慎重な投資判断を行う必要がある。",
+      "key_entities": [
+        "Nvidia",
+        "Apple",
+        "バンク・オブ・アメリカ"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Dell stock skyrockets 32% for its best day ever as AI server revenue soars",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "Dellの株価がAIサーバーの売上高急増により32%急騰。過去最高の日となる。",
+      "analysis": "Dellの株価急騰は、AIサーバー市場の成長を反映している。AI技術の普及に伴い、AIサーバーの需要は今後も拡大すると予想される。Dellは、AIサーバー市場における競争力を高め、さらなる成長を目指すと考えられる。ただし、AIサーバー市場は競争が激化しており、Dellは競争優位性を維持する必要がある。",
+      "key_entities": [
+        "Dell",
+        "AI関連企業",
+        "データセンター"
       ],
       "sources": [
         "CNBC - Top News"
@@ -184,12 +184,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "medium",
+    "global": "high",
     "north_america": "medium",
-    "europe": "none",
+    "europe": "low",
     "east_asia": "none"
   },
-  "generated_at": "2026-05-31T08:52:00.146778",
+  "generated_at": "2026-05-31T11:01:38.560288",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-31",
-    "summary": "ウクライナ情勢の緊迫化、中東における緊張の高まり、東アジアでの軍事的プレゼンス強化など、地政学的リスクは全体的に高い水準を維持。特にウクライナと中東情勢は予断を許さない状況。",
+    "summary": "中東情勢が緊迫化。イラン核合意を巡る米国の修正要求とイスラエルのヒズボラ攻撃が協議に影響。ウクライナ情勢も依然として不安定。アジアでは、中堅国連携の必要性が議論される一方、日米韓の連携も強化。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "medium",
-      "south_asia": "medium",
+      "southeast_asia": "low",
+      "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
-      "europe": "critical",
-      "africa": "medium",
+      "europe": "high",
+      "africa": "none",
       "north_america": "medium",
-      "south_america": "medium"
+      "south_america": "low"
     },
-    "generated_at": "2026-05-31T08:51:39.109451"
+    "generated_at": "2026-05-31T11:01:15.792342"
   },
   {
     "date": "2026-05-30",
