@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-05-31",
+    "summary": "中東情勢の緊迫化、ウクライナ情勢の泥沼化、アジア太平洋地域における米中の対立など、地政学リスクが高まっている。特にイランを巡る米国の動き、イスラエル・レバノンの衝突、ウクライナ情勢の悪化が懸念される。",
+    "overall_risk_level": "high",
+    "article_count": 10,
+    "region_risk_map": {
+      "east_asia": "medium",
+      "southeast_asia": "medium",
+      "south_asia": "low",
+      "central_asia": "none",
+      "middle_east": "critical",
+      "europe": "high",
+      "africa": "medium",
+      "north_america": "medium",
+      "south_america": "low"
+    },
+    "generated_at": "2026-05-31T04:11:35.952828"
+  },
+  {
     "date": "2026-05-30",
     "summary": "米イラン間の緊張、ウクライナ情勢の悪化、アジア太平洋地域における米中の対立など、地政学的リスクが高まっている。特に中東、欧州、東アジアにおいてリスクが高い状況が継続。グローバルな安全保障環境は不安定化の一途を辿っている。",
     "overall_risk_level": "high",

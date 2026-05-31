@@ -1,5 +1,124 @@
 [
   {
+    "date": "2026-05-31",
+    "summary": "ウクライナ情勢ではロシア軍の消耗が深刻化。ロシアのドローンがルーマニア領内で民間人を負傷させ、NATOの防衛体制に緊張が走る。一方、米国はイランに対し「自衛」のための攻撃を実施し、中東情勢も不安定化。米軍需物資の備蓄減少も懸念されている。",
+    "events": [
+      {
+        "id": "event-001",
+        "timestamp": "2026-05-29",
+        "location": "ルーマニア",
+        "region": "europe",
+        "title": "ロシアのドローンがルーマニアで民間人負傷",
+        "content": "ロシアのドローンがルーマニア領内で民間人2名を負傷させる。ロシアはウクライナのドローンをNATO領土に誘導している疑いも浮上し、NATOは同盟領土の防衛を誓約。",
+        "involved_parties": [
+          "ロシア",
+          "ルーマニア",
+          "NATO"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/29/how-russia-is-turning-ukraines-drones-against-nato/"
+      },
+      {
+        "id": "event-002",
+        "timestamp": "2026-05-29",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ロシア軍、ウクライナで50万人近くが戦死",
+        "content": "イギリス情報機関の報告によると、ウクライナでの戦闘でロシア兵約50万人が死亡。ロシア軍は2022年の侵攻開始以来、初めて劣勢に立たされているとの見方が強まっている。",
+        "involved_parties": [
+          "ロシア軍",
+          "ウクライナ軍"
+        ],
+        "event_type": "clash",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/29/nearly-500000-russian-soldiers-killed-in-ukraine-top-uk-intel-chief-says/"
+      },
+      {
+        "id": "event-003",
+        "timestamp": "2026-05-29",
+        "location": "ホルムズ海峡",
+        "region": "middle_east",
+        "title": "米国とイラン、戦争終結に向けた暫定合意",
+        "content": "米国とイランの間で戦争終結とホルムズ海峡の航行再開に関する暫定合意が成立。より困難な問題に関する交渉が開始される予定。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/29/how-far-is-there-to-go-until-the-us-and-iran-end-the-war/"
+      },
+      {
+        "id": "event-004",
+        "timestamp": "2026-05-29",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ロシア軍、滑空爆弾を多用",
+        "content": "ウクライナ国防省によると、モスクワは2026年に記録的な数の滑空爆弾を発射し、前線の陣地を破壊している。ウクライナはスウェーデンのグリペン戦闘機とミーティア空対空ミサイルの組み合わせで対抗しようとしている。",
+        "involved_parties": [
+          "ロシア軍",
+          "ウクライナ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/29/ukraine-would-gain-advantage-over-russian-glide-bombs-with-gripen-meteor-combo/"
+      },
+      {
+        "id": "event-005",
+        "timestamp": "2026-05-27",
+        "location": "ロシア国境",
+        "region": "europe",
+        "title": "ラトビア、ロシア国境に迎撃ドローン配備",
+        "content": "ラトビアは、ドローン侵入を受けて、ロシア国境に迎撃ドローンを装備した部隊を配備予定。",
+        "involved_parties": [
+          "ラトビア",
+          "ロシア"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/27/latvia-sends-mobile-intercept-units-to-russian-border-in-wake-of-drone-incursions/"
+      },
+      {
+        "id": "event-006",
+        "timestamp": "2026-05-26",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米国、イランに対し「自衛」のための攻撃",
+        "content": "米国軍は、停戦協定が継続中であるにもかかわらず、イランのミサイル発射地点や機雷敷設を試みる船舶に対して軍事攻撃を実施。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/26/us-launches-self-defense-strikes-against-iran-amid-ongoing-ceasefire/"
+      },
+      {
+        "id": "event-007",
+        "timestamp": "2026-05-27",
+        "location": "イラン戦争",
+        "region": "middle_east",
+        "title": "米軍の弾薬備蓄枯渇、回復に数年",
+        "content": "イラン戦争により、米軍の弾薬備蓄が枯渇しており、回復には2030年または2031年までかかる可能性があり、その間、「脆弱な期間」が生じるという分析。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/27/us-munitions-depleted-by-iran-war-will-take-years-to-restore-analysis-finds/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-30",
     "summary": "ロシアのウクライナ侵攻が継続。ロシア軍はウクライナで多数の兵士を失い、戦況は膠着状態。NATO領内へのロシア製ドローン攻撃が発生。一方、米国はイランとの間で停戦協定を結んでいるものの、イラン関連施設への自衛攻撃を実施。",
     "events": [
@@ -4053,92 +4172,6 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/28/india-races-to-boost-conventional-nuclear-submarine-combat-punch/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-01",
-    "summary": "米軍はガザでの任務を閉鎖。フィリピンで米軍がドローンや3Dプリンターのテストを実施。米海軍はイランの機雷対策でAI企業と提携。ウクライナ軍は兵士の交代を調整。米軍はフィリピンでの防衛シミュレーションでビーチ侵略者を撃退。",
-    "events": [
-      {
-        "id": "event-1",
-        "timestamp": "2026-04-29",
-        "location": "フィリピン",
-        "region": "east_asia",
-        "title": "米海兵隊、フィリピン防衛シミュレーションでビーチ侵攻部隊を攻撃",
-        "content": "米海兵隊が、フィリピンでの模擬防衛作戦において、ビーチに侵攻してきた「敵」部隊を攻撃。撤退する敵に対して、爆発物を搭載したFPVドローンによる追撃を実施。",
-        "involved_parties": [
-          "米海兵隊",
-          "模擬侵攻部隊"
-        ],
-        "event_type": "clash",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
-      },
-      {
-        "id": "event-2",
-        "timestamp": "2026-04-30",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ軍、兵士交代の遅れに対する不満噴出",
-        "content": "ウクライナ軍の兵士交代が遅れている問題に対し、兵士の親族から不満が噴出。一部部隊では雨水を飲用する状況も発生。軍司令官は交代ローテーションの見直しを指示。",
-        "involved_parties": [
-          "ウクライナ軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/30/ukraines-army-chief-shakes-up-troop-rotations-after-outcry/"
-      },
-      {
-        "id": "event-3",
-        "timestamp": "2026-04-29",
-        "location": "中東",
-        "region": "middle_east",
-        "title": "イラン戦争の費用、250億ドルに到達",
-        "content": "米国防総省当局者の証言によると、イラン戦争にかかった費用はこれまでに250億ドルに達した。費用の大部分は軍需品に充当されている。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/"
-      },
-      {
-        "id": "event-4",
-        "timestamp": "2026-04-24",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ軍、前線での兵士代替として地上ロボット25,000台を投入",
-        "content": "ウクライナ軍は、前線での兵士の代替および補給を目的として、25,000台の地上ロボットを導入予定。3月には9,000回以上の前線任務を遂行、昨年夏には最初のロシア軍陣地を占拠。",
-        "involved_parties": [
-          "ウクライナ軍",
-          "ロシア軍",
-          "地上ロボット"
-        ],
-        "event_type": "clash",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/unmanned/2026/04/24/ukraine-to-field-25000-ground-robots-in-push-to-replace-soldiers-for-frontline-logistics/"
-      },
-      {
-        "id": "event-5",
-        "timestamp": "2026-04-30",
-        "location": "アルジェリア",
-        "region": "africa",
-        "title": "ロシアの影の航空会社がアルジェリアを拠点に秘密作戦を展開",
-        "content": "ロシアの影の航空会社が、アルジェリアを拠点として秘密作戦を展開。アルジェリアは、ウクライナ侵攻後に軍事輸出が落ち込んでいるロシアにとって重要な武器の顧客となっている。",
-        "involved_parties": [
-          "ロシアの影の航空会社",
-          "アルジェリア"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/30/investigation-russian-shadow-airlines-use-algeria-as-base-for-secretive-missions/"
       }
     ]
   }
