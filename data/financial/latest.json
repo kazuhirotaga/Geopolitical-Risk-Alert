@@ -1,19 +1,18 @@
 {
   "date": "2026-05-31",
-  "summary": "地政学的リスクの緩和とAI関連株への楽観的な見方から株式市場は上昇傾向。しかし、インフレリスクの上昇と米中間の緊張、暗号資産市場の規制動向、ホルムズ海峡の封鎖などがリスク要因として存在する。",
+  "summary": "米国の政治・経済的不確実性が高まり、特にトランプ政権の政策に関連するリスクが顕在化。AI関連株への過熱感、暗号資産市場の規制動向、中東地域の地政学的リスクも注視が必要。全体として市場の変動性が増大する可能性が高い。",
   "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
-      "region": "middle_east",
-      "risk_level": "high",
-      "summary": "イラン戦争によるホルムズ海峡の封鎖が航行の自由を脅かし、原油輸出に深刻な影響を与えている。今後の回復見込みも不透明。",
-      "analysis": "ホルムズ海峡の封鎖は、世界の原油供給に大きな影響を与え、エネルギー価格の高騰を招く可能性がある。地政学的リスクが原油市場に与える影響は大きく、インフレ圧力の増大、世界経済の減速を引き起こす可能性がある。代替ルートの確保やエネルギー政策の見直しが急務となる。イラン情勢の不安定化は、中東地域全体の不安定化につながり、さらなる地政学的リスクを高める可能性がある。",
+      "title": "Trump plans to appeal order allowing all importers that paid struck-down tariffs to seek refunds",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "トランプ政権が、関税還付を認める判決を不服として控訴する意向。貿易政策の不確実性が再燃し、企業活動やサプライチェーンに影響を与える可能性。",
+      "analysis": "トランプ政権の控訴は、過去の貿易政策の清算を遅らせ、企業に不確実性をもたらす。特に輸入企業は、還付金の受け取りが遅れることで資金繰りに影響を受ける可能性がある。市場は、今後の貿易政策の方向性を見極めるために、この訴訟の行方を注視するだろう。保護主義的な政策が再び強化されるリスクも考慮する必要がある。",
       "key_entities": [
-        "OPEC",
-        "イラン",
-        "アメリカ",
-        "原油価格"
+        "Trump administration",
+        "輸入企業",
+        "米国裁判所"
       ],
       "sources": [
         "CNBC - Top News"
@@ -23,19 +22,18 @@
       ]
     },
     {
-      "title": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
-      "region": "middle_east",
+      "title": "DOJ seeks Judge Eleanor Ross recusal in Georgia election case, citing reports she was disciplined",
+      "region": "north_america",
       "risk_level": "medium",
-      "summary": "アメリカがイランの暗号資産約10億ドル相当を押収。イランへの圧力強化の一環。暗号資産が制裁回避に利用されるリスクが浮上。",
-      "analysis": "暗号資産の匿名性を利用した制裁回避は、国際的な金融システムに対する脅威となる。アメリカによる暗号資産押収は、暗号資産に対する規制強化の動きを加速させる可能性がある。イランは、暗号資産を利用した資金調達を強化する可能性があり、国際社会との緊張が高まる可能性がある。暗号資産市場全体に対する信頼性が低下するリスクも存在する。",
+      "summary": "司法省が、ジョージア州の選挙訴訟において、過去の懲戒処分を理由にエレノア・ロス判事の忌避を求める。訴訟の遅延や政治的混乱を招く可能性。",
+      "analysis": "司法省による判事忌避の申し立ては、訴訟手続きを複雑化させ、結果として訴訟の遅延を招く可能性がある。選挙訴訟は政治的に非常に敏感であり、このような動きは政治的な不確実性を高める。市場は、訴訟の進展が政治情勢に与える影響を注視し、特に選挙関連の政策や規制の変更に注意を払う必要がある。",
       "key_entities": [
-        "アメリカ",
-        "イラン",
-        "暗号資産",
-        "制裁"
+        "DOJ",
+        "Judge Eleanor Ross",
+        "Georgia Secretary of State Brad Raffensberger"
       ],
       "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -45,13 +43,12 @@
       "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
       "region": "global",
       "risk_level": "medium",
-      "summary": "SECがAI取引ボットを謳った詐欺的な暗号資産スキームで1230万ドルを不正に集めたテキサス州の男を提訴。",
-      "analysis": "暗号資産市場における詐欺行為は、投資家保護の観点から大きな問題である。AI技術を悪用した詐欺スキームは、投資家を欺く手口が巧妙化しており、注意が必要である。SECによる摘発は、暗号資産市場に対する規制強化の必要性を示唆している。投資家は、高利回りを謳う投資案件には慎重に対応し、十分な情報収集を行う必要がある。",
+      "summary": "SECが、AI取引ボットを装った詐欺的な暗号資産スキームに関与したテキサス州の男性を提訴。暗号資産市場における詐欺リスクへの警戒が必要。",
+      "analysis": "SECによる提訴は、暗号資産市場における詐欺行為に対する規制当局の監視が強化されていることを示唆する。AI技術を悪用した詐欺スキームは、投資家を欺きやすく、市場の信頼を損なう可能性がある。規制当局は、このような詐欺行為を取り締まるために、より厳格な規制を導入する可能性がある。投資家は、暗号資産への投資において、より慎重なデューデリジェンスを行う必要がある。",
       "key_entities": [
         "SEC",
         "暗号資産",
-        "AI",
-        "詐欺"
+        "AI取引ボット"
       ],
       "sources": [
         "CoinDesk"
@@ -61,34 +58,33 @@
       ]
     },
     {
-      "title": "More Fed policymakers eye possible rate hike as inflation risks rise",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "インフレリスクの上昇を受け、FRB関係者の間で追加利上げの可能性が議論されている。金融引き締めが景気後退を招くリスクも。",
-      "analysis": "FRBによる追加利上げは、企業の借入コストを増加させ、設備投資の抑制につながる可能性がある。また、消費者の住宅ローン金利やクレジットカード金利の上昇は、消費支出の減少を招く可能性がある。金融引き締めは、株式市場や債券市場にもマイナスの影響を与える可能性があり、市場のボラティリティが高まる可能性がある。FRBは、インフレ抑制と景気維持のバランスを慎重に見極める必要がある。",
+      "title": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "米国が、イランの暗号資産約10億ドル相当を没収。中東地域における地政学的リスクと暗号資産の利用に関する規制強化の可能性。",
+      "analysis": "米国によるイランの暗号資産没収は、中東地域における地政学的緊張を高める可能性がある。また、暗号資産が制裁回避の手段として利用されることに対する懸念が高まり、規制当局による監視が強化される可能性がある。暗号資産市場は、地政学的リスクと規制リスクの両方に直面しており、価格変動が激しくなる可能性がある。",
       "key_entities": [
-        "FRB",
-        "インフレ",
-        "金利",
-        "景気"
+        "米国",
+        "イラン",
+        "暗号資産"
       ],
       "sources": [
-        "Yahoo Finance"
+        "CoinDesk"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "Trump plans to appeal order allowing all importers that paid struck-down tariffs to seek refunds",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "トランプ政権が、無効とされた関税の払い戻しを求める輸入業者を認める判決を不服として控訴する意向を示した。",
-      "analysis": "トランプ政権の関税政策は、国際貿易関係に不確実性をもたらし、サプライチェーンの混乱を引き起こす可能性がある。控訴の結果によっては、貿易摩擦が再燃し、世界経済の成長を阻害する可能性がある。企業の経営戦略にも影響を与える可能性があり、今後の動向を注視する必要がある。",
+      "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
+      "region": "middle_east",
+      "risk_level": "high",
+      "summary": "ホルムズ海峡を通じた石油輸出が、イラン戦争前の水準に戻らない可能性。原油価格の高騰や世界経済への悪影響が懸念される。",
+      "analysis": "ホルムズ海峡の封鎖は、世界の石油供給に深刻な影響を与え、原油価格の高騰を招く可能性がある。特に、アジア地域への石油供給が滞ることで、経済成長に悪影響を及ぼす可能性がある。地政学的リスクが高まることで、投資家のリスク回避姿勢が強まり、株式市場や新興国市場からの資金流出が加速する可能性がある。",
       "key_entities": [
-        "トランプ政権",
-        "関税",
-        "国際貿易"
+        "イラン",
+        "ホルムズ海峡",
+        "原油市場"
       ],
       "sources": [
         "CNBC - Top News"
@@ -98,15 +94,51 @@
       ]
     },
     {
+      "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "SpaceXのIPOを控え、宇宙関連ETFに資金が流入。個人投資家の投機的な動きが過熱しており、市場のボラティリティを高める可能性。",
+      "analysis": "SpaceXのIPO期待による宇宙関連ETFへの資金流入は、個人投資家の投機的な動きが市場を牽引していることを示唆する。このような過熱感は、市場のボラティリティを高め、急激な価格変動を引き起こす可能性がある。特に、IPO後の株価が期待外れに終わった場合、大規模な売りが発生し、市場全体に悪影響を及ぼす可能性がある。",
+      "key_entities": [
+        "SpaceX",
+        "NASA ETF",
+        "個人投資家"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "AIを活用したハッカーの脅威が、大手銀行のブロックチェーン技術導入を阻んでいる。金融機関におけるサイバーセキュリティリスクの増大。",
+      "analysis": "AIを活用したハッカーの出現は、金融機関にとって深刻な脅威となっている。特に、ブロックチェーン技術は、セキュリティが脆弱な場合、大規模な攻撃を受けるリスクがある。大手銀行は、サイバーセキュリティ対策を強化するために、多大な投資を行う必要がある。また、規制当局は、金融機関に対するサイバーセキュリティ規制を強化する可能性がある。",
+      "key_entities": [
+        "大手銀行",
+        "ブロックチェーン",
+        "AIハッカー"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
       "title": "Stocks including Nvidia and Apple are top picks as market run-up continues, Bank of America says",
       "region": "global",
       "risk_level": "low",
-      "summary": "バンク・オブ・アメリカが、NvidiaやAppleなど、6月のおすすめ銘柄を発表。市場の上昇が続いている。",
-      "analysis": "特定銘柄への集中投資は、市場全体の動向に左右されやすく、リスクが高い。NvidiaやAppleなどのテクノロジー株は、AIブームの恩恵を受けているが、過熱感も指摘されている。投資家は、ポートフォリオの分散化を意識し、リスク管理を徹底する必要がある。",
+      "summary": "バンク・オブ・アメリカが、NvidiaやAppleなどの株式を6月のトップピックに選定。市場の上昇トレンドが継続している。",
+      "analysis": "バンク・オブ・アメリカによる推奨は、市場のセンチメントを強気に保つ可能性がある。しかし、特定の銘柄に集中投資することは、リスクを高める可能性がある。投資家は、ポートフォリオの分散を意識し、リスク管理を徹底する必要がある。また、市場の上昇トレンドがいつまで続くか不透明であり、慎重な投資判断が求められる。",
       "key_entities": [
+        "Bank of America",
         "Nvidia",
-        "Apple",
-        "バンク・オブ・アメリカ"
+        "Apple"
       ],
       "sources": [
         "CNBC - Top News"
@@ -119,33 +151,14 @@
       "title": "Micron is one of the most overbought stocks after this week’s rally to new highs",
       "region": "global",
       "risk_level": "medium",
-      "summary": "Micron Technologyなどの株式が、今週の急騰で買われすぎの状態になっている。調整局面への警戒感が高まっている。",
-      "analysis": "買われすぎの状態は、株価が割高になっていることを示唆しており、調整局面に入る可能性が高い。投資家は、利益確定売りを検討し、リスク管理を徹底する必要がある。半導体市場の動向や、Micron Technologyの業績などを注視し、慎重な投資判断を行う必要がある。",
+      "summary": "Micron株が今週の高騰で買われすぎの状態に。過熱感による調整リスクが高まっている。",
+      "analysis": "Micron株の買われすぎの状態は、調整リスクを高める可能性がある。投資家は、利益確定の売りを検討する必要がある。また、市場全体のセンチメントが悪化した場合には、Micron株が大幅に下落する可能性がある。慎重な投資判断が求められる。",
       "key_entities": [
         "Micron Technology",
-        "半導体市場"
+        "Dell Technologies"
       ],
       "sources": [
         "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
-      "region": "global",
-      "risk_level": "high",
-      "summary": "AIを活用したハッカーの脅威が、大手銀行のブロックチェーン技術導入を阻んでいる。セキュリティリスクが課題。",
-      "analysis": "AIを活用したハッキングは、従来のセキュリティ対策を無効化する可能性があり、金融機関にとって深刻な脅威となる。ブロックチェーン技術のセキュリティ脆弱性が露呈しており、大手銀行は導入に慎重になっている。セキュリティ対策の強化が急務であり、AIを活用したセキュリティシステムの開発が求められる。",
-      "key_entities": [
-        "AI",
-        "ブロックチェーン",
-        "ハッキング",
-        "金融機関"
-      ],
-      "sources": [
-        "CoinDesk"
       ],
       "source_types": [
         "media"
@@ -155,32 +168,12 @@
       "title": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality",
       "region": "middle_east",
       "risk_level": "medium",
-      "summary": "イラン戦争終結後も、高エネルギー価格が続き、消費者が負担を強いられることで、アメリカの不平等が拡大する可能性がある。",
-      "analysis": "エネルギー価格の高騰は、低所得者層の生活を圧迫し、格差を拡大させる要因となる。株式市場の好調は、富裕層の資産を増加させる一方で、低所得者層は恩恵を受けにくい。政府は、低所得者層への支援策を強化し、格差是正に取り組む必要がある。",
+      "summary": "イラン戦争の終結が、米国の格差拡大の始まりとなる可能性。高エネルギー価格が消費者を圧迫し、株価は上昇するという状況。",
+      "analysis": "イラン戦争の終結は、一時的に市場を安定させる可能性があるが、高エネルギー価格が継続することで、消費者の購買力が低下し、格差が拡大する可能性がある。企業は、コスト上昇を価格に転嫁することで利益を確保する一方、低所得者層は生活費の上昇に苦しむことになる。政府は、格差是正のための政策を導入する必要がある。",
       "key_entities": [
-        "アメリカ",
         "イラン",
-        "エネルギー価格",
-        "格差"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "DOJ seeks Judge Eleanor Ross recusal in Georgia election case, citing reports she was disciplined",
-      "region": "north_america",
-      "risk_level": "low",
-      "summary": "司法省が、エレノア・ロス判事が懲戒処分を受けたとされる報道を理由に、ジョージア州の選挙訴訟からの忌避を求めている。",
-      "analysis": "司法の独立性に対する疑念が生じる可能性があり、政治的な不確実性を高める要因となる。選挙訴訟の行方は、アメリカの政治情勢に大きな影響を与える可能性があり、今後の動向を注視する必要がある。",
-      "key_entities": [
-        "司法省",
-        "エレノア・ロス判事",
-        "ジョージア州",
-        "選挙"
+        "米国",
+        "エネルギー価格"
       ],
       "sources": [
         "CNBC - Top News"
@@ -191,12 +184,12 @@
     }
   ],
   "region_risk_map": {
-    "global": "high",
-    "north_america": "low",
+    "global": "medium",
+    "north_america": "medium",
     "europe": "none",
     "east_asia": "none"
   },
-  "generated_at": "2026-05-31T04:11:57.471775",
+  "generated_at": "2026-05-31T08:52:00.146778",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",

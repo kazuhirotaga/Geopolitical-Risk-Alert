@@ -1,129 +1,115 @@
 {
   "date": "2026-05-31",
-  "summary": "世界各地で局所的な社会不安と生活インフラに関わる抗議活動が顕著になっています。特に、水不足に起因する大規模なデモがインドとガーナで発生し、社会的緊張が高まっています。欧米では、経済的な不確実性と一部地域での暴力的な衝突が見られ、全体的に警戒が必要な状況です。世界的なパニックには至っていないものの、地域ごとの不安定要因が重なっています。",
-  "global_panic_index": 60,
+  "summary": "世界各地で社会不安が顕在化しています。ヨーロッパではスポーツイベント後の大規模暴動、北米では抗議活動が暴力的な衝突に発展。中東では継続的な紛争状態が市民生活を脅かしています。アジアとアフリカでは、水や燃料といった生活必需品の不足が広範な抗議デモやパニック買いを引き起こしており、一部地域では社会インフラの混乱が見られます。経済的な不安定さも潜在的な不安要因として警戒されています。",
+  "global_panic_index": 78,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "移民政策関連の対立、地域開発への不満",
+      "region": "europe",
+      "panic_index": 80,
+      "status": "volatile",
+      "main_cause": "スポーツイベント後の祝賀の暴徒化",
       "incidents": [
         {
-          "title": "デラニーホール周辺での抗議デモと衝突",
-          "location": "米国 ニュージャージー州",
-          "severity": 70,
-          "description": "デラニーホール施設付近で、移民政策に関する抗議デモが発生し、一部で暴力的な衝突や混乱が見られました。社会的緊張が高まっています。",
-          "source": "New York Post, NJ.com, Devdiscourse"
+          "title": "PSG優勝後の大規模暴動と逮捕",
+          "location": "フランス（パリ、全国各地）",
+          "severity": 85,
+          "description": "サッカークラブPSGのチャンピオンズリーグ優勝後、パリ市内を含む全国各地で大規模な暴動が発生。数百人が逮捕され、警察署襲撃の動きも報じられており、社会秩序が著しく乱れた状態にあります。",
+          "source": "Al Jazeera, The Telegraph, mogazmasr.com, Yahoo!ニュース"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "ICE施設に関する抗議活動の過激化",
+      "incidents": [
+        {
+          "title": "Delaney Hall付近での暴力衝突と外出禁止令",
+          "location": "米国（ニュージャージー州Delaney Hall周辺）",
+          "severity": 88,
+          "description": "ICE施設付近での抗議デモが暴力的な衝突に発展し、混乱が続くため、夜間外出禁止令が発令されました。複数の情報源が暴力と大混乱の継続を報告しており、地域の治安が極めて不安定な状態にあります。",
+          "source": "New York Post, NJ.com, RLS Media, breitbart.com"
         },
         {
-          "title": "オハイオ州の農民によるデータセンターへの抗議",
-          "location": "米国 オハイオ州",
+          "title": "オハイオ州農民によるデータセンター抗議",
+          "location": "米国（オハイオ州）",
           "severity": 55,
-          "description": "オハイオ州の農民がデータセンター建設に反対し抗議デモを行っています。地域開発に対する不満から政治的な騒乱の兆候が見られます。",
+          "description": "オハイオ州の農民たちがデータセンター建設に抗議し、政治的な混乱が増大していると報じられています。直接的な暴力はないものの、地域住民と行政間の不満が高まっています。",
           "source": "The Nerd Stash"
         }
       ]
     },
     {
-      "region": "europe",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "インフレ懸念、経済不安、社会的衝突",
-      "incidents": [
-        {
-          "title": "BOEによるインフレ上昇警告",
-          "location": "英国",
-          "severity": 40,
-          "description": "イングランド銀行（BOE）のマン委員が低インフレ時代の終焉を警告し、ベイリー総裁は目標を超えるインフレを容認する姿勢を示しており、経済的な不確実性が高まっています。",
-          "source": "Bloomberg.com, MSN"
-        },
-        {
-          "title": "PSGファンによる暴動と警察との衝突",
-          "location": "フランス パリ",
-          "severity": 75,
-          "description": "サッカーのチャンピオンズリーグ祝賀会中、PSGファンが暴動を起こし、警察と衝突しました。大規模な騒乱が発生し、社会秩序が一時的に乱れました。",
-          "source": "The Telegraph"
-        },
-        {
-          "title": "UBSによる人員削減の継続",
-          "location": "欧州 (広域)",
-          "severity": 35,
-          "description": "UBSがクレディ・スイス買収後も人員削減を続けており、金融業界における経済的な不確実性と雇用不安が継続しています。",
-          "source": "Finimize"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "水不足",
-      "incidents": [
-        {
-          "title": "ガーナ・グベスタイル住民の長期水不足抗議",
-          "location": "ガーナ グベスタイル",
-          "severity": 70,
-          "description": "グベスタイルの住民が7ヶ月にわたる深刻な水不足に対し、抗議デモを行っています。生活インフラの危機が住民の不満を増幅させています。",
-          "source": "Ghana News Agency, MSN, Ghana Business News"
-        }
-      ]
-    },
-    {
       "region": "middle_east",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "地域紛争、地政学的緊張",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "地域紛争（イスラエルとパレスチナ間の衝突）",
       "incidents": [
         {
-          "title": "イスラエル占領軍によるパレスチナ人負傷",
-          "location": "ヨルダン川西岸",
-          "severity": 70,
-          "description": "イスラエル占領軍がヨルダン川西岸でパレスチナ人4人を負傷させました。地域における継続的な暴力と地政学的緊張が続いています。",
+          "title": "占領下ヨルダン川西岸での攻撃と負傷者",
+          "location": "占領下ヨルダン川西岸",
+          "severity": 90,
+          "description": "イスラエル側による攻撃でパレスチナ人4人が負傷し、住宅や土地が攻撃されています。この地域は慢性的な紛争状態にあり、住民は常に生命の危険と社会不安に晒されています。",
           "source": "Anadolu Ajansı"
         }
       ]
     },
     {
-      "region": "south_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "水不足、教育への不信、労働問題、政治的対立",
+      "region": "asia",
+      "panic_index": 70,
+      "status": "unstable",
+      "main_cause": "資源（水、燃料）不足と経済不安",
       "incidents": [
         {
-          "title": "ウッタラカンド州での飲用水不足抗議",
-          "location": "インド ウッタラカンド州 デブプラヤグ",
+          "title": "アムリトサルでの燃料パニック買いと供給枯渇",
+          "location": "インド（アムリトサル）",
+          "severity": 85,
+          "description": "アムリトサル市で燃料不足への懸念からパニック買いが発生し、ガソリンスタンドで燃料が枯渇する事態となっています。これは社会インフラのマヒ、略奪、買いだめレベルに匹敵する状況です。",
+          "source": "MSN"
+        },
+        {
+          "title": "各地での飲料水不足に対する抗議デモ",
+          "location": "インド（ウッタラカンド州デヴプラヤーグ、ジャガトプラ）",
           "severity": 65,
-          "description": "ウッタラカンド州の村人が飲用水の危機に対し、たいまつを掲げて抗議デモを行っています。生活必需品の不足が深刻な社会不安を引き起こしています。",
-          "source": "National Herald"
+          "description": "ウッタラカンド州デヴプラヤーグではトーチを掲げた住民が、ジャガトプラでは住民がそれぞれ飲料水不足に抗議しています。生活に不可欠な資源の不足が広範な不安とデモを引き起こしています。",
+          "source": "National Herald, MSN"
         },
         {
-          "title": "NEET試験問題漏洩に対する大規模デモ",
-          "location": "インド ボパール",
-          "severity": 75,
-          "description": "NEET（国家資格試験）の試験問題漏洩に対し、コングレス党とNSUIが大規模な抗議デモを実施。警察は放水銃を使用し群衆を解散させました。教育制度への不信が高まっています。",
-          "source": "The Times of India"
+          "title": "LPG不足抗議動画に関する政府の否定",
+          "location": "インド（Miranda House）",
+          "severity": 45,
+          "description": "LPG（液化石油ガス）不足を巡るミランダハウスでの抗議活動を映した動画の真偽について、政府はミスリードだと否定しています。しかし、エネルギー不足への懸念は依然として存在します。",
+          "source": "News On AIR"
         },
         {
-          "title": "ノイダでの労働争議とジャーナリスト逮捕",
-          "location": "インド ノイダ",
-          "severity": 60,
-          "description": "ノイダの労働争議でジャーナリストが逮捕された件について、アラーハーバード高等裁判所が通知を発出。労働不安と表現の自由への懸念が浮上しています。",
+          "title": "ノイダでの労働不安",
+          "location": "インド（ノイダ）",
+          "severity": 55,
+          "description": "ノイダで労働不安が発生し、ジャーナリストが逮捕された問題で高裁が通知を出しています。労働問題が社会不安に発展する可能性を示唆しており、状況は不安定です。",
           "source": "TheWire.in"
         },
         {
-          "title": "マムター氏の政治的騒乱と大規模運動",
-          "location": "インド (広域)",
-          "severity": 60,
-          "description": "TMC党首のマムター・バナジー氏が、党内の騒乱と戦いながら、街頭政治への復帰と新たな大規模政治運動を準備しており、政治的緊張が高まっています。",
-          "source": "Bhaskar English"
-        },
+          "title": "英国での低インフレ時代終焉の警告",
+          "location": "英国",
+          "severity": 35,
+          "description": "イングランド銀行のマン委員が低インフレ時代の終焉を警告。直接的なパニックではないものの、経済状況の悪化が将来的な社会不安の大きな要因となる可能性があります。",
+          "source": "Bloomberg.com"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 65,
+      "status": "unstable",
+      "main_cause": "生活インフラ（水）不足",
+      "incidents": [
         {
-          "title": "ジャガトプラとジャイプールの水不足抗議",
-          "location": "インド ジャガトプラ、ジャイプール",
-          "severity": 65,
-          "description": "ジャガトプラの住民とジャイプールの学生が、深刻な水不足に対し、抗議活動を行っています。生活に直結するインフラ問題が広範囲で発生しています。",
-          "source": "MSN"
+          "title": "Gbestile住民による7ヶ月間の水不足抗議",
+          "location": "ガーナ（Gbestile）",
+          "severity": 68,
+          "description": "ガーナのGbestileで住民が7ヶ月にわたる深刻な水不足に対し抗議活動を行っています。長期間にわたる生活インフラの欠如は、社会心理的なパニックと不安を増大させています。",
+          "source": "MSN, Ghana News Agency"
         }
       ]
     }
