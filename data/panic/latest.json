@@ -1,108 +1,79 @@
 {
   "date": "2026-05-31",
-  "summary": "世界各地で社会不安が高まっており、特にインドでは燃料不足によるパニック買いが発生し、緊急度の高い状況にあります。また、フランスではスポーツイベント後の大規模暴動、中東の占領下地域では継続的な暴力、アフリカでは水不足に対する抗議活動が報告されています。北米でも移民関連施設周辺で激しい衝突が複数発生しており、全体的に社会秩序の不安定化が顕著です。",
-  "global_panic_index": 80,
+  "summary": "世界各地で地域的な社会不安とパニック事象が散発的に発生しています。フランスではサッカーの勝利を祝う暴動が数百人の逮捕者を出し、米国ニュージャージー州では大規模な抗議活動が警察との衝突に発展。中東ではイスラエル北部でのヒズボラの攻撃により住民がパニックに陥るなど、紛争による直接的な脅威が顕在化しています。また、アフリカでは資源不足に対する住民の抗議デモが続いており、生活基盤に対する不満が表面化しています。全体としては、特定の地域において秩序の混乱や住民の恐怖が強く報じられていますが、世界規模での統一的なパニックには至っていません。",
+  "global_panic_index": 58,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "スポーツイベント後の大規模な暴動と社会秩序の混乱",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "大規模な抗議デモ・暴動（スポーツイベント起因）",
       "incidents": [
         {
-          "title": "PSG優勝後の大規模暴動と逮捕者多数",
-          "location": "フランス、パリ",
-          "severity": 75,
-          "description": "サッカークラブPSGの優勝祝賀後にファンが暴徒化し、警察と衝突。数百人が逮捕され、略奪や器物損壊が発生。都市の一部で秩序が著しく乱れた。",
-          "source": "Al Jazeera, The Times, The Telegraph"
+          "title": "PSG優勝後の暴動と逮捕",
+          "location": "フランス・パリ",
+          "severity": 68,
+          "description": "サッカーPSGのチャンピオンズリーグ優勝後、パリ市内で大規模な暴動が発生し、数百人の逮捕者が出ました。商店への略奪や警察との衝突も報じられています。",
+          "source": "Al Jazeera / The Times / France 24 / News.com.au"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 68,
-      "status": "unstable",
-      "main_cause": "移民関連施設への抗議活動と警察との衝突",
-      "incidents": [
-        {
-          "title": "NewarkのDelaney Hall周辺での激しい衝突と外出禁止令",
-          "location": "米国、ニューアーク",
-          "severity": 70,
-          "description": "移民関連施設Delaney Hallへの抗議活動がエスカレートし、警察との激しい衝突が発生。催涙スプレーが使用され、夜間外出禁止令が発令されるなど、地域の治安が悪化した。",
-          "source": "RLS Media, New York Post, MSN, NJ.com"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 70,
+      "panic_index": 60,
       "status": "volatile",
-      "main_cause": "生活必需品（水）の深刻な不足、暴力的抗議",
+      "main_cause": "大規模な抗議デモと治安部隊との衝突",
       "incidents": [
         {
-          "title": "7ヶ月間の水不足に対する住民の抗議",
-          "location": "ガーナ、Gbestile",
+          "title": "ニュージャージー州Delaney Hall周辺での騒乱",
+          "location": "米国・ニュージャージー州ニューアーク",
           "severity": 65,
-          "description": "Gbestile地区の住民が7ヶ月にわたる深刻な水不足に対し大規模な抗議活動を実施。生活必需品の欠如が住民の間に強い不満と不安を引き起こしている。",
-          "source": "Ghana News Agency, MSN"
+          "description": "Delaney Hall周辺で抗議デモが暴力的な衝突に発展し、夜間外出禁止令が発令されました。州知事が平静を呼びかけ、州警察が介入する事態となっています。",
+          "source": "RLS Media / The New York Times / New York Post / Devdiscourse / MSN"
         },
         {
-          "title": "Mossel Bayでの暴力的抗議デモ",
-          "location": "南アフリカ、Mossel Bay",
-          "severity": 70,
-          "description": "Mossel Bayで発生した暴力的抗議デモの後、当局が市民に鎮静化を呼びかけた。具体的な原因は不明だが、大規模な社会不安の表れと見られる。",
-          "source": "Algoa FM"
+          "title": "フィラデルフィアでの抗議活動",
+          "location": "米国・フィラデルフィア",
+          "severity": 40,
+          "description": "ブルース・スプリングスティーンのコンサートに関連して「歯を食いしばるような抗議」が予定されているとの報道があります。具体的なパニックには至っていません。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 80,
+      "panic_index": 70,
       "status": "critical",
-      "main_cause": "紛争地域における継続的な暴力と居住地の安全保障への脅威",
+      "main_cause": "軍事衝突とミサイル攻撃による住民の恐怖",
       "incidents": [
         {
-          "title": "占領下の西岸地区でのイスラエル軍によるパレスチナ人への攻撃",
-          "location": "占領下の西岸地区",
+          "title": "ヒズボラ攻撃による北部ビーチでのパニック",
+          "location": "イスラエル北部",
           "severity": 80,
-          "description": "イスラエル軍がパレスチナ人の家屋や土地を攻撃。継続的な暴力と紛争により、住民は常に生命の危険と財産の喪失に直面しており、極度の不安と恐怖の中で生活している。",
-          "source": "Middle East Monitor"
+          "description": "ヒズボラの攻撃を受け、イスラエル北部のビーチで住民がパニックに陥り、避難する事態が発生しました。直接的な生命の脅威による集団的な恐怖が報告されています。",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "イスラエルによるレバノン攻勢の拡大",
+          "location": "イスラエル・レバノン国境地域",
+          "severity": 70,
+          "description": "イスラエルがレバノンへの攻勢を拡大し、戦略的な拠点を掌握したとの報道。地域紛争の激化は住民の広範な不安と避難行動を誘発する可能性があります。",
+          "source": "Radio Free Europe/Radio Liberty"
         }
       ]
     },
     {
-      "region": "south_asia",
-      "panic_index": 88,
-      "status": "critical",
-      "main_cause": "燃料不足によるパニック買い、主要試験問題漏洩への大規模抗議、生活必需品（LPG）の供給懸念",
+      "region": "africa",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "長期にわたる資源不足（水不足）に対する抗議",
       "incidents": [
         {
-          "title": "アムリトサルでの燃料不足によるパニック買い",
-          "location": "インド、アムリトサル",
-          "severity": 88,
-          "description": "アムリトサルで燃料不足の懸念からガソリンスタンドに市民が殺到し、パニック買いが発生。一部のガソリンスタンドでは燃料が底をつき、社会インフラに混乱が生じた。",
-          "source": "MSN"
-        },
-        {
-          "title": "NEET試験問題漏洩に対する大規模抗議デモ",
-          "location": "インド、ボパール",
-          "severity": 70,
-          "description": "主要な医療入学試験（NEET）の問題漏洩疑惑を受け、学生や市民が大規模な抗議デモを実施。警察が放水銃を使用して群衆を解散させるなど、緊迫した状況が続いた。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "LPG不足に関する抗議デモの報道と政府の否定",
-          "location": "インド、ミランダハウス",
-          "severity": 55,
-          "description": "LPG（液化石油ガス）不足に関する抗議デモのビデオが報じられたが、政府はこれを誤解を招くものとして否定。しかし、LPG供給への市民の懸念は存在している。",
-          "source": "News On AIR"
-        },
-        {
-          "title": "Noidaでの労働不安とジャーナリスト逮捕",
-          "location": "インド、Noida",
-          "severity": 60,
-          "description": "Noidaで発生した労働不安に関する事件で、ジャーナリストが逮捕された問題について裁判所が政府に通知。労働者の不満が社会不安に繋がる可能性を示唆している。",
-          "source": "TheWire.in"
+          "title": "7ヶ月間の水不足に対する住民抗議",
+          "location": "ガーナ・Gbestile",
+          "severity": 50,
+          "description": "Gbestile地区の住民が7ヶ月にわたる深刻な水不足に対し抗議デモを実施しました。生活に不可欠な資源の欠如は住民のフラストレーションを高めています。",
+          "source": "MSN / Ghana News Agency"
         }
       ]
     }
