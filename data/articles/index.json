@@ -1,21 +1,21 @@
 [
   {
     "date": "2026-05-31",
-    "summary": "ウクライナ情勢は依然として緊迫しており、ザポリージャ原発への攻撃報道も。中東ではイスラエルとヒズボラの衝突が激化し、イラン核合意を巡る不確実性も高まっている。アジアでは、中国の軍事力増強に対する警戒感が強まっている。",
+    "summary": "ウクライナ情勢は依然として緊迫しており、ザポリージャ原発への攻撃報道も。中東ではイスラエルとヒズボラの衝突が激化し、ガザ地区の状況も悪化。アジアでは安全保障会議が開かれ、地域秩序のあり方が議論されるなど、地政学的リスクが高まっている。",
     "overall_risk_level": "high",
     "article_count": 10,
     "region_risk_map": {
       "east_asia": "medium",
-      "southeast_asia": "low",
+      "southeast_asia": "medium",
       "south_asia": "none",
       "central_asia": "none",
       "middle_east": "critical",
       "europe": "critical",
-      "africa": "medium",
-      "north_america": "medium",
-      "south_america": "medium"
+      "africa": "none",
+      "north_america": "high",
+      "south_america": "none"
     },
-    "generated_at": "2026-05-31T16:14:02.788913"
+    "generated_at": "2026-05-31T19:22:18.299560"
   },
   {
     "date": "2026-05-30",
