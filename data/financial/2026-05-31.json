@@ -1,120 +1,56 @@
 {
   "date": "2026-05-31",
-  "summary": "中国物流株からの大規模な資金引き揚げ、S&P500の低い配当利回り、AI関連株への注目、エネルギー市場の変動、暗号資産規制の動向など、複数のリスク要因が混在。全体的に市場の不確実性が高まっている。",
+  "summary": "5月末の金融市場は、株価が記録的な高値付近で推移し、好調な月を終えた。しかし、インフレ懸念、金利上昇、地政学的リスク（イラン戦争終結後の影響）、暗号資産市場の規制強化など、複数のリスク要因が依然として存在し、注意が必要である。",
   "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "Why a Fund Walked Away From This $20 Million China Logistics Bet After a 24% Stock Drop",
-      "region": "east_asia",
-      "risk_level": "high",
-      "summary": "あるファンドが、中国物流株の24%下落後、2000万ドルの投資から撤退。中国市場におけるリスク選好の変化を示唆。",
-      "analysis": "中国物流セクターの株価急落は、規制変更、経済成長の鈍化、または地政学的リスクなど、複数の要因が考えられる。ファンドの撤退は、投資家の信頼感低下を示し、他の投資家にも同様の動きが広がる可能性がある。中国市場へのエクスポージャーを持つポートフォリオは、リスク管理を強化する必要がある。今後の中国経済指標や政策発表に注意が必要。",
-      "key_entities": [
-        "中国物流企業",
-        "当該ファンド"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "What to Know About This Fund's $194 Million Exit From a China Logistics Stock",
-      "region": "east_asia",
-      "risk_level": "high",
-      "summary": "別のファンドが、中国物流株から1億9400万ドルを引き揚げ。中国市場への投資判断に慎重な姿勢が強まっている。",
-      "analysis": "上記記事と同様に、中国物流セクターへの懸念が背景にあると考えられる。大規模な資金引き揚げは、市場全体のセンチメントを悪化させ、さらなる株価下落を招く可能性がある。中国経済の構造的な問題や、米中関係の緊張などが影響している可能性も考慮する必要がある。他のファンドの動向を注視し、ポートフォリオのリバランスを検討すべき。",
-      "key_entities": [
-        "中国物流企業",
-        "当該ファンド"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "The S&P 500's Dividend Yield Hasn't Been This Low Since the 1800s. That Makes This Top Dividend ETF Even More Enticing.",
+      "title": "Stock futures are flat in overnight trading as June trading begins near record highs: Live updates",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "S&P500の配当利回りが1800年代以来の低水準。高配当ETFへの魅力が高まっている。",
-      "analysis": "S&P500の配当利回りの低下は、株価上昇が配当金の伸びを上回っていることを示唆する。これは、市場が割高になっている可能性や、企業が成長投資に資金をシフトしていることを意味する。高配当ETFは、相対的に安定した収入源となるため、リスク回避的な投資家にとって魅力的な選択肢となる。ただし、高配当株も市場全体の変動の影響を受けるため、注意が必要。",
+      "risk_level": "low",
+      "summary": "主要株価指数は5月に堅調な上昇を見せたが、6月に入り、株価先物は横ばいで推移している。",
+      "analysis": "5月は株式市場にとって好調な月であり、主要な指数はすべて上昇した。しかし、6月に入り、市場は一服している。これは、投資家が今後の経済指標や企業業績を見極めようとしているためと考えられる。全体的な市場センチメントは依然として強気だが、過去の急騰の後には調整が入る可能性もあるため、注意が必要である。",
       "key_entities": [
         "S&P 500",
-        "高配当ETF"
+        "NASDAQ",
+        "Dow Jones"
       ],
       "sources": [
-        "Yahoo Finance"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "This Is My Best Artificial Intelligence (AI) Stock to Buy in June (Hint: It's Not Micron Technology)",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "AI関連株への投資推奨。特定の銘柄に集中投資することのリスクを示唆。",
-      "analysis": "AI分野は成長が期待されるが、過大評価されている可能性もある。特定の銘柄への集中投資は、市場の変動や技術革新のスピードに対応できないリスクがある。ポートフォリオ全体のリスク分散を考慮し、AI関連株への投資割合を適切に管理する必要がある。推奨銘柄だけでなく、競合他社の動向や業界全体のトレンドを把握することが重要。",
-      "key_entities": [
-        "AI関連企業"
-      ],
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Is This Ultimate High‑Yield Stock Actually Going to $0?",
-      "region": "global",
+      "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
+      "region": "middle_east",
       "risk_level": "high",
-      "summary": "高利回り株の潜在的なリスク。企業財務の健全性に対する懸念。",
-      "analysis": "高利回り株は、一般的に高いリスクを伴う。企業の財務状況が悪化している場合や、事業環境が厳しくなっている場合、配当金が減額または停止される可能性がある。投資家は、高利回り株に投資する前に、企業の財務諸表を詳細に分析し、事業の持続可能性を評価する必要がある。特に、金利上昇局面では、高利回り株のリスクが高まる傾向がある。",
+      "summary": "イラン戦争の影響でホルムズ海峡の石油輸出量が回復しない可能性があり、エネルギー市場に不確実性をもたらしている。",
+      "analysis": "イラン戦争によるホルムズ海峡の封鎖は、世界の石油供給に深刻な影響を与えた。戦争終結後も、海峡の安全確保やインフラ復旧の遅れにより、輸出量が以前の水準に戻らない可能性がある。これは、原油価格の上昇やエネルギー供給の不安定化につながり、世界経済に悪影響を及ぼす可能性がある。特に、中東地域への依存度が高い国々にとっては大きなリスクとなる。",
       "key_entities": [
-        "高利回り株発行企業"
+        "Strait of Hormuz",
+        "Iran",
+        "OPEC"
       ],
       "sources": [
-        "Yahoo Finance"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
       ]
     },
     {
-      "title": "360 Energy Pulse: What mattered this month in energy",
-      "region": "global",
+      "title": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality",
+      "region": "middle_east",
       "risk_level": "medium",
-      "summary": "エネルギー市場の動向。地政学的リスクや供給変動の影響。",
-      "analysis": "エネルギー市場は、地政学的リスク、供給制約、需要変動など、多くの要因によって影響を受ける。特に、中東地域の緊張や、OPECプラスの生産調整は、原油価格に大きな影響を与える可能性がある。再生可能エネルギーへの移行も、長期的なエネルギー市場の構造変化をもたらす。エネルギー関連投資は、これらのリスクを考慮し、慎重に行う必要がある。",
+      "summary": "イラン戦争終結後、株価は上昇したが、エネルギー価格の高騰により消費者は負担を強いられ、格差が拡大する可能性がある。",
+      "analysis": "イラン戦争の終結は、株式市場にとっては好材料だが、エネルギー価格の高止まりは、低所得者層を中心に消費者の購買力を低下させる可能性がある。これは、米国における所得格差の拡大につながり、社会不安を引き起こすリスクがある。政府は、エネルギー価格の安定化や低所得者層への支援策を講じる必要がある。",
       "key_entities": [
-        "OPEC+",
-        "エネルギー企業"
+        "US Government",
+        "Energy Sector"
       ],
       "sources": [
-        "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "How the House Financial Services Committee is taking on tokenization: State of Crypto",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "米下院金融サービス委員会によるトークン化への取り組み。暗号資産規制の進展。",
-      "analysis": "トークン化は、金融市場の効率化や新たな投資機会の創出に貢献する可能性がある。しかし、同時に、マネーロンダリングや詐欺などのリスクも伴う。米下院金融サービス委員会の取り組みは、これらのリスクを管理し、健全な暗号資産市場の発展を促進することを目的としている。規制の動向は、暗号資産関連企業や投資家の投資判断に大きな影響を与えるため、注視する必要がある。",
-      "key_entities": [
-        "米下院金融サービス委員会",
-        "暗号資産取引所"
-      ],
-      "sources": [
-        "CoinDesk"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -124,32 +60,15 @@
       "title": "SoftBank plans 75 billion euros of AI investments in France, as Europe struggles to catch up with U.S. and China",
       "region": "europe",
       "risk_level": "medium",
-      "summary": "ソフトバンクによるフランスへのAI投資計画。AI分野における地域間競争の激化。",
-      "analysis": "ソフトバンクの大規模なAI投資は、ヨーロッパにおけるAI開発を加速させる可能性がある。しかし、米国や中国に比べて、ヨーロッパのAI分野は遅れているという認識がある。投資の成功は、優秀な人材の確保、規制環境の整備、データインフラの整備など、多くの要因に依存する。地域間の競争は、技術革新を促進する一方で、過剰投資や資源の浪費につながるリスクもある。",
+      "summary": "ソフトバンクがフランスに大規模なAI投資を計画しており、欧州が米国や中国に追いつくための取り組みを強化している。",
+      "analysis": "ソフトバンクによるフランスへの大規模なAI投資は、欧州におけるAI技術の発展を加速させる可能性がある。しかし、米国や中国と比較して、欧州のAI分野は依然として遅れをとっている。規制の厳しさや人材不足などが課題として挙げられる。欧州がAI分野で競争力を高めるためには、政府や企業が連携し、研究開発への投資や人材育成を強化する必要がある。",
       "key_entities": [
-        "ソフトバンク",
-        "フランス政府"
+        "SoftBank",
+        "France",
+        "European Union"
       ],
       "sources": [
-        "CNBC"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
-      "region": "middle_east",
-      "risk_level": "critical",
-      "summary": "ホルムズ海峡の原油輸出がイラン戦争前の水準に戻らない可能性。地政学的リスクによる供給不安。",
-      "analysis": "イラン戦争終結後も、ホルムズ海峡の安全保障上のリスクは依然として高い。イランによる海峡封鎖や、周辺国との紛争は、原油供給に大きな影響を与える可能性がある。原油価格の高騰は、世界経済にインフレ圧力をかけ、景気後退のリスクを高める。エネルギー供給の多角化や、代替エネルギーの開発が急務となる。",
-      "key_entities": [
-        "イラン",
-        "OPEC",
-        "原油タンカー"
-      ],
-      "sources": [
-        "CNBC"
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -159,15 +78,105 @@
       "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
       "region": "global",
       "risk_level": "high",
-      "summary": "SECがAI取引ボットを装った暗号資産詐欺でテキサス州の男を提訴。暗号資産市場における詐欺リスクの顕在化。",
-      "analysis": "AI技術を悪用した詐欺は、投資家の知識不足につけ込み、高額な資金を騙し取る手口として警戒が必要。SECの提訴は、暗号資産市場における規制強化の必要性を示唆している。投資家は、高利回りを謳う投資案件には特に注意し、信頼できる情報源から情報を収集することが重要。また、暗号資産取引所は、詐欺行為を防止するための対策を強化する必要がある。",
+      "summary": "SECが、偽のAI取引ボットを利用した暗号資産詐欺の疑いでテキサス州の男性を提訴した。",
+      "analysis": "この事件は、暗号資産市場における詐欺のリスクを浮き彫りにしている。特に、AI技術を謳った詐欺は、投資家を欺きやすく、被害が拡大する可能性がある。規制当局は、暗号資産市場の監視を強化し、投資家保護のための措置を講じる必要がある。また、投資家自身も、高利回りを謳う投資案件には慎重に対応し、十分な情報収集を行う必要がある。",
       "key_entities": [
         "SEC",
-        "詐欺容疑者",
-        "暗号資産取引所"
+        "Crypto Assets",
+        "AI"
       ],
       "sources": [
         "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
+      "region": "global",
+      "risk_level": "high",
+      "summary": "AIを活用したハッカーの脅威が、大手銀行のブロックチェーン技術導入を妨げている。",
+      "analysis": "ブロックチェーン技術は、金融業界に大きな変革をもたらす可能性を秘めているが、セキュリティ上のリスクが課題となっている。特に、AIを活用したハッカーは、従来のセキュリティ対策を突破し、ブロックチェーン上の資産を盗み出す可能性がある。大手銀行は、セキュリティ対策を強化し、AIを活用した脅威に対抗するための技術開発を進める必要がある。",
+      "key_entities": [
+        "Blockchain",
+        "AI",
+        "Wall Street",
+        "Cybersecurity"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Michael Saylor’s Post Fuels New Bitcoin Purchase Speculation for MicroStrategy",
+      "region": "global",
+      "risk_level": "low",
+      "summary": "マイケル・セイラー氏の投稿が、MicroStrategyによる新たなビットコイン購入の憶測を呼んでいる。",
+      "analysis": "MicroStrategyは、ビットコインを大量に保有しており、その動向は暗号資産市場に大きな影響を与える。マイケル・セイラー氏の投稿は、市場参加者の期待を高め、ビットコイン価格の上昇につながる可能性がある。しかし、MicroStrategyの財務状況やビットコイン市場の変動によっては、リスクも伴う。",
+      "key_entities": [
+        "Bitcoin",
+        "MicroStrategy",
+        "Michael Saylor"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Why rising interest rates haven't crushed stock valuations",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "金利上昇が株価評価を押し下げていない理由について分析している。",
+      "analysis": "通常、金利が上昇すると、企業の借入コストが増加し、株価評価が低下する傾向がある。しかし、現在の市場では、企業の収益性が高く、投資家が将来の成長に期待しているため、金利上昇の影響が相殺されている可能性がある。ただし、金利がさらに上昇した場合、株価評価に悪影響を及ぼす可能性もある。",
+      "key_entities": [
+        "Interest Rates",
+        "Stock Market"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Advanced Micro Devices Inc. (AMD): Leopold Aschenbrenner Has a Bearish View on This Chip Stock",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "レオポルド・アッシェンブレンナー氏がAMD株に対して弱気な見方を示している。",
+      "analysis": "著名な投資家であるレオポルド・アッシェンブレンナー氏がAMD株に対して弱気な見方を示していることは、市場センチメントに影響を与える可能性がある。半導体市場の競争激化や、AMDの業績見通しに対する懸念などが背景にあると考えられる。投資家は、アッシェンブレンナー氏の分析を参考にしつつ、自身の投資判断を行う必要がある。",
+      "key_entities": [
+        "AMD",
+        "Leopold Aschenbrenner",
+        "Semiconductor Industry"
+      ],
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "In deeply red Oklahoma, minimum wage’s biggest 2026 election cycle fight is about to be decided",
+      "region": "north_america",
+      "risk_level": "low",
+      "summary": "オクラホマ州で最低賃金の引き上げを巡る選挙戦が激化しており、経済状況やインフレ見通しを反映している。",
+      "analysis": "オクラホマ州における最低賃金の引き上げは、労働市場やインフレに影響を与える可能性がある。最低賃金が引き上げられると、低賃金労働者の所得が増加する一方で、企業の労働コストが増加する。これは、物価上昇や雇用減少につながる可能性もある。選挙結果は、他の州や連邦政府の政策にも影響を与える可能性がある。",
+      "key_entities": [
+        "Oklahoma",
+        "Minimum Wage",
+        "Inflation"
+      ],
+      "sources": [
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -178,9 +187,9 @@
     "global": "high",
     "north_america": "low",
     "europe": "medium",
-    "east_asia": "high"
+    "east_asia": "medium"
   },
-  "generated_at": "2026-05-31T19:22:39.655580",
+  "generated_at": "2026-05-31T22:04:02.846798",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
