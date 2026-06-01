@@ -1,42 +1,71 @@
 {
-  "date": "2026-05-31",
-  "summary": "世界各地で社会不安の兆候が見られ、特にヨーロッパでは大規模な暴動が、中東では地政学的な緊張による直接的なパニックが発生しています。北米やアフリカでも抗議活動や暴動が報告されており、全体的に社会秩序の安定性が低下している状況です。食料・エネルギー不足の懸念も一部で報告されており、潜在的な不安要素として注視が必要です。",
-  "global_panic_index": 65,
+  "date": "2026-06-01",
+  "summary": "世界各地で多岐にわたる社会不安とパニック事象が発生しています。フランスでは大規模な暴動が死者・負傷者・多数の逮捕者を生み、米国ニューアークでは移民施設周辺で治安部隊との衝突が続き、外出禁止令が発令されています。アフリカでは医療品不足が人命に関わる深刻な危機に発展し、南アジアでは食料・水不足が住民の生活を脅かしています。金融システムへの潜在的な不安も指摘されており、複数の地域で社会インフラの脆弱性と市民の不安が増大している状況です。",
+  "global_panic_index": 78,
   "regions": [
     {
       "region": "europe",
       "panic_index": 85,
-      "status": "volatile",
-      "main_cause": "大規模な祝祭イベントの過剰なエスカレートとそれに伴う暴徒化、社会的不満",
+      "status": "critical",
+      "main_cause": "スポーツイベント後の大規模暴動、金融システムへの潜在的懸念",
       "incidents": [
         {
-          "title": "フランス各地でチャンピオンズリーグ優勝後の暴動と略奪",
-          "location": "フランス（パリを含む各地）",
-          "severity": 90,
-          "description": "パリ・サンジェルマンのチャンピオンズリーグ優勝祝賀中に、フランス各地で大規模な暴動が発生。数百人が逮捕され、数十人の警察官が負傷し、1人が死亡しました。商店の略奪も報告され、社会秩序の混乱が顕著でした。",
-          "source": "BBC, France 24, The Times"
+          "title": "PSGファンによる暴動、死者・負傷者多数",
+          "location": "フランス・パリ",
+          "severity": 95,
+          "description": "サッカークラブPSGの優勝祝賀中にファンが暴動化。1人が死亡、警察官7人が負傷し、計780人（別の情報では416人）が逮捕される深刻な事態に発展し、政治問題化している。",
+          "source": "France 24, The Times, PM News Nigeria, NST Online"
+        },
+        {
+          "title": "金融システムへの安定コイン「取り付け騒ぎ」の警告",
+          "location": "欧州（ECB発言）",
+          "severity": 65,
+          "description": "欧州中央銀行（ECB）のシュナーベル理事が、安定コインの取り付け騒ぎが銀行システムを揺るがし、MMF危機を再演する可能性があると警告。金融市場の潜在的な不安定性への懸念が高まっている。",
+          "source": "Seoul Economic Daily"
+        },
+        {
+          "title": "パニック状態の軍馬がローマを暴走",
+          "location": "イタリア・ローマ",
+          "severity": 40,
+          "description": "パニック状態に陥った30頭の軍馬がローマ市街を走り回り、一時的な混乱を引き起こした。直接的な人への危害は不明だが、予期せぬ都市機能の動揺を招いた。",
+          "source": "vocal.media"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "移民政策に対する抗議、社会的不満",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "移民収容施設周辺での抗議活動と治安部隊との衝突",
       "incidents": [
         {
-          "title": "ニューアークのICE施設周辺で抗議活動と衝突、外出禁止令",
-          "location": "米国ニュージャージー州ニューアーク",
-          "severity": 75,
-          "description": "ICE（移民税関捜査局）施設Delaney Hall周辺で、移民政策に反対する活動家とICE支持者が衝突し、激しい抗議活動が展開されました。当局は複数回にわたり夜間の外出禁止令を発令し、事態の沈静化を図りました。",
-          "source": "Bergen Record, RLS Media, Fox News, The New York Times"
+          "title": "ICE施設周辺での衝突と外出禁止令、混乱続く",
+          "location": "米国・ニューアーク",
+          "severity": 80,
+          "description": "ICE収容施設Delaney Hall周辺で、抗議活動と治安部隊との衝突が頻発し、複数回の外出禁止令が発令された。デモ参加者の逮捕、機動隊の出動など、「混乱が続く」と報じられている。",
+          "source": "Bergen Record, MS NOW, RLS Media, NJ.com, New Jersey 101.5, 5 Towns Central"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 90,
+      "status": "critical",
+      "main_cause": "医療品不足による人道危機、大規模な生徒の暴動",
+      "incidents": [
+        {
+          "title": "血液検査試薬不足でがん患者が死亡、手術中止",
+          "location": "（アフリカ、未特定）",
+          "severity": 98,
+          "description": "血液検査用の試薬が枯渇し、がん患者が死亡、多数の手術がキャンセルされる事態が発生。医療インフラの深刻な機能不全と人道危機が進行している。",
+          "source": "Daily Nation"
         },
         {
-          "title": "フィラデルフィアでの抗議活動の言及",
-          "location": "米国フィラデルフィア",
-          "severity": 40,
-          "description": "ブルース・スプリングスティーンのコンサートが「激しい抗議」をテーマにしているとの報道があり、特定の社会問題に対する抗議の動きが示唆されています。大規模な暴動の報告はありません。",
-          "source": "MSN"
+          "title": "生徒による暴動が発生、逮捕者も",
+          "location": "南アフリカ・クラーイフォンテン",
+          "severity": 70,
+          "description": "クラーイフォンテンで生徒による暴動が発生し、1名が逮捕された。教育現場における社会不安の表れとみられ、治安維持の課題となっている。",
+          "source": "IOL"
         }
       ]
     },
@@ -44,59 +73,45 @@
       "region": "middle_east",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "地政学的緊張、軍事衝突の脅威",
+      "main_cause": "地域紛争に関連する暴力と緊張",
       "incidents": [
         {
-          "title": "ヒズボラ攻撃中にイスラエル北部ビーチでパニック",
-          "location": "イスラエル北部",
-          "severity": 80,
-          "description": "ヒズボラによる攻撃が発生した際、イスラエル北部のビーチで人々がパニック状態に陥ったと報じられました。直接的な武力衝突の脅威が市民の生活に影響を与えています。",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "西岸地区でパレスチナ人男性がイスラエル軍に射殺される",
-          "location": "西岸地区",
-          "severity": 70,
-          "description": "西岸地区の分離壁付近で、パレスチナ人男性がイスラエル軍に射殺された事件が報じられました。この種の事件は地域内の緊張を一層高め、新たな衝突の引き金となる可能性があります。",
-          "source": "Devdiscourse"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "社会的不満、治安の悪化",
-      "incidents": [
-        {
-          "title": "南アフリカで生徒による暴動が発生し、治安関係者が非難",
-          "location": "南アフリカ（クライフォンテイン）",
-          "severity": 55,
-          "description": "クライフォンテインで生徒による暴動が発生し、犯罪対策活動家がこれを非難しています。教育機関周辺での秩序の乱れは、広範な社会不安の一因となる可能性があります。",
-          "source": "IOL"
+          "title": "パレスチナ人男性が境界付近で射殺される",
+          "location": "ヨルダン川西岸、エルサレム近郊",
+          "severity": 75,
+          "description": "エルサレム近くのヨルダン川西岸境界付近でパレスチナ人男性が射殺された。この地域の緊迫した政治状況と暴力の継続を示す深刻な事件である。",
+          "source": "WKMG"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 0,
-      "status": "normal",
-      "main_cause": "該当する情報なし",
-      "incidents": []
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 0,
-      "status": "normal",
-      "main_cause": "該当する情報なし",
-      "incidents": []
-    },
-    {
-      "region": "south_america",
-      "panic_index": 0,
-      "status": "normal",
-      "main_cause": "該当する情報なし",
-      "incidents": []
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "食料・生活必需品不足、水不足と抗議デモ",
+      "incidents": [
+        {
+          "title": "軍の外出禁止令により食料・必需品不足が深刻化",
+          "location": "パキスタン・バロチスタン",
+          "severity": 90,
+          "description": "パキスタン軍による外出禁止令が敷かれたバロチスタン地域で、住民が食料や生活必需品の深刻な不足に直面。軍事介入が市民生活を圧迫し、人道危機を招いている。",
+          "source": "lokmattimes.com"
+        },
+        {
+          "title": "飲用水不足を巡り抗議デモ",
+          "location": "インド・ハイデラバード（カイルタバード）",
+          "severity": 70,
+          "description": "インドのカイルタバードで、飲用水の不足を訴える住民による抗議デモが発生。生活必需品である水の不足は、住民の健康と生活に直接的な影響を与え、社会不安を高める要因となっている。",
+          "source": "Dailyhunt"
+        },
+        {
+          "title": "LPG不足に関する抗議動画を政府が否定",
+          "location": "インド",
+          "severity": 45,
+          "description": "インド政府は、LPG（液化石油ガス）不足を巡る抗議デモの動画が誤解を招くものであるとして否定した。情報源の真偽は不明だが、不足の噂自体が社会不安の種となる。",
+          "source": "News On AIR"
+        }
+      ]
     }
   ]
 }

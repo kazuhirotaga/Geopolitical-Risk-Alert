@@ -1,5 +1,90 @@
 [
   {
+    "date": "2026-06-01",
+    "summary": "ロシアのウクライナ侵攻が継続。ロシア軍によるドローン攻撃がルーマニア領内で行われ、NATOが防衛を誓約。米国はイランに対する「自衛」攻撃を実施。一方、米国とイランの間で停戦合意に向けた動きもみられる。",
+    "events": [
+      {
+        "id": "event-1",
+        "timestamp": "2026-05-29",
+        "location": "ルーマニア",
+        "region": "europe",
+        "title": "ロシア軍ドローンによるルーマニア領内攻撃",
+        "content": "ロシア軍のドローンがルーマニア領内で民間人を負傷させた。NATOは同盟領土の防衛を誓約。",
+        "involved_parties": [
+          "ロシア軍",
+          "NATO"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/29/how-russia-is-turning-ukraines-drones-against-nato/"
+      },
+      {
+        "id": "event-2",
+        "timestamp": "2026-05-26",
+        "location": "イラン",
+        "region": "middle_east",
+        "title": "米国によるイランへの「自衛」攻撃",
+        "content": "米国軍はイランのミサイル発射地点および機雷敷設を試みる船舶に対して軍事攻撃を実施。停戦合意は継続中。",
+        "involved_parties": [
+          "アメリカ軍",
+          "イラン軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/your-navy/2026/05/26/us-launches-self-defense-strikes-against-iran-amid-ongoing-ceasefire/"
+      },
+      {
+        "id": "event-3",
+        "timestamp": "2026-05-29",
+        "location": "ウクライナ",
+        "region": "europe",
+        "title": "ロシア軍による滑空爆弾の多用",
+        "content": "ロシア軍はウクライナの最前線陣地に対して記録的な数の滑空爆弾を使用。ウクライナ国防省が発表。",
+        "involved_parties": [
+          "ロシア軍",
+          "ウクライナ軍"
+        ],
+        "event_type": "bombing",
+        "urgency": "high",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/29/ukraine-would-gain-advantage-over-russian-glide-bombs-with-gripen-meteor-combo/"
+      },
+      {
+        "id": "event-4",
+        "timestamp": "2026-05-27",
+        "location": "ロシア・ウクライナ国境",
+        "region": "europe",
+        "title": "ラトビア、ドローン迎撃部隊をロシア国境に派遣",
+        "content": "ラトビアはロシア国境へのドローン侵入に対応するため、迎撃ドローンを装備した部隊を派遣。",
+        "involved_parties": [
+          "ラトビア軍"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/global/europe/2026/05/27/latvia-sends-mobile-intercept-units-to-russian-border-in-wake-of-drone-incursions/"
+      },
+      {
+        "id": "event-5",
+        "timestamp": "2026-05-29",
+        "location": "ストレート・オブ・ホルムズ",
+        "region": "middle_east",
+        "title": "アメリカとイランの間で停戦交渉",
+        "content": "アメリカとイランの間で戦争を終わらせ、ホルムズ海峡での輸送を再開するための暫定合意に達した。",
+        "involved_parties": [
+          "アメリカ",
+          "イラン"
+        ],
+        "event_type": "other",
+        "urgency": "medium",
+        "source_name": "Defense News",
+        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/29/how-far-is-there-to-go-until-the-us-and-iran-end-the-war/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-31",
     "summary": "ウクライナ戦線ではロシア軍の損害が拡大。ロシアのドローンがルーマニア領内で民間人を負傷させる。米国はイランに対する「自衛」攻撃を実施。米軍高官がキューバ軍当局者と会談。",
     "events": [
@@ -3877,301 +3962,6 @@
         "urgency": "medium",
         "source_name": "Defense News",
         "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-02",
-    "summary": "5月1日の戦闘事象：米国はドイツから5000人の部隊を撤退させ、ガザの主要ミッションを閉鎖する予定。フィリピンでは米軍がドローンと3Dプリンターのテストを実施。ウクライナでは軍の交代に関する不満が噴出。",
-    "events": [
-      {
-        "id": "EVT001",
-        "timestamp": "2026-05-01",
-        "location": "ドイツ",
-        "region": "europe",
-        "title": "米軍、ドイツから5000人の部隊撤退を計画",
-        "content": "米国がドイツ駐留の兵力約35,000人のうち、5000人を撤退させる計画を発表。背景には、トランプ大統領とヨーロッパ諸国とのイラン戦争を巡る意見の相違があるとされる。",
-        "involved_parties": [
-          "アメリカ軍",
-          "ドイツ"
-        ],
-        "event_type": "retreat",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/01/us-withdrawing-5000-troops-from-germany-us-officials-say/"
-      },
-      {
-        "id": "EVT002",
-        "timestamp": "2026-05-01",
-        "location": "ガザ",
-        "region": "middle_east",
-        "title": "米国、ガザにおける主要ミッションを閉鎖へ",
-        "content": "イスラエルとハマスの停戦監視とガザへの援助を担当していた米軍主導の機関が閉鎖される予定。トランプ政権の計画が停滞していることが理由。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イスラエル",
-          "ハマス"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/your-military/2026/05/01/us-to-close-its-flagship-gaza-mission-as-trump-plan-stalls/"
-      },
-      {
-        "id": "EVT003",
-        "timestamp": "2026-05-01",
-        "location": "フィリピン",
-        "region": "east_asia",
-        "title": "米陸軍、「バリカタン」演習で新型ドローン、3Dプリンターをテスト",
-        "content": "米陸軍がフィリピンでの「バリカタン」演習で、新型ドローンや3Dプリンターのテストを実施。ディーゼル発電機の代替として、コンテナ化されたソーラーパネルマイクログリッドもテスト。",
-        "involved_parties": [
-          "アメリカ軍",
-          "フィリピン軍"
-        ],
-        "event_type": "other",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/01/us-army-tests-fresh-drones-3d-printers-at-balikatan-drill-in-the-philippines/"
-      },
-      {
-        "id": "EVT004",
-        "timestamp": "2026-05-01",
-        "location": "ペルシャ湾",
-        "region": "middle_east",
-        "title": "米海軍、イランの機雷対策でAI企業Dominoと提携",
-        "content": "米海軍は、イランの機雷に対する対策オプションを検討するため、AI企業Dominoと提携。迅速な対応を目指す。",
-        "involved_parties": [
-          "アメリカ海軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/naval/2026/05/01/us-navy-turns-to-ai-firm-domino-for-options-to-counter-iranian-mines/"
-      },
-      {
-        "id": "EVT005",
-        "timestamp": "2026-04-30",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "ウクライナ軍、兵士の交代問題で騒動",
-        "content": "ウクライナ軍の兵士の交代問題が表面化し、一部部隊では兵士が雨水を飲む事態も発生。ウクライナ軍総司令官が部隊ローテーションの変更を実施。",
-        "involved_parties": [
-          "ウクライナ軍"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/30/ukraines-army-chief-shakes-up-troop-rotations-after-outcry/"
-      },
-      {
-        "id": "EVT009",
-        "timestamp": "2026-04-30",
-        "location": "アルジェリア",
-        "region": "africa",
-        "title": "ロシアの影の航空会社がアルジェリアを拠点に利用",
-        "content": "ロシアの影の航空会社が、秘密裏なミッションのためにアルジェリアを拠点として利用。アルジェリアは、ロシアのウクライナ侵攻後の軍事輸出ビジネスの落ち込みの中で、ロシアの武器の重要な顧客となっている。",
-        "involved_parties": [
-          "ロシア",
-          "アルジェリア"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/europe/2026/04/30/investigation-russian-shadow-airlines-use-algeria-as-base-for-secretive-missions/"
-      },
-      {
-        "id": "EVT006",
-        "timestamp": "2026-04-29",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "トランプ大統領、プーチン大統領とウクライナの停戦について協議",
-        "content": "トランプ大統領は、プーチン大統領との電話会談で、ウクライナ戦争における「小規模な停戦」を提案したことを明らかにした。",
-        "involved_parties": [
-          "アメリカ",
-          "ロシア",
-          "ウクライナ"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/"
-      },
-      {
-        "id": "EVT007",
-        "timestamp": "2026-04-29",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "イラン戦争、これまでの費用は250億ドル",
-        "content": "ペンタゴン当局者は、イラン戦争の費用がこれまでに250億ドルに達したと発表。その大部分は軍需品に費やされている。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/"
-      },
-      {
-        "id": "EVT008",
-        "timestamp": "2026-04-29",
-        "location": "フィリピン",
-        "region": "east_asia",
-        "title": "米海兵隊、フィリピンでの防衛シミュレーションに参加",
-        "content": "米海兵隊がフィリピンでの防衛シミュレーションに参加し、海岸に侵入してきた敵を銃撃。撤退する敵に対し、爆発物を搭載した一人称視点ドローンによる攻撃を実施。",
-        "involved_parties": [
-          "アメリカ海兵隊",
-          "フィリピン軍"
-        ],
-        "event_type": "clash",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
-      },
-      {
-        "id": "event-010",
-        "timestamp": "2026-04-29",
-        "location": "不明",
-        "region": "middle_east",
-        "title": "米国防長官、イラン戦争の長期化を否定せず",
-        "content": "国防長官がイラン戦争の長期化について明言を避ける。戦争権限法に基づく60日間の期限が木曜日に迫る中での発言。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/dont-call-it-a-quagmire-defense-secretary-refuses-to-speculate-on-length-of-iran-war/"
-      },
-      {
-        "id": "event-011",
-        "timestamp": "2026-04-29",
-        "location": "不明",
-        "region": "europe",
-        "title": "トランプ大統領、プーチン大統領とウクライナの停戦について議論",
-        "content": "トランプ大統領が、水曜日のプーチン大統領との電話会談でウクライナでの「小規模な停戦」を提案したと発言。",
-        "involved_parties": [
-          "アメリカ",
-          "ロシア",
-          "ウクライナ"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/"
-      },
-      {
-        "id": "event-012",
-        "timestamp": "2026-04-29",
-        "location": "不明",
-        "region": "middle_east",
-        "title": "イラン戦争の費用はこれまでに250億ドル",
-        "content": "イラン戦争の費用はこれまでに250億ドル。下院軍事委員会で国防総省当局者が証言。費用の大半は軍需品に費やされている。",
-        "involved_parties": [
-          "アメリカ",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/"
-      },
-      {
-        "id": "event-013",
-        "timestamp": "2026-04-29",
-        "location": "フィリピン",
-        "region": "east_asia",
-        "title": "米海兵隊、フィリピンでのシミュレーション防衛で海岸侵入者を撃退",
-        "content": "米海兵隊が、フィリピンでのシミュレーション防衛で海岸侵入者を撃退。撤退する「敵」に、爆発物を搭載した一人称視点ドローンによる攻撃を実施。",
-        "involved_parties": [
-          "アメリカ海兵隊",
-          "フィリピン"
-        ],
-        "event_type": "clash",
-        "urgency": "low",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
-      },
-      {
-        "id": "event-10",
-        "timestamp": "2026-04-29",
-        "location": "イラン",
-        "region": "middle_east",
-        "title": "イラン戦争のコストはこれまでに250億ドル",
-        "content": "米国防総省当局者によると、イラン戦争のコストはこれまでに250億ドルに達した。大部分は軍需品に費やされている。",
-        "involved_parties": [
-          "アメリカ軍",
-          "イラン"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/"
-      },
-      {
-        "id": "event-11",
-        "timestamp": "2026-04-29",
-        "location": "フィリピン",
-        "region": "east_asia",
-        "title": "米海兵隊、フィリピンでのシミュレーションで海岸侵入者を撃退",
-        "content": "米海兵隊がフィリピンでのシミュレーション演習に参加。海岸に侵入してきた敵を銃撃で撃退し、ドローンによる攻撃も実施。",
-        "involved_parties": [
-          "アメリカ海兵隊",
-          "フィリピン軍"
-        ],
-        "event_type": "clash",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/"
-      },
-      {
-        "id": "event-12",
-        "timestamp": "2026-04-29",
-        "location": "ウクライナ",
-        "region": "europe",
-        "title": "トランプ大統領、プーチン大統領とウクライナの停戦について協議",
-        "content": "トランプ大統領が、プーチン大統領との電話会談で、ウクライナ戦争における「少しの停戦」を提案したと発言。",
-        "involved_parties": [
-          "アメリカ",
-          "ロシア",
-          "ウクライナ"
-        ],
-        "event_type": "other",
-        "urgency": "high",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/"
-      },
-      {
-        "id": "event-014",
-        "timestamp": "2026-04-28",
-        "location": "インド",
-        "region": "east_asia",
-        "title": "インド、通常型および核潜水艦の戦闘力を強化",
-        "content": "インドが3隻目のSSBNを就役させ、継続的な海上核反撃能力の展開を可能にする。",
-        "involved_parties": [
-          "インド"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/28/india-races-to-boost-conventional-nuclear-submarine-combat-punch/"
-      },
-      {
-        "id": "event-13",
-        "timestamp": "2026-04-28",
-        "location": "インド",
-        "region": "east_asia",
-        "title": "インド、通常型・核ミサイル搭載潜水艦の戦闘能力向上を加速",
-        "content": "3隻目のSSBN（戦略ミサイル原子力潜水艦）が就役。これにより、継続的な海上核反撃部隊の配備が可能になる。",
-        "involved_parties": [
-          "インド"
-        ],
-        "event_type": "other",
-        "urgency": "medium",
-        "source_name": "Defense News",
-        "source_url": "https://www.defensenews.com/global/asia-pacific/2026/04/28/india-races-to-boost-conventional-nuclear-submarine-combat-punch/"
       }
     ]
   }
