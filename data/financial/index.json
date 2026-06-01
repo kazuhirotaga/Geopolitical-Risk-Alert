@@ -1,16 +1,19 @@
 [
   {
     "date": "2026-06-01",
-    "summary": "中東情勢の緊迫化による原油価格高騰、日銀の金融政策への警戒感、暗号資産市場の規制動向など、複数のリスク要因が複合的に作用し、金融市場の不確実性が高まっています。AI関連銘柄への投資熱も過熱感を示唆しています。",
-    "overall_risk_level": "high",
+    "summary": "2026年6月1日の金融市場は、地政学的リスク（米国とイランの緊張）、インフレ動向、AI関連技術の進展、暗号資産市場の変動など、複数の要因が複雑に絡み合い、全体として中程度のリスク水準となっています。特に中東情勢の緊迫化が原油価格高騰を招き、インフレ懸念を再燃させる可能性があります。",
+    "overall_risk_level": "medium",
     "article_count": 10,
     "region_risk_map": {
       "global": "medium",
-      "north_america": "none",
-      "europe": "none",
-      "east_asia": "medium"
+      "north_america": "low",
+      "europe": "low",
+      "east_asia": "low",
+      "south_america": "none",
+      "africa": "none",
+      "middle_east": "high"
     },
-    "generated_at": "2026-06-01T04:26:10.970067"
+    "generated_at": "2026-06-01T11:43:21.949818"
   },
   {
     "date": "2026-05-31",

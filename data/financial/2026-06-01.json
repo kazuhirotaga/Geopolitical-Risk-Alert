@@ -1,19 +1,20 @@
 {
   "date": "2026-06-01",
-  "summary": "中東情勢の緊迫化による原油価格高騰、日銀の金融政策への警戒感、暗号資産市場の規制動向など、複数のリスク要因が複合的に作用し、金融市場の不確実性が高まっています。AI関連銘柄への投資熱も過熱感を示唆しています。",
-  "overall_risk_level": "high",
+  "summary": "2026年6月1日の金融市場は、地政学的リスク（米国とイランの緊張）、インフレ動向、AI関連技術の進展、暗号資産市場の変動など、複数の要因が複雑に絡み合い、全体として中程度のリスク水準となっています。特に中東情勢の緊迫化が原油価格高騰を招き、インフレ懸念を再燃させる可能性があります。",
+  "overall_risk_level": "medium",
   "articles": [
     {
-      "title": "Oil jumps 2% as Israel expands Lebanon offensive, rattling ceasefire hopes",
+      "title": "Oil prices climb over 3% as U.S.-Iran talks at impasse, Israel expands Lebanon offensive",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "イスラエルがレバノンへの攻撃を拡大したことで、停戦への期待が薄れ、原油価格が2%上昇しました。",
-      "analysis": "中東地域における地政学的リスクの増大は、原油供給の不安定化を招き、インフレ圧力の上昇につながる可能性があります。特に、イランが関与する紛争は、ホルムズ海峡の封鎖リスクを高め、世界経済に深刻な影響を与える可能性があります。エネルギー価格の上昇は、企業収益の悪化や消費者の購買力低下を通じて、株式市場にも負の影響を与えると考えられます。今後の紛争の拡大状況を注視する必要があります。",
+      "summary": "米国とイランの交渉停滞に加え、イスラエルがレバノンへの攻撃を拡大したことで、原油価格が3%以上上昇。地政学的リスクが原油市場を不安定化させている。",
+      "analysis": "中東における地政学的緊張の高まりは、原油供給の途絶リスクを高め、原油価格の急騰を招く可能性があります。これは、世界的なインフレ圧力の再燃につながり、各国の金融政策に影響を与える可能性があります。特に、エネルギー輸入依存度の高い国々にとっては、経済成長の阻害要因となり得ます。今後の情勢次第では、さらなる価格上昇も予想され、注意が必要です。",
       "key_entities": [
+        "米国",
+        "イラン",
         "イスラエル",
         "レバノン",
-        "Hezbollah",
-        "イラン"
+        "OPEC"
       ],
       "sources": [
         "CNBC - Top News"
@@ -23,47 +24,16 @@
       ]
     },
     {
-      "title": "Japanese bond yields are the highest in 40 years. The budget and a 'red flag' from PM Takaichi have markets nervous",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "日本の国債利回りが40年ぶりの高水準に達しました。高市首相の発言が市場の警戒感を高めています。",
-      "analysis": "日本の国債利回りの上昇は、日銀の金融政策修正への思惑を反映しており、円高・株安の圧力となる可能性があります。高市首相の発言内容が不明確ですが、財政政策への懸念を示唆している場合、市場の信認を損なう可能性があります。金利上昇は企業の借入コスト増加につながり、経済成長の足かせとなる可能性もあります。今後の日銀の政策決定と政府の財政運営に注目が集まります。",
-      "key_entities": [
-        "日銀",
-        "高市早苗"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "South Korea stocks hit fresh high amid mixed regional trade despite Trump's Iran deal caution",
-      "region": "east_asia",
-      "risk_level": "medium",
-      "summary": "アジア太平洋市場はまちまちの取引となる中、韓国株式は高値を更新。トランプ氏のイラン合意への警戒感が残っています。",
-      "analysis": "韓国株式市場の好調は、半導体などの輸出セクターの成長を反映していると考えられますが、トランプ氏のイラン合意への警戒感は、中東情勢の不安定化を通じて、韓国経済にも間接的な影響を与える可能性があります。特に、原油価格の上昇は、韓国の輸入コスト増加につながり、貿易収支の悪化を招く可能性があります。地政学的リスクと経済成長のバランスが今後の課題となります。",
-      "key_entities": [
-        "トランプ",
-        "イラン"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
+      "title": "Treasury yields edge higher as U.S. and Iran exchange strikes",
       "region": "middle_east",
       "risk_level": "high",
-      "summary": "ホルムズ海峡を通じた原油輸出は、イラン戦争以前の水準に戻らない可能性があります。",
-      "analysis": "イランによるホルムズ海峡の封鎖は、航行の自由を脅かし、原油供給の混乱を引き起こす可能性があります。これにより、原油価格が上昇し、世界経済にインフレ圧力がかかる可能性があります。特に、アジア諸国は中東からの原油輸入に依存しているため、影響を受けやすいと考えられます。代替ルートの確保やエネルギー源の多様化が急務となります。",
+      "summary": "米国とイランがホルムズ海峡付近で攻撃を応酬したことを受け、米国債利回りが上昇。地政学的リスクが債券市場にも影響を与えている。",
+      "analysis": "米国とイランの軍事衝突は、安全資産への逃避を促し、米国債利回りを一時的に押し下げましたが、同時にインフレ懸念を高め、長期的な利回り上昇圧力となっています。ホルムズ海峡は世界の原油輸送の要衝であり、紛争が拡大すれば原油価格が急騰し、インフレが深刻化する可能性があります。FRBは、インフレ抑制と景気後退リスクのバランスを取りながら、慎重な金融政策運営を迫られるでしょう。",
       "key_entities": [
-        "イラン"
+        "米国",
+        "イラン",
+        "FRB",
+        "米国債"
       ],
       "sources": [
         "CNBC - Top News"
@@ -73,13 +43,33 @@
       ]
     },
     {
-      "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
+      "title": "Fed's Powell warns Trump's political 'stress test' will wreck public trust in central bank",
       "region": "global",
       "risk_level": "medium",
-      "summary": "SECが、偽のAI取引ボットを使った1230万ドルの暗号資産詐欺に関与したテキサス州の男を提訴しました。",
-      "analysis": "暗号資産市場における詐欺行為は、投資家の信頼を損ない、市場全体の健全性を脅かす可能性があります。特に、AI技術を悪用した詐欺は、高度化しており、投資家が騙されやすくなっています。規制当局による監視強化と投資家教育の徹底が求められます。今回の事件は、暗号資産市場におけるリスク管理の重要性を改めて示唆しています。",
+      "summary": "パウエルFRB議長は、トランプ前大統領からの政治的圧力は、FRBへの国民の信頼を損なうと警告。中央銀行の独立性への懸念が高まっている。",
+      "analysis": "FRBの独立性に対する政治的圧力は、金融政策の信頼性を低下させ、市場のボラティリティを高める可能性があります。特に、インフレ抑制と景気安定化というFRBの責務を政治的な思惑が妨げる場合、長期的な経済成長に悪影響を及ぼす可能性があります。今後の大統領選挙の結果次第では、FRBの政策運営に大きな変化が生じる可能性もあり、注意が必要です。",
       "key_entities": [
-        "SEC"
+        "FRB",
+        "ジェローム・パウエル",
+        "ドナルド・トランプ"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI",
+      "region": "global",
+      "risk_level": "medium",
+      "summary": "ビットコイン現物ETFからの資金流出が過去最高を記録し、ビットコイン価格が下落。AI関連株への資金シフトも影響している。",
+      "analysis": "ビットコイン現物ETFからの大規模な資金流出は、暗号資産市場全体のセンチメント悪化を示唆しています。AI関連株への資金シフトは、投資家のリスク選好の変化を反映しており、暗号資産市場からの資金流出を加速させる可能性があります。今後の暗号資産市場の動向は、規制の動向や機関投資家の参入状況に大きく左右されるでしょう。",
+      "key_entities": [
+        "ビットコイン",
+        "暗号資産ETF",
+        "AI関連株"
       ],
       "sources": [
         "CoinDesk"
@@ -89,17 +79,50 @@
       ]
     },
     {
-      "title": "Wall Street veteran issues stark warning on MicroStrategy's business",
+      "title": "Dow futures jump 250 points to kick off June trading. Nvidia is leading the way on new chip: Live updates",
       "region": "global",
-      "risk_level": "medium",
-      "summary": "ウォール街のベテランが、MicroStrategyのビジネスについて厳しい警告を発しています。",
-      "analysis": "MicroStrategyは、多額のビットコインを保有しており、ビットコイン価格の変動が同社の財務状況に大きな影響を与えます。ウォール街のベテランが警告を発しているということは、同社のビジネスモデルに対する懸念が高まっていることを示唆しています。ビットコイン価格の下落は、MicroStrategyの株価急落につながる可能性があり、注意が必要です。",
+      "risk_level": "low",
+      "summary": "6月の取引開始、ダウ先物が250ポイント上昇。Nvidiaの新チップ発表が市場を牽引。5月は主要指数が堅調な上昇を記録。",
+      "analysis": "Nvidiaの技術革新が市場を牽引し、株式市場は楽観的な見通しを示しています。しかし、AI関連株への過度な集中は、市場全体のバランスを崩し、調整リスクを高める可能性もあります。今後の市場動向は、企業業績や経済指標、金利動向など、複数の要因によって左右されるでしょう。",
       "key_entities": [
-        "MicroStrategy",
-        "ビットコイン"
+        "ダウ",
+        "Nvidia"
       ],
       "sources": [
-        "Yahoo Finance"
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "SoftBank becomes Japan's most valuable company, announces $53 billion French investment",
+      "region": "east_asia",
+      "risk_level": "low",
+      "summary": "ソフトバンクが日本で最も価値のある企業となり、フランスに530億ドルの投資を発表。AIデータセンターの建設を計画。",
+      "analysis": "ソフトバンクのAI分野への積極的な投資は、同社の成長戦略を明確に示すものです。フランスにおける大規模なデータセンター建設は、AI技術の普及を加速させ、関連産業の発展を促進する可能性があります。しかし、大規模投資に伴うリスクも存在し、今後の事業展開には注意が必要です。",
+      "key_entities": [
+        "ソフトバンク"
+      ],
+      "sources": [
+        "CNBC - Top News"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Goldman Sachs says Japan rally still has legs after record Topix run",
+      "region": "east_asia",
+      "risk_level": "low",
+      "summary": "ゴールドマン・サックスは、今年の記録的なTOPIX上昇後も、日本の株式市場にはまだ上昇余地があると分析。",
+      "analysis": "ゴールドマン・サックスの強気な見通しは、日本経済の回復と企業収益の改善を反映しています。海外からの資金流入も市場を押し上げる要因となっています。しかし、世界経済の減速や地政学的リスクの高まりは、日本株の調整リスクを高める可能性があります。",
+      "key_entities": [
+        "ゴールドマン・サックス",
+        "TOPIX"
+      ],
+      "sources": [
+        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -108,9 +131,9 @@
     {
       "title": "Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch",
       "region": "south_asia",
-      "risk_level": "low",
-      "summary": "Coinbaseがインドの急成長する30億ドルの暗号資産市場に本格参入し、現地通貨での取引を開始します。",
-      "analysis": "Coinbaseのインド市場への参入は、暗号資産の普及を促進する可能性がありますが、インド政府の規制動向には注意が必要です。インドは、暗号資産に対する規制が厳しく、税制も複雑であるため、Coinbaseの事業展開が順調に進むかどうかは不透明です。しかし、インド市場の潜在的な成長力は高く、長期的な視点で見れば、Coinbaseにとってプラスとなる可能性があります。",
+      "risk_level": "medium",
+      "summary": "Coinbaseがインドの急成長する30億ドルの暗号資産市場に本格参入。現地通貨での取引を開始。",
+      "analysis": "Coinbaseのインド市場への参入は、暗号資産の普及を促進し、新たな投資機会を創出する可能性があります。しかし、インドにおける暗号資産規制は依然として不透明であり、今後の規制動向には注意が必要です。また、競争激化も予想され、Coinbaseの市場シェア獲得には課題も残ります。",
       "key_entities": [
         "Coinbase"
       ],
@@ -122,50 +145,32 @@
       ]
     },
     {
-      "title": "AI Boom Powers Dell Stock’s Post-Earnings Rally. Get Ready for More Upside Ahead.",
+      "title": "Citi predicts the tokenized securities market will grow to $5.5 trillion by 2030",
       "region": "global",
       "risk_level": "medium",
-      "summary": "AIブームがDell株の決算発表後の上昇を後押ししています。さらなる上昇に備えましょう。",
-      "analysis": "Dellの株価上昇は、AI関連需要の拡大を反映していますが、AIブームの過熱感には注意が必要です。AI関連銘柄は、PERが高く、バリュエーションが割高になっている可能性があります。金利上昇や景気後退などの要因により、AIブームが終焉した場合、Dellの株価は大幅に下落する可能性があります。投資判断は慎重に行う必要があります。",
+      "summary": "シティは、トークン化された証券市場が2030年までに5.5兆ドル規模に成長すると予測。",
+      "analysis": "シティの予測は、トークン化技術が金融市場に大きな変革をもたらす可能性を示唆しています。トークン化は、流動性の向上、取引コストの削減、新たな投資機会の創出など、多くのメリットをもたらす可能性があります。しかし、規制の整備やセキュリティ対策の強化が不可欠であり、今後の市場発展には課題も残ります。",
       "key_entities": [
-        "Dell"
+        "シティ"
+      ],
+      "sources": [
+        "CoinDesk"
+      ],
+      "source_types": [
+        "media"
+      ]
+    },
+    {
+      "title": "Cross-Border Workers Are Missing Thousands in Social Security Benefits. Here’s Why.",
+      "region": "north_america",
+      "risk_level": "low",
+      "summary": "国境を越えて働く労働者が、社会保障給付金を受け取れていない事例が多数発生。制度の複雑さが原因。",
+      "analysis": "国境を越えて働く労働者の社会保障給付金問題は、制度の複雑さや情報不足が原因で発生しています。これは、労働者の老後の生活設計に影響を与える可能性があり、政府や関係機関による制度の周知や簡素化が求められます。",
+      "key_entities": [
+        "社会保障"
       ],
       "sources": [
         "Yahoo Finance"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Micron is one of the most overbought stocks after this week’s rally to new highs",
-      "region": "global",
-      "risk_level": "medium",
-      "summary": "Micronは、今週の高値更新後のラリーで、最も買われ過ぎの銘柄の一つです。",
-      "analysis": "Micronの株価が買われ過ぎの状態にあるということは、調整局面に入る可能性が高いことを示唆しています。半導体市場のサイクル変動や、米中貿易摩擦などのリスク要因も考慮すると、Micronへの投資は慎重に行う必要があります。短期的な利益を追求するのではなく、長期的な視点で投資判断を行うことが重要です。",
-      "key_entities": [
-        "Micron"
-      ],
-      "sources": [
-        "CNBC - Top News"
-      ],
-      "source_types": [
-        "media"
-      ]
-    },
-    {
-      "title": "Stocks including Nvidia and Apple are top picks as market run-up continues, Bank of America says",
-      "region": "global",
-      "risk_level": "low",
-      "summary": "バンク・オブ・アメリカは、市場の上昇が続く中、NvidiaやAppleなどの株式を6月のトップピックに指名しました。",
-      "analysis": "バンク・オブ・アメリカがNvidiaやAppleを推奨していることは、これらの企業の成長性に対する市場の期待が高いことを示唆しています。しかし、これらの銘柄は既に高値圏にあり、今後の成長余地は限られている可能性があります。また、市場全体が調整局面に入った場合、これらの銘柄も下落する可能性があります。投資判断は慎重に行う必要があります。",
-      "key_entities": [
-        "Nvidia",
-        "Apple",
-        "バンク・オブ・アメリカ"
-      ],
-      "sources": [
-        "CNBC - Top News"
       ],
       "source_types": [
         "media"
@@ -174,11 +179,14 @@
   ],
   "region_risk_map": {
     "global": "medium",
-    "north_america": "none",
-    "europe": "none",
-    "east_asia": "medium"
+    "north_america": "low",
+    "europe": "low",
+    "east_asia": "low",
+    "south_america": "none",
+    "africa": "none",
+    "middle_east": "high"
   },
-  "generated_at": "2026-06-01T04:26:10.970067",
+  "generated_at": "2026-06-01T11:43:21.949818",
   "risk_levels_meta": {
     "critical": {
       "label": "Critical",
