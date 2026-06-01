@@ -1,165 +1,116 @@
 {
   "date": "2026-06-01",
-  "summary": "世界各地で深刻な社会不安の兆候が見られます。特に東南アジアでは金融機関を巡る大規模な抗議デモが暴徒化し、警察との衝突により負傷者が出ています。アフリカでは医療物資の枯渇により患者の生命が脅かされる危機的状況にあります。欧州では大規模な暴動やエネルギー不足、潜在的な金融不安の警告があり、世界全体として警戒状態が続いています。",
-  "global_panic_index": 61,
+  "summary": "世界のパニック・社会不安は多岐にわたり、地域によって深刻度が異なる。バングラデシュではイスラミ銀行を巡る激しい抗議デモが預金者も巻き込み暴徒化し、警察との衝突で負傷者が発生、金融不安と社会秩序の混乱が深刻化している。アフリカでは医療物資の深刻な不足により患者が死亡し、南アフリカでは暴動による死者も報告されている。クリミアでは燃料配給制が導入され、経済的・生活不安が高まっている。全体的に、金融不安、資源不足、社会的な対立が複合的にパニックや社会不安を増大させている。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 35,
+      "panic_index": 50,
       "status": "unstable",
-      "main_cause": "地域的な治安維持の緊張、小規模な抗議活動",
+      "main_cause": "社会不安、制度に対する抗議",
       "incidents": [
         {
-          "title": "ICE施設周辺での夜間外出禁止令",
-          "location": "米国、ニューアーク",
-          "severity": 30,
-          "description": "土曜日の逮捕者を受け、ICE（移民税関捜査局）施設周辺に夜間外出禁止令が発令されました。地域限定の治安維持措置が取られています。",
-          "source": "Bergen Record"
-        },
-        {
-          "title": "デラニーホール周辺での抗議活動鎮静化呼びかけ",
-          "location": "米国、ニュージャージー",
-          "severity": 40,
-          "description": "知事がデラニーホール周辺で発生している「攻撃的で危険な」抗議者に対し、沈静化を呼びかけました。特定の施設周辺での緊張が高まっています。",
-          "source": "NJ.com"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 68,
-      "status": "volatile",
-      "main_cause": "大規模な暴動、エネルギー不足、金融不安の懸念",
-      "incidents": [
-        {
-          "title": "チャンピオンズリーグ決勝後のフランスでの暴動",
-          "location": "フランス",
-          "severity": 70,
-          "description": "チャンピオンズリーグ決勝後、フランスで暴動が発生し、約900人が逮捕され、178人の警備員が負傷しました。大規模な社会秩序の乱れが報告されています。",
-          "source": "The New York Times"
-        },
-        {
-          "title": "クリミアでの燃料配給制度の優先解決",
-          "location": "クリミア",
-          "severity": 75,
-          "description": "クレムリンがクリミアでの燃料配給制度の解決を優先課題としています。基本的なエネルギー供給不足が深刻化し、社会不安を引き起こしています。",
-          "source": "Devdiscourse"
-        },
-        {
-          "title": "ECB、ステーブルコインの取り付け騒ぎと銀行危機を警告",
-          "location": "欧州（ECB発言）",
-          "severity": 60,
-          "description": "欧州中央銀行（ECB）が、ステーブルコインの取り付け騒ぎが銀行システムを揺るがし、マネーマーケットファンド危機が再燃する可能性を警告しました。金融システムへの潜在的な脅威が高まっています。",
-          "source": "Seoul Economic Daily"
-        },
-        {
-          "title": "パニック状態の軍馬30頭がローマで暴走",
-          "location": "イタリア、ローマ",
-          "severity": 35,
-          "description": "ローマ市内でパニックに陥った軍馬30頭が暴走する事態が発生しました。直接的な社会パニックではないものの、一時的な混乱と安全への懸念を引き起こしました。",
-          "source": "vocal.media"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "地域紛争による暴力、限定的な金融不安",
-      "incidents": [
-        {
-          "title": "ヨルダン川西岸での入植者による攻撃と負傷者",
-          "location": "ヨルダン川西岸（ナブルス、ラマッラー）",
-          "severity": 70,
-          "description": "ヨルダン川西岸で入植者による攻撃が発生し、ナブルスとラマッラーで負傷者が出ました。地域紛争に関連する暴力が深刻化し、社会不安が高まっています。",
-          "source": "جريدة القدس"
-        },
-        {
-          "title": "シェケル高騰により両替商が外貨不足",
-          "location": "イスラエル",
-          "severity": 55,
-          "description": "シェケル高騰により、両替商が外貨不足に陥っています。金融市場の一時的な混乱が発生しており、限定的なパニック行動が懸念されます。",
-          "source": "Globes - Israel Business News"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "潜在的な金融不安、社会インフラの課題",
-      "incidents": [
-        {
-          "title": "金融当局と預金保険公社による「迅速な再編」導入",
-          "location": "韓国",
-          "severity": 45,
-          "description": "韓国の金融当局と預金保険公社が「迅速な再編」制度を導入する予定です。金融機関の健全性に対する潜在的な懸念に対応するための動きです。",
-          "source": "매일경제"
-        },
-        {
-          "title": "タミル・ナードゥ州の大学で教員不足が深刻化",
-          "location": "インド、タミル・ナードゥ州",
-          "severity": 35,
-          "description": "タミル・ナードゥ州の主要大学で50%以上のポストが空席となるなど、深刻な教員不足に直面しています。長期的な社会インフラの課題が浮上しています。",
-          "source": "The New Indian Express"
-        },
-        {
-          "title": "SBIで顧客が正義を求め食事で抗議",
-          "location": "インド、マンチェリアル",
-          "severity": 30,
-          "description": "マンチェリアルのSBI支店で、顧客が正義を求めて行内で食事をするという穏健な抗議活動が行われました。社会への不満が示されています。",
-          "source": "Telangana Today"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "深刻な医療物資不足",
-      "incidents": [
-        {
-          "title": "血液検査試薬枯渇による癌患者の死と手術中止",
-          "location": "ケニア",
-          "severity": 80,
-          "description": "血液検査試薬の枯渇により、癌患者が死亡し、手術が中止される事態が発生しています。基本的な医療物資の不足が生命を脅かす深刻な危機に発展しています。",
-          "source": "Daily Nation"
+          "title": "ニューアークのICE施設周辺で夜間外出禁止令が発令",
+          "location": "Newark, USA",
+          "severity": 50,
+          "description": "逮捕者発生後の抗議活動の激化を受け、ニュージャージー州ニューアークの移民税関捜査局（ICE）施設周辺に夜間外出禁止令が発令された。地域社会の緊張が高まり、治安維持のための強制措置が取られている。",
+          "source": "Bergen Record / 5 Towns Central"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 75,
+      "panic_index": 80,
       "status": "critical",
-      "main_cause": "金融機関を巡る大規模抗議デモの暴徒化、治安悪化",
+      "main_cause": "金融不安、大規模な抗議デモ",
       "incidents": [
         {
-          "title": "イスラミ銀行前で預金者の抗議が暴徒化し負傷者",
-          "location": "バングラデシュ",
-          "severity": 75,
-          "description": "イスラミ銀行本部前で預金者による抗議デモが暴徒化し、複数の負傷者が出ました。金融機関への不満が暴力的な衝突へとエスカレートしています。",
-          "source": "Dhaka Tribune"
+          "title": "バングラデシュ：イスラミ銀行前でのデモが暴徒化、警察と衝突し負傷者多数",
+          "location": "Bangladesh (Dhaka/Motijheel)",
+          "severity": 85,
+          "description": "イスラミ銀行新会長任命を巡る抗議デモが激化し、預金者を含むデモ参加者と警察が衝突。警察は放水銃、催涙ガス、音響手榴弾を使用し、多数の負傷者が出た。銀行の業務も阻害され、金融不安と社会秩序の混乱が深刻化している。",
+          "source": "The Daily Star, Dhaka Tribune, Prothom Alo English, The Business Standard 他多数"
         },
         {
-          "title": "イスラミ銀行の抗議デモに対し警察が催涙弾・放水砲を使用",
-          "location": "バングラデシュ",
+          "title": "インド：SBI銀行支店で顧客が抗議活動、正義を求める",
+          "location": "Mancherial, India",
+          "severity": 45,
+          "description": "マンチェリアル市のSBI銀行支店内で、顧客が「正義を求める」として抗議活動を実施した。具体的な要求は不明だが、顧客の不満と金融機関に対する不信感が示されており、地域的な金融不安の兆候が見られる。",
+          "source": "Telangana Today"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "金融不安、通貨の不安定性",
+      "incidents": [
+        {
+          "title": "イスラエル：両替所で外貨が品切れ状態に",
+          "location": "Israel",
+          "severity": 60,
+          "description": "自国通貨シェケルの高騰を受け、両替所で外貨が品切れ状態となった。これは、国民が自国通貨の変動や将来の経済状況に対し不安を感じ、資産防衛のために外貨への需要が急増している可能性を示唆しており、潜在的な金融パニックの兆候である。",
+          "source": "Globes - Israel Business News"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "医療物資不足、暴力的社会不安",
+      "incidents": [
+        {
+          "title": "アフリカ：血液検査試薬不足でがん患者死亡、手術中止",
+          "location": "Unspecified (likely Kenya)",
+          "severity": 90,
+          "description": "血液スクリーニング試薬の深刻な不足により、がん患者が死亡し、手術がキャンセルされる事態が発生。国民の生命に直接関わる医療崩壊の危機であり、患者やその家族の間で深刻な不安とパニックを引き起こしている。",
+          "source": "Daily Nation"
+        },
+        {
+          "title": "南アフリカ：モッセルベイで暴動中に2名が死亡",
+          "location": "Mossel Bay, South Africa",
+          "severity": 80,
+          "description": "南アフリカのモッセルベイで発生した暴動中に2名が死亡した。暴力的な社会不安が深刻化しており、地域社会の秩序が崩壊し、住民の生命の安全が直接的に脅かされている状態である。",
+          "source": "Smile 90.4FM"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "資源不足、金融システムリスク",
+      "incidents": [
+        {
+          "title": "クリミア：燃料配給制が導入へ、クレムリンが優先課題に",
+          "location": "Crimea",
           "severity": 70,
-          "description": "イスラミ銀行の新しい会長任命に抗議するデモ隊に対し、警察が催涙弾、放水砲、音響手榴弾を使用して鎮圧を図りました。政府と市民の衝突が激化しています。",
-          "source": "Prothom Alo English"
+          "description": "クリミアで燃料配給制が導入されることが決定し、クレムリンがこれを優先課題としている。これは深刻な燃料不足を示唆しており、住民の間で買いだめや燃料確保に向けたパニック、それに伴う社会不安が広がる可能性が高い。",
+          "source": "Devdiscourse"
         },
         {
-          "title": "抗議デモによりイスラミ銀行の取締役会が中止",
-          "location": "バングラデシュ",
-          "severity": 65,
-          "description": "大規模な抗議デモにより、イスラミ銀行の取締役会が開催を中止せざるを得なくなりました。社会不安が一部の重要な社会機能を麻痺させています。",
-          "source": "The Daily Star"
-        },
+          "title": "ECBがステーブルコインの取り付け騒ぎによる銀行への影響を警告",
+          "location": "Europe (ECB)",
+          "severity": 55,
+          "description": "欧州中央銀行（ECB）のシュナーベル理事が、ステーブルコインの取り付け騒ぎが銀行システムを揺るがす可能性について警告した。これは潜在的な金融危機に対する警戒感の表れであり、金融市場と公衆の意識に不安をもたらす可能性がある。",
+          "source": "Seoul Economic Daily"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "金融システム安定性への懸念",
+      "incidents": [
         {
-          "title": "イスラミ銀行での緊張続く、警察と抗議者が対峙",
-          "location": "バングラデシュ、モティジール",
-          "severity": 65,
-          "description": "イスラミ銀行本部を巡る緊張状態が続いており、抗議者と警察がモティジールで再び対峙しています。長期的な社会不安と対立の深化が懸念されます。",
-          "source": "bdnews24.com"
+          "title": "韓国：金融当局が銀行の「迅速な再編」導入へ",
+          "location": "Korea",
+          "severity": 50,
+          "description": "韓国の金融当局と預金保険公社が、銀行の「迅速な再編」制度を導入する方針を発表した。これは金融システムに潜在的な脆弱性があることを示唆しており、将来の金融不安に備える動きではあるものの、不確実性への懸念が高まる可能性がある。",
+          "source": "매일경제"
         }
       ]
     }
