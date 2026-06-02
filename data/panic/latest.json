@@ -1,122 +1,129 @@
 {
   "date": "2026-06-02",
-  "summary": "世界全体では、一部地域で深刻なパニックや社会不安が報告されています。特にアフリカでは公衆衛生インフラ計画への抗議デモが死者を含む暴力的衝突に発展し、危機的な状況です。東南アジアでは金融機関に対する大規模かつ暴力的な抗議活動が広がり、インドではデモ中の発砲事件がパニックを引き起こしました。ヨーロッパではサッカー試合後の大規模な暴動が発生。北米や中東でも小規模ながら社会不安の兆候が見られます。",
-  "global_panic_index": 64,
+  "summary": "世界全体では複数の地域で社会不安やパニックの兆候が見られます。特にアフリカでは公衆衛生への懸念が暴力的な抗議デモに発展し死者が発生。南アジアでは大規模な抗議活動や水不足、金融関連の労働争議が続き、社会の不安定化が進んでいます。中東では外貨不足が報告され、金融不安の初期段階が見られます。全体として、局所的な「警戒状態」にある地域が存在し、これらの事態が連鎖的に悪化するリスクに注意が必要です。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "africa",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "公衆衛生インフラ計画への住民の反発と暴力的な衝突",
-      "incidents": [
-        {
-          "title": "ケニアの米エボラ施設、裁判所が差し止め 抗議デモで2人死亡",
-          "location": "ケニア",
-          "severity": 85,
-          "description": "ケニアで米国人向けエボラ隔離施設の設置計画に対し大規模な抗議デモが発生し、警察との衝突で2人が死亡しました。裁判所が施設の差し止めを命じる事態に発展し、社会は危機的な状況です。",
-          "source": "Reuters"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "金融機関への抗議、農民の不満、社会秩序の混乱",
-      "incidents": [
-        {
-          "title": "Islami Bank unrest turns violent",
-          "location": "バングラデシュ",
-          "severity": 75,
-          "description": "イスラミ銀行の新体制を巡る抗議デモが暴徒化し、警察との激しい衝突が発生しました。金融機関に対する住民の不満が爆発し、社会秩序が一時的に麻痺する事態に近づいています。",
-          "source": "daily-sun.com"
-        },
-        {
-          "title": "Firing At Rajasthan Mining Protest Sparks Panic",
-          "location": "ラジャスタン州, インド",
-          "severity": 80,
-          "description": "ラジャスタン州での鉱山開発反対デモ中に発砲事件が発生し、デモ参加者の間でパニックが広がりました。人々の生命が脅かされる危険な状況です。",
-          "source": "Live India"
-        },
-        {
-          "title": "Police use water cannons, batons to disperse Islami Bank protesters",
-          "location": "バングラデシュ",
-          "severity": 70,
-          "description": "イスラミ銀行への抗議デモに対し、警察が放水砲や警棒を使用して強制排除を行いました。デモ隊と警察の衝突が激化し、地域社会に緊張が走っています。",
-          "source": "The Daily Star"
-        },
-        {
-          "title": "Protesters clash with police over Islami Bank new chair",
-          "location": "バングラデシュ",
-          "severity": 70,
-          "description": "イスラミ銀行の新会長任命を巡り、抗議者と警察が激しく衝突しました。抗議活動が組織化され、政府や金融機関への不満が表面化しています。",
-          "source": "newagebd.net"
-        },
-        {
-          "title": "Loan waiver row deepens as farmers protest across Tamil Nadu",
-          "location": "タミル・ナードゥ州, インド",
-          "severity": 45,
-          "description": "タミル・ナードゥ州で、農民による融資免除を求める抗議活動が広範に拡大しています。政府への不満が募り、農業コミュニティに社会不安が広がっています。",
-          "source": "The New Indian Express"
-        }
-      ]
-    },
-    {
-      "region": "europe",
       "panic_index": 75,
       "status": "volatile",
-      "main_cause": "社会的混乱と暴動",
+      "main_cause": "公衆衛生への懸念、経済的圧力、エネルギー供給不安",
       "incidents": [
         {
-          "title": "Unrest in France after Champions League final: Almost 900 arrested, 178 security personnel injured",
-          "location": "フランス",
-          "severity": 75,
-          "description": "サッカー欧州CL決勝後に大規模な暴動が発生し、約900人が逮捕され、178人の警備員が負傷しました。広範な社会秩序の混乱が見られます。",
-          "source": "The New York Times"
+          "title": "エボラ施設を巡る抗議デモで死者、裁判所が差し止め命令",
+          "location": "ケニア",
+          "severity": 90,
+          "description": "米国が資金提供するエボラ出血熱施設建設を巡り、地元住民が抗議デモを行い、警察との衝突で2人の死者が出た。高裁は政府に施設詳細の開示と建設中止を命じ、公衆衛生と人権を巡る深い懸念を示している。",
+          "source": "Al Jazeera 他複数報道"
+        },
+        {
+          "title": "タクシー業界の不安と経済的圧力",
+          "location": "ガーナ、ハーディング",
+          "severity": 55,
+          "description": "経済的圧力の増大を受け、タクシー業界で社会不安と公共の抗議が報告されている。生活の維持と市民の表現の自由の間で緊張が高まっており、地域の秩序維持に課題が生じている。",
+          "source": "Modern Ghana"
+        },
+        {
+          "title": "ナイジェリア企業のエネルギー源に対する高い依存",
+          "location": "ナイジェリア",
+          "severity": 50,
+          "description": "ナイジェリア企業の70.7%が事業運営を発電機に依存しているとアフリカ開発銀行が報告。電力供給の不安定さが企業の生産性を著しく阻害し、経済基盤に深刻な影響を与え、社会不安の要因となっている。",
+          "source": "THISDAYLIVE"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "為替変動による外貨不足",
+      "region": "south_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "金融機関への不満、水不足、農業問題、労働争議",
       "incidents": [
         {
-          "title": "As shekel gains, moneychangers run out of foreign currency",
-          "location": "イスラエル",
-          "severity": 50,
-          "description": "シェケル高騰により、両替商で外貨が枯渇する事態が発生しました。金融市場の変動が市民生活に影響を与え、一時的な混乱が見られます。",
-          "source": "Globes - Israel Business News"
+          "title": "イスラム銀行会長交代を巡る大規模デモと警察との衝突",
+          "location": "バングラデシュ、ダッカ、モチジル他",
+          "severity": 85,
+          "description": "イスラム銀行の新しい会長の任命を巡り、顧客や市民フォーラムが連日大規模な抗議デモを実施。警察が水鉄砲や警棒を使用してデモ隊を解散させようとし、暴力的な衝突に発展、社会の緊張が高まっている。",
+          "source": "The Daily Star 他複数報道"
+        },
+        {
+          "title": "南デリーで水危機が市民の怒りを引き起こす",
+          "location": "インド、南デリー",
+          "severity": 75,
+          "description": "慢性的な水不足が南デリーの住民の間で深刻な怒りと不満を引き起こしている。生活に不可欠な水の供給が滞ることで、住民の生活の質が低下し、当局への信頼が損なわれ、小規模な抗議行動が発生している。",
+          "source": "The Hans India"
+        },
+        {
+          "title": "農民の債務免除を求める抗議デモが激化",
+          "location": "インド、タミル・ナードゥ州",
+          "severity": 60,
+          "description": "農民による債務免除を求める抗議デモがタミル・ナードゥ州全体で深刻化している。農業部門の経済的困難が背景にあり、政府の対応に対する不満が広範な社会不安を引き起こしている。",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "SBI銀行のストライキにより業務停止の懸念",
+          "location": "インド",
+          "severity": 60,
+          "description": "インド最大手の銀行であるSBI（インドステイト銀行）の職員がストライキを計画しており、最大2日間にわたり銀行業務に大きな影響が出る可能性がある。これにより金融サービスが一時的に麻痺する懸念が高まっている。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 47,
+      "panic_index": 60,
       "status": "unstable",
-      "main_cause": "移民政策への抗議、警察との衝突",
+      "main_cause": "労働問題、社会的不安",
       "incidents": [
         {
-          "title": "State Police Presence Fails to Calm Delaney Hall Unrest with Dozens of Protesters Arrested",
-          "location": "米国",
+          "title": "メキシコ警察が教師の抗議デモに催涙ガス使用",
+          "location": "メキシコ",
           "severity": 65,
-          "description": "デラニーホールでの暴動が続き、州警察が介入したにもかかわらず沈静化せず、数十人の抗議者が逮捕されました。社会不安が深刻化しています。",
+          "description": "ワールドカップ開幕10日前にメキシコで教師の抗議デモが発生し、警察が催涙ガスを使ってデモ隊を排除した。教育政策を巡る対立が暴力的な衝突に発展しており、社会の不安定化を示している。",
+          "source": "France 24"
+        },
+        {
+          "title": "デラニーホールでの社会不安、多数の抗議者が逮捕",
+          "location": "米国（推定）",
+          "severity": 55,
+          "description": "デラニーホールで発生した社会不安に対し、州警察が鎮静化に失敗し、数十人の抗議者が逮捕された。具体的な原因は不明だが、大規模な抗議活動と警察による介入が発生している。",
           "source": "TAPinto"
-        },
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "金融不安",
+      "incidents": [
         {
-          "title": "Curfew imposed around ICE facility in Newark after arrests Saturday",
-          "location": "ニューアーク, 米国",
+          "title": "シェケル高騰により両替商で外貨不足が発生",
+          "location": "イスラエル",
+          "severity": 70,
+          "description": "イスラエル通貨シェケルの価値が高騰した影響で、両替商が外貨の在庫不足に陥っている。これは予期せぬ経済的変動が金融市場に混乱をもたらし、市民の間で外貨確保への不安が広がっていることを示唆する。",
+          "source": "גלובס"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 40,
+      "status": "stable",
+      "main_cause": "政治的緊張、経済的困窮",
+      "incidents": [
+        {
+          "title": "首相府前での抗議デモ、情報操作が拡散",
+          "location": "アルバニア",
           "severity": 45,
-          "description": "ニュージャージー州ニューアークのICE施設周辺で、抗議活動に関連する逮捕が発生し、門限が課されました。移民政策を巡る緊張が高まっています。",
-          "source": "Bergen Record"
+          "description": "アルバニアの首相府前で発生した抗議デモにおいて、「イスラエルがズヴェルネツを奪う」といった誤情報が拡散し、参加者の感情を扇動した。政治的対立に加え、情報操作が社会不安を助長している。",
+          "source": "voxnews.al"
         },
         {
-          "title": "“We Closed Our Account”: Advocates Call for Boycott of Citizens Bank for Financing ICE Jails",
-          "location": "米国",
-          "severity": 30,
-          "description": "ICE（移民関税執行局）の施設融資に対する抗議として、市民団体が市民銀行のボイコットを呼びかけています。金融機関への社会運動による圧力が顕在化しています。",
-          "source": "Democracy Now!"
+          "title": "学校休暇を控えフードバンクへの寄付を推進",
+          "location": "英国、リンカンシャー",
+          "severity": 35,
+          "description": "学校の休暇が近づくにつれて、経済的困窮家庭の増加が予測され、フードバンクへの寄付が積極的に呼びかけられている。これは生活費高騰による市民の経済的圧力が持続していることを示唆している。",
+          "source": "LincolnshireWorld"
         }
       ]
     }
