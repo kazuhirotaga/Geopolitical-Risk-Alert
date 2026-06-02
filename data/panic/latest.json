@@ -1,20 +1,101 @@
 {
-  "date": "2026-06-01",
-  "summary": "世界のパニック・社会不安は多岐にわたり、地域によって深刻度が異なる。バングラデシュではイスラミ銀行を巡る激しい抗議デモが預金者も巻き込み暴徒化し、警察との衝突で負傷者が発生、金融不安と社会秩序の混乱が深刻化している。アフリカでは医療物資の深刻な不足により患者が死亡し、南アフリカでは暴動による死者も報告されている。クリミアでは燃料配給制が導入され、経済的・生活不安が高まっている。全体的に、金融不安、資源不足、社会的な対立が複合的にパニックや社会不安を増大させている。",
-  "global_panic_index": 65,
+  "date": "2026-06-02",
+  "summary": "世界各地で散発的な社会不安やデモが報じられており、特に東南アジアとアフリカで顕著な緊迫状態が見られます。東南アジアでは金融機関を巡る暴力的な抗議デモが激化し、発砲事件によるパニックも発生。アフリカでは死者を伴う暴動や深刻なエネルギーインフラ不足が報告されています。欧米諸国では特定のイベントに起因する大規模な混乱や、潜在的な経済不安への警戒が見られますが、広範な社会パニックには至っていません。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "north_america",
       "panic_index": 50,
       "status": "unstable",
-      "main_cause": "社会不安、制度に対する抗議",
+      "main_cause": "治安問題、抗議デモ",
       "incidents": [
         {
-          "title": "ニューアークのICE施設周辺で夜間外出禁止令が発令",
-          "location": "Newark, USA",
+          "title": "ICE施設周辺での外出禁止令",
+          "location": "米国・ニューアーク",
+          "severity": 40,
+          "description": "逮捕事案を受け、移民関税執行局（ICE）施設周辺で外出禁止令が発令されました。特定の地域における治安維持の緊張状態を示しています。",
+          "source": "Bergen Record"
+        },
+        {
+          "title": "警察の介入も収まらない暴動",
+          "location": "米国・デラニーホール",
+          "severity": 55,
+          "description": "デラニーホールで発生した暴動は、州警察の介入にもかかわらず鎮静せず、数十人の抗議者が逮捕されました。局所的だが継続的な治安悪化が見られます。",
+          "source": "TAPinto"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "大規模イベントに伴う暴動、経済的懸念",
+      "incidents": [
+        {
+          "title": "チャンピオンズリーグ決勝後の大規模な暴動",
+          "location": "フランス",
+          "severity": 70,
+          "description": "チャンピオンズリーグ決勝後にフランスで大規模な暴動が発生し、約900人が逮捕され、178人の治安部隊員が負傷しました。イベントに起因するものの、広範な治安の混乱を示しています。",
+          "source": "The New York Times"
+        },
+        {
+          "title": "イングランド銀行、インフレリスクを監視",
+          "location": "英国",
+          "severity": 30,
+          "description": "イングランド銀行総裁が公共部門の賃金上昇によるインフレリスクを監視していると発言。直接的なパニックではないが、マクロ経済への潜在的懸念が示されています。",
+          "source": "The Mighty 790 KFGO"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 45,
+      "status": "stable",
+      "main_cause": "潜在的な金融不安",
+      "incidents": [
+        {
+          "title": "金融当局による迅速な再編導入",
+          "location": "韓国",
+          "severity": 45,
+          "description": "金融当局と預金保険公社が「迅速な再編」を導入すると発表。金融システムの安定化に向けた予防的措置であり、潜在的な金融不安への対応が見られます。",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "為替変動に伴う市場混乱",
+      "incidents": [
+        {
+          "title": "シェケル高騰で両替商の外貨不足",
+          "location": "イスラエル",
           "severity": 50,
-          "description": "逮捕者発生後の抗議活動の激化を受け、ニュージャージー州ニューアークの移民税関捜査局（ICE）施設周辺に夜間外出禁止令が発令された。地域社会の緊張が高まり、治安維持のための強制措置が取られている。",
-          "source": "Bergen Record / 5 Towns Central"
+          "description": "シェケル高騰により、両替商で外貨が不足する事態が発生。為替変動が金融市場に混乱をもたらし、市民生活にも影響を及ぼす可能性があります。",
+          "source": "Globes - Israel Business News"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "暴力的騒乱、エネルギーインフラ不足",
+      "incidents": [
+        {
+          "title": "暴力的騒乱で死者2名",
+          "location": "南アフリカ・モッセルベイ",
+          "severity": 80,
+          "description": "モッセルベイで発生した暴力的騒乱により2名が死亡しました。深刻な治安悪化と社会秩序の混乱を示しており、パニック状態に近い状況です。",
+          "source": "Smile 90.4FM"
+        },
+        {
+          "title": "企業の7割以上が発電機に依存",
+          "location": "ナイジェリア",
+          "severity": 65,
+          "description": "アフリカ開発銀行の報告によると、ナイジェリア企業の70.7%が事業運営に発電機に依存していることが判明。深刻なエネルギーインフラ不足が経済活動を阻害し、広範な社会不安の原因となっています。",
+          "source": "THISDAYLIVE"
         }
       ]
     },
@@ -22,95 +103,42 @@
       "region": "southeast_asia",
       "panic_index": 80,
       "status": "critical",
-      "main_cause": "金融不安、大規模な抗議デモ",
+      "main_cause": "金融不安、暴力的な抗議デモ、治安悪化",
       "incidents": [
         {
-          "title": "バングラデシュ：イスラミ銀行前でのデモが暴徒化、警察と衝突し負傷者多数",
-          "location": "Bangladesh (Dhaka/Motijheel)",
+          "title": "鉱業抗議デモでの発砲がパニック誘発",
+          "location": "インド・ラジャスタン",
           "severity": 85,
-          "description": "イスラミ銀行新会長任命を巡る抗議デモが激化し、預金者を含むデモ参加者と警察が衝突。警察は放水銃、催涙ガス、音響手榴弾を使用し、多数の負傷者が出た。銀行の業務も阻害され、金融不安と社会秩序の混乱が深刻化している。",
-          "source": "The Daily Star, Dhaka Tribune, Prothom Alo English, The Business Standard 他多数"
+          "description": "ラジャスタン州の鉱業抗議デモ中に発砲事件が発生し、パニックが引き起こされました。デモが暴力化し、生命を脅かす状況は極めて危険です。",
+          "source": "Live India"
         },
         {
-          "title": "インド：SBI銀行支店で顧客が抗議活動、正義を求める",
-          "location": "Mancherial, India",
-          "severity": 45,
-          "description": "マンチェリアル市のSBI銀行支店内で、顧客が「正義を求める」として抗議活動を実施した。具体的な要求は不明だが、顧客の不満と金融機関に対する不信感が示されており、地域的な金融不安の兆候が見られる。",
-          "source": "Telangana Today"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "金融不安、通貨の不安定性",
-      "incidents": [
-        {
-          "title": "イスラエル：両替所で外貨が品切れ状態に",
-          "location": "Israel",
-          "severity": 60,
-          "description": "自国通貨シェケルの高騰を受け、両替所で外貨が品切れ状態となった。これは、国民が自国通貨の変動や将来の経済状況に対し不安を感じ、資産防衛のために外貨への需要が急増している可能性を示唆しており、潜在的な金融パニックの兆候である。",
-          "source": "Globes - Israel Business News"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "医療物資不足、暴力的社会不安",
-      "incidents": [
-        {
-          "title": "アフリカ：血液検査試薬不足でがん患者死亡、手術中止",
-          "location": "Unspecified (likely Kenya)",
-          "severity": 90,
-          "description": "血液スクリーニング試薬の深刻な不足により、がん患者が死亡し、手術がキャンセルされる事態が発生。国民の生命に直接関わる医療崩壊の危機であり、患者やその家族の間で深刻な不安とパニックを引き起こしている。",
-          "source": "Daily Nation"
+          "title": "イスラミ銀行預金者デモの暴力化、負傷者発生",
+          "location": "バングラデシュ",
+          "severity": 75,
+          "description": "イスラミ銀行前での預金者による抗議デモが暴力化し、警察と衝突して複数の負傷者が出ました。金融機関への不信感が高まり、社会秩序の不安定化を招いています。",
+          "source": "Dhaka Tribune"
         },
         {
-          "title": "南アフリカ：モッセルベイで暴動中に2名が死亡",
-          "location": "Mossel Bay, South Africa",
-          "severity": 80,
-          "description": "南アフリカのモッセルベイで発生した暴動中に2名が死亡した。暴力的な社会不安が深刻化しており、地域社会の秩序が崩壊し、住民の生命の安全が直接的に脅かされている状態である。",
-          "source": "Smile 90.4FM"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "資源不足、金融システムリスク",
-      "incidents": [
-        {
-          "title": "クリミア：燃料配給制が導入へ、クレムリンが優先課題に",
-          "location": "Crimea",
+          "title": "イスラミ銀行本店前で警察が催涙弾・放水銃を使用",
+          "location": "バングラデシュ",
           "severity": 70,
-          "description": "クリミアで燃料配給制が導入されることが決定し、クレムリンがこれを優先課題としている。これは深刻な燃料不足を示唆しており、住民の間で買いだめや燃料確保に向けたパニック、それに伴う社会不安が広がる可能性が高い。",
-          "source": "Devdiscourse"
+          "description": "イスラミ銀行本店前で再び緊張が高まり、警察が音響手榴弾や放水銃、警棒を使用してデモ隊を鎮圧しました。暴力的な衝突が常態化しています。",
+          "source": "The Business Standard"
         },
         {
-          "title": "ECBがステーブルコインの取り付け騒ぎによる銀行への影響を警告",
-          "location": "Europe (ECB)",
-          "severity": 55,
-          "description": "欧州中央銀行（ECB）のシュナーベル理事が、ステーブルコインの取り付け騒ぎが銀行システムを揺るがす可能性について警告した。これは潜在的な金融危機に対する警戒感の表れであり、金融市場と公衆の意識に不安をもたらす可能性がある。",
-          "source": "Seoul Economic Daily"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "金融システム安定性への懸念",
-      "incidents": [
+          "title": "抗議デモによりイスラミ銀行の役員会が阻止",
+          "location": "バングラデシュ",
+          "severity": 65,
+          "description": "イスラミ銀行の役員会がデモ隊によって阻止され、昼間の開催を断念し夜間に行われる事態となりました。抗議活動が銀行の業務運営に直接的な影響を与えています。",
+          "source": "The Daily Star"
+        },
         {
-          "title": "韓国：金融当局が銀行の「迅速な再編」導入へ",
-          "location": "Korea",
-          "severity": 50,
-          "description": "韓国の金融当局と預金保険公社が、銀行の「迅速な再編」制度を導入する方針を発表した。これは金融システムに潜在的な脆弱性があることを示唆しており、将来の金融不安に備える動きではあるものの、不確実性への懸念が高まる可能性がある。",
-          "source": "매일경제"
+          "title": "農民団体が銀行に抗議デモ",
+          "location": "インド・モハリ",
+          "severity": 55,
+          "description": "モハリで農民団体がLand Mortgage Bankに対し抗議デモを実施。農業分野における経済的困難が背景にあると見られ、特定の金融機関への不満が表面化しています。",
+          "source": "Hindustan Times"
         }
       ]
     }
