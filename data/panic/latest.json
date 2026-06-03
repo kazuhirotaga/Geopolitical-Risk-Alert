@@ -1,27 +1,57 @@
 {
   "date": "2026-06-03",
-  "summary": "世界各地で多様な社会不安が顕在化しています。アフリカではエボラ施設を巡るデモが死者を伴う暴力に発展し、ナイジェリアでは治安悪化が懸念されるなど、一部地域で危機的状況にあります。中東では地政学的緊張が交通パニックを引き起こし、南アジアでは特定の金融機関への不信から大規模な抗議デモが頻発し警察が介入する事態となっています。北米でも銀行人質事件やデモ鎮圧が見られ、社会秩序に対する懸念が高まっています。一方で、日本での平和的なデモや欧州での警察対応への抗議など、状況は地域により大きく異なります。",
-  "global_panic_index": 68,
+  "summary": "世界全体では、一部地域で深刻な社会不安が見られます。特に南アジアでは金融機関への不信と大規模な抗議活動が、中東では地政学的緊張が直接的なパニックを引き起こしています。他の地域では、特定の社会問題に対する抗議や局所的な治安悪化が主要な懸念事項となっており、全体的な緊迫度は中程度からやや高めに推移しています。",
+  "global_panic_index": 55,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "治安悪化、労働問題",
+      "panic_index": 30,
+      "status": "unstable",
+      "main_cause": "治安悪化、特定の犯罪",
       "incidents": [
         {
-          "title": "Bakersfield銀行人質事件",
-          "location": "米国、ベーカーズフィールド",
-          "severity": 80,
-          "description": "チェース銀行で爆弾を主張する男が複数の人質を取る事件が発生。局地的ながら高い緊張とパニックを引き起こしています。",
-          "source": "Firstpost"
+          "title": "銀行での人質事件",
+          "location": "テキサス州 (KWTX)",
+          "severity": 60,
+          "description": "警察が、男が銀行に立てこもり人質を取っていると発表。局所的な治安問題だが、住民に不安を与える事象。",
+          "source": "KWTX"
         },
         {
-          "title": "メキシコ教師の抗議デモと警察の鎮圧",
-          "location": "メキシコ",
-          "severity": 55,
-          "description": "教師による大規模な抗議デモに対し、警察が催涙ガスを使用して鎮圧。教育問題に起因する社会不安が表面化しています。",
-          "source": "France 24"
+          "title": "カリフォルニア州での銀行人質危機",
+          "location": "カリフォルニア州ベーカーズフィールド",
+          "severity": 70,
+          "description": "男が爆弾を身につけていると主張し、複数の人質を取り銀行に立てこもる事件が発生。治安当局が対応にあたる状況。",
+          "source": "Firstpost"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "社会正義への不満、警察との衝突",
+      "incidents": [
+        {
+          "title": "学生殺害に抗議する大規模デモ",
+          "location": "イギリス",
+          "severity": 75,
+          "description": "学生殺害事件に対する抗議デモが激化し、一部では警察への攻撃も発生。社会の不満と怒りが表面化している状況。",
+          "source": "DW, France 24"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 35,
+      "status": "unstable",
+      "main_cause": "行政手続きの不備",
+      "incidents": [
+        {
+          "title": "投票用紙不足による抗議",
+          "location": "韓国ソウル",
+          "severity": 45,
+          "description": "ソウルの投票所での投票用紙不足が発覚し、有権者による抗議が発生。選挙プロセスへの不信感が高まる懸念。",
+          "source": "조선일보"
         }
       ]
     },
@@ -29,88 +59,79 @@
       "region": "middle_east",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "地政学的緊張",
+      "main_cause": "地政学的緊張、安全保障上の懸念",
       "incidents": [
         {
-          "title": "イランの米施設標的示唆による交通パニック",
+          "title": "ヨルダン川西岸での治安関連事件",
+          "location": "ヨルダン川西岸",
+          "severity": 40,
+          "description": "入植者の少年がウェストバンク襲撃中に犬を棍棒で叩いた疑いで逮捕。地域の治安と緊張の継続を示す事例。",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "イランによる米軍施設標的警告と道路でのパニック",
           "location": "クウェート、バーレーン",
-          "severity": 70,
-          "description": "イランが米施設を標的とする可能性を示唆したことで、道路上でパニックが発生。地政学的緊張が市民生活に直接影響を与えています。",
+          "severity": 80,
+          "description": "イランがクウェートとバーレーンの米軍施設を標的にすると警告。道路ではパニック状態が映像に捉えられ、地域の安全保障上の懸念が高まっている。",
           "source": "Firstpost"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "政府政策への反発、治安悪化、経済的圧力",
-      "incidents": [
-        {
-          "title": "ケニア、エボラ施設反対デモで2名死亡",
-          "location": "ケニア",
-          "severity": 90,
-          "description": "米国人向けエボラ施設建設計画に反対するデモが激化し、2名が死亡する事態に。政府に対する強い反発が暴力行為に発展し、社会秩序が深刻に乱れています。",
-          "source": "ABEMA, 日本経済新聞"
-        },
-        {
-          "title": "ナイジェリア、強盗団侵入の報と警察の警告",
-          "location": "ナイジェリア、オスン",
-          "severity": 75,
-          "description": "武装した強盗団の侵入が報じられ、警察が暴動鎮圧を警告する事態に。治安悪化への市民の不安が高まっています。",
-          "source": "PM News Nigeria"
-        },
-        {
-          "title": "ガーナ、タクシー業界の抗議デモ",
-          "location": "ガーナ、ハーディング",
-          "severity": 45,
-          "description": "経済的圧力に直面するタクシー運転手らが抗議デモを実施。生活苦が社会不安に繋がっています。",
-          "source": "Modern Ghana"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
       "panic_index": 60,
       "status": "unstable",
-      "main_cause": "金融機関への不信",
+      "main_cause": "金融システムへの信頼不安、経済的圧力",
       "incidents": [
         {
-          "title": "バングラデシュ、イスラミ銀行への大規模抗議デモ継続",
-          "location": "バングラデシュ（ダッカ、モチジール、パブナなど）",
-          "severity": 55,
-          "description": "イスラミ銀行の経営陣交代や不信感を巡り、連日にわたり顧客による大規模な抗議デモが発生。一部で警察が放水砲や警棒を使用し、警察が配備される事態となっています。",
-          "source": "The Daily Star, newagebd.net, Dhaka Tribune 他"
+          "title": "モバイルマネー金融システム問題とパニック的な資金引き出し",
+          "location": "ガーナ",
+          "severity": 65,
+          "description": "モバイルマネー（MoMo）のガバナンス不備とウォレットから銀行への資金移動における問題により、パニック的な資金引き出しが発生。金融システムへの信頼に揺らぎ。",
+          "source": "Modern Ghana"
+        },
+        {
+          "title": "タクシー運転手による抗議",
+          "location": "ガーナ、ハーディング",
+          "severity": 50,
+          "description": "経済的圧力と生計を巡る問題から、タクシー運転手による抗議活動が発生。公共の交通機関に混乱の可能性。",
+          "source": "Modern Ghana"
+        },
+        {
+          "title": "学生騒動後の損害賠償に親が抗議",
+          "location": "ケニア、アンビラ・ボーイズ・シニア・スクール",
+          "severity": 30,
+          "description": "学生騒動後の損害賠償金（Ksh 33,000）の請求に対し、保護者たちが抗議デモを実施。学校運営と保護者間の対立。",
+          "source": "Parents Africa"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "政治的関心",
+      "region": "south_asia",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "政治的・経済的抗議、金融機関への不信、資源不足、物価高騰",
       "incidents": [
         {
-          "title": "日本の国会前ペンライトデモ",
-          "location": "日本、東京都",
-          "severity": 25,
-          "description": "国会前で平和的なペンライトデモが実施され、多様な参加者が集まっています。社会秩序を乱すパニックの兆候はありません。",
-          "source": "朝日新聞"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "警察の行動への反発",
-      "incidents": [
+          "title": "バングラデシュ全土で大規模な抗議活動とイスラミ銀行の混乱",
+          "location": "バングラデシュ",
+          "severity": 85,
+          "description": "バングラデシュで数千人規模の抗議デモが発生し、イスラミ銀行に対する混乱が数日間にわたり継続。衝突、道路封鎖、警察の厳戒態勢が報じられ、顧客フォーラムが取締役会の辞任を要求。警察は放水銃や警棒でデモ隊を解散させ、社会秩序の不安定化が深刻化している。",
+          "source": "News On AIR, The Daily Star, The Business Standard, Dhaka Tribune, newagebd.net"
+        },
         {
-          "title": "英国、警察対応を巡る抗議デモ",
-          "location": "英国",
+          "title": "水不足に対する住民抗議",
+          "location": "インド、ジャガットプラ",
           "severity": 45,
-          "description": "瀕死の白人学生に対する警察の対応を巡り、抗議デモが発生。人種差別的な扱いへの懸念が社会的な緊張を高めています。",
-          "source": "AFPBB News"
+          "description": "ジャガットプラ地区の住民が深刻な水不足に対し抗議活動を実施。基本的な生活インフラの不足が住民の不満を高めている。",
+          "source": "MSN"
+        },
+        {
+          "title": "燃料不足と価格高騰への抗議の自転車葬列",
+          "location": "インド、マハラシュトラ州",
+          "severity": 60,
+          "description": "マハラシュトラ州で燃料不足と価格高騰に抗議するため、自転車による葬列が行われた。象徴的な行動で政府への不満と問題の深刻さを訴えている。",
+          "source": "Free Press Journal"
         }
       ]
     }
