@@ -1,115 +1,116 @@
 {
-  "date": "2026-06-02",
-  "summary": "世界各地で、金融機関への不信感、経済的圧力、公衆衛生への懸念、社会政策への不満といった多様な要因が絡み合った大規模な社会不安が拡大しています。特に、金融機関を巡るデモの警察との衝突、エボラ施設への抗議による死者発生、そして生活インフラの危機に起因する抗議活動が顕著であり、一部地域では社会秩序が不安定化し、警戒すべき状況にあります。",
-  "global_panic_index": 60,
+  "date": "2026-06-03",
+  "summary": "世界各地で多様な社会不安が顕在化しています。アフリカではエボラ施設を巡るデモが死者を伴う暴力に発展し、ナイジェリアでは治安悪化が懸念されるなど、一部地域で危機的状況にあります。中東では地政学的緊張が交通パニックを引き起こし、南アジアでは特定の金融機関への不信から大規模な抗議デモが頻発し警察が介入する事態となっています。北米でも銀行人質事件やデモ鎮圧が見られ、社会秩序に対する懸念が高まっています。一方で、日本での平和的なデモや欧州での警察対応への抗議など、状況は地域により大きく異なります。",
+  "global_panic_index": 68,
   "regions": [
     {
-      "region": "southeast_asia",
-      "panic_index": 68,
-      "status": "volatile",
-      "main_cause": "金融機関への不信感、政治的混乱",
-      "incidents": [
-        {
-          "title": "イスラミ銀行に対する大規模抗議デモと警察との衝突",
-          "location": "バングラデシュ、ダッカ（モティジール）、パブナ",
-          "severity": 70,
-          "description": "イスラミ銀行の経営陣交代を巡り、顧客による大規模な抗議デモが連日発生。警察が放水銃や警棒で鎮圧に当たるなど、現場は混乱状態にあり、金融システムへの強い不信感と社会不安が広がっている。",
-          "source": "The Daily Star, newagebd.net, Dhaka Tribune 他"
-        },
-        {
-          "title": "イスラミ銀行経営を巡る新たな混乱発生",
-          "location": "バングラデシュ",
-          "severity": 65,
-          "description": "イスラミ銀行は経営陣交代を巡る顧客の抗議が続く中、内部で新たな混乱に陥っており、取締役会が開催困難になるなど運営にも支障が出始めている。",
-          "source": "The Daily Star"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 78,
-      "status": "critical",
-      "main_cause": "公衆衛生懸念、経済的圧力、治安悪化",
-      "incidents": [
-        {
-          "title": "エボラ出血熱施設への抗議デモで2人死亡",
-          "location": "ケニア",
-          "severity": 85,
-          "description": "ケニアのエボラ出血熱施設建設に対する抗議デモが暴徒化し、警察との衝突で2人が死亡した。公衆衛生への懸念が社会的な混乱と生命の危険につながる深刻な事態。",
-          "source": "日本経済新聞, Reuters"
-        },
-        {
-          "title": "ハーディングでのタクシー運転手による経済的抗議",
-          "location": "ガーナ、ハーディング",
-          "severity": 45,
-          "description": "ガーナのハーディングでタクシー運転手らが経済的圧力を理由に抗議デモを実施。生計への不満が表面化しており、市民の不満が募っている状況がうかがえる。",
-          "source": "Modern Ghana"
-        },
-        {
-          "title": "武装集団の侵入を受け警察が暴動鎮圧を宣言",
-          "location": "ナイジェリア、オスン州",
-          "severity": 70,
-          "description": "ナイジェリアのオスン州で武装集団の侵入が報じられ、警察が暴動鎮圧を宣言した。地域の治安が著しく悪化し、住民の間に深刻な不安と混乱が広がっている。",
-          "source": "PM News Nigeria"
-        }
-      ]
-    },
-    {
       "region": "north_america",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "社会政策への不満",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "治安悪化、労働問題",
       "incidents": [
         {
-          "title": "メキシコで教員による大規模デモが警察と衝突、車両破壊",
+          "title": "Bakersfield銀行人質事件",
+          "location": "米国、ベーカーズフィールド",
+          "severity": 80,
+          "description": "チェース銀行で爆弾を主張する男が複数の人質を取る事件が発生。局地的ながら高い緊張とパニックを引き起こしています。",
+          "source": "Firstpost"
+        },
+        {
+          "title": "メキシコ教師の抗議デモと警察の鎮圧",
           "location": "メキシコ",
-          "severity": 65,
-          "description": "メキシコで教員による大規模な抗議デモが警察と衝突し、催涙ガスが使用された。鉄パイプで車両が破壊されるなどデモが一部暴徒化する兆候が見られ、社会の緊張が高まっている。",
-          "source": "France 24, 朝日新聞"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "経済的圧力、水不足",
-      "incidents": [
-        {
-          "title": "インド各地で農民のローン減免抗議が激化",
-          "location": "インド、タミル・ナドゥ州、モハリ",
           "severity": 55,
-          "description": "タミル・ナドゥ州で農民がローン減免を求め抗議活動を激化させ、モハリでも農民団体が銀行への行動を要求するなど、経済的圧力への不満が広がっている。",
-          "source": "The New Indian Express, Hindustan Times"
-        },
-        {
-          "title": "デリー南部で水不足が怒りを引き起こす",
-          "location": "インド、デリー南部",
-          "severity": 60,
-          "description": "インドのデリー南部で深刻な水不足が発生し、住民の間に強い怒りが噴出している。生活インフラの危機が社会不安を増大させている状況。",
-          "source": "The Hans India"
-        },
-        {
-          "title": "インドの州立銀行職員による2日間のストライキ",
-          "location": "インド",
-          "severity": 40,
-          "description": "インドの州立銀行SBIの職員が2日間のストライキを予定しており、銀行業務に支障が出る可能性が示されている。広範なサービス停止は顧客の不安を煽る。",
-          "source": "MSN"
+          "description": "教師による大規模な抗議デモに対し、警察が催涙ガスを使用して鎮圧。教育問題に起因する社会不安が表面化しています。",
+          "source": "France 24"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "政治的・宗教的対立",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "地政学的緊張",
       "incidents": [
         {
-          "title": "イスラエルで超正統派が反徴兵デモ、警察と衝突",
-          "location": "イスラエル",
+          "title": "イランの米施設標的示唆による交通パニック",
+          "location": "クウェート、バーレーン",
+          "severity": 70,
+          "description": "イランが米施設を標的とする可能性を示唆したことで、道路上でパニックが発生。地政学的緊張が市民生活に直接影響を与えています。",
+          "source": "Firstpost"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "政府政策への反発、治安悪化、経済的圧力",
+      "incidents": [
+        {
+          "title": "ケニア、エボラ施設反対デモで2名死亡",
+          "location": "ケニア",
+          "severity": 90,
+          "description": "米国人向けエボラ施設建設計画に反対するデモが激化し、2名が死亡する事態に。政府に対する強い反発が暴力行為に発展し、社会秩序が深刻に乱れています。",
+          "source": "ABEMA, 日本経済新聞"
+        },
+        {
+          "title": "ナイジェリア、強盗団侵入の報と警察の警告",
+          "location": "ナイジェリア、オスン",
+          "severity": 75,
+          "description": "武装した強盗団の侵入が報じられ、警察が暴動鎮圧を警告する事態に。治安悪化への市民の不安が高まっています。",
+          "source": "PM News Nigeria"
+        },
+        {
+          "title": "ガーナ、タクシー業界の抗議デモ",
+          "location": "ガーナ、ハーディング",
+          "severity": 45,
+          "description": "経済的圧力に直面するタクシー運転手らが抗議デモを実施。生活苦が社会不安に繋がっています。",
+          "source": "Modern Ghana"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "金融機関への不信",
+      "incidents": [
+        {
+          "title": "バングラデシュ、イスラミ銀行への大規模抗議デモ継続",
+          "location": "バングラデシュ（ダッカ、モチジール、パブナなど）",
           "severity": 55,
-          "description": "イスラエルで超正統派ユダヤ教徒数千人が徴兵制に反対する大規模デモを実施。警察部隊と衝突し、社会内の深い亀裂と政治的緊張が表面化している。",
-          "source": "読売新聞"
+          "description": "イスラミ銀行の経営陣交代や不信感を巡り、連日にわたり顧客による大規模な抗議デモが発生。一部で警察が放水砲や警棒を使用し、警察が配備される事態となっています。",
+          "source": "The Daily Star, newagebd.net, Dhaka Tribune 他"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "政治的関心",
+      "incidents": [
+        {
+          "title": "日本の国会前ペンライトデモ",
+          "location": "日本、東京都",
+          "severity": 25,
+          "description": "国会前で平和的なペンライトデモが実施され、多様な参加者が集まっています。社会秩序を乱すパニックの兆候はありません。",
+          "source": "朝日新聞"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "警察の行動への反発",
+      "incidents": [
+        {
+          "title": "英国、警察対応を巡る抗議デモ",
+          "location": "英国",
+          "severity": 45,
+          "description": "瀕死の白人学生に対する警察の対応を巡り、抗議デモが発生。人種差別的な扱いへの懸念が社会的な緊張を高めています。",
+          "source": "AFPBB News"
         }
       ]
     }
