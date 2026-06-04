@@ -1,123 +1,147 @@
 {
   "date": "2026-06-04",
-  "summary": "世界各地で社会不安や抗議活動が散発的に発生しています。特に東アジア（韓国）では、地方選挙における投票用紙不足が選挙不正疑惑へと発展し、大規模なデモや機動隊出動、選挙管理委員会包囲といった事態にまで激化。社会の民主的基盤に対する深刻な不信感が顕在化しています。欧州（英国）では特定の騒乱、ウクライナでは戦争継続による国家安全保障上の課題が継続。北米と東南アジアでは、それぞれ社会問題や特定の金融機関を巡る抗議活動が見られますが、広範なパニックには至っていません。全体として、局所的な混乱は高まっているものの、食料・エネルギー不足や金融取り付け騒ぎといった世界規模での連鎖的パニックの兆候は限定的です。",
-  "global_panic_index": 70,
+  "summary": "世界各地で社会不安が高まっており、特に中東での軍事衝突によるパニック、パキスタンでの燃料不足危機、チリや欧州での抗議デモの暴力化が顕著です。東アジアでは選挙制度への不信が大規模な抗議活動に発展し、東南アジアでは金融機関に対する不満からデモが発生しています。全体としては警戒レベルにあり、一部地域では市民生活に直接的な影響を及ぼす事態が発生し、パニック状態に近づいています。",
+  "global_panic_index": 59,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "社会的対立、戦争による国家安全保障危機",
+      "region": "north_america",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "政治・社会問題への抗議",
       "incidents": [
         {
-          "title": "Southamptonでの騒乱",
-          "location": "Southampton, UK",
-          "severity": 55,
-          "description": "サウサンプトンで発生した騒乱を受け、シーク教徒のコミュニティリーダーが平和を呼びかけている。これにより、地域社会に何らかの対立や混乱があったことが示唆され、緊張が高まっている。",
-          "source": "BBC"
+          "title": "銀行のICE刑務所資金提供に対する抗議",
+          "location": "米国、モントクレア",
+          "severity": 30,
+          "description": "銀行が移民税関捜査局（ICE）の刑務所に資金提供していることに対し、市民による抗議デモが発生しています。現時点では大規模な混乱や暴力は報告されていませんが、倫理的な懸念が高まっています。",
+          "source": "Patch"
         },
         {
-          "title": "Henry Nowak殺人事件を巡る英国の騒乱",
-          "location": "UK",
-          "severity": 60,
-          "description": "ヘンリー・ノワック殺人事件を巡る英国での騒乱に対し、将来的な更なる混乱の可能性が警告された。既に存在する社会不安が深刻化する懸念があり、国民の間に緊張が広がっている。",
-          "source": "AFR"
-        },
-        {
-          "title": "ウクライナでのミサイル不足",
-          "location": "Ukraine",
-          "severity": 65,
-          "description": "ミサイルが不足する中、ウクライナはパトリオットシステムをキーウに移動させている。戦争状態にある国にとって、これは国家の安全保障上の深刻な問題であり、市民の心理にも強い不安を与える要因となる。",
-          "source": "Военное дело"
+          "title": "ジェット燃料不足に関する報道",
+          "location": "カナダ",
+          "severity": 20,
+          "description": "ジェット燃料不足の懸念が報じられましたが、主要航空会社は「心配ない」と表明しています。現時点では直接的なパニックには至っておらず、状況は安定しています。",
+          "source": "CBC"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "社会問題に対する抗議活動の激化",
+      "region": "middle_east",
+      "panic_index": 80,
+      "status": "volatile",
+      "main_cause": "軍事衝突、宗教的対立",
       "incidents": [
         {
-          "title": "銀行に対するヴェローナの抗議デモ",
-          "location": "Verona, US",
-          "severity": 30,
-          "description": "ICE刑務所の資金調達を行う銀行に対し、ヴェローナで抗議デモが計画されている。特定の社会問題に対する組織的な抗議活動であり、秩序を乱すパニックには至っていない。",
-          "source": "Patch"
+          "title": "イスラエル超正統派ユダヤ教徒の徴兵制反対暴動",
+          "location": "イスラエル",
+          "severity": 70,
+          "description": "イスラエルでは、超正統派ユダヤ教徒が徴兵制に反対し、裁判官の自宅前で暴動を起こしました。社会的な緊張が非常に高く、暴力的な衝突の可能性があります。",
+          "source": "The New York Times"
         },
         {
-          "title": "ニューアークでの抗議活動に伴う騒乱",
-          "location": "Newark, US",
-          "severity": 55,
-          "description": "ニューアークでの抗議活動中に暴力的犯罪者が逮捕された。これは抗議が一部で暴力的になり、治安当局が介入する事態に発展していることを示しており、地域の秩序に懸念が生じている。",
-          "source": "MSN"
+          "title": "イランによるクウェート基地爆撃で米軍がパニック",
+          "location": "クウェート",
+          "severity": 90,
+          "description": "イランによるクウェート基地爆撃を受け、米軍兵士がパニックに陥り逃走する様子が映像で報じられました。軍事的な緊張が極度に高まり、人命への直接的な脅威が生じています。",
+          "source": "Mshale"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 90,
-      "status": "critical",
-      "main_cause": "選挙制度への信頼喪失、投票用紙不足を端緒とする不正疑惑と大規模抗議",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "選挙制度への不信",
       "incidents": [
         {
-          "title": "投票用紙不足による投票箱移動阻止と抗議",
-          "location": "South Korea",
+          "title": "地方選挙での投票用紙不足に対する抗議",
+          "location": "韓国",
+          "severity": 65,
+          "description": "地方選挙において投票用紙が不足する事態が発生し、市民が大規模な抗議デモを展開しています。投票箱の移動を妨害するなどの行為も見られ、選挙プロセスへの不信感が社会不安を招いています。",
+          "source": "조선일보 他"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "反緊縮財政への抗議",
+      "incidents": [
+        {
+          "title": "チリで反緊縮財政の学生デモが警察と衝突、負傷者",
+          "location": "チリ",
+          "severity": 75,
+          "description": "反緊縮財政を訴える学生デモが警察と激しく衝突し、25人が負傷しました。暴力的な抗議活動は社会秩序に大きな影響を与え、市民の間で不安が広がっています。",
+          "source": "Anadolu Ajansı"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 69,
+      "status": "volatile",
+      "main_cause": "社会的騒乱、抗議デモの暴力化",
+      "incidents": [
+        {
+          "title": "サウサンプトンでの騒乱後に平和を呼びかけ",
+          "location": "イギリス、サウサンプトン",
+          "severity": 60,
+          "description": "サウサンプトンで発生した騒乱（unrest）を受け、シーク教コミュニティのリーダーたちが平和を呼びかけています。地域社会に混乱が生じていることが示唆されます。",
+          "source": "BBC"
+        },
+        {
+          "title": "ヘンリー・ノヴァク殺害事件を巡る騒乱が拡大",
+          "location": "イギリス",
           "severity": 70,
-          "description": "地方選挙で投票用紙不足が発生し、投票箱の移動が抗議によって阻止された。これは選挙プロセスへの不信感と混乱が顕著であることを示している。",
-          "source": "Korea JoongAng Daily 他"
+          "description": "ヘンリー・ノヴァク殺害事件を巡る騒乱がイギリスで拡大しており、一部の学生は状況を「恐ろしい」と表現しています。政治家も事態の悪化を警告しており、社会不安が高まっています。",
+          "source": "BBC, AFR"
         },
         {
-          "title": "Jamsilでの機動隊出動と投票箱撤去阻止の対峙",
-          "location": "Jamsil, South Korea",
+          "title": "ブリュッセルで学生デモが暴力化し警察と衝突",
+          "location": "ベルギー、ブリュッセル",
+          "severity": 75,
+          "description": "ブリュッセル中心部で学生デモが暴力化し、警察と衝突しました。事態の深刻化により、負傷者が出るなど市民の安全が脅かされており、都市機能への影響も懸念されます。",
+          "source": "The Brussels Times"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 80,
+      "status": "volatile",
+      "main_cause": "燃料不足",
+      "incidents": [
+        {
+          "title": "パキスタン、クエッタ市で燃料不足危機",
+          "location": "パキスタン、クエッタ",
           "severity": 80,
-          "description": "投票箱撤去を数百人が阻止し、機動隊が配備され数時間対峙。選挙を巡る緊張が物理的衝突寸前の状況にまで高まっていることを示唆する。",
-          "source": "아시아경제"
-        },
-        {
-          "title": "選挙不正疑惑と大規模デモ",
-          "location": "Gwanghwamun, South Korea",
-          "severity": 85,
-          "description": "投票用紙不足問題が選挙不正疑惑に発展し、光化門で500人規模の抗議デモが発生。社会的な不信感が非常に高く、民主主義の根幹が揺らいでいる。",
-          "source": "조선일보"
-        },
-        {
-          "title": "選挙管理委員会への抗議者包囲",
-          "location": "South Korea",
-          "severity": 90,
-          "description": "抗議者が韓国の選挙管理委員会を包囲する事態に発展。選挙制度への信頼が完全に失われ、社会秩序が深刻な脅威にさらされている極めて危険な状況。",
-          "source": "CHOSUNBIZ"
-        },
-        {
-          "title": "投票集計停止要求",
-          "location": "Seoul, South Korea",
-          "severity": 90,
-          "description": "投票用紙不足を理由にソウルでの投票集計停止が要求された。これは民主主義の根幹を揺るがす深刻な事態であり、社会の混乱を象徴している。",
-          "source": "CHOSUNBIZ"
+          "description": "クエッタ市全体でガソリンスタンドが燃料切れとなり、大規模な燃料不足危機が発生しています。市民生活に深刻な影響が出ており、パニック的な買いだめや移動困難が懸念される状況です。",
+          "source": "TechJuice"
         }
       ]
     },
     {
       "region": "southeast_asia",
       "panic_index": 60,
-      "status": "volatile",
-      "main_cause": "特定の金融機関を巡る不満と混乱、物価上昇への抗議",
+      "status": "unstable",
+      "main_cause": "金融機関への不信",
       "incidents": [
         {
-          "title": "Islami銀行に対するデモと業務停止警告",
-          "location": "Bangladesh",
+          "title": "イスラミ銀行の顧客・従業員による抗議が継続",
+          "location": "バングラデシュ",
           "severity": 60,
-          "description": "イスラミ銀行の取締役会辞任を求める顧客フォーラムによるデモが3日間継続し、経営陣が業務停止に対する厳格な措置を警告。特定の金融機関に対する不満が表面化し、混乱が深まっている状況。",
+          "description": "イスラミ銀行の顧客フォーラムや従業員による抗議活動が3日間にわたって継続しており、経営陣の辞任を要求しています。金融機関への不信感が募り、社会的な緊張が高まっています。",
           "source": "The Business Standard 他"
-        },
-        {
-          "title": "電気料金値上げへの抗議デモ",
-          "location": "Bangladesh",
-          "severity": 45,
-          "description": "ジャマート党が本日、電気料金値上げに対する抗議デモを実施予定。広範囲に影響する可能性のある物価上昇に対する国民の不満の表れであり、社会不安の潜在的要因となっている。",
-          "source": "The Daily Star"
         }
       ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 0,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": []
     }
   ]
 }
