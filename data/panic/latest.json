@@ -1,108 +1,129 @@
 {
   "date": "2026-06-05",
-  "summary": "世界的に見ると、選挙の公正性への不信、移民問題、兵役制度への反発など、政治・社会的な要因に起因する大規模な抗議デモや暴動が複数地域で発生しており、社会不安が高まっています。特に東アジア（韓国）では選挙用紙不足を巡る混乱が大規模な抗議活動と警察との衝突に発展し、社会秩序の不安定化が顕著です。アフリカや中東、ヨーロッパでも暴徒化したデモが報告されており、一部地域では警戒状態にあります。",
+  "summary": "世界各地で社会不安が増大しており、特に東アジアの韓国では選挙の混乱と投票用紙不足を巡る大規模な抗議活動が警察との衝突に発展し、極めて緊迫した状況にあります。欧州のフランスでは、大規模イベント後の暴動が拡大し、社会の分断と治安悪化への懸念が顕著です。南アジアでは水不足や金融機関の透明性に関する不安がデモを引き起こし、アフリカでは移民問題が社会不安を煽っています。北米では特定の銀行に対する広範な抗議活動が見られますが、秩序の大きな崩壊には至っていません。全体として、複数の地域で社会秩序が不安定化し、警戒レベルが高まっています。",
   "global_panic_index": 65,
   "regions": [
+    {
+      "region": "north_america",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "移民政策および関連企業への抗議デモ",
+      "incidents": [
+        {
+          "title": "Anti-ICE Protest Targets Citizens Bank",
+          "location": "New Haven, USA",
+          "severity": 40,
+          "description": "移民関税執行局（ICE）と関係のあるCitizens Bankに対する抗議デモがニューヘイブンで発生。特定の銀行への不満が社会不安として表面化している。",
+          "source": "New Haven Independent"
+        },
+        {
+          "title": "Citizens Bank faces statewide N.J. protests over ICE detention financing",
+          "location": "New Jersey, USA",
+          "severity": 45,
+          "description": "ニュージャージー州全域で、Citizens BankがICEの拘留施設に資金を提供していることに対する抗議デモが発生。州規模のデモは、広範な不満を示唆している。",
+          "source": "NJ.com"
+        }
+      ]
+    },
     {
       "region": "east_asia",
       "panic_index": 75,
       "status": "volatile",
-      "main_cause": "選挙の公正性への不信、投票用紙不足",
+      "main_cause": "選挙の混乱と投票用紙不足、それに伴う大規模抗議と警察との衝突",
       "incidents": [
         {
-          "title": "韓国で投票用紙不足による再選挙要求デモ、数千人規模",
-          "location": "韓国",
-          "severity": 70,
-          "description": "数千人の市民が選挙用紙不足を理由に再選挙を要求し、大規模な抗議デモを行っています。これは政治的混乱と社会不安の深刻化を示しています。",
-          "source": "Yahoo / Internazionale"
+          "title": "Police secure ballot boxes after more than 30-hour standoff",
+          "location": "Seoul, South Korea",
+          "severity": 85,
+          "description": "ソウルの投票所で発生した投票用紙不足を巡る抗議デモが30時間以上におよぶ膠着状態となり、警察が投票箱を強制的に確保する事態に発展した。社会秩序の深刻な混乱。",
+          "source": "Korea JoongAng Daily"
         },
         {
-          "title": "ソウルで警察とデモ隊が衝突、投票箱を巡り膠着状態",
-          "location": "韓国、ソウル",
+          "title": "Police, protesters clash as officers move to extract ballot boxes",
+          "location": "Seoul, South Korea",
           "severity": 80,
-          "description": "ソウルの投票所で警察とデモ隊が衝突し、投票箱を巡る30時間以上にわたる膠着状態が発生しました。これは社会秩序の乱れと物理的な対立を示唆しています。",
+          "description": "投票用紙不足に抗議するデモ隊と、投票箱を撤去しようとする警察官との間で衝突が発生。緊張が高まり、暴力的な状況が確認された。",
           "source": "Korea JoongAng Daily"
         },
         {
-          "title": "機動隊が投票用紙不足への抗議デモ隊を排除",
-          "location": "韓国",
+          "title": "South Korean riot police clear protesters after ballot shortage blockade",
+          "location": "South Korea",
           "severity": 75,
-          "description": "選挙用紙不足に抗議するデモ隊が道路を封鎖したため、機動隊が動員され強制的に排除されました。警察と市民の対立が激化しています。",
-          "source": "The Japan Times / The Straits Times / CNA / The Malaysian Reserve"
+          "description": "投票用紙不足を巡る抗議活動が一部で道路封鎖を伴い、韓国の機動隊が出動してデモ隊を排除した。警察力による鎮圧が行われている。",
+          "source": "The Japan Times"
         },
         {
-          "title": "選挙管理委員会が投票率110%予算も用紙半分しか印刷せず",
-          "location": "韓国",
+          "title": "South Korea’s election chief quits after ballot shortage sparks blockade",
+          "location": "South Korea",
           "severity": 70,
-          "description": "選挙管理委員会が投票率110%を想定して予算を組んだにもかかわらず、半分の投票用紙しか印刷していなかったことが判明。混乱の主要原因となり、国民の不信を増大させています。",
-          "source": "Korea JoongAng Daily"
+          "description": "投票用紙不足に端を発する混乱と抗議活動の責任を取り、韓国の選挙管理委員長が辞任。政治的混乱が深まっている。",
+          "source": "Free Malaysia Today"
         },
         {
-          "title": "韓国の選挙管理委員長、投票用紙不足による混乱で辞任",
-          "location": "韓国",
-          "severity": 65,
-          "description": "投票用紙不足が大規模な抗議と混乱を引き起こした責任を取り、韓国の選挙管理委員長が辞任しました。政治的混乱の深刻化を象徴する出来事です。",
-          "source": "Free Malaysia Today"
+          "title": "Election agency budgeted for 110 percent voter turnout, printed only half",
+          "location": "South Korea",
+          "severity": 60,
+          "description": "選挙管理委員会が有権者の110%分の予算を確保しながら、実際に印刷された投票用紙がその半分に過ぎなかったことが判明し、市民の不信感を煽っている。",
+          "source": "Korea JoongAng Daily"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 65,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "移民排斥、社会不安の増大",
+      "main_cause": "移民を標的とした社会不安の増大",
       "incidents": [
         {
-          "title": "南アフリカで社会不安増大、移民が『スケープゴート』に",
-          "location": "南アフリカ",
-          "severity": 65,
-          "description": "南アフリカで移民が社会問題の『スケープゴート』となり、社会不安が増大しています。移民排斥の動きは、暴動や衝突に発展する危険性をはらんでいます。",
+          "title": "South Africa unrest grows as migrants become ‘scapegoats’",
+          "location": "South Africa",
+          "severity": 70,
+          "description": "南アフリカで社会不安が増大し、移民がスケープゴートとされる事態が多発している。外国人排斥に繋がる暴動の可能性があり、警戒が必要な状態。",
           "source": "RFI"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "兵役制度への反発、宗教的対立",
-      "incidents": [
-        {
-          "title": "イスラエルで超正統派ユダヤ教徒による兵役拒否デモが暴動化",
-          "location": "イスラエル",
-          "severity": 70,
-          "description": "超正統派ユダヤ教徒が兵役制度に抗議し、デモが暴動へと発展しました。警察との衝突が発生しており、社会秩序が乱れている状況です。",
-          "source": "The New York Times"
-        }
-      ]
-    },
-    {
       "region": "europe",
-      "panic_index": 65,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "学生デモの暴徒化、警察との衝突",
+      "main_cause": "大規模イベント後の暴動と社会の分断",
       "incidents": [
         {
-          "title": "ブリュッセル中心部で学生デモが暴力的になり警察と衝突",
-          "location": "ベルギー、ブリュッセル",
-          "severity": 65,
-          "description": "ブリュッセル中心部で学生による抗議デモが暴徒化し、警察と学生が衝突しました。社会不安が具体的な暴力行為へと発展しています。",
-          "source": "The Brussels Times"
+          "title": "CL決勝後に暴動拡大、仏が苦慮 極右「移民対策原因」、極左「警察が暴力」、W杯に不安",
+          "location": "France",
+          "severity": 75,
+          "description": "チャンピオンズリーグ決勝後、フランス各地で暴動が拡大。極右と極左の間で責任のなすりつけ合いが生じ、年末のワールドカップ開催にも不安が広がっている。",
+          "source": "産経ニュース"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 35,
+      "region": "south_asia",
+      "panic_index": 60,
       "status": "unstable",
-      "main_cause": "特定の社会政策（移民問題）への反対",
+      "main_cause": "水不足、金融不安",
       "incidents": [
         {
-          "title": "市民銀行に対する反ICE抗議デモが複数地域で実施",
-          "location": "米国 (ニューヘイブン、ニューベッドフォード、ニュージャージー州)",
-          "severity": 35,
-          "description": "Citizens BankがICE（移民関税執行局）に資金提供していることに対し、複数の都市で抗議デモが行われました。特定の社会政策への強い反対意見が示されていますが、広範なパニックには至っていません。",
-          "source": "New Haven Independent / The New Bedford Light / NJ.com"
+          "title": "Water crisis triggers protest, traffic disruption in Karachi's Qayyumabad",
+          "location": "Karachi, Pakistan",
+          "severity": 70,
+          "description": "パキスタンのカラチ市カイユーマバード地区で深刻な水不足が抗議デモを引き起こし、交通に広範囲な混乱をもたらしている。生活必需品の欠乏による市民の不満が顕在化。",
+          "source": "The Express Tribune"
+        },
+        {
+          "title": "Customers form human chain and protest in front of the Islami Bank branch",
+          "location": "Bauphal, Bangladesh",
+          "severity": 55,
+          "description": "バングラデシュのバウファルにあるイスラミ銀行支店前で、預金者の利益保護と銀行経営の透明性を求める顧客による抗議デモが発生。金融システムへの信頼揺らぎの兆候が見られる。",
+          "source": "The New Nation"
+        },
+        {
+          "title": "Congress stages pot-breaking protest over water shortage",
+          "location": "MBMC HQ, India",
+          "severity": 50,
+          "description": "インドのMBMC本部前で、水不足に抗議するデモが行われ、参加者が水瓶を割って不満を表現した。生活必需品に関する不満が政治的抗議に発展している。",
+          "source": "Newsband"
         }
       ]
     }
