@@ -1,48 +1,63 @@
 {
   "date": "2026-06-05",
-  "summary": "世界各地で局所的ながらも深刻な社会不安の兆候が見られます。特に東アジアの韓国では選挙プロセスへの不信から大規模な抗議デモと警察との衝突が頻発し、中東のイスラエルとヨーロッパのベルギーでも暴動や暴力的なデモが報告されています。金融システムへの不安も一部地域で表面化しており、全体として警戒を要する状況です。",
-  "global_panic_index": 62,
+  "summary": "世界的に見ると、選挙の公正性への不信、移民問題、兵役制度への反発など、政治・社会的な要因に起因する大規模な抗議デモや暴動が複数地域で発生しており、社会不安が高まっています。特に東アジア（韓国）では選挙用紙不足を巡る混乱が大規模な抗議活動と警察との衝突に発展し、社会秩序の不安定化が顕著です。アフリカや中東、ヨーロッパでも暴徒化したデモが報告されており、一部地域では警戒状態にあります。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "east_asia",
-      "panic_index": 68,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "選挙の公正性への不信と投票用紙不足",
+      "main_cause": "選挙の公正性への不信、投票用紙不足",
       "incidents": [
         {
-          "title": "投票用紙不足巡る大規模抗議デモと機動隊出動",
-          "location": "韓国（ソウル他）",
-          "severity": 55,
-          "description": "韓国全土で投票用紙不足に対する大規模な抗議デモが発生し、機動隊が投入され封鎖を解除しました。複数の報道機関が報じており、広範な社会不安を示しています。",
-          "source": "The Japan Times, Yonhap News Agency, CNA 他多数"
-        },
-        {
-          "title": "警察と抗議者が投票箱巡り衝突、30時間以上の膠着",
-          "location": "韓国（ソウル）",
+          "title": "韓国で投票用紙不足による再選挙要求デモ、数千人規模",
+          "location": "韓国",
           "severity": 70,
-          "description": "ソウルの投票所で、警察と抗議者が投票箱の回収を巡って衝突し、30時間以上にわたる膠着状態となりました。これは単なる抗議を超え、秩序維持の困難さを示唆します。",
+          "description": "数千人の市民が選挙用紙不足を理由に再選挙を要求し、大規模な抗議デモを行っています。これは政治的混乱と社会不安の深刻化を示しています。",
+          "source": "Yahoo / Internazionale"
+        },
+        {
+          "title": "ソウルで警察とデモ隊が衝突、投票箱を巡り膠着状態",
+          "location": "韓国、ソウル",
+          "severity": 80,
+          "description": "ソウルの投票所で警察とデモ隊が衝突し、投票箱を巡る30時間以上にわたる膠着状態が発生しました。これは社会秩序の乱れと物理的な対立を示唆しています。",
           "source": "Korea JoongAng Daily"
         },
         {
-          "title": "選挙管理委員長が投票用紙不足の混乱で辞任",
+          "title": "機動隊が投票用紙不足への抗議デモ隊を排除",
           "location": "韓国",
-          "severity": 60,
-          "description": "投票用紙不足に端を発する混乱と抗議を受け、韓国の選挙管理委員長が辞任しました。これは問題の深刻さと、政府・機関への国民の不信感を物語っています。",
+          "severity": 75,
+          "description": "選挙用紙不足に抗議するデモ隊が道路を封鎖したため、機動隊が動員され強制的に排除されました。警察と市民の対立が激化しています。",
+          "source": "The Japan Times / The Straits Times / CNA / The Malaysian Reserve"
+        },
+        {
+          "title": "選挙管理委員会が投票率110%予算も用紙半分しか印刷せず",
+          "location": "韓国",
+          "severity": 70,
+          "description": "選挙管理委員会が投票率110%を想定して予算を組んだにもかかわらず、半分の投票用紙しか印刷していなかったことが判明。混乱の主要原因となり、国民の不信を増大させています。",
+          "source": "Korea JoongAng Daily"
+        },
+        {
+          "title": "韓国の選挙管理委員長、投票用紙不足による混乱で辞任",
+          "location": "韓国",
+          "severity": 65,
+          "description": "投票用紙不足が大規模な抗議と混乱を引き起こした責任を取り、韓国の選挙管理委員長が辞任しました。政治的混乱の深刻化を象徴する出来事です。",
           "source": "Free Malaysia Today"
-        },
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "移民排斥、社会不安の増大",
+      "incidents": [
         {
-          "title": "市民が「受け入れがたい選挙の不備」を非難",
-          "location": "韓国",
-          "severity": 50,
-          "description": "市民団体が選挙プロセスにおける「受け入れがたい不備」を強く非難し、選挙の公正性に対する深い懸念が広範に共有されていることを示しています。",
-          "source": "조선일보"
-        },
-        {
-          "title": "選挙機関が予算の半分しか投票用紙を印刷せず",
-          "location": "韓国",
-          "severity": 45,
-          "description": "選挙機関が予算の110%の有権者数を想定していたにもかかわらず、実際の投票用紙は半分しか印刷されていなかったことが判明。この管理ミスが混乱の根本原因です。",
-          "source": "Korea JoongAng Daily"
+          "title": "南アフリカで社会不安増大、移民が『スケープゴート』に",
+          "location": "南アフリカ",
+          "severity": 65,
+          "description": "南アフリカで移民が社会問題の『スケープゴート』となり、社会不安が増大しています。移民排斥の動きは、暴動や衝突に発展する危険性をはらんでいます。",
+          "source": "RFI"
         }
       ]
     },
@@ -50,74 +65,44 @@
       "region": "middle_east",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "徴兵制に対する不満",
+      "main_cause": "兵役制度への反発、宗教的対立",
       "incidents": [
         {
-          "title": "超正統派による徴兵制抗議での暴動発生",
+          "title": "イスラエルで超正統派ユダヤ教徒による兵役拒否デモが暴動化",
           "location": "イスラエル",
-          "severity": 75,
-          "description": "イスラエルで超正統派ユダヤ教徒が徴兵制に抗議し、大規模な暴動が発生しました。これにより社会秩序が一時的に大きく乱され、国民に衝撃を与えています。",
+          "severity": 70,
+          "description": "超正統派ユダヤ教徒が兵役制度に抗議し、デモが暴動へと発展しました。警察との衝突が発生しており、社会秩序が乱れている状況です。",
           "source": "The New York Times"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "学生デモの暴力化",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "学生デモの暴徒化、警察との衝突",
       "incidents": [
         {
-          "title": "ブリュッセルで学生デモが暴力化、警察と衝突",
-          "location": "ベルギー（ブリュッセル）",
+          "title": "ブリュッセル中心部で学生デモが暴力的になり警察と衝突",
+          "location": "ベルギー、ブリュッセル",
           "severity": 65,
-          "description": "ベルギーのブリュッセル中心部で、学生による抗議デモが暴力化し、警察との衝突が発生しました。これにより一時的な社会不安が高まっています。",
+          "description": "ブリュッセル中心部で学生による抗議デモが暴徒化し、警察と学生が衝突しました。社会不安が具体的な暴力行為へと発展しています。",
           "source": "The Brussels Times"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "銀行の経営透明性への不信と預金者保護の要求",
-      "incidents": [
-        {
-          "title": "イスラミ銀行前で預金者が抗議デモ、業務停止警告も",
-          "location": "バングラデシュ（バウファル）",
-          "severity": 60,
-          "description": "バングラデシュのバウファルにあるイスラミ銀行支店前で、預金者が経営の透明性と預金者保護を求め人間の鎖やペンダウン抗議を実施。銀行の業務停止警告も出されており、金融不安が現実化する懸念があります。",
-          "source": "The New Nation, daily-sun.com"
-        }
-      ]
-    },
-    {
       "region": "north_america",
-      "panic_index": 40,
+      "panic_index": 35,
       "status": "unstable",
-      "main_cause": "ICE拘留施設融資に対する倫理的抗議",
+      "main_cause": "特定の社会政策（移民問題）への反対",
       "incidents": [
         {
-          "title": "Citizens Bankに対する州規模の抗議デモ",
-          "location": "米国（ニュージャージー州）",
-          "severity": 40,
-          "description": "ニュージャージー州でCitizens BankがICE（移民関税執行局）の拘留施設に融資していることに対し、州規模で抗議デモが展開されています。デモは広範ですが、暴徒化の報告はありません。",
-          "source": "NJ.com, Patch"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "移民再定住への懸念",
-      "incidents": [
-        {
-          "title": "移民再定住への懸念で数百人規模の抗議デモ",
-          "location": "リビア",
-          "severity": 45,
-          "description": "リビアで、移民再定住に対する懸念を表明するため、数百人規模の抗議デモが行われました。大規模な集会ですが、現時点では秩序を逸脱する事態には至っていません。",
-          "source": "Muslim Network TV"
+          "title": "市民銀行に対する反ICE抗議デモが複数地域で実施",
+          "location": "米国 (ニューヘイブン、ニューベッドフォード、ニュージャージー州)",
+          "severity": 35,
+          "description": "Citizens BankがICE（移民関税執行局）に資金提供していることに対し、複数の都市で抗議デモが行われました。特定の社会政策への強い反対意見が示されていますが、広範なパニックには至っていません。",
+          "source": "New Haven Independent / The New Bedford Light / NJ.com"
         }
       ]
     }
