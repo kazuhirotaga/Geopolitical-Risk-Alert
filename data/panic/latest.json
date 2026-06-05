@@ -1,200 +1,138 @@
 {
-  "date": "2026-06-04",
-  "summary": "世界各地で金融不安、選挙の公正性への疑念、生活費高騰に対する抗議、さらには徴兵制反対や反緊縮政策を巡るデモの暴力化が顕著に見られる。特に中東の徴兵制を巡る暴動、チリやベルギーでの学生デモの衝突、ウクライナの戦時下の物資不足は高い警戒レベルを示す。複数の地域で社会不安が深刻化しており、国際的な注視が必要な状況である。",
-  "global_panic_index": 68,
+  "date": "2026-06-05",
+  "summary": "世界的に見ると、政治的・社会的な不満が各地で顕在化しており、デモや衝突が頻発しています。特に韓国での選挙関連の混乱、バングラデシュでの金融不安、中東地域での徴兵反対暴動や軍事攻撃は、社会の緊張を著しく高めています。食料やエネルギー不足といった直接的なパニック行動は報告されていないものの、金融市場の不確実性も加わり、潜在的な社会不安は増大傾向にあります。",
+  "global_panic_index": 62,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 55,
+      "panic_index": 35,
       "status": "unstable",
-      "main_cause": "金融不安、社会的不満",
+      "main_cause": "刑務所の劣悪な状況、人権問題に対する抗議",
       "incidents": [
         {
-          "title": "Blackstone、仮想通貨とプライベートクレジットの下落を受け引き出し制限",
-          "location": "米国",
-          "severity": 70,
-          "description": "大手投資ファンドBlackstoneが、仮想通貨とプライベートクレジットの下落を受け、顧客の資金引き出しを制限。金融パニックの初期兆候。",
-          "source": "Protos | Informed crypto news"
+          "title": "ニュージャージー州の刑務所内で騒乱",
+          "location": "アメリカ、ニュージャージー",
+          "severity": 40,
+          "description": "ニュージャージー州のデラニーホール刑務所内で騒乱が発生し、劣悪な環境への注意が促された。刑務所内の管理体制や人権問題が懸念されている。",
+          "source": "New Jersey Monitor"
         },
         {
-          "title": "ニュージャージー州全体でICE拘置所資金調達への抗議デモ",
-          "location": "米国・ニュージャージー州",
-          "severity": 35,
-          "description": "ニュージャージー州全体で、ICE拘置所への資金提供を行うCitizens Bankに対する抗議デモが実施されており、広範囲な社会的不満が示されている。",
-          "source": "NJ.com"
-        },
-        {
-          "title": "モンクレアでICE拘置所資金調達への銀行抗議デモ",
-          "location": "米国・モンクレア",
-          "severity": 25,
-          "description": "モンクレアで、ICE拘置所の資金調達に関わる銀行への抗議デモが計画されている。特定の社会問題に対する市民の関心の表れ。",
-          "source": "Patch"
-        },
-        {
-          "title": "ジェット燃料不足の懸念、主要航空会社は「心配ない」と鎮静化図る",
-          "location": "カナダ",
+          "title": "ICE刑務所への資金提供に関する銀行への抗議",
+          "location": "アメリカ、ニュージャージー（州全体）",
           "severity": 30,
-          "description": "ジェット燃料不足の懸念が浮上するも、主要航空会社は「心配ない」と発表し、潜在的なパニックの広がりを抑制しようとしている。",
-          "source": "CBC"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 60,
-      "status": "volatile",
-      "main_cause": "選挙の公正性への不信、投票用紙不足",
-      "incidents": [
-        {
-          "title": "投票用紙不足の抗議により投票箱が投票所で滞留",
-          "location": "韓国",
-          "severity": 60,
-          "description": "投票用紙不足に対する抗議活動により、投票所からの投票箱移送が阻まれ、2つの投票箱が滞留。選挙プロセスに具体的な混乱が生じている。",
-          "source": "Korea JoongAng Daily"
-        },
-        {
-          "title": "市民が投票用紙不足に抗議、選挙の公正性調査を要求",
-          "location": "韓国",
-          "severity": 50,
-          "description": "投票用紙不足を巡り、市民が選挙の公正な調査を要求する抗議活動を実施。民主主義プロセスへの不信感が増大している。",
-          "source": "조선일보"
-        },
-        {
-          "title": "蚕室住民が投票箱撤去に抗議し2日間のデモを継続",
-          "location": "韓国・蚕室",
-          "severity": 58,
-          "description": "蚕室（チャムシル）地区の住民が、投票箱の撤去に抗議して2日間にわたりデモを継続。選挙プロセスへの強い不満と懸念が示されている。",
-          "source": "조선일보"
-        },
-        {
-          "title": "地方選挙での投票用紙不足に対する抗議活動",
-          "location": "韓国",
-          "severity": 55,
-          "description": "地方選挙で発生した投票用紙不足に対し、広範な抗議活動が行われている。国民の政治システムへの不満が顕在化。",
-          "source": "Yonhap News Agency"
-        },
-        {
-          "title": "選挙管理委員会が110%投票率見込みながら用紙は半分のみ印刷",
-          "location": "韓国",
-          "severity": 45,
-          "description": "選挙管理委員会が110%の投票率を見込んでいたにもかかわらず、半分の投票用紙しか印刷しなかったことが判明。行政への不信を深める事態となっている。",
-          "source": "Korea JoongAng Daily"
+          "description": "Citizens BankがICE（移民関税執行局）刑務所への資金提供を巡り、ニュージャージー州全体で抗議デモに直面している。人権団体らが銀行の責任を問うている。",
+          "source": "NJ.com"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "社会的不満、暴力的な抗議、戦時下の物資不足",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "学生デモの暴力化、コミュニティ間の騒乱",
       "incidents": [
         {
-          "title": "ウクライナ、ミサイル不足でパトリオットシステムをキエフに移動",
-          "location": "ウクライナ・キエフ",
-          "severity": 80,
-          "description": "戦時下のウクライナがミサイル不足に直面し、防空能力強化のためパトリオットシステムをキエフに移動。国家安全保障に関わる深刻な物資不足。",
-          "source": "Военное дело"
-        },
-        {
-          "title": "ブリュッセル中心部で学生デモが暴力化、警察と衝突",
-          "location": "ベルギー・ブリュッセル",
-          "severity": 75,
-          "description": "ブリュッセル中心部で学生デモが暴力化し、警察と衝突。社会秩序が乱れ、衝突による負傷者発生の可能性も示唆される。",
+          "title": "ブリュッセルで学生デモが暴徒化し警察と衝突",
+          "location": "ベルギー、ブリュッセル",
+          "severity": 55,
+          "description": "ブリュッセル中心部で学生デモが暴力的になり、警察と衝突。複数の負傷者が出た可能性があり、社会の緊張が高まっている。",
           "source": "The Brussels Times"
         },
         {
-          "title": "ファラージ、ヘンリー・ノワック殺害事件巡る英国の騒動は「始まりに過ぎない」と警告",
-          "location": "英国",
-          "severity": 70,
-          "description": "ナイジェル・ファラージが、ヘンリー・ノワック殺害事件を巡る英国の「unrest」（騒動）は「始まりに過ぎない」と警告。社会不安の深刻化と拡大の懸念がある。",
-          "source": "AFR"
-        },
-        {
-          "title": "ヘンリー・ノワックに関する抗議デモで「恐ろしい混乱」発生",
-          "location": "英国",
-          "severity": 65,
-          "description": "ヘンリー・ノワックに関する抗議デモが「恐ろしい混乱（scary disorder）」に発展し、学生が反応。デモが秩序を失いつつあり、社会不安の度合いが高い。",
+          "title": "サウサンプトンでの騒乱後、シーク教徒指導者が平和を呼びかけ",
+          "location": "イギリス、サウサンプトン",
+          "severity": 40,
+          "description": "サウサンプトンで発生した騒乱を受け、シーク教徒コミュニティのリーダーたちが平和と冷静な対応を呼びかけている。コミュニティ間の緊張が懸念される。",
           "source": "BBC"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "選挙の混乱と投票用紙不足",
+      "incidents": [
+        {
+          "title": "韓国で投票用紙不足を巡るデモ、警察と衝突",
+          "location": "韓国、ソウルなど各地",
+          "severity": 70,
+          "description": "地方選挙で投票用紙が不足し、全国各地でデモが発生。警察が投票箱を強制的に輸送しようとし、抗議者と衝突する事態に発展した。市民の政治不信が高まっている。",
+          "source": "Yonhap News Agency, Korea JoongAng Daily"
         },
         {
-          "title": "ギリシャ、ホテル業界が労働者と幹部不足の二重危機に直面",
-          "location": "ギリシャ",
-          "severity": 45,
-          "description": "ギリシャのホテル業界が、8万5千人の季節労働者とリゾート運営幹部の不足という二重の危機に直面。経済への広範な影響が懸念される。",
-          "source": "iefimerida.gr"
+          "title": "選挙管理委員会が投票用紙不足の失敗で非難される",
+          "location": "韓国",
+          "severity": 60,
+          "description": "選挙管理委員会（NEC）は、投票用紙の印刷数が有権者数を大幅に下回っていたことが判明し、市民から「許容できない選挙の欠陥」として厳しい非難を浴びている。",
+          "source": "The Korea Herald, 조선일보"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 80,
+      "panic_index": 75,
       "status": "critical",
-      "main_cause": "徴兵制への宗教的反対、政治的対立",
+      "main_cause": "徴兵反対暴動、軍事攻撃",
       "incidents": [
         {
-          "title": "イスラエルの超正統派が徴兵制に反対し裁判官宅前で暴動",
+          "title": "イスラエルで超正統派による徴兵反対暴動が発生",
           "location": "イスラエル",
-          "severity": 80,
-          "description": "イスラエルの超正統派コミュニティが徴兵制に反対し、裁判官宅前で暴動を発生させた。宗教的・政治的対立が暴力行為に発展しており、高い社会緊張状態。",
+          "severity": 70,
+          "description": "イスラエルで超正統派ユダヤ教徒が徴兵制度に反対し、暴動を起こした。社会内部の深刻な対立が表面化し、社会秩序に混乱をもたらしている。",
           "source": "The New York Times"
+        },
+        {
+          "title": "イランの爆撃でクウェート基地の米軍がパニック",
+          "location": "クウェート",
+          "severity": 80,
+          "description": "クウェートの米軍基地がイランの爆撃を受け、米兵がパニック状態で逃走する動画が報じられた。地域の軍事的緊張が極めて高いことを示唆する。",
+          "source": "Mshale"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "移民再定住への不安",
+      "incidents": [
+        {
+          "title": "リビアで移民再定住への懸念から数百人が抗議デモ",
+          "location": "リビア",
+          "severity": 40,
+          "description": "移民再定住計画に対する懸念から、数百人の市民がリビア各地で抗議デモを実施。政府の対応への不満が背景にあると見られる。",
+          "source": "Muslim Network TV"
         }
       ]
     },
     {
       "region": "south_america",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "反緊縮政策への不満、社会経済的不安",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "緊縮財政反対デモでの衝突",
       "incidents": [
         {
-          "title": "チリの反緊縮学生デモで衝突、25人が負傷",
+          "title": "チリで反緊縮学生デモが衝突、25人負傷",
           "location": "チリ",
-          "severity": 75,
-          "description": "チリで反緊縮を求める学生デモが衝突に発展し、25人が負傷。社会経済的要因による大規模な混乱と暴力が顕在化している。",
+          "severity": 55,
+          "description": "チリで緊縮財政に反対する学生デモが暴徒化し、警察と衝突。少なくとも25人が負傷し、社会の分断と緊張が浮き彫りになっている。",
           "source": "Anadolu Ajansı"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 65,
+      "panic_index": 60,
       "status": "volatile",
-      "main_cause": "金融機関への不信、生活費高騰",
+      "main_cause": "銀行に対する金融不安と抗議",
       "incidents": [
         {
-          "title": "イスラミ銀行顧客フォーラムが役員辞任要求デモを3日継続",
+          "title": "イスラミ銀行を巡る騒乱が3日目も継続、顧客が抗議",
           "location": "バングラデシュ",
           "severity": 65,
-          "description": "イスラミ銀行の顧客フォーラムが、役員辞任を要求するデモを3日間にわたり継続。組織内部の混乱と顧客からの強い圧力が示唆され、金融機関への不信感が深刻。",
-          "source": "The Business Standard"
-        },
-        {
-          "title": "イスラミ銀行で「unrest」が3日間にわたり継続",
-          "location": "バングラデシュ",
-          "severity": 60,
-          "description": "イスラミ銀行に関する「unrest」（騒動や不安）が3日間にわたり継続。金融機関への信頼喪失や顧客の不満が高まっている可能性があり、社会不安に直結する。",
-          "source": "The Daily Star"
-        },
-        {
-          "title": "イスラミ銀行に対する抗議活動が3日目に入る",
-          "location": "バングラデシュ",
-          "severity": 60,
-          "description": "イスラミ銀行に対する抗議活動が3日目に入り、金融機関への不信感と社会不安が持続。問題の解決が見られない状況。",
-          "source": "The Daily Star"
-        },
-        {
-          "title": "イスラミ銀行、業務停止抗議の指示を否定し行動を警告",
-          "location": "バングラデシュ",
-          "severity": 55,
-          "description": "イスラミ銀行が「業務停止抗議」の指示はないとしつつ、行動には警告を発する声明を発表。銀行内部での混乱と機能不全の可能性が懸念される。",
-          "source": "Jagonews24.com"
-        },
-        {
-          "title": "ジャマートが電力料金値上げに抗議するデモを計画",
-          "location": "バングラデシュ",
-          "severity": 45,
-          "description": "イスラム政党ジャマートが電力料金値上げに抗議するデモを計画。国民生活に直結する問題への不満が噴出しており、社会的な緊張が高まっている。",
-          "source": "The Daily Star"
+          "description": "バングラデシュのイスラミ銀行に対し、預金者保護と経営透明性を求める顧客フォーラムによるデモが3日間にわたって続いている。業務停止の警告も出されており、金融不安が高まっている。",
+          "source": "The Daily Star, The Business Standard"
         }
       ]
     }
