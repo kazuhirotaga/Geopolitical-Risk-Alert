@@ -1,130 +1,102 @@
 {
   "date": "2026-06-06",
-  "summary": "世界全体では、特定の地域で選挙の公平性、移民問題、教育改革、水資源といった生活基盤や社会制度への不満から大規模な抗議活動や社会不安が顕在化しています。警察介入や公共サービスへの影響も報告され、地域によっては緊張度が高い状況にあります。全体的なパニック状態には至らないものの、社会秩序の不安定化を示す兆候が見られます。",
-  "global_panic_index": 58,
+  "summary": "世界各地で社会不安が高まっており、特に韓国では選挙の公正性に対する不信感から大規模な抗議デモが頻発し、一部で機動隊が出動する事態に発展しています。インドやパキスタンでは、教育・雇用問題や生活インフラ（水）の不足が市民の不満を爆発させ、大規模な抗議活動に繋がっています。米国やスペインでは特定の政策や経済状況への不満がデモの形で表明されていますが、広範な社会秩序の崩壊には至っていません。中東地域では、地域紛争や政治的抑圧に起因する根深い社会不安が継続しています。全体として、社会インフラのマヒや略奪といったパニック状態は限定的ですが、複数の地域で「不安の増大」から「警戒状態」への移行が見られます。",
+  "global_panic_index": 55,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 25,
-      "status": "normal",
-      "main_cause": "特定機関の方針に対する市民抗議",
-      "incidents": [
-        {
-          "title": "Anti-ICE Protest Targets Citizens Bank",
-          "location": "New Haven, USA",
-          "severity": 30,
-          "description": "Citizens Bankと移民税関捜査局(ICE)との関係に抗議するデモが複数地域で実施されています。これは特定の企業方針への不満表明であり、広範な社会パニックや秩序の混乱には発展していません。",
-          "source": "New Haven Independent"
-        },
-        {
-          "title": "Kingston protest targets Citizens Bank’s ties to ICE prisons",
-          "location": "Kingston, USA",
-          "severity": 30,
-          "description": "ニューヨーク州キングストンでも、市民団体がCitizens BankのICEとの関係に抗議するデモを行いました。同様に、特定の社会問題に対する組織的な抗議の範疇に留まっています。",
-          "source": "Daily Freeman"
-        }
-      ]
-    },
-    {
       "region": "east_asia",
-      "panic_index": 68,
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "選挙制度への不信と不正選挙疑惑",
+      "main_cause": "選挙制度への不信、政治的混乱",
       "incidents": [
         {
-          "title": "Protest over ballot shortage continues after voting disruptions",
-          "location": "Seoul, South Korea",
-          "severity": 75,
-          "description": "投票用紙不足による選挙の混乱後、数千人規模の抗議デモが続き、再選挙が要求されています。一部では機動隊が出動し、開票センターが封鎖されるなど社会秩序に影響が出ています。",
-          "source": "The Korea Herald"
-        },
-        {
-          "title": "South Korean riot police clear protesters after ballot shortage blockade",
-          "location": "South Korea",
-          "severity": 78,
-          "description": "投票用紙不足に対する抗議デモ隊が選挙管理委員会の封鎖を行ったため、韓国の機動隊が出動し、排除にあたりました。これは抗議活動がエスカレートしていることを示唆します。",
-          "source": "MSN"
-        },
-        {
-          "title": "Thousands demand South Korea repeat local elections after ballot shortage",
-          "location": "South Korea",
+          "title": "韓国地方選挙における投票用紙不足抗議",
+          "location": "韓国 ソウル",
           "severity": 70,
-          "description": "投票用紙不足により地方選挙が混乱したことを受け、数千人が再選挙を求めています。市民の不満が大規模なデモへと発展し、選挙の公平性への疑念が社会不安を増幅させています。",
-          "source": "thestar.com.my"
-        },
-        {
-          "title": "Protesters block Seoul vote count center as rerun demands surge across Korea",
-          "location": "Seoul, South Korea",
-          "severity": 75,
-          "description": "ソウルの開票センターが抗議者によって封鎖され、全国的に再選挙を求める声が高まっています。これは選挙プロセスに対する市民の深い不信と混乱を示しており、緊迫した状況です。",
-          "source": "Chosunbiz"
+          "description": "地方選挙での投票用紙不足に対し、数千人規模の市民が再選挙を求め大規模デモを実施。ソウルの投票集計センターが封鎖され、機動隊が出動して排除される事態に発展。一部で「地裁襲撃のような事態」への懸念も報じられている。",
+          "source": "Reuters, CHOSUNBIZ, MSN, ハンギョレ新聞 他"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 73,
-      "status": "critical",
-      "main_cause": "入植者と住民の対立、慢性的な紛争状態",
+      "region": "north_america",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "移民政策への不満",
       "incidents": [
         {
-          "title": "Palestinians in West Bank protest amid settler raids",
-          "location": "West Bank, Palestine",
-          "severity": 80,
-          "description": "ヨルダン川西岸地区で入植者による襲撃の中、パレスチナ人による抗議デモが発生しています。これは地域の慢性的な紛争状態と高レベルの緊張が続き、社会不安が常態化していることを示します。",
-          "source": "Middle East Eye"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 78,
-      "status": "volatile",
-      "main_cause": "移民排斥とそれに伴う社会不安の増大",
-      "incidents": [
-        {
-          "title": "South Africa unrest grows as migrants become ‘scapegoats’",
-          "location": "South Africa",
-          "severity": 85,
-          "description": "南アフリカで社会不安が高まっており、移民がスケープゴートにされているとの報告があります。これは排外主義的な感情が高まり、大規模な社会混乱や暴徒化のリスクがある状態です。",
-          "source": "RFI"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 48,
-      "status": "unstable",
-      "main_cause": "水不足、生活資源の不足",
-      "incidents": [
-        {
-          "title": "Congress stages pot-breaking protest over water shortage",
-          "location": "MBMC HQ, India",
-          "severity": 55,
-          "description": "インドで深刻な水不足に対し、政党が象徴的な「壺割りデモ」を実施しています。これは生活に直結する重要な資源への不満が公に表明され、社会的不安が高まっていることを示します。",
-          "source": "Newsband"
-        },
-        {
-          "title": "Water crisis triggers protest, traffic disruption in Karachi's Qayyumabad",
-          "location": "Karachi, Pakistan",
-          "severity": 60,
-          "description": "パキスタンのカラチで水危機が抗議デモを引き起こし、主要道路で交通に混乱が生じています。生活インフラの問題が市民生活に直接的な影響を与え、混乱を招いています。",
-          "source": "The Express Tribune"
+          "title": "ICE関連銀行への抗議デモ",
+          "location": "米国 ニューヘイブン、キングストン",
+          "severity": 35,
+          "description": "移民税関執行局（ICE）との関係を持つCitizens Bankに対し、複数都市で抗議デモが発生。特定の政策への反対表明であり、広範な社会混乱には至っていない。",
+          "source": "New Haven Independent, WTNH.com, Daily Freeman 他"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 58,
-      "status": "unstable",
-      "main_cause": "教育改革への不満と脅威",
+      "panic_index": 35,
+      "status": "stable",
+      "main_cause": "生活コストの上昇、住宅問題",
       "incidents": [
         {
-          "title": "Several schools close in Namur after threats amid unrest over education reforms",
-          "location": "Namur, Belgium",
-          "severity": 65,
-          "description": "ベルギーのナミュールで教育改革を巡る不安と脅威のため複数の学校が閉鎖されました。これは社会的な不満が具体的な脅威となり、公共サービスに混乱を与えている状況です。",
-          "source": "The Brussels Times"
+          "title": "マドリードでの家賃・住宅不足抗議",
+          "location": "スペイン マドリード",
+          "severity": 40,
+          "description": "マドリードで家賃の高騰と住宅不足に抗議するデモが発生。市民の生活に直結する問題への不満が表明されており、社会の関心を集めている。",
+          "source": "dw.com"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "地域紛争、政治的抑圧",
+      "incidents": [
+        {
+          "title": "ヨルダン川西岸地区での入植者襲撃抗議",
+          "location": "パレスチナ ヨルダン川西岸地区",
+          "severity": 60,
+          "description": "ヨルダン川西岸地区で、入植者による襲撃に抗議するパレスチナ人のデモが発生。地域の治安情勢の不安定さと住民の生命の安全への懸念が背景にある。",
+          "source": "Middle East Eye"
+        },
+        {
+          "title": "イランデモ参加者処刑への国際抗議",
+          "location": "イラン（国外での抗議）",
+          "severity": 50,
+          "description": "在日イラン人らが大使館前で集会を開き、イラン本国におけるデモ参加者の処刑に抗議。イラン国内の政治的抑圧と人権状況に対する国際的な懸念が高まっている。",
+          "source": "JAPAN Forward"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "教育・雇用制度への不信",
+      "incidents": [
+        {
+          "title": "インドでの入試不正・教員職不足抗議",
+          "location": "インド ボパール",
+          "severity": 55,
+          "description": "インドで入試不正や教員職の空席不足に抗議する大規模デモが計画されており、若者層を中心に教育制度と雇用への強い不満が顕在化している。",
+          "source": "朝日新聞, AFPBB News, Free Press Journal"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "水不足、インフラ問題",
+      "incidents": [
+        {
+          "title": "カラチでの水危機抗議と交通混乱",
+          "location": "パキスタン カラチ",
+          "severity": 50,
+          "description": "パキスタンのカラチで水危機に対する抗議デモが発生し、交通に混乱が生じた。生活に不可欠なインフラの不備が市民の直接的な不満と社会の動揺に繋がっている。",
+          "source": "The Express Tribune"
         }
       ]
     }
