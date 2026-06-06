@@ -1,129 +1,130 @@
 {
   "date": "2026-06-06",
-  "summary": "世界各地で社会不安の増大と地域的な警戒状態が見られます。特に東アジアでは選挙制度への不信が大規模デモと政治的混乱を招き、南アフリカと南アジアでは資源不足や移民問題が社会を不安定化させています。北米では人権問題に対する組織的な抗議が続くものの、全体的なパニック状態には至っていません。複数の地域で住民の不満が表出しており、注意が必要です。",
-  "global_panic_index": 60,
+  "summary": "世界全体では、特定の地域で選挙の公平性、移民問題、教育改革、水資源といった生活基盤や社会制度への不満から大規模な抗議活動や社会不安が顕在化しています。警察介入や公共サービスへの影響も報告され、地域によっては緊張度が高い状況にあります。全体的なパニック状態には至らないものの、社会秩序の不安定化を示す兆候が見られます。",
+  "global_panic_index": 58,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "社会的不平等・人権問題に関する抗議",
+      "panic_index": 25,
+      "status": "normal",
+      "main_cause": "特定機関の方針に対する市民抗議",
       "incidents": [
         {
-          "title": "Citizens Bankに対する反ICE抗議デモ",
-          "location": "米国、ニューヘイブン",
+          "title": "Anti-ICE Protest Targets Citizens Bank",
+          "location": "New Haven, USA",
           "severity": 30,
-          "description": "移民税関執行局(ICE)との関係を巡り、市民団体がCitizens Bankに対する抗議デモを実施。複数の都市で同様の抗議が報告されており、社会的な関心の高さを示す。",
+          "description": "Citizens Bankと移民税関捜査局(ICE)との関係に抗議するデモが複数地域で実施されています。これは特定の企業方針への不満表明であり、広範な社会パニックや秩序の混乱には発展していません。",
           "source": "New Haven Independent"
         },
         {
-          "title": "KingstonでのICE関連抗議",
-          "location": "米国、キングストン",
+          "title": "Kingston protest targets Citizens Bank’s ties to ICE prisons",
+          "location": "Kingston, USA",
           "severity": 30,
-          "description": "Citizens BankのICE刑務所との関係に反対する抗議がキングストンでも行われた。組織的な抗議活動だが、秩序は保たれている。",
+          "description": "ニューヨーク州キングストンでも、市民団体がCitizens BankのICEとの関係に抗議するデモを行いました。同様に、特定の社会問題に対する組織的な抗議の範疇に留まっています。",
           "source": "Daily Freeman"
-        },
-        {
-          "title": "ニューベッドフォードでの『De-ICE Citizens Bank』全国行動デー",
-          "location": "米国、ニューベッドフォード",
-          "severity": 30,
-          "description": "Citizens BankとICEの関係を断ち切ることを求める全国的な抗議行動の一環。複数の場所で同様の動きが見られ、テーマへの関心の広がりを示唆する。",
-          "source": "The New Bedford Light"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 70,
+      "panic_index": 68,
       "status": "volatile",
-      "main_cause": "選挙制度への不信、政治的混乱",
+      "main_cause": "選挙制度への不信と不正選挙疑惑",
       "incidents": [
         {
-          "title": "投票用紙不足を巡る抗議デモ",
-          "location": "韓国、ソウル",
-          "severity": 65,
-          "description": "地方選挙での投票用紙不足を受け、数千人が再選挙を要求する抗議デモを継続。デモは2日目に突入し、市民の不満が高まっている。",
+          "title": "Protest over ballot shortage continues after voting disruptions",
+          "location": "Seoul, South Korea",
+          "severity": 75,
+          "description": "投票用紙不足による選挙の混乱後、数千人規模の抗議デモが続き、再選挙が要求されています。一部では機動隊が出動し、開票センターが封鎖されるなど社会秩序に影響が出ています。",
           "source": "The Korea Herald"
         },
         {
-          "title": "開票センター封鎖と再選挙要求",
-          "location": "韓国、ソウル",
-          "severity": 75,
-          "description": "投票用紙不足に抗議するデモ隊がソウルの投票開票センターを封鎖。全国的に再選挙を求める声が強まり、社会インフラに影響が出ている。",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "投票用紙不足に起因する機動隊とデモ隊の衝突",
-          "location": "韓国",
-          "severity": 70,
-          "description": "投票用紙不足を巡るデモ隊に対し、韓国の機動隊が介入し排除を実施。一部では封鎖行動も見られ、事態がエスカレートしている。",
+          "title": "South Korean riot police clear protesters after ballot shortage blockade",
+          "location": "South Korea",
+          "severity": 78,
+          "description": "投票用紙不足に対する抗議デモ隊が選挙管理委員会の封鎖を行ったため、韓国の機動隊が出動し、排除にあたりました。これは抗議活動がエスカレートしていることを示唆します。",
           "source": "MSN"
         },
         {
-          "title": "選挙管理委員長の辞任",
-          "location": "韓国",
+          "title": "Thousands demand South Korea repeat local elections after ballot shortage",
+          "location": "South Korea",
+          "severity": 70,
+          "description": "投票用紙不足により地方選挙が混乱したことを受け、数千人が再選挙を求めています。市民の不満が大規模なデモへと発展し、選挙の公平性への疑念が社会不安を増幅させています。",
+          "source": "thestar.com.my"
+        },
+        {
+          "title": "Protesters block Seoul vote count center as rerun demands surge across Korea",
+          "location": "Seoul, South Korea",
           "severity": 75,
-          "description": "投票用紙不足とそれに伴うデモ、開票センターの封鎖を受け、韓国の選挙管理委員長が辞任。政治的混乱の深刻さを物語る。",
-          "source": "Free Malaysia Today"
+          "description": "ソウルの開票センターが抗議者によって封鎖され、全国的に再選挙を求める声が高まっています。これは選挙プロセスに対する市民の深い不信と混乱を示しており、緊迫した状況です。",
+          "source": "Chosunbiz"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "紛争、人権抑圧、政治的不満",
+      "panic_index": 73,
+      "status": "critical",
+      "main_cause": "入植者と住民の対立、慢性的な紛争状態",
       "incidents": [
         {
-          "title": "ヨルダン川西岸での抗議デモ",
-          "location": "パレスチナ、ヨルダン川西岸",
-          "severity": 50,
-          "description": "入植者の襲撃に対し、パレスチナ人がヨルダン川西岸で抗議デモを実施。既存の紛争下での緊張が高まっている状況。",
+          "title": "Palestinians in West Bank protest amid settler raids",
+          "location": "West Bank, Palestine",
+          "severity": 80,
+          "description": "ヨルダン川西岸地区で入植者による襲撃の中、パレスチナ人による抗議デモが発生しています。これは地域の慢性的な紛争状態と高レベルの緊張が続き、社会不安が常態化していることを示します。",
           "source": "Middle East Eye"
-        },
-        {
-          "title": "在日イラン人による大使館前集会",
-          "location": "日本（イラン大使館前）",
-          "severity": 65,
-          "description": "イラン国内でのデモ参加者の処刑に怒りを示す在日イラン人らが大使館前で集会。本国の人権抑圧に対する強い懸念と不満が表明されている。",
-          "source": "JAPAN Forward"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 70,
+      "panic_index": 78,
       "status": "volatile",
-      "main_cause": "移民排斥、経済的・社会的不満",
+      "main_cause": "移民排斥とそれに伴う社会不安の増大",
       "incidents": [
         {
-          "title": "南アフリカにおける社会不安の増大",
-          "location": "南アフリカ",
-          "severity": 70,
-          "description": "南アフリカで移民が『スケープゴート』となり、社会不安が拡大。排外主義的な感情が高まり、暴動や混乱に発展するリスクが高まっている。",
+          "title": "South Africa unrest grows as migrants become ‘scapegoats’",
+          "location": "South Africa",
+          "severity": 85,
+          "description": "南アフリカで社会不安が高まっており、移民がスケープゴートにされているとの報告があります。これは排外主義的な感情が高まり、大規模な社会混乱や暴徒化のリスクがある状態です。",
           "source": "RFI"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "水不足、生活インフラの危機",
+      "panic_index": 48,
+      "status": "unstable",
+      "main_cause": "水不足、生活資源の不足",
       "incidents": [
         {
-          "title": "水不足を巡る抗議デモ",
-          "location": "インド",
-          "severity": 60,
-          "description": "インドで水不足を巡り、議会が「鍋を割る」抗議デモをMBMC本部前で実施。生活インフラの危機が住民の不満を増大させている。",
+          "title": "Congress stages pot-breaking protest over water shortage",
+          "location": "MBMC HQ, India",
+          "severity": 55,
+          "description": "インドで深刻な水不足に対し、政党が象徴的な「壺割りデモ」を実施しています。これは生活に直結する重要な資源への不満が公に表明され、社会的不安が高まっていることを示します。",
           "source": "Newsband"
         },
         {
-          "title": "水危機による抗議と交通混乱",
-          "location": "パキスタン、カラチ",
-          "severity": 65,
-          "description": "パキスタン・カラチのQayyumabad地区で水危機が抗議活動と交通渋滞を引き起こし、住民の生活に深刻な影響を与えている。",
+          "title": "Water crisis triggers protest, traffic disruption in Karachi's Qayyumabad",
+          "location": "Karachi, Pakistan",
+          "severity": 60,
+          "description": "パキスタンのカラチで水危機が抗議デモを引き起こし、主要道路で交通に混乱が生じています。生活インフラの問題が市民生活に直接的な影響を与え、混乱を招いています。",
           "source": "The Express Tribune"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 58,
+      "status": "unstable",
+      "main_cause": "教育改革への不満と脅威",
+      "incidents": [
+        {
+          "title": "Several schools close in Namur after threats amid unrest over education reforms",
+          "location": "Namur, Belgium",
+          "severity": 65,
+          "description": "ベルギーのナミュールで教育改革を巡る不安と脅威のため複数の学校が閉鎖されました。これは社会的な不満が具体的な脅威となり、公共サービスに混乱を与えている状況です。",
+          "source": "The Brussels Times"
         }
       ]
     }
