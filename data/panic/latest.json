@@ -1,20 +1,27 @@
 {
   "date": "2026-06-07",
-  "summary": "世界各地で社会不安が拡大しています。韓国では選挙の公正性を巡る大規模デモが投票センターの封鎖に至り、南アフリカでは排外主義的暴力により移民が避難する危機的状況です。中東では衝突が発生し、南アジアでも政治腐敗や資源不足を背景とした広範な抗議活動が続いています。これらの事象は、社会の分断と不信感の深刻化を示しており、一部地域では治安の悪化が懸念されます。",
-  "global_panic_index": 66,
+  "summary": "世界各地で政治的、社会的な不安が増大しており、特に東アジアでは選挙不正疑惑を巡る大規模デモが警察との衝突に発展し、治安当局による強制排除が行われています。南米では経済活動に影響を及ぼす社会不安、中東と東南アジア（南アジアを含む）では治安部隊と抗議者の衝突や生活必需品不足を原因とするデモが深刻化しています。全体として、一部地域で社会秩序の混乱が顕著ですが、世界規模での略奪や無秩序な逃避といったパニック状態には至っていません。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 45,
+      "panic_index": 40,
       "status": "unstable",
-      "main_cause": "企業の倫理問題に対する抗議",
+      "main_cause": "企業活動への不満、特定の政策への抗議",
       "incidents": [
         {
-          "title": "Citizens Bankに対する大規模抗議デモ",
-          "location": "ニュージャージー州 (米国)",
+          "title": "Protesters are targeting Citizens Bank branches in 5 N.J. towns.",
+          "location": "New Jersey, USA",
           "severity": 45,
-          "description": "ニュージャージー州の5つの町で、Citizens Bankの特定ビジネス慣行（ICE関連投資）に反対する抗議デモが実施されました。複数の店舗が標的となり、活動家たちは投資の見直しを求めています。",
-          "source": "NJ.com 他"
+          "description": "米国ニュージャージー州の5つの町で、市民が特定の銀行支店を標的にした抗議活動を行っています。これは銀行の特定の投資方針に対する不満が原因とされています。",
+          "source": "NJ.com"
+        },
+        {
+          "title": "Activists demand Citizens Bank De-ICE its investments",
+          "location": "USA (推定)",
+          "severity": 35,
+          "description": "活動家たちは、Citizens Bankに対し、移民・税関執行局（ICE）関連の投資からの撤退を求めています。これは特定の政治的・社会的問題に対する抗議活動の一環です。",
+          "source": "Countercurrents"
         }
       ]
     },
@@ -22,110 +29,137 @@
       "region": "east_asia",
       "panic_index": 75,
       "status": "volatile",
-      "main_cause": "選挙の公正性への不信",
+      "main_cause": "選挙不正疑惑、政治的不満",
       "incidents": [
         {
-          "title": "韓国での投票用紙不足を巡る大規模デモ、投票センターを封鎖",
-          "location": "ソウル、韓国各地",
+          "title": "South Korean riot police clear protesters after ballot shortage blockade",
+          "location": "South Korea",
+          "severity": 80,
+          "description": "韓国で、投票用紙不足に端を発した選挙のやり直しを求めるデモ隊に対し、機動隊が介入し封鎖を排除しました。状況は非常に緊迫しており、社会秩序が一時的に混乱しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "Pro-Revote Rallies Clash With Anti-Fraud Conspiracy Protests in Seoul",
+          "location": "Seoul, South Korea",
           "severity": 75,
-          "description": "韓国で投票用紙不足を理由に選挙のやり直しを求める大規模なデモが複数日継続し、数千人が参加しました。一部の抗議者はソウルの投票集計センターを封鎖するなど、選挙プロセスに大きな影響を与えています。",
-          "source": "Reuters, Chosunilbo 他"
+          "description": "韓国ソウルで、選挙のやり直しを求める集会と、選挙詐欺を主張するデモが衝突しました。政治的な分裂が深刻化し、公衆の安全に対する懸念が高まっています。",
+          "source": "조선일보"
+        },
+        {
+          "title": "Police disperse demonstrators in protest over ballot shortage",
+          "location": "South Korea",
+          "severity": 75,
+          "description": "韓国で発生している投票用紙不足を巡るデモに対し、警察が介入しデモ隊を解散させました。大規模な抗議活動が続いており、治安部隊との衝突の可能性があります。",
+          "source": "MSN"
+        },
+        {
+          "title": "Protests Demanding Re-Vote Over Ballot Shortage Enter Fourth Day at Olympic Park",
+          "location": "Olympic Park, South Korea",
+          "severity": 70,
+          "description": "韓国のオリンピック公園で、投票用紙不足に起因する選挙のやり直しを求める抗議活動が4日目に突入しました。デモが長期化し、参加者の数も多くなっています。",
+          "source": "Seoul Economic Daily"
+        },
+        {
+          "title": "Thousands demand South Korea repeat local elections after ballot shortage",
+          "location": "South Korea",
+          "severity": 70,
+          "description": "韓国で、数千人規模の市民が投票用紙不足を理由に地方選挙のやり直しを求めています。大規模な市民運動が広がり、政府への圧力が強まっています。",
+          "source": "The Business Standard"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 80,
+      "panic_index": 68,
       "status": "volatile",
-      "main_cause": "民族間の紛争と暴力",
+      "main_cause": "政治的抑圧、民族間の衝突、治安悪化",
       "incidents": [
         {
-          "title": "ユダヤ人暴徒がパレスチナ人による衝突で負傷",
-          "location": "エフラトジャンクション (イスラエル)",
-          "severity": 80,
-          "description": "エフラトジャンクションで、パレスチナ人による衝突によりユダヤ人暴徒が軽傷を負う事態が発生しました。この地域では民族間の緊張が高まり、暴力的な衝突が頻発しています。",
-          "source": "The Jerusalem Post"
-        },
-        {
-          "title": "パレスチナ自治区西岸で入植者襲撃に対する抗議デモ",
-          "location": "西岸地区 (パレスチナ)",
-          "severity": 70,
-          "description": "パレスチナ自治区西岸では、入植者の襲撃が相次ぐ中でパレスチナ人による抗議デモが行われています。地域住民の安全と平穏が脅かされており、治安の悪化が懸念されます。",
-          "source": "Middle East Eye"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "政治腐敗への不満、資源不足、治安問題",
-      "incidents": [
-        {
-          "title": "バングラデシュで大規模な抗議デモと衝突が発生",
-          "location": "バングラデシュ",
-          "severity": 70,
-          "description": "バングラデシュ各地で数千人規模の抗議デモが発生し、衝突、道路封鎖、警察の大規模な展開が報告されています。政治的な不安が続いており、広範な社会秩序の混乱が見られます。",
-          "source": "News On AIR"
-        },
-        {
-          "title": "パキスタン領カシミールでデモ関連の逮捕者72人",
-          "location": "AJK (パキスタン領カシミール)",
-          "severity": 60,
-          "description": "パキスタン領カシミール（AJK）の警察は、抗議活動グループに関連する72人を治安取り締まりの中で逮捕しました。この地域ではデモと当局の取り締まりが続き、緊張状態にあります。",
+          "title": "AJK police arrest 72 linked to protest group amid security crackdown",
+          "location": "Azad Jammu and Kashmir",
+          "severity": 75,
+          "description": "アザド・ジャンムー・カシミール地域で、治安当局の取り締まりにより72人が抗議活動グループと関連付けられ逮捕されました。政府による強硬な弾圧は、さらなる社会不安を招く可能性があります。",
           "source": "Arab News"
         },
         {
-          "title": "インド各地で教員不足、入試不正、水不足を巡る抗議デモ",
-          "location": "インド (ボパール、デリー、カヤムアバド等)",
-          "severity": 65,
-          "description": "インドでは、教員募集の欠員不足、大学入試の不正、およびカヤムアバドでの水不足に抗議する大規模なデモが複数箇所で発生しています。特に若者の間で政府への不満が高まっています。",
-          "source": "Free Press Journal, 朝日新聞 他"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "排外主義と暴力",
-      "incidents": [
+          "title": "Jewish rioter lightly wounded in ramming by Palestinian at Efrat Junction",
+          "location": "Efrat Junction, West Bank",
+          "severity": 70,
+          "description": "エフラト交差点で、パレスチナ人による車両突入事件が発生し、ユダヤ人暴徒が軽傷を負いました。地域における民族間の暴力的な衝突が続いており、治安状況は緊迫しています。",
+          "source": "The Jerusalem Post"
+        },
         {
-          "title": "南アフリカで排外主義的暴力が相次ぎ、移民が避難",
-          "location": "南アフリカ",
-          "severity": 85,
-          "description": "南アフリカでは排外主義的な暴力が相次いでおり、多くの移民が町役場への避難を余儀なくされ、一部は帰国を希望しています。人道的危機へと発展する可能性があり、社会全体に深い亀裂が生じています。",
-          "source": "Reuters"
+          "title": "France, allies weigh Israeli sanctions over West Bank violence",
+          "location": "West Bank / International",
+          "severity": 60,
+          "description": "フランスとその同盟国は、ヨルダン川西岸での暴力行為を受けて、イスラエルに対する制裁を検討しています。地域の不安定な情勢が国際的な問題に発展しています。",
+          "source": "The Jerusalem Post"
         }
       ]
     },
     {
       "region": "south_america",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "資源開発を巡る不満",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "経済政策への不満、社会不安",
       "incidents": [
         {
-          "title": "ボリビアの鉱物資源開発計画、大規模な社会不安により停滞",
-          "location": "ボリビア",
-          "severity": 60,
-          "description": "ボリビアにおける広大な鉱物資源開発計画が、国内で発生している大規模な社会不安により打撃を受けています。これは資源の分配や環境問題など、国民の不満が背景にあると見られます。",
-          "source": "Bloomberg"
+          "title": "Plans to Tap Bolivia’s Vast Mineral Riches Hit by Mass Unrest",
+          "location": "Bolivia",
+          "severity": 70,
+          "description": "ボリビアでは、同国の広大な鉱物資源を活用する計画が大規模な社会不安によって頓挫しています。政府の経済政策に対する国民の不満が噴出し、経済活動に深刻な影響を与えています。",
+          "source": "Bloomberg.com"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "生活必需品不足、政治的不満、治安悪化",
+      "incidents": [
+        {
+          "title": "Dozens booked in police crackdown after Qayyumabad water shortage protest",
+          "location": "Qayyumabad, Pakistan",
+          "severity": 80,
+          "description": "パキスタン・カユマバードで水不足に対する抗議デモが発生し、警察の取り締まりにより多数が逮捕されました。生活必需品に関する危機が社会不安を引き起こし、治安当局との衝突に至っています。",
+          "source": "The News Pakistan"
+        },
+        {
+          "title": "Bangladesh: Thousands Protest Amid Ongoing Unrest; Clashes, Road Blocks & Heavy Police Deployment Reported",
+          "location": "Bangladesh",
+          "severity": 75,
+          "description": "バングラデシュで数千人規模の抗議デモが継続しており、衝突、道路封鎖、厳重な警察配備が報告されています。社会秩序が広範囲に混乱しており、暴力的な状況にエスカレートする可能性があります。",
+          "source": "News On AIR"
+        },
+        {
+          "title": "Cockroach Janta Party: Youth Movement Ignites Political Unrest in India",
+          "location": "India",
+          "severity": 55,
+          "description": "インドで「ゴキブリ・ジャンタ党」と呼ばれる若者運動が政治的不安を煽っています。若年層の不満が政治的な不安定要素となりつつあり、今後の動向が注目されます。",
+          "source": "Devdiscourse"
+        },
+        {
+          "title": "VRO Dies By Suicide In Kurnool, Revenue Staff Protest",
+          "location": "Kurnool, India",
+          "severity": 45,
+          "description": "インドのクルヌールで、ある村の収益担当官が自殺したことを受け、職員らが抗議活動を行っています。これは特定の職業における不満が表面化したものです。",
+          "source": "Deccan Chronicle"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 55,
+      "panic_index": 40,
       "status": "unstable",
-      "main_cause": "教育改革への反発",
+      "main_cause": "エネルギー供給の不確実性",
       "incidents": [
         {
-          "title": "ベルギーで教育改革への不安から複数学校が閉鎖",
-          "location": "ナミュール (ベルギー)",
-          "severity": 55,
-          "description": "ベルギーのナミュールでは、教育改革を巡る不安と脅迫のため、いくつかの学校が閉鎖されました。これは社会不安が教育システムに直接的な影響を与え、保護者や生徒に混乱をもたらしています。",
-          "source": "The Brussels Times"
+          "title": "Russian-run Zaporizhzhia nuclear plant says power supply has been restored",
+          "location": "Zaporizhzhia, Ukraine",
+          "severity": 40,
+          "description": "ロシアが運営するザポリージャ原子力発電所で電力供給が回復したと報じられました。これは一時的な電力供給の問題があったことを示唆し、地域のエネルギーインフラに対する不安が残ります。",
+          "source": "Reuters"
         }
       ]
     }
