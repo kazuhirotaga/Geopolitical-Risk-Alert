@@ -1,19 +1,26 @@
 {
   "date": "2026-06-08",
-  "summary": "世界各地で資源不足（肥料、水）や選挙の公平性への不満を背景とした大規模な抗議デモが多発しています。特に南アジアの一部地域ではデモが暴力化し死者も発生しており、ATM現金不足の懸念や社会インフラの麻痺も見られます。東アジアでも選挙関連の社会不安が継続。直接的な略奪や無秩序な逃避といった完全なパニック状態には至っていないものの、金融市場の潜在的な不安定性（暗号通貨プラットフォームの緊急救済など）も相まって、地域によっては深刻な社会不安と緊張が高まっている状況です。",
+  "summary": "世界各地では、経済不安、政治的混乱、資源不足を背景とした社会不安が増大しています。特に南米ボリビアでは反政府デモが医療インフラに深刻な影響を与え、南アジアでは食料・エネルギー不足が大規模な抗議活動と衝突に発展しています。東アジアでも政治プロセスへの不信がデモとして顕在化しており、世界全体で警戒すべき状況が続いています。",
   "global_panic_index": 58,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "特定の社会問題への抗議",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "Financial Instability, Social Discontent",
       "incidents": [
         {
-          "title": "銀行の移民税関執行局（ICE）との関係に対する抗議",
-          "location": "New Haven, USA",
-          "severity": 30,
-          "description": "コネチカット州ニューヘイブンで、ある銀行が移民税関執行局（ICE）と関係があることに反対する抗議デモが行われました。これは特定の社会問題に対する局所的なデモであり、広範なパニック状態にはありません。",
+          "title": "大手仮想通貨プラットフォーム、3億ドルの緊急支援で破綻回避",
+          "location": "グローバル（影響は北米市場含む）",
+          "severity": 55,
+          "description": "主要な仮想通貨プラットフォームが総崩れ寸前となり、3億ドルの緊急支援で救済されました。これはDeFi（分散型金融）市場における大規模な取り付け騒ぎの一例であり、金融システム全体の不安定性に対する不安を煽っています。",
+          "source": "CoinDesk / crypto.news"
+        },
+        {
+          "title": "ニューヘイブンで銀行の移民税関捜査局（ICE）との関係に抗議",
+          "location": "米国・ニューヘイブン",
+          "severity": 25,
+          "description": "コネチカット州ニューヘイブンでは、市民団体が特定の銀行と移民税関捜査局（ICE）との関係に抗議するデモを実施しました。これは特定の社会問題に対する懸念表明であり、限定的な社会不安に留まっています。",
           "source": "WTNH.com"
         }
       ]
@@ -21,94 +28,96 @@
     {
       "region": "east_asia",
       "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "選挙制度への不信、投票用紙不足",
+      "status": "volatile",
+      "main_cause": "Political Mistrust, Economic Anxiety",
       "incidents": [
         {
-          "title": "ソウルでの投票用紙不足に対する抗議デモが長期化",
-          "location": "Seoul, South Korea",
-          "severity": 55,
-          "description": "ソウルで投票用紙不足を巡る抗議デモが週末にわたって続き、民主主義の公平性に対する不満が表面化しています。政府トップも事態の深刻さを認識しており、社会不安が増大しています。",
-          "source": "upi.com, The Korea Times"
+          "title": "韓国統一地方選の投票用紙不足に抗議デモ、若者や中道層も参加",
+          "location": "韓国・ソウル",
+          "severity": 65,
+          "description": "韓国の統一地方選で投票用紙が不足した問題に対し、複数日にわたる大規模な抗議デモが発生しています。野党、若者、中道層が再選挙を求め、一部では開票所封鎖も試みられ、民主主義プロセスへの不信感と社会の分断が深まっています。",
+          "source": "朝鮮日報 他多数"
         },
         {
-          "title": "蚕室投票センターでの投票用紙不足を非難する抗議と封鎖",
-          "location": "Jamsil, South Korea",
-          "severity": 60,
-          "description": "ソウル・蚕室の投票センターで、投票用紙不足を非難し投票所の封鎖を試みる抗議活動が発生しました。民主的なプロセスへの不信感が社会秩序に直接的な影響を与え始めています。",
-          "source": "매일경제"
+          "title": "「物価は狂乱状態」日銀本店に抗議デモ、総裁退任会見でも批判",
+          "location": "日本・東京",
+          "severity": 45,
+          "description": "日本のインフレに対する市民の不満が高まり、日本銀行本店前で抗議デモが行われました。総裁退任会見でも物価高騰への批判が続出し、国民の生活不安が経済政策への不満として表面化しています。",
+          "source": "東洋経済オンライン"
         },
         {
-          "title": "若者主導の再選挙要求デモが拡大",
-          "location": "Seoul, South Korea",
-          "severity": 55,
-          "description": "ソウルで投票用紙不足を理由とする再選挙要求デモが若者主導で拡大しています。次世代の政治参加意欲の表れであると同時に、現状への強い不満と社会不安を示しています。",
-          "source": "조선일보"
-        },
-        {
-          "title": "投票権抗議デモが周辺店舗の売上、モバイルバッテリー販売を増加",
-          "location": "Seoul, South Korea",
-          "severity": 50,
-          "description": "ソウルでの投票権に関する抗議デモにより、周辺店舗が恩恵を受け、モバイルバッテリーの売上が8倍に増加しました。これはデモの規模の大きさや参加者の長期滞在を示唆しており、社会活動への影響が見られます。",
-          "source": "Seoul Economic Daily"
+          "title": "クマの出没で日本の94校が一時閉鎖、地域社会に恐怖",
+          "location": "日本",
+          "severity": 40,
+          "description": "日本でクマによる人身被害が相次ぎ、一時的に94校もの学校が閉鎖される事態が発生しました。これは自然環境の変化による直接的な安全保障上の懸念であり、地域住民に大きな不安を与えています。",
+          "source": "the-sun.com"
         }
       ]
     },
     {
       "region": "south_asia",
       "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "資源不足（肥料、燃料）、経済的不満、政治的不満の暴力化、金融不安",
+      "status": "critical",
+      "main_cause": "Resource Scarcity, Political Instability, Regional Conflict",
       "incidents": [
         {
-          "title": "POJKで抗議活動が暴力化、警官と抗議者双方に死者",
-          "location": "Pakistan-occupied Kashmir (PoK)",
-          "severity": 85,
-          "description": "パキスタン占領下のカシミールで、JAACによる抗議活動が暴力化し、警官4名と複数の抗議者が死亡しました。社会秩序が崩壊寸前の危機的状況にあり、無秩序な状態への移行が懸念されます。",
-          "source": "organiser.org"
-        },
-        {
-          "title": "インド・パンジャブ州22地区で尿素肥料不足に対する大規模農民デモ",
-          "location": "Punjab, India",
+          "title": "インド農民、尿素・肥料不足と燃料価格高騰に抗議デモ（22地区）",
+          "location": "インド・パンジャブ州 他",
           "severity": 70,
-          "description": "インドのパンジャブ州22地区で、尿素肥料不足に対する大規模な農民抗議デモが発生しました。食料生産の根幹に関わる問題が広範な社会不安を広げ、警備体制が強化される事態となっています。",
-          "source": "MSN, The Tribune"
+          "description": "インドのパンジャブ州を中心に22地区で、尿素・肥料不足と燃料価格高騰に対する大規模な農民デモが発生しています。食料生産への影響と生活苦への怒りが広がり、一部地域では治安部隊の増強が報告されており、社会的な緊張が高まっています。",
+          "source": "Reuters 他多数"
         },
         {
-          "title": "ATM現金不足の可能性を業界団体が警告",
-          "location": "India",
-          "severity": 65,
-          "description": "インドのATM業界連合が、小規模な都市でのATM現金不足の可能性を警告しました。これは金融システムへの信頼に揺らぎを生じさせ、取り付け騒ぎに発展する潜在的なパニック要因となります。",
-          "source": "The Economic Times"
-        },
-        {
-          "title": "学生寮不足に対するデモが大学病院の外来サービスを麻痺",
-          "location": "India",
-          "severity": 65,
-          "description": "インドで、大学病院の学生寮不足に対する抗議デモが病院の外来サービスを麻痺させました。社会インフラの機能不全は市民生活に直接的な影響を与え、不安を増大させています。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "反ドラッグ抗議デモ中に衝突が発生し負傷者",
-          "location": "Guwahati, India",
-          "severity": 60,
-          "description": "インドのグワーハーティーで反ドラッグ抗議デモ中に衝突が発生し、複数の負傷者が出ました。平和的な抗議活動が暴力沙汰に発展する危険性を示唆しており、社会秩序への懸念が高まっています。",
-          "source": "India Today NE"
+          "title": "パキスタン統治下のカシミールで衝突発生、11人死亡",
+          "location": "パキスタン統治下カシミール",
+          "severity": 85,
+          "description": "パキスタン統治下のカシミール地方で、デモを控えた状況下で大規模な衝突が発生し、11人が死亡しました。これは政治的な不安定さと地域紛争が深刻化しており、社会秩序が崩壊し、人々の生命が直接的に脅かされている状態を示しています。",
+          "source": "Reuters"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "資源不足（水）",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "Educational Grievances",
       "incidents": [
         {
-          "title": "水不足に対する夜間抗議デモで生徒が病院に搬送",
-          "location": "Kenya",
-          "severity": 55,
-          "description": "ケニアの学校で夜間に発生した水不足への抗議デモで、複数の生徒が病院に搬送されました。基本的な生活必需品の不足が、住民の健康と安全を脅かし、社会不安につながっています。",
-          "source": "001fm.co.ke"
+          "title": "ケニアのマルチメディア大学で学生が試験制度に抗議",
+          "location": "ケニア",
+          "severity": 30,
+          "description": "ケニアのマルチメディア大学で学生らが試験に関する不満を訴え、抗議活動を行いました。これは教育制度に対する不満表明であり、特定の集団に限定された不安であり、広範な社会パニックには至っていません。",
+          "source": "the-star.co.ke"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "Social Collapse, Political Unrest",
+      "incidents": [
+        {
+          "title": "ボリビアで反政府デモによる道路封鎖、新生児20人に生命の危機",
+          "location": "ボリビア",
+          "severity": 95,
+          "description": "ボリビアで続く反政府デモが道路を封鎖し、産科病院への酸素供給が滞り、新生児20人の生命が危険に晒される事態が発生しました。これは単なる抗議の域を超え、社会インフラが麻痺し、人々の生命が直接的に脅かされる極めて深刻なパニック状態を示しています。",
+          "source": "Reuters"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 25,
+      "status": "normal",
+      "main_cause": "Local Development Concerns",
+      "incidents": [
+        {
+          "title": "アルバニア南部沿岸で開発計画への抗議デモ",
+          "location": "アルバニア",
+          "severity": 25,
+          "description": "アルバニア南部沿岸地域で、特定の開発計画に反対する抗議デモが行われました。これは地域住民の環境や生活への懸念表明であり、特定の課題に対する意見表明に留まり、広範な社会不安やパニックには繋がっていません。",
+          "source": "AP通信"
         }
       ]
     }
