@@ -1,5 +1,47 @@
 [
   {
+    "id": "f8d9a748bdfb",
+    "title": "イスラエルとイラン双方が攻撃 本格的な戦闘再開 懸念",
+    "summary": "イスラエル軍は日本時間の8日午前10時半ごろ、イランの西部と中部にある軍事施設を攻撃したことを明らかにしました。イスラエル軍は、これに先立ってイランからミサイルが発射されたと発表していて、イスラエルとイランの間で再び本格的な戦闘に発展しないか、懸念されます。",
+    "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143981000.html",
+    "published": "2026-06-08T12:37:50+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "middle_east"
+    ]
+  },
+  {
+    "id": "c8be8eda4d13",
+    "title": "トランプ大統領「戦争しないと保証したわけではない」",
+    "summary": "アメリカのトランプ大統領はイランへの軍事作戦についてメディアのインタビューで、これまでの大統領選挙などで新たな戦争はしないと訴えていたと指摘され「戦争をしないと保証したわけではない。終わりのない戦争は好きではないが、これはそうではない」などと主張し、改めて正当化しました。",
+    "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143761000.html",
+    "published": "2026-06-08T08:37:27+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
+    "id": "30bf1e433f99",
+    "title": "“イランからミサイル発射”イスラエル軍発表 攻撃応酬が激化",
+    "summary": "アメリカとの戦闘終結に向けた協議をめぐり、イランがレバノンを含むすべての方面での戦闘終結を求める中、イスラエル軍がレバノンのイスラム教シーア派組織ヒズボラの拠点を攻撃したあと、イランからイスラエルに向けてミサイルが発射されたと明らかにするなど、攻撃の応酬が激しくなっていて、協議への影響が懸念されます。",
+    "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143631000.html",
+    "published": "2026-06-08T07:45:05+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
     "id": "e5b7183cf29b",
     "title": "“核兵器への依存強まり核軍縮に逆行”スウェーデン研究機関",
     "summary": "世界の軍事情勢を分析しているスウェーデンの研究機関が年次報告書をまとめ、一部の国の指導者などは核兵器への依存を強めていて、核軍縮の取り組みに逆行しているとして警鐘を鳴らしています。",
@@ -13,34 +55,6 @@
     ]
   },
   {
-    "id": "30bf1e433f99",
-    "title": "“イランからミサイル発射”イスラエル軍発表 攻撃応酬が激化",
-    "summary": "アメリカとの戦闘終結に向けた協議をめぐり、イランがレバノンを含むすべての方面での戦闘終結を求める中、イスラエル軍がレバノンのイスラム教シーア派組織ヒズボラの拠点を攻撃したあと、イランからイスラエルに向けてミサイルが発射されたと明らかにするなど、攻撃の応酬が激しくなっていて、協議への影響が懸念されます。",
-    "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143631000.html",
-    "published": "2026-06-08T06:43:33+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "middle_east",
-      "north_america"
-    ]
-  },
-  {
-    "id": "601f15bc95c6",
-    "title": "中国 習近平国家主席 きょうから北朝鮮訪問へ",
-    "summary": "中国の習近平国家主席は、8日から2日間の日程で北朝鮮を訪問し、キム・ジョンウン（金正恩）総書記と会談して、両国の結束を改めて確認する見通しです。北朝鮮が核開発を進める中、朝鮮半島情勢やアメリカとの関係などをめぐって、どのような意見が交わされるのかも注目されます。",
-    "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143601000.html",
-    "published": "2026-06-08T05:41:45+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "east_asia",
-      "north_america"
-    ]
-  },
-  {
     "id": "ec627fcc5bce",
     "title": "ゼレンスキー大統領が英仏独首脳と会談 打開策探るねらいか",
     "summary": "ウクライナのゼレンスキー大統領は7日、ロンドンを訪れ、イギリス、フランス、ドイツの首脳と会談を行いました。ロシアがゼレンスキー大統領からの戦闘終結に向けた会談の呼びかけを拒否する中、防空体制や今後の外交について意見を交わし、打開策を探るねらいがあるとみられます。",
@@ -51,6 +65,85 @@
     "language": "ja",
     "regions": [
       "europe"
+    ]
+  },
+  {
+    "id": "f2b73d653217",
+    "title": "How Mexican cartels turned South African farms into meth production hubs",
+    "summary": "Raids on South African farms have uncovered meth labs linked to Mexican networks, signalling a new cartel phase.",
+    "url": "https://www.aljazeera.com/news/2026/6/8/how-mexican-cartels-turned-south-african-farms-into-meth-production-hubs?traffic_source=rss",
+    "published": "2026-06-08T01:30:23+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "153476e79a61",
+    "title": "Oppenheimer: Trump holds the reins on Netanyahu’s escalation options",
+    "summary": "Israeli PM Benjamin Netanyahu has incentives to escalate tensions with Iran but is constrained by US President Trump.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/oppenheimer-trump-holds-the-reins-on-netanyahus-escalation-options?traffic_source=rss",
+    "published": "2026-06-08T01:03:38+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "9bc8745bda43",
+    "title": "Powerful earthquake hits Philippines, triggering tsunami alerts across Asia",
+    "summary": "Officials in Indonesia, the Philippines, and Japan warn of possible tsunami waves after an earthquake off Mindanao.",
+    "url": "https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines?traffic_source=rss",
+    "published": "2026-06-08T00:23:18+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia",
+      "southeast_asia"
+    ]
+  },
+  {
+    "id": "47d619295ff9",
+    "title": "Iran and Israel trade threats after Tehran launches missiles",
+    "summary": "Iran and Israel exchanged threats after Tehran launched missiles towards Israel in response to Israeli strikes on Beirut",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss",
+    "published": "2026-06-08T00:13:30+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "303cfa481e27",
+    "title": "Iran war live: Explosions in Tehran, Isfahan as Israel launches attacks",
+    "summary": "Escalation comes after Israel attacked Lebanon's capital, Beirut, killing at least two people and wounding 20.",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
+    "published": "2026-06-08T00:00:00+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "1cab69f7f824",
+    "title": "North Korea’s Kim Jong Un inspects munitions at weapons factory",
+    "summary": "North Korea has released photos of Kim Jong Un inspecting huge munitions at a weapons factory",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/north-koreas-kim-jong-un-inspects-munitions-at-weapons-factory-2?traffic_source=rss",
+    "published": "2026-06-07T22:38:05+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia"
     ]
   },
   {
@@ -223,19 +316,6 @@
     "language": "en",
     "regions": [
       "middle_east"
-    ]
-  },
-  {
-    "id": "1d3b761b5cde",
-    "title": "From online class to Revolution Square: A Tehran teacher’s routine amid war",
-    "summary": "Al Jazeera follows a teacher who navigates a new life marked by a weak internet, soaring prices, and solidarity rallies.",
-    "url": "https://www.aljazeera.com/economy/2026/6/7/from-online-class-to-revolution-square-a-tehran-teachers-routine-amid-war?traffic_source=rss",
-    "published": "2026-06-07T15:44:21+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   },
   {
