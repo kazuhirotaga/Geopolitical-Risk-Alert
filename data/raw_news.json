@@ -1,5 +1,33 @@
 [
   {
+    "id": "f9e692a9bf19",
+    "title": "米国防総省 中国軍と関わりある企業に百度・アリババなど追加",
+    "summary": "アメリカ国防総省は、中国軍と関わりがあるとする企業のリストに、IT大手「百度」やネット通販大手「アリババグループ」などを追加すると発表しました。こうした企業は、今後、国防総省との取り引きができなくなり、欧米メディアは「米中両国の間に緊張を生む可能性もある」などと伝えています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260609/k10015144781000.html",
+    "published": "2026-06-09T19:42:41+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "north_america"
+    ]
+  },
+  {
+    "id": "7055d54d456c",
+    "title": "中国 習近平国家主席 北朝鮮訪問終え帰国",
+    "summary": "北朝鮮を訪問していた中国の習近平国家主席は、9日午後、2日間の日程を終えて帰国しました。7年ぶりとなる今回の訪朝では、両国が伝統的な友好関係を発展させることで一致する一方、北朝鮮の核開発やアメリカとの関係について議論されたかは明らかにされていません。",
+    "url": "http://www3.nhk.or.jp/news/html/20260609/k10015145211000.html",
+    "published": "2026-06-09T19:41:23+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "north_america"
+    ]
+  },
+  {
     "id": "be97b615d3c3",
     "title": "米大統領「あと1、2日で見通しつく」と発言も協議の行方不透明",
     "summary": "イランとイスラエルは8日にかけて、ことし4月の停戦合意以降、初めて互いに攻撃を行い、その後、双方は攻撃の停止を表明しました。アメリカのトランプ大統領は9日、戦闘終結に向けたイランとの協議について「あと1日か2日で少なくともある程度の見通しがつくだろう」などと述べ、進展を強調しましたが、イスラエルによるレバノンへの攻撃にイランが強く反発することも予想され、協議の行方は依然、不透明な情勢です。",
@@ -11,6 +39,19 @@
     "regions": [
       "middle_east",
       "north_america"
+    ]
+  },
+  {
+    "id": "741b3faa9bdc",
+    "title": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
+    "summary": "Protesters are concerned about cross-border infection risks and the lack of transparency from the government about the treatment centre.",
+    "url": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-06-09T15:08:50+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
     ]
   },
   {
@@ -28,17 +69,42 @@
     ]
   },
   {
-    "id": "f9e692a9bf19",
-    "title": "米国防総省 中国軍と関わりある企業に百度・アリババなど追加",
-    "summary": "アメリカ国防総省は、中国軍と関わりがあるとする企業のリストに、IT大手「百度」やネット通販大手「アリババグループ」などを追加すると発表しました。こうした企業は、今後、国防総省との取り引きができなくなり、欧米メディアは「米中両国の間に緊張を生む可能性もある」などと伝えています。",
-    "url": "http://www3.nhk.or.jp/news/html/20260609/k10015144781000.html",
-    "published": "2026-06-09T14:03:45+09:00",
-    "source_name": "NHK World",
+    "id": "e77a52fa7da1",
+    "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
+    "summary": "Experts say the current crisis is part of a deeper, long-running debate about governance in the region.",
+    "url": "https://www.aljazeera.com/news/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on?traffic_source=rss",
+    "published": "2026-06-09T13:58:09+00:00",
+    "source_name": "Al Jazeera",
     "source_type": "media",
-    "language": "ja",
+    "language": "en",
     "regions": [
-      "east_asia",
-      "north_america"
+      "south_asia"
+    ]
+  },
+  {
+    "id": "f8c109637fef",
+    "title": "'Please send help': Crew's distress call after ship hit by US missile",
+    "summary": "The crew of a sanctioned oil tanker were rescued off Oman after it was struck by a missile fired from a US fighter jet.",
+    "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-06-09T13:42:26+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "bade912f4576",
+    "title": "Trump says in ‘final throes’ of peace deal but at least 8 killed in Lebanon",
+    "summary": "The US president warned Netanyahu he would be on his own if attacks continue after Israel and Iran paused fighting.",
+    "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss",
+    "published": "2026-06-09T13:41:52+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -52,6 +118,19 @@
     "language": "ja",
     "regions": [
       "north_america"
+    ]
+  },
+  {
+    "id": "a1aede102215",
+    "title": "Why are Nigeria-South Africa tensions rising amid xenophobic attacks?",
+    "summary": "It's not the first time the two African giants have gone head-to-head over attacks on their nationals.",
+    "url": "https://www.aljazeera.com/news/2026/6/9/why-are-nigeria-south-africa-tensions-rising-amid-xenophobic-attacks?traffic_source=rss",
+    "published": "2026-06-09T13:14:37+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
     ]
   },
   {
@@ -69,6 +148,46 @@
     ]
   },
   {
+    "id": "fd1e6341fd40",
+    "title": "Security Council LIVE: Central Africa in the spotlight, including outlawed Lord's Resistance Army",
+    "summary": "The Security Council meets this morning to discuss the situation in Central Africa, including efforts to combat the so-called Lord’s Resistance Army (LRA), one of the region’s longest-running security threats, responsible for over 100,000 deaths, the UN estimates. Ambassadors have been briefed by the regional office (UNOCA) and its strategy for improving civilian protection, humanitarian access and cross-border cooperation.",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167680",
+    "published": "2026-06-09T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "9ac86d225456",
+    "title": "Hundred days of Israel’s latest war on Lebanon",
+    "summary": "Israel's second intensification of its war on Lebanon within two years has reached 100 days, killing thousands.",
+    "url": "https://www.aljazeera.com/features/2026/6/9/hundred-days-of-israels-latest-war-on-lebanon?traffic_source=rss",
+    "published": "2026-06-09T10:37:40+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
+    "id": "951781258a3d",
+    "title": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
+    "summary": "Ukraine's president hopes to reinvigorate diplomacy after 'very positive' talks with US envoys and European leaders.",
+    "url": "https://www.aljazeera.com/news/2026/6/9/russian-attacks-kill-5-in-ukraine-as-zelenskyy-hails-talks-with-us-envoys?traffic_source=rss",
+    "published": "2026-06-09T10:18:17+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
     "id": "cf0333f18351",
     "title": "クシュナー氏関連のリゾート建設計画に抗議広がる アルバニア",
     "summary": "アメリカのトランプ大統領の娘の夫、クシュナー氏の会社が関わる高級リゾート施設の建設計画がバルカン半島の国、アルバニアを揺るがしています。環境への影響が懸念されるとして計画中止を求める抗議デモが連日、行われ、計画がアルバニアのEU＝ヨーロッパ連合への加盟交渉に影響する可能性も指摘されています。",
@@ -80,6 +199,19 @@
     "regions": [
       "europe",
       "north_america"
+    ]
+  },
+  {
+    "id": "651700a252fe",
+    "title": "Trump courts boos at historic New York NBA Finals appearance",
+    "summary": "President Trump's appearance at Madison Square Garden overshadowed by boos, heavy security and political undertones.",
+    "url": "https://www.aljazeera.com/gallery/2026/6/9/trump-courts-boos-at-historic-new-york-nba-finals-appearance?traffic_source=rss",
+    "published": "2026-06-09T09:40:49+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
     ]
   },
   {
@@ -109,58 +241,6 @@
     ]
   },
   {
-    "id": "e13571405d11",
-    "title": "Protests erupt in Kenya over US Ebola quarantine centre in Nanyuki",
-    "summary": "Anger grows in Kenya as residents accuse the US of offloading Ebola risks onto Kenyans.",
-    "url": "https://www.aljazeera.com/news/2026/6/9/protests-erupt-in-kenya-over-us-ebola-quarantine-centre-in-nanyuki?traffic_source=rss",
-    "published": "2026-06-09T08:18:00+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "f3737eba0a21",
-    "title": "Spain cruise past Peru in final World Cup 2026 warm-up match",
-    "summary": "Mikel Oyarzabal opens the scoring after two minutes as Spain comfortably win their final World Cup warm-up in Puebla.",
-    "url": "https://www.aljazeera.com/sports/2026/6/9/spain-cruise-past-peru-in-final-world-cup-2026-warm-up-match?traffic_source=rss",
-    "published": "2026-06-09T07:45:43+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "south_america"
-    ]
-  },
-  {
-    "id": "76ba49862f2e",
-    "title": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
-    "summary": "Iran warns fighting could restart as tensions remain high and Trump urges Israel to protect the fragile ceasefire.",
-    "url": "https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds?traffic_source=rss",
-    "published": "2026-06-09T07:25:06+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "2ef08b1dc63b",
-    "title": "Iran’s lakes are vanishing: Satellite images show a deepening water crisis",
-    "summary": "Years of drought, falling rainfall and unsustainable water use have been worsened further by the US-Israel war.",
-    "url": "https://www.aljazeera.com/features/2026/6/9/irans-lakes-are-vanishing-satellite-images-show-a-deepening-water-crisis-2?traffic_source=rss",
-    "published": "2026-06-09T06:38:49+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
     "id": "c51f46aa825e",
     "title": "IAEA「キム総書記視察の工場 新たな核施設と特徴一致」",
     "summary": "IAEA＝国際原子力機関のグロッシ事務局長は8日、今月北朝鮮のキム・ジョンウン（金正恩）総書記による視察が伝えられた新たな核物質の生産工場について北西部ニョンビョン（寧辺）で建設中だった施設と特徴が一致していると報告しました。",
@@ -184,19 +264,6 @@
     "language": "ja",
     "regions": [
       "europe"
-    ]
-  },
-  {
-    "id": "60c147385e3b",
-    "title": "Nuclear weapons spending surges to record high of $119bn, report says",
-    "summary": "International Campaign to Abolish Nuclear Weapons says states spent an extra $16.8bn on their nuclear arsenals in 2025.",
-    "url": "https://www.aljazeera.com/economy/2026/6/9/nuclear-weapons-spending-surges-to-record-high-of-119bn-report-says?traffic_source=rss",
-    "published": "2026-06-09T06:20:33+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   },
   {
@@ -228,29 +295,30 @@
     ]
   },
   {
-    "id": "47819d53df97",
-    "title": "FIFA drops Somali World Cup referee after US denies him entry",
-    "summary": "Award-winning Somali referee, Omar Artan, has been removed from the World Cup roster after being denied entry into US",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/fifa-drops-somali-world-cup-referee-after-us-denies-him-entry?traffic_source=rss",
-    "published": "2026-06-09T04:37:04+00:00",
-    "source_name": "Al Jazeera",
+    "id": "7bea89469a1d",
+    "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
+    "summary": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (£3,700) per person.",
+    "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-06-09T05:00:06+00:00",
+    "source_name": "BBC - World",
     "source_type": "media",
     "language": "en",
     "regions": [
-      "africa"
+      "middle_east",
+      "europe"
     ]
   },
   {
-    "id": "a54d097fd90e",
-    "title": "Israel kills 14 in southern Lebanon after trading fire with Iran",
-    "summary": "Killings come as Iran warned of 'crushing blows' if Israeli attacks continued in Lebanon, including in the south.",
-    "url": "https://www.aljazeera.com/news/2026/6/9/israel-kills-14-in-southern-lebanon-after-trading-fire-with-iran?traffic_source=rss",
-    "published": "2026-06-09T04:34:45+00:00",
-    "source_name": "Al Jazeera",
+    "id": "873b92307a95",
+    "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
+    "summary": "Kyiv has made it difficult for Moscow to provide military and civilian supplies to the territories it occupies.",
+    "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-06-08T23:23:15+00:00",
+    "source_name": "BBC - World",
     "source_type": "media",
     "language": "en",
     "regions": [
-      "middle_east"
+      "europe"
     ]
   },
   {
@@ -317,19 +385,6 @@
     "language": "ja",
     "regions": [
       "east_asia"
-    ]
-  },
-  {
-    "id": "3749dc9904ed",
-    "title": "Kenya's ex-chief justice arrested at protest against building on national park",
-    "summary": "Activists allege there is a plan to build a car park on protected land belonging to a wildlife sanctuary.",
-    "url": "https://www.bbc.com/news/articles/cwyel0kv0zyo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-06-08T16:11:56+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   },
   {
@@ -435,20 +490,6 @@
     "source_type": "media",
     "language": "ja",
     "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "088f170d2869",
-    "title": "Zelensky's close European allies set out five conditions for peace talks",
-    "summary": "The Ukrainian president's meeting with his staunchest European allies came as US President Donald Trump's focus shifts to the war with Iran.",
-    "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-06-07T21:39:43+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
       "europe"
     ]
   },
@@ -1005,19 +1046,6 @@
     "language": "en",
     "regions": [
       "middle_east"
-    ]
-  },
-  {
-    "id": "a6a4fff05b27",
-    "title": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia war",
-    "summary": "Children in Ukraine have been profoundly impacted by years of war, sheltering in underground schools – or forced to study online – and living with the psychological strain of constant air raid sirens that could spell death for them and their families.",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167641",
-    "published": "2026-06-03T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "europe"
     ]
   },
   {
