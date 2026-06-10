@@ -1,93 +1,123 @@
 {
   "date": "2026-06-10",
-  "summary": "世界各地で社会不安が高まっており、特に南アジアのパキスタン占領下のカシミール（PoK）では、抗議デモが致命的な暴動へと発展し、多数の死傷者を出す極めて深刻な事態に陥っています。北アイルランドでも暴徒化と放火が発生し、社会秩序の混乱が見られます。東アジアの韓国や南アジアのバングラデシュ、インドなどでは、政治的公平性への不満や生活必需品不足、企業経営に関する抗議デモが継続しており、不安が増大しています。全体として、特定の地域でパニックに近い状態が見られ、国際的な監視が求められる状況です。",
-  "global_panic_index": 68,
+  "summary": "世界各地で社会不安が散見される中、南アジアのパキスタン占領カシミール(PoK)地域が最も深刻なパニック状態にあります。大規模な抗議活動が暴動化し、政府による弾圧で多数の死傷者が発生。欧州の北アイルランドでも暴動や放火が報告され、社会秩序の混乱が見られます。その他地域では、特定の政策や金融機関、生活必需品不足に対する抗議デモが主であり、広範な社会パニックには至っていないものの、潜在的な不安要素は継続しています。",
+  "global_panic_index": 46,
   "regions": [
     {
       "region": "east_asia",
-      "panic_index": 50,
+      "panic_index": 30,
       "status": "unstable",
-      "main_cause": "政治的公平性への不満",
+      "main_cause": "政治的不満",
       "incidents": [
         {
-          "title": "韓国で投票用紙不足に対する抗議デモが5日目に突入",
-          "location": "韓国（ソウル）",
-          "severity": 55,
-          "description": "選挙における投票用紙不足を巡る抗議デモが5日間にわたり継続し、警察署長が辞任する事態に発展。選挙の公平性への疑念から社会不安が広がっている。",
-          "source": "upi.com, Yonhap News Agency, Chosunbiz"
+          "title": "韓国の学生による投票用紙不足抗議デモ",
+          "location": "韓国",
+          "severity": 35,
+          "description": "韓国全土の大学生が投票用紙不足を巡る抗議デモを5日連続で実施。特定の政治的決定に対する不満が表明されていますが、現時点では秩序を保った活動に留まっています。",
+          "source": "CNA, thestar.com.my, upi.com"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 70,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "地域間の緊張、社会秩序の混乱",
+      "main_cause": "民族・移民問題、治安悪化",
       "incidents": [
         {
-          "title": "北アイルランド・ベルファストで暴動が発生し車両・建物が放火",
-          "location": "北アイルランド（ベルファスト）",
-          "severity": 75,
-          "description": "ナイフ襲撃事件後、抗議デモが暴徒化し、車両や建物が放火されるなど深刻な混乱が発生。当局が平静を呼びかける事態となっており、治安情勢が緊迫している。",
-          "source": "Al Jazeera, RTE.ie"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "人権問題、政治的抑圧",
-      "incidents": [
-        {
-          "title": "アフガニスタン・ヘラートで反ヒジャブ抗議デモが鎮圧され負傷者報告",
-          "location": "アフガニスタン（ヘラート）",
-          "severity": 50,
-          "description": "反ヒジャブを訴える抗議デモが警察によって鎮圧され、複数の負傷者が出たとの報告がある。政治的な抑圧が社会不安を引き起こしている。",
-          "source": "Pakistan Today"
+          "title": "北アイルランド・ベルファストでの暴動と放火",
+          "location": "北アイルランド、ベルファスト",
+          "severity": 80,
+          "description": "ナイフ襲撃事件をきっかけに、ベルファストで大規模な暴動が発生し、自動車や建物が放火される事態に発展。反移民デモが暴徒化し、リーダーらが沈静化を呼びかけるなど、深刻な社会秩序の混乱が見られます。",
+          "source": "Al Jazeera, RTE.ie, CNN, Reuters"
         },
         {
-          "title": "西岸地区でパレスチナ人学生拘束に抗議するデモ",
-          "location": "西岸地区",
-          "severity": 35,
-          "description": "パレスチナ人学生の拘束に対し、地元住民や宗教指導者が抗議活動を行っている。地域の緊張感は高いが、現時点では大規模なパニックには至っていない。",
-          "source": "The Church Times"
+          "title": "デモに関連する騒乱への刑罰",
+          "location": "英国",
+          "severity": 60,
+          "description": "ヘンリー・ノワック氏への抗議デモに関連する騒乱で、初の有罪判決と実刑が言い渡されました。これは抗議活動が一部で暴徒化し、司法が介入していることを示唆しています。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 85,
+      "panic_index": 90,
       "status": "critical",
-      "main_cause": "政治的弾圧、生活必需品の不足、死者発生",
+      "main_cause": "政治的抑圧、生活必需品不足、地域紛争",
       "incidents": [
         {
-          "title": "パキスタン占領下のカシミール(PoK)で致命的な抗議デモが暴動に発展、死者30人以上",
-          "location": "パキスタン占領下のカシミール（PoK）",
-          "severity": 90,
-          "description": "抗議運動への弾圧をきっかけに大規模な暴動が発生。30人以上が死亡し、数百人が負傷する流血の惨事となっている。軍による大規模攻撃も報告され、地域は極度の混乱と緊迫状態にある。",
-          "source": "Frontline Magazine, Al Jazeera, News18, Moneycontrol.com, India Today, The Sunday Guardian, Dailyhunt, dy365live.com, OdishaBytes"
+          "title": "パキスタン占領カシミール(PoK)での大規模暴動と政府弾圧",
+          "location": "パキスタン占領カシミール(PoK)",
+          "severity": 95,
+          "description": "PoKで抗議運動が激化し、治安部隊との衝突により30人以上の死者と数百人の負傷者が報告されています。政府は抗議指導者に対する大規模な攻撃を開始しており、地域全体が無秩序なパニック状態にあります。",
+          "source": "Frontline Magazine, News18, The Sunday Guardian, Dailyhunt"
         },
         {
-          "title": "バングラデシュでIslami Bank会長解任を求める抗議デモが警察と衝突、負傷者",
-          "location": "バングラデシュ",
+          "title": "水不足に対する女性たちの抗議デモ",
+          "location": "ソポア、カシミール",
+          "severity": 70,
+          "description": "カシミールのソポアで、深刻な水不足に対し女性たちが抗議デモを実施。生活必需品の欠乏は、住民の日常生活に直接的な影響を与え、社会不安を高めています。",
+          "source": "Greater Kashmir"
+        },
+        {
+          "title": "肥料不足に対する農民の抗議デモ",
+          "location": "カラブラーギ、インド",
           "severity": 65,
-          "description": "Islami Bankの会長解任を要求する抗議デモが9日間にわたり継続。警察と衝突し、デモ参加者と顧客が負傷。ストライキも呼びかけられており、金融機関への信頼に影響が出ている。",
-          "source": "Jagonews24.com, dailycountrytodaybd.com, MSN"
-        },
-        {
-          "title": "インド・カルブルギでDAP肥料供給不足に対する農民の抗議デモ",
-          "location": "インド（カルブルギ）",
-          "severity": 40,
-          "description": "農民たちがDAP肥料の適切な供給を求めて抗議デモを実施。農業生産に直結する重要な資源の不足は、地域の経済的・社会的不安を引き起こしている。",
+          "description": "インドのカラブラーギで農民たちがDAP肥料の十分な供給を求めて抗議デモを行っています。これは食料生産に直結する問題であり、農業部門における不安が顕在化しています。",
           "source": "The Hindu"
         },
         {
-          "title": "カシミール・ソポレで深刻な水不足に対する女性たちの抗議デモ",
-          "location": "カシミール（ソポレ）",
+          "title": "アフガニスタンでの反ヒジャブ抗議活動と鎮圧",
+          "location": "ヘラート、アフガニスタン",
+          "severity": 85,
+          "description": "アフガニスタンのヘラートで反ヒジャブ抗議活動が警察によって鎮圧され、死傷者が出たとの報告があります。政治的・宗教的抑圧が深刻な社会不安と衝突を引き起こしています。",
+          "source": "Pakistan Today"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "エネルギー政策への不満",
+      "incidents": [
+        {
+          "title": "アジア開発銀行（ADB）に対するエネルギー危機抗議",
+          "location": "オルティガス・センター、マニラ、フィリピン",
           "severity": 45,
-          "description": "深刻な水不足に対し、女性たちが抗議デモを行っている。生活必需品の欠乏は人々の不安を募らせ、社会的な不満を高める原因となっている。",
-          "source": "Greater Kashmir"
+          "description": "市民社会組織がアジア開発銀行（ADB）に対し、世界のエネルギー危機における役割を非難する抗議デモを実施。エネルギー政策への不満が公に表明されています。",
+          "source": "facebook.com"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "政治的な不満",
+      "incidents": [
+        {
+          "title": "メキシコ市でのデモと大使館による注意喚起",
+          "location": "メキシコシティ、メキシコ",
+          "severity": 40,
+          "description": "メキシコ市でデモ活動が計画されており、大使館が市民に対し注意喚起を発令。デモの内容は不明ですが、公共の安全に影響を及ぼす可能性が懸念されています。",
+          "source": "時事ドットコム"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "政治的抑圧、地域紛争",
+      "incidents": [
+        {
+          "title": "西岸地区でのパレスチナ人学生拘留に対する抗議",
+          "location": "西岸地区",
+          "severity": 40,
+          "description": "司教らが2人目のパレスチナ人キリスト教徒学生の拘留に抗議しています。これは地域の政治的緊張と人権問題に対する懸念が高まっていることを示唆しています。",
+          "source": "The Church Times"
         }
       ]
     },
@@ -95,14 +125,29 @@
       "region": "north_america",
       "panic_index": 25,
       "status": "stable",
-      "main_cause": "特定の政治的・経済的主張",
+      "main_cause": "金融機関への不満",
       "incidents": [
         {
-          "title": "米国でCitizens Bankに対する「De-ICE」全国行動週間への参加",
-          "location": "米国（ワタタウン）",
+          "title": "DE-ICE Citizens Bank全国行動週間に参加するグループ",
+          "location": "ウォータータウン、アメリカ",
           "severity": 25,
-          "description": "市民団体が特定の銀行に対する全国的な抗議行動に参加している。組織的なデモであり、社会秩序を乱すようなパニック状態には至っていない。",
+          "description": "ウォータータウンのグループが「DE-ICE Citizens Bank National Week of Action」に参加。特定の金融機関に対する組織的な抗議活動が小規模に行われています。",
           "source": "watertownmanews.com"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 20,
+      "status": "stable",
+      "main_cause": "教育機関の問題",
+      "incidents": [
+        {
+          "title": "学校の混乱に対する抗議を称賛するケニア人",
+          "location": "ミゴリ、ケニア",
+          "severity": 20,
+          "description": "ミゴリの少年たちが学校の混乱に抗議した行動がケニア人に称賛されています。これは特定の教育機関内の問題に対する抗議であり、社会全体のパニックには至っていません。",
+          "source": "Tuko News"
         }
       ]
     }
