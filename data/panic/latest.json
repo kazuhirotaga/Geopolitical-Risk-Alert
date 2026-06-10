@@ -1,108 +1,100 @@
 {
   "date": "2026-06-10",
-  "summary": "世界各地で社会不安が高まっており、特にヨーロッパ（北アイルランド）と南アジア（パキスタン管理カシミール、インド管理カシミール）で深刻な混乱が見られます。ヨーロッパでは反移民感情に端を発する暴動が激化し、車両放火や学校閉鎖にまで至っています。南アジアでは政治的緊張、資源不足、金融不安が複合的に社会を不安定化させています。東アジアや中東、北米でもそれぞれ異なる要因による抗議活動や金融システムへの懸念が報告されており、世界全体で警戒すべきレベルの社会不安が広がっています。",
-  "global_panic_index": 65,
+  "summary": "世界各地では、経済的不満、資源不足、政治的緊張が背景にある抗議デモが広範に見られます。特に英国北アイルランドでは、移民排斥を背景とした暴動や放火、警察の厳戒態勢が敷かれ、深刻な社会秩序の混乱に陥っています。南アジアでは生活必需品の不足に対する抗議や政治的抑圧が緊迫感を高め、東アジアでは民主主義プロセスへの不信が表面化しています。全体として広範な社会不安が募る一方で、一部地域ではパニックに近い状況が見られます。",
+  "global_panic_index": 58,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 80,
-      "status": "volatile",
-      "main_cause": "反移民感情に起因する暴動、生活費高騰",
-      "incidents": [
-        {
-          "title": "北アイルランドでの反移民暴動と略奪",
-          "location": "イギリス（北アイルランド・ベルファスト）",
-          "severity": 90,
-          "description": "スーダン出身の難民による刺傷事件をきっかけに、大規模な反移民デモが暴徒化。車両や建物への放火、略奪が発生し、一部の学校が閉鎖されるなど、社会秩序が深刻な影響を受けています。",
-          "source": "CBS News, The Washington Post, Al Jazeera 他"
-        },
-        {
-          "title": "マドリードでの家賃高騰・住宅不足抗議デモ",
-          "location": "スペイン（マドリード）",
-          "severity": 50,
-          "description": "市民が家賃高騰と深刻な住宅不足に対し、大規模な抗議デモを実施。生活コスト上昇への不満が噴出していますが、現時点では暴徒化の報告はありません。",
-          "source": "DW"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "政治的緊張、資源不足、金融システムへの不信",
+      "main_cause": "移民排斥感情、治安悪化、経済的不満",
       "incidents": [
         {
-          "title": "パキスタン管理カシミールでの抗議活動と政府の弾圧",
-          "location": "パキスタン管理カシミール（PoK）",
-          "severity": 70,
-          "description": "地域は緊張状態にあり、抗議活動のリーダーに対して逮捕状や懸賞金がかけられるなど、政府による弾圧が報告されています。大規模な社会不安が背景にあると見られます。",
-          "source": "India Today, Mathrubhumi English"
+          "title": "北アイルランドでの反移民暴動と放火",
+          "location": "英国・ベルファスト",
+          "severity": 85,
+          "description": "スーダン人による刺傷事件をきっかけに、ベルファストで反移民暴動が発生。車両や建物への放火、暴力的衝突が複数夜にわたり発生し、警察が街頭に動員され、社会秩序が危機に瀕しています。",
+          "source": "The Washington Post, CBS News, Al Jazeera, 日本経済新聞 他"
         },
         {
-          "title": "インド管理カシミールでの深刻な水不足抗議",
-          "location": "インド（ソポレ）",
-          "severity": 65,
-          "description": "ソポレ地域の女性たちが、深刻な水不足に抗議し、即座の供給回復を要求するデモを実施。生活インフラの不足が住民の切迫した不安を引き起こしています。",
-          "source": "Kashmir Media Service, Greater Kashmir"
+          "title": "外国人に対する「ヒットリスト」の噂",
+          "location": "英国・ベルファスト",
+          "severity": 75,
+          "description": "ベルファストの騒乱の中で、外国人に対する「ヒットリスト」が存在するという噂が広がり、警察が警戒を強化しています。これは地域社会における恐怖と不信感を増幅させています。",
+          "source": "AFR"
         },
         {
-          "title": "バングラデシュでの銀行経営陣辞任要求デモ",
-          "location": "バングラデシュ（推定）",
-          "severity": 50,
-          "description": "顧客団体が財務省に対し、イスラミ銀行会長の辞任を求める覚書を提出。銀行経営への不満が金融システムへの不信感へとつながる可能性があり、今後の動向が注目されます。",
-          "source": "The Business Standard"
+          "title": "マドリードでの家賃・住宅不足抗議デモ",
+          "location": "スペイン・マドリード",
+          "severity": 30,
+          "description": "マドリードでは、高騰する家賃と深刻な住宅不足に対し、市民が大規模な抗議デモを実施しています。経済的な不満が社会的な動きへと繋がっています。",
+          "source": "DW.com"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 60,
+      "panic_index": 50,
       "status": "unstable",
-      "main_cause": "政治的公平性への懸念",
+      "main_cause": "政治的不信、民主主義プロセスへの懸念",
       "incidents": [
         {
-          "title": "韓国の学生による投票用紙不足への抗議デモ",
+          "title": "韓国での投票用紙不足に対する学生抗議",
           "location": "韓国",
-          "severity": 60,
-          "description": "大学の学生たちが投票用紙不足を巡って抗議デモを実施し、警察官への暴力も報告されています。民主主義の根幹に関わる問題が、社会不安を引き起こしています。",
-          "source": "CNA, Yonhap News Agency 他"
+          "severity": 50,
+          "description": "韓国の大学学生らが投票用紙不足問題を巡り、全国各地で抗議デモを実施。一部では警察官に対する暴力行為も報告されており、政治プロセスへの不満が高まっています。",
+          "source": "朝鮮日報, CNA, Yonhap News Agency"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 55,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "地域紛争による緊張",
+      "main_cause": "地域紛争、民族間対立",
       "incidents": [
         {
-          "title": "イスラエル入植者による消火活動の妨害",
-          "location": "西岸地区",
-          "severity": 60,
-          "description": "パレスチナ人によると、キリスト教徒の西岸地区の村近くで発生した火災に対し、イスラエル人入植者が消火活動を妨害したと報じられています。紛争地域の緊張が、人道支援活動にも影響を与えています。",
+          "title": "西岸地区での消防活動妨害",
+          "location": "イスラエル・西岸地区",
+          "severity": 45,
+          "description": "パレスチナ人によると、キリスト教徒の村付近で発生した火災に対し、イスラエル人入植者が消防活動を妨害したとされています。既存の紛争地域における緊張の一端を示しています。",
           "source": "Reuters"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "金融システムへの懸念",
+      "region": "south_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "生活インフラ不足、資源不足、政治的抑圧",
       "incidents": [
         {
-          "title": "米国の銀行への抗議と資金引き出し",
-          "location": "アメリカ合衆国",
-          "severity": 50,
-          "description": "市民団体が特定の銀行に対する抗議活動を行い、口座からの資金引き出しを推奨。小規模ながらも金融機関への不信感が表面化しており、取り付け騒ぎに発展する潜在的なリスクを抱えています。",
-          "source": "WBZ NewsRadio 1030"
+          "title": "カシミール地方での深刻な水不足抗議",
+          "location": "インド・ソポール（カシミール地方）",
+          "severity": 65,
+          "description": "カシミール地方のソポールでは、女性たちが急性的な水不足に対し抗議デモを行い、緊急の供給回復を求めています。生活の根幹に関わる問題が住民の深刻な不安を引き起こしています。",
+          "source": "Kashmir Media Service, Greater Kashmir"
         },
         {
-          "title": "FDICのステーブルコイン計画が預金保険基金を脅かす懸念",
-          "location": "アメリカ合衆国",
+          "title": "パキスタン管理下のカシミール地域での抗議と弾圧",
+          "location": "パキスタン管理下のカシミール地域（PoK）",
+          "severity": 60,
+          "description": "パキスタン管理下のカシミール地域は緊張状態にあり、抗議活動のリーダーに対して逮捕状が発行され、多額の懸賞金がかけられるなど、当局による弾圧が報告されています。",
+          "source": "India Today, Mathrubhumi English"
+        },
+        {
+          "title": "インドでの肥料不足に対する農民抗議",
+          "location": "インド・アムリトサル",
           "severity": 40,
-          "description": "米連邦預金保険公社(FDIC)のステーブルコインに関する計画が、将来的に預金保険基金を脅かす可能性が指摘されています。これは金融システムの安定性への潜在的な不安を示唆しています。",
-          "source": "Investing.com UK"
+          "description": "アムリトサルでは、尿素や肥料の不足に対して農民が抗議デモを行っています。食料生産に直結する資源不足が農業従事者の不満を募らせています。",
+          "source": "The News Mill"
+        },
+        {
+          "title": "イスラミ銀行会長辞任要求デモ",
+          "location": "バングラデシュ",
+          "severity": 45,
+          "description": "イスラミ銀行の顧客フォーラムが財務省に対し、会長の辞任を求める覚書を提出しました。特定の金融機関への不信感が表面化しています。",
+          "source": "The Business Standard"
         }
       ]
     },
@@ -110,14 +102,44 @@
       "region": "southeast_asia",
       "panic_index": 40,
       "status": "unstable",
-      "main_cause": "エネルギー危機への不満",
+      "main_cause": "エネルギー問題、国際機関への不信",
       "incidents": [
         {
-          "title": "アジア開発銀行（ADB）に対するエネルギー危機抗議デモ",
-          "location": "フィリピン（マニラ）",
+          "title": "ADBへの抗議とエネルギー危機への非難",
+          "location": "フィリピン・マンダルヨン市",
           "severity": 40,
-          "description": "市民社会団体が、世界的なエネルギー危機におけるADBの役割に抗議するデモをマニラのADB本部前で実施。エネルギー供給問題への不満が表明されていますが、暴徒化の報告はありません。",
+          "description": "市民社会団体がアジア開発銀行（ADB）に対し、世界的なエネルギー危機におけるADBの役割を非難する抗議活動を実施しました。国際機関への不信感とエネルギー問題への懸念が背景にあります。",
           "source": "facebook.com"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 35,
+      "status": "stable",
+      "main_cause": "政治的抗議、移民政策への反発",
+      "incidents": [
+        {
+          "title": "反ICE抗議活動による銀行からの資金引き出し",
+          "location": "米国・マサチューセッツ州",
+          "severity": 35,
+          "description": "移民税関捜査局（ICE）に反対する信仰団体が、抗議活動の一環として市民銀行から200万ドルを引き出しました。これは特定の政治的主張に基づく行動であり、広範な取り付け騒ぎではありません。",
+          "source": "The Boston Globe, WBZ NewsRadio 1030"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "地域の不安定化、若者層の不満",
+      "incidents": [
+        {
+          "title": "ケニアの学校における騒乱",
+          "location": "ケニア",
+          "severity": 40,
+          "description": "ケニアのミゴリ男子学校で発生した騒乱（unrest）について、冷静な対応が称賛されています。具体的な詳細は不明ですが、学校内での混乱が示唆されています。",
+          "source": "Tuko News"
         }
       ]
     }
