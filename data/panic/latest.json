@@ -1,117 +1,110 @@
 {
-  "date": "2026-06-09",
-  "summary": "世界全体では、パキスタン管理下のカシミール(PoK)における大規模なデモ鎮圧が暴動化し、多数の死傷者と物資不足、通信規制を伴う深刻なパニック状態に陥っています。インドでも肥料や飲料水の不足を訴える抗議活動が広範に発生し、市民の生活不安が高まっています。また、北アイルランドでは地域的な治安悪化と暴動が報告されており、一部地域で社会秩序の不安定化が見られます。",
-  "global_panic_index": 60,
+  "date": "2026-06-10",
+  "summary": "世界各地で社会不安が高まっており、特に南アジアのパキスタン占領下のカシミール（PoK）では、抗議デモが致命的な暴動へと発展し、多数の死傷者を出す極めて深刻な事態に陥っています。北アイルランドでも暴徒化と放火が発生し、社会秩序の混乱が見られます。東アジアの韓国や南アジアのバングラデシュ、インドなどでは、政治的公平性への不満や生活必需品不足、企業経営に関する抗議デモが継続しており、不安が増大しています。全体として、特定の地域でパニックに近い状態が見られ、国際的な監視が求められる状況です。",
+  "global_panic_index": 68,
   "regions": [
     {
-      "region": "south_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "政府によるデモ鎮圧、物資不足、政治的抑圧",
+      "region": "east_asia",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "政治的公平性への不満",
       "incidents": [
         {
-          "title": "PoKで大規模な抗議活動が暴動化、死傷者多数",
-          "location": "パキスタン管理下のカシミール(PoK)",
-          "severity": 95,
-          "description": "パキスタン管理下のカシミール(PoK)で、政府によるデモ鎮圧が暴動に発展。死傷者多数、食料・電力不足、インターネット規制が深刻化し、外出禁止令が発令されるなど、住民は極度の不安と混乱に陥っている。複数の報道で食料不足も指摘されている。",
-          "source": "Al Jazeera, Frontline Magazine, News18, The Sunday Guardian, Dailyhunt, ABP News, MSN"
-        },
-        {
-          "title": "インド全土で肥料不足を訴える農民デモが拡大",
-          "location": "インド (パンジャブ州、カルブールギなど)",
-          "severity": 65,
-          "description": "インド各地の農民が、尿素やDAP肥料の深刻な供給不足に抗議する大規模デモを展開。必要な量の1/3程度しか供給されていない地域もあり、国全体の食料生産への影響が懸念され、農業従事者の間で経済的な不安が広がっている。",
-          "source": "Bangkok Post, The Hindu, NewsBytes, MSN"
-        },
-        {
-          "title": "インド各地で飲料水不足に対する抗議活動",
-          "location": "インド (ジャイプール、ハイデラバードなど)",
-          "severity": 60,
-          "description": "ジャイプールなどで飲料水不足に対する抗議活動が発生。学生らがHODの冷蔵庫を使用するなどユニークな方法で窮状を訴える一方、一部地域では水供給事務所前で政治団体によるデモも行われ、生活必需品の確保に対する市民の切迫した状況が浮き彫りになっている。",
-          "source": "MSN, Dailyhunt"
-        },
-        {
-          "title": "バングラデシュのイスラミ銀行で会長解任求める抗議",
-          "location": "バングラデシュ",
-          "severity": 35,
-          "description": "バングラデシュのIslami Bankの会長解任を求める抗議デモが9日間にわたり継続。特定の金融機関に対する不満が示されているものの、広範な金融システムへの取り付け騒ぎやパニックには至っていない。",
-          "source": "Jagonews24.com"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "政治的抑圧、抗議活動の暴力化",
-      "incidents": [
-        {
-          "title": "アフガニスタンで反ヒジャブデモ鎮圧、死傷者発生",
-          "location": "アフガニスタン (ヘラート)",
-          "severity": 70,
-          "description": "アフガニスタンのヘラートで反ヒジャブデモが警察によって鎮圧され、死傷者も報告されている。政治的抑圧に対する抗議が暴力的にエスカレートし、地域住民の間で緊張が高まっている。",
-          "source": "Pakistan Today"
+          "title": "韓国で投票用紙不足に対する抗議デモが5日目に突入",
+          "location": "韓国（ソウル）",
+          "severity": 55,
+          "description": "選挙における投票用紙不足を巡る抗議デモが5日間にわたり継続し、警察署長が辞任する事態に発展。選挙の公平性への疑念から社会不安が広がっている。",
+          "source": "upi.com, Yonhap News Agency, Chosunbiz"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 75,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "地域紛争、治安悪化",
+      "main_cause": "地域間の緊張、社会秩序の混乱",
       "incidents": [
         {
-          "title": "北アイルランド・ベルファストで暴力的な秩序の乱れ",
-          "location": "英国 (北アイルランド・ベルファスト)",
+          "title": "北アイルランド・ベルファストで暴動が発生し車両・建物が放火",
+          "location": "北アイルランド（ベルファスト）",
           "severity": 75,
-          "description": "北アイルランドのベルファストで、仮面をかぶった男たちによる家屋襲撃や、バスや車の放火など、継続的な暴力と秩序の乱れが発生。市民の間に地域的な治安悪化と恐怖が広がっている。",
-          "source": "The Guardian, RTE.ie"
-        },
-        {
-          "title": "スコットランドで銀行支店閉鎖に数百人が抗議",
-          "location": "英国 (スコットランド)",
-          "severity": 30,
-          "description": "ロイヤルバンクオブスコットランドの支店閉鎖に対し、数百人が抗議デモを実施。地域経済への影響を懸念する声が上がっているが、取り付け騒ぎのような広範な金融パニックには発展していない。",
-          "source": "streamlinefeed.co.ke"
+          "description": "ナイフ襲撃事件後、抗議デモが暴徒化し、車両や建物が放火されるなど深刻な混乱が発生。当局が平静を呼びかける事態となっており、治安情勢が緊迫している。",
+          "source": "Al Jazeera, RTE.ie"
         }
       ]
     },
     {
-      "region": "south_america",
+      "region": "middle_east",
       "panic_index": 45,
       "status": "unstable",
-      "main_cause": "経済不安 (インフレ、為替レート)",
+      "main_cause": "人権問題、政治的抑圧",
       "incidents": [
         {
-          "title": "ベネズエラでインフレと為替レートのギャップが継続",
-          "location": "ベネズエラ",
-          "severity": 45,
-          "description": "ベネズエラでは月間インフレ率が18ヶ月ぶりの低水準を記録したものの、為替レートのギャップは解消されず、経済の不安定な状況が続いている。直接的なパニック行動は報じられていないが、市民生活への影響は依然として大きく、潜在的な社会不安要因となっている。",
-          "source": "Venezuelanalysis"
+          "title": "アフガニスタン・ヘラートで反ヒジャブ抗議デモが鎮圧され負傷者報告",
+          "location": "アフガニスタン（ヘラート）",
+          "severity": 50,
+          "description": "反ヒジャブを訴える抗議デモが警察によって鎮圧され、複数の負傷者が出たとの報告がある。政治的な抑圧が社会不安を引き起こしている。",
+          "source": "Pakistan Today"
+        },
+        {
+          "title": "西岸地区でパレスチナ人学生拘束に抗議するデモ",
+          "location": "西岸地区",
+          "severity": 35,
+          "description": "パレスチナ人学生の拘束に対し、地元住民や宗教指導者が抗議活動を行っている。地域の緊張感は高いが、現時点では大規模なパニックには至っていない。",
+          "source": "The Church Times"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "政治プロセスへの不満",
+      "region": "south_asia",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "政治的弾圧、生活必需品の不足、死者発生",
       "incidents": [
         {
-          "title": "韓国で投票用紙不足に対する抗議デモが継続",
-          "location": "韓国",
-          "severity": 30,
-          "description": "韓国で投票用紙不足に対する抗議デモが5日間にわたり継続。選挙プロセスの透明性や公正性への懸念から市民が声を上げているが、暴力的な衝突や広範な社会パニックは報告されていない。",
-          "source": "upi.com"
+          "title": "パキスタン占領下のカシミール(PoK)で致命的な抗議デモが暴動に発展、死者30人以上",
+          "location": "パキスタン占領下のカシミール（PoK）",
+          "severity": 90,
+          "description": "抗議運動への弾圧をきっかけに大規模な暴動が発生。30人以上が死亡し、数百人が負傷する流血の惨事となっている。軍による大規模攻撃も報告され、地域は極度の混乱と緊迫状態にある。",
+          "source": "Frontline Magazine, Al Jazeera, News18, Moneycontrol.com, India Today, The Sunday Guardian, Dailyhunt, dy365live.com, OdishaBytes"
+        },
+        {
+          "title": "バングラデシュでIslami Bank会長解任を求める抗議デモが警察と衝突、負傷者",
+          "location": "バングラデシュ",
+          "severity": 65,
+          "description": "Islami Bankの会長解任を要求する抗議デモが9日間にわたり継続。警察と衝突し、デモ参加者と顧客が負傷。ストライキも呼びかけられており、金融機関への信頼に影響が出ている。",
+          "source": "Jagonews24.com, dailycountrytodaybd.com, MSN"
+        },
+        {
+          "title": "インド・カルブルギでDAP肥料供給不足に対する農民の抗議デモ",
+          "location": "インド（カルブルギ）",
+          "severity": 40,
+          "description": "農民たちがDAP肥料の適切な供給を求めて抗議デモを実施。農業生産に直結する重要な資源の不足は、地域の経済的・社会的不安を引き起こしている。",
+          "source": "The Hindu"
+        },
+        {
+          "title": "カシミール・ソポレで深刻な水不足に対する女性たちの抗議デモ",
+          "location": "カシミール（ソポレ）",
+          "severity": 45,
+          "description": "深刻な水不足に対し、女性たちが抗議デモを行っている。生活必需品の欠乏は人々の不安を募らせ、社会的な不満を高める原因となっている。",
+          "source": "Greater Kashmir"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "N/A",
-      "incidents": []
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "特定の政治的・経済的主張",
+      "incidents": [
+        {
+          "title": "米国でCitizens Bankに対する「De-ICE」全国行動週間への参加",
+          "location": "米国（ワタタウン）",
+          "severity": 25,
+          "description": "市民団体が特定の銀行に対する全国的な抗議行動に参加している。組織的なデモであり、社会秩序を乱すようなパニック状態には至っていない。",
+          "source": "watertownmanews.com"
+        }
+      ]
     }
   ]
 }
