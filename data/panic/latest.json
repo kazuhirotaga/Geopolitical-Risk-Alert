@@ -1,152 +1,144 @@
 {
   "date": "2026-06-10",
-  "summary": "世界各地で社会不安が散見される中、南アジアのパキスタン占領カシミール(PoK)地域が最も深刻なパニック状態にあります。大規模な抗議活動が暴動化し、政府による弾圧で多数の死傷者が発生。欧州の北アイルランドでも暴動や放火が報告され、社会秩序の混乱が見られます。その他地域では、特定の政策や金融機関、生活必需品不足に対する抗議デモが主であり、広範な社会パニックには至っていないものの、潜在的な不安要素は継続しています。",
-  "global_panic_index": 46,
+  "summary": "世界各地では、経済的困難、民族・移民問題、政治的抑圧を背景とした社会不安が増大しています。特に、英国北アイルランドのベルファストでは反移民暴動が激化し、車両放火や学校閉鎖に発展。パキスタン占領下のカシミールでは多数の死傷者を伴う大規模デモが発生し、アフガニスタンでも警察によるデモ鎮圧で死傷者が出るなど、一部地域で社会秩序の崩壊が危惧される深刻なパニック状態が確認されています。全体的な緊迫度は中程度から高レベルで推移しています。",
+  "global_panic_index": 58,
   "regions": [
-    {
-      "region": "east_asia",
-      "panic_index": 30,
-      "status": "unstable",
-      "main_cause": "政治的不満",
-      "incidents": [
-        {
-          "title": "韓国の学生による投票用紙不足抗議デモ",
-          "location": "韓国",
-          "severity": 35,
-          "description": "韓国全土の大学生が投票用紙不足を巡る抗議デモを5日連続で実施。特定の政治的決定に対する不満が表明されていますが、現時点では秩序を保った活動に留まっています。",
-          "source": "CNA, thestar.com.my, upi.com"
-        }
-      ]
-    },
     {
       "region": "europe",
       "panic_index": 75,
       "status": "volatile",
-      "main_cause": "民族・移民問題、治安悪化",
+      "main_cause": "民族・移民問題、経済格差、生活困窮",
       "incidents": [
         {
-          "title": "北アイルランド・ベルファストでの暴動と放火",
-          "location": "北アイルランド、ベルファスト",
-          "severity": 80,
-          "description": "ナイフ襲撃事件をきっかけに、ベルファストで大規模な暴動が発生し、自動車や建物が放火される事態に発展。反移民デモが暴徒化し、リーダーらが沈静化を呼びかけるなど、深刻な社会秩序の混乱が見られます。",
-          "source": "Al Jazeera, RTE.ie, CNN, Reuters"
+          "title": "北アイルランド・ベルファストでの反移民暴動と放火、学校閉鎖",
+          "location": "ベルファスト、英国",
+          "severity": 90,
+          "description": "刃物襲撃事件をきっかけに、反移民感情が高まり暴徒化。車両や建物への放火が発生し、住民の不安から学校が閉鎖される事態に発展。指導者らが沈静化を呼びかけている。",
+          "source": "Al Jazeera, Reuters, The Irish Sun, CNN"
         },
         {
-          "title": "デモに関連する騒乱への刑罰",
-          "location": "英国",
-          "severity": 60,
-          "description": "ヘンリー・ノワック氏への抗議デモに関連する騒乱で、初の有罪判決と実刑が言い渡されました。これは抗議活動が一部で暴徒化し、司法が介入していることを示唆しています。",
+          "title": "英国サウサンプトンでの暴力的な抗議デモ",
+          "location": "サウサンプトン、英国",
+          "severity": 65,
+          "description": "ヘンリー・ノワック事件を巡る抗議デモが暴力化し、逮捕者が出た。一部市民の不満が秩序を乱す行動に繋がっており、社会の分断が懸念される。",
           "source": "MSN"
+        },
+        {
+          "title": "スペイン・マドリードでの家賃高騰と住宅不足への抗議",
+          "location": "マドリード、スペイン",
+          "severity": 45,
+          "description": "住民が家賃高騰と深刻な住宅不足に対し、大規模な抗議デモを実施。生活に直結する経済的困難が社会不安を引き起こし、政策への不満が高まっている。",
+          "source": "dw.com"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "選挙制度への不満、警察への不信",
+      "incidents": [
+        {
+          "title": "韓国での投票用紙不足を巡る学生デモと警察官への暴力",
+          "location": "韓国",
+          "severity": 60,
+          "description": "選挙関連の不満から学生による抗議デモが発生し、一部で警察官への暴力行為が見られる。民主主義プロセスへの不信感が社会不安を煽り、緊張が高まっている。",
+          "source": "CNA, Yonhap News Agency"
+        },
+        {
+          "title": "日本におけるデモ中の軽微な暴力事件と警察への不満",
+          "location": "兵庫県、日本",
+          "severity": 35,
+          "description": "デモ活動中に暴行事件が発生し逮捕者が出たほか、警察による過剰警備やデモ妨害への不満が報じられている。社会の安定は保たれているものの、市民の不満が表面化している。",
+          "source": "東京新聞デジタル, Yahoo!ニュース"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 90,
+      "panic_index": 80,
       "status": "critical",
-      "main_cause": "政治的抑圧、生活必需品不足、地域紛争",
+      "main_cause": "政治的対立、生活必需品の不足、金融不安",
       "incidents": [
         {
-          "title": "パキスタン占領カシミール(PoK)での大規模暴動と政府弾圧",
-          "location": "パキスタン占領カシミール(PoK)",
+          "title": "パキスタン占領下のカシミールでの広範な社会不安と多数の死傷者",
+          "location": "パキスタン占領下のカシミール",
           "severity": 95,
-          "description": "PoKで抗議運動が激化し、治安部隊との衝突により30人以上の死者と数百人の負傷者が報告されています。政府は抗議指導者に対する大規模な攻撃を開始しており、地域全体が無秩序なパニック状態にあります。",
-          "source": "Frontline Magazine, News18, The Sunday Guardian, Dailyhunt"
+          "description": "大規模な抗議デモが広範な社会不安を引き起こし、11人が死亡、70人以上が負傷する事態に発展。地域全体の秩序が崩壊寸前の危機的状況にある。",
+          "source": "Dailyhunt, India Today"
         },
         {
-          "title": "水不足に対する女性たちの抗議デモ",
-          "location": "ソポア、カシミール",
-          "severity": 70,
-          "description": "カシミールのソポアで、深刻な水不足に対し女性たちが抗議デモを実施。生活必需品の欠乏は、住民の日常生活に直接的な影響を与え、社会不安を高めています。",
-          "source": "Greater Kashmir"
+          "title": "カシミール・ソポレにおける深刻な水不足への抗議",
+          "location": "ソポレ、カシミール",
+          "severity": 55,
+          "description": "住民が深刻な水不足に対し、水の供給回復を求める抗議デモを実施。生活基盤の脆弱さが住民の切迫した不安と怒りを増大させており、人道上の懸念が高まっている。",
+          "source": "Kashmir Media Service, Greater Kashmir"
         },
         {
-          "title": "肥料不足に対する農民の抗議デモ",
-          "location": "カラブラーギ、インド",
-          "severity": 65,
-          "description": "インドのカラブラーギで農民たちがDAP肥料の十分な供給を求めて抗議デモを行っています。これは食料生産に直結する問題であり、農業部門における不安が顕在化しています。",
-          "source": "The Hindu"
-        },
+          "title": "バングラデシュにおける金融機関会長の辞任要求デモ",
+          "location": "バングラデシュ",
+          "severity": 30,
+          "description": "イスラミ銀行の会長辞任を求める顧客フォーラムが財務省に覚書を提出。金融システムへの不信感が表面化しているが、現時点では取り付け騒ぎなどのパニックには至っていない。",
+          "source": "The Business Standard"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "人権抑圧、政治的抑圧",
+      "incidents": [
         {
-          "title": "アフガニスタンでの反ヒジャブ抗議活動と鎮圧",
+          "title": "アフガニスタン・ヘラートでの反ヒジャブデモ鎮圧と死傷者",
           "location": "ヘラート、アフガニスタン",
           "severity": 85,
-          "description": "アフガニスタンのヘラートで反ヒジャブ抗議活動が警察によって鎮圧され、死傷者が出たとの報告があります。政治的・宗教的抑圧が深刻な社会不安と衝突を引き起こしています。",
+          "description": "反ヒジャブデモに対し警察が介入し、デモ参加者との衝突で死傷者が出たと報じられている。政府によるデモの暴力的鎮圧が、人権問題と社会の分断を深刻化させている。",
           "source": "Pakistan Today"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 40,
+      "status": "stable",
+      "main_cause": "政治的抗議",
+      "incidents": [
+        {
+          "title": "メキシコシティでのデモ活動と安全への注意喚起",
+          "location": "メキシコシティ、メキシコ",
+          "severity": 40,
+          "description": "大規模なスポーツイベントの開催前にメキシコシティでデモが発生し、物々しい雰囲気が漂っている。各国大使館が自国民に対し安全への注意を促している。",
+          "source": "時事ドットコム"
         }
       ]
     },
     {
       "region": "southeast_asia",
       "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "エネルギー政策への不満",
+      "status": "stable",
+      "main_cause": "エネルギー危機",
       "incidents": [
         {
-          "title": "アジア開発銀行（ADB）に対するエネルギー危機抗議",
-          "location": "オルティガス・センター、マニラ、フィリピン",
+          "title": "フィリピン・マンダルヨン市での世界的なエネルギー危機への抗議",
+          "location": "オルティガス・センター、マンダルヨン市、フィリピン",
           "severity": 45,
-          "description": "市民社会組織がアジア開発銀行（ADB）に対し、世界のエネルギー危機における役割を非難する抗議デモを実施。エネルギー政策への不満が公に表明されています。",
+          "description": "市民団体がアジア開発銀行（ADB）前で、地球規模のエネルギー危機におけるADBの役割に抗議するデモを実施。エネルギー問題への懸念が表明され、政策転換を求めている。",
           "source": "facebook.com"
         }
       ]
     },
     {
-      "region": "south_america",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "政治的な不満",
-      "incidents": [
-        {
-          "title": "メキシコ市でのデモと大使館による注意喚起",
-          "location": "メキシコシティ、メキシコ",
-          "severity": 40,
-          "description": "メキシコ市でデモ活動が計画されており、大使館が市民に対し注意喚起を発令。デモの内容は不明ですが、公共の安全に影響を及ぼす可能性が懸念されています。",
-          "source": "時事ドットコム"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "政治的抑圧、地域紛争",
-      "incidents": [
-        {
-          "title": "西岸地区でのパレスチナ人学生拘留に対する抗議",
-          "location": "西岸地区",
-          "severity": 40,
-          "description": "司教らが2人目のパレスチナ人キリスト教徒学生の拘留に抗議しています。これは地域の政治的緊張と人権問題に対する懸念が高まっていることを示唆しています。",
-          "source": "The Church Times"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "金融機関への不満",
-      "incidents": [
-        {
-          "title": "DE-ICE Citizens Bank全国行動週間に参加するグループ",
-          "location": "ウォータータウン、アメリカ",
-          "severity": 25,
-          "description": "ウォータータウンのグループが「DE-ICE Citizens Bank National Week of Action」に参加。特定の金融機関に対する組織的な抗議活動が小規模に行われています。",
-          "source": "watertownmanews.com"
-        }
-      ]
-    },
-    {
       "region": "africa",
-      "panic_index": 20,
+      "panic_index": 30,
       "status": "stable",
-      "main_cause": "教育機関の問題",
+      "main_cause": "学校内問題",
       "incidents": [
         {
-          "title": "学校の混乱に対する抗議を称賛するケニア人",
-          "location": "ミゴリ、ケニア",
-          "severity": 20,
-          "description": "ミゴリの少年たちが学校の混乱に抗議した行動がケニア人に称賛されています。これは特定の教育機関内の問題に対する抗議であり、社会全体のパニックには至っていません。",
+          "title": "ケニアの学校における社会不安",
+          "location": "ケニア",
+          "severity": 30,
+          "description": "ケニアの学校で「unrest（社会不安）」が発生していると報じられている。地域全体への波及は限定的だが、教育環境における問題の存在が示唆される。",
           "source": "Tuko News"
         }
       ]
