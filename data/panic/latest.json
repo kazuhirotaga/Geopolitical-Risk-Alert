@@ -1,145 +1,137 @@
 {
   "date": "2026-06-11",
-  "summary": "世界各地で局所的な社会不安が顕著化しています。特に北アイルランドでは反移民暴動が深刻化し、水砲が使用されるなど社会秩序の混乱が深刻です。インドでは水や肥料といった生活・生産に不可欠な資源の不足が広範な抗議活動を引き起こし、人々の生活に切迫感を与えています。その他、経済的不安や政治的不満に基づくデモが各地で報告されており、潜在的な社会の脆弱性が露呈しています。",
-  "global_panic_index": 50,
+  "summary": "世界各地で多様な社会不安が観測されています。特にヨーロッパ（英国ベルファスト）では、ナイフアタックを契機とした大規模な反移民暴動が発生し、水砲が使用されるなど、社会秩序が深刻な混乱に陥っています。中東では紛争の激化と抗議デモが継続し、アジア地域でも金融システムへの懸念や政治・経済問題に対する抗議活動が散見されます。全体的な緊迫度は中程度から高レベルで推移しており、一部地域ではパニック状態に近づいています。",
+  "global_panic_index": 70,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 67,
+      "panic_index": 85,
       "status": "volatile",
-      "main_cause": "移民問題、人種間の緊張、住宅不足、生活費高騰",
+      "main_cause": "反移民感情、民族的緊張、暴動",
       "incidents": [
         {
-          "title": "北アイルランド、ベルファストでの反移民暴動",
-          "location": "イギリス・北アイルランド、ベルファスト",
+          "title": "ベルファストでのナイフアタックを契機とした反移民暴動",
+          "location": "ベルファスト、英国（北アイルランド）",
           "severity": 90,
-          "description": "亡命希望者の殺人未遂事件を発端に、反移民感情が暴動に発展。放火や暴行が発生し、当局が水砲を使用する事態に。二夜にわたり騒乱が続き、住民生活に深刻な影響が出ています。",
-          "source": "The Washington Post, Reuters, AFR, NHKニュース 他"
+          "description": "ナイフアタックをきっかけに大規模な反移民暴動が発生。警察は水砲を使用し、家屋や車両が放火され、マスクを着用した集団による攻撃も報告されており、社会秩序が深刻に混乱しています。",
+          "source": "NPR, The Washington Post, Al Jazeera, Time Magazine, BBC, ABC News, AFR, RTE.ie, NZ Herald, STV News, Australian Broadcasting Corporation"
         },
         {
-          "title": "マドリードでの家賃高騰と住宅不足への抗議デモ",
-          "location": "スペイン、マドリード",
-          "severity": 60,
-          "description": "市民が家賃の高騰と深刻な住宅不足に対し抗議デモを実施。生活コストの増加が市民の不安を高め、社会経済的な緊張が見られます。",
-          "source": "DW.com"
+          "title": "グラスゴーでの関連する暴動と人種差別的暴行",
+          "location": "グラスゴー、英国",
+          "severity": 80,
+          "description": "ベルファストの暴動に触発され、グラスゴーでも同様の騒乱が発生。礼拝者がモスクに閉じ込められたり、人種差別的暴行があったと報じられており、不安が他都市へ波及しています。",
+          "source": "BBC, ITVX"
         },
         {
-          "title": "スコットランド・グラスゴーでの抗議活動",
-          "location": "イギリス・スコットランド、グラスゴー",
-          "severity": 50,
-          "description": "「醜い光景」が報告されるなど、一部で混乱を伴う抗議活動が発生。さらなるデモが呼びかけられており、社会秩序の不安定化が懸念されます。",
-          "source": "The Scottish Sun"
+          "title": "ソーシャルメディアが反移民感情を増幅",
+          "location": "英国",
+          "severity": 70,
+          "description": "ベルファストの騒乱は、ソーシャルメディアを通じて反移民の極右的見解が主流になる力を見せつけており、不安や誤情報が広がりやすい状況が懸念されます。",
+          "source": "The Conversation"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "政治的抗議、金融機関への不信",
+      "panic_index": 45,
+      "status": "growing_anxiety",
+      "main_cause": "移民政策への抗議、金融機関への圧力",
       "incidents": [
         {
-          "title": "米国における反ICE抗議と銀行からの資金引き出し",
-          "location": "アメリカ合衆国、ボストン・キングストン",
+          "title": "信仰団体がCitizens Bankから資金引き出し",
+          "location": "米国（ボストン）",
           "severity": 50,
-          "description": "信仰団体や市民がICE（移民税関執行局）との関係を理由に、Citizens Bankから200万ドルを引き出すなど抗議活動を実施。政治的メッセージを伴う金融機関への不信表明が見られます。",
-          "source": "The Boston Globe, MSN"
+          "description": "反ICE（米国移民関税執行局）抗議活動の一環として、信仰団体がCitizens Bankから200万ドルを引き出し。これは直接的な取り付け騒ぎではないものの、金融機関への不信感と圧力を示すものです。",
+          "source": "The Boston Globe, WBZ NewsRadio 1030"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "政治的不満、選挙プロセスへの懸念",
+      "panic_index": 55,
+      "status": "growing_anxiety",
+      "main_cause": "選挙不正疑惑、政治・社会的不満",
       "incidents": [
         {
-          "title": "韓国での投票用紙不足に関する学生抗議デモ",
+          "title": "韓国の学生による選挙不正への抗議",
           "location": "韓国",
-          "severity": 40,
-          "description": "大学の学生たちが投票用紙の不足問題に対し、全国的な抗議デモを行っています。これは選挙プロセスの透明性や公正性への懸念を示しています。",
-          "source": "CNA, thestar.com.my"
+          "severity": 55,
+          "description": "韓国の学生が選挙の不手際に対して抗議活動を展開。平和的な抗議が強調されていますが、政治への不満が示されています。",
+          "source": "한겨레"
+        },
+        {
+          "title": "スポーツ組織に対する抗議による準備妨害",
+          "location": "韓国",
+          "severity": 50,
+          "description": "抗議活動による封鎖がスポーツ組織の重要な準備を妨げていると報じられており、市民活動が日常機能に影響を与え始めています。",
+          "source": "조선일보"
+        },
+        {
+          "title": "抗議デモにおける警察官への暴力停止の呼びかけ",
+          "location": "韓国",
+          "severity": 55,
+          "description": "投票用紙不足に対する抗議デモで警察官への暴力行為があったとされ、その停止が求められています。一部で抗議が過熱する兆候が見られます。",
+          "source": "Yonhap News Agency"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "地域紛争、治安悪化",
-      "incidents": [
-        {
-          "title": "ヨルダン川西岸での入植者による消火活動妨害",
-          "location": "ヨルダン川西岸",
-          "severity": 50,
-          "description": "イスラエル人入植者がキリスト教徒が多い村付近での消火活動を妨害したとパレスチナ側が主張。地域紛争の文脈における緊張と潜在的な暴力リスクが高まっています。",
-          "source": "Reuters"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "地域社会の不安定、経済的不安",
-      "incidents": [
-        {
-          "title": "ケニア、ミゴリでの学校の騒乱",
-          "location": "ケニア、ミゴリ",
-          "severity": 40,
-          "description": "ミゴリ地区の学校で騒乱が発生し、社会の不安定さの兆候が見られます。地元住民はこれに対し批判的な立場をとっています。",
-          "source": "Tuko News"
-        },
-        {
-          "title": "ナイジェリアでの年金受給者による抗議デモ",
-          "location": "ナイジェリア",
-          "severity": 40,
-          "description": "年金受給者たちが、N32,000の年金給付などの支払いを要求して抗議デモを実施。経済的困窮が社会不安を引き起こしています。",
-          "source": "Punch Newspapers"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 63,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "水不足、農業資源不足、政治的緊張",
+      "main_cause": "地域紛争の激化、政府への不満、治安悪化",
       "incidents": [
         {
-          "title": "インド・カシミール地方での深刻な水不足抗議デモ",
-          "location": "インド・カシミール地方、ソポール",
+          "title": "ガザ戦争中のヨルダン川西岸でのパレスチナ人死者増加と入植者の妨害",
+          "location": "ヨルダン川西岸、パレスチナ",
           "severity": 80,
-          "description": "女性たちが急性的な水不足に対し抗議デモを行い、早急な供給回復を要求。生活必需品の深刻な不足が住民の切迫感を高めています。",
-          "source": "Kashmir Media Service"
+          "description": "ガザ戦争中にヨルダン川西岸でのパレスチナ人死者が過去17年間で最多を記録。イスラエル人入植者による消防活動妨害も報告されており、地域の緊張と暴力が深刻化しています。",
+          "source": "Reuters, The National"
         },
         {
-          "title": "インド・パンジャブ州での肥料不足抗議デモ",
-          "location": "インド・パンジャブ州、アムリトサル",
+          "title": "パキスタン管理下のカシミールで抗議活動が激化",
+          "location": "パキスタン管理下のカシミール",
           "severity": 70,
-          "description": "農民たちが尿素や肥料の深刻な不足に対し、広範な抗議デモを実施。これは農業生産に大きな影響を与え、将来的な食料不安につながる可能性があります。",
-          "source": "The News Mill, MSN"
-        },
-        {
-          "title": "インド・コルカタでの騒乱誘発発言に関する告訴",
-          "location": "インド、コルカタ",
-          "severity": 40,
-          "description": "弁護士が特定の政治家による発言が騒乱を誘発する恐れがあるとして告訴。地域における政治的緊張と社会の分断が懸念されます。",
-          "source": "MSN"
+          "description": "数千人がパキスタン政府に抗議し、デモ参加者の死者に対する説明責任を要求する集会を開催。地域の不安が深まり、政府への強い不満が示されています。",
+          "source": "Firstpost"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "エネルギー危機",
+      "panic_index": 65,
+      "status": "alert_state",
+      "main_cause": "金融機関への懸念、エネルギー危機への不満",
       "incidents": [
         {
-          "title": "フィリピンでのエネルギー危機に関する抗議デモ",
-          "location": "フィリピン、マニラ首都圏マンダルヨン市",
-          "severity": 40,
-          "description": "市民社会団体がアジア開発銀行（ADB）に対し、世界のエネルギー危機における役割を非難する抗議デモを実施。エネルギー価格の高騰や供給不安が市民の懸念となっています。",
+          "title": "アジア開発銀行（ADB）に対する抗議デモ",
+          "location": "マンダルヨン市、フィリピン",
+          "severity": 60,
+          "description": "市民社会組織がアジア開発銀行に対し、世界のエネルギー危機におけるその役割を非難する抗議デモを実施。特定の国際機関への不満が公然と表明されています。",
           "source": "facebook.com"
+        },
+        {
+          "title": "バングラデシュのイスラミ銀行を巡る金融不安",
+          "location": "バングラデシュ",
+          "severity": 70,
+          "description": "イスラミ銀行の運営を巡る懸念が広がり、銀行家たちはその波及効果を懸念しています。これは金融システムに対する信頼に影響を及ぼし、潜在的なパニックにつながる可能性があります。",
+          "source": "The Daily Star, New Age BD"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 50,
+      "status": "growing_anxiety",
+      "main_cause": "経済的困窮、年金未払い",
+      "incidents": [
+        {
+          "title": "ナイジェリアの退職者が年金支払いを要求し抗議",
+          "location": "ナイジェリア",
+          "severity": 50,
+          "description": "退職者たちが未払いの年金給付を要求して抗議活動を実施。経済的困窮が社会不安の主な原因となっており、政府への不満が高まっています。",
+          "source": "Punch Newspapers"
         }
       ]
     }
