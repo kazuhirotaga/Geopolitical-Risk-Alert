@@ -1,131 +1,101 @@
 {
   "date": "2026-06-11",
-  "summary": "世界全体では、局所的に高レベルの社会不安とパニックが発生している地域と、比較的安定している地域が混在しています。特に欧州の英国ベルファストでは反移民暴動が継続し、警察による水砲投入や文化イベントの中止、家屋の破壊といった深刻な社会秩序の混乱が見られます。中東地域では、パキスタン管理下のカシミール地方での大規模抗議と、ヨルダン川西岸での紛争による死者急増が極めて高い緊張状態を示唆しています。その他、インドでの肥料不足による農民抗議など、生活基盤に関わる不安も散見されますが、広範な社会インフラのマヒや無秩序な逃避といったパニック状態には至っていません。",
-  "global_panic_index": 51,
+  "summary": "世界各地では、一部で非常に深刻な社会不安とパニックの兆候が見られます。特に、英国ベルファストでの反移民暴動は警察が放水砲を使用するほどのエスカレーションを見せ、家屋の破壊やイベント中止など市民生活に大きな影響を与えています。南アジアのパキスタン占領カシミール(PoK)では大規模な反政府抗議が暴動化し、多数の死者と指導者への弾圧が報告され、地域は危機的状況にあります。中東の西岸地区では、ガザ戦争の影響で暴力が激化し、記録的な死者数が出ており、極めて高い緊迫状態にあります。食料・資源不足を背景とする抗議もインドで発生しており、供給網への懸念が浮上しています。全体としては、政治的・社会的な緊張が高まり、一部地域で深刻な秩序の乱れとパニック状態が進行していると言えます。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "europe",
       "panic_index": 75,
       "status": "volatile",
-      "main_cause": "反移民感情に基づく社会秩序の混乱、暴力",
+      "main_cause": "反移民感情、社会不安",
       "incidents": [
         {
-          "title": "英国ベルファストで反移民暴動が継続、警察が水砲を投入",
+          "title": "ベルファストでの反移民暴動と警察による放水砲使用",
           "location": "Belfast, UK (Northern Ireland)",
           "severity": 85,
-          "description": "ベルファストで反移民感情を背景とした激しい暴動が数夜にわたり発生。警察は水砲を投入し、多数の警官が動員され、社会秩序の維持が困難な状況に陥っている。",
-          "source": "ABC News, NPR, Al Jazeera, France 24, Washington Post, BBC, TVC News"
+          "description": "反移民感情に端を発するベルファストでの暴力的な暴動が数夜にわたり続き、警察が放水砲を使用する事態に発展しました。家屋が破壊され、劇場公演が中止されるなど、市民生活に甚大な影響が出ており、人種差別的な暴力として強く非難されています。",
+          "source": "ABC News, NPR, BBC 他多数"
         },
         {
-          "title": "ベルファスト暴動により文化イベントが中止、家屋破壊の報告",
-          "location": "Belfast, UK (Northern Ireland)",
-          "severity": 80,
-          "description": "ベルファストでの暴動の影響で、ミュージカル公演を含む複数の文化イベントが中止に追い込まれた。暴動は家屋の破壊にも繋がり、住民の間にさらなる不安が広がっている。",
-          "source": "BBC, MSN, Belfast News Letter"
-        },
-        {
-          "title": "スコットランド、グリーンロックで移民ホテル巡る抗議、ヘイトクライムで逮捕者",
-          "location": "Greenock, UK (Scotland)",
-          "severity": 65,
-          "description": "移民宿泊施設を巡る抗議デモが発生し、ヘイトクライムの容疑で女性が逮捕された。警察は地域住民に当該エリアへの立ち入りを避けるよう警告する事態となった。",
-          "source": "BBC, STV News"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "政治的紛争、紛争関連の死者、政府への不満",
-      "incidents": [
-        {
-          "title": "PoKで反パキスタン抗議が激化、リーダーに懸賞金",
-          "location": "Pakistan-administered Kashmir (PoK)",
-          "severity": 70,
-          "description": "パキスタン管理下のカシミール地方で、数千人規模の反パキスタン抗議デモが激化。デモ中に発生した死亡者の責任追及が求められ、当局は抗議リーダーに懸賞金をかける事態に発展している。",
-          "source": "Firstpost, MSN"
-        },
-        {
-          "title": "ガザ戦争影響下のヨルダン川西岸で死者急増、過去17年で最多",
-          "location": "West Bank, Palestine",
-          "severity": 90,
-          "description": "ガザ戦争の影響を受け、ヨルダン川西岸地区で過去17年間を上回るパレスチナ人が殺害されており、地域の極度の不安定性と生命の危機が深刻化している。",
-          "source": "The National"
+          "title": "食料価格インフレがフードバンクの食料在庫を圧迫",
+          "location": "Penrith, UK",
+          "severity": 45,
+          "description": "英国ペンリス地域のフードバンクでは、食料価格のインフレにより食料在庫が深刻な影響を受けています。これにより食料不足への懸念が高まっており、生活困窮者への支援に支障が出る可能性が指摘されています。",
+          "source": "The Salvation Army"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "物資不足、経済的困難",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "政治的抑圧、資源不足",
       "incidents": [
         {
-          "title": "インド・パンジャブ州で肥料不足巡り農民抗議デモ",
+          "title": "パキスタン占領カシミール(PoK)での大規模な反政府抗議と弾圧",
+          "location": "PoK (Pakistan-occupied Kashmir)",
+          "severity": 90,
+          "description": "PoKで数千人規模の反パキスタン抗議デモが激化し、抗議中の死者も報告されています。当局は抗議指導者に報奨金をかけ、扇動罪で告発するなど、住民と当局の間の緊張が極限に達しており、政情不安が深まっています。",
+          "source": "Firstpost, MSN 他"
+        },
+        {
+          "title": "インド・パンジャブ州で肥料不足を巡り農民が抗議デモ",
           "location": "Punjab, India",
-          "severity": 55,
-          "description": "インドのパンジャブ州で肥料不足が深刻化し、農民による大規模な抗議デモが発生。食料生産への懸念が高まり、当局は厳重な警備体制を敷いている。",
+          "severity": 60,
+          "description": "インドのパンジャブ州では、尿素や肥料の深刻な不足に抗議して農民らが大規模なデモを実施しています。これは食料生産への影響や、生活困窮へと繋がる可能性があり、当局は治安対策を講じています。",
           "source": "The Indian Express, The News Mill"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "特定の政策、選挙結果に対する抗議",
-      "incidents": [
-        {
-          "title": "韓国で学生による選挙結果への抗議活動",
-          "location": "Korea",
-          "severity": 30,
-          "description": "韓国の学生が選挙結果への不満を表明する抗議活動を実施。メディアは、陰謀論に頼らず秩序だった形で抗議していると報じており、大規模な混乱には至っていない。",
-          "source": "Hankyoreh : English Edition"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 45,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "経済的困難、年金給付問題",
+      "main_cause": "政治的不安定、選挙問題",
       "incidents": [
         {
-          "title": "ナイジェリアで退職者が年金給付を求め抗議デモ",
-          "location": "Nigeria",
+          "title": "韓国で投票用紙不足を巡る混乱と政府への抗議",
+          "location": "South Korea",
+          "severity": 60,
+          "description": "投票用紙の不足が発覚し、韓国では首相が迅速な調査を指示する事態に発展しました。これに対し、市民団体や学生による抗議活動が展開され、一部ではスポーツ組織の重要な準備が妨げられるなど、社会に混乱が生じています。",
+          "source": "Yonhap News Agency, Hankyoreh 他"
+        },
+        {
+          "title": "政治的ハードルの中で金融当局と国有銀行の移転を検討",
+          "location": "Seoul, South Korea",
           "severity": 45,
-          "description": "ナイジェリアで、年金受給者らが十分な年金給付を求めて抗議デモを実施。生活保障に関する経済的な不満が背景にあり、社会不安の一因となっている。",
-          "source": "Punch Newspapers"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "政治的政策への抗議、環境問題",
-      "incidents": [
-        {
-          "title": "米国で反ICEグループがCitizens Bankへ抗議、資金引き出し",
-          "location": "United States",
-          "severity": 40,
-          "description": "米国で反ICE（移民税関執行局）グループがCitizens Bankに対し、同局との関係を巡って抗議活動を実施。信仰団体が200万ドルを引き出すなど、政治的動機による行動が見られる。",
-          "source": "Coast Star, The Boston Globe"
+          "description": "ソウルでは、政治的な障害を背景に金融当局や国有銀行の移転が検討されており、これは国内の政治的不安定性が金融セクターにも影響を及ぼし始めている兆候として注目されます。",
+          "source": "CHOSUNBIZ"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 40,
+      "panic_index": 30,
       "status": "stable",
-      "main_cause": "エネルギー政策への不満",
+      "main_cause": "地球規模のエネルギー危機への懸念",
       "incidents": [
         {
-          "title": "フィリピンで市民団体がADBに抗議、エネルギー危機巡り",
-          "location": "Mandaluyong City, Philippines",
-          "severity": 40,
-          "description": "フィリピンのマニラ首都圏マンダルヨン市で、市民団体がアジア開発銀行（ADB）に対し、世界のエネルギー危機への役割を巡る抗議デモを行った。",
+          "title": "アジア開発銀行(ADB)への抗議デモ、エネルギー危機における役割を非難",
+          "location": "Ortigas Center, Mandaluyong City, Philippines",
+          "severity": 35,
+          "description": "フィリピンのマニラ首都圏で開催されたアジアクリーンエネルギーフォーラム中に、市民団体がアジア開発銀行（ADB）に対して抗議デモを実施。ADBが世界的なエネルギー危機に果たしたとされる役割を非難しています。",
           "source": "facebook.com"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 95,
+      "status": "critical",
+      "main_cause": "武装紛争の激化",
+      "incidents": [
+        {
+          "title": "ガザ戦争中、西岸地区で過去17年間で最多のパレスチナ人死者",
+          "location": "West Bank",
+          "severity": 98,
+          "description": "現在のガザ戦争の期間中、占領下の西岸地区において、過去17年間で最も多くのパレスチナ人が殺害されたことが報告されています。これは地域の暴力の深刻な激化と、市民が直面する危機的な状況を示しています。",
+          "source": "The National"
         }
       ]
     }
