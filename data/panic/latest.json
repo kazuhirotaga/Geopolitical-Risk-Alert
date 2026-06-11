@@ -1,130 +1,79 @@
 {
-  "date": "2026-06-10",
-  "summary": "世界各地では、経済的不満、資源不足、政治的緊張が背景にある抗議デモが広範に見られます。特に英国北アイルランドでは、移民排斥を背景とした暴動や放火、警察の厳戒態勢が敷かれ、深刻な社会秩序の混乱に陥っています。南アジアでは生活必需品の不足に対する抗議や政治的抑圧が緊迫感を高め、東アジアでは民主主義プロセスへの不信が表面化しています。全体として広範な社会不安が募る一方で、一部地域ではパニックに近い状況が見られます。",
-  "global_panic_index": 58,
+  "date": "2026-06-11",
+  "summary": "世界各地で局所的な社会不安が顕著化しています。特に北アイルランドでは反移民暴動が深刻化し、水砲が使用されるなど社会秩序の混乱が深刻です。インドでは水や肥料といった生活・生産に不可欠な資源の不足が広範な抗議活動を引き起こし、人々の生活に切迫感を与えています。その他、経済的不安や政治的不満に基づくデモが各地で報告されており、潜在的な社会の脆弱性が露呈しています。",
+  "global_panic_index": 50,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 70,
+      "panic_index": 67,
       "status": "volatile",
-      "main_cause": "移民排斥感情、治安悪化、経済的不満",
+      "main_cause": "移民問題、人種間の緊張、住宅不足、生活費高騰",
       "incidents": [
         {
-          "title": "北アイルランドでの反移民暴動と放火",
-          "location": "英国・ベルファスト",
-          "severity": 85,
-          "description": "スーダン人による刺傷事件をきっかけに、ベルファストで反移民暴動が発生。車両や建物への放火、暴力的衝突が複数夜にわたり発生し、警察が街頭に動員され、社会秩序が危機に瀕しています。",
-          "source": "The Washington Post, CBS News, Al Jazeera, 日本経済新聞 他"
+          "title": "北アイルランド、ベルファストでの反移民暴動",
+          "location": "イギリス・北アイルランド、ベルファスト",
+          "severity": 90,
+          "description": "亡命希望者の殺人未遂事件を発端に、反移民感情が暴動に発展。放火や暴行が発生し、当局が水砲を使用する事態に。二夜にわたり騒乱が続き、住民生活に深刻な影響が出ています。",
+          "source": "The Washington Post, Reuters, AFR, NHKニュース 他"
         },
         {
-          "title": "外国人に対する「ヒットリスト」の噂",
-          "location": "英国・ベルファスト",
-          "severity": 75,
-          "description": "ベルファストの騒乱の中で、外国人に対する「ヒットリスト」が存在するという噂が広がり、警察が警戒を強化しています。これは地域社会における恐怖と不信感を増幅させています。",
-          "source": "AFR"
-        },
-        {
-          "title": "マドリードでの家賃・住宅不足抗議デモ",
-          "location": "スペイン・マドリード",
-          "severity": 30,
-          "description": "マドリードでは、高騰する家賃と深刻な住宅不足に対し、市民が大規模な抗議デモを実施しています。経済的な不満が社会的な動きへと繋がっています。",
-          "source": "DW.com"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "政治的不信、民主主義プロセスへの懸念",
-      "incidents": [
-        {
-          "title": "韓国での投票用紙不足に対する学生抗議",
-          "location": "韓国",
-          "severity": 50,
-          "description": "韓国の大学学生らが投票用紙不足問題を巡り、全国各地で抗議デモを実施。一部では警察官に対する暴力行為も報告されており、政治プロセスへの不満が高まっています。",
-          "source": "朝鮮日報, CNA, Yonhap News Agency"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "地域紛争、民族間対立",
-      "incidents": [
-        {
-          "title": "西岸地区での消防活動妨害",
-          "location": "イスラエル・西岸地区",
-          "severity": 45,
-          "description": "パレスチナ人によると、キリスト教徒の村付近で発生した火災に対し、イスラエル人入植者が消防活動を妨害したとされています。既存の紛争地域における緊張の一端を示しています。",
-          "source": "Reuters"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "生活インフラ不足、資源不足、政治的抑圧",
-      "incidents": [
-        {
-          "title": "カシミール地方での深刻な水不足抗議",
-          "location": "インド・ソポール（カシミール地方）",
-          "severity": 65,
-          "description": "カシミール地方のソポールでは、女性たちが急性的な水不足に対し抗議デモを行い、緊急の供給回復を求めています。生活の根幹に関わる問題が住民の深刻な不安を引き起こしています。",
-          "source": "Kashmir Media Service, Greater Kashmir"
-        },
-        {
-          "title": "パキスタン管理下のカシミール地域での抗議と弾圧",
-          "location": "パキスタン管理下のカシミール地域（PoK）",
+          "title": "マドリードでの家賃高騰と住宅不足への抗議デモ",
+          "location": "スペイン、マドリード",
           "severity": 60,
-          "description": "パキスタン管理下のカシミール地域は緊張状態にあり、抗議活動のリーダーに対して逮捕状が発行され、多額の懸賞金がかけられるなど、当局による弾圧が報告されています。",
-          "source": "India Today, Mathrubhumi English"
+          "description": "市民が家賃の高騰と深刻な住宅不足に対し抗議デモを実施。生活コストの増加が市民の不安を高め、社会経済的な緊張が見られます。",
+          "source": "DW.com"
         },
         {
-          "title": "インドでの肥料不足に対する農民抗議",
-          "location": "インド・アムリトサル",
-          "severity": 40,
-          "description": "アムリトサルでは、尿素や肥料の不足に対して農民が抗議デモを行っています。食料生産に直結する資源不足が農業従事者の不満を募らせています。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "イスラミ銀行会長辞任要求デモ",
-          "location": "バングラデシュ",
-          "severity": 45,
-          "description": "イスラミ銀行の顧客フォーラムが財務省に対し、会長の辞任を求める覚書を提出しました。特定の金融機関への不信感が表面化しています。",
-          "source": "The Business Standard"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "エネルギー問題、国際機関への不信",
-      "incidents": [
-        {
-          "title": "ADBへの抗議とエネルギー危機への非難",
-          "location": "フィリピン・マンダルヨン市",
-          "severity": 40,
-          "description": "市民社会団体がアジア開発銀行（ADB）に対し、世界的なエネルギー危機におけるADBの役割を非難する抗議活動を実施しました。国際機関への不信感とエネルギー問題への懸念が背景にあります。",
-          "source": "facebook.com"
+          "title": "スコットランド・グラスゴーでの抗議活動",
+          "location": "イギリス・スコットランド、グラスゴー",
+          "severity": 50,
+          "description": "「醜い光景」が報告されるなど、一部で混乱を伴う抗議活動が発生。さらなるデモが呼びかけられており、社会秩序の不安定化が懸念されます。",
+          "source": "The Scottish Sun"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "政治的抗議、移民政策への反発",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "政治的抗議、金融機関への不信",
       "incidents": [
         {
-          "title": "反ICE抗議活動による銀行からの資金引き出し",
-          "location": "米国・マサチューセッツ州",
-          "severity": 35,
-          "description": "移民税関捜査局（ICE）に反対する信仰団体が、抗議活動の一環として市民銀行から200万ドルを引き出しました。これは特定の政治的主張に基づく行動であり、広範な取り付け騒ぎではありません。",
-          "source": "The Boston Globe, WBZ NewsRadio 1030"
+          "title": "米国における反ICE抗議と銀行からの資金引き出し",
+          "location": "アメリカ合衆国、ボストン・キングストン",
+          "severity": 50,
+          "description": "信仰団体や市民がICE（移民税関執行局）との関係を理由に、Citizens Bankから200万ドルを引き出すなど抗議活動を実施。政治的メッセージを伴う金融機関への不信表明が見られます。",
+          "source": "The Boston Globe, MSN"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "政治的不満、選挙プロセスへの懸念",
+      "incidents": [
+        {
+          "title": "韓国での投票用紙不足に関する学生抗議デモ",
+          "location": "韓国",
+          "severity": 40,
+          "description": "大学の学生たちが投票用紙の不足問題に対し、全国的な抗議デモを行っています。これは選挙プロセスの透明性や公正性への懸念を示しています。",
+          "source": "CNA, thestar.com.my"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "地域紛争、治安悪化",
+      "incidents": [
+        {
+          "title": "ヨルダン川西岸での入植者による消火活動妨害",
+          "location": "ヨルダン川西岸",
+          "severity": 50,
+          "description": "イスラエル人入植者がキリスト教徒が多い村付近での消火活動を妨害したとパレスチナ側が主張。地域紛争の文脈における緊張と潜在的な暴力リスクが高まっています。",
+          "source": "Reuters"
         }
       ]
     },
@@ -132,14 +81,65 @@
       "region": "africa",
       "panic_index": 40,
       "status": "unstable",
-      "main_cause": "地域の不安定化、若者層の不満",
+      "main_cause": "地域社会の不安定、経済的不安",
       "incidents": [
         {
-          "title": "ケニアの学校における騒乱",
-          "location": "ケニア",
+          "title": "ケニア、ミゴリでの学校の騒乱",
+          "location": "ケニア、ミゴリ",
           "severity": 40,
-          "description": "ケニアのミゴリ男子学校で発生した騒乱（unrest）について、冷静な対応が称賛されています。具体的な詳細は不明ですが、学校内での混乱が示唆されています。",
+          "description": "ミゴリ地区の学校で騒乱が発生し、社会の不安定さの兆候が見られます。地元住民はこれに対し批判的な立場をとっています。",
           "source": "Tuko News"
+        },
+        {
+          "title": "ナイジェリアでの年金受給者による抗議デモ",
+          "location": "ナイジェリア",
+          "severity": 40,
+          "description": "年金受給者たちが、N32,000の年金給付などの支払いを要求して抗議デモを実施。経済的困窮が社会不安を引き起こしています。",
+          "source": "Punch Newspapers"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 63,
+      "status": "volatile",
+      "main_cause": "水不足、農業資源不足、政治的緊張",
+      "incidents": [
+        {
+          "title": "インド・カシミール地方での深刻な水不足抗議デモ",
+          "location": "インド・カシミール地方、ソポール",
+          "severity": 80,
+          "description": "女性たちが急性的な水不足に対し抗議デモを行い、早急な供給回復を要求。生活必需品の深刻な不足が住民の切迫感を高めています。",
+          "source": "Kashmir Media Service"
+        },
+        {
+          "title": "インド・パンジャブ州での肥料不足抗議デモ",
+          "location": "インド・パンジャブ州、アムリトサル",
+          "severity": 70,
+          "description": "農民たちが尿素や肥料の深刻な不足に対し、広範な抗議デモを実施。これは農業生産に大きな影響を与え、将来的な食料不安につながる可能性があります。",
+          "source": "The News Mill, MSN"
+        },
+        {
+          "title": "インド・コルカタでの騒乱誘発発言に関する告訴",
+          "location": "インド、コルカタ",
+          "severity": 40,
+          "description": "弁護士が特定の政治家による発言が騒乱を誘発する恐れがあるとして告訴。地域における政治的緊張と社会の分断が懸念されます。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "エネルギー危機",
+      "incidents": [
+        {
+          "title": "フィリピンでのエネルギー危機に関する抗議デモ",
+          "location": "フィリピン、マニラ首都圏マンダルヨン市",
+          "severity": 40,
+          "description": "市民社会団体がアジア開発銀行（ADB）に対し、世界のエネルギー危機における役割を非難する抗議デモを実施。エネルギー価格の高騰や供給不安が市民の懸念となっています。",
+          "source": "facebook.com"
         }
       ]
     }
