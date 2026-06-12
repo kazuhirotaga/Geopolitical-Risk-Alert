@@ -1,122 +1,109 @@
 {
   "date": "2026-06-12",
-  "summary": "世界各地で社会不安が顕在化しており、特にヨーロッパの一部地域では状況が危機的です。北アイルランド・ベルファストでは反移民暴動が激化し、警察による放水砲の使用や都市機能の停止が見られます。ウクライナ領クリミアでは燃料不足が深刻化。メキシコや南アジアでは暴力的デモや資源不足に対する抗議が多発し、東アジアでも選挙関連の社会不安が継続しています。金融システムの潜在的な懸念も一部で報告されており、地域的な不安定要素が複合的に存在しています。",
-  "global_panic_index": 68,
+  "summary": "世界各地では、一部の地域で深刻な暴動や治安の悪化が続き、社会秩序が危機的な状況にあります。特に北アイルランドとアフガニスタンでは、生命の危険を伴う混乱が報告されています。一方で、資源不足、金融システムへの不信、選挙の不透明性などを背景とした大規模な抗議活動が多発し、複数の国で社会不安が増大しています。全体として世界は警戒状態にあり、地域によってはパニックの兆候が見られます。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 88,
-      "status": "critical",
-      "main_cause": "反移民暴動、エネルギー不足、社会秩序の混乱",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "民族対立を背景とした暴動、戦争による供給不安",
       "incidents": [
         {
-          "title": "北アイルランド・ベルファストでの激しい反移民暴動と社会機能停止",
-          "location": "ベルファスト, イギリス (北アイルランド)",
-          "severity": 95,
-          "description": "数夜にわたり反移民暴動が激化し、警察が放水砲を使用。フェスティバルやミュージカルが中止され、商業施設が早期閉鎖されるなど、社会機能が麻痺している状態です。",
-          "source": "BBC, ABC News, NBC News, CBS News, France 24, TVC News, Belfast News Letter, MSN"
+          "title": "北アイルランド・ベルファストでの反移民暴動の激化",
+          "location": "ベルファスト, 北アイルランド",
+          "severity": 85,
+          "description": "反移民感情を背景とした大規模な暴動が数夜にわたり発生。警察との激しい衝突、水砲の使用、偽情報拡散、地域の一時閉鎖やイベント中止に至り、深刻な社会不安と治安悪化を招いている。",
+          "source": "Al Jazeera, ABC News, CBS News, France 24, BBC, MSN"
         },
         {
-          "title": "クリミアで燃料不足が発生",
-          "location": "クリミア (ウクライナ/ロシア)",
-          "severity": 75,
-          "description": "ウクライナのドローン攻撃後、クリミアのガソリンスタンドで燃料が枯渇。エネルギー供給不安が住民の生活に直接的な影響を与え、社会不安を高めています。",
+          "title": "クリミアでの燃料不足の発生",
+          "location": "クリミア",
+          "severity": 65,
+          "description": "ウクライナのドローン攻撃後、クリミアの燃料ステーションが枯渇状態に陥り、住民の生活に直接的な影響を与えている。地域的なパニックと不満が拡大し、供給不安が深刻化している。",
           "source": "Reuters"
-        },
-        {
-          "title": "スコットランド・グリーンロックでの抗議デモ",
-          "location": "グリーンロック, イギリス",
-          "severity": 50,
-          "description": "亡命申請者向けホテルでの抗議活動が発生し、ヘイトクライムで女性が起訴されました。移民問題に起因する地域社会の対立が表面化しています。",
-          "source": "BBC"
-        },
-        {
-          "title": "イングランド・ペンリスのフードバンクが食料価格高騰の影響",
-          "location": "ペンリス, イギリス",
-          "severity": 50,
-          "description": "食料価格の高騰がフードバンクの在庫に影響を与え、食料不安を抱える住民への支援体制に課題が生じています。生活コスト上昇が社会不安の要因です。",
-          "source": "The Salvation Army"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "大規模な抗議デモ、暴力行為",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "社会的不満を背景とした暴力的なデモ、環境問題による資源不安",
       "incidents": [
         {
-          "title": "メキシコでの暴力的抗議デモ",
+          "title": "メキシコでのワールドカップ関連の暴力的な抗議",
           "location": "メキシコシティ, メキシコ",
           "severity": 70,
-          "description": "サッカーの試合前後に暴力的抗議活動が発生し、警察に火炎瓶やレンガが投げつけられました。大規模スポーツイベントが暴力的なデモによって影を落としています。",
-          "source": "The Guardian, MSN"
+          "description": "サッカーのワールドカップ関連イベント中に暴力的な抗議デモが発生。警察に火炎瓶やレンガが投げつけられ、広範な社会的不満が表面化し、治安当局との衝突に至った。",
+          "source": "The Guardian, MSN, Lavender Hotel"
         },
         {
-          "title": "米国の銀行前での抗議活動",
-          "location": "米国（場所特定不可）",
-          "severity": 30,
-          "description": "シチズンズ銀行前で小規模な抗議活動が行われました。具体的な内容は不明ですが、金融機関に対する不満が示されています。",
-          "source": "Coast Star"
+          "title": "フロリダ州での深刻な干ばつ継続",
+          "location": "フロリダ州, アメリカ合衆国",
+          "severity": 45,
+          "description": "フロリダ州サワニー川流域で深刻な干ばつ状態が継続。水資源の枯渇や農業への影響が懸念され、将来的な食料・水不足への不安が住民間で増大している。",
+          "source": "Gainesville Sun"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "選挙関連の社会不安",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "選挙システムへの不信、政治的緊張",
       "incidents": [
         {
-          "title": "韓国での投票用紙不足に対する全国的な抗議デモ",
-          "location": "韓国",
-          "severity": 65,
-          "description": "投票用紙不足を巡る疑惑が全国的な抗議活動に発展し、多くの市民が民主主義を守るために集結。首相が迅速な調査を指示するなど、政治的な緊張が高まっています。",
-          "source": "Reuters, 조선일보, Yonhap News Agency, 매일경제"
+          "title": "韓国での投票用紙不足を巡る大規模抗議デモ",
+          "location": "蚕室、韓国（全国）",
+          "severity": 55,
+          "description": "投票用紙不足を巡り、韓国各地で数千人規模の抗議デモが発生。特に蚕室では開票所封鎖が試みられ、選挙システムへの不信感と民主主義への懸念が強く表出している。",
+          "source": "Reuters, CHOSUNBIZ, 조선일보, 매일경제"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 90,
+      "status": "critical",
+      "main_cause": "武力紛争、治安の崩壊",
+      "incidents": [
+        {
+          "title": "アフガニスタン・ヘラートでの騒乱後の銃声",
+          "location": "ヘラート, アフガニスタン",
+          "severity": 90,
+          "description": "アフガニスタンのヘラート地域で騒乱後に銃声が聞こえる事象が報告されており、地域の治安が極めて悪化していることを示唆する。武装衝突や混乱が続き、住民は生命の危険に晒されている。",
+          "source": "Australian Broadcasting Corporation"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 68,
-      "status": "volatile",
-      "main_cause": "資源不足、政治的抑圧に対する抗議",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "資源・エネルギー供給不足",
       "incidents": [
         {
-          "title": "PoKで抗議デモ指導者に賞金",
-          "location": "パキスタン管理下のカシミール (PoK)",
-          "severity": 70,
-          "description": "当局が抗議デモの指導者に対して1000万ルピーの懸賞金を設定。市民の抗議活動に対する政府の厳しい弾圧は、さらなる社会不安を煽る可能性があります。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド・アッサム州でLPG不足に対する抗議と道路封鎖",
-          "location": "アッサム州, インド",
-          "severity": 65,
-          "description": "LPG（液化石油ガス）の不足が住民の不満を呼び、供給事務所前での抗議活動や道路封鎖が発生。エネルギー供給の不安定さが生活を圧迫し、混乱を招いています。",
-          "source": "India Today NE"
-        },
-        {
-          "title": "インド・パンジャブ州で肥料不足に対する農民抗議",
-          "location": "アムリトサル/パンジャブ州, インド",
+          "title": "インド各地での肥料・LPG不足に対する抗議",
+          "location": "アムリトサル, アッサム, インド",
           "severity": 60,
-          "description": "尿素や肥料の不足に対して農民が抗議デモを実施。農業生産への影響が懸念され、食料供給網に対する潜在的な不安が高まっています。",
-          "source": "The News Mill, The Indian Express"
+          "description": "インドの複数の地域で、肥料やLPG（液化石油ガス）の深刻な不足に対し、農民らによる大規模な抗議デモと道路封鎖が発生。生活必需品と農業生産への影響が大きく、社会不安が高まっている。",
+          "source": "The News Mill, India Today NE"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 45,
+      "panic_index": 50,
       "status": "unstable",
-      "main_cause": "金融システムへの懸念",
+      "main_cause": "金融システムの不透明性、信頼失墜の懸念",
       "incidents": [
         {
-          "title": "バングラデシュ銀行のイスラミ銀行への対応に懸念",
+          "title": "バングラデシュにおける銀行運営の不透明性と金融不安",
           "location": "バングラデシュ",
           "severity": 50,
-          "description": "バングラデシュ銀行がイスラミ銀行の経営問題を適切に処理できていないとの報道。取り付け騒ぎには至っていないものの、金融システムに対する信頼性への潜在的な懸念が見られます。",
-          "source": "The Daily Star"
+          "description": "バングラデシュの主要銀行であるイスラミ銀行の運営に不透明性が指摘され、政府介入の懸念も浮上。中央銀行の対応の失敗も報じられ、金融システムの安定性への信頼が揺らぎ、潜在的な金融不安が増大している。",
+          "source": "The Daily Star, New Age BD, Jagonews24.com"
         }
       ]
     }
