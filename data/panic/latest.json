@@ -1,49 +1,42 @@
 {
   "date": "2026-06-12",
-  "summary": "世界各地では、一部の地域で深刻な暴動や治安の悪化が続き、社会秩序が危機的な状況にあります。特に北アイルランドとアフガニスタンでは、生命の危険を伴う混乱が報告されています。一方で、資源不足、金融システムへの不信、選挙の不透明性などを背景とした大規模な抗議活動が多発し、複数の国で社会不安が増大しています。全体として世界は警戒状態にあり、地域によってはパニックの兆候が見られます。",
-  "global_panic_index": 65,
+  "summary": "世界各地で社会不安の兆候が散見され、特に欧州（北アイルランド）と北米（メキシコ）では、大規模な暴力的抗議活動や警察との衝突が発生し、社会秩序の不安定化が懸念されます。アジア圏では、韓国での選挙の公正性を巡る抗議や、インド、インドネシアでの生活必需品・エネルギー不足に起因するデモが広範に展開。金融不安の芽も一部地域で見られるものの、現時点で世界規模での無秩序な略奪や逃避行といった「パニック」状態には至っていません。しかし、地域ごとの緊張度は高まっています。",
+  "global_panic_index": 62,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 75,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "民族対立を背景とした暴動、戦争による供給不安",
+      "main_cause": "反移民感情、社会分断、大規模デモ",
       "incidents": [
         {
-          "title": "北アイルランド・ベルファストでの反移民暴動の激化",
-          "location": "ベルファスト, 北アイルランド",
+          "title": "北アイルランドでの反移民暴動の激化",
+          "location": "ベルファスト、北アイルランド (UK)",
           "severity": 85,
-          "description": "反移民感情を背景とした大規模な暴動が数夜にわたり発生。警察との激しい衝突、水砲の使用、偽情報拡散、地域の一時閉鎖やイベント中止に至り、深刻な社会不安と治安悪化を招いている。",
-          "source": "Al Jazeera, ABC News, CBS News, France 24, BBC, MSN"
+          "description": "ベルファストでは反移民を煽る暴動が組織的に発生し、偽情報が拡散。警察との衝突では水砲が使用され、暴力やヘイト感情が顕在化するなど、深刻な社会分断と秩序の混乱が見られる。",
+          "source": "BBC, Al Jazeera, Daily Sabah, bastillepost.com, France 24"
         },
         {
-          "title": "クリミアでの燃料不足の発生",
-          "location": "クリミア",
-          "severity": 65,
-          "description": "ウクライナのドローン攻撃後、クリミアの燃料ステーションが枯渇状態に陥り、住民の生活に直接的な影響を与えている。地域的なパニックと不満が拡大し、供給不安が深刻化している。",
-          "source": "Reuters"
+          "title": "スコットランドでの大規模反人種差別抗議",
+          "location": "グラスゴー、スコットランド (UK)",
+          "severity": 50,
+          "description": "グラスゴー市内で「大規模な」反人種差別抗議活動が予定され、警察が冷静を呼びかけ。ホテル周辺で抗議が続き、警察が出動する事態となり、社会的な緊張が高まっている。",
+          "source": "STV News, Glasgow Times"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "社会的不満を背景とした暴力的なデモ、環境問題による資源不安",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "大規模な暴力的抗議活動",
       "incidents": [
         {
-          "title": "メキシコでのワールドカップ関連の暴力的な抗議",
-          "location": "メキシコシティ, メキシコ",
-          "severity": 70,
-          "description": "サッカーのワールドカップ関連イベント中に暴力的な抗議デモが発生。警察に火炎瓶やレンガが投げつけられ、広範な社会的不満が表面化し、治安当局との衝突に至った。",
-          "source": "The Guardian, MSN, Lavender Hotel"
-        },
-        {
-          "title": "フロリダ州での深刻な干ばつ継続",
-          "location": "フロリダ州, アメリカ合衆国",
-          "severity": 45,
-          "description": "フロリダ州サワニー川流域で深刻な干ばつ状態が継続。水資源の枯渇や農業への影響が懸念され、将来的な食料・水不足への不安が住民間で増大している。",
-          "source": "Gainesville Sun"
+          "title": "メキシコでのワールドカップ関連の暴力的抗議",
+          "location": "メキシコシティ、メキシコ",
+          "severity": 80,
+          "description": "ワールドカップの試合前後で大規模な暴力的抗議が発生。アステカ・スタジアム外では火炎瓶やレンガが警察に投げつけられ、暴動警察と衝突。暴力的な混乱が国際イベントを覆い隠した。",
+          "source": "The Guardian, MSN, The Times of India"
         }
       ]
     },
@@ -51,44 +44,50 @@
       "region": "east_asia",
       "panic_index": 55,
       "status": "unstable",
-      "main_cause": "選挙システムへの不信、政治的緊張",
+      "main_cause": "選挙の公正性への懸念、抗議活動",
       "incidents": [
         {
-          "title": "韓国での投票用紙不足を巡る大規模抗議デモ",
-          "location": "蚕室、韓国（全国）",
-          "severity": 55,
-          "description": "投票用紙不足を巡り、韓国各地で数千人規模の抗議デモが発生。特に蚕室では開票所封鎖が試みられ、選挙システムへの不信感と民主主義への懸念が強く表出している。",
-          "source": "Reuters, CHOSUNBIZ, 조선일보, 매일경제"
+          "title": "韓国での投票用紙不足を巡る広範な抗議",
+          "location": "韓国（全国、蚕室など）",
+          "severity": 65,
+          "description": "投票用紙不足を原因とする学生主導の抗議が全国に広がり、数千人が民主主義を擁護するために立ち上がった。開票センターを封鎖する動きもあり、元選挙監視機関長が出国禁止となるなど、政府の対応が注目される。",
+          "source": "Reuters, CHOSUNBIZ, Yonhap News Agency, 조선일보, 매일경제"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 90,
-      "status": "critical",
-      "main_cause": "武力紛争、治安の崩壊",
-      "incidents": [
-        {
-          "title": "アフガニスタン・ヘラートでの騒乱後の銃声",
-          "location": "ヘラート, アフガニスタン",
-          "severity": 90,
-          "description": "アフガニスタンのヘラート地域で騒乱後に銃声が聞こえる事象が報告されており、地域の治安が極めて悪化していることを示唆する。武装衝突や混乱が続き、住民は生命の危険に晒されている。",
-          "source": "Australian Broadcasting Corporation"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
       "panic_index": 60,
       "status": "unstable",
-      "main_cause": "資源・エネルギー供給不足",
+      "main_cause": "資源不足、政治的不安、社会秩序の不安定化",
       "incidents": [
         {
-          "title": "インド各地での肥料・LPG不足に対する抗議",
-          "location": "アムリトサル, アッサム, インド",
+          "title": "パキスタン管理下のカシミールでの抗議激化",
+          "location": "パキスタン管理下のジャンムー・カシミール (PoK)",
+          "severity": 75,
+          "description": "PoKで抗議活動が激化し、パキスタン政府が抗議指導者に報奨金を出す事態に発展。活動家遺体返還を求める声も上がり、人権問題と社会不安が深刻化している。",
+          "source": "MSN, Mathrubhumi English"
+        },
+        {
+          "title": "インド各地での資源不足を巡る抗議",
+          "location": "インド（パルバティプラム、アムリトサル、アッサムなど）",
           "severity": 60,
-          "description": "インドの複数の地域で、肥料やLPG（液化石油ガス）の深刻な不足に対し、農民らによる大規模な抗議デモと道路封鎖が発生。生活必需品と農業生産への影響が大きく、社会不安が高まっている。",
-          "source": "The News Mill, India Today NE"
+          "description": "飲料水、肥料、LPG（液化石油ガス）の不足を巡り、インド各地で抗議活動が発生。農民による抗議では治安維持のための措置が取られ、一部では道路封鎖に至るなど、生活必需品への不安が社会不安に繋がっている。",
+          "source": "Deccan Chronicle, The News Mill, India Today NE"
+        },
+        {
+          "title": "アフガニスタン、ヘラート地域での不安と銃声",
+          "location": "ヘラート、アフガニスタン",
+          "severity": 55,
+          "description": "アフガニスタンのヘラート地域で不安が報じられ、その後銃声が鳴り響いたとされている。詳細は不明だが、治安状況の不安定さや潜在的な暴力の可能性を示唆する。",
+          "source": "Australian Broadcasting Corporation"
+        },
+        {
+          "title": "バングラデシュ、特定の銀行を巡る金融不安の兆候",
+          "location": "バングラデシュ",
+          "severity": 40,
+          "description": "バングラデシュ・イスラミ銀行の管理体制に問題があるとの懸念が報じられ、中央銀行総裁は政府介入を否定。取り付け騒ぎには至っていないものの、金融システムへの不信が潜在的な不安要因となっている。",
+          "source": "The Daily Star, Jagonews24.com"
         }
       ]
     },
@@ -96,14 +95,14 @@
       "region": "southeast_asia",
       "panic_index": 50,
       "status": "unstable",
-      "main_cause": "金融システムの不透明性、信頼失墜の懸念",
+      "main_cause": "燃料価格高騰、経済不安",
       "incidents": [
         {
-          "title": "バングラデシュにおける銀行運営の不透明性と金融不安",
-          "location": "バングラデシュ",
-          "severity": 50,
-          "description": "バングラデシュの主要銀行であるイスラミ銀行の運営に不透明性が指摘され、政府介入の懸念も浮上。中央銀行の対応の失敗も報じられ、金融システムの安定性への信頼が揺らぎ、潜在的な金融不安が増大している。",
-          "source": "The Daily Star, New Age BD, Jagonews24.com"
+          "title": "インドネシアでの燃料価格高騰と学生抗議",
+          "location": "インドネシア",
+          "severity": 60,
+          "description": "インドネシアで燃料価格の高騰とルピア安が続き、国民の不満が高まっている。これを受け、学生が政府への抗議活動を展開し、経済的な圧力が社会不安の要因となっている。",
+          "source": "The Business Times"
         }
       ]
     }
