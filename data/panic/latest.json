@@ -1,129 +1,136 @@
 {
-  "date": "2026-06-12",
-  "summary": "世界各地で社会不安とパニックの兆候が増加しています。特にヨーロッパの北アイルランドでは大規模な暴動が再燃し、アフガニスタンでは騒乱と銃声が報告され、極めて高い緊張状態にあります。アジアでは、韓国で選挙の公平性に関する抗議活動が大規模化し、インドやインドネシアでは生活必需品の不足や燃料価格高騰による抗議デモが多発。経済的・社会的な不満が広範な地域で可視化されており、一部地域では社会秩序が一時的に揺らいでいます。",
-  "global_panic_index": 72,
+  "date": "2026-06-13",
+  "summary": "世界各地で複数の要因による社会不安が顕在化しています。ヨーロッパでは北アイルランドで民族・宗教間の対立を背景とした大規模な暴動が発生し、中東アフガニスタンでは銃声が報じられるなど治安が極度に悪化しています。アジア地域では、韓国で選挙の透明性に関する大規模な抗議デモ、インドネシアでは燃料価格高騰による学生デモが見られます。特に南アジアのインドでは飲用水、LPG、肥料といった生活必需品の不足が広範囲で抗議活動を引き起こしており、バングラデシュでは金融機関の安定性への懸念も浮上しています。全体として、経済的困窮、資源不足、政治的不信、治安悪化が連鎖的に社会の安定を揺るがす状況です。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 85,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "政治的・社会的分断、暴力的な抗議",
+      "main_cause": "民族・宗教問題、社会的分裂、治安悪化",
       "incidents": [
         {
-          "title": "北アイルランドでの暴動の組織的側面と再燃",
-          "location": "北アイルランド、ベルファスト",
-          "severity": 95,
-          "description": "北アイルランドでは、反移民を背景とした暴動、暴力、ヘイトクライムが広範に発生。刺殺事件後には警察が放水砲を使用する事態に発展し、多数の逮捕者も出ており、社会秩序の深刻な混乱が続いています。",
-          "source": "BBC, Al Jazeera, The Guardian, Daily Sabah, 巴士的報, RTE.ie"
+          "title": "北アイルランドでの暴動、反移民感情の高まり",
+          "location": "ベルファスト, 北アイルランド",
+          "severity": 85,
+          "description": "ナイフ事件をきっかけに反移民・反人種差別を訴える暴動が発生し、警察が水鉄砲を使用。複数の夜にわたり暴力行為が続き、多数の逮捕者が出るなど社会秩序が著しく混乱しています。",
+          "source": "Al Jazeera, BBC, The Guardian, Daily Sabah, Action News 5, MSN"
         },
         {
-          "title": "グラスゴーでの大規模反人種差別抗議と警察の対応",
-          "location": "イギリス、グラスゴー",
-          "severity": 70,
-          "description": "グラスゴー市中心部では大規模な反人種差別抗議デモが計画され、警察が沈静化を呼びかけました。一部の抗議活動では警察がホテルに突入する事態も発生しており、潜在的な衝突の危険性が高まっています。",
-          "source": "STV News, Glasgow Times"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "暴力的な抗議活動",
-      "incidents": [
-        {
-          "title": "メキシコでの試合前騒乱と暴力的な抗議",
-          "location": "メキシコ、アステカ",
+          "title": "北アイルランドでの騒乱の背景",
+          "location": "ベルファスト, 北アイルランド",
           "severity": 80,
-          "description": "メキシコではサッカー試合前に大規模な騒乱が発生し、警察官に向けて火炎瓶やレンガが投げつけられました。暴力的な抗議活動が、ワールドカップ開幕の勝利の影を落としています。",
-          "source": "The Guardian, MSN"
+          "description": "数日間にわたる暴動は、長年の民族・宗教的対立に移民問題や特定の事件が加わり、怒りが社会に拡散した結果と分析されています。治安当局は警戒を続けています。",
+          "source": "RTE.ie"
+        },
+        {
+          "title": "グラスゴーでの反人種差別抗議の呼びかけ",
+          "location": "グラスゴー, スコットランド",
+          "severity": 45,
+          "description": "市中心部で大規模な反人種差別抗議が計画されており、警察は事前の冷静な行動を呼びかけています。潜在的な社会不安要因として注視が必要です。",
+          "source": "STV News"
+        },
+        {
+          "title": "ロンドンでの「違法な土地販売」イベントへの抗議",
+          "location": "ロンドン, イギリス",
+          "severity": 40,
+          "description": "西岸地区での違法な土地販売を促進するイベントに対し、ロンドン市長が非難し、抗議活動が報告されています。政治的緊張と市民の不満を示しています。",
+          "source": "The National"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "選挙の公平性に関する不安、政治的混乱",
+      "panic_index": 65,
+      "status": "unstable",
+      "main_cause": "政治的不信、選挙プロセスへの疑問",
       "incidents": [
         {
-          "title": "韓国における投票用紙不足に対する大規模抗議",
-          "location": "韓国、蚕室（Jamsil）",
+          "title": "韓国の投票用紙不足に対する大規模抗議デモ",
+          "location": "韓国 (ソウル・蚕室など)",
+          "severity": 70,
+          "description": "数千人の市民が投票用紙不足問題を巡り、開票所封鎖を試みるなどの大規模な抗議デモを展開。民主主義プロセスへの国民の不信と強い懸念が示されています。",
+          "source": "Reuters, CHOSUNBIZ, 매일경제, NST Online"
+        },
+        {
+          "title": "投票用紙不足問題で元選挙管理委員長が出国禁止",
+          "location": "韓国",
+          "severity": 65,
+          "description": "投票用紙不足問題を巡る警察の捜査に関連し、元選挙管理委員長が出国禁止措置を受けました。この問題の深刻性と社会的な影響の大きさを示しています。",
+          "source": "Yonhap News Agency"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "経済的不満、燃料価格高騰",
+      "incidents": [
+        {
+          "title": "インドネシアの燃料価格高騰と学生デモ",
+          "location": "インドネシア",
+          "severity": 60,
+          "description": "燃料価格の高騰と通貨安が経済的圧力を生み、学生による抗議デモが発生しています。生活費上昇への国民の不満が表面化しています。",
+          "source": "The Business Times"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "生活必需品不足、金融不安、宗教的緊張",
+      "incidents": [
+        {
+          "title": "インドでの飲用水不足に対する女性の抗議",
+          "location": "パルヴァティプラム・マニャム, インド",
           "severity": 75,
-          "description": "韓国では投票用紙不足を巡る問題が数千人規模の抗議活動に発展。若者を中心に開票センターの封鎖も試みられ、元選挙監視委員長が出国禁止となるなど、事態は深刻化しています。",
-          "source": "Reuters, CHOSUNBIZ, 매일경제, Yonhap News Agency"
+          "description": "基本的な生活必需品である飲用水の不足に対し、女性たちが抗議活動を行っています。地域住民の生命と生活に直結する深刻な問題です。",
+          "source": "Deccan Chronicle"
+        },
+        {
+          "title": "インドでのLPG不足と道路封鎖抗議",
+          "location": "アッサム, インド",
+          "severity": 70,
+          "description": "LPG（液化石油ガス）の不足が深刻化し、市民が供給事務所前で抗議活動を行い、道路を封鎖しました。エネルギー不足が生活に大きな影響を与えています。",
+          "source": "India Today NE"
+        },
+        {
+          "title": "インドでの肥料不足に対する農民の抗議",
+          "location": "アムリトサル, インド",
+          "severity": 65,
+          "description": "尿素や肥料の不足に対し、農民が抗議デモを実施。農業生産への深刻な影響が懸念され、食料供給網への不安にもつながります。",
+          "source": "The News Mill"
+        },
+        {
+          "title": "バングラデシュの金融機関における懸念",
+          "location": "バングラデシュ",
+          "severity": 55,
+          "description": "中央銀行が特定の銀行の管理に失敗しているとの指摘があり、金融システムへの不信感が高まる可能性があります。取り付け騒ぎなど金融パニックへの懸念が浮上しています。",
+          "source": "The Daily Star, Jagonews24.com"
+        },
+        {
+          "title": "インド北東部でのモスク閉鎖に対する抗議",
+          "location": "インド北東部",
+          "severity": 60,
+          "description": "15のモスクが閉鎖されたことに対し、イスラム系団体が抗議活動を行っています。宗教的緊張が高まり、社会的分裂を深める可能性があります。",
+          "source": "Muslim Network TV"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 88,
+      "panic_index": 90,
       "status": "critical",
-      "main_cause": "治安悪化、武装衝突の可能性",
+      "main_cause": "治安悪化、武力紛争",
       "incidents": [
         {
-          "title": "アフガニスタン・ヘラート地域での騒乱と銃声",
-          "location": "アフガニスタン、ヘラート",
+          "title": "アフガニスタン、ヘラート地域での騒乱後の銃声",
+          "location": "ヘラート, アフガニスタン",
           "severity": 90,
-          "description": "アフガニスタンのヘラート地域で騒乱が発生し、その後に銃声が鳴り響いたと報じられています。この事態は地域の治安状況が極めて不安定であり、大規模な暴力行為に発展する危険性を示唆しています。",
+          "description": "騒乱に続き銃声が聞かれたと報じられています。治安の極度な悪化と武力衝突の発生を示唆しており、住民の生命に直接的な脅威が迫る危機的状況です。",
           "source": "Australian Broadcasting Corporation"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 0,
-      "status": "stable",
-      "main_cause": "N/A",
-      "incidents": []
-    },
-    {
-      "region": "south_america",
-      "panic_index": 0,
-      "status": "stable",
-      "main_cause": "N/A",
-      "incidents": []
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "生活必需品不足、経済不安、エネルギー問題",
-      "incidents": [
-        {
-          "title": "インドネシアでの燃料価格高騰と学生抗議",
-          "location": "インドネシア",
-          "severity": 75,
-          "description": "インドネシアでは燃料価格の高騰とルピア安が重なり、学生たちによる大規模な抗議活動が発生。経済不安が市民の不満を高め、社会的な緊張が高まっている状況です。",
-          "source": "The Business Times"
-        },
-        {
-          "title": "インド・アッサムでのLPG不足抗議と道路封鎖",
-          "location": "インド、アッサム、マルゲリータ",
-          "severity": 75,
-          "description": "インドのアッサム州ではLPG（液化石油ガス）の深刻な不足に対し、住民が抗議活動を行い、ガス供給事務所前で道路を封鎖しました。生活必需品の欠乏が市民生活に直接的な影響を与え、混乱を招いています。",
-          "source": "India Today NE"
-        },
-        {
-          "title": "インド・パーヴァティプラム・マンヤムでの飲料水不足抗議",
-          "location": "インド、パーヴァティプラム・マンヤム",
-          "severity": 65,
-          "description": "インドのパーヴァティプラム・マンヤム地域では、飲料水不足に苦しむ女性たちが抗議デモを実施しました。基本的な生活インフラの欠如が住民の深刻な不安と不満を引き起こしています。",
-          "source": "Deccan Chronicle"
-        },
-        {
-          "title": "インド・アムリトサルでの肥料不足抗議",
-          "location": "インド、アムリトサル",
-          "severity": 70,
-          "description": "インドのアムリトサルでは、尿素と肥料の不足に対し農民が大々的な抗議活動を行いました。食料生産に不可欠な資源の欠乏が農業部門に打撃を与え、将来的な食料不安への懸念が高まっています。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "バングラデシュにおけるイスラミ銀行を巡る金融不安",
-          "location": "バングラデシュ",
-          "severity": 60,
-          "description": "バングラデシュの中央銀行がイスラミ銀行への不適切な対応を指摘され、政府介入の疑惑も浮上。直接的な取り付け騒ぎには至っていないものの、金融システムの信頼性への懸念が高まり、潜在的な社会不安を抱えています。",
-          "source": "The Daily Star, Jagonews24.com"
         }
       ]
     }
