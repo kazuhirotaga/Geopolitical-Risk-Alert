@@ -1,143 +1,129 @@
 {
   "date": "2026-06-13",
-  "summary": "世界各地で生活必需品不足、金融不安、政治的抗議が散発的に発生しています。ケニアでは水不足が深刻な混乱を招き、メキシコや北アイルランドでは大規模な抗議活動や暴動が見られました。韓国では選挙の公正性に対する不満から長期デモが続き、銀行破綻の報告もあり、広範な社会不安が懸念されます。全体として警戒レベルが中程度に高まっています。",
-  "global_panic_index": 65,
+  "summary": "世界各地で資源不足、政治的不信、社会的分断を原因とするパニックや社会不安が顕著に増大しています。特にアフリカ、東南アジアの一部では水不足や人権侵害が致命的な事態に発展し、欧州では暴動や暴力的な抗議活動が頻発しています。民主主義のプロセスへの不信が抗議行動を招いている地域もあり、全体的に高い緊迫度が続いています。",
+  "global_panic_index": 78,
   "regions": [
     {
-      "region": "africa",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "水不足、生活インフラの崩壊",
-      "incidents": [
-        {
-          "title": "水不足抗議と混乱、銃の脅威",
-          "location": "ケニア",
-          "severity": 88,
-          "description": "深刻な水不足に抗議する住民が混乱状態に陥り、銃を構える者が現れるなど、秩序が大きく乱れています。",
-          "source": "Daily Nation"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
+      "region": "europe",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "生活必需品不足、金融不安、政治的不満",
+      "main_cause": "社会的分断、政治的緊張",
       "incidents": [
         {
-          "title": "イスラミ銀行略奪者への特別法廷要求",
-          "location": "バングラデシュ",
-          "severity": 75,
-          "description": "顧客フォーラムがイスラミ銀行での略奪行為に関与した者への特別法廷設置を求めており、金融機関への不信感が募っています。",
-          "source": "Jagonews24.com"
+          "title": "ベルファストでの反移民デモ暴徒化、放水砲使用",
+          "location": "Belfast, Northern Ireland, UK",
+          "severity": 85,
+          "description": "反移民デモが暴力的な衝突に発展し、放水砲が使用され、放火も報告された。数日にわたる社会不安が深刻化している。",
+          "source": "MSN, BBC, The Guardian"
         },
         {
-          "title": "飲料水不足に対する女性の抗議",
-          "location": "インド、パルヴァティプラム・マンヤム",
+          "title": "UK各地で暴力的抗議活動、複数逮捕",
+          "location": "Southampton, UK",
           "severity": 65,
-          "description": "インドのパルヴァティプラム・マンヤム地域で、飲料水不足に苦しむ女性たちが抗議活動を行っています。",
-          "source": "Deccan Chronicle"
+          "description": "暴力的な抗議活動が発生し、複数の参加者が逮捕・投獄された。社会的分断と政治的緊張が背景にある。",
+          "source": "MSN"
         },
         {
-          "title": "肥料不足に対する農民の抗議",
-          "location": "インド、アムリトサル",
-          "severity": 60,
-          "description": "インドのアムリトサルでは、尿素と肥料の不足に対し、農民が抗議デモを実施し、治安部隊が配置されています。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "医薬品不足への価格上限引き上げ",
-          "location": "インド",
-          "severity": 55,
-          "description": "インド政府は、癌治療薬の不足に対処するため、価格上限を引き上げています。医薬品へのアクセスに対する不安が高まっています。",
-          "source": "whbl.com"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "選挙の公正性への疑念",
-      "incidents": [
-        {
-          "title": "投票用紙不足を非難する抗議活動",
-          "location": "韓国、蚕室（チャムシル）",
-          "severity": 68,
-          "description": "韓国では、投票用紙不足を非難する抗議活動が9日目に突入し、集計センターの封鎖を試みています。学生も参加し、民主主義への懸念が高まっています。",
-          "source": "매일경제, NST Online, MSN, Seoul Economic Daily"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 62,
-      "status": "unstable",
-      "main_cause": "政治的抗議活動、金融機関への不信",
-      "incidents": [
-        {
-          "title": "W杯抗議活動の混乱と機動隊との衝突",
-          "location": "メキシコ",
-          "severity": 70,
-          "description": "メキシコでは、W杯開幕戦を暴力的な抗議活動が覆い、デモ参加者が機動隊と衝突し、混乱が生じています。",
-          "source": "MSN, Operation Sports"
-        },
-        {
-          "title": "First National Bankの閉鎖",
-          "location": "米国",
-          "severity": 60,
-          "description": "タレントゥム・ブリッジ・ロード沿いのFirst National Bankが閉鎖され、地域住民に金融サービスへの不安が広がっています。",
-          "source": "TribLIVE.com"
-        },
-        {
-          "title": "Meta社AIチーム、強制労働と監視に反乱",
-          "location": "米国",
-          "severity": 45,
-          "description": "Meta社のAIチーム従業員が、強制労働とキーストローク監視に抗議し、内部での大規模な反発が生じています。",
-          "source": "IndexBox"
-        },
-        {
-          "title": "銀行強盗からの逃走",
-          "location": "米国",
-          "severity": 30,
-          "description": "米国で銀行強盗が車を盗んで逃走する事件が報告されており、地域住民の治安に対する不安を募らせています。",
-          "source": "Action News 5, The Courier-Journal"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "地域紛争、社会秩序の乱れ",
-      "incidents": [
-        {
-          "title": "北アイルランドでの暴動と逮捕者増加",
-          "location": "北アイルランド",
-          "severity": 70,
-          "description": "北アイルランドでは暴動が発生し、組織的な活動の兆候が見られ、逮捕者数が19人に増加しました。その後、新たな衝突は報告されていません。",
-          "source": "BBC, The Guardian, The Manila Times"
-        },
-        {
-          "title": "ロンドンでの「違法な土地販売」イベント非難",
-          "location": "英国、ロンドン",
-          "severity": 40,
-          "description": "ロンドンで開催された「違法な土地販売」を促進するイベントに対し、市長が非難声明を出し、社会的な緊張を引き起こしています。",
-          "source": "The National"
+          "title": "人種差別煽動への懸念、政治的緊張高まる",
+          "location": "UK",
+          "severity": 50,
+          "description": "政治家が人種差別的な分裂を煽っていると批判され、社会的なunrestが広がる可能性が指摘されている。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "地域紛争と政治的緊張",
+      "panic_index": 75,
+      "status": "unstable",
+      "main_cause": "紛争、暴力",
       "incidents": [
         {
-          "title": "ラワラコット殺害事件でパキスタン占領カシミールに騒乱",
-          "location": "パキスタン占領カシミール（PoK）",
-          "severity": 68,
-          "description": "ラワラコットでの殺害事件が、パキスタン占領カシミール（PoK）地域に騒乱をエスカレートさせ、共同行動委員会（JAAC）が条件を提示しています。",
+          "title": "西岸地区で入植者によるパレスチナ人銃撃",
+          "location": "West Bank",
+          "severity": 75,
+          "description": "イスラエル人入植者がパレスチナ人を銃撃する事件が発生。精神障害者と報じられており、地域の緊張をさらに高める可能性がある。",
+          "source": "The Times of Israel"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 90,
+      "status": "critical",
+      "main_cause": "水不足、生活基盤の危機",
+      "incidents": [
+        {
+          "title": "ケニアで水不足抗議が暴徒化、銃器持ち出し",
+          "location": "Great Wall Gardens, Kenya",
+          "severity": 90,
+          "description": "深刻な水不足に抗議する住民が道路を封鎖し、一部で銃器が持ち出されるなど、混乱が「カオス」と表現される状況に。",
+          "source": "Daily Nation"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 70,
+      "status": "unstable",
+      "main_cause": "民主主義プロセスへの不信",
+      "incidents": [
+        {
+          "title": "韓国で投票用紙不足に抗議、開票センター封鎖長期化",
+          "location": "Jamsil, South Korea",
+          "severity": 70,
+          "description": "投票用紙不足に対する抗議活動が9日間にわたり、開票センターを封鎖し、スポーツイベントや祭りにも影響を及ぼしている。",
+          "source": "매일경제, NST Online, Seoul Economic Daily"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "人権侵害、生活必需品不足、金融不安、宗教的緊張",
+      "incidents": [
+        {
+          "title": "PoKで抗議者46人死亡、1100人逮捕、公衆の怒り増大",
+          "location": "Pakistan Occupied Kashmir",
+          "severity": 95,
+          "description": "係争地域PoKで難民議席制度への抗議中に46人が殺害され、1100人以上が逮捕された。公衆の怒りが高まっている。",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "バングラデシュで銀行略奪者への特別裁判所設置要求",
+          "location": "Bangladesh",
+          "severity": 80,
+          "description": "イスラミ銀行での略奪行為に対し、顧客フォーラムが特別裁判所の設置を求めている。金融システムへの信頼が揺らいでいる。",
+          "source": "Jagonews24.com"
+        },
+        {
+          "title": "インド各地で水・肥料不足への大規模抗議",
+          "location": "Parvathipuram Manyam, Amritsar, India",
+          "severity": 65,
+          "description": "飲料水や尿素・肥料の深刻な不足に対し、女性や農民による大規模な抗議デモが発生。生活と食料生産に直接影響。",
+          "source": "Deccan Chronicle, The News Mill"
+        },
+        {
+          "title": "インドでモスク閉鎖へのムスリム団体抗議",
+          "location": "Northeast India",
+          "severity": 60,
+          "description": "北東インドで15のモスクが閉鎖されたことに対し、ムスリム団体が抗議活動を実施。宗教的緊張が高まっている。",
+          "source": "Muslim Network TV"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "社会的な不満、イベントに伴う混乱",
+      "incidents": [
+        {
+          "title": "メキシコW杯開会式でデモ隊と機動隊が衝突",
+          "location": "Mexico",
+          "severity": 60,
+          "description": "ワールドカップ開会式の会場外で、抗議デモ隊と機動隊が衝突する事態が発生。大規模イベントの最中の混乱。",
           "source": "MSN"
         }
       ]
