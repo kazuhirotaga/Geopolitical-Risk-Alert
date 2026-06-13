@@ -1,63 +1,100 @@
 {
   "date": "2026-06-13",
-  "summary": "世界各地で複数の要因による社会不安が顕在化しています。ヨーロッパでは北アイルランドで民族・宗教間の対立を背景とした大規模な暴動が発生し、中東アフガニスタンでは銃声が報じられるなど治安が極度に悪化しています。アジア地域では、韓国で選挙の透明性に関する大規模な抗議デモ、インドネシアでは燃料価格高騰による学生デモが見られます。特に南アジアのインドでは飲用水、LPG、肥料といった生活必需品の不足が広範囲で抗議活動を引き起こしており、バングラデシュでは金融機関の安定性への懸念も浮上しています。全体として、経済的困窮、資源不足、政治的不信、治安悪化が連鎖的に社会の安定を揺るがす状況です。",
-  "global_panic_index": 68,
+  "summary": "世界各地で地域紛争、資源不足、政治的行政への不信感から社会不安が増大しています。特に、パキスタン占領カシミールでは難民議席を巡る大規模な抗議活動が暴徒化し、多数の死傷者を出す危機的状況にあります。また、北アイルランドでは反移民感情に端を発する暴動が激化し、水砲や放火も見られます。水や肥料の不足による抗議も各地で発生しており、一部地域では金融不安の懸念も浮上。全体的に緊張が高まっている状況です。",
+  "global_panic_index": 78,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "民族・宗教問題、社会的分裂、治安悪化",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "政治・社会対立、反移民感情",
       "incidents": [
         {
-          "title": "北アイルランドでの暴動、反移民感情の高まり",
-          "location": "ベルファスト, 北アイルランド",
+          "title": "北アイルランドでの反移民暴動の激化",
+          "location": "Belfast, Northern Ireland (UK)",
           "severity": 85,
-          "description": "ナイフ事件をきっかけに反移民・反人種差別を訴える暴動が発生し、警察が水鉄砲を使用。複数の夜にわたり暴力行為が続き、多数の逮捕者が出るなど社会秩序が著しく混乱しています。",
-          "source": "Al Jazeera, BBC, The Guardian, Daily Sabah, Action News 5, MSN"
+          "description": "ベルファストで反移民感情を背景にした暴動が激化し、暴力、放火、水砲の使用が見られる。複数の地域で緊張が高まり、社会秩序への懸念が増大している。",
+          "source": "Al Jazeera, BBC, RTE.ie, The Guardian, MSN"
         },
         {
-          "title": "北アイルランドでの騒乱の背景",
-          "location": "ベルファスト, 北アイルランド",
-          "severity": 80,
-          "description": "数日間にわたる暴動は、長年の民族・宗教的対立に移民問題や特定の事件が加わり、怒りが社会に拡散した結果と分析されています。治安当局は警戒を続けています。",
-          "source": "RTE.ie"
+          "title": "グラスゴーでの大規模な抗議活動",
+          "location": "Glasgow, UK",
+          "severity": 60,
+          "description": "大規模な反人種差別抗議が予定され、警察が平静を呼びかけるなど緊張が高まっている。市内外で抗議活動が継続的に発生している模様。",
+          "source": "STV News, Glasgow Times"
         },
         {
-          "title": "グラスゴーでの反人種差別抗議の呼びかけ",
-          "location": "グラスゴー, スコットランド",
-          "severity": 45,
-          "description": "市中心部で大規模な反人種差別抗議が計画されており、警察は事前の冷静な行動を呼びかけています。潜在的な社会不安要因として注視が必要です。",
-          "source": "STV News"
-        },
-        {
-          "title": "ロンドンでの「違法な土地販売」イベントへの抗議",
-          "location": "ロンドン, イギリス",
-          "severity": 40,
-          "description": "西岸地区での違法な土地販売を促進するイベントに対し、ロンドン市長が非難し、抗議活動が報告されています。政治的緊張と市民の不満を示しています。",
-          "source": "The National"
+          "title": "サウサンプトンでの暴力的な抗議デモで逮捕者",
+          "location": "Southampton, UK",
+          "severity": 55,
+          "description": "サウサンプトンで発生した暴力的な抗議デモに関連して、複数の逮捕者が出ている。一部の抗議活動が秩序を逸脱する傾向が見られる。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 65,
-      "status": "unstable",
-      "main_cause": "政治的不信、選挙プロセスへの疑問",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "行政への不信、政治問題",
       "incidents": [
         {
-          "title": "韓国の投票用紙不足に対する大規模抗議デモ",
-          "location": "韓国 (ソウル・蚕室など)",
+          "title": "韓国・投票用紙不足を巡る大規模抗議",
+          "location": "Jamsil, South Korea",
           "severity": 70,
-          "description": "数千人の市民が投票用紙不足問題を巡り、開票所封鎖を試みるなどの大規模な抗議デモを展開。民主主義プロセスへの国民の不信と強い懸念が示されています。",
-          "source": "Reuters, CHOSUNBIZ, 매일경제, NST Online"
+          "description": "選挙での投票用紙不足に対し、数千人規模の抗議活動が9日間継続。行政への不信感から民主主義の擁護を訴え、元選挙監視機関長の出国禁止処分にも繋がっている。",
+          "source": "매일경제, CHOSUNBIZ, Yonhap News Agency, NST Online, Seoul Economic Daily"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 90,
+      "status": "critical",
+      "main_cause": "地域紛争、資源不足、行政問題",
+      "incidents": [
+        {
+          "title": "パキスタン占領カシミール（PoK）での抗議暴動と死者発生",
+          "location": "Pakistan Occupied Kashmir (PoK)",
+          "severity": 95,
+          "description": "難民議席に反対する大規模な抗議活動が暴徒化し、46人の死者と1,100人以上の逮捕者が出た。政府への怒りが高まり、深刻な社会不安状態に陥っている。",
+          "source": "Bhaskar English"
         },
         {
-          "title": "投票用紙不足問題で元選挙管理委員長が出国禁止",
-          "location": "韓国",
-          "severity": 65,
-          "description": "投票用紙不足問題を巡る警察の捜査に関連し、元選挙管理委員長が出国禁止措置を受けました。この問題の深刻性と社会的な影響の大きさを示しています。",
-          "source": "Yonhap News Agency"
+          "title": "インド・飲用水不足に対する住民の抗議",
+          "location": "Parvathipuram Manyam, India",
+          "severity": 50,
+          "description": "飲用水の深刻な不足に対し、地域住民、特に女性たちが抗議デモを実施。生活必需品の欠乏が社会的な不満を引き起こしている。",
+          "source": "Deccan Chronicle"
+        },
+        {
+          "title": "インド・肥料不足に対する農民の抗議",
+          "location": "Amritsar, India",
+          "severity": 50,
+          "description": "尿素と肥料の不足に対し、農民が大規模な抗議デモを実施。農業生産への影響と食料不安への懸念が背景にある。",
+          "source": "The News Mill"
+        },
+        {
+          "title": "インド北東部でのモスク閉鎖への抗議",
+          "location": "Northeast India",
+          "severity": 45,
+          "description": "当局による15のモスク閉鎖に対し、イスラム教徒団体が抗議活動を実施。宗教的な対立が社会不安を引き起こす可能性が指摘される。",
+          "source": "Muslim Network TV"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "資源不足",
+      "incidents": [
+        {
+          "title": "ケニア・水不足に対する銃を伴う抗議と混乱",
+          "location": "Great Wall Gardens, Kenya",
+          "severity": 75,
+          "description": "給水停止と水不足に対し、住民が銃を伴い抗議デモを実施。水資源の欠乏が社会の混乱と緊張を引き起こしており、状況悪化が懸念される。",
+          "source": "Daily Nation"
         }
       ]
     },
@@ -65,72 +102,14 @@
       "region": "southeast_asia",
       "panic_index": 55,
       "status": "unstable",
-      "main_cause": "経済的不満、燃料価格高騰",
+      "main_cause": "金融不安",
       "incidents": [
         {
-          "title": "インドネシアの燃料価格高騰と学生デモ",
-          "location": "インドネシア",
-          "severity": 60,
-          "description": "燃料価格の高騰と通貨安が経済的圧力を生み、学生による抗議デモが発生しています。生活費上昇への国民の不満が表面化しています。",
-          "source": "The Business Times"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "生活必需品不足、金融不安、宗教的緊張",
-      "incidents": [
-        {
-          "title": "インドでの飲用水不足に対する女性の抗議",
-          "location": "パルヴァティプラム・マニャム, インド",
-          "severity": 75,
-          "description": "基本的な生活必需品である飲用水の不足に対し、女性たちが抗議活動を行っています。地域住民の生命と生活に直結する深刻な問題です。",
-          "source": "Deccan Chronicle"
-        },
-        {
-          "title": "インドでのLPG不足と道路封鎖抗議",
-          "location": "アッサム, インド",
-          "severity": 70,
-          "description": "LPG（液化石油ガス）の不足が深刻化し、市民が供給事務所前で抗議活動を行い、道路を封鎖しました。エネルギー不足が生活に大きな影響を与えています。",
-          "source": "India Today NE"
-        },
-        {
-          "title": "インドでの肥料不足に対する農民の抗議",
-          "location": "アムリトサル, インド",
-          "severity": 65,
-          "description": "尿素や肥料の不足に対し、農民が抗議デモを実施。農業生産への深刻な影響が懸念され、食料供給網への不安にもつながります。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "バングラデシュの金融機関における懸念",
-          "location": "バングラデシュ",
+          "title": "バングラデシュ・イスラミ銀行のガバナンス問題と金融当局への不信",
+          "location": "Bangladesh",
           "severity": 55,
-          "description": "中央銀行が特定の銀行の管理に失敗しているとの指摘があり、金融システムへの不信感が高まる可能性があります。取り付け騒ぎなど金融パニックへの懸念が浮上しています。",
+          "description": "バングラデシュ銀行がイスラミ銀行の管理に問題を抱え、政府の干渉疑惑が浮上。金融システムの健全性に対する懸念が広がる可能性がある。",
           "source": "The Daily Star, Jagonews24.com"
-        },
-        {
-          "title": "インド北東部でのモスク閉鎖に対する抗議",
-          "location": "インド北東部",
-          "severity": 60,
-          "description": "15のモスクが閉鎖されたことに対し、イスラム系団体が抗議活動を行っています。宗教的緊張が高まり、社会的分裂を深める可能性があります。",
-          "source": "Muslim Network TV"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 90,
-      "status": "critical",
-      "main_cause": "治安悪化、武力紛争",
-      "incidents": [
-        {
-          "title": "アフガニスタン、ヘラート地域での騒乱後の銃声",
-          "location": "ヘラート, アフガニスタン",
-          "severity": 90,
-          "description": "騒乱に続き銃声が聞かれたと報じられています。治安の極度な悪化と武力衝突の発生を示唆しており、住民の生命に直接的な脅威が迫る危機的状況です。",
-          "source": "Australian Broadcasting Corporation"
         }
       ]
     }
