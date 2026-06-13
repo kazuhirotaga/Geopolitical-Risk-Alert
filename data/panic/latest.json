@@ -1,115 +1,144 @@
 {
   "date": "2026-06-13",
-  "summary": "世界各地で地域紛争、資源不足、政治的行政への不信感から社会不安が増大しています。特に、パキスタン占領カシミールでは難民議席を巡る大規模な抗議活動が暴徒化し、多数の死傷者を出す危機的状況にあります。また、北アイルランドでは反移民感情に端を発する暴動が激化し、水砲や放火も見られます。水や肥料の不足による抗議も各地で発生しており、一部地域では金融不安の懸念も浮上。全体的に緊張が高まっている状況です。",
-  "global_panic_index": 78,
+  "summary": "世界各地で生活必需品不足、金融不安、政治的抗議が散発的に発生しています。ケニアでは水不足が深刻な混乱を招き、メキシコや北アイルランドでは大規模な抗議活動や暴動が見られました。韓国では選挙の公正性に対する不満から長期デモが続き、銀行破綻の報告もあり、広範な社会不安が懸念されます。全体として警戒レベルが中程度に高まっています。",
+  "global_panic_index": 65,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "政治・社会対立、反移民感情",
-      "incidents": [
-        {
-          "title": "北アイルランドでの反移民暴動の激化",
-          "location": "Belfast, Northern Ireland (UK)",
-          "severity": 85,
-          "description": "ベルファストで反移民感情を背景にした暴動が激化し、暴力、放火、水砲の使用が見られる。複数の地域で緊張が高まり、社会秩序への懸念が増大している。",
-          "source": "Al Jazeera, BBC, RTE.ie, The Guardian, MSN"
-        },
-        {
-          "title": "グラスゴーでの大規模な抗議活動",
-          "location": "Glasgow, UK",
-          "severity": 60,
-          "description": "大規模な反人種差別抗議が予定され、警察が平静を呼びかけるなど緊張が高まっている。市内外で抗議活動が継続的に発生している模様。",
-          "source": "STV News, Glasgow Times"
-        },
-        {
-          "title": "サウサンプトンでの暴力的な抗議デモで逮捕者",
-          "location": "Southampton, UK",
-          "severity": 55,
-          "description": "サウサンプトンで発生した暴力的な抗議デモに関連して、複数の逮捕者が出ている。一部の抗議活動が秩序を逸脱する傾向が見られる。",
-          "source": "MSN"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "行政への不信、政治問題",
-      "incidents": [
-        {
-          "title": "韓国・投票用紙不足を巡る大規模抗議",
-          "location": "Jamsil, South Korea",
-          "severity": 70,
-          "description": "選挙での投票用紙不足に対し、数千人規模の抗議活動が9日間継続。行政への不信感から民主主義の擁護を訴え、元選挙監視機関長の出国禁止処分にも繋がっている。",
-          "source": "매일경제, CHOSUNBIZ, Yonhap News Agency, NST Online, Seoul Economic Daily"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 90,
-      "status": "critical",
-      "main_cause": "地域紛争、資源不足、行政問題",
-      "incidents": [
-        {
-          "title": "パキスタン占領カシミール（PoK）での抗議暴動と死者発生",
-          "location": "Pakistan Occupied Kashmir (PoK)",
-          "severity": 95,
-          "description": "難民議席に反対する大規模な抗議活動が暴徒化し、46人の死者と1,100人以上の逮捕者が出た。政府への怒りが高まり、深刻な社会不安状態に陥っている。",
-          "source": "Bhaskar English"
-        },
-        {
-          "title": "インド・飲用水不足に対する住民の抗議",
-          "location": "Parvathipuram Manyam, India",
-          "severity": 50,
-          "description": "飲用水の深刻な不足に対し、地域住民、特に女性たちが抗議デモを実施。生活必需品の欠乏が社会的な不満を引き起こしている。",
-          "source": "Deccan Chronicle"
-        },
-        {
-          "title": "インド・肥料不足に対する農民の抗議",
-          "location": "Amritsar, India",
-          "severity": 50,
-          "description": "尿素と肥料の不足に対し、農民が大規模な抗議デモを実施。農業生産への影響と食料不安への懸念が背景にある。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "インド北東部でのモスク閉鎖への抗議",
-          "location": "Northeast India",
-          "severity": 45,
-          "description": "当局による15のモスク閉鎖に対し、イスラム教徒団体が抗議活動を実施。宗教的な対立が社会不安を引き起こす可能性が指摘される。",
-          "source": "Muslim Network TV"
-        }
-      ]
-    },
-    {
       "region": "africa",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "資源不足",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "水不足、生活インフラの崩壊",
       "incidents": [
         {
-          "title": "ケニア・水不足に対する銃を伴う抗議と混乱",
-          "location": "Great Wall Gardens, Kenya",
-          "severity": 75,
-          "description": "給水停止と水不足に対し、住民が銃を伴い抗議デモを実施。水資源の欠乏が社会の混乱と緊張を引き起こしており、状況悪化が懸念される。",
+          "title": "水不足抗議と混乱、銃の脅威",
+          "location": "ケニア",
+          "severity": 88,
+          "description": "深刻な水不足に抗議する住民が混乱状態に陥り、銃を構える者が現れるなど、秩序が大きく乱れています。",
           "source": "Daily Nation"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "金融不安",
+      "region": "south_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "生活必需品不足、金融不安、政治的不満",
       "incidents": [
         {
-          "title": "バングラデシュ・イスラミ銀行のガバナンス問題と金融当局への不信",
-          "location": "Bangladesh",
+          "title": "イスラミ銀行略奪者への特別法廷要求",
+          "location": "バングラデシュ",
+          "severity": 75,
+          "description": "顧客フォーラムがイスラミ銀行での略奪行為に関与した者への特別法廷設置を求めており、金融機関への不信感が募っています。",
+          "source": "Jagonews24.com"
+        },
+        {
+          "title": "飲料水不足に対する女性の抗議",
+          "location": "インド、パルヴァティプラム・マンヤム",
+          "severity": 65,
+          "description": "インドのパルヴァティプラム・マンヤム地域で、飲料水不足に苦しむ女性たちが抗議活動を行っています。",
+          "source": "Deccan Chronicle"
+        },
+        {
+          "title": "肥料不足に対する農民の抗議",
+          "location": "インド、アムリトサル",
+          "severity": 60,
+          "description": "インドのアムリトサルでは、尿素と肥料の不足に対し、農民が抗議デモを実施し、治安部隊が配置されています。",
+          "source": "The News Mill"
+        },
+        {
+          "title": "医薬品不足への価格上限引き上げ",
+          "location": "インド",
           "severity": 55,
-          "description": "バングラデシュ銀行がイスラミ銀行の管理に問題を抱え、政府の干渉疑惑が浮上。金融システムの健全性に対する懸念が広がる可能性がある。",
-          "source": "The Daily Star, Jagonews24.com"
+          "description": "インド政府は、癌治療薬の不足に対処するため、価格上限を引き上げています。医薬品へのアクセスに対する不安が高まっています。",
+          "source": "whbl.com"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "選挙の公正性への疑念",
+      "incidents": [
+        {
+          "title": "投票用紙不足を非難する抗議活動",
+          "location": "韓国、蚕室（チャムシル）",
+          "severity": 68,
+          "description": "韓国では、投票用紙不足を非難する抗議活動が9日目に突入し、集計センターの封鎖を試みています。学生も参加し、民主主義への懸念が高まっています。",
+          "source": "매일경제, NST Online, MSN, Seoul Economic Daily"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 62,
+      "status": "unstable",
+      "main_cause": "政治的抗議活動、金融機関への不信",
+      "incidents": [
+        {
+          "title": "W杯抗議活動の混乱と機動隊との衝突",
+          "location": "メキシコ",
+          "severity": 70,
+          "description": "メキシコでは、W杯開幕戦を暴力的な抗議活動が覆い、デモ参加者が機動隊と衝突し、混乱が生じています。",
+          "source": "MSN, Operation Sports"
+        },
+        {
+          "title": "First National Bankの閉鎖",
+          "location": "米国",
+          "severity": 60,
+          "description": "タレントゥム・ブリッジ・ロード沿いのFirst National Bankが閉鎖され、地域住民に金融サービスへの不安が広がっています。",
+          "source": "TribLIVE.com"
+        },
+        {
+          "title": "Meta社AIチーム、強制労働と監視に反乱",
+          "location": "米国",
+          "severity": 45,
+          "description": "Meta社のAIチーム従業員が、強制労働とキーストローク監視に抗議し、内部での大規模な反発が生じています。",
+          "source": "IndexBox"
+        },
+        {
+          "title": "銀行強盗からの逃走",
+          "location": "米国",
+          "severity": 30,
+          "description": "米国で銀行強盗が車を盗んで逃走する事件が報告されており、地域住民の治安に対する不安を募らせています。",
+          "source": "Action News 5, The Courier-Journal"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "地域紛争、社会秩序の乱れ",
+      "incidents": [
+        {
+          "title": "北アイルランドでの暴動と逮捕者増加",
+          "location": "北アイルランド",
+          "severity": 70,
+          "description": "北アイルランドでは暴動が発生し、組織的な活動の兆候が見られ、逮捕者数が19人に増加しました。その後、新たな衝突は報告されていません。",
+          "source": "BBC, The Guardian, The Manila Times"
+        },
+        {
+          "title": "ロンドンでの「違法な土地販売」イベント非難",
+          "location": "英国、ロンドン",
+          "severity": 40,
+          "description": "ロンドンで開催された「違法な土地販売」を促進するイベントに対し、市長が非難声明を出し、社会的な緊張を引き起こしています。",
+          "source": "The National"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "地域紛争と政治的緊張",
+      "incidents": [
+        {
+          "title": "ラワラコット殺害事件でパキスタン占領カシミールに騒乱",
+          "location": "パキスタン占領カシミール（PoK）",
+          "severity": 68,
+          "description": "ラワラコットでの殺害事件が、パキスタン占領カシミール（PoK）地域に騒乱をエスカレートさせ、共同行動委員会（JAAC）が条件を提示しています。",
+          "source": "MSN"
         }
       ]
     }
