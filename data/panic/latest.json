@@ -1,130 +1,122 @@
 {
   "date": "2026-06-13",
-  "summary": "世界各地で資源不足、政治的不信、社会的分断を原因とするパニックや社会不安が顕著に増大しています。特にアフリカ、東南アジアの一部では水不足や人権侵害が致命的な事態に発展し、欧州では暴動や暴力的な抗議活動が頻発しています。民主主義のプロセスへの不信が抗議行動を招いている地域もあり、全体的に高い緊迫度が続いています。",
-  "global_panic_index": 78,
+  "summary": "世界各地で社会不安が高まっており、特に中東、アフリカでは大規模な抗議活動が暴力的な衝突や深刻な資源不足と結びつき、「警戒状態」を超えて「パニック」に近い状況にあります。欧州では人種差別や移民問題、東アジアでは政治的公正性への不信、東南アジアでは金融不安や資源不足が主な原因となり、社会的分断や不満が顕在化しています。全体として、複数の地域で社会秩序の安定性が揺らいでいる状況です。",
+  "global_panic_index": 80,
   "regions": [
     {
       "region": "europe",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "社会的分断、政治的緊張",
+      "main_cause": "社会的分裂、人種差別、政治的対立",
       "incidents": [
         {
-          "title": "ベルファストでの反移民デモ暴徒化、放水砲使用",
-          "location": "Belfast, Northern Ireland, UK",
-          "severity": 85,
-          "description": "反移民デモが暴力的な衝突に発展し、放水砲が使用され、放火も報告された。数日にわたる社会不安が深刻化している。",
-          "source": "MSN, BBC, The Guardian"
+          "title": "ベルファストでの暴動と反人種差別デモ、英国都市での極右・反人種差別派の衝突",
+          "location": "イギリス（ベルファスト、その他都市）",
+          "severity": 75,
+          "description": "ベルファストでの数週間にわたる社会不安を受け、数千人が反人種差別集会に参加。また、英国の複数都市では極右と反人種差別を訴える抗議者が衝突し、社会的緊張が高まっている。",
+          "source": "Al Jazeera, BBC, The Guardian, Sky News, MSN"
         },
         {
-          "title": "UK各地で暴力的抗議活動、複数逮捕",
-          "location": "Southampton, UK",
-          "severity": 65,
-          "description": "暴力的な抗議活動が発生し、複数の参加者が逮捕・投獄された。社会的分断と政治的緊張が背景にある。",
-          "source": "MSN"
+          "title": "反移民抗議とカウンターデモ",
+          "location": "イギリス",
+          "severity": 60,
+          "description": "都市中心部で反移民抗議活動が行われ、それに対抗するデモも発生。社会的対立が明確化している。",
+          "source": "STV News"
         },
         {
-          "title": "人種差別煽動への懸念、政治的緊張高まる",
-          "location": "UK",
+          "title": "イスラエル入植地の販売を助長する不動産イベントへの抗議",
+          "location": "イギリス",
           "severity": 50,
-          "description": "政治家が人種差別的な分裂を煽っていると批判され、社会的なunrestが広がる可能性が指摘されている。",
-          "source": "MSN"
+          "description": "議員たちが、イスラエル入植地の販売を促す恐れがある不動産イベントの開催中止を求めている。政治的な抗議と懸念表明の動き。",
+          "source": "The Guardian"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 75,
-      "status": "unstable",
-      "main_cause": "紛争、暴力",
+      "panic_index": 90,
+      "status": "critical",
+      "main_cause": "政治的抑圧、地域紛争、人権侵害",
       "incidents": [
         {
-          "title": "西岸地区で入植者によるパレスチナ人銃撃",
-          "location": "West Bank",
-          "severity": 75,
-          "description": "イスラエル人入植者がパレスチナ人を銃撃する事件が発生。精神障害者と報じられており、地域の緊張をさらに高める可能性がある。",
+          "title": "パキスタン管理下のカシミールで大規模な抗議活動と暴力的弾圧",
+          "location": "パキスタン管理下のカシミール（PoK）",
+          "severity": 90,
+          "description": "難民議席に反対する運動の中で、46人の抗議者が殺害され、1,100人が逮捕された。住民の政府への怒りが高まり、深刻な人権侵害と社会不安が発生している。",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "入植者によるパレスチナ人銃撃事件",
+          "location": "ヨルダン川西岸",
+          "severity": 70,
+          "description": "ヨルダン川西岸で入植者がパレスチナ人男性を銃撃し、男性は精神障害者であると報じられている。この地域での暴力と緊張が続いている。",
           "source": "The Times of Israel"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 90,
+      "panic_index": 85,
       "status": "critical",
-      "main_cause": "水不足、生活基盤の危機",
+      "main_cause": "資源不足（水）、経済的不安",
       "incidents": [
         {
-          "title": "ケニアで水不足抗議が暴徒化、銃器持ち出し",
-          "location": "Great Wall Gardens, Kenya",
-          "severity": 90,
-          "description": "深刻な水不足に抗議する住民が道路を封鎖し、一部で銃器が持ち出されるなど、混乱が「カオス」と表現される状況に。",
+          "title": "ケニアでの水不足抗議が混乱し、銃器が持ち出される",
+          "location": "ケニア（グレートウォールガーデンズ）",
+          "severity": 85,
+          "description": "水不足に抗議する住民が「乾いた蛇口、引き抜かれた銃」という言葉で表現されるほどの混乱に陥り、深刻な社会不安と暴力の兆候が見られる。",
           "source": "Daily Nation"
+        },
+        {
+          "title": "ナイジェリアで年金受給者が年金支払いを求め抗議デモ",
+          "location": "ナイジェリア",
+          "severity": 60,
+          "description": "退職者が年金給付を要求する抗議デモを実施。経済的な不満が社会不安につながっている。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 70,
-      "status": "unstable",
-      "main_cause": "民主主義プロセスへの不信",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "政治的不安、投票プロセスへの不信",
       "incidents": [
         {
-          "title": "韓国で投票用紙不足に抗議、開票センター封鎖長期化",
-          "location": "Jamsil, South Korea",
-          "severity": 70,
-          "description": "投票用紙不足に対する抗議活動が9日間にわたり、開票センターを封鎖し、スポーツイベントや祭りにも影響を及ぼしている。",
+          "title": "韓国での投票用紙不足を巡る抗議デモ、開票センターを封鎖",
+          "location": "韓国（蚕室）",
+          "severity": 80,
+          "description": "6月の投票用紙不足を非難する抗議活動が蚕室の開票センターを封鎖し、9日間にわたって継続。数千人が民主主義を守るために集結した。",
           "source": "매일경제, NST Online, Seoul Economic Daily"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "人権侵害、生活必需品不足、金融不安、宗教的緊張",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "金融不安、宗教的対立、資源不足",
       "incidents": [
         {
-          "title": "PoKで抗議者46人死亡、1100人逮捕、公衆の怒り増大",
-          "location": "Pakistan Occupied Kashmir",
-          "severity": 95,
-          "description": "係争地域PoKで難民議席制度への抗議中に46人が殺害され、1100人以上が逮捕された。公衆の怒りが高まっている。",
-          "source": "Bhaskar English"
-        },
-        {
-          "title": "バングラデシュで銀行略奪者への特別裁判所設置要求",
-          "location": "Bangladesh",
-          "severity": 80,
-          "description": "イスラミ銀行での略奪行為に対し、顧客フォーラムが特別裁判所の設置を求めている。金融システムへの信頼が揺らいでいる。",
+          "title": "イスラミ銀行の略奪者に対する特別法廷を求める顧客フォーラム",
+          "location": "バングラデシュ",
+          "severity": 70,
+          "description": "イスラミ銀行での略奪行為があったとされ、顧客フォーラムが特別法廷の設置を要求。金融機関における不正行為が金融不安を引き起こしている。",
           "source": "Jagonews24.com"
         },
         {
-          "title": "インド各地で水・肥料不足への大規模抗議",
-          "location": "Parvathipuram Manyam, Amritsar, India",
+          "title": "インド北東部でモスク封鎖に対するイスラム団体の抗議",
+          "location": "インド北東部",
           "severity": 65,
-          "description": "飲料水や尿素・肥料の深刻な不足に対し、女性や農民による大規模な抗議デモが発生。生活と食料生産に直接影響。",
-          "source": "Deccan Chronicle, The News Mill"
+          "description": "インド北東部で15のモスクが封鎖されたことに対し、イスラム団体が抗議活動を行っている。宗教的自由への懸念が高まっている。",
+          "source": "Muslim Network TV"
         },
         {
-          "title": "インドでモスク閉鎖へのムスリム団体抗議",
-          "location": "Northeast India",
+          "title": "インドの農民が尿素・肥料不足を巡り抗議デモ",
+          "location": "インド（アムリトサル）",
           "severity": 60,
-          "description": "北東インドで15のモスクが閉鎖されたことに対し、ムスリム団体が抗議活動を実施。宗教的緊張が高まっている。",
-          "source": "Muslim Network TV"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "社会的な不満、イベントに伴う混乱",
-      "incidents": [
-        {
-          "title": "メキシコW杯開会式でデモ隊と機動隊が衝突",
-          "location": "Mexico",
-          "severity": 60,
-          "description": "ワールドカップ開会式の会場外で、抗議デモ隊と機動隊が衝突する事態が発生。大規模イベントの最中の混乱。",
-          "source": "MSN"
+          "description": "尿素と肥料の不足に対して、アムリトサルで農民が抗議デモを実施。必需品の供給不安が社会不安につながっている。",
+          "source": "The News Mill"
         }
       ]
     }
