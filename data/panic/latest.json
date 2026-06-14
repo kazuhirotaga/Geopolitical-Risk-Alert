@@ -1,121 +1,113 @@
 {
   "date": "2026-06-14",
-  "summary": "世界各地で多様な社会不安が観測されています。ヨーロッパではG7サミットに反対する大規模デモが一部で暴徒化し、車両放火や器物損壊が発生。東アジアでは選挙関連の抗議活動が見られますが、比較的平和的です。最も懸念されるのは南アジア（特にインド）で、火災の噂による集団パニックで死者が出た他、物資不足や政治的対立に端を発する暴動や公共インフラへの妨害行為が頻発しており、深刻な社会混乱の様相を呈しています。",
+  "summary": "世界各地で社会不安とパニックの兆候が見られます。特にインドでは火災の噂による集団パニックで死者が出るなど極めて深刻な事態が発生。ヨーロッパではG7抗議デモが暴徒化し車両放火や銀行窓破壊、警察との衝突が発生しました。また、パキスタン管理下のカシミール地域では治安部隊の発砲により死者が出ており、地域紛争の激化が懸念されます。全体として、経済的・政治的な不満が暴力的な抗議活動や集団パニックを引き起こす傾向が見られ、一部地域では社会秩序が著しく混乱しています。",
   "global_panic_index": 65,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "G7サミットへの反発、政治的・社会経済的不満",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "政治的な不満、国際イベントへの抗議、移民問題",
       "incidents": [
         {
-          "title": "ジュネーブG7抗議デモの暴徒化",
+          "title": "ジュネーブ G7 抗議デモの暴徒化",
           "location": "ジュネーブ（スイス）",
-          "severity": 75,
-          "description": "G7サミットを控えたジュネーブで数千人規模の抗議デモが発生し、一部が暴徒化。テスラ車への放火、銀行窓ガラスの破壊、警察との衝突が発生し、公共の秩序が乱れた。",
-          "source": "PBS, Global Banking & Finance Review 他"
+          "severity": 90,
+          "description": "G7サミットを前にジュネーブで数千人規模の抗議デモが発生し、一部が暴徒化。テスラ車への放火や銀行窓の破壊、警察との衝突が見られ、深刻な社会不安と秩序の乱れを示している。",
+          "source": "Global Banking & Finance Review, PBS, The Washington Post 他"
         },
         {
-          "title": "ロンドンでのイスラエル関連イベント抗議",
-          "location": "ロンドン（英国）",
-          "severity": 30,
-          "description": "イスラエル関連の不動産イベントに対し、数百人が英国議会前などで抗議デモを実施。不法な入植地売却に反対する意思表明で、大規模な混乱は報じられていない。",
-          "source": "The New Arab, Al Jazeera"
+          "title": "ベルファスト 移民反対デモの暴徒化",
+          "location": "ベルファスト（イギリス）",
+          "severity": 85,
+          "description": "ベルファストで移民に反対するデモが2夜にわたり暴徒化し、警察は放水砲を使用。火災も発生するなど、深刻な社会秩序の乱れと暴力的な状況が報告されている。",
+          "source": "MSN"
+        },
+        {
+          "title": "ロンドン イスラエル不動産イベント抗議デモでの衝突",
+          "location": "ロンドン（イギリス）",
+          "severity": 70,
+          "description": "ロンドンで開催されたイスラエル関連イベントに対して、複数の団体による抗議デモが発生。参加者間の衝突や逮捕者が出ており、社会的な緊張と混乱が見られる。",
+          "source": "The New Arab, The Jerusalem Post, Sky News 他"
+        },
+        {
+          "title": "英国における暴力的な抗議活動での逮捕者発生",
+          "location": "イギリス",
+          "severity": 65,
+          "description": "英国で発生した特定の抗議デモが暴力的な混乱に発展し、23名が逮捕・起訴された。局地的ながらも、公共の場での秩序が一時的に損なわれたことを示している。",
+          "source": "Daily Echo"
+        },
+        {
+          "title": "ロンドン カシミール問題に関する大規模抗議デモ",
+          "location": "ロンドン（イギリス）",
+          "severity": 40,
+          "description": "英国議会前で数千人の英国系カシミール人が、パキスタン管理下のカシミール地域における治安部隊の弾圧に抗議。大規模なデモだが、現時点での直接的なパニック状況は低い。",
+          "source": "The Times of India, ANI News 他"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "選挙関連の不満",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "政治プロセスへの不満、資源不足",
       "incidents": [
         {
-          "title": "韓国での投票用紙不足抗議",
-          "location": "ソウル（韓国）",
-          "severity": 45,
-          "description": "選挙当局に対する投票用紙不足を巡る抗議デモが発生。集会は大規模ながらも、概ね平和的に行われたと報じられている。",
-          "source": "Yonhap News Agency, aju press 他"
-        },
-        {
-          "title": "日本での移民政策反対・差別反対デモ",
-          "location": "北海道（日本）",
-          "severity": 20,
-          "description": "インターナショナルスクール建設を巡り、移民政策反対団体と差別反対団体がそれぞれデモを実施。対立は見られたが、大規模な暴力やパニックには至っていない。",
-          "source": "HTB北海道ニュース"
+          "title": "韓国における投票用紙不足抗議デモ",
+          "location": "韓国",
+          "severity": 50,
+          "description": "韓国で投票用紙不足に対する抗議デモが発生。民主主義プロセスへの懸念から一部で社会不安が見られるが、デモ自体は比較的平和的に行われている。",
+          "source": "Yonhap News Agency, Seoul Economic Daily"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "政治的対立、人権問題、武力衝突",
-      "incidents": [
-        {
-          "title": "PoKにおけるパキスタン軍による発砲と死者",
-          "location": "パキスタン管理下のカシミール（PoK）",
-          "severity": 85,
-          "description": "PoKでの大規模な社会不安がエスカレートし、パキスタン軍が抗議者に向けて発砲。これにより3名が死亡したと報じられており、地域の緊張状態が非常に高い。",
-          "source": "Firstpost"
-        },
-        {
-          "title": "英国におけるカシミール人による抗議デモ",
-          "location": "ロンドン（英国）",
-          "severity": 40,
-          "description": "英国在住のカシミール人らが英国議会前でデモを実施。PoKでの人権侵害や弾圧に抗議し、国際社会の関与を求めた。デモは平和的に行われた。",
-          "source": "The Times of India, Firstpost, ANI News"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
+      "region": "southeast_asia",
       "panic_index": 85,
       "status": "critical",
-      "main_cause": "物資不足、試験制度への不満、噂による集団パニック、政治的暴力",
+      "main_cause": "噂による集団パニック、政治的弾圧、公共インフラの不足、生活必需品の不足",
       "incidents": [
         {
-          "title": "火災の噂による列車パニックで死者",
+          "title": "インド列車内火災噂によるパニックと死者",
           "location": "マディヤ・プラデーシュ州（インド）",
           "severity": 95,
-          "description": "列車内での火災の噂が広がり、パニック状態に陥った乗客が飛び降り、隣の線路を走行していた別の列車に轢かれて4名が死亡した。噂が引き起こす集団パニックの典型的な例。",
+          "description": "インドのMP州で、列車内の火災の噂がパニックを引き起こし、乗客が列車から飛び降りた結果、別の列車に轢かれて4人が死亡。集団パニックの典型例で、極めて深刻な事態。",
           "source": "India Today, The New Indian Express, News18 他"
         },
         {
-          "title": "鉄道駅での試験抗議が暴徒化",
-          "location": "パトナ、パトリプトラ駅（インド）",
-          "severity": 85,
-          "description": "試験の受験者らが列車不足に抗議し、鉄道駅で暴力行為、投石、線路封鎖を行った。公共交通インフラに大きな影響を与え、深刻な混乱状態となった。",
-          "source": "MSN, Mathrubhumi English, The Logical Indian"
+          "title": "パキスタン管理下のカシミール地域での治安悪化と死者",
+          "location": "PoK（カシミール）",
+          "severity": 90,
+          "description": "パキスタン管理下のカシミール地域で抗議デモが発生し、治安部隊の発砲により3名が死亡。地域の社会不安が激化し、武力衝突による人命喪失という非常に危険な状況。",
+          "source": "Firstpost"
         },
         {
-          "title": "BJPリーダー殺害後の暴動",
-          "location": "デヘラードゥーン（インド）",
+          "title": "インド鉄道駅での列車不足による暴動",
+          "location": "パトナ（インド）",
           "severity": 80,
-          "description": "BJPリーダーの殺害をきっかけに暴動が発生し、メディアや警察に投石が行われた他、家屋やトラクターが放火されるなど、地域に深刻な混乱と社会不安をもたらした。",
-          "source": "Bhaskar English"
+          "description": "インドのパトナ鉄道駅で、列車不足に起因する大規模な抗議デモが暴動に発展。駅舎の破壊や投石が行われ、公共交通機関の機能不全とそれに伴う深刻な社会混乱が発生した。",
+          "source": "Mathrubhumi English, The Logical Indian"
         },
         {
-          "title": "肥料不足に対する農民の抗議",
+          "title": "インド 農民による尿素・肥料不足抗議デモ",
           "location": "アムリトサル（インド）",
-          "severity": 60,
-          "description": "尿素や肥料の不足に対して農民が大規模な抗議活動を行った。治安部隊が配備され、社会不安が高まっているが、暴動には至っていない模様。",
+          "severity": 45,
+          "description": "インドのアムリトサルで、尿素と肥料の不足に対し農民が抗議デモを実施。食料生産に直結する物資の不足は、潜在的な社会不安要因となっている。",
           "source": "The News Mill"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 25,
-      "status": "normal",
-      "main_cause": "年金政策への不満",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "社会保障制度への不満",
       "incidents": [
         {
-          "title": "年金政策への退職者抗議",
+          "title": "ナイジェリア 年金政策に対する退職者抗議",
           "location": "ナイジェリア",
           "severity": 30,
-          "description": "政府の年金政策に対し、退職者らが抗議デモを実施。当局が政策を擁護する姿勢を見せている。デモは平和的に行われた。",
+          "description": "ナイジェリアで年金政策に対する退職者の抗議デモが発生。社会保障制度への不満が表面化しており、今後の社会不安に繋がりうるが、現状では大規模な混乱には至っていない。",
           "source": "Punch Newspapers"
         }
       ]
