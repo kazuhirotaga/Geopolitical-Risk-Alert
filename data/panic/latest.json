@@ -1,144 +1,157 @@
 {
-  "date": "2026-06-13",
-  "summary": "世界各地で社会不安が顕著に高まっている。ヨーロッパでは人種差別を巡る暴動やデモが多発し、社会の分断が深刻化。東アジアでは政治的公正性への疑念から大規模な抗議活動が長期化している。中東では暴力が常態化し、アフリカでは水不足が銃器を伴う危険な暴動に発展。南アジアでは政治的抑圧への抗議で多数の死傷者が出るなど、複合的な危機が進行中であり、一部地域で社会秩序の崩壊が懸念される。",
-  "global_panic_index": 75,
+  "date": "2026-06-14",
+  "summary": "世界各地では、北アイルランドでの暴力的移民排斥デモや英国各地でのデモ隊衝突、カシミールでのデモ隊への弾圧と死者発生、ケニアでの深刻な水不足による混乱など、地域紛争、資源不足、社会保障制度への不満が複合的に絡み合い、社会不安が高まっています。一部地域では暴動や死者が発生し、危機的な状況にあります。全体として、社会の分断と不満が顕在化し、警戒を要する状態が続いています。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 70,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "人種差別、政治的対立、社会不安",
+      "main_cause": "人種・移民問題、社会的分断、政治的抗議",
       "incidents": [
         {
-          "title": "ベルファストでの人種差別反対集会と騒乱",
-          "location": "ベルファスト、英国（北アイルランド）",
-          "severity": 75,
-          "description": "数千人が参加する人種差別反対デモが騒乱や暴動に発展。右翼グループとの衝突も報告され、政治的緊張が高まり社会全体に不安が広がっている。",
-          "source": "Al Jazeera, BBC, The Guardian, Sky News, MSN, The Irish News"
+          "title": "Belfast protest against immigrants turns violent on second night - water cannons, fires",
+          "location": "北アイルランド、ベルファスト",
+          "severity": 90,
+          "description": "移民排斥デモが2夜連続で暴力化し、放水砲が使用され、放火も発生。治安部隊と衝突し、社会秩序が一時的に麻痺状態に陥る事態となった。",
+          "source": "MSN"
         },
         {
-          "title": "英国都市部での極右と反人種差別抗議者の衝突",
-          "location": "英国各地",
-          "severity": 70,
-          "description": "ベルファストの暴動を受けて、英国各地で極右勢力と反人種差別主義者によるデモが衝突。社会の分断が深まり、さらなる混乱が懸念される状況。",
-          "source": "The Guardian, STV News"
+          "title": "Stabbing victim's family calls for calm amid violent anti-immigration protests in Northern Ireland",
+          "location": "北アイルランド",
+          "severity": 90,
+          "description": "刺殺事件の遺族が、北アイルランドで暴力化している反移民デモの沈静化を呼びかけた。深刻な暴力の連鎖と社会の緊張が示されている。",
+          "source": "Fijivillage"
         },
         {
-          "title": "イスラエル入植地販売イベント中止要求",
-          "location": "英国",
-          "severity": 40,
-          "description": "英国の議員が、イスラエル入植地の販売を促進する不動産イベントの中止を要求。国際的な政治的緊張が高まり、関連する不安が醸成されている。",
+          "title": "Far-right and anti-racist protesters clash in UK cities after Belfast riots",
+          "location": "UK各地",
+          "severity": 80,
+          "description": "ベルファストでの暴動後、UK各地で極右と反人種差別主義のデモ隊が衝突。社会の分断が深刻化し、広範囲で緊張が高まっている。",
           "source": "The Guardian"
+        },
+        {
+          "title": "Seven arrested after riots over asylum shelter plan in Wijk bij Duurstede",
+          "location": "オランダ、ワイク・バイ・デュールステデ",
+          "severity": 75,
+          "description": "亡命申請者シェルター計画を巡り暴動が発生し、7人が逮捕された。住民の不満が暴力的な行動へとエスカレートしている。",
+          "source": "NL Times"
+        },
+        {
+          "title": "Thousands gather for anti-racism rally in Belfast after disorder",
+          "location": "北アイルランド、ベルファスト",
+          "severity": 60,
+          "description": "騒乱後、数千人がベルファストで反人種差別集会に集結。大規模なデモは社会の分断と不満の大きさを示している。",
+          "source": "BBC"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 60,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "政治的公正性への懸念、長期デモ",
+      "main_cause": "選挙プロセスへの不信、社会的不満",
       "incidents": [
         {
-          "title": "韓国の投票用紙不足に対する大規模抗議デモ",
-          "location": "韓国",
-          "severity": 60,
-          "description": "投票用紙不足を巡り、数千人の市民や大学生が民主主義を守るために大規模な抗議デモを展開。選挙の公正性への疑念が社会不安を招いている。",
-          "source": "NST Online, MSN"
+          "title": "Officers Mocked as \"Chinese\" Cry Out Amid Election Protests in Seoul",
+          "location": "韓国、ソウル",
+          "severity": 50,
+          "description": "ソウルでの選挙抗議中に警官が「中国人」と揶揄される事態が発生。選挙プロセスへの不満と人種差別的な言動が混じり、社会に不安が広がっている。",
+          "source": "Seoul Economic Daily"
         },
         {
-          "title": "蚕室での長期化する抗議デモ",
-          "location": "蚕室、韓国",
-          "severity": 55,
-          "description": "蚕室で9日間にわたる抗議デモが続き、スポーツ団体やイベント主催者が身動きが取れない状況。市民生活や経済活動への影響が懸念される。",
+          "title": "Protests Over Ballot Shortage Become Unexpected Dating Scene for Young Koreans",
+          "location": "韓国",
+          "severity": 40,
+          "description": "投票用紙不足を巡る抗議活動が、若者にとって予期せぬ出会いの場となったという報告。抗議行動の背景にある社会的不満が示唆される。",
           "source": "Seoul Economic Daily"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "地域紛争、暴力",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "政治的抑圧、民族・領土問題、難民問題",
       "incidents": [
         {
-          "title": "ヨルダン川西岸での入植者によるパレスチナ人銃撃",
-          "location": "ヨルダン川西岸",
-          "severity": 65,
-          "description": "ヨルダン川西岸で入植者がパレスチナ人を銃撃。被害者は精神疾患があったと報じられており、地域の緊張と暴力の連鎖が続く状況。",
+          "title": "46 protesters killed in PoK: 1,100 arrested amid movement against refugee seats; public anger mounts agains...",
+          "location": "パキスタン占領下のカシミール (PoK)",
+          "severity": 95,
+          "description": "難民席設置に反対する運動の中で46人のデモ参加者が殺害され、1,100人が逮捕された。公衆の怒りが高まっており、非常に深刻な人道危機と政治的抑圧が進行中。",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "Settler shoots Palestinian in West Bank; reports say he was mentally disabled",
+          "location": "ヨルダン川西岸地区",
+          "severity": 85,
+          "description": "入植者がパレスチナ人を射殺。報道によると被害者は精神障害があったという。地域での緊張と暴力行為が絶えず、治安状況は極めて不安定。",
           "source": "The Times of Israel"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "水不足、生活インフラの危機、住居問題",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "資源（水）不足、社会保障制度への不満",
       "incidents": [
         {
-          "title": "ケニアでの水不足抗議と銃器の出現",
-          "location": "グレートウォールガーデンズ、ケニア",
-          "severity": 80,
-          "description": "深刻な水不足により住民が抗議デモを行い、「混乱」状態に陥り、銃器が引き抜かれる事態に発展。生活インフラの崩壊と暴力の危険性が高まっている。",
+          "title": "Dry taps, drawn guns: Chaos as Great Wall Gardens residents protest water shortage",
+          "location": "ケニア、グレートウォールガーデンズ",
+          "severity": 85,
+          "description": "水道が枯渇し、住民が水不足に抗議する中で銃器が出現し混乱状態に。生活必需品の欠乏が社会秩序を脅かし、暴力のリスクを高めている。",
           "source": "Daily Nation"
         },
         {
-          "title": "南アフリカでの住居解体後の抗議デモ",
-          "location": "コメッチェイロード、南アフリカ",
+          "title": "PTAD defends pension policy despite retirees’ protest",
+          "location": "ナイジェリア",
           "severity": 60,
-          "description": "住居解体後に大規模な抗議デモが発生し、住民に注意喚起が出されている。生活基盤の不安定化が社会不安を招いている。",
-          "source": "False Bay Echo"
+          "description": "退職者たちが年金政策に抗議しているにもかかわらず、PTAD（年金トランジションアレンジメント局）は政策を擁護。社会保障制度への不満が蓄積している。",
+          "source": "Punch Newspapers"
         }
       ]
     },
     {
-      "region": "south_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "政治的抑圧、資源不足、金融不安",
+      "region": "southeast_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "資源（肥料）不足、制度への不信、地域開発問題",
       "incidents": [
         {
-          "title": "PoKでの抗議デモ、46人死亡1100人逮捕",
-          "location": "パキスタン占領下のカシミール（PoK）",
-          "severity": 90,
-          "description": "難民問題に関する抗議デモ中に46人の死者と1,100人の逮捕者が出た。政府への公衆の怒りが高まり、極めて深刻な危機的状況にある。",
-          "source": "Bhaskar English"
+          "title": "Video: Bihar cop aspirants block trains, throw stones; cops fire tear gas",
+          "location": "インド、ビハール州",
+          "severity": 80,
+          "description": "警官志望者らが列車を妨害し、投石する暴力的抗議を展開。警察は催涙ガスで応戦した。若者の将来への不安と制度への不信が衝突を引き起こしている。",
+          "source": "India Today"
         },
         {
-          "title": "バングラデシュでのイスラミ銀行略奪事件",
-          "location": "バングラデシュ",
+          "title": "Farmers protest in Amritsar over urea and fertiliser shortage with security measures in place",
+          "location": "インド、アムリトサル",
           "severity": 70,
-          "description": "イスラミ銀行に対する略奪事件が発生し、顧客フォーラムが特別法廷の設置を要求。金融機関への信頼が揺らぎ、社会不安が募っている。",
+          "description": "尿素と肥料の不足に対し、農民がアムリトサルで抗議デモを実施。食料生産に直結する資源不足は、広範な社会不安と経済的打撃を引き起こす懸念がある。",
+          "source": "The News Mill"
+        },
+        {
+          "title": "Customers' forum seeks special tribunal to try Islami Bank looters",
+          "location": "バングラデシュ",
+          "severity": 65,
+          "description": "イスラム銀行の略奪者らを裁く特別法廷の設置を顧客フォーラムが要求。金融システムへの信頼が揺らぎ、人々の不安を煽っている。",
           "source": "Jagonews24.com"
         },
         {
-          "title": "インドでのモスク閉鎖に対するムスリム集団の抗議",
-          "location": "インド北東部",
-          "severity": 60,
-          "description": "15のモスクが閉鎖されたことに対し、ムスリム集団が抗議デモを実施。宗教的緊張が高まり、大規模な社会不安に発展する懸念がある。",
-          "source": "Muslim Network TV"
+          "title": "NSUI Workers Detained During Protest Against Dharmendra Pradhan Over NEET Paper Leak-- VIDEO",
+          "location": "インド",
+          "severity": 55,
+          "description": "NEET試験問題漏洩を巡り、ダルメンドラ・プラダン大臣に対する抗議中に学生組織NSUIの活動家が拘束された。教育制度への不信が広がり、学生の間に不満が高まっている。",
+          "source": "Free Press Journal"
         },
         {
-          "title": "インド・アムリトサルでの肥料不足に対する農民の抗議",
-          "location": "アムリトサル、インド",
-          "severity": 65,
-          "description": "尿素肥料不足に対し農民が抗議デモを実施。食料生産への影響が懸念され、治安部隊が配備されるなど緊張が高まっている。",
-          "source": "The News Mill"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "労働問題",
-      "incidents": [
-        {
-          "title": "MetaのAIチームにおける従業員反乱",
-          "location": "米国 (Meta本社)",
-          "severity": 45,
-          "description": "MetaのAIチームで、強制労働とキーストローク監視に抗議する従業員の反乱が発生。大規模企業内の労働問題が表面化し、社会的な注目を集めている。",
-          "source": "IndexBox"
+          "title": "ABVP protests at Mangalore University over MBA lab fee, staff shortage and student issues",
+          "location": "インド、マンガロール大学",
+          "severity": 50,
+          "description": "マンガロール大学でMBA実験室費用、スタッフ不足、学生問題に対するABVP（全インド学生評議会）の抗議が発生。教育機関における不満が表面化している。",
+          "source": "Mangalore Today"
         }
       ]
     }
