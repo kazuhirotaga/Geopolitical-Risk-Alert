@@ -1,27 +1,41 @@
 {
   "date": "2026-06-14",
-  "summary": "世界各地で社会不安とパニックの兆候が見られます。特に南アジアでは、デマによる死者発生や交通インフラの機能不全を伴う暴徒化が確認され、深刻な危機状態にあります。パキスタン管理カシミールでは治安部隊の発砲による死者も報告され、地域紛争の激化が懸念されます。韓国では選挙制度への不信から大規模な抗議デモが続き、欧州では人種差別や移民政策を巡る社会的分断が衝突に発展する事例が見られます。全体として、一部地域では社会秩序が崩壊の危機に瀕していますが、広範なインフラマヒには至っていません。",
-  "global_panic_index": 57,
+  "summary": "世界各地で社会不安が高まっており、特に南アジアではデマによる大規模パニック、政府軍による発砲、暴動が頻発し、多数の死者も発生するなど「危機的」な状況にあります。ヨーロッパではG7抗議デモの暴徒化や人種差別を巡る衝突が見られ、一部で社会秩序の乱れが深刻化。東アジアやアフリカでも大規模な抗議活動が報告されています。全体として、政治的不満、経済問題、行政の不手際、そしてデマが引き金となるパニックが複合的に発生しており、グローバルな緊迫度が増しています。",
+  "global_panic_index": 65,
   "regions": [
     {
-      "region": "east_asia",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "選挙制度への不信、政治的不満、社会的分断",
+      "region": "europe",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "政治的・社会的不満、地政学的問題への連帯",
       "incidents": [
         {
-          "title": "選挙投票用紙不足抗議デモが拡大、当局調査へ",
-          "location": "韓国/ソウル",
-          "severity": 60,
-          "description": "地方選挙の投票用紙不足を巡り、蚕室を中心に大規模な抗議デモが継続。警察官が揶揄される事態も発生し、選挙当局への不信感が募っている。",
-          "source": "Yonhap News Agency, aju press, Seoul Economic Daily"
+          "title": "ジュネーブG7抗議デモでの暴徒化",
+          "location": "ジュネーブ、スイス",
+          "severity": 75,
+          "description": "G7抗議デモ中にテスラ車が放火され、銀行の窓が破壊されました。数千人規模のデモが暴徒化し、財産損壊や暴力の兆候が見られます。",
+          "source": "Global Banking & Finance Review / The Washington Post 他"
         },
         {
-          "title": "移民政策を巡る対立デモ発生",
-          "location": "日本/北海道",
+          "title": "英国都市での人種差別/対抗デモ衝突",
+          "location": "ベルファスト、グラスゴー、英国",
+          "severity": 70,
+          "description": "ベルファストでの混乱後、英国各地で極右勢力と反人種差別主義者のデモが衝突し、警察が介入。暴力的な混乱で複数の逮捕者が出ています。",
+          "source": "BBC / The Guardian / The Herald 他"
+        },
+        {
+          "title": "イタリアでの致命的な事象に伴うパニックと抗議",
+          "location": "ヴィア・カラッチョーロ、イタリア",
+          "severity": 60,
+          "description": "「致命的な夜」に発生したパニックと抗議が報じられています。具体的な原因は不明ながら、市民の動揺と抗議行動が確認されています。",
+          "source": "Il Mattino"
+        },
+        {
+          "title": "ロンドンでのイスラエル不動産イベント抗議",
+          "location": "ロンドン、英国",
           "severity": 35,
-          "description": "インターナショナルスクール建設に関連し、移民政策反対団体と差別反対団体がそれぞれデモを実施し、社会的な意見対立が表面化している。",
-          "source": "HTB北海道テレビ"
+          "description": "イスラエル入植地の販売を助長する可能性のある不動産イベントに対し、ロンドンで複数の抗議デモが計画・実行されました。政治的な懸念が背景にあります。",
+          "source": "The New Arab / The Guardian"
         }
       ]
     },
@@ -29,115 +43,87 @@
       "region": "south_asia",
       "panic_index": 80,
       "status": "critical",
-      "main_cause": "デマによるパニック、交通インフラの機能不全、資源不足、治安部隊による暴力、金融不安",
+      "main_cause": "デマによるパニック、政治的弾圧、経済的不満、行政問題",
       "incidents": [
         {
-          "title": "火災デマによる列車パニックで4人死亡",
-          "location": "インド/マディヤ・プラデーシュ州",
+          "title": "列車の火災の噂による大規模パニックと死者",
+          "location": "マディヤ・プラデーシュ州、インド",
           "severity": 90,
-          "description": "列車内で火災の噂が広がり乗客がパニックに陥り、線路に飛び降りたところ別の列車に轢かれ4人が死亡する悲劇が発生した。",
-          "source": "India Today, News18"
+          "description": "列車の火災の噂が広がり、乗客がパニック状態に陥って線路に飛び降り、別の列車に轢かれ4人が死亡しました。デマが直接的なパニックと悲劇を引き起こしました。",
+          "source": "India Today / News18 他"
         },
         {
-          "title": "PoKで抗議デモに治安部隊が発砲、3人死亡し暴動激化",
-          "location": "パキスタン/パキスタン管理カシミール (PoK)",
-          "severity": 95,
-          "description": "パキスタン管理カシミールで抗議デモがエスカレートし、治安部隊が発砲。少なくとも3人が死亡し、地域は深刻な暴力と混乱に見舞われている。",
-          "source": "Firstpost, MSN"
+          "title": "PoKでのデモへの軍による発砲と死者",
+          "location": "パキスタン管理カシミール (PoK)、パキスタン",
+          "severity": 85,
+          "description": "PoKでのデモ中にパキスタン軍が発砲し、3人が死亡しました。情勢不安はエスカレートしており、政府による強硬な対応が市民の不安と反発を招いています。",
+          "source": "Firstpost"
         },
         {
-          "title": "列車不足で鉄道駅が暴徒化、破壊行為と投石",
-          "location": "インド/パトナ、ビハール州",
+          "title": "BJP指導者殺害後の暴動と放火",
+          "location": "デラドゥン、インド",
           "severity": 80,
-          "description": "列車不足に抗議する数千人の試験受験者が鉄道駅で破壊行為や投石を行い、線路を封鎖。交通インフラがマヒ状態に陥った。",
-          "source": "Mathrubhumi English, The Logical Indian"
+          "description": "BJP指導者の殺害事件をきっかけに社会不安が拡大。メディアや警察への投石、家屋やトラクターの放火など、暴徒化が見られます。",
+          "source": "Bhaskar English"
         },
         {
-          "title": "肥料不足に対する農民の抗議デモ",
-          "location": "インド/アムリトサル",
-          "severity": 65,
-          "description": "尿素・肥料不足を訴える農民が大規模な抗議デモを実施。主要な生活資源の不足が社会不安を引き起こしている。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "イスラミ銀行の略奪者処罰と救済を求める声",
-          "location": "バングラデシュ",
+          "title": "列車不足による鉄道駅での暴徒化と衝突",
+          "location": "ビハール州パトナ、インド",
           "severity": 70,
-          "description": "イスラミ銀行を巡り「略奪者」という言葉が使われ、銀行の救済には彼らの処罰が先行すべきと報じられている。金融システムへの不信と関連する社会秩序の混乱を示唆。",
+          "description": "警察官志願者による列車不足への抗議デモが暴徒化し、列車が妨害され投石が発生。警察が催涙ガスを発射し、交通インフラが一部麻痺しました。",
+          "source": "India Today / Mathrubhumi English 他"
+        },
+        {
+          "title": "イスラミ銀行の略奪と金融不安",
+          "location": "バングラデシュ",
+          "severity": 65,
+          "description": "イスラミ銀行の救済には略奪者の処罰が不可欠という報道があり、金融機関への不信と経済的混乱の懸念が高まっています。取り付け騒ぎに発展する可能性があります。",
           "source": "New Age BD"
         }
       ]
     },
     {
-      "region": "europe",
+      "region": "east_asia",
       "panic_index": 45,
       "status": "unstable",
-      "main_cause": "人種差別、政治的対立、移民政策、社会的分断",
+      "main_cause": "政治制度への不信、行政の不手際",
       "incidents": [
         {
-          "title": "英国都市で極右と反人種差別派が衝突",
-          "location": "イギリス/複数都市",
-          "severity": 65,
-          "description": "ベルファストでの暴動後、英国の複数の都市で極右グループと反人種差別主義者の間で衝突が発生。社会の分断が深刻化している。",
-          "source": "The Guardian"
-        },
-        {
-          "title": "ベルファスト騒乱後、大規模な反人種差別集会開催",
-          "location": "イギリス/ベルファスト",
-          "severity": 60,
-          "description": "過去の騒乱を受け、ベルファストでは数千人が参加する反人種差別集会が開かれた。社会の分断と緊張が高まっている。",
-          "source": "BBC, Al Jazeera"
-        },
-        {
-          "title": "イスラエル不動産イベントへの抗議計画と議員の懸念",
-          "location": "イギリス/ロンドン",
-          "severity": 55,
-          "description": "ロンドンで開催予定のイスラエル不動産イベントに対し抗議デモが計画され、一部の議員はイスラエル入植地販売への懸念からイベント中止を求めている。",
-          "source": "The New Arab, The Guardian"
-        },
-        {
-          "title": "ローマで極右派が移民の母国送還を求めるデモ",
-          "location": "イタリア/ローマ",
-          "severity": 45,
-          "description": "イタリアのローマで極右派の団体がデモを実施し、移民の母国送還を強く要求。移民政策を巡る社会的な意見対立が表面化している。",
-          "source": "AFPBB News, Yahoo News"
-        },
-        {
-          "title": "G7反対デモに備えジュネーブ市街地で厳戒態勢",
-          "location": "スイス/ジュネーブ",
-          "severity": 30,
-          "description": "G7反対デモに先立ち、ジュネーブの市街地では徹底した警備が敷かれ、商店の板張りなどの予防措置が取られている。",
-          "source": "The Washington Post"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "地域紛争、暴力",
-      "incidents": [
-        {
-          "title": "西岸地区で入植者がパレスチナ人を射殺",
-          "location": "西岸地区",
-          "severity": 75,
-          "description": "西岸地区で入植者がパレスチナ人を射殺する事件が発生。メンタルヘルス問題を抱えていたとの報道もあり、地域の緊張が高まっている。",
-          "source": "The Times of Israel"
+          "title": "投票用紙不足に対する大規模抗議と当局調査",
+          "location": "ソウル、韓国",
+          "severity": 50,
+          "description": "地方選挙での投票用紙不足に対し、数千人規模の抗議デモが複数地域で発生し、週末も継続。選挙当局が調査を受ける事態に発展し、制度への不信感が高まっています。",
+          "source": "Yonhap News Agency / Seoul Economic Daily 他"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 45,
+      "panic_index": 40,
       "status": "unstable",
-      "main_cause": "年金政策、経済的不安",
+      "main_cause": "経済政策への不満",
       "incidents": [
         {
-          "title": "年金政策に対する退職者の抗議デモ",
+          "title": "年金政策に対する退職者抗議",
           "location": "ナイジェリア",
-          "severity": 50,
-          "description": "年金政策に不満を持つ退職者たちが抗議デモを実施。政府は政策を擁護しているが、高齢者の生活不安が社会に影を落としている。",
+          "severity": 45,
+          "description": "政府の年金政策に対し、退職者たちが大規模な抗議デモを実施。経済的な不満が背景にあり、社会的な緊張を引き起こしています。",
           "source": "Punch Newspapers"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "金融安定性への懸念",
+      "incidents": [
+        {
+          "title": "銀行の安定性に関する懸念を示すコメンタリー",
+          "location": "ドミニカ",
+          "severity": 30,
+          "description": "ドミニカ共和国のニュースサイトが銀行の安定性について懸念を示す記事を掲載。直接的なパニックは報告されていないものの、潜在的な金融不安が議論されています。",
+          "source": "Dominica News Online"
         }
       ]
     }
