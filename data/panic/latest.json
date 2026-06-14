@@ -1,130 +1,143 @@
 {
   "date": "2026-06-14",
-  "summary": "世界各地で社会不安とパニックの兆候が増加しています。特に欧州では移民問題や政治的不満が原因で、暴動や暴力的な衝突が頻発し、一部地域は「Critical」な警戒状態にあります。南アジアでは、公共インフラの機能不全、食料・肥料などの資源不足、金融機関の不信が複合的に作用し、大規模な抗議活動や略奪の懸念が高まっています。東アジアでは選挙制度への不信がデモに繋がり、北米圏ではエネルギー不足が国際的な運航停止に影響を及ぼすなど、市民の不満が具体的な生活基盤や制度への不安と結びつき、社会的な緊張が高まっている現状が浮き彫りになっています。",
-  "global_panic_index": 53,
+  "summary": "世界各地で社会不安とパニックの兆候が見られます。特に南アジアでは、デマによる死者発生や交通インフラの機能不全を伴う暴徒化が確認され、深刻な危機状態にあります。パキスタン管理カシミールでは治安部隊の発砲による死者も報告され、地域紛争の激化が懸念されます。韓国では選挙制度への不信から大規模な抗議デモが続き、欧州では人種差別や移民政策を巡る社会的分断が衝突に発展する事例が見られます。全体として、一部地域では社会秩序が崩壊の危機に瀕していますが、広範なインフラマヒには至っていません。",
+  "global_panic_index": 57,
   "regions": [
     {
       "region": "east_asia",
-      "panic_index": 40,
+      "panic_index": 50,
       "status": "unstable",
-      "main_cause": "政治的不信、選挙運営問題",
+      "main_cause": "選挙制度への不信、政治的不満、社会的分断",
       "incidents": [
         {
-          "title": "投票用紙不足に対する抗議デモ",
-          "location": "韓国（ソウル、蚕室など）",
-          "severity": 50,
-          "description": "選挙における投票用紙不足を巡り、ソウルなどで大規模な抗議デモが発生。当局による調査も進められていますが、暴力的な混乱は確認されていません。",
-          "source": "Yonhap News Agency, Seoul Economic Daily, aju press"
+          "title": "選挙投票用紙不足抗議デモが拡大、当局調査へ",
+          "location": "韓国/ソウル",
+          "severity": 60,
+          "description": "地方選挙の投票用紙不足を巡り、蚕室を中心に大規模な抗議デモが継続。警察官が揶揄される事態も発生し、選挙当局への不信感が募っている。",
+          "source": "Yonhap News Agency, aju press, Seoul Economic Daily"
+        },
+        {
+          "title": "移民政策を巡る対立デモ発生",
+          "location": "日本/北海道",
+          "severity": 35,
+          "description": "インターナショナルスクール建設に関連し、移民政策反対団体と差別反対団体がそれぞれデモを実施し、社会的な意見対立が表面化している。",
+          "source": "HTB北海道テレビ"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "デマによるパニック、交通インフラの機能不全、資源不足、治安部隊による暴力、金融不安",
+      "incidents": [
+        {
+          "title": "火災デマによる列車パニックで4人死亡",
+          "location": "インド/マディヤ・プラデーシュ州",
+          "severity": 90,
+          "description": "列車内で火災の噂が広がり乗客がパニックに陥り、線路に飛び降りたところ別の列車に轢かれ4人が死亡する悲劇が発生した。",
+          "source": "India Today, News18"
+        },
+        {
+          "title": "PoKで抗議デモに治安部隊が発砲、3人死亡し暴動激化",
+          "location": "パキスタン/パキスタン管理カシミール (PoK)",
+          "severity": 95,
+          "description": "パキスタン管理カシミールで抗議デモがエスカレートし、治安部隊が発砲。少なくとも3人が死亡し、地域は深刻な暴力と混乱に見舞われている。",
+          "source": "Firstpost, MSN"
+        },
+        {
+          "title": "列車不足で鉄道駅が暴徒化、破壊行為と投石",
+          "location": "インド/パトナ、ビハール州",
+          "severity": 80,
+          "description": "列車不足に抗議する数千人の試験受験者が鉄道駅で破壊行為や投石を行い、線路を封鎖。交通インフラがマヒ状態に陥った。",
+          "source": "Mathrubhumi English, The Logical Indian"
+        },
+        {
+          "title": "肥料不足に対する農民の抗議デモ",
+          "location": "インド/アムリトサル",
+          "severity": 65,
+          "description": "尿素・肥料不足を訴える農民が大規模な抗議デモを実施。主要な生活資源の不足が社会不安を引き起こしている。",
+          "source": "The News Mill"
+        },
+        {
+          "title": "イスラミ銀行の略奪者処罰と救済を求める声",
+          "location": "バングラデシュ",
+          "severity": 70,
+          "description": "イスラミ銀行を巡り「略奪者」という言葉が使われ、銀行の救済には彼らの処罰が先行すべきと報じられている。金融システムへの不信と関連する社会秩序の混乱を示唆。",
+          "source": "New Age BD"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 75,
-      "status": "critical",
-      "main_cause": "移民問題、政治的不満、社会的分断",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "人種差別、政治的対立、移民政策、社会的分断",
       "incidents": [
         {
-          "title": "ベルファストで反移民デモが暴力化、放水砲や火災が発生",
-          "location": "イギリス（ベルファスト）",
-          "severity": 80,
-          "description": "ベルファストで移民に反対するデモが二夜連続で暴徒化し、放水砲が使用され、火災も発生。極右勢力と反人種差別派の衝突も確認され、地域社会に深刻な不安が広がっています。",
-          "source": "MSN, The Guardian, Al Jazeera, BBC, Sky News, The Irish News"
+          "title": "英国都市で極右と反人種差別派が衝突",
+          "location": "イギリス/複数都市",
+          "severity": 65,
+          "description": "ベルファストでの暴動後、英国の複数の都市で極右グループと反人種差別主義者の間で衝突が発生。社会の分断が深刻化している。",
+          "source": "The Guardian"
         },
         {
-          "title": "オランダで難民シェルター計画巡り暴動、7人逮捕",
-          "location": "オランダ（ウェイク・バイ・ドゥールステーデ）",
-          "severity": 75,
-          "description": "難民シェルターの建設計画に対し、オランダの都市で住民による暴動が発生し、7人が逮捕されました。移民問題が地域社会の緊張を高めています。",
-          "source": "NL Times"
-        },
-        {
-          "title": "G7反対デモに備え、ジュネーブ中心部が厳戒態勢",
-          "location": "スイス（ジュネーブ）",
+          "title": "ベルファスト騒乱後、大規模な反人種差別集会開催",
+          "location": "イギリス/ベルファスト",
           "severity": 60,
-          "description": "G7サミットへの反対デモに備え、ジュネーブ中心部の商店が板で覆われ、大規模な警備体制が敷かれています。潜在的な混乱への強い警戒感が示されています。",
+          "description": "過去の騒乱を受け、ベルファストでは数千人が参加する反人種差別集会が開かれた。社会の分断と緊張が高まっている。",
+          "source": "BBC, Al Jazeera"
+        },
+        {
+          "title": "イスラエル不動産イベントへの抗議計画と議員の懸念",
+          "location": "イギリス/ロンドン",
+          "severity": 55,
+          "description": "ロンドンで開催予定のイスラエル不動産イベントに対し抗議デモが計画され、一部の議員はイスラエル入植地販売への懸念からイベント中止を求めている。",
+          "source": "The New Arab, The Guardian"
+        },
+        {
+          "title": "ローマで極右派が移民の母国送還を求めるデモ",
+          "location": "イタリア/ローマ",
+          "severity": 45,
+          "description": "イタリアのローマで極右派の団体がデモを実施し、移民の母国送還を強く要求。移民政策を巡る社会的な意見対立が表面化している。",
+          "source": "AFPBB News, Yahoo News"
+        },
+        {
+          "title": "G7反対デモに備えジュネーブ市街地で厳戒態勢",
+          "location": "スイス/ジュネーブ",
+          "severity": 30,
+          "description": "G7反対デモに先立ち、ジュネーブの市街地では徹底した警備が敷かれ、商店の板張りなどの予防措置が取られている。",
           "source": "The Washington Post"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "民族紛争、占領地問題",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "地域紛争、暴力",
       "incidents": [
         {
-          "title": "西岸地区で入植者がパレスチナ人を銃撃",
+          "title": "西岸地区で入植者がパレスチナ人を射殺",
           "location": "西岸地区",
-          "severity": 60,
-          "description": "西岸地区でイスラエル人入植者がパレスチナ人を銃撃する事件が発生。被害者は精神障害があったと報じられており、地域の緊張状態を示しています。",
+          "severity": 75,
+          "description": "西岸地区で入植者がパレスチナ人を射殺する事件が発生。メンタルヘルス問題を抱えていたとの報道もあり、地域の緊張が高まっている。",
           "source": "The Times of Israel"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "経済政策への不満",
-      "incidents": [
-        {
-          "title": "ナイジェリアで年金政策に反対する退職者デモ",
-          "location": "ナイジェリア",
-          "severity": 30,
-          "description": "退職者たちが年金政策に抗議するデモを実施。当局は政策を擁護しており、社会的な不満が存在するものの、暴力的な混乱には至っていません。",
-          "source": "Punch Newspapers"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 70,
-      "status": "critical",
-      "main_cause": "資源不足（燃料、肥料、食料）、交通インフラの不備、金融不安",
-      "incidents": [
-        {
-          "title": "インドで列車不足・遅延巡り学生デモが暴徒化",
-          "location": "インド（パトナなど）",
-          "severity": 70,
-          "description": "列車不足と遅延に抗議する学生デモが暴徒化し、駅で器物損壊や投石が発生。公共交通機関の機能不全が直接的な社会不安を引き起こしています。",
-          "source": "Babushahi.com, Mathrubhumi English"
-        },
-        {
-          "title": "インドで尿素・肥料不足に対し農民が抗議デモ",
-          "location": "インド（アムリトサル）",
-          "severity": 65,
-          "description": "農業に不可欠な尿素や肥料の不足に対し、アムリトサルで農民による抗議デモが行われ、食料安全保障への懸念が高まっています。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "バングラデシュでイスラミ銀行の経営問題と略奪疑惑",
-          "location": "バングラデシュ",
-          "severity": 70,
-          "description": "バングラデシュ銀行がイスラミ銀行の経営問題を適切に処理できていないとの批判があり、「略奪者」を裁く特別法廷を求める声も上がっています。金融システムへの不信感が高まっています。",
-          "source": "Bangi News, Jagonews24.com"
-        },
-        {
-          "title": "インドで牛乳不足が貧困層・中間層に深刻な影響",
-          "location": "インド（タミル・ナードゥ州）",
-          "severity": 60,
-          "description": "アムル牛乳の不足が報じられ、貧困層や中間層に深刻な影響を及ぼすと懸念されています。生活必需品の供給不安定が社会不安を引き起こす可能性。",
-          "source": "DT Next"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 50,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "エネルギー不足",
+      "main_cause": "年金政策、経済的不安",
       "incidents": [
         {
-          "title": "キューバへの航空燃料不足によりカナダの航空会社が運航停止",
-          "location": "キューバ（影響は国際線）",
+          "title": "年金政策に対する退職者の抗議デモ",
+          "location": "ナイジェリア",
           "severity": 50,
-          "description": "航空燃料の深刻な不足により、カナダの航空会社がキューバへのサービスを一時停止しました。これはエネルギー不足が国際的な物流・移動に直接影響を及ぼしている例です。",
-          "source": "News On AIR"
+          "description": "年金政策に不満を持つ退職者たちが抗議デモを実施。政府は政策を擁護しているが、高齢者の生活不安が社会に影を落としている。",
+          "source": "Punch Newspapers"
         }
       ]
     }
