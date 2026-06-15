@@ -1,122 +1,93 @@
 {
   "date": "2026-06-15",
-  "summary": "世界各地で社会不安が高まっており、特に南アジアでは、政府軍によるデモ隊への発砲で死者が出る事態や、火災の噂による集団パニックで列車事故が発生するなど、生命の危険を伴う深刻な状況が見られます。ヨーロッパでは主要国首脳会議に対する抗議デモが暴力化し、器物損壊や放火が発生。金融システムへの不信感や食料不足による抗議も複数地域で報告されており、全体的に社会秩序の安定性が試されています。",
-  "global_panic_index": 75,
+  "summary": "世界各地では、経済的・政治的な不満、生活必需品の不足、金融機関への不信などを背景とした大規模な抗議活動が多発しています。特にヨーロッパの一部とアフリカでは、デモが暴徒化し警察との衝突、器物損壊、さらには死者が出るなど、深刻な事態に至っている地域が見られます。アジア地域でも金融システムへの不信や生活インフラへの不満が表面化しており、全体的に社会的な緊張が高まっています。",
+  "global_panic_index": 70,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 70,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "大規模な政治デモの暴力化",
+      "main_cause": "G7サミットへの反発、政治的不満、金融システムの脅威",
       "incidents": [
         {
-          "title": "ジュネーブG7抗議デモの暴力化",
-          "location": "ジュネーブ、スイス",
-          "severity": 80,
-          "description": "G7サミットに反対する数千人規模のデモが警察との衝突に発展し、テスラの放火、銀行窓の破壊、国連施設への損害など暴力的な事態に。社会秩序への脅威が見られる。",
-          "source": "Global Banking & Finance Review 他"
+          "title": "ジュネーブG7サミット抗議デモの暴徒化",
+          "location": "スイス、ジュネーブ",
+          "severity": 85,
+          "description": "G7サミットに抗議するデモ隊が警察と衝突し、テスラ車に放火、銀行の窓を破壊。国連施設にも損害を与え、デモは非常に暴力的かつ破壊的な様相を呈しました。",
+          "source": "The Washington Post, Euronews, Global Banking & Finance Review, MSN, Sky News"
         },
         {
-          "title": "ロンドンでのイスラエル関連抗議と逮捕",
-          "location": "ロンドン、イギリス",
-          "severity": 45,
-          "description": "イスラエル関連の不動産イベントに対し抗議デモが発生し、14名の逮捕者が出た。特定の政治的主張に基づく抗議活動の範囲内で、大規模な混乱には至っていない。",
-          "source": "The Jerusalem Post 他"
-        },
-        {
-          "title": "リバプールでの抗議と全国的動揺",
-          "location": "リバプール、イギリス",
-          "severity": 55,
-          "description": "リバプールで抗議活動が発生し、英国全体で高まる不安と緊張の中で状況が注目されている。具体的な暴力行為の報告はないが、社会の潜在的な不満を示す。",
-          "source": "Evrim Ağacı"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "政府による弾圧、集団パニック、金融・食料不安",
-      "incidents": [
-        {
-          "title": "パキスタン占領カシミールでのデモ隊発砲、死者発生",
-          "location": "パキスタン占領カシミール (PoK)",
-          "severity": 95,
-          "description": "パキスタン軍が抗議デモに対し発砲し、少なくとも3名が死亡。政府と市民の間の深刻な対立と、武力行使による生命の危険が極めて高い状態にある。",
-          "source": "Firstpost"
-        },
-        {
-          "title": "インドでの列車火災の噂による集団パニック、死者発生",
-          "location": "マディヤプラデーシュ州、インド",
-          "severity": 90,
-          "description": "列車内で火災の噂が広がり集団パニックが発生。乗客が線路に飛び降り、対向列車に轢かれて4名が死亡した。情報の混乱が大規模な人的被害につながる深刻なパニック事例。",
-          "source": "India Today 他"
-        },
-        {
-          "title": "ネパールでの銀行預金払い戻し要求デモ",
-          "location": "マイティガル、ネパール",
-          "severity": 75,
-          "description": "Karnali Development Bankの預金者が預金の払い戻しを求めて抗議活動。金融システムへの不信感からくる取り付け騒ぎの兆候が見られ、金融不安が拡大する恐れがある。",
-          "source": "Nepalnews.com"
-        },
-        {
-          "title": "ネパールでの食料不足抗議",
-          "location": "キルティプル、ネパール",
+          "title": "ロンドンでの抗議デモと逮捕者",
+          "location": "イギリス、ロンドン",
           "severity": 65,
-          "description": "Kirtipurの収容センターで、土地を持たない住民が食料不足を訴えて抗議。基本的な生活必需品の不足は、深刻な社会不安の引き金となる。",
-          "source": "Khabarhub"
+          "description": "カシミール情勢やイスラエル不動産関連のイベント、シナゴーグ前などで複数の抗議デモが発生。警察との衝突や逮捕者が出ており、緊張状態が続いています。",
+          "source": "MSN, The New Arab, The Jerusalem Post, BBC, My London, VSK Telangana"
         },
         {
-          "title": "インド・トリプラ州での列車コーチ不足抗議",
-          "location": "ジラニア駅、トリプラ州、インド",
-          "severity": 55,
-          "description": "トリプラ州の駅で、列車コーチ不足に不満を持つ乗客が抗議し、2本の列車が運行停止。公共交通インフラの不備による混乱が発生している。",
-          "source": "Tripuratimes"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "政治的プロセスへの不満",
-      "incidents": [
-        {
-          "title": "韓国での投票用紙不足抗議",
-          "location": "ソウル、韓国",
-          "severity": 60,
-          "description": "ソウルで投票用紙不足に対する抗議デモが発生し、警察はデモ中の犯罪行為に対し厳しく対処する姿勢。政治プロセスへの不満が社会不安につながる可能性を秘めている。",
-          "source": "CHOSUNBIZ 他"
+          "title": "アルバニアでの長期化する反政府デモと銀行への脅威",
+          "location": "アルバニア",
+          "severity": 65,
+          "description": "首都を超えて15日間にわたり反政府デモが拡大。また、ABI銀行が恐喝被害に遭っているとの報道もあり、政治的・経済的な不安定要素が顕在化しています。",
+          "source": "Albanian Daily News, cna.al"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "不法移民問題",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "エボラ施設建設への反発、政府への不満",
       "incidents": [
         {
-          "title": "南アフリカでの不法移民抗議と治安部隊動員",
-          "location": "西ケープ州、南アフリカ",
-          "severity": 70,
-          "description": "西ケープ州で不法移民に関する抗議デモが発生し、政府は不安の脅威が高まっているとして治安部隊を動員。民族的・移民に関する緊張が社会不安を引き起こしている。",
-          "source": "IOL"
+          "title": "ケニアでのエボラ施設抗議デモで死者",
+          "location": "ケニア",
+          "severity": 90,
+          "description": "米国のエボラ施設建設に抗議するデモ隊と警察が衝突し、デモ参加者1名が死亡、数十名が逮捕されました。政府はデモ被害者への補償を開始するなど、事態の深刻さが伺えます。",
+          "source": "Bernama, KDRTV"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 65,
+      "region": "east_asia",
+      "panic_index": 50,
       "status": "unstable",
-      "main_cause": "金融機関への不信",
+      "main_cause": "選挙プロセスへの不満",
       "incidents": [
         {
-          "title": "バングラデシュ・イスラミ銀行への顧客不満",
+          "title": "韓国での投票用紙不足抗議と警察の対応",
+          "location": "韓国、ソウル",
+          "severity": 55,
+          "description": "投票用紙不足を巡る抗議活動が報じられ、ソウル警察は抗議活動中の犯罪に対して厳格な措置を取ると発表。選挙プロセスへの不信感が背景にあると見られます。",
+          "source": "아시아경제, Chosunbiz"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "食料不足、金融詐欺、公共サービスへの不満",
+      "incidents": [
+        {
+          "title": "ネパールでの食料不足と銀行貯蓄返還要求の抗議",
+          "location": "ネパール",
+          "severity": 60,
+          "description": "Kirtipurの定住センターで土地なし住民が食料不足に抗議。また、Karnali開発銀行の被害者が貯蓄の返還を求めて抗議活動を行っており、生活と金融の両面で不安が高まっています。",
+          "source": "Nepalnews.com, Khabarhub"
+        },
+        {
+          "title": "インド各地での公共サービスと金融詐欺に関する抗議",
+          "location": "インド",
+          "severity": 60,
+          "description": "トリプラ州ではコーチ不足で列車が運休し乗客が抗議。バンクロダの融資詐欺疑惑では担保金の返還を求めるデモが発生。Visakhapatnamでは金融詐欺被害者350名が抗議し、Jaipurでは試験不正抗議で暴力行為が発生しています。",
+          "source": "Tripuratimes, The Hindu, ANI News, pragativadi.com"
+        },
+        {
+          "title": "バングラデシュのイスラミ銀行に対する不信と刷新要求",
           "location": "バングラデシュ",
-          "severity": 65,
-          "description": "イスラミ銀行の顧客が、銀行経営の透明性向上と取締役会の刷新を求める。経営陣の腐敗や不信感は、将来的な取り付け騒ぎに発展する可能性を秘めた金融不安の兆候。",
-          "source": "Jagonews24.com 他"
+          "severity": 55,
+          "description": "イスラミ銀行の顧客フォーラムが「正直な個人」による理事会の設置を要求。理事会の解散を歓迎し、非政治的な新体制を求める声が上がっており、金融システムへの不信が示されています。",
+          "source": "Jagonews24.com, The Business Standard"
         }
       ]
     }
