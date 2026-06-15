@@ -1,93 +1,179 @@
 {
   "date": "2026-06-15",
-  "summary": "世界各地では、経済的・政治的な不満、生活必需品の不足、金融機関への不信などを背景とした大規模な抗議活動が多発しています。特にヨーロッパの一部とアフリカでは、デモが暴徒化し警察との衝突、器物損壊、さらには死者が出るなど、深刻な事態に至っている地域が見られます。アジア地域でも金融システムへの不信や生活インフラへの不満が表面化しており、全体的に社会的な緊張が高まっています。",
-  "global_panic_index": 70,
+  "summary": "世界各地では、金融不安、食料不足、政治的抗議活動が社会不安の主要因となっています。特にアフリカの一部地域ではエボラ施設を巡る暴動で死者が出るなど極めて危機的な状況が見られます。欧州ではデモの暴力化が目立ち、南アジアでは大規模な金融詐欺や食料不足が深刻な懸念材料となっています。北米は比較的安定していますが、社会福祉やインフラの課題が表面化しています。全体として、特定の地域で社会秩序の揺らぎが顕著であり、国際社会が注視すべき状況です。",
+  "global_panic_index": 60,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "G7サミットへの反発、政治的不満、金融システムの脅威",
+      "region": "north_america",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "社会福祉・医療インフラの不足",
       "incidents": [
         {
-          "title": "ジュネーブG7サミット抗議デモの暴徒化",
-          "location": "スイス、ジュネーブ",
-          "severity": 85,
-          "description": "G7サミットに抗議するデモ隊が警察と衝突し、テスラ車に放火、銀行の窓を破壊。国連施設にも損害を与え、デモは非常に暴力的かつ破壊的な様相を呈しました。",
-          "source": "The Washington Post, Euronews, Global Banking & Finance Review, MSN, Sky News"
+          "title": "メンタルヘルス施設不足の懸念",
+          "location": "ミネソタ州、米国",
+          "severity": 20,
+          "description": "ミネソタ州で子供向けのメンタルヘルス施設が不足しており、さらに2施設が閉鎖の危機に瀕している。これは社会的なケアシステムへの不安を示唆します。",
+          "source": "Star Tribune"
         },
         {
-          "title": "ロンドンでの抗議デモと逮捕者",
-          "location": "イギリス、ロンドン",
-          "severity": 65,
-          "description": "カシミール情勢やイスラエル不動産関連のイベント、シナゴーグ前などで複数の抗議デモが発生。警察との衝突や逮捕者が出ており、緊張状態が続いています。",
-          "source": "MSN, The New Arab, The Jerusalem Post, BBC, My London, VSK Telangana"
+          "title": "フードバンクによる子供への支援",
+          "location": "ケンブリッジ、カナダ",
+          "severity": 35,
+          "description": "ケンブリッジのフードバンクが約3,000人の子供を支援していることが報告されました。これは貧困と食料へのアクセスに関する社会的な懸念が存在することを示唆します。",
+          "source": "CityNews Kitchener"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "政治的・社会的抗議活動、暴力化するデモ、国際情勢の緊張",
+      "incidents": [
+        {
+          "title": "反G7デモの暴力化と施設損壊",
+          "location": "ジュネーブ、スイス",
+          "severity": 75,
+          "description": "G7サミットに先立つ反G7デモが暴力化し、テスラ車両への放火や国連施設への損害が発生しました。これは社会秩序への直接的な脅威を示します。",
+          "source": "MSN"
         },
         {
-          "title": "アルバニアでの長期化する反政府デモと銀行への脅威",
+          "title": "アルバニアでの反政府デモ拡大",
           "location": "アルバニア",
           "severity": 65,
-          "description": "首都を超えて15日間にわたり反政府デモが拡大。また、ABI銀行が恐喝被害に遭っているとの報道もあり、政治的・経済的な不安定要素が顕在化しています。",
-          "source": "Albanian Daily News, cna.al"
+          "description": "アルバニアで反政府デモが15日間にわたり首都以外にも拡大しています。長期化・大規模化するデモは政治的安定への深刻な懸念を引き起こします。",
+          "source": "Albanian Daily News"
+        },
+        {
+          "title": "シナゴーグ前でのデモと逮捕者",
+          "location": "ロンドン、英国",
+          "severity": 55,
+          "description": "北ロンドンのシナゴーグ前でデモが発生し、14人が逮捕されました。これは特定のコミュニティ間の緊張や社会的分断の兆候を示します。",
+          "source": "BBC"
+        },
+        {
+          "title": "英国カシミール人による抗議デモ",
+          "location": "ロンドン、英国",
+          "severity": 50,
+          "description": "PoK (パキスタン管理下のカシミール) での取り締まり（deadly crackdown）に抗議するため、ロンドンで数千人のカシミール人がデモを行いました。",
+          "source": "MSN"
+        },
+        {
+          "title": "ウクライナ戦争における人的資源不足の言及",
+          "location": "ベラルーシ (ウクライナ戦争関連)",
+          "severity": 55,
+          "description": "ルカシェンコ大統領がウクライナ戦争における人的資源不足に言及。これは戦争の継続可能性と、国民の厭戦気分や徴兵への不安を高める可能性があります。",
+          "source": "BelTA News Agency"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 65,
+      "status": "unstable",
+      "main_cause": "強制的な空間再編、人道問題",
+      "incidents": [
+        {
+          "title": "西岸難民キャンプでの住居解体",
+          "location": "西岸地区",
+          "severity": 65,
+          "description": "西岸の難民キャンプで「空間再編」の名のもとに数百軒の住居が解体されました。これは強制的な移住や人権侵害に繋がり、住民の深刻な社会不安を引き起こします。",
+          "source": "The Forward"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 85,
+      "panic_index": 80,
       "status": "critical",
-      "main_cause": "エボラ施設建設への反発、政府への不満",
+      "main_cause": "公衆衛生への不安、政治的暴動、政府への不満",
       "incidents": [
         {
-          "title": "ケニアでのエボラ施設抗議デモで死者",
+          "title": "エボラ施設を巡る暴動で死者、多数逮捕",
           "location": "ケニア",
-          "severity": 90,
-          "description": "米国のエボラ施設建設に抗議するデモ隊と警察が衝突し、デモ参加者1名が死亡、数十名が逮捕されました。政府はデモ被害者への補償を開始するなど、事態の深刻さが伺えます。",
-          "source": "Bernama, KDRTV"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "選挙プロセスへの不満",
-      "incidents": [
+          "severity": 85,
+          "description": "米国のエボラ施設を巡る暴動で抗議者が死亡し、数十人が逮捕されました。これは公衆衛生への不安が暴力的衝突に発展した極めて深刻なパニック事象です。",
+          "source": "Bernama"
+        },
         {
-          "title": "韓国での投票用紙不足抗議と警察の対応",
-          "location": "韓国、ソウル",
-          "severity": 55,
-          "description": "投票用紙不足を巡る抗議活動が報じられ、ソウル警察は抗議活動中の犯罪に対して厳格な措置を取ると発表。選挙プロセスへの不信感が背景にあると見られます。",
-          "source": "아시아경제, Chosunbiz"
+          "title": "政府がデモ犠牲者へ補償開始",
+          "location": "ケニア",
+          "severity": 65,
+          "description": "政府がデモ犠牲者への20億シリングの補償を開始しました。これは過去のデモで多数の被害者が出たことを示唆し、深刻な社会不安の歴史があることを裏付けます。",
+          "source": "KDRTV"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "食料不足、金融詐欺、公共サービスへの不満",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "金融不安、食料不足、インフラ不備への不満",
       "incidents": [
         {
-          "title": "ネパールでの食料不足と銀行貯蓄返還要求の抗議",
-          "location": "ネパール",
-          "severity": 60,
-          "description": "Kirtipurの定住センターで土地なし住民が食料不足に抗議。また、Karnali開発銀行の被害者が貯蓄の返還を求めて抗議活動を行っており、生活と金融の両面で不安が高まっています。",
-          "source": "Nepalnews.com, Khabarhub"
-        },
-        {
-          "title": "インド各地での公共サービスと金融詐欺に関する抗議",
+          "title": "銀行ローン詐欺被害者の抗議デモ",
           "location": "インド",
-          "severity": 60,
-          "description": "トリプラ州ではコーチ不足で列車が運休し乗客が抗議。バンクロダの融資詐欺疑惑では担保金の返還を求めるデモが発生。Visakhapatnamでは金融詐欺被害者350名が抗議し、Jaipurでは試験不正抗議で暴力行為が発生しています。",
-          "source": "Tripuratimes, The Hindu, ANI News, pragativadi.com"
+          "severity": 65,
+          "description": "インドの銀行で発生したローン詐欺疑惑に対し、質入れされた金の返還を求める抗議デモが発生しました。これは金融機関への信頼揺るがす深刻な金融不安です。",
+          "source": "The Hindu"
         },
         {
-          "title": "バングラデシュのイスラミ銀行に対する不信と刷新要求",
-          "location": "バングラデシュ",
+          "title": "開発銀行の預金返還を求める抗議",
+          "location": "ネパール",
+          "severity": 65,
+          "description": "カルナリ開発銀行の預金返還を求める被害者が抗議活動を行いました。金融機関の経営問題による預金者の不安が顕在化し、取り付け騒ぎに近い状況です。",
+          "source": "Nepalnews.com"
+        },
+        {
+          "title": "無地入植者収容施設での食料不足デモ",
+          "location": "キルティプル、ネパール",
+          "severity": 75,
+          "description": "キルティプルの無地入植者収容施設で食料不足に対する抗議デモが発生しました。これは基本的な生存に関わる問題であり、大規模なパニックに発展しやすい状況です。",
+          "source": "Khabarhub"
+        },
+        {
+          "title": "コーチ不足による列車停止への乗客抗議",
+          "location": "トリプラ州、インド",
           "severity": 55,
-          "description": "イスラミ銀行の顧客フォーラムが「正直な個人」による理事会の設置を要求。理事会の解散を歓迎し、非政治的な新体制を求める声が上がっており、金融システムへの不信が示されています。",
-          "source": "Jagonews24.com, The Business Standard"
+          "description": "トリプラ州の駅でコーチ不足により2本の列車が停止し、乗客が抗議デモを行いました。交通インフラの機能不全が市民の直接的な不満と混乱を引き起こしています。",
+          "source": "Tripuratimes"
+        },
+        {
+          "title": "大規模金融詐欺被害者の抗議デモ",
+          "location": "ビザグ、インド",
+          "severity": 65,
+          "description": "ビザグで350人の大規模金融詐欺被害者が「チャンドゥ・グループ」に対する抗議デモを実施しました。巨額の被害と多数の被害者は金融システムへの不信を高めます。",
+          "source": "ANI News"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "選挙の公正性への懸念、政治的抗議",
+      "incidents": [
+        {
+          "title": "投票用紙不足を巡る抗議デモ",
+          "location": "韓国",
+          "severity": 45,
+          "description": "投票用紙不足に関する抗議デモが発生し、公正な選挙プロセスへの懸念が表明されました。これは民主主義制度への信頼を揺るがす可能性を秘めています。",
+          "source": "아시아경제"
+        },
+        {
+          "title": "投票用紙不足デモへの警察の厳格対応表明",
+          "location": "ソウル、韓国",
+          "severity": 55,
+          "description": "ソウル警察が投票用紙不足を巡るデモに関連する犯罪に対し厳格な対応を取ると表明しました。デモの暴力化や社会秩序の維持への懸念が高まっています。",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "大統領が投票集計センターデモに言及",
+          "location": "韓国",
+          "severity": 55,
+          "description": "李大統領が投票集計センターでのデモに対し、他者の権利を侵害しないよう呼びかけました。デモが社会機能に影響を与え、政治的緊張が高まっていることを示唆します。",
+          "source": "아시아경제"
         }
       ]
     }
