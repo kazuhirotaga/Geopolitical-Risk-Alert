@@ -1,71 +1,85 @@
 {
   "date": "2026-06-16",
-  "summary": "世界各地で多様な要因による社会不安が顕在化しています。アフリカではエボラ施設を巡るデモが暴動化し死者が出るなど危機的な状況にあり、南アフリカでも不法移民抗議が騒乱の脅威となっています。南アジアでは政府への不満、肥料不足、金融詐欺を巡る大規模な抗議活動が広がりを見せています。東アジアとヨーロッパでも、政治的・社会的な抗議デモが社会秩序への懸念を引き起こしており、全体として世界の緊迫度は中程度から高レベルにあります。",
+  "summary": "世界全体では、経済的な脆弱性、資源の不足、そして地政学的緊張が社会不安の主要因となっています。特に東アジアと南アジアでは、大規模な抗議活動や医療・農業分野での物資不足が警戒レベルに達しており、中東地域では長引く紛争と政治的緊張が社会秩序を不安定化させています。金融システムに対する潜在的なリスク警告も発されており、全体として市民生活に影響を及ぼす広範な不安が確認されます。",
   "global_panic_index": 55,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 20,
+      "panic_index": 35,
       "status": "stable",
-      "main_cause": "特定のパニック事象なし",
-      "incidents": []
-    },
-    {
-      "region": "europe",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "政治的・社会的分断、デモ",
+      "main_cause": "潜在的金融リスク、医療・社会福祉インフラの懸念",
       "incidents": [
         {
-          "title": "ロンドンでの入植地住宅宣伝を巡る大規模抗議",
-          "location": "London, UK",
-          "severity": 60,
-          "description": "ロンドンでの不動産展示会でイスラエル入植地住宅が宣伝され、これに反対する大規模な抗議デモが発生。警察が14人を逮捕し、その戦術が批判されている。社会的な緊張状態にある。",
-          "source": "BBC, The New Arab, Arab News, Sky News"
+          "title": "AIによる銀行取り付け騒ぎの潜在的リスク警告",
+          "location": "米国",
+          "severity": 40,
+          "description": "AI技術が数秒で銀行取り付け騒ぎを引き起こす可能性について、米国議員が対応準備の不足を警告。現時点でパニックは発生していないものの、金融システムへの不信感や将来的な不安を煽る要素となっている。",
+          "source": "Banking Dive"
+        },
+        {
+          "title": "子供向け精神医療施設の不足問題",
+          "location": "ミネソタ州, 米国",
+          "severity": 30,
+          "description": "ミネソタ州で子供向け精神医療施設が不足しており、さらに2施設が閉鎖の危機に瀕している。これは医療アクセスへの懸念と、社会的な不安の要因となり得る。",
+          "source": "Star Tribune"
+        },
+        {
+          "title": "フードバンクによる子供たちへの食料支援活動",
+          "location": "ケンブリッジ, カナダ",
+          "severity": 25,
+          "description": "カナダのケンブリッジにあるフードバンクが約3,000人の子供たちを支援。これは地域社会における潜在的な食料不安の存在を示唆するが、組織的な支援により大規模なパニックには至っていない。",
+          "source": "CityNews Kitchener"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "政治的抗議、社会秩序への懸念",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "大規模な抗議デモ、政治的緊張",
       "incidents": [
         {
-          "title": "ソウルでの投票関連抗議デモの長期化と政府の厳格対応",
-          "location": "Seoul, South Korea",
+          "title": "ソウルでの投票関連の大規模抗議デモ",
+          "location": "ソウル, 韓国",
+          "severity": 70,
+          "description": "韓国・ソウルで投票関連の大規模な抗議デモが12日間続き、内務大臣が「違法行為」に厳格な対応を表明。政治プロセスへの不満が社会不安として顕在化している。",
+          "source": "aju press, CHOSUNBIZ"
+        },
+        {
+          "title": "投票用紙不足を巡る数千人規模の抗議",
+          "location": "ソウル, 韓国",
           "severity": 65,
-          "description": "投票関連の抗議デモが12日間以上にわたり長期化し、政府は「違法行為」に対し厳格な対応を表明。これにより社会的な緊張が高まり、秩序維持への懸念が広がっている。",
-          "source": "CHOSUNBIZ, aju press, 아시아경제"
+          "description": "韓国で投票用紙不足が数千人規模の国民を動員し、民主主義擁護のための抗議活動に発展。これは政府への不信感と社会の分断を示唆し、公共秩序への懸念が高まっている。",
+          "source": "朝日新聞"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 40,
+      "panic_index": 60,
       "status": "unstable",
-      "main_cause": "地政学的緊張、紛争（間接的影響）",
-      "incidents": []
-    },
-    {
-      "region": "africa",
-      "panic_index": 80,
-      "status": "volatile",
-      "main_cause": "社会的不満、治安問題、移民問題、暴力",
+      "main_cause": "地域紛争、居住地問題、政治的緊張",
       "incidents": [
         {
-          "title": "ケニアのエボラ施設を巡る抗議デモで死者発生、暴動化",
-          "location": "Kenya",
-          "severity": 90,
-          "description": "米国エボラ施設建設に反対する抗議デモが暴力化し、1名の死者と多数の逮捕者が出た。社会秩序が著しく混乱し、地域がパニックに近い状態にある。",
-          "source": "Bernama"
+          "title": "イスラエルによるヘブロン聖地権限掌握",
+          "location": "ヘブロン, パレスチナ",
+          "severity": 65,
+          "description": "イスラエルがパレスチナ自治政府からヘブロンの聖地に対する権限を掌握した。これは地域内の政治的緊張を一段と高め、住民の不安を煽る行為である。",
+          "source": "The Straits Times"
         },
         {
-          "title": "南アフリカ西ケープ州で不法移民抗議が騒乱の脅威、治安部隊動員",
-          "location": "Western Cape, South Africa",
-          "severity": 75,
-          "description": "不法移民を巡る抗議デモが騒乱に発展する恐れがあり、地方政府は治安部隊を動員して警戒態勢を敷いている。社会不安が深刻化しており、暴力のリスクが高い。",
-          "source": "IOL"
+          "title": "ヨルダン川西岸難民キャンプでの居住地破壊",
+          "location": "ヨルダン川西岸, パレスチナ",
+          "severity": 60,
+          "description": "「空間再編」の名の下に、ヨルダン川西岸の難民キャンプで数百の住居が破壊された。これは強制退去や住居喪失による住民の深刻な社会不安を引き起こしている。",
+          "source": "The Forward"
+        },
+        {
+          "title": "ロンドンでの違法入植地促進イベントに対する抗議デモ",
+          "location": "ロンドン, 英国 (中東問題の波及)",
+          "severity": 55,
+          "description": "ロンドンで開催されたイスラエル違法入植地住宅促進の不動産展示会に対し、抗議デモが発生した。中東地域の紛争が国際的な社会不安を引き起こしている事例。",
+          "source": "Sky News, Arab News"
         }
       ]
     },
@@ -73,35 +87,64 @@
       "region": "south_asia",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "政府への不満、経済的不安、資源不足、社会紛争",
+      "main_cause": "医療危機、物資不足、詐欺被害、地域騒乱",
       "incidents": [
         {
-          "title": "パキスタン占領カシミールで政府公約不履行が原因の騒乱発生",
-          "location": "Pakistan Occupied Kashmir",
-          "severity": 70,
-          "description": "政府の公約と実行の隔たりが住民の強い不満を引き起こし、広範囲で騒乱状態が発生している。社会秩序に混乱が見られ、政治的な不安定さが深刻化している。",
-          "source": "Kashmir Times"
+          "title": "抗がん剤不足による患者の苦境",
+          "location": "チトワン, ネパール",
+          "severity": 75,
+          "description": "チトワンのガン病院で抗がん剤が不足し、多くの患者が苦境に陥っている。これは医療システムの危機であり、患者と家族に深刻なパニックと絶望をもたらす。",
+          "source": "The Kathmandu Post"
         },
         {
-          "title": "インド・アムリトサルで農民が尿素・肥料不足を巡り抗議デモ",
-          "location": "Amritsar, India",
-          "severity": 60,
-          "description": "食料生産に不可欠な尿素と肥料の不足に対し、農民が大規模な抗議デモを実施。政府への資源供給改善の圧力が強まり、食料安全保障への懸念が高まっている。",
+          "title": "肥料不足を巡る農民の抗議デモ",
+          "location": "アムリトサル, インド",
+          "severity": 70,
+          "description": "尿素や肥料の不足を巡り、インドのアムリトサルで農民が抗議デモを実施。食料生産への懸念から、広範な経済的・社会的不安を引き起こす可能性がある。",
           "source": "The News Mill"
         },
         {
-          "title": "インド各地で金融詐欺被害者が担保の金返還を求め抗議",
-          "location": "India",
-          "severity": 60,
-          "description": "ローン詐欺の被害者たちが、担保として預けた金の返還を求めて広範囲で抗議活動を展開。金融システムへの信頼が揺らいでおり、経済的な不安が社会に広がっている。",
-          "source": "PressReader, Deccan Chronicle"
+          "title": "「融資詐欺」被害者による抗議デモ",
+          "location": "インド",
+          "severity": 65,
+          "description": "融資詐欺の被害者たちが、担保として差し出した金の返還を求めて抗議デモを実施。金融詐欺の蔓延は社会的な信頼を揺るがし、広範な不安を生む。",
+          "source": "PressReader"
         },
         {
-          "title": "インド・マニプールで抗議活動後、医療支援が必要な状況",
-          "location": "Manipur, India",
-          "severity": 50,
-          "description": "マニプールで抗議活動が発生し、その後負傷者や体調不良者に対し医療支援が必要となる事態が発生した。地域の緊張状態が続いており、治安と人道状況が懸念される。",
-          "source": "India Today NE"
+          "title": "PaJK（パキスタン管理カシミール）での騒乱",
+          "location": "PaJK",
+          "severity": 60,
+          "description": "PaJK（パキスタン管理カシミール）で政府の主張と住民の要求の間に隔たりがあることが騒乱によって露呈。これは地域的な政治的・社会的不安定さを示している。",
+          "source": "Kashmir Times"
+        },
+        {
+          "title": "LPG（液化石油ガス）不足に関する抗議デモ報道",
+          "location": "インド",
+          "severity": 55,
+          "description": "インドでLPG不足を巡る抗議デモが報道されたが、政府はその動画が誤解を招くと反論。物資不足への懸念と情報混乱が社会不安を増幅させている。",
+          "source": "Newsonair"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "国際問題への関与、組織犯罪",
+      "incidents": [
+        {
+          "title": "麻薬密売組織による不正銀行摘発",
+          "location": "イタリア",
+          "severity": 40,
+          "description": "イタリア警察が麻薬密売組織が世界的な仲介役として利用していた不正銀行を解体。これは組織犯罪への懸念を高めるが、広範な社会パニックには至っていない。",
+          "source": "The Guardian"
+        },
+        {
+          "title": "ロンドンでの違法入植地促進イベントに対する抗議デモ",
+          "location": "ロンドン, 英国",
+          "severity": 35,
+          "description": "イスラエル違法入植地住宅促進の不動産展示会に対し、抗議デモが発生した。これは中東問題が英国国内の社会不安に影響を与えていることを示す。",
+          "source": "Sky News"
         }
       ]
     }
