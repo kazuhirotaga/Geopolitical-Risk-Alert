@@ -1,101 +1,144 @@
 {
   "date": "2026-06-16",
-  "summary": "世界各地では、経済的不満、エネルギー不足、政治的要因に起因する大規模な抗議活動や社会不安が増大しています。特に、韓国での長期化するデモが社会機能に影響を及ぼし、ナイジェリアでは深刻な電力不足が経済活動を停滞させ、一部地域での抗議デモが治安の不安定さを示しています。また、ネパールでは医薬品不足が深刻な健康危機を招いており、社会の脆弱性が顕在化しています。AIによる銀行の取り付け騒ぎの可能性が指摘されるなど、将来的な金融システムの安定性に対する懸念も存在します。",
+  "summary": "世界各地で、地域紛争による人道危機、政治的混乱に起因する大規模デモ、エネルギー不足による経済停滞、そして医療品不足といった多様な社会不安が顕在化しています。特に中東では水供給インフラの破壊が深刻な状況を生み出し、アフリカではエネルギー危機と暴動が社会秩序を揺るがしています。金融システムへの潜在的脅威やオンライン詐欺の横行も、人々の間に広範な不信感と不安を醸成しています。",
   "global_panic_index": 58,
   "regions": [
     {
-      "region": "east_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "政治的要因（選挙関連の不満、投票用紙不足、政府への抗議）",
+      "region": "north_america",
+      "panic_index": 25,
+      "status": "normal",
+      "main_cause": "金融システムへの潜在的脅威",
       "incidents": [
         {
-          "title": "韓国での長期化する大規模抗議デモによる社会機能影響",
-          "location": "韓国・ソウル他",
-          "severity": 65,
-          "description": "韓国各地で選挙関連の不正や政府政策への抗議デモが長期化し、一部で違法行為が報じられています。大規模コンサートの中止など、市民生活や経済活動に具体的な影響を及ぼし、社会の緊張が高まっています。",
-          "source": "aju press, CHOSUNBIZ, The Korea Times, 朝日新聞, 아시아경제"
+          "title": "‘We are not ready’: AI could trigger bank runs in seconds, lawmaker says",
+          "location": "アメリカ合衆国",
+          "severity": 40,
+          "description": "米国議員が、AIの急速な発展が数秒で銀行の取り付け騒ぎを引き起こす可能性を警告。これは現在のパニックではないものの、金融システムの脆弱性と将来的なパニック発生の潜在的リスクに対する深刻な懸念を示唆しています。",
+          "source": "Banking Dive"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "政治的混乱、選挙制度への不信",
+      "incidents": [
+        {
+          "title": "How South Korea’s ballot shortage spurred turnout of thousands to defend democracy",
+          "location": "韓国、ソウル",
+          "severity": 60,
+          "description": "韓国では、地方選挙における投票用紙不足問題に端を発し、数千人規模の国民が民主主義擁護のためにデモに参加。複数回にわたる抗議活動が発生し、政治的混乱と選挙制度への不信感が社会不安を増幅させています。",
+          "source": "朝日新聞"
+        },
+        {
+          "title": "Interior minister Yoon condemns illegal acts at Seoul ballot protest, vows reforms",
+          "location": "韓国、ソウル",
+          "severity": 50,
+          "description": "韓国の尹（ユン）内務相が、ソウルでの投票に関する抗議活動における一部の違法行為を非難し、改革を約束。大規模なデモ活動が続く中で、政府がデモの秩序維持と合法性に対して懸念を表明しています。",
+          "source": "CHOSUNBIZ"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "地域紛争、人道危機、生活インフラ破壊",
+      "incidents": [
+        {
+          "title": "Israeli settlers destroy sole water pipeline serving Umm Safa village in occupied West Bank",
+          "location": "占領下ヨルダン川西岸、ウム・サファ村",
+          "severity": 95,
+          "description": "イスラエル人入植者が、占領下ヨルダン川西岸のウム・サファ村で唯一の水パイプラインを破壊しました。これは基本的な生活インフラへの直接的な攻撃であり、住民の生存を脅かす重大な人道危機およびパニックを引き起こす事態です。",
+          "source": "Middle East Monitor"
+        },
+        {
+          "title": "Palestine weekly wrap: World sanctions settlers, Israel funds settlements",
+          "location": "イスラエル／パレスチナ",
+          "severity": 75,
+          "description": "違法なイスラエル入植地問題が国際的な制裁とイスラエルによる資金提供という形で継続しています。この地域の恒常的な紛争は、住民に深刻な社会不安と絶望感を与え続けており、国際社会からの注目を集めています。",
+          "source": "Al Jazeera"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 70,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "エネルギー不足、社会不安",
+      "main_cause": "エネルギー不足、社会秩序の混乱",
       "incidents": [
         {
-          "title": "ナイジェリアにおける深刻な電力不足と企業活動への影響",
+          "title": "AfDB: 70.7% of Nigerian Firms Depend on Generators to Run Businesses",
           "location": "ナイジェリア",
-          "severity": 75,
-          "description": "ナイジェリアでは企業活動の70%以上が自家発電に依存しており、深刻な電力インフラの不足が経済活動を停滞させ、国民の不満を増大させています。これは社会経済的安定性に対する大きな脅威です。",
+          "severity": 70,
+          "description": "アフリカ開発銀行の報告によると、ナイジェリア企業の70.7%が事業運営を自家発電機に依存しています。深刻な電力不足は経済活動を麻痺させ、国民生活に多大な負担を強いており、不満と社会不安が蓄積しています。",
           "source": "THISDAYLIVE"
         },
         {
-          "title": "プラトー州マングでの抗議デモ後の軍による秩序回復",
-          "location": "ナイジェリア・プラトー州マング",
-          "severity": 70,
-          "description": "プラトー州マングで発生した抗議デモに対し、軍が介入して秩序を回復しました。これは地域的な不安定さと治安の脆弱性を示しており、さらなる衝突のリスクをはらんでいます。",
+          "title": "Troops Restore Order After Protest Erupts in Mangu, Plateau State",
+          "location": "ナイジェリア、プラトー州マンク",
+          "severity": 80,
+          "description": "ナイジェリアのプラトー州マンクで抗議デモが暴動に発展し、治安部隊が介入して秩序を回復しました。これは社会秩序の深刻な混乱を示し、地域住民の安全と生活が脅かされた危機的状況であることを意味します。",
           "source": "zagazola.org"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "エネルギー価格高騰、政府政策への不満",
-      "incidents": [
-        {
-          "title": "インドネシアでの燃料費高騰と政府政策への学生デモ",
-          "location": "インドネシア",
-          "severity": 50,
-          "description": "インドネシアでは、燃料費の高騰と政府の政策に対する学生による抗議デモが各地で発生しています。国民の経済的負担が増大する中、不満が具体的な抗議行動として現れています。",
-          "source": "Reuters"
         }
       ]
     },
     {
       "region": "south_asia",
       "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "医薬品不足、経済的不満、エネルギー不足",
+      "status": "unstable",
+      "main_cause": "医療危機、エネルギー不足の懸念、金融詐欺、政治的不満",
       "incidents": [
         {
-          "title": "ネパールの癌病院における化学療法薬の深刻な不足",
-          "location": "ネパール・チトワン",
-          "severity": 80,
-          "description": "ネパールのチトワンにある癌病院で化学療法薬が不足し、多くの癌患者が治療を受けられない状況に陥っています。これは生命に関わる深刻な健康危機であり、社会的な不安と絶望感を広げています。",
+          "title": "Patients at cancer hospital in Chitwan struggle as chemotherapy drugs run short",
+          "location": "ネパール、チトワン",
+          "severity": 85,
+          "description": "ネパールのチトワンにあるがん病院で化学療法薬が不足し、多くの患者が苦しんでいます。これは直接的に人命に関わる医療危機であり、患者とその家族にとって極度の不安と絶望をもたらすパニック状態に近い状況です。",
           "source": "The Kathmandu Post"
         },
         {
-          "title": "インドでのローン詐欺被害者による資金返還要求デモ",
+          "title": "‘Loan scam’ victims protest, seek return of pledged gold",
           "location": "インド",
-          "severity": 50,
-          "description": "インドでは、ローン詐欺の被害者たちが、担保として預けた金の返還を求めて抗議デモを行っています。経済的な困窮と詐欺に対する不満が顕在化し、社会的な緊張を生み出しています。",
+          "severity": 60,
+          "description": "インドで「ローン詐欺」の被害者が、騙し取られた担保の金の返還を求めて抗議デモを実施しました。多数の市民が金融詐欺に巻き込まれ、財産を失うことへの怒りと絶望が社会不安を引き起こしています。",
           "source": "PressReader"
         },
         {
-          "title": "インドでのLPG不足に対する抗議デモの懸念（政府は否定）",
-          "location": "インド",
+          "title": "Govt refutes video claim of Miranda House protest over LPG shortage, calls video misleading | Akashvani News",
+          "location": "インド、ミランダ・ハウス",
           "severity": 45,
-          "description": "インドではLPG不足に関する抗議デモの動画が流布し、政府は誤解を招くものだと否定していますが、国民の間にはエネルギー不足に対する潜在的な不安が存在し、情報操作への不信感も高まっています。",
+          "description": "インド政府はLPG（液化石油ガス）不足に関する抗議デモの動画を誤情報と否定しました。デモの真偽は不明ですが、LPG不足の噂が広がり、市民が抗議行動を起こす可能性があったことは、潜在的な社会不安の存在を示唆しています。",
           "source": "Newsonair"
+        },
+        {
+          "title": "PaJK Unrest Exposes Gap Between Govt Claims and Implementation Of Demands",
+          "location": "パキスタン占領カシミール (PaJK)",
+          "severity": 50,
+          "description": "パキスタン占領カシミールでは、政府の主張と住民の要求実現との間に乖離があることを露呈する社会不安が発生しています。これは地域の政治的不安定と住民の不満が深まっていることを示しています。",
+          "source": "Kashmir Times"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 35,
-      "status": "stable",
-      "main_cause": "倫理的・政治的対立",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "組織犯罪、オンライン詐欺",
       "incidents": [
         {
-          "title": "ロンドンでの違法入植地プロモーションに対する抗議デモ",
-          "location": "イギリス・ロンドン",
-          "severity": 35,
-          "description": "ロンドンで開催された不動産展示会で、違法なイスラエル入植地の住宅が宣伝されたことに対し、市民団体が抗議デモを行いました。これは国際的な倫理問題に対する市民の関心と異議表明です。",
-          "source": "Arab News, Sky News"
+          "title": "Italy Busts Chinese Underground Bank Used By Drug Cartels, Mafia",
+          "location": "イタリア",
+          "severity": 60,
+          "description": "イタリアで、麻薬カルテルやマフィアが利用していた中国の地下銀行が摘発されました。これは組織犯罪による金融システムの脅威を示し、国家の治安と経済の健全性に対する潜在的な不安要素となっています。",
+          "source": "Deccan Chronicle"
+        },
+        {
+          "title": "Meta accused of letting scammers ‘run rampant’ online",
+          "location": "英国",
+          "severity": 50,
+          "description": "Metaがオンライン詐欺を野放しにしていると告発されました。デジタルプラットフォーム上での詐欺被害の横行は、多くの利用者の財産と精神に影響を与え、オンライン社会における不信感と広範な社会不安を醸成しています。",
+          "source": "The Times"
         }
       ]
     }

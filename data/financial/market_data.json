@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:56:17.200839",
+  "generated_at": "2026-06-16T22:54:25.697420",
   "indices": [
     {
       "symbol": "^N225",
@@ -64,35 +64,35 @@
     {
       "symbol": "USDJPY=X",
       "label": "ドル円相場",
-      "current_price": 160.44900512695312,
-      "price_formatted": "160.45",
-      "change": 0.4940032958984375,
-      "change_formatted": "+0.49",
-      "change_percent": 0.3088389173476465,
-      "change_percent_formatted": "+0.31%",
+      "current_price": 160.41600036621094,
+      "price_formatted": "160.42",
+      "change": 0.46099853515625,
+      "change_formatted": "+0.46",
+      "change_percent": 0.2882051388697173,
+      "change_percent_formatted": "+0.29%",
       "trend": "up",
       "date": "2026-06-16"
     },
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 65785.4921875,
-      "price_formatted": "65,785",
-      "change": -504.0078125,
-      "change_formatted": "-504",
-      "change_percent": -0.7603131906259664,
-      "change_percent_formatted": "-0.76%",
+      "current_price": 65665.9765625,
+      "price_formatted": "65,666",
+      "change": -623.5234375,
+      "change_formatted": "-624",
+      "change_percent": -0.9406066383062175,
+      "change_percent_formatted": "-0.94%",
       "trend": "down",
       "date": "2026-06-16"
     },
     {
       "symbol": "GC=F",
       "label": "金 (先物)",
-      "current_price": 4352.7998046875,
-      "price_formatted": "4,352.80",
-      "change": 24.7998046875,
-      "change_formatted": "+24.80",
-      "change_percent": 0.5730084262361368,
+      "current_price": 4352.5,
+      "price_formatted": "4,352.50",
+      "change": 24.5,
+      "change_formatted": "+24.50",
+      "change_percent": 0.5660813308687616,
       "change_percent_formatted": "+0.57%",
       "trend": "up",
       "date": "2026-06-16"
@@ -100,12 +100,12 @@
     {
       "symbol": "CL=F",
       "label": "原油 (WTI先物)",
-      "current_price": 75.94000244140625,
-      "price_formatted": "75.94",
-      "change": -4.80999755859375,
-      "change_formatted": "-4.81",
-      "change_percent": -5.956653323335914,
-      "change_percent_formatted": "-5.96%",
+      "current_price": 75.81999969482422,
+      "price_formatted": "75.82",
+      "change": -4.930000305175781,
+      "change_formatted": "-4.93",
+      "change_percent": -6.1052635358214005,
+      "change_percent_formatted": "-6.11%",
       "trend": "down",
       "date": "2026-06-16"
     }
