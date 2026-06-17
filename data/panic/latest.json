@@ -1,86 +1,107 @@
 {
   "date": "2026-06-17",
-  "summary": "世界的に見ると、金融システムへの新たな脅威の浮上や、各地での生活必需品の不足、政治的な抗議デモなど、複合的な要因による社会不安が観測されています。特に南アジアでは食料・LPG不足が市民生活に深刻な影響を及ぼし、政府への不満が高まっています。AIによる金融パニックの可能性という将来的なリスクも議論され、全体として「不安の増大」から「警戒状態」の範囲にあります。",
-  "global_panic_index": 58,
+  "summary": "世界各地では、特定の政治・社会問題への抗議活動が散見されるものの、全体として大規模な社会秩序の崩壊やパニック状態には至っていません。しかし、一部地域、特にインドのジャンムー・カシミール州では食料やLPGの深刻な不足が報告されており、生活必需品に関する局地的な危機感が顕著です。各国での雇用や年金、試験不正を巡る不満も存在し、今後の情勢変化に注意が必要です。",
+  "global_panic_index": 45,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "金融システムへの潜在的脅威、地域的な不満",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "特定の政治問題への抗議",
       "incidents": [
         {
-          "title": "AIによる銀行取り付け騒ぎの可能性に関する警告",
-          "location": "米国（グローバルな示唆）",
-          "severity": 65,
-          "description": "米国の議員が、AI技術の進化が秒単位で銀行取り付け騒ぎを引き起こす可能性があり、対応準備が不足していると警告。金融システムの脆弱性に対する潜在的なパニックリスクが議論されている。",
-          "source": "Banking Dive"
-        },
-        {
-          "title": "ライセンス移転に対する地域住民の抗議機会",
-          "location": "米国 モンタナ州 カットバンク",
+          "title": "銀行とICE収容所の関係に対する抗議",
+          "location": "Watertown, USA",
           "severity": 30,
-          "description": "モンタナ州カットバンクで、ライセンス移転に関する公聴会が開かれ、住民が抗議の機会を得た。これは地域的な問題に対する市民の不満の表出である。",
-          "source": "Cut Bank Pioneer Press"
+          "description": "Watertownの団体が、移民税関執行局（ICE）の収容所との関連を巡り銀行に対する抗議活動を実施しました。これは特定の政治的議題に対するデモであり、広範な社会パニックではありません。",
+          "source": "watertownmanews.com"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 55,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "政治的不満と抗議活動",
+      "main_cause": "政治・社会問題への抗議、表現の自由",
       "incidents": [
         {
-          "title": "韓国ソウルでの複数回の抗議デモ",
-          "location": "韓国 ソウル",
-          "severity": 55,
-          "description": "韓国ソウル各地で複数の政治的抗議デモが継続的に発生しており、特定の場所への立ち入りを阻止する行為や、警察による捜査も報じられている。社会の分断や不満の表出が見られる。",
-          "source": "The Korea Times, CHOSUNBIZ"
+          "title": "フェンシング韓国代表チームの抗議",
+          "location": "韓国",
+          "severity": 40,
+          "description": "韓国フェンシング代表チームが、機材が回収できない状況に対して抗議活動を行いました。これは政治的背景を持つ抗議行動による不便を訴えるものです。",
+          "source": "starnewskorea.com"
+        },
+        {
+          "title": "韓国での米国旗を振る抗議者の存在",
+          "location": "韓国",
+          "severity": 35,
+          "description": "韓国における抗議行動において米国旗が振られる背景が議論されています。多様な政治的・社会的不満が抗議活動として現れています。",
+          "source": "The Korea Times"
+        },
+        {
+          "title": "蚕室での抗議行動における警察官夫婦への嫌がらせ",
+          "location": "Jamsil, Seoul, 韓国",
+          "severity": 30,
+          "description": "蚕室での抗議活動中に警察官とその配偶者が嘲笑されたとして苦情を申し立てました。抗議行動に伴う個人間のトラブルが報じられています。",
+          "source": "CHOSUNBIZ"
+        },
+        {
+          "title": "民主党議員によるソウルでの抗議撤退と選手活動の保証要求",
+          "location": "Seoul, 韓国",
+          "severity": 45,
+          "description": "民主党の議員たちがソウルでの抗議活動から撤退し、選手活動の保証を求めています。政治家も関与する社会的な不満が表明されています。",
+          "source": "CHOSUNBIZ"
+        },
+        {
+          "title": "蚕室投票センター入り口を封鎖した抗議者に対する捜査",
+          "location": "Jamsil, Seoul, 韓国",
+          "severity": 50,
+          "description": "ソウルの蚕室投票センターの入り口を封鎖した抗議者に対し、警察が捜査を行っています。これは公共施設の機能に影響を与える可能性のある抗議行動です。",
+          "source": "CHOSUNBIZ"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 58,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "雇用不安",
+      "main_cause": "雇用・年金問題",
       "incidents": [
         {
-          "title": "南アフリカの失業医師による抗議デモ",
-          "location": "南アフリカ クワズール・ナタール州",
-          "severity": 58,
-          "description": "南アフリカのクワズール・ナタール州で、失業中の医師らが職位の遅延に抗議するデモを実施。医療システムへの潜在的影響や、若年層の深刻な雇用不安が浮き彫りになっている。",
+          "title": "Assurance Bank年金受給者の年金増額除外問題",
+          "location": "ナイジェリア",
+          "severity": 40,
+          "description": "Assurance Bankの年金受給者が年金増額から除外された理由について当局が説明。年金問題は国民の生活不安に直結し、社会的不満の要因となります。",
+          "source": "The Nation Newspaper"
+        },
+        {
+          "title": "失業中のKZN医師が職位の遅延に抗議",
+          "location": "KwaZulu-Natal (KZN), 南アフリカ",
+          "severity": 45,
+          "description": "南アフリカのクワズール・ナタール州で失業中の医師たちが、職位の遅延に抗議しています。これは重要な公共サービス部門における雇用不安を示しており、社会インフラへの影響も懸念されます。",
           "source": "The Witness"
         }
       ]
     },
     {
-      "region": "south_asia",
-      "panic_index": 70,
+      "region": "middle_east",
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "食料・エネルギー不足、政府への不満",
+      "main_cause": "食料・エネルギー不足、社会的不満",
       "incidents": [
         {
-          "title": "ジャンムー・カシミール州での食料・LPGの深刻な不足",
-          "location": "インド ジャンムー・カシミール州",
-          "severity": 75,
-          "description": "インドのジャンムー・カシミール州で食料配給とLPG（液化石油ガス）の深刻な不足が報告されており、政府の対応が不十分であるとの批判が出ている。市民生活への直接的な影響が懸念される。",
+          "title": "ジャンムー・カシミールにおける配給品・LPGの深刻な不足",
+          "location": "Jammu & Kashmir, インド",
+          "severity": 70,
+          "description": "ジャンムー・カシミール州で食料配給品と液化石油ガス（LPG）の深刻な不足が報告されており、政府の対応が不足していると指摘されています。生活必需品の不足は、住民の間に強い不安とパニックを引き起こす可能性があります。",
           "source": "Kashmir News Service"
         },
         {
-          "title": "デリーでのLPG不足抗議と政府の否定",
-          "location": "インド デリー",
-          "severity": 68,
-          "description": "デリーのミランダ・ハウスでLPG不足を訴える抗議活動の動画が拡散されたが、政府はこれを誤解を招くものとして否定。情報戦と市民の不安が交錯しており、問題の根深さを示唆している。",
-          "source": "Akashvani News"
-        },
-        {
-          "title": "DPI事務所前での抗議活動と逮捕",
-          "location": "インド",
-          "severity": 45,
-          "description": "インドでDPI（公教育局）事務所前での小規模な抗議デモに関連して2名が逮捕された。地域的な不満が存在するものの、現時点では広範な社会秩序の混乱には至っていない。",
-          "source": "The Times of India"
+          "title": "ジャイプールでの試験不正抗議デモでの暴力",
+          "location": "Jaipur, インド",
+          "severity": 55,
+          "description": "試験不正を巡るジャイプールでの抗議デモ中に、CJPの創設者が暴行を受け、2名が拘束されました。抗議活動が暴力的になり、一部で秩序が乱れている状況がうかがえます。",
+          "source": "pragativadi.com"
         }
       ]
     }
