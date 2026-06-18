@@ -1,107 +1,123 @@
 {
   "date": "2026-06-18",
-  "summary": "世界各地では、特定の政治・社会問題に起因する抗議活動や地域的な混乱が散見されています。特に東アジアの韓国では、選挙の公正性を巡る投票用紙不足問題が深刻化し、大規模な抗議活動や、自傷行為を伴う過激な事態も発生しており、社会的な緊張が非常に高い「警戒状態」にあります。ヨーロッパや中東でも政治的デモや政策への反発による不安が増大しており、一部で混乱が見られます。全体としては、広範なパニックには至っていないものの、民主主義の根幹や社会的分断が背景にある不安要因が各地で顕在化しています。",
-  "global_panic_index": 58,
+  "summary": "世界全体では、政治的・社会的な抗議活動や生活インフラの不足を巡る緊張が高まっています。特に南アジアとアフリカで治安部隊の動員や致命的な騒動が報じられるなど、警戒レベルに達する地域が見られます。東アジア、中東、ヨーロッパでもデモや警察との衝突のリスクが存在し、全体的に不安定な状況が継続しています。北米では局所的なサービス停止に留まっています。",
+  "global_panic_index": 53,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "企業活動への倫理的・政治的抗議",
-      "incidents": [
-        {
-          "title": "Citizens Bank: Stop financing CoreCivic and The GEO Group.",
-          "location": "米国",
-          "severity": 20,
-          "description": "国境管理・移民収容センター関連企業への融資停止を求める市民銀行への抗議活動。特定の企業倫理に対するもので、広範な社会パニックではない。",
-          "source": "front.moveon.org"
-        },
-        {
-          "title": "Watertown Group Protests Bank for Link to ICE Detention Centers",
-          "location": "米国、ウォータータウン",
-          "severity": 20,
-          "description": "ICE（移民税関執行局）の拘留センターと関係を持つ銀行に対する地元のグループによる抗議活動。小規模なデモであり、社会秩序の混乱には至っていない。",
-          "source": "watertownmanews.com"
-        }
-      ]
-    },
-    {
-      "region": "europe",
+      "region": "east_asia",
       "panic_index": 45,
       "status": "unstable",
-      "main_cause": "政治的・社会的分断による抗議活動、地域的な混乱",
+      "main_cause": "政治的緊張、選挙関連の抗議",
       "incidents": [
         {
-          "title": "Greta Thunberg joins Brussels protest against Israel",
-          "location": "ベルギー、ブリュッセル",
+          "title": "韓国での選挙関連デモ",
+          "location": "韓国",
           "severity": 40,
-          "description": "環境活動家グレタ・トゥーンベリも参加した、イスラエルに対する大規模な抗議デモ。政治的な抗議活動であり、広範なパニックではないが社会的な緊張は存在する。",
-          "source": "Al Jazeera"
+          "description": "数千人が選挙における投票用紙不足に抗議し、民主主義を擁護するために結集。大規模な動員が見られるが、暴徒化の報告はない。政治的緊張を高めている。",
+          "source": "朝日新聞, aju press"
         },
         {
-          "title": "Pubs close early amid 'unrest' as Oxford Union prepares for Tommy Robinson visit",
-          "location": "英国、オックスフォード",
-          "severity": 50,
-          "description": "極右活動家の訪問に備え、オックスフォード・ユニオン周辺で「不安（unrest）」が発生し、パブが早期閉店した。地域的な混乱を示唆。",
-          "source": "ITVX"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "選挙の公正性に対する不信感、民主主義への懸念",
-      "incidents": [
-        {
-          "title": "How South Korea’s ballot shortage spurred turnout of thousands to defend democracy",
+          "title": "フェンシングチームの抗議活動",
           "location": "韓国",
-          "severity": 70,
-          "description": "選挙における投票用紙不足が発覚し、民主主義の擁護を求める数千人規模の市民が参加する抗議活動に発展。選挙の公正性への深刻な懸念が広がっている。",
-          "source": "朝日新聞"
-        },
-        {
-          "title": "Knife-wielding man injures self at Seoul ballot protest; police probe motive",
-          "location": "韓国、ソウル",
-          "severity": 80,
-          "description": "投票用紙に関する抗議活動中に、刃物を持った男性が自傷行為を行うという事案が発生。選挙を巡る緊張状態の深刻化と個人の極端な不満が示されている。",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "South Korea parliament launches probe into election ballot shortages",
-          "location": "韓国",
-          "severity": 65,
-          "description": "投票用紙不足の問題に対し、韓国国会が調査を開始。国家機関が介入するほどの深刻な問題と認識されており、社会的な不安が広がっていることを示唆。",
-          "source": "Reuters"
-        },
-        {
-          "title": "South korean flag waved in election protest",
-          "location": "韓国",
-          "severity": 60,
-          "description": "選挙の公正性に抗議するデモで韓国国旗が振られた。国民の不満が愛国心と結びつき、より広範な国民感情としての社会不安を形成している。",
-          "source": "aju press"
-        },
-        {
-          "title": "'Tearful fencing national team amid blockade protest...",
-          "location": "韓国",
-          "severity": 55,
-          "description": "フェンシング国家代表チームが「封鎖抗議」に直面し、機材が回収できない状況で選手権に参加。具体的な原因は不明ながら、スポーツ界にも影響を及ぼす社会不安の兆候。",
+          "severity": 25,
+          "description": "封鎖抗議によりフェンシングナショナルチームが遠征で装備を使用できず、借り物で大会に出場する事態。一般社会への影響は小さいが、小規模な混乱が示唆される。",
           "source": "starnewskorea.com"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "宗教的・兵役に関する政策への反発",
+      "region": "south_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "社会不安、生活インフラ不足",
       "incidents": [
         {
-          "title": "Israeli police forcibly disperse ultra-Orthodox protest against arrests of draft evaders",
+          "title": "PoKでの致命的な騒動",
+          "location": "パキスタン管理カシミール (PoK)",
+          "severity": 75,
+          "description": "パキスタン指導者が、PoKで発生した致命的な騒動を鎮静化するための協議を要請。社会秩序を脅かす深刻なレベルの騒乱が発生していることを示唆。",
+          "source": "MSN"
+        },
+        {
+          "title": "インドでの肥料不足抗議",
+          "location": "インド、アムリトサル",
+          "severity": 60,
+          "description": "尿素や肥料の不足に対し、農民らが抗議デモを実施。食料生産に直結する資源の不足は、経済と社会の安定に大きな影響を与える可能性があり、治安対策が講じられた。",
+          "source": "The News Mill"
+        },
+        {
+          "title": "インドでの水不足抗議",
+          "location": "インド",
+          "severity": 60,
+          "description": "水不足に怒る市民がCIDCO事務所に行進し、行政に対するスローガンを叫ぶデモを実施。生活に不可欠な資源の不足が、広範な社会不安を引き起こしている。",
+          "source": "Lokshahi English News"
+        },
+        {
+          "title": "モルディブの政治家による「unrest」言及",
+          "location": "モルディブ",
+          "severity": 45,
+          "description": "政治家が「社会不安を助長したり、政府を転覆させようとしているわけではない」と発言。これは国内で一定の社会不安や政情不安が存在することを示唆している。",
+          "source": "Edition.mv"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "徴兵制度を巡る対立",
+      "incidents": [
+        {
+          "title": "イスラエルでの超正統派によるデモ強制排除",
           "location": "イスラエル",
-          "severity": 55,
-          "description": "徴兵忌避者の逮捕に抗議する超正統派ユダヤ教徒のデモに対し、イスラエル警察が強制排除を行った。特定の集団と国家権力間の緊張が高まっている。",
+          "severity": 65,
+          "description": "徴兵忌避者の逮捕に抗議する超正統派ユダヤ教徒のデモが、イスラエル警察によって強制的に排除された。政府と一部市民との間の深刻な対立が表面化している。",
           "source": "Anadolu Ajansı"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "不法移民問題、社会不安の脅威",
+      "incidents": [
+        {
+          "title": "南アフリカでの不法移民抗議デモと治安部隊動員",
+          "location": "南アフリカ、西ケープ州",
+          "severity": 70,
+          "description": "不法移民に関する抗議デモが社会不安を脅かす事態となり、西ケープ州政府が治安部隊を動員。社会秩序の維持が困難になるリスクが高まっている。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "警察の対応に対する不信、デモの緊張",
+      "incidents": [
+        {
+          "title": "ギリシャでのデモが「戦場」化",
+          "location": "ギリシャ",
+          "severity": 55,
+          "description": "平和的デモに対して警察が危険な対応を行った結果、「まるで戦場」のようだったと報じられた。警察と市民の衝突リスクが高まり、社会の分断が懸念される。",
+          "source": "国際人権NGO アムネスティ日本 AMNESTY"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "スタッフ不足による軽微なサービス停止",
+      "incidents": [
+        {
+          "title": "カナダでのスタッフ不足によるサービス停止",
+          "location": "カナダ、ヴァッサー",
+          "severity": 20,
+          "description": "スタッフ不足が原因で、ヴァッサーのプールが水泳教室を中止。地域住民にとっての不便は生じるものの、大規模な社会混乱やパニックには至っていない。",
+          "source": "SteinbachOnline"
         }
       ]
     }
