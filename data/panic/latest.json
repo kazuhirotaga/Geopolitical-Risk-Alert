@@ -1,110 +1,139 @@
 {
-  "date": "2026-06-17",
-  "summary": "世界各地で社会不安の兆候が散見され、グローバルパニック指数は「不安の増大」段階を示しています。特に東アジアでは、食料・エネルギーの深刻な不足に対する農民の抗議や、投票に関するデモ中の自傷行為など、社会の緊迫度が顕著に上昇しています。中東では徴兵忌避者を巡るデモが警察により強制排除され、社会的分断が浮き彫りに。欧米やアフリカでも小規模ながら抗議デモが続いており、経済・社会的な不満が広がる傾向が見られます。",
-  "global_panic_index": 52,
+  "date": "2026-06-18",
+  "summary": "世界各地では、経済的な不満、政治的緊張、および特定の物資不足に起因する社会不安の兆候が見られます。特に南アジアでは食料・エネルギー不足が深刻化し、アフリカでは移民問題を巡る大規模な抗議デモに対する治安部隊の動員が行われ、警戒レベルが高まっています。東アジアや中東、ヨーロッパでも小規模ながら抗議活動やそれに伴う混乱が報じられており、一部地域では社会秩序への影響が懸念される状況です。",
+  "global_panic_index": 55,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 40,
-      "status": "unstable",
-      "main_cause": "企業活動への倫理的問題に関する抗議",
+      "panic_index": 30,
+      "status": "light_unrest",
+      "main_cause": "社会政策への抗議",
       "incidents": [
         {
           "title": "銀行に対する抗議デモ",
           "location": "Watertown, USA",
-          "severity": 40,
-          "description": "米国ワタートンで、特定の銀行がICE（移民税関執行局）の収容施設と関連があるとして市民団体が抗議デモを実施。倫理的な問題に対する不満が表明されています。",
+          "severity": 30,
+          "description": "ICE（移民税関執行局）収容センターとの関連を巡り、ワシントン州ウォータータウンで銀行に対する抗議デモが発生しました。特定の社会政策に対する市民の不満が表明されています。",
           "source": "watertownmanews.com"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "政治的対立と治安悪化の懸念",
+      "panic_index": 35,
+      "status": "light_unrest",
+      "main_cause": "政治的論争、社会不安",
       "incidents": [
         {
-          "title": "政治的訪問による店舗早期閉店",
+          "title": "オックスフォードで社会不安によりパブが早期閉店",
           "location": "Oxford, UK",
-          "severity": 50,
-          "description": "英国オックスフォードで、物議を醸す人物の訪問を巡る「騒乱」の懸念から、複数のパブが営業時間を短縮して早期閉店。社会的な緊張の高まりが伺えます。",
+          "severity": 40,
+          "description": "オックスフォード・ユニオンでのイベントを前に、「unrest（社会不安）」を理由にパブが早期閉店しました。政治的緊張が高まり、地域に軽微な混乱が生じています。",
           "source": "ITVX"
+        },
+        {
+          "title": "イスラエル入植地物件販売フェアを巡る論争",
+          "location": "UK (London)",
+          "severity": 30,
+          "description": "英国で開催された不動産フェアで、イスラエル入植地の物件が販売されたことが発覚し、政治的・倫理的な問題として非難を呼んでいます。社会的な分断と不満の兆候が見られます。",
+          "source": "Al Jazeera"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 59,
+      "panic_index": 50,
       "status": "unstable",
-      "main_cause": "食料・エネルギー不足、試験不正、政治的対立に伴う抗議活動",
+      "main_cause": "政治的緊張、抗議活動",
       "incidents": [
         {
-          "title": "ソウルでの投票抗議デモ中に自傷行為",
+          "title": "ソウルで選挙抗議デモ中に刃物で自傷",
           "location": "Seoul, South Korea",
-          "severity": 75,
-          "description": "韓国ソウルで行われていた投票に関する抗議デモの最中、刃物を持った男性が自傷行為に及ぶ事件が発生。デモ参加者の精神的ストレスと社会の緊迫した状況を浮き彫りにしています。",
+          "severity": 55,
+          "description": "ソウルでの選挙関連抗議デモ中、刃物を持った男性が自傷行為を起こしました。動機は不明ですが、政治的緊張が高まる中で過激な行動が見られ、社会的な不安感が増大しています。",
           "source": "Chosunbiz"
         },
         {
-          "title": "カシミールでの食料・LPG深刻不足",
-          "location": "Jammu and Kashmir, India",
-          "severity": 70,
-          "description": "インドのジャム・カシミール地域で、配給品やLPG（液化石油ガス）の深刻な不足が報告されており、政府の対応の遅れに対する不満が高まっています。生活必需品の不足は住民の不安を増大させています。",
-          "source": "Kashmir News Service"
-        },
-        {
-          "title": "アムリトサルで肥料不足への農民抗議",
-          "location": "Amritsar, India",
-          "severity": 55,
-          "description": "インドのアムリトサルで、尿素肥料の深刻な不足に直面している農民たちが大規模な抗議デモを実施。食料生産への影響が懸念され、治安部隊が警戒態勢を敷いています。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "ソウルでの封鎖抗議デモがスポーツ活動に影響",
+          "title": "フェンシング代表チームが抗議による封鎖で困窮",
           "location": "South Korea",
-          "severity": 50,
-          "description": "韓国で発生している封鎖抗議デモにより、フェンシングナショナルチームがアジア選手権出場のための競技機材を調達できず、他のチームから借りる事態に。社会不安が日常活動にも影響を与えています。",
+          "severity": 45,
+          "description": "特定の抗議活動による封鎖のため、韓国フェンシング代表チームが国際大会出場に向けた準備で機材回収ができない状況に陥っています。社会的な不満が日常生活や活動に影響を与えています。",
           "source": "starnewskorea.com"
         },
         {
-          "title": "ジャイプールでの試験不正抗議デモで暴力行為",
-          "location": "Jaipur, India",
-          "severity": 50,
-          "description": "インドのジャイプールで、試験の不正疑惑に対する抗議デモ中に、CJP創設者が平手打ちされる暴力事件が発生。デモ活動が一部で過激化する傾向が見られます。",
-          "source": "pragativadi.com"
+          "title": "選挙抗議デモで国旗が振られる",
+          "location": "South Korea",
+          "severity": 40,
+          "description": "韓国で選挙を巡る抗議デモが行われ、参加者が国旗を振って意思を表明しています。民主的なプロセスに対する不満が表面化しており、社会的な緊張が見られます。",
+          "source": "aju press"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "徴兵制度を巡る社会的分裂と当局との衝突",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "兵役を巡る対立",
       "incidents": [
         {
-          "title": "徴兵忌避抗議デモの強制排除",
+          "title": "イスラエルで超正統派デモ隊を強制排除",
           "location": "Israel",
-          "severity": 65,
-          "description": "イスラエル国内で、徴兵忌避者の逮捕に抗議する超正統派ユダヤ教徒のデモが警察によって強制的に排除されました。社会的な対立が深まり、当局との緊張が高まっています。",
+          "severity": 50,
+          "description": "兵役忌避者逮捕に抗議する超正統派ユダヤ教徒のデモ隊が、イスラエル警察によって強制的に排除されました。社会的な分断が衝突に発展し、不安が高まっています。",
           "source": "Anadolu Ajansı"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "職業機会の欠如と政府への不満",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "移民問題と社会不安",
       "incidents": [
         {
-          "title": "失業医師による職位遅延抗議",
-          "location": "KwaZulu-Natal, South Africa",
-          "severity": 45,
-          "description": "南アフリカのクワズール・ナタール州で、職位配属の遅延に不満を抱く失業中の医師たちが抗議デモを実施。医療従事者の雇用問題が社会不安の一因となっています。",
-          "source": "The Witness"
+          "title": "不法移民抗議デモの激化に備え治安部隊動員",
+          "location": "Western Cape, South Africa",
+          "severity": 70,
+          "description": "不法移民に関する抗議デモが社会不安に発展する恐れがあるため、南アフリカの西ケープ州政府が治安部隊を動員しました。大規模な衝突や社会秩序の混乱の可能性が懸念される警戒状態です。",
+          "source": "MSN"
         }
       ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 75,
+      "status": "critical",
+      "main_cause": "食料・エネルギー不足",
+      "incidents": [
+        {
+          "title": "J&Kで配給食料とLPGの深刻な不足",
+          "location": "Jammu & Kashmir, India",
+          "severity": 80,
+          "description": "インドのジャンムー・カシミール地域で、配給食料とLPG（液化石油ガス）の深刻な不足が報告されており、政府の対応が不足していると指摘されています。住民生活への影響が非常に大きく、広範なパニック発生の危険性が高まっています。",
+          "source": "Kashmir News Service"
+        },
+        {
+          "title": "アンリトサルで肥料不足を巡る農民の抗議デモ",
+          "location": "Amritsar, India",
+          "severity": 65,
+          "description": "インドのアンリトサルで、尿素と肥料の不足に対し農民が大規模な抗議デモを実施しました。食料生産への影響が懸念され、現場には治安部隊が配備されています。経済的な不安が社会不安につながっています。",
+          "source": "The News Mill"
+        },
+        {
+          "title": "カラチの抗議ビデオが誤ってポーク紛争と関連付けられる",
+          "location": "Karachi, Pakistan",
+          "severity": 30,
+          "description": "過去のカラチでの抗議デモのビデオが、2026年のポーク地域での社会不安と誤って関連付けられて拡散されました。これは誤報であるものの、地域における潜在的な社会不安や緊張の高まりを示唆しています。",
+          "source": "FACTLY"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 10,
+      "status": "stable",
+      "main_cause": "N/A",
+      "incidents": []
     }
   ]
 }
