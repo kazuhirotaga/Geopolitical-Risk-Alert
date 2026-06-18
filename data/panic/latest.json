@@ -1,139 +1,109 @@
 {
   "date": "2026-06-18",
-  "summary": "世界各地では、経済的な不満、政治的緊張、および特定の物資不足に起因する社会不安の兆候が見られます。特に南アジアでは食料・エネルギー不足が深刻化し、アフリカでは移民問題を巡る大規模な抗議デモに対する治安部隊の動員が行われ、警戒レベルが高まっています。東アジアや中東、ヨーロッパでも小規模ながら抗議活動やそれに伴う混乱が報じられており、一部地域では社会秩序への影響が懸念される状況です。",
-  "global_panic_index": 55,
+  "summary": "世界各地では、特定の政治・社会問題に起因する抗議活動や地域的な混乱が散見されています。特に東アジアの韓国では、選挙の公正性を巡る投票用紙不足問題が深刻化し、大規模な抗議活動や、自傷行為を伴う過激な事態も発生しており、社会的な緊張が非常に高い「警戒状態」にあります。ヨーロッパや中東でも政治的デモや政策への反発による不安が増大しており、一部で混乱が見られます。全体としては、広範なパニックには至っていないものの、民主主義の根幹や社会的分断が背景にある不安要因が各地で顕在化しています。",
+  "global_panic_index": 58,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 30,
-      "status": "light_unrest",
-      "main_cause": "社会政策への抗議",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "企業活動への倫理的・政治的抗議",
       "incidents": [
         {
-          "title": "銀行に対する抗議デモ",
-          "location": "Watertown, USA",
-          "severity": 30,
-          "description": "ICE（移民税関執行局）収容センターとの関連を巡り、ワシントン州ウォータータウンで銀行に対する抗議デモが発生しました。特定の社会政策に対する市民の不満が表明されています。",
+          "title": "Citizens Bank: Stop financing CoreCivic and The GEO Group.",
+          "location": "米国",
+          "severity": 20,
+          "description": "国境管理・移民収容センター関連企業への融資停止を求める市民銀行への抗議活動。特定の企業倫理に対するもので、広範な社会パニックではない。",
+          "source": "front.moveon.org"
+        },
+        {
+          "title": "Watertown Group Protests Bank for Link to ICE Detention Centers",
+          "location": "米国、ウォータータウン",
+          "severity": 20,
+          "description": "ICE（移民税関執行局）の拘留センターと関係を持つ銀行に対する地元のグループによる抗議活動。小規模なデモであり、社会秩序の混乱には至っていない。",
           "source": "watertownmanews.com"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 35,
-      "status": "light_unrest",
-      "main_cause": "政治的論争、社会不安",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "政治的・社会的分断による抗議活動、地域的な混乱",
       "incidents": [
         {
-          "title": "オックスフォードで社会不安によりパブが早期閉店",
-          "location": "Oxford, UK",
+          "title": "Greta Thunberg joins Brussels protest against Israel",
+          "location": "ベルギー、ブリュッセル",
           "severity": 40,
-          "description": "オックスフォード・ユニオンでのイベントを前に、「unrest（社会不安）」を理由にパブが早期閉店しました。政治的緊張が高まり、地域に軽微な混乱が生じています。",
-          "source": "ITVX"
+          "description": "環境活動家グレタ・トゥーンベリも参加した、イスラエルに対する大規模な抗議デモ。政治的な抗議活動であり、広範なパニックではないが社会的な緊張は存在する。",
+          "source": "Al Jazeera"
         },
         {
-          "title": "イスラエル入植地物件販売フェアを巡る論争",
-          "location": "UK (London)",
-          "severity": 30,
-          "description": "英国で開催された不動産フェアで、イスラエル入植地の物件が販売されたことが発覚し、政治的・倫理的な問題として非難を呼んでいます。社会的な分断と不満の兆候が見られます。",
-          "source": "Al Jazeera"
+          "title": "Pubs close early amid 'unrest' as Oxford Union prepares for Tommy Robinson visit",
+          "location": "英国、オックスフォード",
+          "severity": 50,
+          "description": "極右活動家の訪問に備え、オックスフォード・ユニオン周辺で「不安（unrest）」が発生し、パブが早期閉店した。地域的な混乱を示唆。",
+          "source": "ITVX"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "政治的緊張、抗議活動",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "選挙の公正性に対する不信感、民主主義への懸念",
       "incidents": [
         {
-          "title": "ソウルで選挙抗議デモ中に刃物で自傷",
-          "location": "Seoul, South Korea",
-          "severity": 55,
-          "description": "ソウルでの選挙関連抗議デモ中、刃物を持った男性が自傷行為を起こしました。動機は不明ですが、政治的緊張が高まる中で過激な行動が見られ、社会的な不安感が増大しています。",
+          "title": "How South Korea’s ballot shortage spurred turnout of thousands to defend democracy",
+          "location": "韓国",
+          "severity": 70,
+          "description": "選挙における投票用紙不足が発覚し、民主主義の擁護を求める数千人規模の市民が参加する抗議活動に発展。選挙の公正性への深刻な懸念が広がっている。",
+          "source": "朝日新聞"
+        },
+        {
+          "title": "Knife-wielding man injures self at Seoul ballot protest; police probe motive",
+          "location": "韓国、ソウル",
+          "severity": 80,
+          "description": "投票用紙に関する抗議活動中に、刃物を持った男性が自傷行為を行うという事案が発生。選挙を巡る緊張状態の深刻化と個人の極端な不満が示されている。",
           "source": "Chosunbiz"
         },
         {
-          "title": "フェンシング代表チームが抗議による封鎖で困窮",
-          "location": "South Korea",
-          "severity": 45,
-          "description": "特定の抗議活動による封鎖のため、韓国フェンシング代表チームが国際大会出場に向けた準備で機材回収ができない状況に陥っています。社会的な不満が日常生活や活動に影響を与えています。",
-          "source": "starnewskorea.com"
+          "title": "South Korea parliament launches probe into election ballot shortages",
+          "location": "韓国",
+          "severity": 65,
+          "description": "投票用紙不足の問題に対し、韓国国会が調査を開始。国家機関が介入するほどの深刻な問題と認識されており、社会的な不安が広がっていることを示唆。",
+          "source": "Reuters"
         },
         {
-          "title": "選挙抗議デモで国旗が振られる",
-          "location": "South Korea",
-          "severity": 40,
-          "description": "韓国で選挙を巡る抗議デモが行われ、参加者が国旗を振って意思を表明しています。民主的なプロセスに対する不満が表面化しており、社会的な緊張が見られます。",
+          "title": "South korean flag waved in election protest",
+          "location": "韓国",
+          "severity": 60,
+          "description": "選挙の公正性に抗議するデモで韓国国旗が振られた。国民の不満が愛国心と結びつき、より広範な国民感情としての社会不安を形成している。",
           "source": "aju press"
+        },
+        {
+          "title": "'Tearful fencing national team amid blockade protest...",
+          "location": "韓国",
+          "severity": 55,
+          "description": "フェンシング国家代表チームが「封鎖抗議」に直面し、機材が回収できない状況で選手権に参加。具体的な原因は不明ながら、スポーツ界にも影響を及ぼす社会不安の兆候。",
+          "source": "starnewskorea.com"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 45,
+      "panic_index": 55,
       "status": "unstable",
-      "main_cause": "兵役を巡る対立",
+      "main_cause": "宗教的・兵役に関する政策への反発",
       "incidents": [
         {
-          "title": "イスラエルで超正統派デモ隊を強制排除",
-          "location": "Israel",
-          "severity": 50,
-          "description": "兵役忌避者逮捕に抗議する超正統派ユダヤ教徒のデモ隊が、イスラエル警察によって強制的に排除されました。社会的な分断が衝突に発展し、不安が高まっています。",
+          "title": "Israeli police forcibly disperse ultra-Orthodox protest against arrests of draft evaders",
+          "location": "イスラエル",
+          "severity": 55,
+          "description": "徴兵忌避者の逮捕に抗議する超正統派ユダヤ教徒のデモに対し、イスラエル警察が強制排除を行った。特定の集団と国家権力間の緊張が高まっている。",
           "source": "Anadolu Ajansı"
         }
       ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "移民問題と社会不安",
-      "incidents": [
-        {
-          "title": "不法移民抗議デモの激化に備え治安部隊動員",
-          "location": "Western Cape, South Africa",
-          "severity": 70,
-          "description": "不法移民に関する抗議デモが社会不安に発展する恐れがあるため、南アフリカの西ケープ州政府が治安部隊を動員しました。大規模な衝突や社会秩序の混乱の可能性が懸念される警戒状態です。",
-          "source": "MSN"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 75,
-      "status": "critical",
-      "main_cause": "食料・エネルギー不足",
-      "incidents": [
-        {
-          "title": "J&Kで配給食料とLPGの深刻な不足",
-          "location": "Jammu & Kashmir, India",
-          "severity": 80,
-          "description": "インドのジャンムー・カシミール地域で、配給食料とLPG（液化石油ガス）の深刻な不足が報告されており、政府の対応が不足していると指摘されています。住民生活への影響が非常に大きく、広範なパニック発生の危険性が高まっています。",
-          "source": "Kashmir News Service"
-        },
-        {
-          "title": "アンリトサルで肥料不足を巡る農民の抗議デモ",
-          "location": "Amritsar, India",
-          "severity": 65,
-          "description": "インドのアンリトサルで、尿素と肥料の不足に対し農民が大規模な抗議デモを実施しました。食料生産への影響が懸念され、現場には治安部隊が配備されています。経済的な不安が社会不安につながっています。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "カラチの抗議ビデオが誤ってポーク紛争と関連付けられる",
-          "location": "Karachi, Pakistan",
-          "severity": 30,
-          "description": "過去のカラチでの抗議デモのビデオが、2026年のポーク地域での社会不安と誤って関連付けられて拡散されました。これは誤報であるものの、地域における潜在的な社会不安や緊張の高まりを示唆しています。",
-          "source": "FACTLY"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 10,
-      "status": "stable",
-      "main_cause": "N/A",
-      "incidents": []
     }
   ]
 }
