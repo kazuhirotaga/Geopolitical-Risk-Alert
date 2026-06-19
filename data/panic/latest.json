@@ -1,179 +1,172 @@
 {
   "date": "2026-06-19",
-  "summary": "世界各地で深刻な社会不安が拡大しています。北米の主要都市では銃撃事件によるパニックが頻発し、東アジアでは選挙を巡る暴力的な抗議と治安当局への攻撃示唆が見られます。南米や中東では物資不足や人権問題に起因する大規模なデモ、暴動が長期化。欧州では過去の暴動の余波や医薬品不足の懸念が高まり、アフリカ、東南アジアでも抗議活動が活発化しており、治安悪化が懸念されるなど、全体的に高レベルの緊迫状態にあります。",
-  "global_panic_index": 78,
+  "summary": "世界各地で社会不安が増大しており、複数の地域で抗議デモが頻発し、一部では暴力的な衝突や政治的混乱が警戒レベルに達しています。北米では偶発的な銃撃事件による一時的な集団パニックが発生。南米では長期抗議と物資不足が深刻化し、東アジアでは選挙関連の政治的混乱が社会秩序への脅威となっています。さらに、医薬品やエネルギーといった基幹物資の供給不足が世界的な懸念として浮上しており、広範な地域が警戒状態にあります。",
+  "global_panic_index": 60,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "治安悪化、偶発的暴力事案",
+      "panic_index": 58,
+      "status": "unstable",
+      "main_cause": "偶発的事件による一時的パニック、社会的不満、政治的対立",
       "incidents": [
         {
-          "title": "ニューヨーク・タイムズスクエアでの銃撃とパニック",
-          "location": "New York, USA",
-          "severity": 90,
-          "description": "タイムズスクエアで銃撃が発生し、群衆がパニックに陥り一斉に逃げ惑う事態が発生。負傷者も出たが、大規模な混乱は回避された。観光客を含む多数の人が一時的に恐怖に包まれた。",
-          "source": "NDTV, Firstpost, the-sun.com"
+          "title": "タイムズスクエア銃撃音パニック",
+          "location": "ニューヨーク、米国",
+          "severity": 75,
+          "description": "ニューヨークのタイムズスクエアで銃撃音が発生し、観光客を含む多数の人々が一時的にパニック状態に陥り、身を隠すために逃げ惑いました。",
+          "source": "NDTV / Firstpost"
+        },
+        {
+          "title": "メキシコW杯開幕戦でのデモと機動隊衝突",
+          "location": "メキシコ",
+          "severity": 60,
+          "description": "ワールドカップ開幕戦のスタジアム外で、抗議デモ参加者と機動隊が衝突。大規模イベントが社会不安の舞台となり、緊張が高まりました。",
+          "source": "MSN"
         },
         {
           "title": "広範な抗議活動の広がり",
-          "location": "New Jersey, USA",
-          "severity": 55,
-          "description": "ニュージャージー州の複数箇所で抗議活動が広がり、様々な問題に対して市民の声が上がっている。現時点では大規模な暴力は見られないが、社会不安の広がりを示唆している。",
-          "source": "New Jersey Herald"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 68,
-      "status": "volatile",
-      "main_cause": "治安問題、物資不足への懸念",
-      "incidents": [
-        {
-          "title": "スペインでの暴動関連の逮捕",
-          "location": "Spain",
-          "severity": 75,
-          "description": "2024年に発生した暴動に関与したとして、スペインから帰国途中の男性が逮捕された。過去の暴動の余波が継続しており、社会の不安定な基盤を示している。",
-          "source": "Yahoo"
-        },
-        {
-          "title": "グルジア・トビリシでの騒動関連の収監",
-          "location": "Tbilisi, Georgia",
-          "severity": 70,
-          "description": "2025年10月の騒乱に関与したとして、トビリシの裁判所がさらに7人を収監した。政治的・社会的な緊張が継続していることが示唆される。",
-          "source": "Latest news from Azerbaijan"
-        },
-        {
-          "title": "英カーディフでの騒乱関連の最終逮捕",
-          "location": "Cardiff, UK",
-          "severity": 75,
-          "description": "2023年にカーディフで発生した暴動「Ely Riot」に関与した最終的な被告が収監された。過去の深刻な社会不安の尾を引いている状況。",
-          "source": "streamlinefeed.co.ke"
-        },
-        {
-          "title": "医薬品の供給不足と患者への危険な影響",
-          "location": "UK",
-          "severity": 78,
-          "description": "英国で主要な医薬品が不足し、患者が「危険な」遅延に直面している。これは公衆衛生上の危機であり、市民の不安を高め、買いだめなどのパニックを引き起こす可能性がある。",
-          "source": "InYourArea"
-        },
-        {
-          "title": "英国議会前での数千人規模のカシミール抗議デモ",
-          "location": "UK Parliament, London",
-          "severity": 60,
-          "description": "パキスタン管理下のカシミール（PoK）での騒乱を受けて、数千人の英国在住カシミール人が英国議会前で抗議活動を実施。国際的な問題が国内のデモに繋がっている。",
-          "source": "MSN"
+          "location": "米国デラニー・ホール周辺",
+          "severity": 40,
+          "description": "米国内の複数箇所で抗議活動が広がりを見せており、人々の不満が様々な場所で表明されている状況です。",
+          "source": "Bergen Record"
         }
       ]
     },
     {
       "region": "south_america",
-      "panic_index": 75,
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "物資不足、大規模な抗議活動",
+      "main_cause": "長期化する抗議運動、物資不足",
       "incidents": [
         {
-          "title": "ボリビアでの50日続く物資不足と抗議運動",
-          "location": "Bolivia",
-          "severity": 80,
-          "description": "ボリビアでは50日間にわたり物資不足が続き、それに対する抗議運動が大規模化している。これは深刻な社会経済的危機であり、国民の不満が限界に達しつつある兆候。",
+          "title": "ボリビアで物資不足と長期抗議運動",
+          "location": "ボリビア",
+          "severity": 65,
+          "description": "ボリビアでは抗議運動が50日目に突入し、物資不足が報告されています。長期化する社会不安が国民生活に影響を及ぼし始めています。",
           "source": "The Australian"
         }
       ]
     },
     {
-      "region": "africa",
-      "panic_index": 60,
+      "region": "europe",
+      "panic_index": 57,
       "status": "unstable",
-      "main_cause": "治安問題、社会経済的要因、抗議活動",
+      "main_cause": "過去の社会不安・暴動の余波",
       "incidents": [
         {
-          "title": "学生騒動と親による学費要求への抗議",
-          "location": "Kisii, Nyamira, Kenya",
+          "title": "スペインで2024年暴動の容疑者逮捕",
+          "location": "スペイン",
           "severity": 60,
-          "description": "ケニアのキシイとニャミラで学生騒動が発生した後、保護者らが厳しい学費要求に対して抗議活動を実施している。教育問題が地域社会の不安を引き起こしている。",
-          "source": "Education News"
+          "description": "2024年に発生した暴動に関与した容疑者がスペインからの帰国途中に逮捕されました。過去の暴動による社会秩序への影響が継続しています。",
+          "source": "Yahoo"
         },
         {
-          "title": "不法移民抗議への治安部隊動員",
-          "location": "Western Cape, South Africa",
-          "severity": 70,
-          "description": "南アフリカの西ケープ州で、不法移民に対する抗議活動が騒乱に発展する恐れがあるとして、政府が治安部隊を動員。地域の緊張が高まっている。",
-          "source": "MSN"
+          "title": "グルジアで2025年社会不安に関与した7人が投獄",
+          "location": "トビリシ、グルジア",
+          "severity": 50,
+          "description": "2025年10月に発生した社会不安に関与したとして、トビリシの裁判所が7名に追加の禁固刑を言い渡しました。社会不安の余波が長期化しています。",
+          "source": "Latest news from Azerbaijan"
         },
         {
-          "title": "抗議記念日を前に米国大使館が治安警戒情報発令",
-          "location": "Unspecified (implies Kenya)",
-          "severity": 65,
-          "description": "抗議記念日を前に、米国大使館が治安警戒情報を発令。今後の大規模なデモや騒乱の可能性が懸念されており、当局は警戒を強めている。",
+          "title": "イギリスで2023年暴動の最終被告が収監",
+          "location": "カーディフ、イギリス",
+          "severity": 60,
+          "description": "2023年にカーディフで発生した暴動の最終被告が収監されました。過去の暴動が社会に与えた影響の処理が続いています。",
           "source": "streamlinefeed.co.ke"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "政治的混乱、人権問題、抗議活動の激化",
+      "panic_index": 30,
+      "status": "unstable",
+      "main_cause": "地域紛争、領土問題への抗議",
       "incidents": [
         {
-          "title": "バローチスターンでの抗議鎮圧後の無期限閉鎖",
-          "location": "Balochistan, Pakistan",
-          "severity": 75,
-          "description": "パキスタンのバローチスターン州で抗議活動が鎮圧された後、従業員が無期限の閉鎖措置を開始。これは深刻な社会不安と当局への反発を示している。",
-          "source": "ANI News"
+          "title": "ヨルダン川西岸で入植地への抗議デモ",
+          "location": "ヨルダン川西岸",
+          "severity": 30,
+          "description": "ヨルダン川西岸で、違法な入植地に対する抗議デモが発生し、イスラエル軍が介入してデモ参加者を拘束しました。",
+          "source": "Middle East Monitor"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 53,
+      "status": "unstable",
+      "main_cause": "不法移民問題、社会経済的不満",
+      "incidents": [
+        {
+          "title": "南アフリカで不法移民抗議が社会不安を脅かす",
+          "location": "西ケープ、南アフリカ",
+          "severity": 60,
+          "description": "不法移民に関する抗議デモが社会不安を脅かす中、西ケープ州政府が治安部隊を動員し、警戒態勢を取っています。",
+          "source": "MSN"
         },
         {
-          "title": "インド・ナランダでの大学抗議の暴徒化",
-          "location": "Nalanda, India",
-          "severity": 70,
-          "description": "インドのナランダにある大学での抗議活動が暴力的になり、警官3名が負傷し10名が逮捕された。学生の不満が暴動に発展する危険性を示唆。",
-          "source": "National Herald"
-        },
-        {
-          "title": "パキスタン管理下のカシミールでの人権状況悪化と騒乱",
-          "location": "PoJK (Pakistan-occupied Jammu and Kashmir)",
-          "severity": 80,
-          "description": "パキスタン管理下のカシミールで人権状況が悪化し、危機の中で騒乱が発生するとの警告が出された。これは地域全体の不安定化と住民の不安を増大させる要因となっている。",
-          "source": "Asianet Newsable"
+          "title": "ケニアで学生不安と高額学費抗議",
+          "location": "キシイ、ニャミラ、ケニア",
+          "severity": 45,
+          "description": "学生不安が沈静化しない中、高額な学費要求に対して保護者たちが抗議活動を開始。教育問題が社会不安の要因となっています。",
+          "source": "Education News"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 88,
-      "status": "critical",
-      "main_cause": "政治的混乱、選挙を巡る対立、暴力的行動の示唆",
+      "panic_index": 59,
+      "status": "volatile",
+      "main_cause": "政治的混乱、地域紛争、社会経済的不満",
       "incidents": [
         {
-          "title": "警察兵器庫襲撃を示唆した発言者が出頭",
-          "location": "Unspecified (Korea implied)",
-          "severity": 90,
-          "description": "開票を巡る抗議デモの最中に「警察兵器庫襲撃」を示唆したコメントの投稿者が出頭。これは選挙結果への不満が極めて危険な扇動行為に発展していることを示している。",
-          "source": "아시아경제"
+          "title": "韓国で選挙抗議中の警察武器庫襲撃示唆と集計所侵入",
+          "location": "韓国",
+          "severity": 80,
+          "description": "票数集計への抗議活動中に警察の武器庫襲撃を示唆する発言があり、実際に集計所への侵入が捜査されています。政治的混乱が社会秩序への脅威となっています。",
+          "source": "아시아경제 / Chosunbiz"
         },
         {
-          "title": "開票所への侵入と封鎖抗議",
-          "location": "Jamsil, Korea",
-          "severity": 85,
-          "description": "開票所への侵入と封鎖抗議が報じられ、警察が捜査を行っている。選挙の公正性への不信が暴力的行動に繋がり、社会秩序が脅かされている。",
-          "source": "Chosunbiz"
+          "title": "パキスタン管理下のカシミールで社会不安深化と人権危機",
+          "location": "PoJK (パキスタン管理下のカシミール)",
+          "severity": 70,
+          "description": "パキスタン管理下のカシミール地域で社会不安が深化し、人権状況の悪化が警告されています。地域の危機が顕在化しています。",
+          "source": "LatestLY / Asianet Newsable"
+        },
+        {
+          "title": "インド・ナランダで大学デモが暴力化",
+          "location": "ナランダ、インド",
+          "severity": 55,
+          "description": "インドのナランダで大学の抗議デモが暴力的衝突に発展し、警官3名が負傷、10名が逮捕されました。",
+          "source": "National Herald"
+        },
+        {
+          "title": "パキスタン・バロチスタンでデモ弾圧後の無期限シャットダウン",
+          "location": "バロチスタン、パキスタン",
+          "severity": 55,
+          "description": "抗議デモが弾圧された後、バロチスタン地方で従業員による無期限のシャットダウンが開始され、社会不安が広がっています。",
+          "source": "ANI News"
+        },
+        {
+          "title": "インド・ナギナで料金所職員死亡に住民抗議",
+          "location": "ナギナ、インド",
+          "severity": 35,
+          "description": "料金所職員の死亡事件に対し、住民が抗議デモを実施。地域住民の不満が表明されました。",
+          "source": "The Times of India"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "大規模な抗議活動",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "社会的不満による大規模抗議",
       "incidents": [
         {
-          "title": "ジャカルタ複数箇所での大規模抗議デモ",
-          "location": "Jakarta, Indonesia",
-          "severity": 65,
-          "description": "インドネシアのジャカルタで、5ヶ所にわたる大規模な抗議デモが同時に発生。広範な社会的不満と不安定な政治・経済状況が背景にあると推測される。",
+          "title": "ジャカルタ複数箇所で大規模抗議デモ",
+          "location": "ジャカルタ、インドネシア",
+          "severity": 50,
+          "description": "インドネシアの首都ジャカルタの5か所で、大規模な抗議デモが同時に発生。社会的不満が広く表明されています。",
           "source": "Tempo.co English"
         }
       ]
