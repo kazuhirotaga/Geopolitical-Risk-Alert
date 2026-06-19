@@ -1,169 +1,103 @@
 {
-  "date": "2026-06-18",
-  "summary": "世界各地では、中東と南アジアを中心に深刻な社会不安が続いており、民族浄化の主張や死者を伴う抗議デモが報告され、極めて高い緊張状態にあります。アフリカや東南アジアでも、移民問題や政治に対する大規模な抗議活動が治安部隊の動員や政府との対話を引き起こし、社会は不安定化しています。ヨーロッパや東アジア、オセアニアでは、政治的議論、選挙問題、燃料不足といった要因から不安が拡大傾向にありますが、一部地域を除き大規模なパニックには至っていません。北米は比較的安定しているものの、特定イシューへの抗議活動は散見されます。全体として、地政学的緊張と内政不満が社会不安を増幅させている状況が示唆されます。",
-  "global_panic_index": 59,
+  "date": "2026-06-19",
+  "summary": "世界各地では地域によって社会不安の度合いに差が見られます。北米では偶発的な銃撃事件による集団パニックが発生し、中東と南アジアでは根深い政治的・民族的対立が騒乱や人権侵害に繋がり、不安定な状況が続いています。東アジアや東南アジアでも、政治的公正さへの疑念や抗議デモが社会の安定を揺るがす要因となっています。全体としては、深刻なパニック状態には至っていないものの、複数の地域で警戒が必要な状況です。",
+  "global_panic_index": 55,
   "regions": [
     {
-      "region": "middle_east",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "民族紛争、人道危機",
+      "region": "north_america",
+      "panic_index": 80,
+      "status": "volatile",
+      "main_cause": "治安悪化、偶発的な暴力",
       "incidents": [
         {
-          "title": "西岸地区での民族浄化キャンペーンの主張",
-          "location": "West Bank (Israel/Palestine)",
-          "severity": 85,
-          "description": "イスラエルが西岸地区で民族浄化を組織的に実施しているとの意見記事が報じられ、地域の住民に深い恐怖と不安をもたらし、大規模な抗議活動や暴力的な衝突に発展する潜在的なパニックの引き金となっている。",
+          "title": "ニューヨーク・タイムズスクエアでの銃撃によるパニック",
+          "location": "アメリカ・ニューヨーク",
+          "severity": 80,
+          "description": "ニューヨークのタイムズスクエアで銃撃事件が発生し、群衆が銃声を聞いて一斉に逃げ出す集団パニックが発生しました。負傷者も出ており、一時的に広範囲で無秩序な状態に陥りました。",
+          "source": "NDTV, the-sun.com"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 70,
+      "status": "unstable",
+      "main_cause": "民族紛争、人権問題",
+      "incidents": [
+        {
+          "title": "西岸地区での民族浄化キャンペーンに関する告発",
+          "location": "イスラエル・西岸地区",
+          "severity": 70,
+          "description": "イスラエルが西岸地区で組織的な民族浄化キャンペーンを行っているとの意見が報じられました。これは深刻な人権問題であり、地域全体の社会構造と安定に対する長期的な脅威となります。",
           "source": "Haaretz"
         }
       ]
     },
     {
-      "region": "africa",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "移民問題、社会不安",
-      "incidents": [
-        {
-          "title": "不法移民抗議が不安を煽り、治安部隊を動員",
-          "location": "Western Cape (South Africa)",
-          "severity": 70,
-          "description": "不法移民問題に対する抗議デモが激化し、治安部隊が動員される事態は、社会秩序の不安定化と住民間の緊張を高め、広範囲な社会不安を引き起こしている。",
-          "source": "MSN"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "国際政治問題への抗議",
-      "incidents": [
-        {
-          "title": "グレタ・トゥーンベリ氏がブリュッセルでの反イスラエル抗議デモに参加",
-          "location": "Brussels (Belgium)",
-          "severity": 60,
-          "description": "著名な活動家グレタ・トゥーンベリ氏も参加したブリュッセルでの大規模な反イスラエル抗議デモは、国際的な政治的緊張を反映し、都市部での一時的な混乱と社会的な分断を示している。",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "ロンドンのイスラエル不動産フェアが西岸地区物件で謝罪",
-          "location": "London (UK)",
-          "severity": 45,
-          "description": "ロンドンで開催されたイスラエル不動産フェアで、西岸地区の物件が含まれていたことに対する論争と主催者による謝罪は、政治的・倫理的な問題が社会的な波紋を広げている状況を示す。",
-          "source": "The Forward"
-        }
-      ]
-    },
-    {
       "region": "south_asia",
-      "panic_index": 65,
+      "panic_index": 67,
       "status": "volatile",
-      "main_cause": "政治的混乱、暴力的な社会不安",
+      "main_cause": "政治的対立、地域紛争",
       "incidents": [
         {
-          "title": "パキスタン占領カシミール(PoK)での死者を伴う不安を沈静化する対話",
-          "location": "PoK (Pakistan)",
-          "severity": 90,
-          "description": "パキスタン占領カシミール（PoK）で発生した死者を伴う社会不安に対し、対話による沈静化が求められている状況は、深刻な社会秩序の崩壊と住民間の緊張が極限に達していることを示唆する。",
+          "title": "PoK (パキスタン占領下のカシミール) での致命的な騒乱",
+          "location": "パキスタン・PoK",
+          "severity": 75,
+          "description": "パキスタン占領下のカシミールで「致命的な騒乱」が発生し、その鎮静化に向けた対話が促されています。この騒乱は大規模な抗議行動や暴動に発展している可能性があり、地域全体の安定を脅かしています。",
           "source": "MSN"
         },
         {
-          "title": "モルディブの政治家が政府転覆意図の否定",
-          "location": "Maldives",
-          "severity": 55,
-          "description": "モルディブの政治家による「政府転覆を意図しない不安」という発言は、国内に潜在する政治的緊張と国民の不満が高まっている状況を示し、将来的な大規模デモや混乱につながる懸念がある。",
+          "title": "モルディブでの政府転覆を否定する騒乱の兆候",
+          "location": "モルディブ",
+          "severity": 60,
+          "description": "政府高官が政府転覆を目的としない「騒乱」の存在を否定する声明を発表しました。このことは、国内に政治的対立や社会的不安が高まっており、騒乱状態に移行する可能性が示唆されます。",
           "source": "Edition.mv"
         },
         {
-          "title": "インドの裁判所で弁護士への抗議活動",
-          "location": "Alipore (India)",
-          "severity": 40,
-          "description": "インドの裁判所内で発生した、弁護士に対する抗議行動は、特定の社会問題に対する強い不満が局所的な混乱を引き起こしている状況を示し、より広範な社会不安に発展する可能性も孕む。",
+          "title": "インド・法廷外での弁護士に対する抗議活動",
+          "location": "インド・アリポーレ",
+          "severity": 65,
+          "description": "アリポーレの裁判所で、女性弁護士らが抗議活動を行い、特定の弁護士が法廷内の執務室に閉じ込められる事態が発生しました。これは小規模ながらも暴徒化の兆候が見られる事象です。",
           "source": "Bhaskar English"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 55,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "選挙の公平性への不信",
+      "main_cause": "政治的信頼の低下、選挙の公平性への疑問",
       "incidents": [
         {
-          "title": "韓国での選挙抗議デモで国旗が振られる",
-          "location": "South Korea",
-          "severity": 50,
-          "description": "韓国で選挙結果に対する抗議デモが行われ、国旗が振られる状況は、民主主義プロセスへの不信感と国民の不満が表面化しており、社会的な意見の対立が深まっていることを示す。",
-          "source": "aju press"
-        },
-        {
-          "title": "投票用紙不足事件で調査班が関係者を聴取",
-          "location": "South Korea",
-          "severity": 55,
-          "description": "投票用紙不足という選挙管理上の問題が発生し、合同調査班が関係者を聴取する事態は、選挙の公正性への疑念を生み、国民の不信感と社会不安を高める可能性がある。",
-          "source": "아시아경제"
+          "title": "韓国大統領による投票用紙不足問題の調査命令",
+          "location": "韓国",
+          "severity": 45,
+          "description": "韓国で投票用紙不足の問題が発生し、大統領が調査を命じました。選挙の公平性に対する懸念は国民の不満を高め、社会不安につながる可能性があります。",
+          "source": "MSN"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "大規模な抗議デモ、政治的不満",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "政治的抗議、国民の不満",
       "incidents": [
         {
-          "title": "インドネシア政府指導者がジャカルタの抗議者と会談予定",
-          "location": "Jakarta (Indonesia)",
-          "severity": 65,
-          "description": "インドネシアの首都ジャカルタで抗議デモが発生し、政府指導者が抗議者と直接会談する予定であることは、市民の不満が相当な規模に達しており、社会的な緊張が高まっていることを示唆する。",
+          "title": "ジャカルタでの抗議デモと指導者との会談",
+          "location": "インドネシア・ジャカルタ",
+          "severity": 50,
+          "description": "インドネシアのジャカルタで抗議デモが行われており、議会指導者がデモ参加者と会談する予定です。これは政治的な不満が広がり、社会の安定を脅かしている状況を示しています。",
           "source": "Tempo.co English"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "社会運動、地域サービスの問題",
-      "incidents": [
-        {
-          "title": "市民銀行が民間刑務所への融資停止を要求される",
-          "location": "N/A (US-based bank)",
-          "severity": 35,
-          "description": "特定の民間刑務所企業への融資停止を求める市民銀行への抗議は、倫理的投資を求める社会運動の一環であり、広範な金融パニックや社会秩序の崩壊を示すものではないが、社会的な議論を喚起している。",
-          "source": "front.moveon.org"
-        },
-        {
-          "title": "スタッフ不足により水泳教室が中止",
-          "location": "SteinbachOnline (Canada)",
-          "severity": 25,
-          "description": "プールでの水泳教室がスタッフ不足により中止されたというニュースは、地域の公共サービスにおける軽微な問題であり、広範な社会パニックにはつながらないが、住民には一時的な不便や不満をもたらす。",
-          "source": "SteinbachOnline"
-        }
-      ]
-    },
-    {
-      "region": "oceania",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "燃料不足、金融機関への不信",
-      "incidents": [
-        {
-          "title": "キャンベラで一部のガソリンスタンドが燃料切れ",
-          "location": "Canberra (Australia)",
-          "severity": 60,
-          "description": "キャンベラで一部のガソリンスタンドが燃料切れとなり、ディーゼル燃料も不足している状況は、市民生活に直接的な影響を与え、パニック買いや物資の流通に対する広範な不安を引き起こす可能性がある。",
-          "source": "The Canberra Times"
-        },
-        {
-          "title": "詐欺による顧客貯蓄損失で銀行が謝罪",
-          "location": "N/A (Australia)",
-          "severity": 40,
-          "description": "銀行が詐欺被害による顧客の貯蓄喪失に対して謝罪したニュースは、個別の犯罪被害ではあるが、金融機関への信頼を揺るがし、同様の被害への不安を募らせる可能性がある。取り付け騒ぎには至っていない。",
-          "source": "Nine.com.au"
-        }
-      ]
+      "region": "europe",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "N/A",
+      "incidents": []
     }
   ]
 }
