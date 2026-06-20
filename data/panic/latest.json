@@ -1,202 +1,181 @@
 {
   "date": "2026-06-20",
-  "summary": "世界各地で広範な社会不安と抗議活動が報告されており、特に南アジアでは物資不足や金融不安が深刻化し、「危機的」な状況にあります。その他、南米やヨーロッパ、中東でも暴力的衝突や長期的なデモ、潜在的なエネルギー供給不安が見られ、「警戒状態」にあります。北米、東アジア、アフリカ、東南アジアでは政治的抗議や治安問題、教育費への不満などによる「不安定」な状況が散見され、世界全体の緊迫度は高い水準で推移しています。",
-  "global_panic_index": 60,
+  "summary": "世界各地で、生活費の高騰、物資不足、政治的・民族的対立を背景とした大規模な抗議活動や暴動が頻発しています。特に南アジアと南米では死者を伴う衝突や長期的な物資不足が報告されており、一部地域では社会秩序への懸念が高まっています。金融不安の兆候も見られ、グローバルな不安が増大しています。",
+  "global_panic_index": 55,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "治安悪化、政治的抗議、社会的不満",
-      "incidents": [
-        {
-          "title": "New York's Times Square Shooting Sparks Panic",
-          "location": "ニューヨーク, USA",
-          "severity": 75,
-          "description": "ニューヨーク市タイムズスクエアで銃撃事件が発生し、観光客らがパニックに陥り逃げ惑った。突発的な暴力行為が大規模な混乱を引き起こしている。",
-          "source": "Firstpost"
-        },
-        {
-          "title": "Mexico World Cup opener takes shocking turn as protesters clash with riot police outside stadium",
-          "location": "メキシコ",
-          "severity": 65,
-          "description": "メキシコでのワールドカップ開幕戦の際、スタジアム外でデモ隊と機動隊が激しく衝突し、混乱が生じた。大規模イベント時の社会不安が顕在化している。",
-          "source": "MSN"
-        },
-        {
-          "title": "Protests aren't just at Delaney Hall. More spots voices are being heard",
-          "location": "ニュージャージー州, USA",
-          "severity": 45,
-          "description": "米国ニュージャージー州の複数箇所で抗議活動が報告されており、社会的な不満が広範囲に広がっていることを示唆している。",
-          "source": "Bergen Record"
-        }
-      ]
-    },
-    {
-      "region": "south_america",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "物資不足、長期的な抗議活動",
-      "incidents": [
-        {
-          "title": "Bolivia faces shortages as protest movement reaches day 50",
-          "location": "ボリビア",
-          "severity": 70,
-          "description": "ボリビアでは50日間にわたる長期抗議運動が継続しており、全国的な物資不足が発生している。社会インフラへの深刻な影響が懸念される。",
-          "source": "The Australian"
-        }
-      ]
-    },
-    {
       "region": "europe",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "政治的・社会的不満、移民問題に起因する暴徒化",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "社会的分裂、過去の騒乱の余波",
       "incidents": [
         {
-          "title": "Water cannons, fires: Belfast protest against immigrants turns violent on second night",
-          "location": "ベルファスト, 北アイルランド, UK",
-          "severity": 80,
-          "description": "北アイルランドのベルファストで反移民デモが二夜連続で暴力化し、放水砲が使用され、放火も発生。深刻な暴動状態へと発展している。",
+          "title": "反移民デモが暴徒化し放水砲・火災発生",
+          "location": "イギリス (ベルファスト)",
+          "severity": 70,
+          "description": "反移民を訴えるデモが暴徒化し、放水砲が使用され火災も発生。社会の分断と治安悪化への懸念が高まっており、警察による介入が必要な状況です。",
           "source": "MSN"
         },
         {
-          "title": "Man arrested on way back from Spain over 2024 riot",
-          "location": "スペイン",
-          "severity": 50,
-          "description": "2024年にスペインで発生した暴動に関与したとして、帰国途中の男性が逮捕された。過去の社会不安の余波が継続していることを示唆している。",
-          "source": "BBC"
+          "title": "金融規制当局が銀行業務を停止",
+          "location": "ドイツ",
+          "severity": 25,
+          "description": "ドイツの金融規制当局BafinがBerenberg Managementの業務を停止。市場に直接的なパニックは発生していないものの、金融システムへの不信感につながる可能性があります。",
+          "source": "Bloomberg.com"
         },
         {
-          "title": "Tbilisi court jails seven more over October 2025 unrest",
-          "location": "トビリシ, グルジア",
-          "severity": 50,
-          "description": "グルジアのトビリシで2025年10月の騒乱に関与したとして、さらに7名が投獄された。社会秩序への影響が継続している。",
-          "source": "Latest news from Azerbaijan"
+          "title": "過去の暴動に関与した被告を収監",
+          "location": "イギリス (カーディフ)",
+          "severity": 40,
+          "description": "2023年のカーディフ暴動に関与したとされる被告が収監されました。過去の騒乱の余波が続き、地域社会の秩序維持における課題が浮き彫りになっています。",
+          "source": "streamlinefeed.co.ke"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 35,
+      "status": "normal",
+      "main_cause": "社会的不満による抗議活動（単発的）",
+      "incidents": [
+        {
+          "title": "ワールドカップ開会式でデモ隊と機動隊が衝突",
+          "location": "メキシコ",
+          "severity": 60,
+          "description": "ワールドカップ開会式会場の外で抗議デモ参加者と機動隊が衝突しました。大規模なイベントに関連して社会的不満が爆発した形ですが、地域全体への影響は限定的です。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "政治的な不満",
+      "incidents": [
+        {
+          "title": "投票関連の抗議デモが発生",
+          "location": "韓国",
+          "severity": 30,
+          "description": "投票に関連する抗議デモが雨の中で実施されました。平和的なデモであり、直接的なパニックには至っていませんが、政治的な不満の存在を示唆しています。",
+          "source": "Yonhap News Agency"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 60,
-      "status": "volatile",
-      "main_cause": "地域紛争、エネルギー供給不安（潜在的）",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "領土問題、宗教的緊張",
       "incidents": [
         {
-          "title": "Has world's oil cushion run out before Strait of Hormuz could reopen?",
-          "location": "中東地域",
-          "severity": 70,
-          "description": "ホルムズ海峡の再開前に世界の石油備蓄が枯渇する可能性が報じられた。エネルギー供給への潜在的なパニックが懸念される。",
-          "source": "Mint"
-        },
-        {
-          "title": "Protest in West Bank over illegal settler outpost as Israeli forces intervene and detain protesters",
-          "location": "ウェストバンク",
-          "severity": 55,
-          "description": "ウェストバンクで違法な入植地建設に反対する抗議デモが発生し、イスラエル軍が介入してデモ参加者を拘束。地域の緊張が高まっている。",
+          "title": "違法入植地建設に抗議デモ、治安部隊が介入",
+          "location": "ヨルダン川西岸地区",
+          "severity": 45,
+          "description": "違法な入植地建設に抗議するデモが発生し、イスラエル軍が介入して抗議者を拘束しました。この地域での緊張が続き、衝突が頻発しています。",
           "source": "Middle East Monitor"
         },
         {
-          "title": "Indonesia strongly condemns mosque attacks in West Bank",
-          "location": "ウェストバンク",
-          "severity": 60,
-          "description": "ウェストバンクでのモスク襲撃に対し、インドネシアが強く非難を表明。地域紛争の激化が懸念される状況。",
+          "title": "モスク襲撃事件をインドネシアが強く非難",
+          "location": "ヨルダン川西岸地区",
+          "severity": 50,
+          "description": "ヨルダン川西岸地区でのモスク襲撃事件に対し、インドネシアが強く非難する声明を発表しました。地域内での宗教的対立と暴力が激化していることを示唆しています。",
           "source": "The Jakarta Post"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "教育関連の不満",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "高騰する生活費",
       "incidents": [
         {
-          "title": "Kisii, Nyamira parents protest tough school fee demands after student unrest",
-          "location": "Kisii, Nyamira, ケニア",
-          "severity": 50,
-          "description": "ケニアのKisiiとNyamiraで、学生の騒乱を受けて親たちが高額な学費要求に抗議している。教育費を巡る社会的不満が表面化している。",
-          "source": "Education News"
+          "title": "生活費高騰に抗議する大規模デモ",
+          "location": "南アフリカ (プレトリア)",
+          "severity": 65,
+          "description": "高騰する生活費に抗議するため、数千人が南アフリカ準備銀行に向けてデモ行進を行いました。経済的な困窮が広範囲な社会不安に直結している状況です。",
+          "source": "GroundUp"
         }
       ]
     },
     {
-      "region": "east_asia",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "政治的対立、デモの過激化",
+      "region": "south_america",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "物資不足、政治的不満",
       "incidents": [
         {
-          "title": "韓国の開票所封鎖デモ長期化、若者層でも評価割れる…「純粋な平和デモに見えない」",
-          "location": "韓国",
-          "severity": 60,
-          "description": "韓国で開票所封鎖デモが長期化し、若年層でもその評価が分かれている。「純粋な平和デモ」ではないとの見方も出ており、政治的緊張が高まっている。",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "Comment Author Who Suggested \"Raiding Police Armory Amid Vote-Counting Protest\" Turns Himself In",
-          "location": "韓国",
-          "severity": 55,
-          "description": "韓国で開票作業中の抗議デモ中に「警察武装庫襲撃」を示唆したコメントの投稿者が自首。政治的緊張が高まり、過激な行動への懸念が生じている。",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 75,
-      "status": "critical",
-      "main_cause": "物資不足（医薬品、農業資材）、金融不安、広範な社会不安と地域紛争",
-      "incidents": [
-        {
-          "title": "Patients face ‘dangerous’ delays as key medicines run short",
-          "location": "インド",
-          "severity": 75,
-          "description": "インドでは主要な医薬品が不足し、患者が「危険な」遅延に直面している。医療崩壊と生命への懸念が高まり、広範な社会不安を引き起こしている。",
-          "source": "InYourArea"
-        },
-        {
-          "title": "Punjab farmers hold protest across 22 districts over urea shortage",
-          "location": "パンジャブ州, インド",
+          "title": "物資不足と抗議活動が50日目に突入",
+          "location": "ボリビア",
           "severity": 70,
-          "description": "インドのパンジャブ州で、尿素不足を巡り農民が22の地域で抗議デモを実施。農業生産と食料供給への深刻な影響が懸念される。",
-          "source": "MSN"
+          "description": "食料やエネルギーなどの物資不足に対する抗議活動が50日間にわたって継続しています。生活必需品の不足が深刻な社会不安と社会秩序の混乱を引き起こしています。",
+          "source": "The Australian"
         },
         {
-          "title": "RAKUB seeks one more year for Tk 10b state guarantee to avoid liquidity crisis",
-          "location": "バングラデシュ",
-          "severity": 60,
-          "description": "バングラデシュのRAKUBが、流動性危機を回避するために100億タカの政府保証延長を求めている。潜在的な金融システムへの不安が高まっている。",
-          "source": "The Financial Express"
-        },
-        {
-          "title": "Balochistan employees launch indefinite shutdown after protest crackdown",
-          "location": "バローチスタン, パキスタン",
-          "severity": 65,
-          "description": "パキスタンのバローチスタンで、抗議デモへの弾圧を受け従業員が無期限のシャットダウンに突入。広範な社会不安と労働問題が深刻化している。",
-          "source": "ANI News"
-        },
-        {
-          "title": "JKJAAC Accuses Pakistan of Betraying Signed Agreement as PoJK Unrest Deepens",
-          "location": "PoJK, パキスタン",
-          "severity": 65,
-          "description": "パキスタン管理下のジャンムー・カシミール（PoJK）で騒乱が深化。地域紛争の再燃と人権侵害への懸念が高まっている。",
-          "source": "LatestLY"
+          "title": "タイヤ燃焼デモが暴徒化しハバナに騒乱拡大",
+          "location": "キューバ (ハバナ)",
+          "severity": 70,
+          "description": "タイヤを燃やす抗議活動が勃発し、騒乱がハバナ市サン・ミゲル・デル・パドロンとラ・グイネラ地域に拡大しています。市民の不満が暴力的な形で表面化している状況です。",
+          "source": "CubaHeadlines"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "広範な抗議活動",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "医療人材不足 (社会問題)",
       "incidents": [
         {
-          "title": "Mass Protests Hit Five Locations Across Jakarta Today",
-          "location": "ジャカルタ, インドネシア",
-          "severity": 60,
-          "description": "インドネシアのジャカルタ市内で本日、5か所において大規模な抗議デモが同時に発生している。広範な社会的不満が表面化しており、混乱が生じている。",
-          "source": "Tempo.co English"
+          "title": "医師不足対策で国営医療プログラム開設",
+          "location": "フィリピン (ルソン島北部)",
+          "severity": 25,
+          "description": "医師不足に対応するため、地域初の国営医療プログラムが開設されました。直接的なパニックは報告されていませんが、公衆衛生への懸念が社会不安の背景にあります。",
+          "source": "North Luzon Monitor"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "政治的抑圧、民族・宗教対立、物資不足、金融不安",
+      "incidents": [
+        {
+          "title": "選挙巡る抗議デモが暴徒化し24人死亡",
+          "location": "カシミール",
+          "severity": 75,
+          "description": "選挙議席を巡る抗議デモが暴徒化し、少なくとも24人が死亡しました。政治的な対立が最も深刻な暴力と死傷者につながっており、地域全体の緊張が高まっています。",
+          "source": "AnewZ"
+        },
+        {
+          "title": "PoJKで騒乱が激化、国家による鎮圧",
+          "location": "パキスタン管理下のカシミール (PoJK)",
+          "severity": 65,
+          "description": "パキスタン管理下のカシミールで騒乱が激化し、国家による鎮圧が行われています。人権問題の悪化も指摘されており、深刻な社会・政治的危機に瀕しています。",
+          "source": "organiser.org"
+        },
+        {
+          "title": "数千人のヒンドゥー教徒が抗議デモ",
+          "location": "バングラデシュ (ダッカ)",
+          "severity": 55,
+          "description": "ダッカで数千人のヒンドゥー教徒が「ジャイ・シュリー・ラム」のチャントを叫びながら抗議デモを行いました。宗教的・民族的な緊張が高まっている状況がうかがえます。",
+          "source": "The CSR Journal"
+        },
+        {
+          "title": "尿素不足に抗議し農民デモが22地区に拡大",
+          "location": "インド (パンジャブ州)",
+          "severity": 65,
+          "description": "パンジャブ州の22地区で、農民が尿素不足に抗議するデモを実施しました。農業生産に必要な物資の不足が広範囲な社会不安を引き起こしています。",
+          "source": "MSN"
+        },
+        {
+          "title": "銀行が流動性危機回避のため国家保証を要請",
+          "location": "バングラデシュ",
+          "severity": 55,
+          "description": "RAKUB銀行が流動性危機を避けるため、国家保証の延長を要請しました。これは金融システムの脆弱性を示しており、取り付け騒ぎに発展する懸念があります。",
+          "source": "The Financial Express"
         }
       ]
     }
