@@ -1,181 +1,158 @@
 {
   "date": "2026-06-20",
-  "summary": "世界各地で、生活費の高騰、物資不足、政治的・民族的対立を背景とした大規模な抗議活動や暴動が頻発しています。特に南アジアと南米では死者を伴う衝突や長期的な物資不足が報告されており、一部地域では社会秩序への懸念が高まっています。金融不安の兆候も見られ、グローバルな不安が増大しています。",
-  "global_panic_index": 55,
+  "summary": "世界各地で市民の抗議活動が多発し、特に南米や中東では政府による強硬な対応や軍事介入が見られ、社会の緊張が高まっています。経済的な不満や生活必需品（水資源など）の不足が深刻な地域では、大規模なデモが頻発し、一部では暴力的要素を伴う事態に発展。金融システムへの潜在的な不安もくすぶり、全体的に不安定な状況が続いています。",
+  "global_panic_index": 58,
   "regions": [
     {
-      "region": "europe",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "社会的分裂、過去の騒乱の余波",
+      "region": "south_america",
+      "panic_index": 73,
+      "status": "volatile",
+      "main_cause": "大規模な抗議デモ、政府による強硬な対応",
       "incidents": [
         {
-          "title": "反移民デモが暴徒化し放水砲・火災発生",
-          "location": "イギリス (ベルファスト)",
+          "title": "ボリビア、抗議デモで非常事態宣言",
+          "location": "ボリビア",
+          "severity": 75,
+          "description": "デモ隊による道路封鎖が続き、経済的混乱が発生。政府は非常事態宣言を発令し、軍投入の可能性を示唆して事態の収拾を図っている。",
+          "source": "Reuters"
+        },
+        {
+          "title": "ハバナでタイヤ燃やす抗議デモ、不安拡大",
+          "location": "キューバ（ハバナ）",
           "severity": 70,
-          "description": "反移民を訴えるデモが暴徒化し、放水砲が使用され火災も発生。社会の分断と治安悪化への懸念が高まっており、警察による介入が必要な状況です。",
-          "source": "MSN"
-        },
-        {
-          "title": "金融規制当局が銀行業務を停止",
-          "location": "ドイツ",
-          "severity": 25,
-          "description": "ドイツの金融規制当局BafinがBerenberg Managementの業務を停止。市場に直接的なパニックは発生していないものの、金融システムへの不信感につながる可能性があります。",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "過去の暴動に関与した被告を収監",
-          "location": "イギリス (カーディフ)",
-          "severity": 40,
-          "description": "2023年のカーディフ暴動に関与したとされる被告が収監されました。過去の騒乱の余波が続き、地域社会の秩序維持における課題が浮き彫りになっています。",
-          "source": "streamlinefeed.co.ke"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 35,
-      "status": "normal",
-      "main_cause": "社会的不満による抗議活動（単発的）",
-      "incidents": [
-        {
-          "title": "ワールドカップ開会式でデモ隊と機動隊が衝突",
-          "location": "メキシコ",
-          "severity": 60,
-          "description": "ワールドカップ開会式会場の外で抗議デモ参加者と機動隊が衝突しました。大規模なイベントに関連して社会的不満が爆発した形ですが、地域全体への影響は限定的です。",
-          "source": "MSN"
+          "description": "ハバナ各地でタイヤを燃やす抗議デモが発生し、社会不安が拡大。市民の不満が爆発し、治安情勢が緊迫している。",
+          "source": "CubaHeadlines"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "政治的な不満",
+      "panic_index": 51,
+      "status": "unstable",
+      "main_cause": "水資源不足、地域住民の不満",
       "incidents": [
         {
-          "title": "投票関連の抗議デモが発生",
+          "title": "インド・プネーで水危機深刻化",
+          "location": "インド（プネー）",
+          "severity": 70,
+          "description": "プネーで水危機が深刻化し、主要なダムの貯水量が13.91%まで低下。市民の生活用水不足が懸念され、広範な社会不安につながる恐れがある。",
+          "source": "Pune Mirror"
+        },
+        {
+          "title": "インド・ドンビブリーで給水停止抗議",
+          "location": "インド（ドンビブリー）",
+          "severity": 70,
+          "description": "ドンビブリーで3ヶ月続く給水停止に抗議し、数百人の女性が行政事務所を包囲。長期にわたる水不足が住民の生活を脅かし、大規模な不満が噴出している。",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "インド・ナギナで料金所職員死亡抗議",
+          "location": "インド（ナギナ）",
+          "severity": 45,
+          "description": "料金所職員の死を巡り、住民が抗議デモを実施。地域住民の強い不満が示されており、小規模ながら緊張状態にある。",
+          "source": "The Times of India"
+        },
+        {
+          "title": "インド・デリーで「ゴキブリ党」抗議デモ",
+          "location": "インド（デリー）",
+          "severity": 40,
+          "description": "数百人規模の「ゴキブリ党」による抗議デモがデリーで開催。政治に対する風刺的な抗議だが、社会の一部に不満が存在することを示唆している。",
+          "source": "dw.com"
+        },
+        {
+          "title": "韓国で選挙関連抗議デモ",
           "location": "韓国",
           "severity": 30,
-          "description": "投票に関連する抗議デモが雨の中で実施されました。平和的なデモであり、直接的なパニックには至っていませんが、政治的な不満の存在を示唆しています。",
+          "description": "雨の中、選挙関連の抗議デモが発生。具体的な規模や影響は不明だが、政治への不満が示されている。",
           "source": "Yonhap News Agency"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "領土問題、宗教的緊張",
-      "incidents": [
-        {
-          "title": "違法入植地建設に抗議デモ、治安部隊が介入",
-          "location": "ヨルダン川西岸地区",
-          "severity": 45,
-          "description": "違法な入植地建設に抗議するデモが発生し、イスラエル軍が介入して抗議者を拘束しました。この地域での緊張が続き、衝突が頻発しています。",
-          "source": "Middle East Monitor"
-        },
-        {
-          "title": "モスク襲撃事件をインドネシアが強く非難",
-          "location": "ヨルダン川西岸地区",
-          "severity": 50,
-          "description": "ヨルダン川西岸地区でのモスク襲撃事件に対し、インドネシアが強く非難する声明を発表しました。地域内での宗教的対立と暴力が激化していることを示唆しています。",
-          "source": "The Jakarta Post"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "高騰する生活費",
-      "incidents": [
-        {
-          "title": "生活費高騰に抗議する大規模デモ",
-          "location": "南アフリカ (プレトリア)",
-          "severity": 65,
-          "description": "高騰する生活費に抗議するため、数千人が南アフリカ準備銀行に向けてデモ行進を行いました。経済的な困窮が広範囲な社会不安に直結している状況です。",
-          "source": "GroundUp"
-        }
-      ]
-    },
-    {
-      "region": "south_america",
       "panic_index": 70,
       "status": "volatile",
-      "main_cause": "物資不足、政治的不満",
+      "main_cause": "政治的抑圧、地域紛争、大規模な抗議活動",
       "incidents": [
         {
-          "title": "物資不足と抗議活動が50日目に突入",
-          "location": "ボリビア",
-          "severity": 70,
-          "description": "食料やエネルギーなどの物資不足に対する抗議活動が50日間にわたって継続しています。生活必需品の不足が深刻な社会不安と社会秩序の混乱を引き起こしています。",
-          "source": "The Australian"
+          "title": "パキスタンで市民反乱を軍事鎮圧",
+          "location": "パキスタン（PoJK）",
+          "severity": 80,
+          "description": "パキスタン占領下のジャンムー・カシミール（PoJK）で、市民の反乱に対し政府が残忍な軍事力を行使して鎮圧しており、人権侵害と社会不安が深刻化している。",
+          "source": "organiser.org"
         },
         {
-          "title": "タイヤ燃焼デモが暴徒化しハバナに騒乱拡大",
-          "location": "キューバ (ハバナ)",
-          "severity": 70,
-          "description": "タイヤを燃やす抗議活動が勃発し、騒乱がハバナ市サン・ミゲル・デル・パドロンとラ・グイネラ地域に拡大しています。市民の不満が暴力的な形で表面化している状況です。",
-          "source": "CubaHeadlines"
+          "title": "ヨルダン川西岸で入植地抗議デモ",
+          "location": "ヨルダン川西岸",
+          "severity": 60,
+          "description": "違法な入植地建設に対する抗議デモが発生し、イスラエル治安部隊が介入。デモ参加者の拘束が行われ、地域内の緊張が高まっている。",
+          "source": "Middle East Monitor"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 25,
-      "status": "stable",
-      "main_cause": "医療人材不足 (社会問題)",
+      "panic_index": 57,
+      "status": "unstable",
+      "main_cause": "金融不安、大規模な抗議活動（宗教的緊張）",
       "incidents": [
         {
-          "title": "医師不足対策で国営医療プログラム開設",
-          "location": "フィリピン (ルソン島北部)",
-          "severity": 25,
-          "description": "医師不足に対応するため、地域初の国営医療プログラムが開設されました。直接的なパニックは報告されていませんが、公衆衛生への懸念が社会不安の背景にあります。",
-          "source": "North Luzon Monitor"
+          "title": "ダッカで数千人規模のヒンドゥー教徒デモ",
+          "location": "バングラデシュ（ダッカ）",
+          "severity": 65,
+          "description": "ダッカで数千人規模のヒンドゥー教徒が抗議デモを実施。宗教的スローガンが叫ばれ、地域社会における宗教的緊張と社会不安が高まっている。",
+          "source": "The CSR Journal"
+        },
+        {
+          "title": "バングラデシュ地方銀行の流動性危機",
+          "location": "バングラデシュ",
+          "severity": 55,
+          "description": "地方銀行RAKUBが流動性危機を回避するため、政府に100億タカの国家保証延長を求めている。金融システムへの波及が懸念される。",
+          "source": "The Financial Express"
+        },
+        {
+          "title": "バングラデシュ・イスラミ銀行が再び危機に",
+          "location": "バングラデシュ",
+          "severity": 50,
+          "description": "イスラミ銀行が再び危機に直面しており、金融システムの安定性に対する懸念が浮上。潜在的な取り付け騒ぎへのリスクが存在する。",
+          "source": "The Business Standard"
         }
       ]
     },
     {
-      "region": "south_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "政治的抑圧、民族・宗教対立、物資不足、金融不安",
+      "region": "north_america",
+      "panic_index": 38,
+      "status": "stable",
+      "main_cause": "地域住民の不満、医療資源の不足",
       "incidents": [
         {
-          "title": "選挙巡る抗議デモが暴徒化し24人死亡",
-          "location": "カシミール",
-          "severity": 75,
-          "description": "選挙議席を巡る抗議デモが暴徒化し、少なくとも24人が死亡しました。政治的な対立が最も深刻な暴力と死傷者につながっており、地域全体の緊張が高まっています。",
-          "source": "AnewZ"
+          "title": "カナダで高齢者向けプログラム中止抗議",
+          "location": "カナダ",
+          "severity": 40,
+          "description": "高齢者向けのプログラムが市からの資金提供を失い中止されたことに抗議し、多くの高齢者が市庁舎前でデモを実施。生活への影響に対する不満が表明されている。",
+          "source": "CBC"
         },
         {
-          "title": "PoJKで騒乱が激化、国家による鎮圧",
-          "location": "パキスタン管理下のカシミール (PoJK)",
-          "severity": 65,
-          "description": "パキスタン管理下のカシミールで騒乱が激化し、国家による鎮圧が行われています。人権問題の悪化も指摘されており、深刻な社会・政治的危機に瀕しています。",
-          "source": "organiser.org"
-        },
+          "title": "米国でO型血液の緊急呼びかけ",
+          "location": "米国（カリフォルニア州）",
+          "severity": 35,
+          "description": "血液センターがO型血液の緊急献血を呼びかけ、認識プログラムを開始。医療インフラにおける特定の資源不足を示している。",
+          "source": "Tehachapi News"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "生活費高騰、経済的不満",
+      "incidents": [
         {
-          "title": "数千人のヒンドゥー教徒が抗議デモ",
-          "location": "バングラデシュ (ダッカ)",
-          "severity": 55,
-          "description": "ダッカで数千人のヒンドゥー教徒が「ジャイ・シュリー・ラム」のチャントを叫びながら抗議デモを行いました。宗教的・民族的な緊張が高まっている状況がうかがえます。",
-          "source": "The CSR Journal"
-        },
-        {
-          "title": "尿素不足に抗議し農民デモが22地区に拡大",
-          "location": "インド (パンジャブ州)",
-          "severity": 65,
-          "description": "パンジャブ州の22地区で、農民が尿素不足に抗議するデモを実施しました。農業生産に必要な物資の不足が広範囲な社会不安を引き起こしています。",
-          "source": "MSN"
-        },
-        {
-          "title": "銀行が流動性危機回避のため国家保証を要請",
-          "location": "バングラデシュ",
-          "severity": 55,
-          "description": "RAKUB銀行が流動性危機を避けるため、国家保証の延長を要請しました。これは金融システムの脆弱性を示しており、取り付け騒ぎに発展する懸念があります。",
-          "source": "The Financial Express"
+          "title": "南アフリカで生活費高騰に対するデモ",
+          "location": "南アフリカ（プレトリア）",
+          "severity": 60,
+          "description": "労働組合COSATUが、生活費の高騰に抗議するため南アフリカ準備銀行へ大規模なデモ行進を実施。国民の経済的苦境が背景にある。",
+          "source": "GroundUp"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T09:22:19.714184",
+  "generated_at": "2026-06-20T14:11:24.214138",
   "indices": [
     {
       "symbol": "^N225",
@@ -28,13 +28,13 @@
     {
       "symbol": "^SPX",
       "label": "S&P 500",
-      "current_price": NaN,
-      "price_formatted": "nan",
-      "change": NaN,
-      "change_formatted": "+nan",
-      "change_percent": NaN,
-      "change_percent_formatted": "+nan%",
-      "trend": "flat",
+      "current_price": 7500.580078125,
+      "price_formatted": "7,500.58",
+      "change": 80.47998046875,
+      "change_formatted": "+80.48",
+      "change_percent": 1.0846212235623454,
+      "change_percent_formatted": "+1.08%",
+      "trend": "up",
       "date": "2026-06-18"
     },
     {
@@ -64,12 +64,12 @@
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 63492.078125,
-      "price_formatted": "63,492",
-      "change": -48.7578125,
-      "change_formatted": "-49",
-      "change_percent": -0.07673460976805394,
-      "change_percent_formatted": "-0.08%",
+      "current_price": 63204.98046875,
+      "price_formatted": "63,205",
+      "change": -335.85546875,
+      "change_formatted": "-336",
+      "change_percent": -0.5285663365844824,
+      "change_percent_formatted": "-0.53%",
       "trend": "down",
       "date": "2026-06-20"
     },
