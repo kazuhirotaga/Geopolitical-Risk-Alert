@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T16:22:43.163857",
+  "generated_at": "2026-06-20T19:41:47.389266",
   "indices": [
     {
       "symbol": "^N225",
@@ -40,14 +40,14 @@
     {
       "symbol": "^VIX",
       "label": "VIX指数 (恐怖指数)",
-      "current_price": 18.440000534057617,
-      "price_formatted": "18.44",
-      "change": 2.030000686645508,
-      "change_formatted": "+2.03",
-      "change_percent": 12.370510088491214,
-      "change_percent_formatted": "+12.37%",
-      "trend": "up",
-      "date": "2026-06-17"
+      "current_price": 16.399999618530273,
+      "price_formatted": "16.40",
+      "change": -2.0400009155273438,
+      "change_formatted": "-2.04",
+      "change_percent": -11.062911369007717,
+      "change_percent_formatted": "-11.06%",
+      "trend": "down",
+      "date": "2026-06-18"
     },
     {
       "symbol": "USDJPY=X",
@@ -64,12 +64,12 @@
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 63975.4296875,
-      "price_formatted": "63,975",
-      "change": 434.59375,
-      "change_formatted": "+435",
-      "change_percent": 0.68395976160508,
-      "change_percent_formatted": "+0.68%",
+      "current_price": 63815.71875,
+      "price_formatted": "63,816",
+      "change": 274.8828125,
+      "change_formatted": "+275",
+      "change_percent": 0.4326081148355997,
+      "change_percent_formatted": "+0.43%",
       "trend": "up",
       "date": "2026-06-20"
     },
