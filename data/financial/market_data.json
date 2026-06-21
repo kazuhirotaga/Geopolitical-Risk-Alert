@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T04:43:03.837027",
+  "generated_at": "2026-06-21T09:55:11.355775",
   "indices": [
     {
       "symbol": "^N225",
@@ -50,6 +50,18 @@
       "date": "2026-06-18"
     },
     {
+      "symbol": "^TNX",
+      "label": "米10年国債利回り",
+      "current_price": 4.451000213623047,
+      "price_formatted": "4.45",
+      "change": -0.01199960708618164,
+      "change_formatted": "-0.01",
+      "change_percent": -0.26886864369792307,
+      "change_percent_formatted": "-0.27%",
+      "trend": "down",
+      "date": "2026-06-18"
+    },
+    {
       "symbol": "USDJPY=X",
       "label": "ドル円相場",
       "current_price": 161.27499389648438,
@@ -64,13 +76,13 @@
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 64419.30859375,
-      "price_formatted": "64,419",
-      "change": 878.47265625,
-      "change_formatted": "+878",
-      "change_percent": 1.3825324191738408,
-      "change_percent_formatted": "+1.38%",
-      "trend": "up",
+      "current_price": 64122.55078125,
+      "price_formatted": "64,123",
+      "change": -117.125,
+      "change_formatted": "-117",
+      "change_percent": -0.18232501732859918,
+      "change_percent_formatted": "-0.18%",
+      "trend": "down",
       "date": "2026-06-21"
     },
     {
