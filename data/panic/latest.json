@@ -1,19 +1,71 @@
 {
   "date": "2026-06-21",
-  "summary": "世界各地で社会不安が散見される中、特に南米ボリビアでは食料不足と長期にわたる大規模な抗議デモにより非常事態が宣言され、軍隊が展開されるなど極めて深刻なパニック状態に陥っています。南アジアのインドでも複数の抗議活動やストライキの動きが見られ、社会的な緊張が高まっています。中東地域では入植地拡大に対する抗議が継続し、東アジアや東南アジアでも地域的な不安要因が存在します。全体として、特定の地域で社会秩序が崩壊寸前の危機に瀕しており、国際的な監視が求められる状況です。",
-  "global_panic_index": 60,
+  "summary": "世界各地で社会不安が高まっており、特に南米ボリビアでは食料不足と長期デモが非常事態宣言と軍の展開に繋がり、極めて危険なパニック状態にあります。中東では金融不安と地政学的緊張、南アジアでは政治・経済問題と宗教対立が深刻化。東アジアと北米の一部でも、政治的不信や医療リソース不足による不安が見られ、全体的に警戒を要する状況が続いています。",
+  "global_panic_index": 70,
   "regions": [
+    {
+      "region": "north_america",
+      "panic_index": 40,
+      "status": "unstable",
+      "main_cause": "医療リソース不足",
+      "incidents": [
+        {
+          "title": "OKC血液銀行の供給不足、献血の緊急要請",
+          "location": "アメリカ (オクラホマシティ)",
+          "severity": 40,
+          "description": "オクラホマシティの血液銀行で供給が不足し、緊急の献血が呼びかけられています。医療リソースの不足は住民の健康と安全に対する不安を高め、公衆衛生上の懸念事項となっています。",
+          "source": "mustangnews.info"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "金融不安、地政学的緊張",
+      "incidents": [
+        {
+          "title": "パレスチナでイスラエル入植地拡大計画に抗議デモ",
+          "location": "パレスチナ (ウェストバンク)",
+          "severity": 50,
+          "description": "イスラエルによる入植地拡大計画に対し、パレスチナ人が大規模な抗議デモを実施。地政学的緊張が継続しており、住民の不安が高まっています。衝突の可能性も懸念されます。",
+          "source": "Middle East Eye"
+        },
+        {
+          "title": "イスラム銀行危機、預金者の運命に懸念",
+          "location": "中東（広範）",
+          "severity": 75,
+          "description": "イスラム銀行の危機が報じられ、国家の責任と預金者の運命が懸念されている。金融システムの不安定化は、経済的パニックや取り付け騒ぎを引き起こし、広範な社会不安を招く可能性がある。",
+          "source": "천지일보"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "政治的不信",
+      "incidents": [
+        {
+          "title": "投票用紙不足に対する抗議デモが17日継続",
+          "location": "韓国",
+          "severity": 60,
+          "description": "投票用紙不足に対する抗議デモが17日間続き、市民の政治システムへの不信感を露呈している。長期化するデモは社会の分断を深め、さらなる混乱を招く恐れがある。",
+          "source": "Yonhap News Agency"
+        }
+      ]
+    },
     {
       "region": "south_america",
       "panic_index": 90,
       "status": "critical",
-      "main_cause": "食料不足、長期抗議デモ、政治的混乱",
+      "main_cause": "食料不足、政治的混乱",
       "incidents": [
         {
-          "title": "ボリビアの食料不足と大規模抗議デモ",
+          "title": "ボリビアで50日間のデモ、食料不足、非常事態宣言、軍が展開",
           "location": "ボリビア",
-          "severity": 95,
-          "description": "50日間にわたる抗議デモと食料不足により、政府は非常事態を宣言。デモ隊による道路封鎖を解除するため軍隊が展開され、社会インフラの機能が麻痺寸前の危機的状況。",
+          "severity": 90,
+          "description": "ボリビアでは50日間にわたる大規模な抗議デモと深刻な食料不足が続き、政府は非常事態を宣言し警察・軍を投入。社会秩序は崩壊寸前のパニック状態にあり、住民の生活が深刻な脅威に晒されている。",
           "source": "Hindustan Times 他"
         }
       ]
@@ -22,88 +74,28 @@
       "region": "south_asia",
       "panic_index": 65,
       "status": "volatile",
-      "main_cause": "金融詐欺、教育システムへの不満、労働争議",
+      "main_cause": "政治・経済的不安、宗教的緊張",
       "incidents": [
         {
-          "title": "インドNEET抗議デモと扇動行為",
-          "location": "インド（Jantar Mantar）",
-          "severity": 70,
-          "description": "NEET試験結果に対する抗議デモがJantar Mantarで発生。米国の人物によるソーシャルメディアを通じた若者の扇動と「反乱」への煽りが確認され、大規模な混乱に発展するリスク。",
-          "source": "opindia.com"
-        },
-        {
-          "title": "投資詐欺に対する大規模抗議",
-          "location": "インド（Vizag）",
-          "severity": 60,
-          "description": "Chandu Groupによる15-20クローレ（約2-2.5億円）規模の投資詐欺に対し、350人の投資家が抗議デモを実施。金融システムへの不信感と被害者の経済的打撃による不安。",
-          "source": "The News Mill"
-        },
-        {
-          "title": "インド全国RRBストライキ計画",
-          "location": "インド",
+          "title": "パキスタン郵便の再編が新たな社会不安を引き起こす",
+          "location": "パキスタン",
           "severity": 55,
-          "description": "UFGBUによる全国的なRRB（地方銀行）ストライキが8月4日に予定されており、12項目の要求を掲げて運動を激化。金融サービスへの影響と経済活動への混乱が懸念される。",
-          "source": "Thekanal"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 60,
-      "status": "volatile",
-      "main_cause": "領土問題、政治的対立",
-      "incidents": [
+          "description": "パキスタン郵便の再編が新たな社会不安を引き起こしている。公共サービスの変更はしばしば市民の不満や混乱を招き、社会的な安定を揺るがす可能性がある。",
+          "source": "The Express Tribune"
+        },
         {
-          "title": "パレスチナでの入植地拡大計画抗議デモ",
-          "location": "ウエストバンク",
-          "severity": 60,
-          "description": "パレスチナ人がイスラエルによる入植地拡大計画に対し抗議デモを実施。この地域の長年の紛争と関連しており、常に緊張状態が続いており、新たな衝突への懸念がある。",
-          "source": "Middle East Eye"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "宗教的緊張",
-      "incidents": [
-        {
-          "title": "バングラデシュでの宗教冒涜抗議",
+          "title": "バングラデシュで宗教的冒涜への抗議デモ",
           "location": "バングラデシュ",
-          "severity": 55,
-          "description": "ヒンドゥー教の神像が冒涜されたとされる事件を受け、ヒンドゥー教グループが抗議デモを実施。宗教間の緊張が高まり、大規模な衝突や社会不安に発展するリスクがある。",
+          "severity": 65,
+          "description": "バングラデシュでヒンドゥー教の神の画像が冒涜されたとして、ヒンドゥー教徒グループが抗議デモを実施。宗教間の緊張が高まり、大規模な衝突や社会不安に発展するリスクがある。",
           "source": "Scroll.in"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "選挙関連の不満",
-      "incidents": [
+        },
         {
-          "title": "投票用紙不足に関する抗議デモの長期化",
-          "location": "韓国 (推定)",
-          "severity": 45,
-          "description": "投票用紙不足に関する抗議デモが17日間にわたり継続。選挙制度に対する不信感と市民の不満が高まっており、行政への信頼失墜に繋がる可能性。",
-          "source": "Yonhap News Agency"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "国際問題への関心",
-      "incidents": [
-        {
-          "title": "カシミール地方の不安に対する抗議デモ",
-          "location": "英国（ロンドン）",
-          "severity": 30,
-          "description": "英国議会の外で、カシミール地方の不安に反対する数千人の英国在住カシミール人が抗議デモを実施。英国国内の直接的なパニックではなく、国際問題への関心表明。",
-          "source": "MSN"
+          "title": "インドで投資詐欺被害に対する抗議デモ",
+          "location": "インド (Vizag)",
+          "severity": 50,
+          "description": "インドのVizagで、350人の投資家が約1.5億〜2億ルピーの詐欺被害に対し抗議デモを実施。金銭的な詐欺は個人の生活に深刻な打撃を与え、社会的な不満と不信感を増大させている。",
+          "source": "The News Mill"
         }
       ]
     }
