@@ -1,122 +1,145 @@
 {
   "date": "2026-06-22",
-  "summary": "世界各地でパニックや社会不安が増大傾向にあります。特に南米ボリビアでは食料不足と長期デモ、非常事態宣言により社会が危機的な状況に陥っています。アジア地域では、インドの大ニコバル島で燃料が枯渇し住民生活に深刻な影響が出ており、本土インドでも鉄道ストや教育関連デモ、そして暴動に発展しかねない政治的な抗議活動が報告されています。中東では金融不安や地域紛争が継続するなど、特定の地域で社会秩序の維持が困難になりつつあり、世界全体の緊迫度が高まっています。",
-  "global_panic_index": 70,
+  "summary": "世界全体で社会不安が増加傾向にあり、特に南アジアでは暴力的な抗議デモ、生活必需品不足、宗教的緊張が頻発し、警戒レベルに達しています。北米では金融システムの潜在的な脆弱性と医療資源の不足が懸念されています。広範なパニックには至っていないものの、地域によっては社会秩序の不安定化が進んでおり、今後の動向に注視が必要です。",
+  "global_panic_index": 50,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "医療資源の不足",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "金融システムの潜在的不安、医療資源の不足",
       "incidents": [
         {
-          "title": "OKC blood bank shortage: urgent plea for donors as supplies run low",
-          "location": "Oklahoma City, USA",
-          "severity": 30,
-          "description": "オクラホマシティの血液銀行で血液供給が不足し、緊急の献血要請が出されています。医療機関におけるリソース不足が懸念される状況ですが、広範な社会パニックには至っていません。",
+          "title": "米国銀行の巨額な未実現損失",
+          "location": "米国",
+          "severity": 60,
+          "description": "米国銀行が3250億ドルもの未実現損失に直面しており、金融システムの脆弱性が露呈しています。直接的な取り付け騒ぎはないものの、広範な金融不安の引き金となる可能性があります。",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "オクラホマシティでの血液不足",
+          "location": "Oklahoma City, US",
+          "severity": 55,
+          "description": "オクラホマシティの血液銀行で深刻な血液不足が発生し、緊急の献血が呼びかけられています。医療供給体制の途絶は、住民の生命と健康に直接的な不安をもたらします。",
           "source": "mustangnews.info"
         }
       ]
     },
     {
       "region": "east_asia",
-      "panic_index": 45,
+      "panic_index": 35,
       "status": "unstable",
-      "main_cause": "政治制度への不信",
+      "main_cause": "政治的抗議の長期化",
       "incidents": [
         {
-          "title": "Protests over ballot shortage continue for 17th day",
-          "location": "South Korea",
-          "severity": 45,
-          "description": "韓国で地方選挙の投票用紙不足を巡る抗議デモが17日間にわたり継続しており、警察は不法行為に厳しく対処すると表明。選挙制度への不信感が社会不安に繋がっています。",
-          "source": "Yonhap News Agency"
+          "title": "韓国での長期化する抗議デモと警察の介入",
+          "location": "South Korea (Jamsil)",
+          "severity": 50,
+          "description": "韓国の蚕室地域における投票関連の抗議活動が18日目を迎え、警察は不法行為への厳格な対応を表明しています。デモの長期化と当局の強硬姿勢が社会の緊張を高めています。",
+          "source": "CHOSUNBIZ / 헤럴드경제"
         }
       ]
     },
     {
-      "region": "middle_east",
-      "panic_index": 65,
+      "region": "south_asia",
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "地政学的な緊張、金融不安、政策への不満",
+      "main_cause": "暴力的抗議、生活必需品不足、政治的・宗教的緊張",
       "incidents": [
         {
-          "title": "Islamic Bank Crisis: State Accountability and the Fate of Ordinary Depositors",
-          "location": "Middle East region",
-          "severity": 70,
-          "description": "イスラム銀行の危機が報じられ、取締役会が停滞。預金者の運命が懸念されており、金融システムへの信頼喪失や取り付け騒ぎに発展する恐れがあります。",
-          "source": "천지일보"
+          "title": "インド・マニプール州での暴力的抗議デモ",
+          "location": "Kangpokpi, Manipur, India",
+          "severity": 75,
+          "description": "マニプール州カンポクピで高速道路封鎖デモが暴徒化し、治安部隊との衝突で3人が負傷しました。交通インフラの機能不全と暴力行為は、社会秩序の重大な混乱を示しています。",
+          "source": "India Today NE"
         },
         {
-          "title": "Israeli military says killed two near West Bank settlement",
-          "location": "West Bank, Israel",
-          "severity": 60,
-          "description": "ヨルダン川西岸の入植地付近でイスラエル軍が2人を殺害したと発表。地域的な暴力と緊張状態が継続しており、社会不安と安全保障上の懸念が高まっています。",
-          "source": "Gulf News"
-        },
-        {
-          "title": "Pakistan Post restructuring sparks fresh unrest",
+          "title": "パキスタンでの社会不安警告",
           "location": "Pakistan",
-          "severity": 55,
-          "description": "パキスタン郵便の再編が新たな社会不安を引き起こしています。政府の政策に対する広範な不満が示唆されており、国内の不安定化に繋がる可能性があります。",
-          "source": "The Express Tribune"
-        }
-      ]
-    },
-    {
-      "region": "south_america",
-      "panic_index": 90,
-      "status": "critical",
-      "main_cause": "食料不足、経済危機、政治的混乱",
-      "incidents": [
+          "severity": 65,
+          "description": "パキスタンでJKJAACがムハッラムの期限を前に重大な発表を警告し、社会への圧力が強まっています。広範な不満が高まり、さらなる混乱につながる可能性が懸念されます。",
+          "source": "ANI News"
+        },
         {
-          "title": "50 days of protests, food shortage, state of emergency: What is happening in Bolivia?",
-          "location": "Bolivia",
-          "severity": 95,
-          "description": "ボリビアでは50日間にわたる抗議デモが続き、食料不足が深刻化し、非常事態宣言が発令されています。社会インフラの麻痺や無秩序な状態が広がり、人道危機が懸念されます。",
-          "source": "Hindustan Times"
+          "title": "インド・ヒマーチャル州での宗教的対立を巡る社会不安警告",
+          "location": "Himachal, India",
+          "severity": 65,
+          "description": "インドのヒマーチャル州指導者が、イスラム教徒を怒らせた不快な投稿を巡る社会不安を警告しました。宗教的緊張はしばしば大規模な衝突に発展し、秩序を乱す可能性があります。",
+          "source": "خبرگزاری بین المللی قرآن"
+        },
+        {
+          "title": "グレートニコバル島での深刻な燃料危機",
+          "location": "Great Nicobar, India",
+          "severity": 60,
+          "description": "インドのグレートニコバル島で燃料危機が再燃し、ガソリンの在庫が枯渇。住民は生活に苦しみ、必需品の不足が人々の不安を増大させています。",
+          "source": "ANDAMAN SHEEKHA"
+        },
+        {
+          "title": "ネパール・ラシュトリヤ・バニジヤ銀行での担保金消失に対する抗議",
+          "location": "Nepal (Rastriya Banijya Bank)",
+          "severity": 50,
+          "description": "ネパールのラシュトリヤ・バニジヤ銀行で、借り手たちが担保として預けた金が消失したことに抗議しています。これは金融機関への不信感を煽り、社会的な緊張を引き起こしています。",
+          "source": "Khabarhub / Ratopati"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 70,
-      "status": "critical",
-      "main_cause": "エネルギー不足、社会・政治的不満、宗教的緊張",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "労働問題",
       "incidents": [
         {
-          "title": "Great Nicobar Faces Fresh Fuel Crisis; Residents Struggle as Petrol Stocks Run Dry",
-          "location": "Great Nicobar Island, India",
-          "severity": 85,
-          "description": "インドの大ニコバル島で深刻な燃料危機が発生し、ガソリンが枯渇。住民は日常生活に大きな支障をきたしており、社会機能の停止が危惧される深刻なパニック状態です。",
-          "source": "ANDAMAN SHEEKHA"
-        },
-        {
-          "title": "NEET protest at Jantar Mantar: How US-based Osman Faizan Ali is using social media to incite and radicalise youth for an insurrection",
-          "location": "Jantar Mantar, India",
-          "severity": 80,
-          "description": "インドのジャンタル・マンタルでNEET（全国統一試験）を巡る抗議デモが発生。ソーシャルメディアを通じて若者が暴動へと煽動されているとの報道があり、社会秩序が脅かされる可能性が高まっています。",
-          "source": "opindia.com"
-        },
-        {
-          "title": "All India RRB Strike Scheduled for August 4 Amid 12-Point Charter of Demands",
-          "location": "India (Nationwide)",
-          "severity": 65,
-          "description": "インドで全インド鉄道労組が8月4日に全国規模のストライキを計画。12項目にわたる要求が提示されており、鉄道インフラの麻痺が社会に大きな影響を与え、広範な混乱を招く可能性があります。",
-          "source": "Thekanal"
-        },
-        {
-          "title": "Bangladesh: Hindu groups protest after deity Ram’s picture allegedly desecrated",
-          "location": "Bangladesh",
-          "severity": 50,
-          "description": "バングラデシュでヒンドゥー教の神の絵が冒涜されたとしてヒンドゥー教徒団体が抗議デモを実施。宗教間の緊張が高まり、暴動に発展するリスクを伴う社会不安が見られます。",
-          "source": "Scroll.in"
-        },
-        {
-          "title": "350 investors protest Rs 15-20 crore fraud by Chandu Group in Vizag",
-          "location": "Vizag, India",
+          "title": "バングラデシュ・チッタゴンでのイスラム銀行従業員による抗議",
+          "location": "Chittagong, Bangladesh",
           "severity": 40,
-          "description": "インドのヴィザグで350人の投資家がChandu Groupによる大規模な投資詐欺に抗議。金融市場への信頼喪失を招きかねない事態であり、経済的な不満が顕在化しています。",
-          "source": "The News Mill"
+          "description": "バングラデシュのチッタゴンで解雇されたイスラム銀行の従業員が抗議活動を行っています。これは特定の労働グループにおける不満の表れであり、地域的な社会不安を引き起こしています。",
+          "source": "businesstimes-bd.com"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "公共サービスの不足",
+      "incidents": [
+        {
+          "title": "ガンビアでの電力・水不足に関する最後通牒",
+          "location": "Gambia",
+          "severity": 60,
+          "description": "GALAがガンビアのNAWECに対し、電力と水不足を解消するよう最後通牒を突きつけました。基本的な公共サービスの慢性的な不足は住民の生活を脅かし、不満が爆発寸前の状況です。",
+          "source": "The Point.gm"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "金融市場の安定性への懸念",
+      "incidents": [
+        {
+          "title": "イングランド銀行によるステーブルコイン規制緩和",
+          "location": "UK",
+          "severity": 40,
+          "description": "イングランド銀行がポンド建てステーブルコインの保有制限を撤廃し、400億ポンドの上限を設定しました。これは金融市場の安定化を目指す動きですが、潜在的な不安要素が存在することを示唆しています。",
+          "source": "Crypto Briefing"
+        }
+      ]
+    },
+    {
+      "region": "australia",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "社会秩序の混乱",
+      "incidents": [
+        {
+          "title": "中央オーストラリアでの暴力的社会不安",
+          "location": "Central Australia",
+          "severity": 65,
+          "description": "中央オーストラリアで暴力的な社会不安が発生し、2人の男性が逮捕され保釈が拒否されました。この事態は地域の秩序が乱れていることを示唆し、住民に不安を与えています。",
+          "source": "streamlinefeed.co.ke"
         }
       ]
     }
