@@ -1,145 +1,136 @@
 {
   "date": "2026-06-22",
-  "summary": "世界全体で社会不安が増加傾向にあり、特に南アジアでは暴力的な抗議デモ、生活必需品不足、宗教的緊張が頻発し、警戒レベルに達しています。北米では金融システムの潜在的な脆弱性と医療資源の不足が懸念されています。広範なパニックには至っていないものの、地域によっては社会秩序の不安定化が進んでおり、今後の動向に注視が必要です。",
-  "global_panic_index": 50,
+  "summary": "世界各地で散発的な社会不安や抗議活動が見られますが、広範なパニック状態には至っていません。南アジアでは金融機関への不満、資源不足、政治・宗教的緊張を背景としたデモが頻発し、一部では暴力的な衝突も報告されています。アフリカでは大規模デモの計画と生活インフラの不足が懸念材料です。仮想通貨市場では取り付け騒ぎが発生し、投資家心理に影響を与えています。北米と東アジアは比較的安定しており、特定の物資不足や平和的なデモが中心です。",
+  "global_panic_index": 48,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "金融システムの潜在的不安、医療資源の不足",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "医療物資の供給不足",
       "incidents": [
         {
-          "title": "米国銀行の巨額な未実現損失",
-          "location": "米国",
-          "severity": 60,
-          "description": "米国銀行が3250億ドルもの未実現損失に直面しており、金融システムの脆弱性が露呈しています。直接的な取り付け騒ぎはないものの、広範な金融不安の引き金となる可能性があります。",
-          "source": "Crypto Briefing"
+          "title": "OKC血液バンク、供給不足で緊急献血を呼びかけ",
+          "location": "米国、オクラホマシティ",
+          "severity": 40,
+          "description": "オクラホマシティの血液バンクで血液が著しく不足しており、医療提供体制への潜在的な懸念が高まっている。市民に対して緊急に献血が呼びかけられている状況。",
+          "source": "mustangnews.info"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "仮想通貨市場の金融不安",
+      "incidents": [
+        {
+          "title": "Altura USDT Vaultが$8.5Mの取り付け騒ぎにより閉鎖",
+          "location": "グローバル（仮想通貨市場）",
+          "severity": 55,
+          "description": "仮想通貨AlturaのUSDT Vaultが850万ドルの大規模な引き出しに直面し閉鎖された。これは関連のない危機が引き金となったもので、仮想通貨市場の投資家心理に不安を広げている。",
+          "source": "The Cryptonomist"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 60,
+      "status": "volatile",
+      "main_cause": "資源不足、大規模抗議活動の計画",
+      "incidents": [
+        {
+          "title": "南アフリカ、来週の全国的なシャットダウンに厳戒態勢",
+          "location": "南アフリカ",
+          "severity": 70,
+          "description": "南アフリカ政府は、来週予定されている全国的なシャットダウン（大規模な抗議活動）に備え、治安維持のために厳戒態勢を敷いている。広範な社会混乱への懸念が高まっている。",
+          "source": "Business Tech"
         },
         {
-          "title": "オクラホマシティでの血液不足",
-          "location": "Oklahoma City, US",
+          "title": "ガンビアで電力・水不足の解消を求める最後通告",
+          "location": "ガンビア",
           "severity": 55,
-          "description": "オクラホマシティの血液銀行で深刻な血液不足が発生し、緊急の献血が呼びかけられています。医療供給体制の途絶は、住民の生命と健康に直接的な不安をもたらします。",
-          "source": "mustangnews.info"
+          "description": "GALAはNAWECに対し、深刻な電力と水不足を解消するよう最後通告を突きつけた。生活必需品の供給不足は国民の不満を増大させ、社会不安の大きな原因となっている。",
+          "source": "The Point.gm"
+        },
+        {
+          "title": "南アフリカで6月30日に大規模抗議デモが計画",
+          "location": "南アフリカ",
+          "severity": 60,
+          "description": "6月30日に計画されている大規模な抗議デモは、その費用がR6億に上ると見積もられており、社会的な緊張と経済への影響が懸念されている。市民の不満が顕在化している。",
+          "source": "eNCA"
         }
       ]
     },
     {
       "region": "east_asia",
       "panic_index": 35,
-      "status": "unstable",
-      "main_cause": "政治的抗議の長期化",
+      "status": "stable",
+      "main_cause": "政治的・社会的主張",
       "incidents": [
         {
-          "title": "韓国での長期化する抗議デモと警察の介入",
-          "location": "South Korea (Jamsil)",
-          "severity": 50,
-          "description": "韓国の蚕室地域における投票関連の抗議活動が18日目を迎え、警察は不法行為への厳格な対応を表明しています。デモの長期化と当局の強硬姿勢が社会の緊張を高めています。",
-          "source": "CHOSUNBIZ / 헤럴드경제"
+          "title": "韓国警察、蚕室の投票抗議に関連する36件を捜査",
+          "location": "韓国、蚕室",
+          "severity": 40,
+          "description": "韓国の警察が蚕室での投票抗議活動に関連する36件の事件について捜査を進めている。これは選挙後の社会的な意見対立と緊張が背景にあることを示唆している。",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "日本で国会前反戦デモ、高校生らが政治への関心を訴え",
+          "location": "日本、東京（国会前、中野）",
+          "severity": 30,
+          "description": "国会前や中野駅周辺で反戦デモが行われ、高校生を含む約300人が政治への関心を訴えた。平和的な社会運動であり、直接的なパニック状況には至っていない。",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "日本で「ヘイトにNO」デモ、外国人支援者が送還の危険を訴え",
+          "location": "日本、東京（国会前）",
+          "severity": 30,
+          "description": "国会前で外国人支援者らが「ヘイトにNO」を掲げ、外国人の送還が命の危険につながる可能性を訴えるデモを行った。人権に関する社会的な関心の表れ。",
+          "source": "朝日新聞"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 70,
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "暴力的抗議、生活必需品不足、政治的・宗教的緊張",
+      "main_cause": "金融機関への不満、資源不足、政治的・宗教的緊張",
       "incidents": [
         {
-          "title": "インド・マニプール州での暴力的抗議デモ",
-          "location": "Kangpokpi, Manipur, India",
-          "severity": 75,
-          "description": "マニプール州カンポクピで高速道路封鎖デモが暴徒化し、治安部隊との衝突で3人が負傷しました。交通インフラの機能不全と暴力行為は、社会秩序の重大な混乱を示しています。",
+          "title": "マニプール、高速道路封鎖抗議が暴徒化し3名負傷",
+          "location": "インド、マニプール州カンポクピ",
+          "severity": 85,
+          "description": "高速道路封鎖を伴う抗議活動が暴徒化し、治安部隊との衝突が発生して3名が負傷した。これは地域の治安が著しく悪化し、社会秩序が混乱している状況を示唆している。",
           "source": "India Today NE"
         },
         {
-          "title": "パキスタンでの社会不安警告",
-          "location": "Pakistan",
-          "severity": 65,
-          "description": "パキスタンでJKJAACがムハッラムの期限を前に重大な発表を警告し、社会への圧力が強まっています。広範な不満が高まり、さらなる混乱につながる可能性が懸念されます。",
-          "source": "ANI News"
+          "title": "インドの農民、ディーゼル不足に抗議し300台のトラクターでデモ",
+          "location": "インド、バスタール、ビジャプール",
+          "severity": 70,
+          "description": "播種期を前に深刻なディーゼル不足に直面した農民が、300台のトラクターを連ねて大規模な抗議デモを実施。食料生産への懸念と農業部門の不満が爆発寸前となっている。",
+          "source": "The Times of India"
         },
         {
-          "title": "インド・ヒマーチャル州での宗教的対立を巡る社会不安警告",
-          "location": "Himachal, India",
+          "title": "ネパールで金担保紛失に顧客が抗議",
+          "location": "ネパール、ラシュトリヤ・バニジヤ銀行",
           "severity": 65,
-          "description": "インドのヒマーチャル州指導者が、イスラム教徒を怒らせた不快な投稿を巡る社会不安を警告しました。宗教的緊張はしばしば大規模な衝突に発展し、秩序を乱す可能性があります。",
-          "source": "خبرگزاری بین المللی قرآن"
+          "description": "ラシュトリヤ・バニジヤ銀行で顧客の金担保が紛失したことに対し、多数の顧客が抗議デモを実施。金融機関への信頼が揺らぎ、預金者の間に不安が広がっている。",
+          "source": "Khabarhub"
         },
         {
-          "title": "グレートニコバル島での深刻な燃料危機",
-          "location": "Great Nicobar, India",
+          "title": "インド、冒涜的投稿が引き起こす社会不安を警告",
+          "location": "インド、ヒマーチャル・プラデーシュ州",
+          "severity": 70,
+          "description": "イスラム教徒の怒りを買った冒涜的な投稿について、ヒマーチャル州の指導者が社会不安の拡大を警告。宗教間の緊張が高まり、大規模な衝突に発展する危険性がある。",
+          "source": " خبرگزاری بین المللی قرآن"
+        },
+        {
+          "title": "パキスタン郵便再編が新たな社会不安を引き起こす",
+          "location": "パキスタン",
           "severity": 60,
-          "description": "インドのグレートニコバル島で燃料危機が再燃し、ガソリンの在庫が枯渇。住民は生活に苦しみ、必需品の不足が人々の不安を増大させています。",
-          "source": "ANDAMAN SHEEKHA"
-        },
-        {
-          "title": "ネパール・ラシュトリヤ・バニジヤ銀行での担保金消失に対する抗議",
-          "location": "Nepal (Rastriya Banijya Bank)",
-          "severity": 50,
-          "description": "ネパールのラシュトリヤ・バニジヤ銀行で、借り手たちが担保として預けた金が消失したことに抗議しています。これは金融機関への不信感を煽り、社会的な緊張を引き起こしています。",
-          "source": "Khabarhub / Ratopati"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "労働問題",
-      "incidents": [
-        {
-          "title": "バングラデシュ・チッタゴンでのイスラム銀行従業員による抗議",
-          "location": "Chittagong, Bangladesh",
-          "severity": 40,
-          "description": "バングラデシュのチッタゴンで解雇されたイスラム銀行の従業員が抗議活動を行っています。これは特定の労働グループにおける不満の表れであり、地域的な社会不安を引き起こしています。",
-          "source": "businesstimes-bd.com"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "公共サービスの不足",
-      "incidents": [
-        {
-          "title": "ガンビアでの電力・水不足に関する最後通牒",
-          "location": "Gambia",
-          "severity": 60,
-          "description": "GALAがガンビアのNAWECに対し、電力と水不足を解消するよう最後通牒を突きつけました。基本的な公共サービスの慢性的な不足は住民の生活を脅かし、不満が爆発寸前の状況です。",
-          "source": "The Point.gm"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "金融市場の安定性への懸念",
-      "incidents": [
-        {
-          "title": "イングランド銀行によるステーブルコイン規制緩和",
-          "location": "UK",
-          "severity": 40,
-          "description": "イングランド銀行がポンド建てステーブルコインの保有制限を撤廃し、400億ポンドの上限を設定しました。これは金融市場の安定化を目指す動きですが、潜在的な不安要素が存在することを示唆しています。",
-          "source": "Crypto Briefing"
-        }
-      ]
-    },
-    {
-      "region": "australia",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "社会秩序の混乱",
-      "incidents": [
-        {
-          "title": "中央オーストラリアでの暴力的社会不安",
-          "location": "Central Australia",
-          "severity": 65,
-          "description": "中央オーストラリアで暴力的な社会不安が発生し、2人の男性が逮捕され保釈が拒否されました。この事態は地域の秩序が乱れていることを示唆し、住民に不安を与えています。",
-          "source": "streamlinefeed.co.ke"
+          "description": "パキスタン郵便の再編計画が国民の間に新たな社会不安を引き起こしている。公共サービスの変更に対する不満が表面化し、社会の不安定化要因となっている。",
+          "source": "The Express Tribune"
         }
       ]
     }
