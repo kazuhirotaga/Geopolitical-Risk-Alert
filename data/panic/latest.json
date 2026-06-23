@@ -1,121 +1,107 @@
 {
   "date": "2026-06-23",
-  "summary": "現在、世界各地で地域的な社会不安と緊張が高まっている。特にアフリカ南部（南アフリカ）では、全国的なシャットダウンの予告や反移民暴動への厳戒態勢が敷かれ、広範な社会混乱が差し迫っている。ヨーロッパ（英国）でも反移民の抗議と暴力が確認され、社会の分断が深刻化している。東南アジア地域（インド、バングラデシュ）では、農業の根幹を揺るがすエネルギー不足に対する大規模な農民抗議や、金融機関への不信に起因するデモが頻発しており、経済的・社会的不満が顕在化している。北米では比較的落ち着いているが、特定の政策に対する抗議活動は見られる。全体として、社会インフラの麻痺や略奪といった本格的なパニックには至っていないものの、複数の地域で「警戒状態」にあり、今後の動向が注視される。",
-  "global_panic_index": 68,
+  "summary": "世界各地で多様な社会不安の兆候が見られます。特にアフリカ南部では大規模な反移民デモの発生が警戒され、治安部隊の動員準備が進むなど、緊迫度が高い状況です。東南アジア地域では、ディーゼル不足に起因する農民の大規模デモや、銀行の危機、金融詐欺に対する抗議が頻発しており、経済的な不満と社会不安が連動しています。欧米では、反移民感情や企業倫理を巡るデモが見られるものの、全体的なパニック状態には至っていません。",
+  "global_panic_index": 55,
   "regions": [
     {
-      "region": "africa",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "政治的抗議、反移民感情、治安悪化",
-      "incidents": [
-        {
-          "title": "South Africa on high alert for national shutdown next week",
-          "location": "South Africa",
-          "severity": 85,
-          "description": "来週予定されている全国的なシャットダウンに対し、南アフリカが厳戒態勢を敷いている。広範な経済活動の停止と社会混乱の脅威が高まっている。",
-          "source": "Business Tech"
-        },
-        {
-          "title": "SAPS launches R600m operation to counter anti-immigrant unrest ahead of 30 June deadline",
-          "location": "South Africa",
-          "severity": 80,
-          "description": "反移民暴動に対抗するため、南アフリカ警察が大規模な作戦を開始。政府レベルでの危機感と大規模な社会不安の懸念が示されている。",
-          "source": "Daily Maverick"
-        },
-        {
-          "title": "Western Cape government mobilises security forces as illegal immigration protest threaten unrest",
-          "location": "Western Cape, South Africa",
-          "severity": 75,
-          "description": "不法移民抗議が暴動に発展する恐れがあるため、西ケープ州政府が治安部隊を動員。地域の緊張の高まりと社会秩序への脅威が見られる。",
-          "source": "IOL"
-        },
-        {
-          "title": "Planned 30 June protest has R600million price tag - Cachalia",
-          "location": "South Africa",
-          "severity": 65,
-          "description": "6月30日に計画されている大規模な抗議活動に対し、当局が厳重な警戒。それに伴う社会的な混乱と経済的影響が懸念されている。",
-          "source": "eNCA"
-        },
-        {
-          "title": "Motshekga says no current indication of widespread unrest on 30 June",
-          "location": "South Africa",
-          "severity": 60,
-          "description": "政府高官が6月30日の広範な暴動の兆候はないと発言。これは、社会に暴動の懸念が広く存在することの裏返しであり、潜在的な不安を示す。",
-          "source": "EWN"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 56,
-      "status": "unstable",
-      "main_cause": "エネルギー不足、金融不安、農民の不満",
-      "incidents": [
-        {
-          "title": "What brought Islami Bank back to crisis?",
-          "location": "Bangladesh",
-          "severity": 70,
-          "description": "バングラデシュのイスラム銀行が再び危機に陥っているとの報道。金融システムへの信頼喪失と取り付け騒ぎへの発展の可能性があり、社会不安を高めている。",
-          "source": "The Business Standard"
-        },
-        {
-          "title": "300 tractors roll into Bijapur as farmers protest diesel shortage ahead of monsoon sowing season",
-          "location": "Bijapur, India",
-          "severity": 70,
-          "description": "モンスーン播種期を前にしたディーゼル不足に抗議し、300台のトラクターがビジャプールに集結。食料生産への深刻な影響と大規模な農民の不満が噴出している。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Farmers hold protest march in Faridkot, demand action against bank managers cheating farmers",
-          "location": "Faridkot, India",
-          "severity": 55,
-          "description": "インドの農民が銀行幹部による詐欺行為に対し抗議デモを実施。金融機関への不信感と生活困窮に起因する社会的不満が表面化している。",
-          "source": "The Tribune"
-        },
-        {
-          "title": "Baghel leads protest over ‘fake’ NOCs, land grabbing",
-          "location": "India",
-          "severity": 55,
-          "description": "インドで「偽のNOCs」と土地の略奪に対する抗議デモ。土地問題は住民の生活基盤に直結し、根深い不満の表れとなっている。",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Farmers allege Rs 50-crore loan scam, stage protest",
-          "location": "India",
-          "severity": 55,
-          "description": "インドで農民が50億ルピーのローン詐欺を主張し抗議デモ。金融機関への不信感と農民の経済的困窮が広範な社会不安を引き起こしている。",
-          "source": "orissapost.com"
-        }
-      ]
-    },
-    {
       "region": "europe",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "反移民感情、社会の分断、暴力行為",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "反移民感情、社会的分断",
       "incidents": [
         {
-          "title": "Anti-Immigrant Protest and Violence in the United Kingdom",
+          "title": "英国における反移民抗議と暴力",
           "location": "United Kingdom",
-          "severity": 75,
-          "description": "英国で反移民抗議と暴力が発生。社会の分断が深刻化し、治安悪化の懸念が高まっている。特定のグループ間の対立が暴力行為に発展する可能性が危惧される。",
+          "severity": 55,
+          "description": "英国で反移民を巡る抗議デモが発生し、一部で暴力行為が報告されています。社会的な分断が顕在化し、治安への懸念が高まっています。",
           "source": "SafeAbroad"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 50,
+      "panic_index": 35,
       "status": "unstable",
-      "main_cause": "政治的・社会的抗議",
+      "main_cause": "企業の倫理問題、人権問題",
       "incidents": [
         {
-          "title": "Citizens Bank faces statewide NJ protests over ICE detention financing",
-          "location": "New Jersey, USA",
-          "severity": 50,
-          "description": "米国ニュージャージー州でICE拘留への資金提供を巡り、市民銀行に対する抗議デモが実施されている。特定の政策に対する不満が市民の間で高まっている。",
+          "title": "市民銀行に対する州規模の抗議デモ",
+          "location": "New Jersey, United States",
+          "severity": 40,
+          "description": "ニュージャージー州で、ある市民銀行が移民拘留施設への融資を行っていることに対し、州全体で抗議デモが行われています。企業の倫理問題が社会の不満を引き起こしています。",
           "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "反移民騒乱の脅威",
+      "incidents": [
+        {
+          "title": "反移民騒乱対策に6億ランドを投じる作戦を開始",
+          "location": "South Africa",
+          "severity": 75,
+          "description": "南アフリカ警察は、6月30日を期限とした反移民を巡る大規模な社会不安に備え、6億ランド（約30億円）を投じる大規模な作戦を開始しました。広範な混乱が予想されており、警戒レベルが高まっています。",
+          "source": "Daily Maverick"
+        },
+        {
+          "title": "不法移民抗議への対応で治安部隊を動員",
+          "location": "Western Cape, South Africa",
+          "severity": 70,
+          "description": "西ケープ州政府は、不法移民に関する抗議活動が社会不安を脅かす事態を受け、治安部隊の動員体制を強化しています。暴動への発展が懸念されます。",
+          "source": "IOL"
+        },
+        {
+          "title": "6月30日抗議デモに巨額の費用",
+          "location": "South Africa",
+          "severity": 65,
+          "description": "計画されている6月30日の抗議デモには、その準備と対応に巨額の費用が見込まれています。大規模なデモが予定されており、社会情勢への影響が懸念されています。",
+          "source": "eNCA"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "エネルギー不足、金融不安、経済詐欺、土地問題",
+      "incidents": [
+        {
+          "title": "ディーゼル不足に抗議する農民のデモ",
+          "location": "Bijapur, India",
+          "severity": 70,
+          "description": "モンスーンの種まき期を前に、ディーゼル不足に抗議するため300台のトラクターがビジャープルに集結しました。農業生産への影響、ひいては食料供給への懸念が高まっています。",
+          "source": "The Times of India"
+        },
+        {
+          "title": "イスラミ銀行が再び危機に直面",
+          "location": "Bangladesh",
+          "severity": 65,
+          "description": "バングラデシュのイスラミ銀行が再び危機的状況に陥っており、国内で金融不安が広がる可能性が指摘されています。取り付け騒ぎへの発展が懸念されます。",
+          "source": "The Business Standard"
+        },
+        {
+          "title": "農民が5億ルピー規模のローン詐欺に抗議",
+          "location": "India",
+          "severity": 60,
+          "description": "インドの農民らが、5億ルピー規模のローン詐欺被害を訴え、抗議デモを行っています。経済的な困窮が社会的な不満を引き起こしています。",
+          "source": "orissapost.com"
+        },
+        {
+          "title": "偽のNOCと土地強奪に対する抗議デモ",
+          "location": "India",
+          "severity": 55,
+          "description": "偽の異議なし証明書（NOC）と土地強奪問題を巡り、インドで大規模な抗議デモが発生しています。土地所有権を巡る不正が社会問題化しています。",
+          "source": "The Times of India"
+        },
+        {
+          "title": "「混乱を招く試み」に対する抗議",
+          "location": "Shahbagh, Bangladesh",
+          "severity": 50,
+          "description": "バングラデシュのシャバグで、ある政治団体が「混乱を招く試み」に対して抗議デモを行っています。政治的対立が社会不安を高める可能性があります。",
+          "source": "United News of Bangladesh"
         }
       ]
     }
