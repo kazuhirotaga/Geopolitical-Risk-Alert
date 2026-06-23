@@ -1,137 +1,123 @@
 {
   "date": "2026-06-23",
-  "summary": "現在、世界各地で複数のパニックと社会不安の兆候が見られます。特に南アジアとアフリカでは、大規模な抗議活動、生活インフラの危機、金融機関への不信、さらには暴力的な衝突が広範囲で報告されており、社会秩序が危機に瀕している状況です。中東のレバノンでは医療物資の深刻な不足が差し迫っており、人道的なパニックが懸念されます。全体としては地域的な集中度が高く、油断できない状況が続いています。",
-  "global_panic_index": 70,
+  "summary": "現在、世界各地で地域的な社会不安と緊張が高まっている。特にアフリカ南部（南アフリカ）では、全国的なシャットダウンの予告や反移民暴動への厳戒態勢が敷かれ、広範な社会混乱が差し迫っている。ヨーロッパ（英国）でも反移民の抗議と暴力が確認され、社会の分断が深刻化している。東南アジア地域（インド、バングラデシュ）では、農業の根幹を揺るがすエネルギー不足に対する大規模な農民抗議や、金融機関への不信に起因するデモが頻発しており、経済的・社会的不満が顕在化している。北米では比較的落ち着いているが、特定の政策に対する抗議活動は見られる。全体として、社会インフラの麻痺や略奪といった本格的なパニックには至っていないものの、複数の地域で「警戒状態」にあり、今後の動向が注視される。",
+  "global_panic_index": 68,
   "regions": [
     {
       "region": "africa",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "大規模デモの脅威、反移民暴動への警戒、生活インフラ不足",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "政治的抗議、反移民感情、治安悪化",
       "incidents": [
         {
-          "title": "Planned 30 June protest has R600million price tag - Cachalia",
-          "location": "南アフリカ",
+          "title": "South Africa on high alert for national shutdown next week",
+          "location": "South Africa",
           "severity": 85,
-          "description": "南アフリカで6月30日に計画されている大規模な抗議デモは、その費用が6億ランドに上るとされ、経済的・社会的な混乱が懸念されています。",
-          "source": "eNCA"
-        },
-        {
-          "title": "GALA gives NAWEC ultimatum to end electricity, water shortage",
-          "location": "ガンビア",
-          "severity": 80,
-          "description": "ガンビアのNAWECに対し、電力と水不足を解決するための最後通牒が出されており、生活インフラの危機が市民の不安を高めています。",
-          "source": "The Point.gm"
+          "description": "来週予定されている全国的なシャットダウンに対し、南アフリカが厳戒態勢を敷いている。広範な経済活動の停止と社会混乱の脅威が高まっている。",
+          "source": "Business Tech"
         },
         {
           "title": "SAPS launches R600m operation to counter anti-immigrant unrest ahead of 30 June deadline",
-          "location": "南アフリカ",
-          "severity": 90,
-          "description": "南アフリカ警察は、6月30日の期限を前に反移民暴動に対処するため、6億ランド規模の作戦を開始しました。広範な社会不安と治安悪化の懸念があります。",
+          "location": "South Africa",
+          "severity": 80,
+          "description": "反移民暴動に対抗するため、南アフリカ警察が大規模な作戦を開始。政府レベルでの危機感と大規模な社会不安の懸念が示されている。",
           "source": "Daily Maverick"
         },
         {
-          "title": "South Africa on high alert for national shutdown next week",
-          "location": "南アフリカ",
-          "severity": 85,
-          "description": "南アフリカでは来週の全国的なシャットダウンに備え、厳戒態勢が敷かれています。これにより、経済活動の停止やさらなる社会不安が危惧されます。",
-          "source": "Business Tech"
+          "title": "Western Cape government mobilises security forces as illegal immigration protest threaten unrest",
+          "location": "Western Cape, South Africa",
+          "severity": 75,
+          "description": "不法移民抗議が暴動に発展する恐れがあるため、西ケープ州政府が治安部隊を動員。地域の緊張の高まりと社会秩序への脅威が見られる。",
+          "source": "IOL"
+        },
+        {
+          "title": "Planned 30 June protest has R600million price tag - Cachalia",
+          "location": "South Africa",
+          "severity": 65,
+          "description": "6月30日に計画されている大規模な抗議活動に対し、当局が厳重な警戒。それに伴う社会的な混乱と経済的影響が懸念されている。",
+          "source": "eNCA"
+        },
+        {
+          "title": "Motshekga says no current indication of widespread unrest on 30 June",
+          "location": "South Africa",
+          "severity": 60,
+          "description": "政府高官が6月30日の広範な暴動の兆候はないと発言。これは、社会に暴動の懸念が広く存在することの裏返しであり、潜在的な不安を示す。",
+          "source": "EWN"
         }
       ]
     },
     {
       "region": "southeast_asia",
-      "panic_index": 90,
-      "status": "critical",
-      "main_cause": "複合的な経済・社会問題、金融不安、エネルギー不足、政治的・宗教的対立",
+      "panic_index": 56,
+      "status": "unstable",
+      "main_cause": "エネルギー不足、金融不安、農民の不満",
       "incidents": [
         {
+          "title": "What brought Islami Bank back to crisis?",
+          "location": "Bangladesh",
+          "severity": 70,
+          "description": "バングラデシュのイスラム銀行が再び危機に陥っているとの報道。金融システムへの信頼喪失と取り付け騒ぎへの発展の可能性があり、社会不安を高めている。",
+          "source": "The Business Standard"
+        },
+        {
           "title": "300 tractors roll into Bijapur as farmers protest diesel shortage ahead of monsoon sowing season",
-          "location": "インド（ビジャプール）",
-          "severity": 85,
-          "description": "インドのビジャプールで300台のトラクターが抗議デモを行い、モンスーン期の種まきを前にした深刻なディーゼル不足に対する農民の怒りが高まっています。",
+          "location": "Bijapur, India",
+          "severity": 70,
+          "description": "モンスーン播種期を前にしたディーゼル不足に抗議し、300台のトラクターがビジャプールに集結。食料生産への深刻な影響と大規模な農民の不満が噴出している。",
           "source": "The Times of India"
         },
         {
-          "title": "Highway shutdown protest turns violent in Manipur’s Kangpokpi, 3 injured during clash with security forces",
-          "location": "インド（マンディプル州カンポクピ）",
-          "severity": 95,
-          "description": "インドのマンディプル州で、幹線道路封鎖抗議デモが暴徒化し、治安部隊との衝突で3人が負傷しました。社会秩序の深刻な混乱を示しています。",
-          "source": "India Today NE"
+          "title": "Farmers hold protest march in Faridkot, demand action against bank managers cheating farmers",
+          "location": "Faridkot, India",
+          "severity": 55,
+          "description": "インドの農民が銀行幹部による詐欺行為に対し抗議デモを実施。金融機関への不信感と生活困窮に起因する社会的不満が表面化している。",
+          "source": "The Tribune"
         },
         {
-          "title": "Customers Protest at Rastriya Banijya Bank Over Stolen Gold Collateral",
-          "location": "ネパール",
-          "severity": 80,
-          "description": "ネパールのラシュトリヤ・バニジヤ銀行で、盗まれた金担保を巡り顧客が抗議デモを行っています。金融機関への不信感が募り、取り付け騒ぎに発展する懸念があります。",
-          "source": "Ratopati"
+          "title": "Baghel leads protest over ‘fake’ NOCs, land grabbing",
+          "location": "India",
+          "severity": 55,
+          "description": "インドで「偽のNOCs」と土地の略奪に対する抗議デモ。土地問題は住民の生活基盤に直結し、根深い不満の表れとなっている。",
+          "source": "The Times of India"
         },
         {
-          "title": "Dismissed Islamic Bank Employees Protest in Chittagong",
-          "location": "バングラデシュ（チッタゴン）",
-          "severity": 75,
-          "description": "バングラデシュのチッタゴンで、解雇されたイスラム銀行の従業員が復職を求めて抗議デモを行っています。経済的な不安が社会不安に繋がっています。",
-          "source": "businesstimes-bd.com"
-        },
-        {
-          "title": "India’s Himachal Leaders Warn of Unrest over Offensive Post that Has Angered Muslims",
-          "location": "インド（ヒマーチャル）",
-          "severity": 80,
-          "description": "インドのヒマーチャル州の指導者たちは、イスラム教徒を怒らせた不適切な投稿により、社会不安が生じる可能性があると警告しています。宗教間の緊張が高まっています。",
-          "source": "خبرگزاری بین المللی قرآن"
+          "title": "Farmers allege Rs 50-crore loan scam, stage protest",
+          "location": "India",
+          "severity": 55,
+          "description": "インドで農民が50億ルピーのローン詐欺を主張し抗議デモ。金融機関への不信感と農民の経済的困窮が広範な社会不安を引き起こしている。",
+          "source": "orissapost.com"
         }
       ]
     },
     {
-      "region": "middle_east",
+      "region": "europe",
       "panic_index": 75,
       "status": "volatile",
-      "main_cause": "医療物資の深刻な不足",
+      "main_cause": "反移民感情、社会の分断、暴力行為",
       "incidents": [
         {
-          "title": "Lebanon’s hospitals may run out of vital medical supplies within days, WHO warns",
-          "location": "レバノン",
-          "severity": 90,
-          "description": "WHOは、レバノンの病院が数日以内に生命維持に必要な医療物資を使い果たす可能性があると警告しました。これは人道的なパニックと社会崩壊の危機を示しています。",
-          "source": "DD News"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "長期化する抗議デモ",
-      "incidents": [
-        {
-          "title": "Police vow firm response to illegal acts at Olympic Park protest, now in 18th day",
-          "location": "韓国",
-          "severity": 60,
-          "description": "韓国で18日間にわたり続いているオリンピック公園での抗議デモに対し、警察は違法行為への厳格な対応を表明しました。長期化するデモは社会に緊張をもたらしています。",
-          "source": "헤럴드경제"
+          "title": "Anti-Immigrant Protest and Violence in the United Kingdom",
+          "location": "United Kingdom",
+          "severity": 75,
+          "description": "英国で反移民抗議と暴力が発生。社会の分断が深刻化し、治安悪化の懸念が高まっている。特定のグループ間の対立が暴力行為に発展する可能性が危惧される。",
+          "source": "SafeAbroad"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "なし",
-      "incidents": []
-    },
-    {
-      "region": "europe",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "なし",
-      "incidents": []
-    },
-    {
-      "region": "south_america",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "なし",
-      "incidents": []
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "政治的・社会的抗議",
+      "incidents": [
+        {
+          "title": "Citizens Bank faces statewide NJ protests over ICE detention financing",
+          "location": "New Jersey, USA",
+          "severity": 50,
+          "description": "米国ニュージャージー州でICE拘留への資金提供を巡り、市民銀行に対する抗議デモが実施されている。特定の政策に対する不満が市民の間で高まっている。",
+          "source": "MSN"
+        }
+      ]
     }
   ]
 }
