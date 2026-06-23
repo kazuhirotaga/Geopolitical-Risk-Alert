@@ -1,108 +1,137 @@
 {
-  "date": "2026-06-22",
-  "summary": "世界各地では、一部地域で金融不安、エネルギー不足、社会・政治的不満に起因する大規模な抗議デモが散見されます。特に南アジアでは複数の抗議活動が報告され、一部で暴力的な衝突も発生しています。アフリカの一部では国家規模のシャットダウンが計画されており、警戒状態にあります。全体的なパニック状態とまでは言えないものの、局地的な社会不安が高まっています。",
-  "global_panic_index": 45,
+  "date": "2026-06-23",
+  "summary": "現在、世界各地で複数のパニックと社会不安の兆候が見られます。特に南アジアとアフリカでは、大規模な抗議活動、生活インフラの危機、金融機関への不信、さらには暴力的な衝突が広範囲で報告されており、社会秩序が危機に瀕している状況です。中東のレバノンでは医療物資の深刻な不足が差し迫っており、人道的なパニックが懸念されます。全体としては地域的な集中度が高く、油断できない状況が続いています。",
+  "global_panic_index": 70,
   "regions": [
     {
-      "region": "east_asia",
-      "panic_index": 30,
-      "status": "unstable",
-      "main_cause": "政治的・社会的不満",
+      "region": "africa",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "大規模デモの脅威、反移民暴動への警戒、生活インフラ不足",
       "incidents": [
         {
-          "title": "オリンピック公園での抗議デモ、警察が厳正対処を表明",
-          "location": "韓国",
-          "severity": 40,
-          "description": "オリンピック公園での抗議デモが18日目を迎え、警察当局が不法行為に対して厳正な対応を取ると表明しました。デモの長期化と当局の介入は、社会不安の継続性を示唆します。",
-          "source": "헤럴드경제"
+          "title": "Planned 30 June protest has R600million price tag - Cachalia",
+          "location": "南アフリカ",
+          "severity": 85,
+          "description": "南アフリカで6月30日に計画されている大規模な抗議デモは、その費用が6億ランドに上るとされ、経済的・社会的な混乱が懸念されています。",
+          "source": "eNCA"
         },
         {
-          "title": "ジャムシル投票抗議に関連する36件の警察捜査",
-          "location": "韓国",
-          "severity": 35,
-          "description": "ジャムシルでの投票に関する抗議活動に関連し、警察が36件の捜査を進めていると報じられました。政治的なデモ活動が法的な問題に発展している状況です。",
-          "source": "CHOSUNBIZ"
+          "title": "GALA gives NAWEC ultimatum to end electricity, water shortage",
+          "location": "ガンビア",
+          "severity": 80,
+          "description": "ガンビアのNAWECに対し、電力と水不足を解決するための最後通牒が出されており、生活インフラの危機が市民の不安を高めています。",
+          "source": "The Point.gm"
         },
         {
-          "title": "国会前で反戦デモ、高校生が参加",
-          "location": "日本（東京都）",
-          "severity": 20,
-          "description": "国会前で反戦デモが行われ、高校生が政治への関心を訴えました。平和的な抗議活動であり、社会秩序の混乱には至っていません。",
-          "source": "Yahoo!ニュース"
+          "title": "SAPS launches R600m operation to counter anti-immigrant unrest ahead of 30 June deadline",
+          "location": "南アフリカ",
+          "severity": 90,
+          "description": "南アフリカ警察は、6月30日の期限を前に反移民暴動に対処するため、6億ランド規模の作戦を開始しました。広範な社会不安と治安悪化の懸念があります。",
+          "source": "Daily Maverick"
         },
         {
-          "title": "国会前でヘイト反対デモ、外国人支援者ら「送還で命の危険」",
-          "location": "日本（東京都）",
-          "severity": 25,
-          "description": "外国人支援者らが国会前でヘイトに対する抗議デモを実施し、送還による命の危険性を訴えました。平和的なデモですが、人権問題への関心の高まりを示します。",
-          "source": "朝日新聞"
+          "title": "South Africa on high alert for national shutdown next week",
+          "location": "南アフリカ",
+          "severity": 85,
+          "description": "南アフリカでは来週の全国的なシャットダウンに備え、厳戒態勢が敷かれています。これにより、経済活動の停止やさらなる社会不安が危惧されます。",
+          "source": "Business Tech"
         }
       ]
     },
     {
-      "region": "south_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "金融不安、エネルギー不足、政治的・社会的不満、民族・宗教的緊張",
+      "region": "southeast_asia",
+      "panic_index": 90,
+      "status": "critical",
+      "main_cause": "複合的な経済・社会問題、金融不安、エネルギー不足、政治的・宗教的対立",
       "incidents": [
         {
-          "title": "マニプール州で高速道路閉鎖抗議が暴徒化、治安部隊と衝突し3名負傷",
-          "location": "インド（マニプール州）",
-          "severity": 80,
-          "description": "マニプール州カンポクピ地区で高速道路閉鎖抗議デモが暴徒化し、治安部隊との衝突で3名が負傷しました。大規模な抗議活動が暴力に至っており、地域の治安が不安定な状態です。",
-          "source": "India Today NE"
-        },
-        {
-          "title": "300台のトラクターでディーゼル不足に抗議",
-          "location": "インド（ビジャープル）",
-          "severity": 60,
-          "description": "モンスーン播種期を前にディーゼル不足に抗議するため、300台のトラクターがビジャープルに集結しました。農業生産への影響が懸念され、食料供給への不安に繋がりかねない事象です。",
+          "title": "300 tractors roll into Bijapur as farmers protest diesel shortage ahead of monsoon sowing season",
+          "location": "インド（ビジャプール）",
+          "severity": 85,
+          "description": "インドのビジャプールで300台のトラクターが抗議デモを行い、モンスーン期の種まきを前にした深刻なディーゼル不足に対する農民の怒りが高まっています。",
           "source": "The Times of India"
         },
         {
-          "title": "ラシュトリヤ・バニージャ銀行で金担保紛失に対する抗議デモ",
+          "title": "Highway shutdown protest turns violent in Manipur’s Kangpokpi, 3 injured during clash with security forces",
+          "location": "インド（マンディプル州カンポクピ）",
+          "severity": 95,
+          "description": "インドのマンディプル州で、幹線道路封鎖抗議デモが暴徒化し、治安部隊との衝突で3人が負傷しました。社会秩序の深刻な混乱を示しています。",
+          "source": "India Today NE"
+        },
+        {
+          "title": "Customers Protest at Rastriya Banijya Bank Over Stolen Gold Collateral",
           "location": "ネパール",
-          "severity": 55,
-          "description": "借り手や顧客が、ラシュトリヤ・バニージャ銀行での行方不明の金担保に関して抗議デモを行いました。金融機関への信頼が揺らぐ事態であり、取り付け騒ぎに発展する可能性があります。",
-          "source": "Khabarhub / Ratopati"
+          "severity": 80,
+          "description": "ネパールのラシュトリヤ・バニジヤ銀行で、盗まれた金担保を巡り顧客が抗議デモを行っています。金融機関への不信感が募り、取り付け騒ぎに発展する懸念があります。",
+          "source": "Ratopati"
         },
         {
-          "title": "イスラム銀行の解雇従業員がチッタゴンで抗議デモ",
+          "title": "Dismissed Islamic Bank Employees Protest in Chittagong",
           "location": "バングラデシュ（チッタゴン）",
-          "severity": 45,
-          "description": "イスラム銀行の解雇された従業員らがチッタゴンで復職を求めて抗議デモを実施しました。雇用不安が社会的な不満を引き起こしています。",
-          "source": "The Business Standard / businesstimes-bd.com"
+          "severity": 75,
+          "description": "バングラデシュのチッタゴンで、解雇されたイスラム銀行の従業員が復職を求めて抗議デモを行っています。経済的な不安が社会不安に繋がっています。",
+          "source": "businesstimes-bd.com"
         },
         {
-          "title": "ヒマーチャル州指導者が侮辱的な投稿に対する暴動を警告",
-          "location": "インド（ヒマーチャル州）",
-          "severity": 70,
-          "description": "ヒマーチャル州の指導者が、イスラム教徒を怒らせた侮辱的な投稿を巡り、暴動が発生する可能性について警告しました。宗教間の緊張が高まっており、大規模な社会混乱のリスクがあります。",
-          "source": " خبرگزاری بین المللی قرآن"
+          "title": "India’s Himachal Leaders Warn of Unrest over Offensive Post that Has Angered Muslims",
+          "location": "インド（ヒマーチャル）",
+          "severity": 80,
+          "description": "インドのヒマーチャル州の指導者たちは、イスラム教徒を怒らせた不適切な投稿により、社会不安が生じる可能性があると警告しています。宗教間の緊張が高まっています。",
+          "source": "خبرگزاری بین المللی قرآن"
         }
       ]
     },
     {
-      "region": "africa",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "経済不満、生活インフラ不足",
+      "region": "middle_east",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "医療物資の深刻な不足",
       "incidents": [
         {
-          "title": "南アフリカ、来週の全国シャットダウンに厳戒態勢",
-          "location": "南アフリカ",
-          "severity": 75,
-          "description": "来週予定されている全国規模のシャットダウン（抗議活動）に対し、南アフリカが厳戒態勢に入っています。大規模な抗議活動が社会インフラに深刻な影響を及ぼす可能性があります。",
-          "source": "Business Tech"
-        },
-        {
-          "title": "ガンビア、電力・水不足の解消を求める最後通牒",
-          "location": "ガンビア",
-          "severity": 40,
-          "description": "GALAがNAWECに対し、電力・水不足の解消を求める最後通牒を突きつけました。基本的な生活インフラの不足は、住民の不満を高め、将来的な抗議活動や混乱の引き金となりえます。",
-          "source": "The Point.gm"
+          "title": "Lebanon’s hospitals may run out of vital medical supplies within days, WHO warns",
+          "location": "レバノン",
+          "severity": 90,
+          "description": "WHOは、レバノンの病院が数日以内に生命維持に必要な医療物資を使い果たす可能性があると警告しました。これは人道的なパニックと社会崩壊の危機を示しています。",
+          "source": "DD News"
         }
       ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "長期化する抗議デモ",
+      "incidents": [
+        {
+          "title": "Police vow firm response to illegal acts at Olympic Park protest, now in 18th day",
+          "location": "韓国",
+          "severity": 60,
+          "description": "韓国で18日間にわたり続いているオリンピック公園での抗議デモに対し、警察は違法行為への厳格な対応を表明しました。長期化するデモは社会に緊張をもたらしています。",
+          "source": "헤럴드경제"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "europe",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "south_america",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
     }
   ]
 }
