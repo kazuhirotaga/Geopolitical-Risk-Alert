@@ -1,5 +1,122 @@
 [
   {
+    "id": "aa17faa5e9f8",
+    "title": "Trump meets defense CEOs as Iran operations strain U.S. missile stockpiles",
+    "summary": "The White House is pressing major defense firms to expand missile and munitions output as Iran talks and weapons stockpile concerns put new pressure on the Pentagon’s industrial base.",
+    "url": "https://www.cnbc.com/2026/06/24/trump-defense-contractors-boeing-lockheed-honeywell-weapons-production-iran.html",
+    "published": "2026-06-24T22:12:00+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "88e460dae4b7",
+    "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
+    "summary": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
+    "url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
+    "published": "2026-06-24T21:42:05+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "146777ffc2e3",
+    "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
+    "summary": "The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.",
+    "url": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
+    "published": "2026-06-24T21:19:27+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "7e792b1272df",
+    "title": "Micron stock jumps 12% as soaring prices from memory crunch lead to quadrupling of revenue",
+    "summary": "Micron's quarterly earnings report follows a 700% surge in the memory maker's stock price over the past year.",
+    "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+    "published": "2026-06-24T21:15:23+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "c7ec3bf267b8",
+    "title": "Qualcomm stock pops 15% after chipmaker almost doubles projection for 2029 non-handset revenue",
+    "summary": "Qualcomm's primary business has been smartphones, which accounted for two-thirds of the company's product revenue in it's most recent quarter.",
+    "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
+    "published": "2026-06-24T20:44:53+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "4a1f91a0051a",
+    "title": "New meme stock Wendy's soars more than 25% with trading halted at one point",
+    "summary": "While management changes can influence investor sentiment, the magnitude of the move suggests other forces may be at play.",
+    "url": "https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html",
+    "published": "2026-06-24T20:29:22+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "7c593fb2016d",
+    "title": "Buy Verizon over Alphabet if a history of Dow changes is any guide",
+    "summary": "Verizon's removal from the Dow may not be bad news for investors. Historical data shows deleted stocks often outperform the companies replacing them",
+    "url": "https://www.cnbc.com/2026/06/24/buy-verizon-over-alphabet-if-a-history-of-dow-changes-is-any-guide.html",
+    "published": "2026-06-24T20:01:44+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "97bfc517dda5",
+    "title": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings",
+    "summary": "AI chipmaker Cerebras has a staggered lock-up expiration that includes some shares becoming available for trading this week.",
+    "url": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
+    "published": "2026-06-24T20:01:14+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "550b1c284fe5",
+    "title": "Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish",
+    "summary": "",
+    "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
+    "published": "2026-06-24T19:52:39+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
     "id": "2ca94665a5d8",
     "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
     "summary": "",
@@ -13,37 +130,11 @@
     ]
   },
   {
-    "id": "c657af4d3b0a",
-    "title": "S&P 500 turns red as chip sell-off returns ahead of Micron earnings: Live updates",
-    "summary": "The S&P 500 pulled back on Wednesday as Micron Technology shares fell, with investors looking ahead to the release of chipmaker's earnings after the bell.",
-    "url": "https://www.cnbc.com/2026/06/23/stock-market-today-live-updates.html",
-    "published": "2026-06-24T19:37:49+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "529e23da0f29",
     "title": "How much does debt settlement cost?",
     "summary": "A debt settlement company could substantially lower your credit card bills. Find out what (and how) they charge for their services.",
     "url": "https://www.cnbc.com/select/how-much-does-debt-settlement-cost/",
     "published": "2026-06-24T19:29:56+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "1f4494ae13a4",
-    "title": "New meme stock Wendy's soars 27% with trading halted at one point",
-    "summary": "While management changes can influence investor sentiment, the magnitude of the move suggests other forces may be at play.",
-    "url": "https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html",
-    "published": "2026-06-24T19:18:36+00:00",
     "source_name": "CNBC - Top News",
     "source_type": "media",
     "language": "en",
@@ -104,19 +195,6 @@
     ]
   },
   {
-    "id": "7c593fb2016d",
-    "title": "Buy Verizon over Alphabet if a history of Dow changes is any guide",
-    "summary": "Verizon's removal from the Dow may not be bad news for investors. Historical data shows deleted stocks often outperform the companies replacing them",
-    "url": "https://www.cnbc.com/2026/06/24/buy-verizon-over-alphabet-if-a-history-of-dow-changes-is-any-guide.html",
-    "published": "2026-06-24T18:55:25+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "5d866f659a7d",
     "title": "This industrial play has been a quiet winner in 2026. Why the stock has more room to go",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
@@ -143,19 +221,6 @@
     ]
   },
   {
-    "id": "97bfc517dda5",
-    "title": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings",
-    "summary": "AI chipmaker Cerebras has a staggered lock-up expiration that includes some shares becoming available for trading this week.",
-    "url": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
-    "published": "2026-06-24T18:01:39+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "3612d1144b2f",
     "title": "Market Update: COR, ADM, NI",
     "summary": "",
@@ -174,19 +239,6 @@
     "summary": "Options traders were buying a lot of protection on the iShares Semiconductor ETF (SOXX) on Tuesday.",
     "url": "https://www.cnbc.com/2026/06/24/traders-are-getting-worried-the-chip-stock-bull-market-is-cracking-how-to-protect-yourself.html",
     "published": "2026-06-24T17:14:55+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "f6614e8829f0",
-    "title": "Stocks making the biggest moves midday: Cerebras Systems, KB Home, Expedia, Exxon Mobil & more",
-    "summary": "Here are the companies making headlines in midday trading.",
-    "url": "https://www.cnbc.com/2026/06/24/stocks-making-the-biggest-moves-midday-cbrs-kbh-expe-xom.html",
-    "published": "2026-06-24T17:03:25+00:00",
     "source_name": "CNBC - Top News",
     "source_type": "media",
     "language": "en",
@@ -299,19 +351,6 @@
     ]
   },
   {
-    "id": "69afadef4e16",
-    "title": "Tom Lee says this is a classic opportunity to buy the dip in chip stocks once again",
-    "summary": "He describes the downturn this week as \"buyable pullback.\"",
-    "url": "https://www.cnbc.com/2026/06/24/tom-lee-says-this-is-a-classic-opportunity-to-buy-the-dip-in-chip-stocks-once-again.html",
-    "published": "2026-06-24T15:30:01+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "3e5731387854",
     "title": "Ex-FCA policy insider explains the ‘great divide’ in the UK’s crypto ambition",
     "summary": "",
@@ -383,19 +422,6 @@
     "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-could-fall-to-usd55-000-before-finding-a-bottom-10x-research-says",
     "published": "2026-06-24T13:42:31+00:00",
     "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "abf7ade8bd0d",
-    "title": "Kalshi CEO says prediction market thinking about IPO, but not for this year",
-    "summary": "Tarek Mansour said to CNBC's \"Squawk Box\" it made sense for the company at the stage to think about a debut on public markets.",
-    "url": "https://www.cnbc.com/2026/06/24/kalshi-ceo-says-company-thinking-about-ipo-but-not-for-this-year-.html",
-    "published": "2026-06-24T13:42:28+00:00",
-    "source_name": "CNBC - Top News",
     "source_type": "media",
     "language": "en",
     "regions": [
@@ -494,8 +520,8 @@
     ]
   },
   {
-    "id": "4658bdb94255",
-    "title": "Live markets: Bitcoin falls back to $59,000 as Strategy's common and preferred stocks tumble",
+    "id": "9a80111b8d5a",
+    "title": "Live markets: Bitcoin claws back some of the losses after Micron beats earnings",
     "summary": "",
     "url": "https://www.coindesk.com/tech/2026/06/24/live-markets-bitcoin-could-drop-to-usd59-000-in-the-short-term-as-liquidaity-dries-up",
     "published": "2026-06-24T05:13:27+00:00",
@@ -520,12 +546,259 @@
     ]
   },
   {
-    "id": "0a4ecdf80914",
-    "title": "Crypto PAC's $5.5 million Congress pick gets Maryland win, more crypto allies advance",
+    "id": "ef1f45f40211",
+    "title": "Jim Cramer on Celsius Holdings: “The Shorts Have Played Havoc With This Stock for a Long Time”",
     "summary": "",
-    "url": "https://www.coindesk.com/policy/2026/06/23/crypto-pac-s-usd5-5-million-congress-pick-gets-maryland-win-more-crypto-allies-advance",
-    "published": "2026-06-24T03:00:34+00:00",
-    "source_name": "CoinDesk",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-celsius-holdings-shorts-144005881.html",
+    "published": "2026-06-23T14:40:05+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "9219f1730bcd",
+    "title": "Dollar Climbs as Stocks Slump",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-climbs-stocks-slump-143502773.html",
+    "published": "2026-06-23T14:35:02+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "aba9d66b5bfb",
+    "title": "Assurant Stock: Is AIZ Outperforming the Financial Sector?",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/assurant-stock-aiz-outperforming-financial-143432824.html",
+    "published": "2026-06-23T14:34:32+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "5ab3f4756d78",
+    "title": "Jim Cramer on Palantir: “The Growth Hasn’t Slowed Down, Just the Stock”",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-palantir-growth-hasn-143150499.html",
+    "published": "2026-06-23T14:31:50+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "27e82c77de7b",
+    "title": "Is Henry Schein Stock Underperforming the Nasdaq?",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/henry-schein-stock-underperforming-nasdaq-143149767.html",
+    "published": "2026-06-23T14:31:49+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "db76e55d4bb1",
+    "title": "Jim Cramer Says “Intel’s Now My Favorite Stock in My Charitable Trust”",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-intel-now-143145349.html",
+    "published": "2026-06-23T14:31:45+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "6362fde083a7",
+    "title": "Why Jim Cramer Believes FedEx Freight Will Cash In on the E-Commerce Boom",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-believes-fedex-143144119.html",
+    "published": "2026-06-23T14:31:44+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "c10fd1d53a3a",
+    "title": "Jim Cramer on FedEx: “Buy It, Put It Away”",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-fedex-buy-put-143133809.html",
+    "published": "2026-06-23T14:31:33+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "01aeaeeaa876",
+    "title": "Is Huntington Ingalls Industries Stock Underperforming the Nasdaq?",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-stock-underperforming-143129672.html",
+    "published": "2026-06-23T14:31:29+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "2e865de37dcf",
+    "title": "Coinbase Is Offering Pre-IPO Perpetual Futures on OpenAI and Anthropic. That’s Better News for COIN Stock Than It Is for You.",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-offering-pre-ipo-perpetual-142645858.html",
+    "published": "2026-06-23T14:26:45+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "8093910d5d11",
+    "title": "Is Generac Holdings Stock Outperforming the S&P 500?",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/generac-holdings-stock-outperforming-p-142547418.html",
+    "published": "2026-06-23T14:25:47+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "df35efc39d9a",
+    "title": "Uber Down 29% From Its High. Earnings Up 40%. Wall Street Sees 47% Upside",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/uber-down-29-high-earnings-142441894.html",
+    "published": "2026-06-23T14:24:41+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "9bf56b1637b9",
+    "title": "Forget Fixed Income: This Ultra-Safe Dividend Stock Could Be Retirees’ Best Friend",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/forget-fixed-income-ultra-safe-142004479.html",
+    "published": "2026-06-23T14:20:04+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "ccd37b812ad0",
+    "title": "J.R. Smith reveals deadliest financial blunder: ‘Wasted’ millions on unused cars. What his retirement looks like now",
+    "summary": "",
+    "url": "https://finance.yahoo.com/small-business/articles/j-r-smith-reveals-deadliest-142000515.html",
+    "published": "2026-06-23T14:20:00+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "040d35a80d56",
+    "title": "How Is Pinnacle West Capital's Stock Performance Compared to Other Utilities Stocks?",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-west-capitals-stock-performance-141857276.html",
+    "published": "2026-06-23T14:18:57+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "f2ebeb24e285",
+    "title": "Wheat Prices Are Headed Higher. How to Trade Them Now.",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-prices-headed-higher-trade-141742132.html",
+    "published": "2026-06-23T14:17:42+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "1d97e43bf387",
+    "title": "Adobe Stock Poised for 35% Rebound Despite Recent Selloff",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-stock-poised-35-rebound-141728965.html",
+    "published": "2026-06-23T14:17:28+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "8c707635c4e8",
+    "title": "Is Lennox International Stock Underperforming the Dow?",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/lennox-international-stock-underperforming-dow-141508600.html",
+    "published": "2026-06-23T14:15:08+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "db6d25df7bf8",
+    "title": "Stocks Retreat as Tech Shares Plunge",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-retreat-tech-shares-plunge-140718383.html",
+    "published": "2026-06-23T14:07:18+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "955d51222495",
+    "title": "How Is Hasbro's Stock Performance Compared to Other Consumer Cyclical Stocks?",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hasbros-stock-performance-compared-other-140555060.html",
+    "published": "2026-06-23T14:05:55+00:00",
+    "source_name": "Yahoo Finance",
     "source_type": "media",
     "language": "en",
     "regions": [
@@ -546,219 +819,11 @@
     ]
   },
   {
-    "id": "ea05d3dc4a3d",
-    "title": "Silver prices today, Tuesday, June 23: Silver prices slipping, struggling more than gold",
+    "id": "ef43f9a9ef0b",
+    "title": "A Global Rout in Tech Stocks Is at the Epicenter of a U.S. Selloff. What to Watch Next.",
     "summary": "",
-    "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-june-23-silver-prices-slipping-struggling-more-than-gold-132427471.html",
-    "published": "2026-06-23T13:24:27+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "45a45623de7a",
-    "title": "Gold prices today, Tuesday, June 23: Prices move lower along with analyst expectations",
-    "summary": "",
-    "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-june-23-prices-move-lower-along-with-analyst-expectations-125821578.html",
-    "published": "2026-06-23T12:58:21+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "3d2c255a40ac",
-    "title": "AI Stocks In A Bubble? Comparisons To 1999 Appear. What Strategists Say.",
-    "summary": "",
-    "url": "https://www.investors.com/news/ai-stocks-bubble-comparisons-1999-what-strategists-say/?src=A00220&yptr=yahoo",
-    "published": "2026-06-23T11:40:51+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "80eb58ab06bf",
-    "title": "This Tiny AI Memory Stock Is Taking on Samsung, Google, and Nvidia",
-    "summary": "",
-    "url": "https://finance.yahoo.com/technology/ai/articles/tiny-ai-memory-stock-taking-113002041.html",
-    "published": "2026-06-23T11:30:02+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "5b440e04c190",
-    "title": "Is Casey's Stock Outperforming the Dow?",
-    "summary": "",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/caseys-stock-outperforming-dow-111736370.html",
-    "published": "2026-06-23T11:17:36+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "d5d33f3ca4f9",
-    "title": "U.S. Oil Production Outlook & Midstream Implications",
-    "summary": "",
-    "url": "https://finance.yahoo.com/energy/articles/u-oil-production-outlook-midstream-110039751.html",
-    "published": "2026-06-23T11:00:39+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "788522846903",
-    "title": "AI bubble fears have advisors looking to European markets. Is making the same move beneficial to you?",
-    "summary": "",
-    "url": "https://finance.yahoo.com/markets/world-indices/articles/ai-bubble-fears-advisors-looking-110000827.html",
-    "published": "2026-06-23T11:00:00+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "97b57f75b5f3",
-    "title": "SpaceX Extends Decline as Tech Stocks Retreat and Investors Reassess AI Spending: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-    "summary": "",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-extends-decline-tech-stocks-104734436.html",
-    "published": "2026-06-23T10:47:34+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "b7df9a75d81a",
-    "title": "Stock Futures Dive as Tech Selloff Rages On",
-    "summary": "",
-    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-062326/card/stock-futures-drop-as-tech-selloff-rages-on-LQLHCyHCe0BEayuw1PDO?siteid=yhoof2&yptr=yahoo",
-    "published": "2026-06-23T10:45:25+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "f004436d40e3",
-    "title": "Steel, aluminum makers face records gauntlet for new US tariff exemptions",
-    "summary": "",
-    "url": "https://finance.yahoo.com/economy/policy/articles/steel-aluminum-makers-face-records-104200149.html",
-    "published": "2026-06-23T10:42:00+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "d5e0cf7fbc91",
-    "title": "SoFi vs. PayPal: Two Beaten-Down Fintech Stocks. Which Is the Better Comeback Story?",
-    "summary": "",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-vs-paypal-two-beaten-103700584.html",
-    "published": "2026-06-23T10:37:00+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "1b571cbf1f90",
-    "title": "Stock Index Futures Plunge as Tech Selloff Rages On, U.S. PMI Data in Focus",
-    "summary": "",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-plunge-tech-103551183.html",
-    "published": "2026-06-23T10:35:51+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "9bee159a8aaf",
-    "title": "Chip stocks plunge, but bargain-hunters limit scale of tech rout",
-    "summary": "",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-set-shed-over-103346244.html",
-    "published": "2026-06-23T10:33:46+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "a9dc9ec805d5",
-    "title": "Best money market account rates today, Tuesday, June 23, 2026: Earn up to 4.01% APY",
-    "summary": "",
-    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-june-23-2026-100000474.html",
-    "published": "2026-06-23T10:00:00+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "8897098ec5e6",
-    "title": "Best high-yield savings interest rates today, Tuesday, June 23, 2026: Earn up to 4.10% APY",
-    "summary": "",
-    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-june-23-2026-100000880.html",
-    "published": "2026-06-23T10:00:00+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "86933f8792a8",
-    "title": "Mortgage and refinance interest rates today, Tuesday, June 23, 2026: Rates are mixed this morning",
-    "summary": "",
-    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-june-23-2026-100000967.html",
-    "published": "2026-06-23T10:00:00+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "1271b17a06d0",
-    "title": "Student loan borrowers can get a 1% interest rate discount — how to make sure you qualify",
-    "summary": "",
-    "url": "https://finance.yahoo.com/personal-finance/student-loans/article/student-loan-borrowers-can-get-a-1-interest-rate-discount--how-to-make-sure-you-qualify-202124973.html",
-    "published": "2026-06-22T20:21:24+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/global-rout-tech-stocks-epicenter-135016496.html",
+    "published": "2026-06-23T13:50:16+00:00",
     "source_name": "Yahoo Finance",
     "source_type": "media",
     "language": "en",
