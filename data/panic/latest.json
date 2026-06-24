@@ -1,99 +1,120 @@
 {
   "date": "2026-06-24",
-  "summary": "世界各地で地域的な社会不安と生活必需品の不足が顕在化しています。特に南アフリカでは外国人排斥に起因する大規模な抗議活動や暴力の再燃が懸念され、一部で外国人殺害事件が発生するなど、極めて緊迫した状況にあります。アジアでは水やガスといった生活インフラの不足に対する住民の抗議デモが多発し、北米ではフードバンクの備蓄枯渇が報じられるなど、食料供給への潜在的な懸念が高まっています。全体として、社会経済的なストレスが地域レベルでの不安定化を招いている傾向が見られます。",
-  "global_panic_index": 60,
+  "summary": "世界各地で社会不安の兆候が見られますが、特にアフリカ南部では排外主義的感情に基づく大規模な抗議活動や暴動の再発に対する警戒が非常に高まっています。暴力事件の発生や多額の警備費投入が、その緊迫度を物語っています。南アジアでは生活必需品（ガス、水）の不足による抗議が散見され、地政学的な緊張も継続しています。ナイジェリアではエネルギーインフラの不安定さが指摘され、経済活動への影響が懸念されます。北米や欧州では散発的な不満や労働争議はありますが、現時点では大規模なパニックには至っていません。全体として、警戒が必要な状況が続いています。",
+  "global_panic_index": 58,
   "regions": [
     {
-      "region": "africa",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "外国人排斥による社会不安、大規模抗議デモ",
+      "region": "north_america",
+      "panic_index": 35,
+      "status": "unstable",
+      "main_cause": "食料不安、社会的抗議",
       "incidents": [
         {
-          "title": "反移民抗議デモと過去の暴動再燃の懸念",
-          "location": "KuGompo City, KZN (南アフリカ)",
-          "severity": 90,
-          "description": "外国人排斥を背景とする大規模な抗議デモが計画され、2021年7月の暴動再燃が懸念されている。警察や民間警備会社が厳戒態勢で準備にあたっている。",
-          "source": "Daily Dispatch, TimesLIVE, IOL"
+          "title": "フードバンクの食料不足",
+          "location": "フォートエリー (カナダ)",
+          "severity": 45,
+          "description": "フォートエリーのフードバンクがほぼ空となり、寄付を懇願している状況。地域住民の食料不安が高まっている兆候が見られます。",
+          "source": "Fort Erie Radio"
         },
         {
-          "title": "外国人排斥関連の外国人殺害事件",
-          "location": "南アフリカ",
-          "severity": 95,
-          "description": "外国人排斥を背景とする社会不安の中で外国人が殺害される事件が発生し、警察が捜査を行っている。この事件は地域の緊張をさらに高めている。",
-          "source": "Citizen Digital"
+          "title": "特定の銀行に対する口座引き揚げの可能性",
+          "location": "モントクレア (米国)",
+          "severity": 30,
+          "description": "ICEとの関係を理由にシチズンズ銀行からの資産引き揚げを検討する動き。取り付け騒ぎではないが、金融機関への不信感を示唆します。",
+          "source": "Montclair Local News"
         },
         {
-          "title": "大規模抗議デモ警備費用への議論",
-          "location": "南アフリカ",
-          "severity": 80,
-          "description": "6月30日の抗議デモ警備に巨額の費用が投じられることに対し、その内訳に関する透明性を求める声が上がっている。デモの潜在的危険性の高さを示唆している。",
-          "source": "The Citizen"
-        },
-        {
-          "title": "ナイジェリア企業の高い発電機依存",
-          "location": "ナイジェリア",
-          "severity": 60,
-          "description": "ナイジェリア企業の70%以上が事業運営を発電機に依存しており、電力供給の不安定さから経済活動への影響や社会的不満の潜在的な要因となっている。",
-          "source": "THISDAYLIVE"
+          "title": "カナダ銀行警備員の職務行動開始",
+          "location": "カナダ",
+          "severity": 20,
+          "description": "交渉決裂後、カナダ銀行の警備員が職務行動を開始。金融システムへの直接的な大規模影響は不明ですが、労働不安の表れです。",
+          "source": "CHAT News Today"
         }
       ]
     },
     {
-      "region": "asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "生活必需品（ガス、水）不足",
+      "region": "africa",
+      "panic_index": 78,
+      "status": "critical",
+      "main_cause": "排外主義的暴動、大規模デモ、エネルギー不足",
       "incidents": [
         {
-          "title": "ガス不足に対する住民の抗議",
+          "title": "排外主義的暴動による外国人殺害",
+          "location": "南アフリカ",
+          "severity": 85,
+          "description": "排外主義的な不安の中で外国人が殺害される事件が発生。これは暴力的な社会不安の深刻化と社会秩序の崩壊の一歩を示唆します。",
+          "source": "Citizen Digital"
+        },
+        {
+          "title": "2021年暴動の再発に対する警告",
+          "location": "KZN (南アフリカ)",
+          "severity": 80,
+          "description": "ANC KZNが反外国人デモが2021年7月の略奪や暴動を再発させる可能性を警告。非常に高い警戒レベルが敷かれています。",
+          "source": "IOL"
+        },
+        {
+          "title": "大規模デモに備え警備強化と多額の費用",
+          "location": "南アフリカ（複数都市）",
+          "severity": 75,
+          "description": "6月30日の抗議デモに備え、警察と民間警備会社が連携し、R600mもの警備費用が投入される見込み。大規模な混乱が予想されます。",
+          "source": "The Citizen, LNN - Network News"
+        },
+        {
+          "title": "ナイジェリア企業の発電機依存",
+          "location": "ナイジェリア",
+          "severity": 65,
+          "description": "ナイジェリア企業の70.7%が事業運営を発電機に依存。電力インフラの深刻な不安定さが経済活動と日常生活に影響を及ぼしています。",
+          "source": "THISDAYLIVE"
+        },
+        {
+          "title": "反不法移民デモへの警戒",
+          "location": "KuGompo City (南アフリカ)",
+          "severity": 60,
+          "description": "Igbo王を巡る不安の後、KuGompo Cityで反不法移民デモが計画されており、住民の緊張が高まり、潜在的な衝突が懸念されます。",
+          "source": "Daily Dispatch"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 62,
+      "status": "volatile",
+      "main_cause": "生活必需品不足、地政学的緊張",
+      "incidents": [
+        {
+          "title": "PoKでの不安がパキスタンの主張を露呈",
+          "location": "PoK (パキスタン)",
+          "severity": 68,
+          "description": "パキスタン管理下のカシミールで不安が発生。地政学的および民族的な緊張が高まり、地域の不安定化を加速させる可能性を秘めています。",
+          "source": "lokmattimes.com"
+        },
+        {
+          "title": "ガス不足に対する住民抗議",
           "location": "Hub (パキスタン)",
-          "severity": 70,
-          "description": "ハブの住民が深刻なガス不足に対し、当局に具体的な対策を求めて抗議活動を行っている。生活必需品の供給不安が住民の不満を募らせている。",
-          "source": "The Nation (Pakistan)"
+          "severity": 58,
+          "description": "Hubの住民が深刻なガス不足に対し抗議活動を実施。基本的な生活インフラの不備が社会不安を増大させており、当局の対応が注目されます。",
+          "source": "The Nation (Pakistan )"
         },
         {
           "title": "飲料水不足に対する女性たちの抗議",
           "location": "Jind (インド)",
-          "severity": 65,
-          "description": "ジンドの女性たちが深刻な飲料水不足に抗議し、地方行政当局が関係職員に警告を発する事態となっている。基本的な生活インフラの不備が社会不安を招いている。",
+          "severity": 58,
+          "description": "Jindの女性たちが飲料水不足に対し抗議デモを行い、当局が関係職員に警告。生活必需品の不足が社会の不満を募らせています。",
           "source": "The Times of India"
-        },
-        {
-          "title": "若者の不安に伴う抗議デモの準備",
-          "location": "パキスタン (推測)",
-          "severity": 60,
-          "description": "若者の間で高まる不安（unrest）を背景に、ある組織が抗議デモを準備している。若年層の不満が社会運動に発展する兆しが見られる。",
-          "source": "MSN"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "食料不安の兆候",
-      "incidents": [
-        {
-          "title": "フードバンクの備蓄枯渇と寄付要請",
-          "location": "Fort Erie (カナダ)",
-          "severity": 65,
-          "description": "フォートエリーのフードバンクがほぼ空の状態となり、地域住民に緊急の寄付を呼びかけている。食料供給の脆弱性と低所得層への影響が懸念される。",
-          "source": "Fort Erie Radio"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 45,
+      "panic_index": 48,
       "status": "unstable",
       "main_cause": "水不足",
       "incidents": [
         {
-          "title": "水不足に対する住民の抗議",
+          "title": "水道インフラ不備と水不足への抗議",
           "location": "Šušanj (モンテネグロ)",
           "severity": 55,
-          "description": "公共事業から多額の収益があるにもかかわらず、シュシャニの住民が水不足に苦しんでおり、これに対する抗議活動に支持が集まっている。インフラ管理への不満が浮上している。",
+          "description": "水道事業からの収益があるにも関わらず市民が水不足に苦しみ、抗議を支持する動きが出ている。基本的な生活インフラの不満です。",
           "source": "vijesti.me"
         }
       ]
