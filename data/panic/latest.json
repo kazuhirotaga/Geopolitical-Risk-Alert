@@ -1,20 +1,71 @@
 {
   "date": "2026-06-27",
-  "summary": "世界的には、新興市場を中心に社会不安の潜在的なリスクが継続しており、特に南アジア、アフリカ、中東で政府への抗議デモや社会的な対立が頻発しています。南アジアのパキスタン占領カシミールでは食料供給の妨害が報じられるなど、一部でパニックにつながりかねない深刻な事態が発生。東アジアでも長期化した政治的デモが見られます。金融市場ではステーブルコインの不安定性が懸念されるものの、現時点での大規模な取り付け騒ぎや無秩序な略奪といった「パニック」状態は限定的ですが、警戒が必要な局面が続いています。",
-  "global_panic_index": 58,
+  "summary": "世界各地では、政治的な抗議デモ、経済的苦境に起因する市民不安、そして紛争地帯における緊張状態が継続しています。特に南アジアでは食料供給の懸念が報じられ、中東では武力衝突による不安が高まっています。金融市場ではステーブルコインの安定性に関する議論も続き、広範な社会心理的圧力が散見されます。",
+  "global_panic_index": 57,
   "regions": [
     {
       "region": "east_asia",
-      "panic_index": 50,
+      "panic_index": 40,
       "status": "unstable",
-      "main_cause": "政治的抗議",
+      "main_cause": "政治的/社会的不満",
       "incidents": [
         {
-          "title": "長期化する選挙関連抗議デモ",
-          "location": "韓国・ソウル",
+          "title": "韓国・蚕室で長期化する選挙関連抗議デモ",
+          "location": "South Korea (Jamsil)",
+          "severity": 40,
+          "description": "韓国の蚕室で開票センター封鎖を求める抗議デモが23日間継続。猛暑により参加者は減少傾向にあるものの、根深い政治的不満が背景にあり、一定の社会的な混乱を引き起こしている。",
+          "source": "조선일보, 아시아경제"
+        },
+        {
+          "title": "日本・仙台で核兵器廃絶を訴える平和デモ",
+          "location": "Japan (Sendai)",
+          "severity": 20,
+          "description": "仙台市内で核兵器廃絶を訴える「国民平和大行進」が行われた。これは平和的な市民活動であり、社会秩序の崩壊やパニック状態を示すものではない。",
+          "source": "河北新報オンライン"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 60,
+      "status": "volatile",
+      "main_cause": "地政学的紛争、社会の緊張",
+      "incidents": [
+        {
+          "title": "ヨルダン川西岸地区でのイスラエル軍襲撃と逮捕",
+          "location": "Occupied West Bank, Palestine/Israel",
+          "severity": 65,
+          "description": "イスラエル軍によるヨルダン川西岸地区への襲撃が発生し、パレスチナ人が負傷、2名が逮捕された。紛争地帯における住民の高い緊張と不安定な治安状況が続いている。",
+          "source": "Middle East Monitor"
+        },
+        {
+          "title": "イスラエルで超正統派兵役義務を求めるデモ",
+          "location": "Israel",
+          "severity": 30,
+          "description": "イスラエル中心部で、超正統派の兵役義務化を求める数十人規模のデモが行われた。特定の政策に対する意見表明であり、大規模な混乱や社会秩序の崩壊には至っていない。",
+          "source": "A News"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "政治的/社会的不安",
+      "incidents": [
+        {
+          "title": "ソマリア元大統領が政府の抗議活動制限に反発",
+          "location": "Somalia (Mogadishu)",
+          "severity": 50,
+          "description": "ソマリアの元大統領が、首都モガディシュでの抗議活動場所に対する政府の制限を拒否。政府と市民の間の政治的緊張が高まっており、潜在的な不安定性を示唆している。",
+          "source": "hiiraan.com"
+        },
+        {
+          "title": "南アフリカ、首相がデモ前の偽情報と自警団行為に警告",
+          "location": "South Africa (KwaZulu-Natal)",
           "severity": 55,
-          "description": "選挙不正を巡る抗議デモが23日間継続。猛暑により参加者数は減少傾向にあるものの、特定の政治問題に対する社会的な不満が長期化している状況が伺えます。",
-          "source": "조선일보 / 아시아경제"
+          "description": "南アフリカKZN州首相が、6月30日の抗議デモを前に、偽情報拡散や自警団行為に対する警告を発した。これはデモが秩序を乱し、潜在的な混乱に発展するリスクへの懸念を示す。",
+          "source": "The Witness, IOL"
         }
       ]
     },
@@ -22,72 +73,28 @@
       "region": "south_asia",
       "panic_index": 65,
       "status": "volatile",
-      "main_cause": "食料供給不安、政治的抗議、腐敗",
+      "main_cause": "食料不足、経済的苦境、政治的不安",
       "incidents": [
         {
-          "title": "PoJKで食料供給妨害が主張される抗議デモ",
-          "location": "パキスタン占領カシミール (PoJK)",
-          "severity": 75,
-          "description": "18日間続く抗議デモのリーダーが、食料供給が当局によって妨害されていると主張。食料が社会不安に直結する深刻な事態であり、住民のパニックを引き起こす可能性が高いと評価されます。",
+          "title": "PoJKで食料供給阻止の主張と社会不安の継続",
+          "location": "Pakistan-occupied Jammu and Kashmir (PoJK)",
+          "severity": 70,
+          "description": "パキスタン管理下のジャンムー・カシミール地域で抗議活動が18日目に入り、食料供給が阻止されているとの主張が報じられている。もし事実であれば、飢餓への懸念から深刻な社会不安とパニックに繋がる恐れがある。",
           "source": "ABP Live English"
         },
         {
-          "title": "IAS高官による大規模銀行詐欺と逃亡",
-          "location": "インド・ハリヤナ州",
-          "severity": 25,
-          "description": "6億5700万ルピー規模の銀行詐欺事件で、IAS高官が逮捕を逃れるために逃亡中。大規模な腐敗事件ではあるものの、現在のところ市民の取り付け騒ぎには発展していません。",
-          "source": "ThePrint / The Tribune / Inshorts / The BuckStopper / English Bombay Samachar / MSN"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 60,
-      "status": "volatile",
-      "main_cause": "政治的抗議、政府への不満",
-      "incidents": [
-        {
-          "title": "政府のデモサイト制限を巡る対立",
-          "location": "ソマリア・モガディシュ",
+          "title": "エネルギー価格下落も市民不安のリスク継続を警告",
+          "location": "South Asia (General)",
           "severity": 60,
-          "description": "元大統領が政府による抗議デモサイトの制限に反対を表明。政府と政治的リーダー間の対立は、市民の社会不安を増幅させる潜在的な要因となります。",
-          "source": "hiiraan.com"
+          "description": "エネルギー価格の下落にもかかわらず、市民不安が増大するリスクは解消されていないと報じられている。経済的苦境が社会不安の根底にあり、広範な社会心理的圧力となっている。",
+          "source": "Hiru News"
         },
         {
-          "title": "シャットダウン前の厳戒態勢",
-          "location": "アマガタ",
-          "severity": 65,
-          "description": "シャットダウン（社会的停止）を控えて地域が厳戒態勢にあると報告。詳細不明ながら、住民の間で緊張が高まっていることを示唆し、パニック予兆と見られます。",
-          "source": "Daily Sun"
-        },
-        {
-          "title": "ダーバンでの大規模抗議デモ準備",
-          "location": "南アフリカ・ダーバン",
-          "severity": 55,
-          "description": "6月30日に予定されている抗議デモについて、警察が実施を認める一方でいくつかの問題点も指摘されています。潜在的な社会不安要因として警戒が必要です。",
-          "source": "IOL"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "政治的・社会的要求、国際合意への反発",
-      "incidents": [
-        {
-          "title": "超正統派の兵役義務を求めるデモ",
-          "location": "イスラエル",
-          "severity": 50,
-          "description": "超正統派ユダヤ教徒への兵役義務適用を要求するデモが中央イスラエルで発生。社会内の異なるグループ間の緊張が高まっており、不安定要素です。",
-          "source": "A News"
-        },
-        {
-          "title": "レバノン・イスラエル合意への抗議デモ",
-          "location": "レバノン・ベイルート",
-          "severity": 60,
-          "description": "レバノンとイスラエル間の合意を受けて、ベイルートで抗議デモが発生。国民が合意内容に不満を抱き、不安定な政治状況を生み出しています。",
-          "source": "Vietnam.vn"
+          "title": "若者の不安を背景にデモの準備が進む",
+          "location": "South Asia (General)",
+          "severity": 40,
+          "description": "若者の間で高まる不安を背景に、CJP（組織名と仮定）が6月6日の抗議デモを準備している。これは潜在的な社会的不満が表出し、将来的な不安定要素となる可能性を示唆する。",
+          "source": "MSN"
         }
       ]
     }
