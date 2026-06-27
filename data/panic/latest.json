@@ -1,107 +1,107 @@
 {
-  "date": "2026-06-26",
-  "summary": "世界各地で社会不安の兆候が見られ、特に中東のガザ地区、南アジアのパキスタン・カシミール地域、そして南アフリカで緊張が高まっています。新興市場全体での市民不安リスクの指摘や、一部地域での燃料不足も報告されており、経済的要因や政治的対立が主な原因となっています。全体としては警戒状態にあり、特定の地域では衝突や社会秩序の不安定化のリスクが顕著です。",
+  "date": "2026-06-27",
+  "summary": "世界各地で社会不安の兆候が顕著になっています。特に新興市場ではエネルギー価格の変動にもかかわらず市民不安のリスクが高まり、中東ではガザ境界線での暴動発生が懸念され軍が厳戒態勢を敷いています。アフリカでは過去の大規模暴動再発への警戒が続き、南アジアでは燃料危機や食料供給阻害を伴う長期デモが発生するなど、複数の地域で経済的・政治的要因による社会の緊張とパニック寸前の状況が見られます。",
   "global_panic_index": 65,
   "regions": [
     {
-      "region": "africa",
-      "panic_index": 68,
-      "status": "volatile",
-      "main_cause": "社会経済的格差、外国人排斥感情、過去の暴動の記憶",
+      "region": "east_asia",
+      "panic_index": 30,
+      "status": "unstable",
+      "main_cause": "政治的な不満",
       "incidents": [
         {
-          "title": "2021年7月暴動の再発懸念",
-          "location": "South Africa",
-          "severity": 65,
-          "description": "南アフリカでは、過去の大規模な暴動（2021年7月）の再発に対する強い懸念が表明されています。経済的困難と社会的不満が背景にあります。",
-          "source": "yfm.co.za"
-        },
-        {
-          "title": "外国人排斥抗議による暴動再発の可能性",
-          "location": "KwaZulu-Natal, South Africa",
-          "severity": 70,
-          "description": "南アフリカのクワズールー・ナタール州では、外国人排斥を煽る抗議活動が、過去の暴動を再燃させる可能性があると警告されています。社会秩序の不安定化に直結する危険性があります。",
-          "source": "IOL"
+          "title": "選挙関連の長期抗議活動",
+          "location": "韓国、蚕室",
+          "severity": 30,
+          "description": "韓国の蚕室で選挙関係者の召喚を巡る抗議活動が23日間継続しており、政治的な不満が長期化する社会不安の兆候を示しています。現時点では秩序だった活動とされています。",
+          "source": "조선일보"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 75,
-      "status": "critical",
-      "main_cause": "地域紛争、政治的緊張、抗議活動の暴力化の懸念",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "政治的緊張、地域紛争のリスク",
       "incidents": [
         {
-          "title": "ガザでの暴動に備えるIDF",
-          "location": "Gaza, Middle East",
+          "title": "ガザ国境での暴動発生の懸念と軍の厳戒態勢",
+          "location": "ガザ",
           "severity": 75,
-          "description": "イスラエル国防軍（IDF）は、ガザ地区の「イエローライン」沿いでの暴動発生に備え、厳戒態勢を敷いています。ファタハがSNSを通じて暴動を呼びかけており、状況は非常に緊迫しています。",
-          "source": "The Jerusalem Post"
+          "description": "ガザ境界線での大規模な暴動発生が懸念されており、ファタハがSNSを通じて動員を呼びかける中、イスラエル国防軍（IDF）が厳戒態勢を敷き、状況は緊迫しています。",
+          "source": "The Jerusalem Post, Daijiworld"
         },
         {
-          "title": "ガザ国境での新たな不安懸念と厳戒態勢",
-          "location": "Gaza, Middle East",
-          "severity": 75,
-          "description": "ガザでの抗議呼びかけが高まり、国境地域での新たな不安と衝突の懸念から、IDFが厳戒態勢を継続しています。社会の混乱や衝突の発生リスクが高い状態です。",
-          "source": "Daijiworld"
+          "title": "兵役義務を求める抗議活動",
+          "location": "イスラエル中部",
+          "severity": 45,
+          "description": "イスラエル中部で、超正統派の国民に兵役義務を課すことを要求する抗議活動が行われています。特定の社会問題に対する不満が高まり、社会内の緊張を示唆します。",
+          "source": "A News"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "経済的な不満、過去の暴動の記憶",
+      "incidents": [
+        {
+          "title": "2021年7月暴動再発への強い懸念",
+          "location": "南アフリカ",
+          "severity": 70,
+          "description": "南アフリカでは、過去に発生した大規模な略奪や暴力を含む2021年7月の暴動の再発が懸念されており、当局者が市民に警戒を呼びかけています。",
+          "source": "yfm.co.za"
+        },
+        {
+          "title": "シャットダウン前の厳戒態勢",
+          "location": "南アフリカ、アマガタ",
+          "severity": 55,
+          "description": "アマガタ地域ではシャットダウンが予定されており、これに伴う社会不安や混乱を警戒し、地域全体で厳戒態勢が敷かれています。住民の間に緊張感が広がっています。",
+          "source": "Daily Sun"
+        },
+        {
+          "title": "大規模抗議活動の計画と警察の警戒",
+          "location": "南アフリカ、ダーバン",
+          "severity": 60,
+          "description": "南アフリカのダーバンでは6月30日に大規模な抗議デモが計画されており、警察は実施を許可する一方で、その展開に対して懸念を表明。暴徒化のリスクに警戒しています。",
+          "source": "IOL, The Citizen"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "政治的緊張、地域紛争、経済的困難、インフラ問題（燃料供給）",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "資源不足、経済的不満、政府への不信感",
       "incidents": [
         {
-          "title": "パキスタンで若者の不安と抗議デモの準備",
-          "location": "Pakistan",
-          "severity": 55,
-          "description": "パキスタンでは若者の不安が高まっており、特定のグループ（CJP）が6月6日の大規模な抗議デモを準備しています。社会的な不満が組織的な行動に発展する兆候です。",
-          "source": "MSN"
-        },
-        {
-          "title": "パキスタン占領カシミールで不安激化、数十人死亡",
-          "location": "Pakistan-occupied Kashmir, Pakistan",
+          "title": "燃料危機による供給停止",
+          "location": "インド、ジャムシェドプール",
           "severity": 80,
-          "description": "パキスタン占領下のカシミール地域で不安がエスカレートし、数十人の死者が出ています。これは単なる抗議活動を超え、社会秩序が深刻に不安定化している状況を示します。",
-          "source": "MSN"
-        },
-        {
-          "title": "インドのジャムシェドプールで燃料危機",
-          "location": "Jamshedpur, India",
-          "severity": 70,
-          "description": "インドのジャムシェドプールで技術的な不具合により、ガソリン・ディーゼル供給が停止し、燃料ポンプが枯渇する燃料危機が発生しています。これは買いだめや移動の制限につながる可能性があり、住民のパニックを引き起こしかねません。",
+          "description": "インドのジャムシェドプールで技術的故障によりガソリンとディーゼルの供給が停止し、ガソリンスタンドで燃料が枯渇する燃料危機が発生。住民の生活と経済活動に大きな影響が出ています。",
           "source": "The Avenue Mail"
-        }
-      ]
-    },
-    {
-      "region": "global",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "経済的変動、エネルギー価格の不確実性、金融市場の脆弱性",
-      "incidents": [
-        {
-          "title": "新興市場での市民不安リスクの上昇",
-          "location": "Emerging Markets",
-          "severity": 40,
-          "description": "エネルギー価格の下落にもかかわらず、新興市場における市民不安のリスクは上昇を続けていると報じられています。経済的な不確実性が社会的な緊張を高める要因となっています。",
-          "source": "Reuters"
         },
         {
-          "title": "石油価格下落も市民不安の脅威は残る",
-          "location": "Global/Emerging Markets",
-          "severity": 40,
-          "description": "石油価格の下落はインフレを緩和する一方で、依然として市民不安の脅威が迫っていると指摘されています。根深い社会経済問題が潜在的なリスクとして残っています。",
-          "source": "Devdiscourse"
+          "title": "食料供給阻害を伴う長期化する抗議活動",
+          "location": "PoJK (パキスタンが管理するカシミール)",
+          "severity": 85,
+          "description": "パキスタンが管理するカシミール（PoJK）では、食料供給が阻害されているという主張のもと、社会不安を伴う抗議活動が18日間にわたり継続しており、住民の懸念が高まりつつあります。",
+          "source": "ABP Live English"
         },
         {
-          "title": "ステーブルコインのクラッシュ懸念",
-          "location": "Global",
-          "severity": 30,
-          "description": "仮想通貨市場におけるステーブルコインの潜在的なクラッシュに関する懸念が指摘されています。これは直接的な社会パニックではないものの、広範な金融不安につながる可能性があります。",
-          "source": "The Big Picture"
+          "title": "大規模銀行詐欺事件と公務員の逃亡",
+          "location": "インド、ハリヤナ州",
+          "severity": 40,
+          "description": "インドのハリヤナ州でIAS職員が関与する大規模な657億ルピーの銀行詐欺事件が発生。関与者が逃亡中であり、国民の政府や金融機関への不信感を高めています。",
+          "source": "The Tribune 他"
+        },
+        {
+          "title": "新興市場における市民不安リスクの高まり",
+          "location": "新興市場全体",
+          "severity": 65,
+          "description": "エネルギー価格の下落が続いても、新興市場全体では市民不安（civil unrest）のリスクが高まる傾向にあると指摘されており、経済的な要因が社会不安を引き起こす可能性が高いです。",
+          "source": "Reuters, Devdiscourse"
         }
       ]
     }
