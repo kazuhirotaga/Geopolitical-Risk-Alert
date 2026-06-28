@@ -1,5 +1,46 @@
 [
   {
+    "id": "1efb86dd6a9c",
+    "title": "政府 厳しい安全保障環境の認識共有 韓国と連携強化図る方針",
+    "summary": "小泉防衛大臣は、就任後初めて韓国を訪問し、アン・ギュベク（安圭伯）国防相と会談しました。閣僚による相互往来の一環で、政府は、中国と北朝鮮がロシアと軍事面での連携を進める中、安全保障分野での韓国との連携強化を図ることにしています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163241000.html",
+    "published": "2026-06-29T06:37:19+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "europe"
+    ]
+  },
+  {
+    "id": "5fdb9305a730",
+    "title": "ロシアとベラルーシが首脳会談 軍事侵攻めぐり圧力との報道も",
+    "summary": "ロシア国営タス通信は、26日から2日間にわたりプーチン大統領とベラルーシのルカシェンコ大統領が会談し経済協力や安全保障などについて協議したと伝えました。ベラルーシをめぐっては、ロシアがウクライナに対する軍事侵攻への協力を強化するよう圧力をかけていると報じられています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163311000.html",
+    "published": "2026-06-29T05:57:57+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "ce238d9abc29",
+    "title": "米イラン攻撃の応酬続く ホルムズ海峡めぐる対立再び鮮明に",
+    "summary": "中東のホルムズ海峡をめぐるアメリカとイランの攻撃の応酬が続くなか、イランのアラグチ外相は28日、船舶がイランの管理方法に従わずに航行することについて「状況を複雑にし、ホルムズ海峡の開放を遅らせ、緊張を高めるだけだ」と主張しました。双方の対立が再び鮮明になるなか覚書に基づく協議の行方が焦点となっています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163291000.html",
+    "published": "2026-06-29T05:48:13+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
     "id": "fa2da3f18056",
     "title": "小泉防衛相訪韓 未来志向的な防衛協力の発展へ意思疎通で一致",
     "summary": "小泉防衛大臣は、訪問先の韓国でアン・ギュベク（安圭伯）国防相と会談し、朝鮮半島の完全な非核化に向けて、日韓両国や日米韓3か国の協力を継続するとともに、安定的で未来志向的な防衛協力と交流の発展のため、意思疎通を続けていくことで一致しました。",
@@ -10,6 +51,45 @@
     "language": "ja",
     "regions": [
       "east_asia"
+    ]
+  },
+  {
+    "id": "5564aed81853",
+    "title": "Protesters in Serbia doubt Vucic resignation will bring change",
+    "summary": "Thousands of protesters gathered in Serbia's Kraljevo, dismissing Aleksandar Vucic's pledge to resign.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
+    "published": "2026-06-28T20:29:18+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "north_america"
+    ]
+  },
+  {
+    "id": "b7340369a94a",
+    "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+    "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+    "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-06-28T19:37:07+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "cd67a0d91028",
+    "title": "Can the ICJ help end the war in the eastern DRC?",
+    "summary": "The Democratic Republic of Congo takes Rwanda to the International Court of Justice.",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/6/28/can-the-icj-help-end-the-war-in-the-eastern-drc?traffic_source=rss",
+    "published": "2026-06-28T19:24:05+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
     ]
   },
   {
@@ -50,19 +130,6 @@
     "language": "en",
     "regions": [
       "middle_east"
-    ]
-  },
-  {
-    "id": "b7340369a94a",
-    "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-    "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
-    "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-06-28T16:38:55+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
     ]
   },
   {
@@ -115,58 +182,6 @@
     "language": "en",
     "regions": [
       "global"
-    ]
-  },
-  {
-    "id": "10a7a292d7af",
-    "title": "Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak",
-    "summary": "Health officials say the Ebola response cannot succeed without addressing the humanitarian crisis.",
-    "url": "https://www.aljazeera.com/news/2026/6/28/qa-why-humanitarian-aid-is-crucial-to-stopping-the-ebola-outbreak?traffic_source=rss",
-    "published": "2026-06-28T15:01:18+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "8183495e74e2",
-    "title": "If USMCA is not renewed, analysts expect uncertainty for businesses",
-    "summary": "US President Donald Trump has warned he would 'rather not have' the free trade agreement ahead of its July 1 review.",
-    "url": "https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses?traffic_source=rss",
-    "published": "2026-06-28T14:52:35+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "517d4ec36d0f",
-    "title": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
-    "summary": "Political scientist Robert Pape argues the fallout of Iran war curbs US hubris and challenges Trump’s self-image.",
-    "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/28/pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran?traffic_source=rss",
-    "published": "2026-06-28T14:46:32+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "9068706715b7",
-    "title": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
-    "summary": "Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait.",
-    "url": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss",
-    "published": "2026-06-28T14:01:29+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
