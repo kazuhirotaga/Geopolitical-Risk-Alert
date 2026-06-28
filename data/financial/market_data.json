@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-27T22:05:59.005321",
+  "generated_at": "2026-06-28T04:09:59.303081",
   "indices": [
     {
       "symbol": "^N225",
       "label": "日経平均株価",
-      "current_price": 72366.34375,
-      "price_formatted": "72,366.34",
-      "change": 3191.375,
-      "change_formatted": "+3,191.38",
-      "change_percent": 4.613482387731473,
-      "change_percent_formatted": "+4.61%",
-      "trend": "up",
-      "date": "2026-06-25"
+      "current_price": 69360.8828125,
+      "price_formatted": "69,360.88",
+      "change": -3005.4609375,
+      "change_formatted": "-3,005.46",
+      "change_percent": -4.153119781597367,
+      "change_percent_formatted": "-4.15%",
+      "trend": "down",
+      "date": "2026-06-26"
     },
     {
       "symbol": "^DJI",
@@ -64,24 +64,24 @@
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 59971.98046875,
-      "price_formatted": "59,972",
-      "change": -44.44921875,
-      "change_formatted": "-44",
-      "change_percent": -0.07406175105957315,
-      "change_percent_formatted": "-0.07%",
-      "trend": "down",
-      "date": "2026-06-27"
+      "current_price": 60102.91015625,
+      "price_formatted": "60,103",
+      "change": 86.48046875,
+      "change_formatted": "+86",
+      "change_percent": 0.1440946574134713,
+      "change_percent_formatted": "+0.14%",
+      "trend": "up",
+      "date": "2026-06-28"
     },
     {
       "symbol": "GC=F",
       "label": "金 (先物)",
-      "current_price": 4078.699951171875,
-      "price_formatted": "4,078.70",
-      "change": 48.199951171875,
-      "change_formatted": "+48.20",
-      "change_percent": 1.1958801928265725,
-      "change_percent_formatted": "+1.20%",
+      "current_price": 4096.2998046875,
+      "price_formatted": "4,096.30",
+      "change": 65.7998046875,
+      "change_formatted": "+65.80",
+      "change_percent": 1.6325469467187694,
+      "change_percent_formatted": "+1.63%",
       "trend": "up",
       "date": "2026-06-26"
     },
