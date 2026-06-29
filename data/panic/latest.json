@@ -1,160 +1,154 @@
 {
   "date": "2026-06-29",
-  "summary": "世界各地では、経済的な不安定さや政治的・社会的な不満が広がり、一部地域では暴力や人道危機へと発展しています。南アフリカでは大規模デモの緊張と外国人嫌悪が深刻化し、中東では暴力的な襲撃が報告されています。南アジアでは医療品不足という生命に関わる問題が発生しており、各国政府による介入や対策が急がれます。",
-  "global_panic_index": 58,
+  "summary": "現在、世界各地で社会不安が高まっており、特に南アフリカの反移民デモ計画とヨルダン川西岸地区の医療危機および入植者による暴力は深刻な懸念材料となっています。韓国やセルビアでは大規模な抗議活動が長期化し、バングラデシュでは金融不安の兆候が見られます。キューバでは住民デモに対し武装部隊が介入するなど、複数の地域で社会秩序が揺らぎ、不安定な状況が続いています。食料・エネルギー不足や金融不安が特定の地域で増大しており、警戒が必要です。",
+  "global_panic_index": 63,
   "regions": [
     {
-      "region": "middle_east",
-      "panic_index": 70,
+      "region": "africa",
+      "panic_index": 75,
       "status": "volatile",
-      "main_cause": "民族・地域紛争、暴力",
+      "main_cause": "排外主義による社会不安、大規模抗議デモ",
       "incidents": [
         {
-          "title": "イスラエル入植者によるパレスチナ西岸地区村の襲撃と破壊",
-          "location": "Palestinian West Bank",
+          "title": "移民への暴力的脅迫と強制移動",
+          "location": "南アフリカ",
+          "severity": 80,
+          "description": "南アフリカで移民に対し「棺桶で帰るか、去るか」といった暴力的脅迫が報じられており、これが移民の強制移動を促す要因となっている。深刻な人道危機と社会秩序の乱れを示唆。",
+          "source": "CNN"
+        },
+        {
+          "title": "反不法移民デモと警備強化",
+          "location": "南アフリカ、西ケープ州",
+          "severity": 70,
+          "description": "西ケープ州政府は、不法移民に関する抗議デモが社会不安を招く恐れがあるとして警備部隊を動員。大規模な集会が予定され、治安の悪化が懸念される。",
+          "source": "IOL"
+        },
+        {
+          "title": "6月30日の大規模反移民シャットダウン",
+          "location": "南アフリカ、ケープタウン",
           "severity": 75,
-          "description": "イスラエル人入植者によるパレスチナ人居住区への襲撃と破壊行為が報告され、地域の住民に深刻な恐怖と不安を与えている。これは長期化する紛争の新たな暴力エスカレーションの兆候である。",
+          "description": "6月30日に予定されている反移民デモにより、ケープタウンを含む南アフリカ全土で大規模なシャットダウンが予想されている。当局は市民に警戒を促し、社会活動への影響が大きい。",
+          "source": "Time Out Worldwide, Moneyweb"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "医療インフラの崩壊、暴力的な紛争",
+      "incidents": [
+        {
+          "title": "ヨルダン川西岸地区の医療システム危機",
+          "location": "ヨルダン川西岸地区",
+          "severity": 90,
+          "description": "イスラエルによる制裁の影響で、ヨルダン川西岸地区の医療システムが資金・医薬品不足により機能不全に陥っている。住民の健康と生命に直結する深刻な危機。",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "入植者による村への襲撃と破壊",
+          "location": "ヨルダン川西岸地区",
+          "severity": 80,
+          "description": "イスラエル人入植者らがパレスチナの村を襲撃し、家屋などを破壊したと報じられている。この暴力行為は地域の治安を著しく悪化させ、住民に深刻な不安を与えている。",
           "source": "Haaretz"
         }
       ]
     },
     {
-      "region": "east_asia",
+      "region": "europe",
       "panic_index": 55,
       "status": "unstable",
-      "main_cause": "社会・政治的不満、経済的懸念",
+      "main_cause": "政治的混乱、大規模抗議デモ",
       "incidents": [
         {
-          "title": "ソウル蚕室での大規模デモが25日目、139人が捜査対象に",
-          "location": "Seoul, South Korea",
-          "severity": 60,
-          "description": "韓国ソウルでは、長期にわたる大規模な抗議デモが続いており、多数の関係者が警察の捜査対象となっている。これにより社会的な緊張が高まり、一部で秩序の混乱が生じている。",
-          "source": "CHOSUNBIZ / Seoul Economic Daily"
-        },
-        {
-          "title": "ハナ銀行、中小企業向けに1.3兆ウォンの支援策を発表",
-          "location": "South Korea",
-          "severity": 25,
-          "description": "ハナ銀行が中小企業向けに1.3兆ウォンの支援策を発表。これは経済的な困難に直面する事業者を支援し、潜在的な金融不安の拡大を抑えるための措置と見られる。",
-          "source": "디지털투데이"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 35,
-      "status": "unstable",
-      "main_cause": "経済的懸念、広範な社会不安",
-      "incidents": [
-        {
-          "title": "ウォール街、ユーロ高への賭けを放棄",
-          "location": "Eurozone",
-          "severity": 40,
-          "description": "ウォール街がユーロに対する強気な見方を放棄しており、これは欧州経済の先行きに対する不確実性を高め、投資家の間で潜在的な金融不安を引き起こしている可能性がある。",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "社会不安の中でウィンブルドン2026が開幕",
-          "location": "UK (推測)",
-          "severity": 30,
-          "description": "ウィンブルドン開催が「社会不安の中」と報じられており、具体的な内容は不明ながら、英国あるいはヨーロッパ全体で何らかの広範な社会的な不満や緊張が存在することを示唆している。",
-          "source": "MSN"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 75,
-      "status": "critical",
-      "main_cause": "政治的緊張、人道危機、民族間対立、政府への不信",
-      "incidents": [
-        {
-          "title": "ケープタウンで人道状況の中、6月30日抗議デモを前に警戒態勢",
-          "location": "Cape Town, South Africa",
-          "severity": 75,
-          "description": "南アフリカのケープタウンでは、人道状況が悪化する中で6月30日の大規模デモに対する警戒が呼びかけられている。これは政治的緊張と住民の不満が複合的に高まっている状況を示す。",
-          "source": "Time Out Worldwide / LNN - Network News"
-        },
-        {
-          "title": "南アフリカ政府、外国人嫌悪に起因する社会不安対策に6億ランド計画発表",
-          "location": "South Africa",
-          "severity": 80,
-          "description": "南アフリカ政府は、外国人嫌悪に起因する社会不安に対処するため6億ランドの計画を発表した。これは国内に深刻な民族的・社会的対立が存在し、暴動などのリスクが高まっていることを示唆する。",
-          "source": "aimnews.org"
-        },
-        {
-          "title": "ナイジェリア、オゴニ地域の女性たちが不当逮捕に抗議",
-          "location": "Ogoni, Nigeria",
-          "severity": 50,
-          "description": "ナイジェリアのオゴニ地域では、女性たちが不当逮捕に対して抗議デモを実施。これは政府の権力行使に対する住民の不満と、人権侵害への懸念が表面化している状況を示す。",
-          "source": "LEADERSHIP Newspapers"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "医療品不足、政治的抑圧、社会・経済的不満、教育システムへの不信",
-      "incidents": [
-        {
-          "title": "ネパール、サリャンで無料医薬品が枯渇、患者が地方からの供給を待つ",
-          "location": "Salyan, Nepal",
-          "severity": 85,
-          "description": "ネパールのサリャン地域で無料医薬品が枯渇しており、多数の患者が治療を受けられずにいる。これは医療インフラの機能不全と公衆衛生の危機を示し、住民の生命に関わる深刻なパニック要因となっている。",
-          "source": "The Kathmandu Post"
-        },
-        {
-          "title": "パキスタン、バロチスタン活動家の終身刑判決が社会不安の懸念高める",
-          "location": "Pakistan (Balochistan)",
-          "severity": 70,
-          "description": "パキスタンのバロチスタン地方の活動家に対する終身刑判決が、地域住民の間で新たな社会不安を引き起こす懸念がある。政治的抑圧への反発が、大規模な抗議活動に発展する可能性を秘めている。",
-          "source": "Times of Oman"
-        },
-        {
-          "title": "インド、試験不正に対するハンガーストライキに活動家ソナム・ワンチュクが参加",
-          "location": "India",
+          "title": "セルビアでの反政府デモ継続",
+          "location": "セルビア",
           "severity": 55,
-          "description": "インドでは、試験不正に対するハンガーストライキが始まり、著名な活動家も参加している。これは教育システムの公平性への不信からくる社会不安が学生や市民の間で高まっていることを示す。",
-          "source": "The Economic Times"
-        },
-        {
-          "title": "インド、政治家がラフル・ガンジーのコタ集会を学生間の不安の原因と批判",
-          "location": "Kota, India",
-          "severity": 50,
-          "description": "インドの政治家が、ある政治集会が学生の間で「社会不安」を引き起こしていると批判。これは政治的な言動が学生の間に不和や緊張を生み出し、社会的な不安定化を助長している状況を反映している。",
-          "source": "The News Mill / ANI News"
+          "description": "セルビアでは政府に対する大規模な抗議デモが続いており、大統領の辞任表明も社会不安を鎮めるに至っていない。政治的混乱が長期化する懸念がある。",
+          "source": "AnewZ"
         }
       ]
     },
     {
-      "region": "north_america",
+      "region": "east_asia",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "長期化する抗議活動、社会的分断",
+      "incidents": [
+        {
+          "title": "ソウル蚕室での長期化する抗議デモ",
+          "location": "韓国、ソウル（蚕室）",
+          "severity": 60,
+          "description": "ソウル蚕室では25日間にわたり抗議デモが継続し、139人が捜査対象となっている。大規模なデモの長期化は社会的な緊張を高めている。",
+          "source": "CHOSUNBIZ, Seoul Economic Daily"
+        },
+        {
+          "title": "抗議現場で訓練用手榴弾の発見",
+          "location": "韓国、ソウル（蚕室）",
+          "severity": 65,
+          "description": "ソウル蚕室の開票所付近での抗議デモ現場で訓練用手榴弾が発見された。これは抗議活動の過激化や治安悪化の兆候として懸念される。",
+          "source": "Seoul Economic Daily"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "金融不安の兆候",
+      "incidents": [
+        {
+          "title": "イスラミ銀行顧客が預金全額の返還を要求",
+          "location": "バングラデシュ、チッタゴン",
+          "severity": 50,
+          "description": "バングラデシュのイスラミ銀行の顧客が、預金および利益の全額返還を求めてデモを実施。これは特定の銀行に対する金融不安の初期的な兆候であり、拡大する可能性を秘める。",
+          "source": "The Business Standard"
+        }
+      ]
+    },
+    {
+      "region": "asia",
       "panic_index": 45,
       "status": "unstable",
-      "main_cause": "経済統制、潜在的な社会保障制度への不安",
+      "main_cause": "資源不足、政治的スキャンダル、教育問題",
       "incidents": [
         {
-          "title": "キューバ、検査官が私企業を捜索しペソを押収",
-          "location": "Cuba",
-          "severity": 60,
-          "description": "キューバ政府が私企業を捜索し、ペソを押収したとの報道がある。これは経済統制の強化を示しており、住民の経済活動への不安と政府に対する不信感を高めている。",
-          "source": "Havana Times"
+          "title": "尿素不足に対する抗議デモ",
+          "location": "インド",
+          "severity": 50,
+          "description": "BRS党が尿素不足に抗議するデモを実施。これは農業生産に不可欠な資源の不足を示しており、食料安全保障に対する懸念を引き起こす可能性がある。",
+          "source": "The Hindu"
         },
         {
-          "title": "専門家、社会保障費削減の可能性について「パニックしないように」と助言",
-          "location": "USA",
-          "severity": 30,
-          "description": "米国では、社会保障費削減の可能性について専門家が「パニックしないように」と呼びかけている。これは、国民の間に制度への潜在的な不安が存在し、政府や専門家がその沈静化を図っている状況を示唆する。",
-          "source": "AOL.com"
+          "title": "薬物疑惑が政治的混乱を引き起こす",
+          "location": "インド、タミルナードゥ州",
+          "severity": 45,
+          "description": "タミルナードゥ州での薬物疑惑が政治的な混乱を招いている。政府への不信感や社会の分断を深める要因となっている。",
+          "source": "Devdiscourse"
+        },
+        {
+          "title": "試験不正への抗議とハンガーストライキ",
+          "location": "インド",
+          "severity": 40,
+          "description": "ソナム・ワンチュク氏が試験の不正行為に対するCJPの抗議活動に参加し、ハンガーストライキを開始。教育制度への不信感が社会不安に繋がっている。",
+          "source": "The Economic Times"
         }
       ]
     },
     {
       "region": "south_america",
-      "panic_index": 0,
-      "status": "normal",
-      "main_cause": "該当なし",
-      "incidents": []
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "住民デモと当局の武装介入",
+      "incidents": [
+        {
+          "title": "武装部隊と住民の鍋叩きデモ",
+          "location": "キューバ、サンティアゴ・デ・クーバ",
+          "severity": 70,
+          "description": "サンティアゴ・デ・クーバで武装した「ブラックベレー」がパトロールする中、住民が鍋叩きデモを実施。食料不足や経済的困窮が背景にあるとみられ、当局の強硬な対応が緊張を高めている。",
+          "source": "CubaHeadlines"
+        }
+      ]
     }
   ]
 }
