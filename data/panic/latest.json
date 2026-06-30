@@ -1,99 +1,49 @@
 {
   "date": "2026-06-30",
-  "summary": "世界各地で多様な社会不安が表面化しています。特にアフリカ南部では排外主義的なデモが大規模に計画され、一部で住民の逃避行が見られます。中東の紛争地域では人命を脅かす深刻な暴力が報告され、南アジアの一部では治安部隊による略奪が発生するなど、社会秩序の崩壊が懸念される事態が進行しています。東アジアや東南アジアでは政治的な抗議や金融への不信からくる不安が見られますが、広範なパニックには至っていません。",
-  "global_panic_index": 68,
+  "summary": "世界各地で社会不安が高まっており、特に南アフリカでは大規模な反移民デモが展開され、治安部隊の動員と市民の緊張状態が報告されています。中東地域では地政学的緊張が続き、パキスタン占領下のカシミール地域や西岸地区では深刻な紛争と社会秩序の混乱が見られます。また、インドでは資源不足を巡る抗議デモが発生し、韓国やオランダでも政治デモや暴動が報告されており、複数の地域で警戒が必要な状況です。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "africa",
-      "panic_index": 85,
-      "status": "critical",
-      "main_cause": "排外主義的な対立、大規模デモ、公衆衛生関連の騒乱",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "反移民感情、政治的抗議、治安問題",
       "incidents": [
         {
-          "title": "南アフリカ、反移民デモで全土が緊迫",
-          "location": "南アフリカ",
-          "severity": 75,
-          "description": "大規模な反移民デモが予定されており、DW.comは南アフリカが「瀬戸際」にあると報じています。政府は治安維持に警戒を強めています。",
-          "source": "DW.com"
-        },
-        {
-          "title": "南アフリカの不安からマラウイ人が逃避",
-          "location": "南アフリカ",
-          "severity": 80,
-          "description": "南アフリカの社会不安から逃れるマラウイ人の存在が確認されており、彼らは「ここで死ぬなら本望」と語るほど切迫した状況です。",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "ケニアでエボラ施設への抗議で死者発生",
-          "location": "ケニア",
-          "severity": 85,
-          "description": "米国エボラ施設への抗議活動が激化し、1名のデモ参加者が死亡、数十名が逮捕されました。公衆衛生施設への不信が深刻な騒乱に繋がっています。",
-          "source": "Bernama"
-        },
-        {
-          "title": "南アフリカ各地で排外主義的なデモ準備",
-          "location": "南アフリカ",
-          "severity": 78,
-          "description": "排外主義的なデモ「March and March」が6月30日に南アフリカ全土で実施される準備が進められており、治安当局が警戒を強化しています。",
-          "source": "Daily Maverick"
-        },
-        {
-          "title": "西ケープ州政府、不法移民抗議に治安部隊動員",
-          "location": "南アフリカ、西ケープ州",
+          "title": "南アフリカで反移民デモが警戒態勢に",
+          "location": "南アフリカ（全国各地）",
           "severity": 70,
-          "description": "西ケープ州政府は、不法移民に対する抗議活動が騒乱に発展する可能性に備え、治安部隊を動員して公共の安全確保に努めています。",
-          "source": "IOL"
+          "description": "全国規模の反移民デモが計画され、警察が大規模に動員。外国人は暴力に備え、市民は緊張状態にあります。一部地域では交通が遮断され、政府は市民に平静を呼びかけています。",
+          "source": "dw.com, France 24, eNCA 他"
+        },
+        {
+          "title": "ケニアでエボラ施設反対デモが暴徒化、死者発生",
+          "location": "ケニア",
+          "severity": 75,
+          "description": "米国のエボラ施設建設に反対するデモが暴徒化し、1名が死亡、数十名が逮捕されました。地域住民の深い不信と治安当局との衝突が深刻な社会不安を引き起こしています。",
+          "source": "Bernama"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 90,
+      "panic_index": 85,
       "status": "critical",
-      "main_cause": "地域紛争、人命の危機",
+      "main_cause": "地政学的紛争、人権問題、政治的緊張",
       "incidents": [
         {
-          "title": "西岸地区で子供の殺害率が過去最高を記録",
+          "title": "西岸地区で子供の殺害が過去最高水準に",
           "location": "西岸地区",
-          "severity": 95,
-          "description": "イスラエルによる西岸地区での子供の殺害率が1967年以降で最高に達しており、住民は極度の生命の危機と社会不安に晒されています。",
+          "severity": 80,
+          "description": "イスラエル軍による西岸地区での子供の殺害が1967年以来の最高水準に達しており、地域住民の間に深刻な不安と緊張が蔓延。人道問題と社会の不安定性が極めて高い状態です。",
           "source": "Truthout"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "政治的騒乱、治安悪化、略奪、インフラ不足",
-      "incidents": [
+        },
         {
-          "title": "PoKで抗議激化、レンジャーによる略奪が映像化",
-          "location": "パキスタン占領カシミール (PoK)",
+          "title": "パキスタン占領下カシミールで反政府勢力と政府の衝突激化",
+          "location": "パキスタン占領下ジャンムー・カシミール",
           "severity": 85,
-          "description": "パキスタン占領カシミール(PoK)での抗議活動が激化し、CCTV映像には治安部隊であるレンジャーによる略奪行為が映し出されています。",
-          "source": "MSN"
-        },
-        {
-          "title": "パキスタン、PoKへの野党車両阻止で騒乱増大",
-          "location": "パキスタン",
-          "severity": 70,
-          "description": "パキスタン政府はPoKへ向かう野党の車両を阻止し、抗議指導者との対話を拒否。これにより地域の不安がさらに高まっています。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド、飲料水不足に対する住民抗議",
-          "location": "インド、Pinglena",
-          "severity": 60,
-          "description": "Pinglenaの住民が深刻な飲料水不足に対して抗議デモを実施しています。生活に不可欠な資源の欠如が住民の不安を煽っています。",
-          "source": "Daily Excelsior"
-        },
-        {
-          "title": "インド、電力危機に対する大規模抗議と警告",
-          "location": "インド、パンジャブ州",
-          "severity": 65,
-          "description": "Kisan Mazdoor Morchaがパンジャブ州の電力危機に対して電力会社前で抗議し、「チャッカジャム（道路封鎖）」を警告。エネルギー不足が社会不安を引き起こしています。",
-          "source": "PTC News"
+          "description": "反政府勢力の動きが活発化し、パキスタン政府が抗議デモを阻止。過去15年間で市民の死傷者が増加しており、深刻な政治的緊張と社会秩序の混乱が続いています。",
+          "source": "MSN, organiser.org, News18"
         }
       ]
     },
@@ -101,58 +51,50 @@
       "region": "east_asia",
       "panic_index": 55,
       "status": "unstable",
-      "main_cause": "政治的抗議、治安上の脅威",
+      "main_cause": "政治的抗議、資源不足、治安問題",
       "incidents": [
         {
-          "title": "ソウルの抗議現場で練習用手榴弾発見",
-          "location": "韓国、ソウル",
+          "title": "韓国ソウルで投票集計デモ中に逮捕者、手榴弾発見",
+          "location": "韓国ソウル",
+          "severity": 60,
+          "description": "ソウルでの投票集計に抗議するデモ中に警察官への暴行で女性が逮捕され、現場から練習用手榴弾が発見されました。政治的な抗議活動が治安上の懸念を高めています。",
+          "source": "CHOSUNBIZ, Seoul Economic Daily"
+        },
+        {
+          "title": "インド・Pinglenaで飲料水不足に対する抗議デモ",
+          "location": "インド Pinglena",
           "severity": 65,
-          "description": "ソウルの投票集計所での抗議現場から練習用手榴弾が発見され、警察が捜査を行っています。これは抗議活動の性質が変化する可能性を示唆しています。",
-          "source": "Seoul Economic Daily"
+          "description": "インドのPinglena地域で飲料水不足に抗議する住民デモが発生。基本的な生活インフラの不足が社会不安を引き起こし、住民の不満が爆発しています。",
+          "source": "Daily Excelsior"
         },
         {
-          "title": "ソウルでの投票集計抗議で女性が逮捕",
-          "location": "韓国、ソウル",
-          "severity": 55,
-          "description": "ソウルの投票集計を巡る抗議活動中、女性が唾を吐き、侮辱行為を行ったとして警察に逮捕されました。抗議の緊張の高まりが見られます。",
-          "source": "CHOSUNBIZ"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "金融不安",
-      "incidents": [
-        {
-          "title": "バングラデシュ、銀行員による巨額横領疑惑で顧客抗議",
-          "location": "バングラデシュ、パトゥアカリ",
-          "severity": 50,
-          "description": "銀行出納係が約1000万タカを横領した疑いで行方不明となり、顧客が抗議しています。金融機関への信頼が揺らぎ、不安が広がっています。",
-          "source": "The Daily Star"
+          "title": "インド・パンジャブ州で電力危機に抗議デモ、道路封鎖警告",
+          "location": "インド パンジャブ州",
+          "severity": 70,
+          "description": "深刻な電力危機に対し、農民団体が電力会社前で抗議デモを実施。「chakka jam」（道路封鎖）も警告されており、社会インフラの混乱と住民の不満が顕著です。",
+          "source": "PTC News"
         },
         {
-          "title": "バングラデシュ、銀行預金者による抗議活動",
-          "location": "バングラデシュ、チッタゴン",
-          "severity": 45,
-          "description": "チッタゴンでSammilit Islami Bankの預金者たちが抗議活動を実施しています。銀行に対する不安感が顧客を動かしており、動向が注目されます。",
-          "source": "businesstimes-bd.com"
+          "title": "インド・チェンナイで牛乳不足の懸念",
+          "location": "インド チェンナイ",
+          "severity": 40,
+          "description": "チェンナイで牛乳不足の懸念が広がる中、乳製品会社は不足を否定。他の地域での不足については言及がなく、食料品への不安感が市民の間でくすぶっています。",
+          "source": "DT Next"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "スポーツイベント関連の治安警戒",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "スポーツイベントに伴う暴動",
       "incidents": [
         {
-          "title": "オランダ、W杯試合前の騒乱に備え",
-          "location": "オランダ",
-          "severity": 35,
-          "description": "ワールドカップのモロッコ戦を前に、オランダは潜在的な騒乱に備えています。具体的なパニックは発生していませんが、当局は警戒態勢を敷いています。",
-          "source": "Crypto Briefing"
+          "title": "オランダでW杯祝賀会中に警察襲撃と逮捕者",
+          "location": "オランダ ハーグ、ロッテルダム",
+          "severity": 50,
+          "description": "モロッコW杯祝賀会が暴徒化し、警察官への襲撃や逮捕者（17名）が出ました。特定のイベントに伴う地域的な秩序の乱れが報告されています。",
+          "source": "NL Times"
         }
       ]
     }
