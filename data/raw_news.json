@@ -1,5 +1,71 @@
 [
   {
+    "id": "3211c49d6372",
+    "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+    "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
+    "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+    "published": "2026-06-30T19:39:29+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa",
+      "north_america"
+    ]
+  },
+  {
+    "id": "c73fd34d19c3",
+    "title": "Healthcare situation in DR Congo improves amidst Ebola crisis",
+    "summary": "The Ebola virus continues to spread across the DR Congo but local healthcare workers say the situation has improved.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/healthcare-situation-in-dr-congo-improves-amidst-ebola-crisis?traffic_source=rss",
+    "published": "2026-06-30T19:31:27+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "4aa5864200c4",
+    "title": "What happened on South Africa’s anti-migrant ‘deadline day’",
+    "summary": "Protests in South Africa after campaign groups set June 30 as a deadline for undocumented migrants to leave the country.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/what-happened-on-south-africas-anti-migrant-deadline?traffic_source=rss",
+    "published": "2026-06-30T19:30:38+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "8de585f0057e",
+    "title": "Russia’s fuel crisis deepens following Ukrainian drone strikes",
+    "summary": "Russia's fuel crisis deepens as Ukrainian drone strikes intensify",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/russias-fuel-crisis-deepens-following-ukrainian-drone-strikes?traffic_source=rss",
+    "published": "2026-06-30T19:29:43+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "6e05d3584ac2",
+    "title": "Lebanon’s fragile ceasefire: 3 months later",
+    "summary": "This video also looks at what happened during the three months of the fragile ceasefire.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/lebanons-fragile-ceasefire-3-months-later?traffic_source=rss",
+    "published": "2026-06-30T19:25:08+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
     "id": "d65334e5041e",
     "title": "【随時更新】ロシア ウクライナに軍事侵攻（6月30日の動き）",
     "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる30日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
@@ -27,17 +93,43 @@
     ]
   },
   {
-    "id": "3211c49d6372",
-    "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-    "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
-    "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-    "published": "2026-06-30T16:49:05+00:00",
+    "id": "e9598b2bab84",
+    "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
+    "summary": "The BBC's Katy Watson explains why troops are training in remote Australia - a country not at war, thousands of kilometres from today's major conflicts.",
+    "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-06-30T18:37:59+00:00",
     "source_name": "BBC - World",
     "source_type": "media",
     "language": "en",
     "regions": [
-      "africa",
+      "east_asia",
       "north_america"
+    ]
+  },
+  {
+    "id": "2966d5a32df4",
+    "title": "US heatwave to test power grid amid soaring AI-driven energy demand",
+    "summary": "Grid operators warn the US heatwave could send electricity demand near record levels before Fourth of July weekend.",
+    "url": "https://www.aljazeera.com/news/2026/6/30/us-heatwave-to-test-power-grid-amid-soaring-ai-driven-energy-demand?traffic_source=rss",
+    "published": "2026-06-30T17:57:21+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "c1e610d2d8ca",
+    "title": "UN warns Ebola could cost Africa $3.6bn and jobs",
+    "summary": "The latest Ebola outbreak in DRC has infected 1,307 people and claimed 377 lives since May.",
+    "url": "https://www.aljazeera.com/news/2026/6/30/un-warns-ebola-could-cost-africa-3-6bn-and-jobs?traffic_source=rss",
+    "published": "2026-06-30T17:55:29+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
     ]
   },
   {
@@ -93,16 +185,42 @@
     ]
   },
   {
-    "id": "9727195585fe",
-    "title": "South Africa deploys police as anti-immigrant protests prompt fears",
-    "summary": "Anti-migrant groups have demanded undocumented foreigners leave the country by Tuesday.",
-    "url": "https://www.aljazeera.com/news/2026/6/30/south-africa-deploys-police-as-anti-immigrant-protests-prompt-fears?traffic_source=rss",
-    "published": "2026-06-30T12:04:24+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
+    "id": "d9a597e014d0",
+    "title": "Strait of Hormuz: Gradual re-opening is no quick fix for developing nations, UN warns",
+    "summary": "Re-opening the Strait of Hormuz would bring vital relief for many economies, but developing countries will continue to grapple with increased food and fuel costs, according to a new UN report released on Tuesday.",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167844",
+    "published": "2026-06-30T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
     "language": "en",
     "regions": [
-      "africa"
+      "global"
+    ]
+  },
+  {
+    "id": "7629199fb2c9",
+    "title": "New WHO plan urges stronger action against fungal disease",
+    "summary": "The World Health Organization (WHO) has published new guidance to help countries confront the rising burden of fungal disease and antifungal resistance - one of the most neglected global health threats, yet still largely absent from national health plans.",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167842",
+    "published": "2026-06-30T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "a952260f4533",
+    "title": "Children are turning to AI for homework – and life advice",
+    "summary": "Millions of children across the globe are already using artificial intelligence to learn, solve problems and even seek advice about personal worries, while safeguards are failing to keep pace with the technology's rapid adoption.",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167841",
+    "published": "2026-06-30T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "global"
     ]
   },
   {
@@ -408,19 +526,6 @@
     "language": "ja",
     "regions": [
       "east_asia"
-    ]
-  },
-  {
-    "id": "b7340369a94a",
-    "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-    "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
-    "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-06-28T19:37:07+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
     ]
   },
   {
@@ -873,19 +978,6 @@
     "regions": [
       "europe",
       "north_america"
-    ]
-  },
-  {
-    "id": "6cbf9f9e54a2",
-    "title": "Europe heatwave breaks records as UN agencies ramp up health warnings",
-    "summary": "As a record-breaking heatwave grips large parts of Europe, the World Meteorological Organization (WMO), national weather services and partners are mobilising heat-health action plans for millions of people facing dangerous temperatures.",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167808",
-    "published": "2026-06-25T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "europe"
     ]
   }
 ]
