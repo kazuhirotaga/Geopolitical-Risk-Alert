@@ -1,5 +1,18 @@
 [
   {
+    "id": "52b223cec1e2",
+    "title": "“前ウクライナ軍総司令官 次期大統領選に立候補意欲か”報道",
+    "summary": "ウクライナのメディアは、軍の総司令官だったザルジニー氏が、大統領選挙に立候補する意向をゼレンスキー大統領に伝えたと報じ、動向が注目されています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166791000.html",
+    "published": "2026-07-02T09:00:48+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
     "id": "4cc7548def68",
     "title": "茂木外相 ウクライナ外相に支援と対ロシア制裁の推進を伝達",
     "summary": "茂木外務大臣は、日本を訪れているウクライナのシビハ外相と会談し、「『ウクライナと共にある』とのわが国の方針に揺らぎはない」と述べ、公正かつ永続的な平和の実現に向けて、ウクライナ支援とロシアへの制裁を推進していく考えを伝えました。",
@@ -11,19 +24,6 @@
     "regions": [
       "east_asia",
       "europe"
-    ]
-  },
-  {
-    "id": "bbfc38940df8",
-    "title": "きょう日印首脳会談 経済安保など協力進展図る 成果文書も調整",
-    "summary": "インドを訪問中の高市総理大臣は、2日にモディ首相との首脳会談に臨むことにしています。経済安全保障分野などを中心にインドとの具体的な協力の進展を図りたい考えで、共同声明に加え、経済安全保障とAIの分野で成果文書をまとめる方向で調整しています。",
-    "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166401000.html",
-    "published": "2026-07-02T05:33:10+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "south_asia"
     ]
   },
   {
@@ -40,6 +40,110 @@
     ]
   },
   {
+    "id": "b5eb790c27ad",
+    "title": "At least eight killed in major missile and drone strikes on Kyiv",
+    "summary": "Russia launched its biggest strikes on the city in weeks hours after Volodymyr Zelensky said Moscow was planning a \"massive\" attack.",
+    "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-02T03:24:45+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "3dc6d08f75ea",
+    "title": "EU border rules causing travel chaos ahead of summer peak, industry warns",
+    "summary": "European airlines and airports call for flexibility to suspend digital border system amid severe delays.",
+    "url": "https://www.aljazeera.com/economy/2026/7/2/eu-border-rules-causing-travel-chaos-ahead-of-summer-peak-industry-warns?traffic_source=rss",
+    "published": "2026-07-02T03:14:42+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "acc0d3388cb1",
+    "title": "Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’",
+    "summary": "At least two dead and 11 injured as Ukraine's forces defend against ballistic missiles, drones targeting capital city.",
+    "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
+    "published": "2026-07-02T02:15:06+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "5cd358d61999",
+    "title": "‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
+    "summary": "Aid workers fear disease outbreaks in temporary shelters amid overcrowding, lack of access to clean water, sanitation.",
+    "url": "https://www.aljazeera.com/news/2026/7/2/a-war-zone-venezuela-aid-workers-fear-health-crisis-after-earthquakes?traffic_source=rss",
+    "published": "2026-07-02T01:24:22+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_america"
+    ]
+  },
+  {
+    "id": "13c46b06deeb",
+    "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+    "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+    "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-02T00:26:13+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_america"
+    ]
+  },
+  {
+    "id": "545863e6025c",
+    "title": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
+    "summary": "Tehran says a 'communication channel' will be established with Washington to report and discuss breaches of the MoU.",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss",
+    "published": "2026-07-02T00:00:00+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "3d84bbeb8279",
+    "title": "Couple arrested after daring Empire State marriage proposal stunt",
+    "summary": "Russian daredevils Vanya Beerkus and Angela Nikolau are seen as ambassadors for 'rooftopping', a climbing sport.",
+    "url": "https://www.aljazeera.com/news/2026/7/1/couple-arrested-after-daring-empire-state-marriage-proposal-stunt?traffic_source=rss",
+    "published": "2026-07-01T23:03:58+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "8923995e139d",
+    "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+    "summary": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
+    "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-01T22:36:43+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
     "id": "b98d28a11dea",
     "title": "高市首相 インドに到着 モディ首相と首脳会談へ",
     "summary": "高市総理大臣は、日本時間の1日夜、インドに到着しました。2日、モディ首相との首脳会談に臨むことにしていて、経済安全保障分野などを中心にインドとの具体的な協力の進展を図ることにしています。",
@@ -51,19 +155,6 @@
     "regions": [
       "east_asia",
       "south_asia"
-    ]
-  },
-  {
-    "id": "13c46b06deeb",
-    "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-    "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
-    "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-01T21:27:04+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "south_america"
     ]
   },
   {
@@ -132,45 +223,6 @@
     ]
   },
   {
-    "id": "50a5e81ab4c6",
-    "title": "Can Sudan’s Rapid Support Forces take control of el-Obeid?",
-    "summary": "The RSF wants to seize the strategic southern city from the Sudanese military.",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/7/1/can-sudans-rapid-support-forces-take-control-of-el-obeid?traffic_source=rss",
-    "published": "2026-07-01T17:39:02+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
-    "id": "0da0caead26b",
-    "title": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
-    "summary": "Displaced Lebanese face a void as war annihilates the physical and emotional anchors of their past and identity.",
-    "url": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss",
-    "published": "2026-07-01T17:36:09+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "9c6e958c4eac",
-    "title": "What military capabilities does Iran possess as it negotiates with US?",
-    "summary": "US and Israel claim extensive damage, Iran projects defiance, and satellite images show fast attempts at recovery.",
-    "url": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss",
-    "published": "2026-07-01T17:19:55+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
     "id": "09976c51d8c5",
     "title": "Businessman goes on trial over murder of Maltese journalist",
     "summary": "Yorgen Fenech denies any involvement in the assassination of Daphne Caruana Galizia in 2017.",
@@ -184,32 +236,6 @@
     ]
   },
   {
-    "id": "ba8cf2fb88ac",
-    "title": "The Iran talks expose the collapse of US diplomacy",
-    "summary": "In the Trump era, American diplomacy is being led not by impartial diplomats, but by real estate investors.",
-    "url": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss",
-    "published": "2026-07-01T17:05:20+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "7c9f25b60d8b",
-    "title": "Warmest June on record for England, second-warmest for UK, says Met Office",
-    "summary": "A punishing heatwave affected many parts of the country during the last week of the month.",
-    "url": "https://www.aljazeera.com/news/2026/7/1/warmest-june-on-record-for-england-second-warmest-for-uk-says-met-office?traffic_source=rss",
-    "published": "2026-07-01T16:48:45+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
     "id": "d554609e187e",
     "title": "高市首相 インドに向け出発 経済安全保障など協力進展目指す",
     "summary": "高市総理大臣はインドのモディ首相との首脳会談に臨むため、1日午後羽田空港を出発しました。これに先立ち経済安全保障分野などを中心にインドとの具体的な協力の進展を目指す考えを示しました。",
@@ -220,19 +246,6 @@
     "language": "ja",
     "regions": [
       "south_asia"
-    ]
-  },
-  {
-    "id": "7597e576e629",
-    "title": "Amnesty says RSF committed ethnic cleansing in Sudan’s el-Fasher",
-    "summary": "Rights group accuses the paramilitary of 'crimes against humanity' for attacks in and around North Darfur State capital.",
-    "url": "https://www.aljazeera.com/news/2026/7/1/amnesty-says-rsf-committed-ethnic-cleansing-in-sudans-el-fasher?traffic_source=rss",
-    "published": "2026-07-01T16:24:04+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
     ]
   },
   {
@@ -287,6 +300,19 @@
     "regions": [
       "east_asia",
       "europe"
+    ]
+  },
+  {
+    "id": "6eec15011d00",
+    "title": "'Everything blew up': A baseball stadium becomes a refuge in Venezuela",
+    "summary": "Where children once trained as baseball players, families now sleep under tarpaulins. The stadium at Playa Grande, on Venezuela's central coast, has become an emergency shelter for people who lost their homes – or cannot safely return to them – after the deadly quakes that struck the country on 24 June.",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167857",
+    "published": "2026-07-01T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "south_america"
     ]
   },
   {
