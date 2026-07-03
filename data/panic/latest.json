@@ -1,49 +1,85 @@
 {
   "date": "2026-07-03",
-  "summary": "世界各地で金融不安、エネルギー供給の途絶、政治的抗議活動の激化、民族間の衝突など、多様な要因による社会不安が増大しています。特にヨーロッパでは暴動や銀行破綻、ロシアでのガソリン不足が発生し、中東では民族間の衝突が頻発。南アジアでも大規模な反政府抗議活動が激化しており、一部地域では社会秩序が不安定な状態にあります。全体的に警戒を要する状況です。",
-  "global_panic_index": 55,
+  "summary": "世界各地では、中東と南アジアを中心に社会不安が増大しています。中東では地域間の衝突が頻発し、南アジアのパキスタン管理カシミール（PoK）では飲用水不足や政治的抑圧に対する大規模な抗議活動が激化し、軍の関与も疑われる深刻な状況です。ヨーロッパの一部地域では暴動が発生し、ロシアではガソリン不足が報じられています。また、特定の場所では銀行破綻も発生しており、広範な経済的・社会的不安がくすぶる「不安定」な状態が続いています。",
+  "global_panic_index": 58,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 20,
-      "status": "stable",
-      "main_cause": "政治的抗議",
+      "region": "middle_east",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "地域紛争、政治的緊張、民族間の対立",
       "incidents": [
         {
-          "title": "ユダヤ人グループによる政治家への抗議計画",
-          "location": "ニューヨーク, アメリカ合衆国",
-          "severity": 20,
-          "description": "ニューヨークで特定の政治家の訪問に対し、ユダヤ人グループが抗議デモを計画中。これは民主的な権利の行使であり、現時点での社会的なパニックには至っていない。",
-          "source": "Jewish Telegraphic Agency"
+          "title": "西岸地区での抗議デモと軍による鎮圧",
+          "location": "Southern West Bank (Palestine/Israel)",
+          "severity": 70,
+          "description": "パレスチナ人による抗議デモがイスラエル軍により鎮圧され、複数の負傷者と逮捕者が出ました。地域間の緊張が継続し、暴力的な衝突に発展する可能性があります。",
+          "source": "Anadolu Ajansı"
+        },
+        {
+          "title": "西岸地区での民族間衝突と逮捕",
+          "location": "West Bank (Palestine/Israel)",
+          "severity": 65,
+          "description": "西岸地区で、警察から逃走中のユダヤ人グループを襲撃した疑いでパレスチナ人8名が逮捕されました。民族間の対立が暴力に繋がり、治安悪化を招いています。",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "入植地に対する抗議と衝突",
+          "location": "West Bank (Palestine/Israel)",
+          "severity": 75,
+          "description": "西岸地区で入植地に抗議するパレスチナ人と入植者が衝突しました。土地を巡る紛争が日常的な暴力行為に発展しており、地域の不安定さを強く示唆しています。",
+          "source": "Awani International"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "エネルギー不足、社会秩序の混乱、金融不安",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "エネルギー供給不安、社会秩序の乱れ",
       "incidents": [
         {
-          "title": "ロシア・ノヴォロシースク市におけるガソリン不足",
-          "location": "ノヴォロシースク, ロシア",
-          "severity": 65,
-          "description": "ロシアの主要港湾都市ノヴォロシースクで、全てのガソリンスタンドがガソリン切れに陥った。これは供給網の深刻な混乱か、住民による買いだめを示唆し、市民生活に大きな影響を与えている。",
+          "title": "ロシア・ノヴォロシースクでのガソリン不足",
+          "location": "Novorossiysk (Russia)",
+          "severity": 70,
+          "description": "ロシアのノヴォロシースク市で全てのガソリンスタンドがガソリン欠乏に陥りました。市民生活への深刻な影響が懸念され、エネルギー不足による広範な不安を引き起こす可能性があります。",
           "source": "Meduza"
         },
         {
           "title": "北アイルランド・バリーメナでの暴動参加者逮捕",
-          "location": "バリーメナ, 北アイルランド",
+          "location": "Ballymena (Northern Ireland, UK)",
           "severity": 80,
-          "description": "北アイルランドのバリーメナで発生した暴動の参加者が逮捕され、警察は今後も逮捕者が続くと警告。実際の暴動は社会秩序の深刻な混乱と市民の恐怖を招いている。",
+          "description": "北アイルランドのバリーメナで発生した暴動の参加者が刑務所に収監され、警察は追加の逮捕を警告しました。大規模な社会秩序の崩壊と混乱を示唆する深刻な事態です。",
           "source": "loveballymena.online"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "資源不足、政治的抑圧への反発、地域紛争",
+      "incidents": [
+        {
+          "title": "インドでの飲用水不足に対する抗議デモ",
+          "location": "Tatiparthi (India)",
+          "severity": 60,
+          "description": "インドのタティパルティで、先住民の女性たちが飲用水不足に抗議し、空の容器を持ってデモを実施しました。基本的な生活資源の不足が住民の不安を煽っています。",
+          "source": "Deccan Chronicle"
         },
         {
-          "title": "銀行の破綻と巨額資金流出",
-          "location": "不明",
-          "severity": 75,
-          "description": "1日で420億ドルが消失し、銀行が破綻。これは取り付け騒ぎや広範な金融システムへの不信感を引き起こし、深刻な金融パニックに発展する可能性が高い。",
+          "title": "PoKでの軍によるカシミール人武装疑惑",
+          "location": "PoK (Pakistan Administered Kashmir)",
+          "severity": 85,
+          "description": "パキスタン管理カシミール（PoK）の抗議リーダーが、現在進行中の不安状態の中でパキスタン軍がカシミール人に武器を供給したと主張。深刻な政治的混乱と武力衝突の可能性を示唆しています。",
           "source": "MSN"
+        },
+        {
+          "title": "PoKで反パキスタン抗議活動が激化",
+          "location": "PoK (Pakistan Administered Kashmir)",
+          "severity": 90,
+          "description": "パキスタン管理カシミール（PoK）で反パキスタン抗議活動が激化し、住民が権利と政治改革を要求しています。大規模な暴動や社会インフラのマヒに至る可能性が高い、極めて緊迫した状況です。",
+          "source": "ABP Live English"
         }
       ]
     },
@@ -51,86 +87,29 @@
       "region": "east_asia",
       "panic_index": 35,
       "status": "unstable",
-      "main_cause": "政治的不信",
+      "main_cause": "政治的信頼の揺らぎ",
       "incidents": [
         {
-          "title": "韓国での選挙不正疑惑に対する若年層の傾倒",
-          "location": "韓国",
-          "severity": 45,
-          "description": "韓国の若年層の間で選挙不正疑惑への支持が広がっているという調査結果。これは政治システムへの不信感を募らせ、将来的な社会の分断と不安の火種となる可能性がある。",
-          "source": "The Korea Herald"
-        },
-        {
-          "title": "日本・沖縄での増税反対デモ",
-          "location": "沖縄, 日本",
-          "severity": 30,
-          "description": "れいわ新選組が沖縄で増税反対を訴えるデモを実施。これは特定の政治的意見表明であり、現時点では大規模な社会パニックを引き起こすレベルではない。",
-          "source": "れいわ新選組"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "民族紛争、治安悪化",
-      "incidents": [
-        {
-          "title": "ヨルダン川西岸地区でのハシディック系ユダヤ人襲撃容疑者逮捕",
-          "location": "ヨルダン川西岸地区, イスラエル/パレスチナ",
-          "severity": 60,
-          "description": "ヨルダン川西岸地区で、警察から逃走中のユダヤ人グループを襲撃した疑いでパレスチナ人8人が逮捕された。この事件は地域の治安悪化と民族間の緊張の高まりを反映している。",
-          "source": "The Times of Israel"
-        },
-        {
-          "title": "ヨルダン川西岸地区での自動車襲撃事件容疑者逮捕",
-          "location": "ヨルダン川西岸地区, イスラエル",
-          "severity": 60,
-          "description": "ヨルダン川西岸地区で自動車による襲撃事件の容疑者がイスラエル軍に逮捕された。この種の暴力行為は地域の住民に深い不安を与え、社会不安を増幅させる。",
-          "source": "The Jerusalem Post"
-        },
-        {
-          "title": "ヨルダン川西岸地区での入植者とパレスチナ人の衝突",
-          "location": "ヨルダン川西岸地区, イスラエル/パレスチナ",
-          "severity": 75,
-          "description": "ヨルダン川西岸地区でイスラエル人入植者とパレスチナ人が入植地反対デモ中に衝突。直接的な暴力行為は地域の緊張を劇的に高め、パニックやさらなる暴動の引き金となる。",
-          "source": "Awani International"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 58,
-      "status": "volatile",
-      "main_cause": "政治的不満、民族紛争、人権問題",
-      "incidents": [
-        {
-          "title": "PoK（パキスタン占領下のカシミール）での反パキスタン抗議活動の激化",
-          "location": "PoK (パキスタン占領下のカシミール)",
-          "severity": 75,
-          "description": "PoKで反パキスタン抗議活動が激化し、住民が権利と政治改革を要求。大規模なデモは社会秩序の不安定さと、政府への強い不満を反映している。",
-          "source": "ABP Live English"
-        },
-        {
-          "title": "PoK抗議指導者によるパキスタン軍のカシミール人武装非難",
-          "location": "PoK (パキスタン占領下のカシミール)",
-          "severity": 70,
-          "description": "PoKの抗議指導者がパキスタン軍がカシミール人を武装させていると非難。これは地域の紛争激化と住民の不信感を増幅させ、深刻な社会不安の要因となる。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド・メーガーラヤ州での部族の権利侵害疑惑をBJPが非難",
-          "location": "メーガーラヤ州, インド",
-          "severity": 45,
-          "description": "インドのメーガーラヤ州における部族の権利侵害疑惑をBJPが非難。これは社会的な緊張や潜在的な紛争の火種となり得る問題だが、直接的なパニックには至っていない。",
-          "source": "News On AIR"
-        },
-        {
-          "title": "インド・コタでの政治集会が学生の間に騒乱を引き起こしたと批判",
-          "location": "コタ, インド",
+          "title": "韓国における選挙不正疑惑への傾倒",
+          "location": "South Korea",
           "severity": 40,
-          "description": "インドのコタで行われたラフル・ガンジー氏の集会が学生の間で「騒乱」を引き起こしたと批判された。これは政治的緊張と地域的な不安の兆候だが、大規模な暴動ではない。",
-          "source": "The News Mill"
+          "description": "韓国で若い世代が6月3日の選挙不正疑惑に傾倒しているとの調査結果が示されました。直接的なパニックではないものの、政治的信頼の低下と社会不安の潜在的な要因となり得ます。",
+          "source": "The Korea Herald"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "政治的対立",
+      "incidents": [
+        {
+          "title": "ニューヨーク市での抗議デモ計画",
+          "location": "New York City (USA)",
+          "severity": 30,
+          "description": "ニューヨーク市でユダヤ人団体が特定の人物の到着に抗議する計画を立案しています。現時点では計画段階ですが、政治的な意見対立による小規模な抗議活動の兆候が見られます。",
+          "source": "Jewish Telegraphic Agency"
         }
       ]
     }
