@@ -1,143 +1,150 @@
 {
   "date": "2026-07-03",
-  "summary": "世界各地で地域紛争の激化、エネルギー不足、金融システム不安、そして政治的不信に基づく大規模な抗議デモが頻発し、社会不安が増大しています。特に欧州では銀行破綻やガソリン枯渇が報じられ、中東では軍と市民の衝突が深刻化。アジア地域でも長期的な政治デモや水不足が顕在化しており、各国政府は警戒態勢を強めています。グローバルな緊迫度は中程度の警戒状態にあります。",
-  "global_panic_index": 62,
+  "summary": "世界各地で複合的な社会不安が顕在化しています。中東では政治的・領土的紛争に伴う衝突と抗議が継続し、南アジアでは大規模な反政府デモが激化しています。ロシアの一部地域ではエネルギー不足が深刻化し、生活に直結する問題となっています。さらに、北米（米国発と推定）では大手銀行の破綻が報じられ、金融パニックの兆候が見られます。東アジアは比較的安定していますが、グローバルな緊迫度は高い水準にあります。",
+  "global_panic_index": 75,
   "regions": [
     {
       "region": "middle_east",
       "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "地域紛争と政治的緊張",
+      "status": "critical",
+      "main_cause": "政治的・領土的紛争、大規模抗議デモ、武力衝突",
       "incidents": [
         {
-          "title": "イスラエル軍がヨルダン川西岸の抗議デモを鎮圧、負傷者・逮捕者",
-          "location": "Southern West Bank",
+          "title": "イスラエル軍がパレスチナ人の抗議デモを鎮圧、負傷者と逮捕者",
+          "location": "ヨルダン川西岸南部",
           "severity": 80,
-          "description": "南部ヨルダン川西岸でパレスチナ人による抗議デモが発生し、イスラエル軍が鎮圧。多数の負傷者と逮捕者が出ており、地域情勢の緊迫が続く。",
+          "description": "イスラエル軍がヨルダン川西岸南部で発生した抗議デモを鎮圧し、パレスチナ人数名が負傷・逮捕されました。地域住民と軍の間の緊張が高まっています。",
           "source": "Anadolu Ajansı"
         },
         {
-          "title": "ヨルダン川西岸で入植者とパレスチナ人が衝突",
-          "location": "West Bank",
-          "severity": 85,
-          "description": "ヨルダン川西岸で、入植に抗議するパレスチナ人とイスラエル人入植者の間で物理的衝突が発生。地域の緊張が極度に高まっている。",
-          "source": "Awani International"
+          "title": "パレスチナ人8名がハシディック系ユダヤ人グループを攻撃、逮捕",
+          "location": "ヨルダン川西岸",
+          "severity": 70,
+          "description": "警察から逃走中にハシディック系ユダヤ人グループを攻撃したとされるパレスチナ人8名が逮捕されました。地域間の対立が深刻化しています。",
+          "source": "The Times of Israel"
         },
         {
-          "title": "ヨルダン川西岸でハシディック系ユダヤ人を襲撃した疑いで8人のパレスチナ人を逮捕",
-          "location": "West Bank",
+          "title": "イスラエル入植地承認でパレスチナ側がエルサレムの孤立を警告",
+          "location": "イスラエル/パレスチナ",
+          "severity": 65,
+          "description": "イスラエル政府が新たな入植地13ヶ所の承認を決定し、パレスチナ側はエルサレムのさらなる孤立と緊張の高まりを警告しています。",
+          "source": "Middle East Monitor"
+        },
+        {
+          "title": "イスラエル人入植者とパレスチナ人が衝突、負傷者発生",
+          "location": "ヨルダン川西岸",
+          "severity": 75,
+          "description": "入植地に抗議するパレスチナ人とイスラエル人入植者が衝突し、パレスチナ人や外国人活動家が負傷しました。暴力的対立が常態化しています。",
+          "source": "Anadolu Ajansı / Awani International"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "政治的改革要求、資源不足、金融不安",
+      "incidents": [
+        {
+          "title": "パキスタン占領下のカシミール(PoK)で反パキスタン抗議デモ激化",
+          "location": "パキスタン占領下のカシミール",
+          "severity": 85,
+          "description": "パキスタン占領下のカシミールで反パキスタン抗議デモが激化し、住民は権利と政治改革を要求。地域全体の不安定化が進行しています。",
+          "source": "ABP Live English"
+        },
+        {
+          "title": "PoK抗議リーダーがパキスタン軍によるカシミール人武装を告発",
+          "location": "パキスタン占領下のカシミール",
+          "severity": 80,
+          "description": "PoKの抗議リーダーが、継続する騒乱中にパキスタン軍がカシミール人に武器を供与したと主張。紛争激化と軍事介入の疑惑が浮上しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "飲料水不足に対し部族の女性たちが空の壺で抗議デモ",
+          "location": "タティパルティ、インド",
           "severity": 60,
-          "description": "ヨルダン川西岸でハシディック系ユダヤ人グループを襲撃した疑いでパレスチナ人8名が逮捕された。警察からの逃走劇があり、地域の治安情勢が悪化している。",
-          "source": "The Times of Israel"
+          "description": "インドのタティパルティで、飲料水不足に苦しむ部族の女性たちが空の壺を掲げて抗議デモを実施。生活必需品の不足が深刻化しています。",
+          "source": "Deccan Chronicle"
+        },
+        {
+          "title": "ユニオン銀行の株価が急落、金融市場に不安広がる",
+          "location": "インド",
+          "severity": 55,
+          "description": "インドのユニオン銀行の株価が第1四半期報告後に7%以上急落。金融市場における不安が高まり、投資家の間で懸念が広がっています。",
+          "source": "Business Standard / Zee Business"
+        },
+        {
+          "title": "騒乱回避のため警備強化",
+          "location": "パキスタン",
+          "severity": 50,
+          "description": "社会の騒乱を未然に防ぐため、国内各地で警備体制が強化されています。潜在的な社会不安が高まっている兆候です。",
+          "source": "The Express Tribune"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 78,
-      "status": "critical",
-      "main_cause": "金融不安とエネルギー供給問題",
-      "incidents": [
-        {
-          "title": "1日で420億ドル消失、銀行破綻",
-          "location": "Global Financial Markets (Unspecified)",
-          "severity": 90,
-          "description": "わずか1日で420億ドルが消失し、その後銀行が破綻した。これは大規模な金融パニックを示唆しており、預金者の不安を煽り、経済システム全体への信頼を揺るがす恐れがある。",
-          "source": "MSN"
-        },
-        {
-          "title": "ロシアのノヴォロシースク市で全ガソリンスタンドが枯渇",
-          "location": "Novorossiysk, Russia",
-          "severity": 75,
-          "description": "ロシアのノヴォロシースク市内の全ガソリンスタンドでガソリンが枯渇。エネルギー供給の不安定さは市民の日常生活に深刻な影響を与え、買いだめや供給不安を引き起こす可能性がある。",
-          "source": "Meduza"
-        },
-        {
-          "title": "アルバニアでリゾート建設計画への抗議デモが拡大、首相辞任要求",
-          "location": "Albania",
-          "severity": 70,
-          "description": "アルバニアでリゾート建設計画に反対する抗議デモが拡大し、首相辞任まで求める事態に発展。大規模な社会運動が政治的混乱を引き起こし、社会不安が増大している。",
-          "source": "NHKニュース"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 50,
+      "panic_index": 60,
       "status": "unstable",
-      "main_cause": "選挙制度への不信と政治的不安",
+      "main_cause": "エネルギー不足",
       "incidents": [
         {
-          "title": "韓国で27日間続く開票所封鎖デモに過激政治集団が介入",
-          "location": "Korea",
+          "title": "ロシアのノヴォロシースクで全ガソリンスタンドが枯渇",
+          "location": "ノヴォロシースク、ロシア",
           "severity": 85,
-          "description": "韓国で27日間にわたり開票所が封鎖されるデモが続き、過激な政治集団が介入している。これは選挙制度への深刻な不信から生じるもので、社会秩序を著しく乱し、パニック状態に陥る危険性がある。",
-          "source": "KOREA WAVE (Yahoo!ニュース)"
-        },
-        {
-          "title": "韓国の若年層で選挙不正疑惑を信じる傾向",
-          "location": "Korea",
-          "severity": 40,
-          "description": "韓国の若年層で6月3日の選挙不正疑惑を信じる傾向が調査で示された。これは社会的不信感の広がりを示唆しており、将来的な社会不安の火種となり得る。",
-          "source": "The Korea Herald"
-        },
-        {
-          "title": "日本の沖縄でれいわ新選組による増税反対デモ",
-          "location": "Okinawa, Japan",
-          "severity": 25,
-          "description": "日本の沖縄でれいわ新選組による増税反対デモが開催された。政策への異議表明ではあるが、現時点では大規模な社会秩序の混乱やパニックには至っていない。",
-          "source": "れいわ新選組"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 58,
-      "status": "unstable",
-      "main_cause": "水不足と政治的抗議",
-      "incidents": [
-        {
-          "title": "インドのタティパルティで飲料水不足に対する抗議デモ",
-          "location": "Tatiparthi, India",
-          "severity": 70,
-          "description": "インドのタティパルティ地域で、飲料水不足に抗議する部族の女性たちが空の壺を手にデモを実施。生命維持に不可欠な資源の欠乏は、地域住民の深刻な不安と不満を引き起こしている。",
-          "source": "Deccan Chronicle"
-        },
-        {
-          "title": "パキスタン占領カシミール（PoK）で反パキスタン抗議デモが激化",
-          "location": "Pakistan Occupied Kashmir",
-          "severity": 75,
-          "description": "パキスタン占領カシミール（PoK）で反パキスタン抗議デモが激化。デモ参加者は権利と政治改革を要求しており、地域の社会情勢は非常に不安定な状態にある。",
-          "source": "ABP Live English"
-        },
-        {
-          "title": "ユニオン銀行の株価が四半期事業報告後に7%急落",
-          "location": "India",
-          "severity": 50,
-          "description": "ユニオン銀行の株価が四半期事業報告後に7%急落した。これは投資家の不安を煽るが、直ちに大規模な取り付け騒ぎや金融パニックに繋がる状況ではない。",
-          "source": "Business Standard"
-        },
-        {
-          "title": "インドの政治集会が学生に「不安」を引き起こすと批判",
-          "location": "Kota, India",
-          "severity": 35,
-          "description": "インドのコタで行われたラフル・ガンジーの政治集会が学生の間で不安を引き起こしていると批判された。これは社会的な緊張を示すが、広範なパニック状態には至っていない。",
-          "source": "The News Mill"
+          "description": "ロシア南部のノヴォロシースクにある全てのガソリンスタンドでガソリンが枯渇。住民の移動や物流に深刻な影響が出ており、買いだめや生活インフラへの不安が拡大しています。",
+          "source": "Meduza"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 20,
-      "status": "normal",
-      "main_cause": "なし",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "金融不安、政治的抗議",
       "incidents": [
         {
-          "title": "ニューヨーク市でユダヤ系団体が特定の人物の訪問に抗議を計画",
-          "location": "NYC, USA",
-          "severity": 20,
-          "description": "ニューヨーク市でユダヤ系団体が、特定の人物の到着に抗議する計画を立てている。現時点では計画段階の抗議活動であり、社会全体に影響を及ぼすパニックには至っていない。",
+          "title": "1日で420億ドル消失、銀行が破綻",
+          "location": "不明（米国発と推定）",
+          "severity": 90,
+          "description": "わずか1日で420億ドルが失われ、その後に銀行が破綻しました。大規模な金融取り付け騒ぎや信用不安を示唆し、経済的混乱と社会不安の潜在的な引き金となります。",
+          "source": "MSN"
+        },
+        {
+          "title": "ユダヤ系グループがイスラエル政治家のNY訪問に抗議を計画",
+          "location": "ニューヨーク市、米国",
+          "severity": 30,
+          "description": "イスラエルの政治家ベン・グヴィルのニューヨーク訪問に対し、ユダヤ系グループが抗議デモを計画しています。国際的な政治問題への関心と批判が背景にあります。",
           "source": "Jewish Telegraphic Agency"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 30,
+      "status": "stable",
+      "main_cause": "政治的不信、政策批判",
+      "incidents": [
+        {
+          "title": "若い韓国人が選挙不正疑惑に傾倒する傾向が調査で判明",
+          "location": "韓国",
+          "severity": 40,
+          "description": "韓国で行われた調査で、若い世代が特定の選挙における不正疑惑を信じる傾向にあることが判明しました。政治への不信感の表れとして注視されています。",
+          "source": "The Korea Herald"
+        },
+        {
+          "title": "れいわ新選組が沖縄で増税反対デモを開始",
+          "location": "沖縄、日本",
+          "severity": 35,
+          "description": "日本の政治団体「れいわ新選組」が、増税に反対するデモ活動を沖縄で開始しました。特定の政策に対する国民の不満を表明する動きです。",
+          "source": "れいわ新選組"
+        },
+        {
+          "title": "財務省解体デモに関する解説記事",
+          "location": "日本",
+          "severity": 20,
+          "description": "財務省解体デモの背景や目的を解説する記事が掲載されました。特定の政治的主張に対する関心を示していますが、直接的な社会混乱には至っていません。",
+          "source": "朝日新聞"
         }
       ]
     }
