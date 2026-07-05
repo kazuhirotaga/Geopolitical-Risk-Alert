@@ -1,91 +1,20 @@
 {
   "date": "2026-07-05",
-  "summary": "世界各地で社会不安が深刻化しています。特に南アジアでは食料不足と政府への大規模抗議が暴動と弾圧につながり、アフリカでは水不足や政情不安、刑務所暴動が死者を出すなど、複数の国で危機的な状況が報告されています。欧州と北米では局地的な混乱や経済不安が見られるものの、全体的には高まる緊張状態にあり、人々の不安が顕在化しています。",
+  "summary": "世界各地でパニックと社会不安が深刻化しています。特に南アジアのパキスタン占領下のカシミール地域では、食料不足と大規模な抗議デモに対する政府の弾圧が続き、社会秩序が極めて危機的な状況にあります。北米では略奪や暴動、アフリカでは水不足や軍事不安、中東では地域紛争に伴う暴力行為が頻発。生活必需品の欠如や政治的・社会的な不満が大規模デモや暴動へと発展しており、多くの地域で緊迫した状況が続いています。",
   "global_panic_index": 75,
   "regions": [
     {
-      "region": "south_asia",
-      "panic_index": 95,
+      "region": "north_america",
+      "panic_index": 85,
       "status": "critical",
-      "main_cause": "食料不足、政府への大規模抗議、人権侵害",
+      "main_cause": "社会秩序の混乱、略奪",
       "incidents": [
         {
-          "title": "PoJKでの食料不足と大規模抗議デモ",
-          "location": "PoJK (パキスタン占領カシミール)",
-          "severity": 90,
-          "description": "パキスタン占領下のカシミール(PoJK)で深刻な食料不足が発生し、大規模な抗議デモに発展。住民が基本的権利を求め政府に反発している状況が報告されています。",
-          "source": "Kanak News Odisha"
-        },
-        {
-          "title": "PoJKにおける反パキスタン抗議と弾圧",
-          "location": "PoJK (パキスタン占領カシミール)",
-          "severity": 95,
-          "description": "PoJKで大規模な反パキスタン抗議活動が勃発。政府の残忍な弾圧と600人もの活動家逮捕を受け、情勢はさらに緊迫し、準パニック状態にあります。",
-          "source": "The Tribune"
-        },
-        {
-          "title": "PoJKでパキスタン軍がデモ隊に発砲",
-          "location": "PoJK (パキスタン占領カシミール)",
-          "severity": 100,
-          "description": "PoJKにて、基本的人権を要求する約4万人のデモ隊に対しパキスタン軍が発砲。多数の死傷者が懸念され、完全にパニック状態に陥っています。",
-          "source": "zoomnews.in"
-        },
-        {
-          "title": "ネゴンボ刑務所での騒動と抗議",
-          "location": "ネゴンボ (スリランカ)",
-          "severity": 50,
-          "description": "スリランカのネゴンボ刑務所で受刑者が屋根に上り抗議活動を実施。刑務所内の秩序が乱れ、当局が対応に追われている状況です。",
-          "source": "Newswire"
-        },
-        {
-          "title": "銀行員による横領疑惑と顧客抗議",
-          "location": "パトゥアカリ (バングラデシュ)",
-          "severity": 55,
-          "description": "バングラデシュのパトゥアカリで銀行員が約1千万タカを持ち逃げした疑いにより、顧客が銀行前で抗議活動を行っており、金融不安の兆候が見られます。",
-          "source": "The Daily Star"
-        }
-      ]
-    },
-    {
-      "region": "africa",
-      "panic_index": 90,
-      "status": "critical",
-      "main_cause": "水不足、政情不安、社会秩序の混乱",
-      "incidents": [
-        {
-          "title": "ラタンダ水危機が暴動と放火に発展",
-          "location": "ラタンダ (南アフリカ)",
-          "severity": 95,
-          "description": "南アフリカ・ラタンダで水不足が暴動に発展し、市長宅が放火される事態に。15人が逮捕され、政府が事態を非難しており、極めて危険な状況です。",
-          "source": "The Citizen"
-        },
-        {
-          "title": "モザンビーク刑務所暴動で33人死亡",
-          "location": "モザンビーク",
-          "severity": 90,
-          "description": "モザンビークの刑務所暴動で33人が死亡。この事件は国内の広範な社会不安を反映しており、情勢は極めて危険な状態にあります。",
-          "source": "The Eastleigh Voice"
-        },
-        {
-          "title": "ニジェール大統領宮殿周辺で軍事騒乱",
-          "location": "ニジェール",
-          "severity": 80,
-          "description": "ニジェール大統領宮殿周辺で警備が厳戒態勢。軍事的な騒乱が報告されており、クーデターの懸念が高まり、政情が不安定化しています。",
-          "source": "Daily Post Nigeria"
-        },
-        {
-          "title": "マサラニ住民が極度の水不足を訴え",
-          "location": "マサラニ (ケニア)",
-          "severity": 70,
-          "description": "ケニア・ガリッサのマサラニ住民が極度の水不足を訴えている。生活インフラが逼迫し、住民の生命に関わる深刻な人道危機に瀕しています。",
-          "source": "The Eastleigh Voice"
-        },
-        {
-          "title": "FUTA教育病院で労働争議が活動を妨害",
-          "location": "FUTA (ナイジェリア)",
-          "severity": 55,
-          "description": "ナイジェリア・FUTAの教育病院で労働争議が活動を妨害。警察が介入し、重要な医療サービスへの影響が懸念されており、社会不安を引き起こしています。",
-          "source": "Blueprint Newspapers"
+          "title": "カリフォルニアでの略奪と暴動",
+          "location": "米国カリフォルニア州",
+          "severity": 85,
+          "description": "独立記念日の祝典中に、複数の場所で略奪行為や暴動が発生。警察が馬で出動し、火災も発生するなど、深刻な社会秩序の混乱が見られました。",
+          "source": "New York Post"
         }
       ]
     },
@@ -93,36 +22,160 @@
       "region": "europe",
       "panic_index": 55,
       "status": "unstable",
-      "main_cause": "娯楽を起因とする公共の秩序の乱れ、経済的不安定",
+      "main_cause": "突発的な騒乱、政治的抗議",
       "incidents": [
         {
-          "title": "モロッコW杯勝利が騒乱を誘発",
-          "location": "ハーグ、ロッテルダム (オランダ)",
-          "severity": 60,
-          "description": "モロッコがワールドカップで勝利したことをきっかけに、ハーグとロッテルダムで騒乱が発生。29人が逮捕されており、公共の秩序が一時的に乱れました。",
+          "title": "モロッコW杯勝利後のオランダでの騒乱",
+          "location": "オランダ、ハーグ、ロッテルダム",
+          "severity": 70,
+          "description": "モロッコのワールドカップ勝利を祝う群衆が暴徒化し、ハーグとロッテルダムで騒乱が発生。29名が逮捕される事態となり、秩序が一時的に失われました。",
           "source": "NL Times"
         },
         {
-          "title": "アルバニアでのユーロ為替レート下落",
-          "location": "アルバニア",
+          "title": "在英パキスタン外交官の演説が中断される抗議デモ",
+          "location": "イギリス",
           "severity": 40,
-          "description": "アルバニア中央銀行が記録的なペースでユーロを買い入れているにもかかわらず、為替レートは下落を続けており、経済的懸念が高まっています。",
-          "source": "voxnews.al"
+          "description": "在英パキスタン外交官の演説が、パキスタン占領下のカシミール地域に関する抗議デモによって中断されました。比較的平和的な抗議ですが、社会不安の兆候を示します。",
+          "source": "MSN"
         }
       ]
     },
     {
-      "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "公共の秩序の乱れ",
+      "region": "middle_east",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "地域紛争に伴う暴力、略奪",
       "incidents": [
         {
-          "title": "独立記念日祝賀行事が暴徒化",
-          "location": "ニューポートビーチ (米国)",
+          "title": "ナブルス近郊でパレスチナ人レストランが略奪・放火",
+          "location": "パレスチナ、ナブルス近郊",
+          "severity": 75,
+          "description": "入植者とされる人々がパレスチナのレストランを略奪し放火したと報じられ、地域の緊張と住民の安全への不安が高まっています。",
+          "source": "The Times of Israel"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 80,
+      "status": "volatile",
+      "main_cause": "生活必需品不足、政治的不安定、刑務所暴動",
+      "incidents": [
+        {
+          "title": "モザンビーク刑務所暴動、33人死亡",
+          "location": "モザンビーク",
+          "severity": 90,
+          "description": "モザンビークの刑務所で発生した暴動により33名が死亡しました。国内に広がる社会不安が極めて深刻なレベルに達していることを示唆します。",
+          "source": "The Eastleigh Voice"
+        },
+        {
+          "title": "ニジェール大統領府周辺で警備強化、軍事不安報道",
+          "location": "ニジェール",
+          "severity": 80,
+          "description": "軍事的な不安が報じられる中、ニジェール大統領府周辺の警備が強化されました。クーデターの可能性を示唆し、国家の安定が脅かされています。",
+          "source": "Daily Post Nigeria"
+        },
+        {
+          "title": "南アフリカ・ラタンダで水不足による暴動、市長宅放火",
+          "location": "南アフリカ、ラタンダ",
+          "severity": 85,
+          "description": "ラタンダ地域での深刻な水不足が暴動に発展し、市長宅が放火される事態に。地域社会の秩序が崩壊寸前の状態です。",
+          "source": "The Citizen"
+        },
+        {
+          "title": "ケニア全国的な社会不安の中でのモンバサの平和的抗議",
+          "location": "ケニア、モンバサ",
+          "severity": 60,
+          "description": "全土で社会不安が報告される中、6月25日の記念日抗議デモがモンバサでは平和的に行われました。全国的な緊張状態は続いています。",
+          "source": "The Eastleigh Voice"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 90,
+      "status": "critical",
+      "main_cause": "食料不足、政治的抑圧、大規模抗議",
+      "incidents": [
+        {
+          "title": "POKで食料不足に対する大規模抗議デモ",
+          "location": "パキスタン占領下のカシミール (PoK)",
+          "severity": 90,
+          "description": "パキスタン占領下のカシミール地域で深刻な食料不足が発生し、大規模な抗議デモへと発展。住民は生存危機に直面し、社会全体がパニック状態にあります。",
+          "source": "Kanak News Odisha"
+        },
+        {
+          "title": "PoJKで反パキスタン大規模抗議、600名逮捕",
+          "location": "パキスタン占領下のカシミール (PoJK)",
+          "severity": 95,
+          "description": "弾圧と600人もの活動家逮捕を背景に、PoJKで大規模な反パキスタン抗議デモが始まりました。政府への不信と住民の怒りが爆発寸前で、社会秩序は極めて脆弱です。",
+          "source": "The Tribune"
+        },
+        {
+          "title": "PoJKでラワラコット事件後の新たな抗議デモと大規模警備",
+          "location": "パキスタン占領下のカシミール (PoJK)",
+          "severity": 88,
+          "description": "ラワラコットでの事件後、PoJKで新たな抗議デモが発生し、大規模な治安部隊が配備されました。地域が暴動の寸前にあることを示唆しています。",
+          "source": "PGurus"
+        },
+        {
+          "title": "スリランカ・ネゴンボ刑務所で受刑者が屋上占拠し抗議",
+          "location": "スリランカ、ネゴンボ",
+          "severity": 70,
+          "description": "スリランカのネゴンボ刑務所で、男女の受刑者が屋根に登って抗議する騒乱が発生。刑務所内の緊張と秩序の乱れが表面化しました。",
+          "source": "Newswire"
+        },
+        {
+          "title": "インド・ヒサール村で飲料水不足に対する抗議デモ",
+          "location": "インド、ヒサール村",
           "severity": 65,
-          "description": "米国ニューポートビーチでの独立記念日祝賀行事が暴徒化し、喧嘩や警察官への花火投擲が発生。一時的ながらも危険な状況となり、公共の秩序が乱れました。",
-          "source": "ABC7 Los Angeles"
+          "description": "インドのヒサール村で飲料水不足を巡る住民の抗議デモが発生。生活に不可欠な資源の欠如が、住民の深刻な不安を引き起こしています。",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "政治的不満、選挙結果への抗議",
+      "incidents": [
+        {
+          "title": "韓国・オリンピック公園での投票集計センター抗議デモ",
+          "location": "韓国",
+          "severity": 45,
+          "description": "オリンピック公園の投票集計センターでの抗議デモが1ヶ月にわたり継続しており、選挙結果を巡る社会の不満と緊張が続いています。",
+          "source": "Aju Press"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "生活必需品不足",
+      "incidents": [
+        {
+          "title": "キューバ・マンティーヤで水不足による抗議、道路封鎖",
+          "location": "キューバ、マンティーヤ",
+          "severity": 75,
+          "description": "マンティーヤ地区で水不足を巡る抗議デモが発生し、住民が道路を封鎖するなど、生活必需品の欠如が深刻な社会不安を引き起こしています。",
+          "source": "CiberCuba"
+        }
+      ]
+    },
+    {
+      "region": "oceania",
+      "panic_index": 60,
+      "status": "unstable",
+      "main_cause": "エネルギー不足",
+      "incidents": [
+        {
+          "title": "フィジー・タベウニ島で燃料不足",
+          "location": "フィジー、タベウニ島",
+          "severity": 60,
+          "description": "フィジーのタベウニ島で2箇所のガソリンスタンドが燃料切れとなり、地域の交通や経済活動に影響が出て住民の不安が高まっています。",
+          "source": "Fiji Sun"
         }
       ]
     }
