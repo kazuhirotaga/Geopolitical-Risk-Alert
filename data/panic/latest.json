@@ -1,121 +1,136 @@
 {
-  "date": "2026-07-04",
-  "summary": "世界各地では、特定の地域で社会不安とパニックの兆候が顕著になっています。特にアフリカでは、水不足への致命的な抗議、市長宅への放火、労働争議中のパニック発生など、社会秩序が危機的な状況にあります。中東では地域紛争が継続し、住民の安全が脅かされています。南アジアでは政治的緊張や公共サービスの不満、潜在的な社会不安が広がり、一部で抗議活動が見られます。東南アジアでは銀行詐欺による金融不安が表面化しており、全体的に見て、生活基盤や治安、政治への不満が具体的なパニック行動へとつながる傾向が強まっています。",
-  "global_panic_index": 64,
+  "date": "2026-07-05",
+  "summary": "世界各地で多様な社会不安が高まっています。特にアフリカでは水不足を巡る致命的な抗議活動や暴力的衝突が多発し、モザンビークでは刑務所暴動で多数の死者が出ています。南アジアでは金融不安と公共サービスへの不満が顕在化し、中東では地域紛争による暴力が続いています。北米では銀行破綻が報じられ、金融システムへの懸念も浮上。全体的に、生活必需品不足、金融危機、政治的・地域的対立が社会の緊張を高めています。",
+  "global_panic_index": 72,
   "regions": [
     {
       "region": "africa",
-      "panic_index": 75,
+      "panic_index": 85,
       "status": "critical",
-      "main_cause": "生活基盤の不足、社会不安、暴力、労働争議",
+      "main_cause": "水不足、社会秩序の崩壊、暴力的な抗議",
       "incidents": [
         {
-          "title": "市長の家が放火される暴力的抗議",
-          "location": "South Africa",
-          "severity": 85,
-          "description": "住民による抗議活動が暴徒化し、市長の自宅が放火される事件が発生しました。これは社会秩序の重大な崩壊と、住民が抱える根深い不満が極限に達していることを示唆しています。",
-          "source": "Daily Sun"
+          "title": "モザンビーク刑務所暴動、33名死亡",
+          "location": "モザンビーク",
+          "severity": 95,
+          "description": "モザンビークで刑務所暴動が発生し、33名が死亡しました。これは国内を覆う社会不安の深刻化を象徴しており、治安当局による管理が困難になっている状況を示唆します。",
+          "source": "The Eastleigh Voice"
         },
         {
-          "title": "水不足への致命的抗議後、給水車配備",
-          "location": "Ratanda, South Africa",
+          "title": "南アフリカで水不足抗議が激化、市長宅に放火",
+          "location": "南アフリカ、Ratanda",
+          "severity": 90,
+          "description": "南アフリカのRatandaで水不足に対する抗議デモが激化し、市長宅に放火される事態が発生。既に死者も出ており、水供給の危機が暴力的な社会混乱に直結していることを示しています。",
+          "source": "Daily Sun / Jacaranda FM"
+        },
+        {
+          "title": "南アフリカで抗議デモの暴力により生計困難",
+          "location": "南アフリカ、Kraaifontein",
           "severity": 80,
-          "description": "水不足に対する抗議デモが致命的な結果を招き、政府が緊急で給水車を配備しました。生活インフラの不足が住民の極度の不満とパニックを引き起こし、社会秩序が危機に瀕しています。",
-          "source": "Jacaranda FM"
+          "description": "Kraaifonteinでは、抗議デモの暴力によって住民が生計を立てられなくなっていると報告されています。デモが日常の生活機能に深刻な影響を及ぼし、経済的困窮を加速させています。",
+          "source": "northernnews.co.za"
         },
         {
-          "title": "反不法移民抗議、リーダー銃撃後に混沌化",
-          "location": "Greenfields, South Africa",
+          "title": "ナイジェリア病院で労働抗議、活動が中断",
+          "location": "ナイジェリア、FUTA",
           "severity": 75,
-          "description": "反不法移民の抗議デモが、コミュニティリーダーが銃撃された後に混沌とし、暴力的な衝突へと発展しました。社会的な緊張と治安の悪化が深刻な状況に陥っています。",
-          "source": "The Citizen"
-        },
-        {
-          "title": "労働争議中のパニックと催涙ガス使用",
-          "location": "Nigeria",
-          "severity": 70,
-          "description": "労働争議中の抗議デモで労働者が暴行を受けたとされ、催涙ガスが使用されてパニックが発生しました。労働者の不満が爆発し、暴力的な衝突に発展する危険性が高まっています。",
-          "source": "Independent Newspaper Nigeria"
-        },
-        {
-          "title": "労働抗議が病院活動を妨害、警察介入",
-          "location": "FUTA, Nigeria",
-          "severity": 65,
-          "description": "労働者の抗議デモが大学付属病院の活動を妨害し、警察が介入しました。公共医療サービスの提供に支障が生じ、住民の健康と安全に対する不安が高まっています。",
+          "description": "ナイジェリアのFUTA教育病院で労働抗議が発生し、病院の活動が中断されました。警察が介入する事態となり、医療サービスへのアクセス不安と社会インフラの脆弱性が浮き彫りになっています。",
           "source": "Blueprint Newspapers"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "紛争、暴力、地域的緊張",
-      "incidents": [
+        },
         {
-          "title": "イスラエル人入植者によるパレスチナ村襲撃",
-          "location": "West Bank, Israel/Palestine",
-          "severity": 75,
-          "description": "イスラエル人入植者によるパレスチナ村への連続的な襲撃が発生しました。住民の安全が脅かされ、地域全体で緊張が高まり、暴力の連鎖が懸念される危機的な状況にあります。",
-          "source": "Haaretz"
+          "title": "ケニアで極度の水不足、住民が苦境を訴え",
+          "location": "ケニア、Garissa",
+          "severity": 70,
+          "description": "ケニアのGarissa州Masalaniの住民が極度の水不足に苦しんでおり、日常生活が著しく困難になっていると訴えています。生活必需品不足が深刻な社会不安の温床となっています。",
+          "source": "The Eastleigh Voice"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 51,
-      "status": "unstable",
-      "main_cause": "政治的緊張、公共サービス不足、社会的不安",
+      "panic_index": 65,
+      "status": "volatile",
+      "main_cause": "金融不安、公共サービスへの不満、政治的不安",
       "incidents": [
         {
-          "title": "PoKで社会不安増大、地元指導者がインドへ支援訴え",
-          "location": "PoK (Pakistan Administered Kashmir)",
+          "title": "バングラデシュで銀行員失踪、顧客が抗議デモ",
+          "location": "バングラデシュ、Patuakhali",
+          "severity": 70,
+          "description": "バングラデシュのPatuakhaliで、銀行の出納係が約1億タカと共に失踪したとされ、預金者らが銀行前で抗議デモを行っています。これは金融システムへの信頼喪失と取り付け騒ぎの潜在的リスクを示唆します。",
+          "source": "The Daily Star"
+        },
+        {
+          "title": "インド管理カシミール地域で不安増大、印への傾斜示唆",
+          "location": "インド管理カシミール",
           "severity": 65,
-          "description": "パキスタン管理下のカシミール（PoK）で社会不安が増大しており、地元指導者がインドへの支援を訴えています。地域の政治的不安定性が住民の間に広範な動揺をもたらしています。",
+          "description": "パキスタン管理カシミール（PoK）の指導者がインド国民に支援を求め、地域での不安が高まっていることが報じられました。これは政治的緊張と住民の不安定な状況を浮き彫りにしています。",
           "source": "Firstpost"
         },
         {
-          "title": "シャヒーン・バーグで不安緩和の呼びかけ",
-          "location": "Shaheen Bagh, India",
-          "severity": 55,
-          "description": "過去に抗議活動の中心地であったシャヒーン・バーグで、「パニックにならないで」と住民に呼びかけつつ書類準備支援が行われています。これは、何らかの潜在的な社会的不安や混乱が住民間に存在することを示唆しています。",
-          "source": "MSN"
-        },
-        {
-          "title": "コルカタで抗議デモと政治的危機が深刻化",
-          "location": "Kolkata, India",
-          "severity": 50,
-          "description": "コルカタで抗議デモが発生し、現地の政治的危機が深刻化しています。政治的な混乱が住民の間に不安を広げ、社会の安定に対する懸念が高まっています。",
-          "source": "AIMA Media"
-        },
-        {
-          "title": "病院のスタッフ・設備不足に抗議警告",
-          "location": "Jammu, India",
-          "severity": 45,
-          "description": "ジャンムーの病院でスタッフ不足と設備不良が指摘され、与党PDPが抗議行動を警告しました。公衆衛生サービスの劣化に対する住民の不満が蓄積し、大規模な抗議に発展する可能性があります。",
+          "title": "インド・ジャンムー病院でスタッフ不足と施設不備に抗議の警告",
+          "location": "インド、Jammu",
+          "severity": 60,
+          "description": "ジャンムーの病院でスタッフ不足と劣悪な施設に対する抗議が警告されており、住民の医療サービスへの不満が高まっています。公共インフラへの信頼低下は社会不安につながります。",
           "source": "ETV Bharat"
         },
         {
-          "title": "政治集会が学生の間で不安を引き起こす",
-          "location": "Kota, India",
-          "severity": 40,
-          "description": "ラフル・ガンジー氏の集会がコタの学生たちの間で不安を引き起こしたとして批判されています。政治的な対立が若者の間で軽微な社会不安を生じさせている状況です。",
+          "title": "インド・コルカタで抗議活動と政治的危機",
+          "location": "インド、Kolkata",
+          "severity": 60,
+          "description": "コルカタでは抗議活動とTMC（全インド草の根会議）の政治的危機が報じられています。政治的混乱は市民の生活不安を増幅させる可能性があります。",
+          "source": "AIMA Media"
+        },
+        {
+          "title": "インドのラリーが学生に不安を引き起こすと批判",
+          "location": "インド、Kota",
+          "severity": 50,
+          "description": "インドのコタで行われた政治ラリーが学生たちの間に不安を引き起こしていると批判されています。政治的言動が特定の層に社会的不穏をもたらす可能性を示します。",
           "source": "The News Mill"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "金融不安、詐欺",
+      "region": "middle_east",
+      "panic_index": 90,
+      "status": "critical",
+      "main_cause": "地域紛争、暴力的襲撃",
       "incidents": [
         {
-          "title": "銀行詐欺への顧客抗議デモ",
-          "location": "Patuakhali, Bangladesh",
-          "severity": 60,
-          "description": "銀行の出納係が約100万タカを横領し失踪したとされる事件に対し、顧客らが抗議デモを実施しました。金融機関への信頼が揺らぎ、地域住民の間で不安と混乱が広がっています。",
-          "source": "The Daily Star"
+          "title": "イスラエル入植者がヨルダン川西岸パレスチナ村を襲撃",
+          "location": "イスラエル/パレスチナ、ヨルダン川西岸",
+          "severity": 90,
+          "description": "イスラエル入植者がヨルダン川西岸のパレスチナ村を連続して襲撃していると報じられました。これは地域紛争における直接的な暴力であり、住民の生命と安全を脅かす深刻なパニック状態です。",
+          "source": "Haaretz"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 85,
+      "status": "critical",
+      "main_cause": "金融危機、銀行破綻",
+      "incidents": [
+        {
+          "title": "420億ドル消失後に銀行が破綻",
+          "location": "不明（米国と推測される）",
+          "severity": 85,
+          "description": "1日で420億ドルが消失した後、銀行が破綻したとの報道がありました。これは大規模な金融危機や取り付け騒ぎにつながる可能性があり、金融システムへの信頼に重大な打撃を与えています。",
+          "source": "MSN"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "スポーツイベントの暴徒化、社会秩序の混乱",
+      "incidents": [
+        {
+          "title": "モロッコW杯勝利祝賀が暴動に、オランダで暴動警察出動",
+          "location": "オランダ、ロッテルダム、ハーグ",
+          "severity": 75,
+          "description": "モロッコのワールドカップ勝利を祝う中で、オランダの複数の都市（ロッテルダム、ハーグ）で暴動が発生し、暴動警察が出動する事態となりました。スポーツイベントが大規模な社会秩序の混乱に発展しています。",
+          "source": "NL Times"
         }
       ]
     }
