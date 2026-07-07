@@ -1,5 +1,64 @@
 [
   {
+    "id": "ce0c99b4909d",
+    "title": "在中国の日本大使館が注意喚起 軍民両用品目の輸出管理強化で",
+    "summary": "中国政府が軍民両用の品目の日本への輸出管理を強化するなか、日本人2人がレアアースの輸出に関連して逮捕されたことなどを受けて、北京にある日本大使館は企業などに注意を呼びかけました。",
+    "url": "http://www3.nhk.or.jp/news/html/20260707/k10015171321000.html",
+    "published": "2026-07-07T23:36:09+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia"
+    ]
+  },
+  {
+    "id": "487643139073",
+    "title": "米大統領 NATO首脳会議出席へ イラン・ウクライナ情勢など焦点",
+    "summary": "アメリカのトランプ大統領はNATO＝北大西洋条約機構の首脳会議に出席するため日本時間の7日夜、トルコに到着しました。イラン情勢やウクライナ情勢などをめぐりどのような姿勢を示すのか、注目されます。",
+    "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170641000.html",
+    "published": "2026-07-07T21:47:27+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "middle_east",
+      "europe",
+      "north_america"
+    ]
+  },
+  {
+    "id": "90fd198982a2",
+    "title": "NATO首脳会議まもなく開幕へ 各国が防衛力の強化を表明",
+    "summary": "NATO＝北大西洋条約機構の首脳会議は、日本時間の8日未明、トルコで始まります。アメリカのトランプ政権が、ヨーロッパの防衛への関与を減らすなか、ヨーロッパの加盟国やカナダは防衛力の強化に向けた取り組みを相次いで明らかにしました。",
+    "url": "http://www3.nhk.or.jp/news/html/20260707/k10015171161000.html",
+    "published": "2026-07-07T21:38:35+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "middle_east",
+      "europe",
+      "north_america"
+    ]
+  },
+  {
+    "id": "ce6f3e9e5684",
+    "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月7日の動き）",
+    "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる7日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
+    "url": "http://www3.nhk.or.jp/news/html/20260707/k10015140761000.html",
+    "published": "2026-07-07T20:48:43+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "europe"
+    ]
+  },
+  {
     "id": "b4dc3fc15734",
     "title": "ゼレンスキー大統領 米の迎撃ミサイルのライセンス生産に期待",
     "summary": "ウクライナのゼレンスキー大統領は、ロシア軍のミサイルに対する防空能力が大幅に低下していることを認めた上で、迎撃に必要なアメリカ製のミサイルのウクライナでの生産に向けて、アメリカ側が、7日から始まるNATO＝北大西洋条約機構の首脳会議で前向きな姿勢を見せるよう期待を示しました。",
@@ -14,20 +73,6 @@
     ]
   },
   {
-    "id": "ce6f3e9e5684",
-    "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月7日の動き）",
-    "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる7日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
-    "url": "http://www3.nhk.or.jp/news/html/20260707/k10015140761000.html",
-    "published": "2026-07-07T16:01:42+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "east_asia",
-      "europe"
-    ]
-  },
-  {
     "id": "9c14ef7d3c05",
     "title": "米国務省“中国核戦力増強は世界の懸念”潜水艦からの発射受け",
     "summary": "中国の戦略原子力潜水艦が、模擬弾頭を搭載したミサイルを発射したことについて、アメリカ国務省は大陸間弾道ミサイル級だったとの認識を示した上で、中国の核戦力の増強は「地域や世界にとって大きな懸念だ」と指摘しました。",
@@ -39,6 +84,19 @@
     "regions": [
       "east_asia",
       "north_america"
+    ]
+  },
+  {
+    "id": "d66502e93e96",
+    "title": "Displaced Gaza farmers turn to dirt near tents to grow crops",
+    "summary": "Israel has devastated 95 percent of Gaza's farms, engineering starvation and aid dependency, experts warn.",
+    "url": "https://www.aljazeera.com/economy/2026/7/7/displaced-gaza-farmers-turn-to-dirt-near-tents-to-grow-crops?traffic_source=rss",
+    "published": "2026-07-07T12:56:19+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -69,18 +127,29 @@
     ]
   },
   {
-    "id": "edec0fd1f34e",
-    "title": "米大統領 NATO首脳会議出席へ イラン情勢・国防費など焦点",
-    "summary": "アメリカのトランプ大統領は、トルコで開かれるNATO＝北大西洋条約機構の首脳会議に出席するため首都ワシントンを出発しました。イラン情勢などをめぐりヨーロッパとの関係がぎくしゃくする中、トランプ大統領の発言や出方が焦点です。",
-    "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170641000.html",
-    "published": "2026-07-07T11:53:09+09:00",
-    "source_name": "NHK World",
+    "id": "5e5d3d352195",
+    "title": "Bangladesh landslides kill nine, including eight Rohingya in refugee camp",
+    "summary": "Hillsides collapse at four locations at camps in Cox's Bazar in southeastern Bangladesh amid monsoon rains.",
+    "url": "https://www.aljazeera.com/news/2026/7/7/bangladesh-landslides-kill-nine-including-eight-rohingya-in-refugee-camp?traffic_source=rss",
+    "published": "2026-07-07T10:41:27+00:00",
+    "source_name": "Al Jazeera",
     "source_type": "media",
-    "language": "ja",
+    "language": "en",
     "regions": [
-      "middle_east",
-      "europe",
-      "north_america"
+      "south_asia"
+    ]
+  },
+  {
+    "id": "290bcfc18311",
+    "title": "What is the new Gaza administration as Hamas dissolves government?",
+    "summary": "The NCAG will oversee civilian affairs such as health and education, as well as security.",
+    "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
+    "published": "2026-07-07T10:38:03+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -123,46 +192,6 @@
     ]
   },
   {
-    "id": "2b17468741d4",
-    "title": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
-    "summary": "Defence spending and support for Ukraine's military needs are expected to top the agenda of summit in Turkish capital.",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
-    "published": "2026-07-07T07:09:27+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "f436f9e31b2b",
-    "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
-    "summary": "Trump warns NATO members ahead of summit, as European nations prepare to announce record defence spending.",
-    "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
-    "published": "2026-07-07T06:12:19+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "3b440943cb5b",
-    "title": "Palestine weekly: One thousand days of genocide in Gaza",
-    "summary": "Gaza marks 1,000 days of Israel's genocidal war, with at least 1,072 killed since October 'ceasefire'.",
-    "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
-    "published": "2026-07-07T05:48:37+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "north_america"
-    ]
-  },
-  {
     "id": "5aa17604ea68",
     "title": "NATO首脳会議 米が防衛への関与減らすなか結束示せるか焦点",
     "summary": "NATO＝北大西洋条約機構の首脳会議が7日から2日間、トルコの首都アンカラで行われます。アメリカがヨーロッパの防衛への関与を減らすなか、会議では、ほかの加盟国がより一層の役割を担うことを確認する見通しで、NATOとして結束を示すことができるのかが焦点です。",
@@ -175,86 +204,6 @@
       "middle_east",
       "europe",
       "north_america"
-    ]
-  },
-  {
-    "id": "8f9a181f5ea3",
-    "title": "US budget slashing risks losing global scientific edge to China",
-    "summary": "Experts warn that cuts to US research funding is weakening the country’s scientific and technological capacity.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/us-budget-slashing-risks-losing-global-scientific-edge-to-china?traffic_source=rss",
-    "published": "2026-07-07T04:41:31+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia"
-    ]
-  },
-  {
-    "id": "1487061a1a6a",
-    "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-    "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
-    "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-07T04:18:19+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "europe"
-    ]
-  },
-  {
-    "id": "dbb81e6fc397",
-    "title": "Tanker on fire in Strait of Hormuz after being hit by projectile off Oman",
-    "summary": "Iranian television said the liquefied natural gas tanker came under attack after ignoring warnings.",
-    "url": "https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss",
-    "published": "2026-07-07T04:06:03+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "482f74672907",
-    "title": "Anyone who doesn’t feel for Palestinians is not human: Egypt coach Hassan",
-    "summary": "Hossam Hassan uses his FIFA World Cup news conference to raise awareness about the plight of Palestinians in Gaza.",
-    "url": "https://www.aljazeera.com/sports/2026/7/7/anyone-who-doesnt-feel-for-palestinians-is-not-human-egypt-coach-hassan?traffic_source=rss",
-    "published": "2026-07-07T03:02:23+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "3b615be7afb2",
-    "title": "Cuba sees nationwide power blackout for third time in six months",
-    "summary": "People in Cuba already faced an ongoing economic and humanitarian crisis, largely due to a US blockade.",
-    "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss",
-    "published": "2026-07-07T02:29:45+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "628308737391",
-    "title": "Russia sends weapons to help Mali’s government hold off rebel siege",
-    "summary": "The Russian navy is carrying a shipment of weapons to help Mali’s government hold off a rebel advance.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_russia-sends-weapons-to-mali-hold-off-rebel-siege-060726?traffic_source=rss",
-    "published": "2026-07-07T02:25:09+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe",
-      "africa"
     ]
   },
   {
@@ -322,19 +271,6 @@
     "language": "en",
     "regions": [
       "middle_east"
-    ]
-  },
-  {
-    "id": "6c7980559c8e",
-    "title": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
-    "summary": "The storm lashed the Mariana Islands, hitting Rota and prompting emergency warnings on Guam.",
-    "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-06T16:44:54+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   },
   {
@@ -949,45 +885,6 @@
     "language": "ja",
     "regions": [
       "east_asia"
-    ]
-  },
-  {
-    "id": "f39e5f4675b8",
-    "title": "World News in Brief: Aid convoy attacked in South Sudan, Ebola threatens livelihoods, UN deplores death penalty",
-    "summary": "Five humanitarian workers have been killed after a clearly marked aid convoy was ambushed in Jonglei State, South Sudan.",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167847",
-    "published": "2026-06-30T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
-    "id": "503b355f241a",
-    "title": "Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza recovery",
-    "summary": "The UN agency serving 5.9 million Palestine refugees, UNRWA, continues to strive to deliver on its mandate while facing an unprecedented $100 million budget shortfall, a gap it hopes to narrow during Tuesday’s pledging conference at UN Headquarters.",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167845",
-    "published": "2026-06-30T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "d9a597e014d0",
-    "title": "Strait of Hormuz: Gradual re-opening is no quick fix for developing nations, UN warns",
-    "summary": "Re-opening the Strait of Hormuz would bring vital relief for many economies, but developing countries will continue to grapple with increased food and fuel costs, according to a new UN report released on Tuesday.",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167844",
-    "published": "2026-06-30T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   }
 ]
