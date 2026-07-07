@@ -1,99 +1,135 @@
 {
   "date": "2026-07-07",
-  "summary": "世界各地で社会不安が高まっており、特に南アジア地域（当レポートでは東南アジアに分類）では大規模な抗議活動、刑務所暴動、自然災害によるパニックが深刻化しています。アフリカでは政府によるデモ抑圧や労働争議、ヨーロッパでは戦争による物資不足や公共サービス従事者の不満が顕在化。一部地域では社会秩序の混乱や生命の危機を伴うパニック状態が見られ、全体的に警戒が必要な状況が続いています。",
-  "global_panic_index": 68,
+  "summary": "世界全体では、東南アジア地域で刑務所暴動による多数の死者、大規模な政治的抗議活動、自然災害による直接的なパニックが顕著です。アフリカや欧州でも経済的不満や政府への抗議デモが社会不安を増大させていますが、一部地域では金融機関への不信感も高まっています。北米、南米、中東、東アジアは比較的安定していますが、グローバルな緊張感は高まっています。",
+  "global_panic_index": 60,
   "regions": [
     {
-      "region": "africa",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "社会不安、政府による抑圧、労働争議",
+      "region": "north_america",
+      "panic_index": 25,
+      "status": "stable",
+      "main_cause": "潜在的な金融市場の変動",
       "incidents": [
         {
-          "title": "ケニア・タンザニア、抗議活動記念日を抑圧",
-          "location": "ケニア、タンザニア",
-          "severity": 50,
-          "description": "大規模な抗議デモの発生を政府が厳しく抑圧しており、市民の不満と政府への反発が表面化している。社会不安が増大している状況。",
-          "source": "France 24"
-        },
-        {
-          "title": "ケニアの学校で新校長巡り生徒と教師が衝突",
-          "location": "ケニア、ニャビサセ",
-          "severity": 60,
-          "description": "新しい校長を巡って学校内で教師と生徒が衝突し、石の投げ合いに発展。教育現場での深刻な対立と局所的な暴力行為が見られる。",
-          "source": "Citizen Digital"
-        },
-        {
-          "title": "南スーダン銀行職員、給与未払い抗議で座り込み",
-          "location": "南スーダン",
-          "severity": 55,
-          "description": "中央銀行職員が給与の未払いを訴え座り込み抗議を行っており、国の金融システムの安定性に対する懸念が高まっている。",
-          "source": "Eye Radio"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 80,
-      "status": "critical",
-      "main_cause": "大規模デモ、刑務所暴動、自然災害、金融機関への不信、政治的緊張",
-      "incidents": [
-        {
-          "title": "バングラデシュで大規模デモ、衝突と道路封鎖が発生",
-          "location": "バングラデシュ",
-          "severity": 75,
-          "description": "数千人が参加する抗議デモが全国各地で発生し、警察との衝突や道路封鎖が報告されている。社会秩序に深刻な影響を与えている。",
-          "source": "News On AIR"
-        },
-        {
-          "title": "スリランカ刑務所暴動で25人死亡、調査開始",
-          "location": "スリランカ、ネゴンボ",
-          "severity": 90,
-          "description": "刑務所内で発生した暴動により25人が死亡。鎮圧されたが、女性受刑者の抗議は継続しており、社会の緊張が高まっている。",
-          "source": "MSN"
-        },
-        {
-          "title": "インド・ワヤナードで地滑り、住民がパニック逃避行",
-          "location": "インド、ワヤナード",
-          "severity": 85,
-          "description": "地滑りが発生し、住民がパニック状態に陥り逃避行する様子が目撃されている。自然災害による直接的な生命の危機と混乱。",
-          "source": "Telangana Today"
-        },
-        {
-          "title": "PoKで大規模抗議、パキスタンに48時間以内最後通告",
-          "location": "パキスタン占領下のカシミール (PoK)",
-          "severity": 80,
-          "description": "パキスタン占領下のカシミールで抗議デモが激化し、地域住民がパキスタン政府に48時間以内の最後通告を突きつけた。政治的・社会的な緊張が極度に高まっている。",
-          "source": "Business Today"
-        },
-        {
-          "title": "インドで年金引き出せず高齢男性死亡、銀行手続きに不満噴出",
-          "location": "インド、ジャールカンド州",
-          "severity": 65,
-          "description": "本人確認の不備により年金を引き出せず治療を受けられなかった高齢男性が死亡し、銀行の対応に対する住民の不満と抗議活動が発生している。",
-          "source": "The New Indian Express"
+          "title": "FRB議事録が投資家の期待に沿わない可能性",
+          "location": "US-centric金融市場",
+          "severity": 30,
+          "description": "米国FRBの会合議事録が投資家の期待に沿わない可能性があり、金融市場に潜在的な不安をもたらすとの懸念が報じられています。",
+          "source": "MarketWatch"
         }
       ]
     },
     {
       "region": "europe",
-      "panic_index": 63,
-      "status": "volatile",
-      "main_cause": "戦争による物資不足、公共サービス従事者の賃金問題",
+      "panic_index": 65,
+      "status": "unstable",
+      "main_cause": "経済的・社会的不満による大規模デモ",
       "incidents": [
         {
-          "title": "ウクライナ、防空ミサイル深刻な不足で国民不安",
-          "location": "ウクライナ",
-          "severity": 70,
-          "description": "ロシアとの戦争が続く中、防空ミサイルの深刻な不足に直面しており、市民の安全保障に対する不安が大きく増大している。",
-          "source": "Военное дело"
+          "title": "セルビアとアルバニアで大規模な抗議デモの波",
+          "location": "Serbia, Albania",
+          "severity": 75,
+          "description": "セルビアとアルバニアで広範囲にわたる大規模な抗議デモが発生しており、社会秩序に大きな影響を与え、政治的緊張が高まっています。",
+          "source": "Stratfor Worldview"
         },
         {
-          "title": "イギリスNHS職員、賃金カットに「嫌悪」表明",
-          "location": "イギリス、タンブリッジウェルズ、メイドストーン",
-          "severity": 55,
-          "description": "国民保健サービス (NHS) の職員が賃金カットに強く反発しており、医療サービスの安定性に対する懸念が高まっている。",
+          "title": "英国NHS職員が給与削減に不満",
+          "location": "UK (Tunbridge Wells, Maidstone)",
+          "severity": 45,
+          "description": "英国の国民保健サービス (NHS) 職員が給与削減に強い不満を表明しており、今後の抗議行動につながる可能性を秘めています。",
           "source": "BBC"
+        }
+      ]
+    },
+    {
+      "region": "east_asia",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "africa",
+      "panic_index": 65,
+      "status": "unstable",
+      "main_cause": "経済不安、政府への不満、局所的秩序の乱れ",
+      "incidents": [
+        {
+          "title": "南スーダン中央銀行職員が給与未払いで座り込み",
+          "location": "South Sudan",
+          "severity": 65,
+          "description": "南スーダンの中央銀行職員が給与未払いを理由に座り込みデモを実施しており、国の金融機関の機能不全と経済的緊張を示しています。",
+          "source": "Eye Radio"
+        },
+        {
+          "title": "ケニアとタンザニアが抗議記念日を停止",
+          "location": "Kenya, Tanzania",
+          "severity": 60,
+          "description": "ケニアとタンザニア政府が抗議デモの記念日を停止する措置をとり、潜在的な社会不安の高まりと政府による強権的な抑制を示唆しています。",
+          "source": "Citizen Digital"
+        },
+        {
+          "title": "ケニアの学校で教師と生徒が騒乱",
+          "location": "Kenya",
+          "severity": 50,
+          "description": "ケニアのニャビサセ学校で、新校長を巡り教師と生徒の間で石の投げ合いが発生。教育現場における秩序の乱れと深刻な対立を示しています。",
+          "source": "Citizen Digital"
+        }
+      ]
+    },
+    {
+      "region": "south_america",
+      "panic_index": 20,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 80,
+      "status": "critical",
+      "main_cause": "大規模デモ、金融機関への不信、自然災害、刑務所暴動、政治的緊張",
+      "incidents": [
+        {
+          "title": "スリランカの刑務所暴動で25名が死亡",
+          "location": "Sri Lanka, Negombo",
+          "severity": 90,
+          "description": "スリランカのネゴンボ刑務所で暴動が発生し、25名の死者が出た。これは深刻な社会秩序の崩壊を示しており、政府が調査を開始しています。",
+          "source": "MSN"
+        },
+        {
+          "title": "PoKで大規模デモが激化し、パキスタンに最後通告",
+          "location": "Pakistan Occupied Kashmir (PoK)",
+          "severity": 85,
+          "description": "パキスタン占領下のカシミールで大規模な抗議デモが激化し、パキスタン政府に対し48時間の最後通告が突きつけられるなど、非常に緊迫した状況にあります。",
+          "source": "Business Today"
+        },
+        {
+          "title": "インド・ワヤナードで地滑りによるパニック",
+          "location": "India, Wayanad",
+          "severity": 80,
+          "description": "インドのワヤナードで発生した地滑りにより、現場では明確なパニック状態が見られ、住民が急速な避難を強いられている様子が映像で確認されています。",
+          "source": "Telangana Today"
+        },
+        {
+          "title": "バングラデシュで数千人規模の抗議デモと衝突",
+          "location": "Bangladesh",
+          "severity": 70,
+          "description": "バングラデシュで数千人規模の抗議デモが発生し、各地で衝突や道路封鎖が報告されています。治安部隊が大規模に展開し、社会不安が続いています。",
+          "source": "News On AIR"
+        },
+        {
+          "title": "インドで年金引き出し困難による高齢者の死亡と抗議",
+          "location": "India, Jharkhand",
+          "severity": 75,
+          "description": "インドのジャールカンド州で、高齢者が年金引き出しの困難により必要な治療を受けられずに死亡。銀行システムへの不信と社会的不平等が浮き彫りになり、同様の抗議デモを引き起こしています。",
+          "source": "The New Indian Express"
         }
       ]
     }
