@@ -1,78 +1,63 @@
 {
   "date": "2026-07-07",
-  "summary": "世界全体では、南アジアとヨーロッパの一部で深刻な社会不安が高まっています。南アジアではスリランカの刑務所暴動で多数の死傷者が出るなど秩序の崩壊が報告され、パキスタン占領下のカシミールでは食料不足と人道危機が深刻化しています。ヨーロッパではウクライナの安全保障上の懸念と、ロシアにおけるエネルギー不足が市民の不満を募らせています。他の地域では、金融機関への不信やインフラ問題に起因する抗議活動が見られますが、広範なパニックには至っていません。",
-  "global_panic_index": 75,
+  "summary": "世界全体では、特に東南アジア地域において、自然災害に伴うパニック、生活インフラの不足、金融機関への不信に起因する大規模な抗議活動や暴動が頻発し、社会秩序の混乱が見られます。ヨーロッパでは軍事紛争による防衛能力の不足が住民に潜在的な不安を与え、アフリカでも教育機関の機能不全や金融システムの脆弱性に対する懸念が高まっています。全体として、複数の地域で複合的な要因による社会不安が広がり、一部ではパニック状態に陥っています。",
+  "global_panic_index": 65,
   "regions": [
     {
       "region": "europe",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "戦争による安全保障上の懸念、エネルギー不足",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "軍事紛争と防衛能力不足",
       "incidents": [
         {
-          "title": "ウクライナのミサイル不足による防衛懸念",
+          "title": "ウクライナのミサイル防衛能力の不足",
           "location": "ウクライナ、キーウ",
-          "severity": 75,
-          "description": "ウクライナがPatriotミサイルの不足に直面し、首都キーウの防衛体制が脆弱になっている。これは、紛争下の市民の安全保障に対する深い不安を引き起こす要因となっている。",
-          "source": "WSJ"
-        },
-        {
-          "title": "ロシアでの燃料不足による不満の高まり",
-          "location": "ロシア",
-          "severity": 65,
-          "description": "ロシアで燃料不足が深刻化し、自動車運転手の間で不満が高まっている。生活必需品の不足は広範な社会的不安を引き起こし、抗議活動に発展する可能性を秘めている。",
-          "source": "The Age"
+          "severity": 55,
+          "description": "ウクライナがパトリオットミサイルの不足に直面し、首都キーウの防衛体制が脆弱になっている。これは市民の安全に対する潜在的な不安を増大させる要因となっている。",
+          "source": "WSJ / Военное дело"
         }
       ]
     },
     {
       "region": "north_america",
-      "panic_index": 30,
-      "status": "stable",
-      "main_cause": "特になし（国際問題に関連する抗議のみ）",
-      "incidents": [
-        {
-          "title": "ニューヨークでのチベット人抗議デモ",
-          "location": "アメリカ、ニューヨーク",
-          "severity": 30,
-          "description": "国連本部前でチベット人らが焼身自殺を受けて抗議デモを実施。これは国際的な人権問題に対する抗議であり、米国社会内部の広範なパニックを示すものではない。",
-          "source": "西日本新聞me"
-        }
-      ]
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "なし",
+      "incidents": []
     },
     {
       "region": "east_asia",
-      "panic_index": 15,
+      "panic_index": 10,
       "status": "normal",
-      "main_cause": "特になし",
+      "main_cause": "なし",
       "incidents": []
     },
     {
       "region": "middle_east",
       "panic_index": 10,
       "status": "normal",
-      "main_cause": "特になし",
+      "main_cause": "なし",
       "incidents": []
     },
     {
       "region": "africa",
-      "panic_index": 60,
+      "panic_index": 50,
       "status": "unstable",
-      "main_cause": "治安悪化の懸念、社会サービスへの不満",
+      "main_cause": "地域的な社会不安、教育機関の機能不全、潜在的な金融脆弱性",
       "incidents": [
         {
-          "title": "タンザニアでの警察による殺害への懸念と抗議計画",
-          "location": "タンザニア",
-          "severity": 65,
-          "description": "計画されている抗議デモを前に、警察による殺害への市民の懸念が高まっている。これは政府および治安当局への不信と、潜在的な治安の悪化を示唆している。",
-          "source": "Citizen Digital"
+          "title": "ケニアで学校が無期限閉鎖、校長任命への学生抗議",
+          "location": "ケニア、キシイ",
+          "severity": 55,
+          "description": "新しい校長の任命に抗議する学生により、ケニアの学校が無期限に閉鎖された。これは地域社会における教育機能の停止と住民の不満を示す。",
+          "source": "the-star.co.ke"
         },
         {
-          "title": "ケニアの学校閉鎖と学生による抗議",
-          "location": "ケニア、キシイ",
-          "severity": 50,
-          "description": "新校長任命への学生の抗議を受け、学校が無期限に閉鎖された。これは局所的な教育問題に端を発する抗議活動であり、地方行政への不信感が背景にある。",
-          "source": "the-star.co.ke"
+          "title": "ケニアの銀行救済策の歴史から見る金融脆弱性",
+          "location": "ケニア",
+          "severity": 45,
+          "description": "ケニア中央銀行による過去の介入と救済策の歴史が報じられ、金融システムの潜在的な脆弱性と将来の不安の可能性が示唆される。",
+          "source": "streamlinefeed.co.ke"
         }
       ]
     },
@@ -80,56 +65,49 @@
       "region": "south_america",
       "panic_index": 10,
       "status": "normal",
-      "main_cause": "特になし",
+      "main_cause": "なし",
       "incidents": []
     },
     {
       "region": "southeast_asia",
-      "panic_index": 10,
-      "status": "normal",
-      "main_cause": "特になし",
-      "incidents": []
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 85,
+      "panic_index": 72,
       "status": "critical",
-      "main_cause": "大規模暴動、食料不足、金融システム不信",
+      "main_cause": "自然災害、金融機関への不信、生活インフラ不足、治安悪化",
       "incidents": [
         {
-          "title": "スリランカ刑務所での大規模暴動",
-          "location": "スリランカ、ネゴンボ",
-          "severity": 95,
-          "description": "ネゴンボ刑務所で発生した暴動により、刑務官を含む少なくとも25人が死亡し、100人以上が負傷した。ギャング間の衝突も示唆され、社会秩序の深刻な混乱を示す。",
-          "source": "AFPBB News, 時事ドットコム"
+          "title": "インドでの地滑り発生時のパニック",
+          "location": "インド、ワヤナード",
+          "severity": 85,
+          "description": "ワヤナードで発生した地滑りの目撃者映像は、人々が恐怖にかられて逃げ惑う生々しいパニック状況を捉えている。自然災害が直接的な生命の危機と混乱を引き起こしている。",
+          "source": "Telangana Today"
         },
         {
-          "title": "PoKでの食料封鎖と人道危機、武装化疑惑",
-          "location": "パキスタン占領下のカシミール (PoK)",
-          "severity": 90,
-          "description": "PoKの抗議リーダーはパキスタンによる食料封鎖と人道危機を訴え、インドに支援を要請。また、パキスタン軍による住民の武装化疑惑も浮上し、地域住民のパニックと緊張が極度に高まっている。",
-          "source": "The Sunday Guardian, Goemkarponn, MSN"
-        },
-        {
-          "title": "インドでの銀行遅延による死亡と抗議",
+          "title": "銀行の治療費遅延による死亡と遺族の抗議",
           "location": "インド",
-          "severity": 80,
-          "description": "銀行のKYC（本人確認）手続きの遅延により治療費が間に合わず男性が死亡し、家族が遺体と共に抗議。金融・医療システムへの深刻な不信と絶望的な状況が示されている。",
-          "source": "India Today, The CSR Journal"
+          "severity": 75,
+          "description": "銀行の手続き遅延が原因で治療費が間に合わず男性が死亡し、遺族が遺体とともに銀行前で激しく抗議した。人命に関わる銀行の対応は社会的な怒りと不信感を高める。",
+          "source": "India Today / The CSR Journal"
         },
         {
-          "title": "バングラデシュでのガソリン不足抗議デモ",
+          "title": "スリランカ刑務所暴動で25人死亡",
+          "location": "スリランカ、ネゴンボ",
+          "severity": 75,
+          "description": "ネゴンボ刑務所で発生した暴動により25人の死者が出た。事態は鎮静化しつつあるものの、女性受刑者による抗議は続いており、深刻な治安悪化と社会不安の状況を示す。",
+          "source": "MSN / Ada Derana"
+        },
+        {
+          "title": "バングラデシュでガソリン不足抗議、交通麻痺",
           "location": "バングラデシュ、ダッカ",
-          "severity": 70,
-          "description": "ガソリン不足に抗議するデモがダッカ-アリチャ高速道路の交通を妨害。エネルギー不足は市民生活と経済活動に大きな影響を与え、広範な不満を引き起こしている。",
+          "severity": 65,
+          "description": "ガソリン不足に対する抗議デモがダッカ-アリチャ高速道路の交通を麻痺させた。生活に不可欠なエネルギー供給の不足は、市民の不満を高め大規模な混乱を引き起こしている。",
           "source": "Newagebd.net"
         },
         {
-          "title": "インドの医学生によるインフラ不足抗議",
-          "location": "インド、ミルザプール",
-          "severity": 60,
-          "description": "医学生たちが停電、水不足、宿舎問題に対し抗議デモを実施。基本的なインフラの欠如が学生生活に支障をきたし、広範な不満の兆候を示している。",
-          "source": "Medical Dialogues"
+          "title": "銀行員の横領疑惑で顧客が抗議",
+          "location": "バングラデシュ、パトゥアカリ",
+          "severity": 65,
+          "description": "銀行の窓口係が約1クローレタカを横領して姿を消したとして、顧客が抗議活動を行っている。これは銀行への信頼を揺るがし、取り付け騒ぎに発展する潜在的な金融不安を抱える。",
+          "source": "The Daily Star"
         }
       ]
     }
