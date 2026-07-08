@@ -1,40 +1,91 @@
 {
   "date": "2026-07-08",
-  "summary": "世界各地では、経済的な不安定さや政治的混乱、一部地域での資源不足が引き金となり、社会不安が増大しています。特に南アジアと東南アジアでは、大規模な抗議デモや暴動、金融機関への不信感が顕著であり、社会秩序の不安定化が懸念されます。ロシアではエネルギー不足への市民の適応行動が見られ、潜在的なパニックの兆候として注視が必要です。全体としては警戒レベルにある地域が散見されます。",
-  "global_panic_index": 60,
+  "summary": "世界全体では地域によって社会不安の状況に大きな差が見られます。特に南アジアでは、飲料水や医薬品の不足、金融機関への不信、税制や政治に対する大規模な抗議活動が頻発し、一部では衝突や社会秩序の不安定化が深刻なレベルに達しています。ヨーロッパやアフリカの一部でも大規模デモやエネルギー供給への懸念が見られる一方、北米や東アジアなど多くの地域は比較的安定しており、世界全体がパニック状態にあるとは言えませんが、特定の地域で警戒レベルが高まっています。",
+  "global_panic_index": 45,
   "regions": [
     {
       "region": "africa",
-      "panic_index": 40,
+      "panic_index": 45,
       "status": "unstable",
-      "main_cause": "政治的抑圧、経済問題、局地的な不満",
+      "main_cause": "政治的抗議、社会不安",
       "incidents": [
         {
-          "title": "ケニア・タンザニア、抗議デモ周年行事を停止",
+          "title": "ケニア、タンザニアで抗議デモが封鎖",
           "location": "ケニア、タンザニア",
           "severity": 40,
-          "description": "ケニアとタンザニア政府が、社会不安につながる恐れのある抗議デモの周年行事を停止させた。潜在的な社会的不満が高まっていることを示唆している。",
+          "description": "ケニアとタンザニアで計画されていた抗議デモの記念日が当局によって封鎖されました。これは政府による統制の一環ですが、潜在的な社会的不満の存在を示唆しています。",
           "source": "France 24"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 58,
+      "status": "unstable",
+      "main_cause": "大規模デモ、エネルギー不足",
+      "incidents": [
+        {
+          "title": "セルビアとアルバニアで大規模な抗議デモ",
+          "location": "セルビア、アルバニア",
+          "severity": 60,
+          "description": "セルビアとアルバニアで大規模な抗議デモの波が報じられています。社会的不満が広範囲に及んでおり、社会秩序への影響が懸念されます。",
+          "source": "Stratfor Worldview"
         },
         {
-          "title": "新校長を巡る騒動で教師と生徒が衝突",
-          "location": "ケニア、Nyabisase School",
-          "severity": 35,
-          "description": "新校長を巡る騒動で、教師と生徒が互いに石を投げ合う衝突が発生。局地的な秩序の乱れが見られるが、広範なパニックには至っていない。",
-          "source": "Citizen Digital"
+          "title": "ロシアでガソリン不足に対応、LPGへの転換急増",
+          "location": "ロシア",
+          "severity": 55,
+          "description": "ロシアではガソリン不足が深刻化し、市民が自動車をLPG対応に改造する動きが急増しています。これは生活インフラへの影響に対する切迫感を示しています。",
+          "source": "The Australian"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 78,
+      "status": "volatile",
+      "main_cause": "社会不安、物資不足、金融不安、政治的緊張",
+      "incidents": [
+        {
+          "title": "バングラデシュで数千人規模の抗議デモ、衝突と道路封鎖",
+          "location": "バングラデシュ",
+          "severity": 75,
+          "description": "バングラデシュで数千人規模の抗議デモが継続しており、衝突、道路封鎖、厳重な警察配備が報告されています。進行中の社会不安が深刻な段階にあります。",
+          "source": "News On AIR"
         },
         {
-          "title": "南スーダン中央銀行職員が未払い賃金で座り込み",
-          "location": "南スーダン",
-          "severity": 30,
-          "description": "南スーダン中央銀行の職員が未払い賃金に対する座り込みを実施。経済的な不満が公然と表明され、社会不安の一因となっている。",
-          "source": "Eye Radio"
+          "title": "パキスタン管理下のカシミールで抗議デモ、48時間最後通牒",
+          "location": "パキスタン管理下のカシミール (PoK)",
+          "severity": 85,
+          "description": "パキスタン管理下のカシミールで大規模な抗議デモが勃発し、パキスタン政府に対し48時間の最後通牒が突きつけられました。社会不安が増大しており、極めて緊迫した状況です。",
+          "source": "Business Today"
+        },
+        {
+          "title": "パキスタン・マラーカンドで税金抗議と医薬品不足",
+          "location": "パキスタン、マラーカンド",
+          "severity": 80,
+          "description": "マラーカンドで税金に対する抗議デモが行われ、医薬品供給停止と医薬品不足が発生しています。生活必需品の欠乏が市民の不安と不満を増幅させています。",
+          "source": "Aaj English TV"
+        },
+        {
+          "title": "インド・プルワマで飲料水不足に対する抗議デモ",
+          "location": "インド、プルワマ",
+          "severity": 65,
+          "description": "インドのプルワマでは、急性および慢性的な飲料水不足に直面している住民が当局に対し抗議デモを行っています。生活に不可欠な資源の欠乏が深刻な不安を引き起こしています。",
+          "source": "Kashmir Media Service / Greater Kashmir"
+        },
+        {
+          "title": "インド・ジャールカンドで銀行手続き遅延による死亡と遺体での抗議",
+          "location": "インド、ジャールカンド",
+          "severity": 70,
+          "description": "ジャールカンドで、銀行のKYC手続き遅延が原因で男性が死亡したと家族が主張し、遺体と共に銀行前で抗議を行いました。金融システムへの強い不信と深刻な怒りが表面化しています。",
+          "source": "Thekanal"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 45,
+      "panic_index": 50,
       "status": "unstable",
       "main_cause": "金融不安、経済危機",
       "incidents": [
@@ -42,117 +93,51 @@
           "title": "レバノンで中央銀行に対する抗議デモ",
           "location": "レバノン",
           "severity": 50,
-          "description": "経済危機が続くレバノンで、中央銀行に対する抗議デモが発生。金融システムへの不信感が高まり、社会の不安定化が進んでいる。",
+          "description": "レバノンでは、長引く経済危機と金融不安を受けて、中央銀行に対する抗議デモが継続しています。国民の不満が金融システムに向けられています。",
           "source": "Egypt Independent"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "政治的不安、社会秩序の混乱、金融機関への不信",
-      "incidents": [
-        {
-          "title": "バングラデシュで数千人規模の抗議デモ、衝突と道路封鎖",
-          "location": "バングラデシュ",
-          "severity": 75,
-          "description": "バングラデシュで数千人規模の抗議デモが発生し、衝突、道路封鎖、警察の厳戒態勢が報じられた。社会秩序が大きく揺らいでいる状況。",
-          "source": "News On AIR"
-        },
-        {
-          "title": "スリランカの刑務所暴動で25人死亡",
-          "location": "スリランカ、ネゴンボ",
-          "severity": 80,
-          "description": "スリランカのネゴンボ刑務所で暴動が発生し、25人が死亡。社会の緊張が極限に達し、深刻な秩序の崩壊が生じている。",
-          "source": "MSN"
-        },
-        {
-          "title": "銀行員による持ち逃げ疑いで顧客が抗議",
-          "location": "バングラデシュ、パトゥアカリ",
-          "severity": 60,
-          "description": "パトゥアカリで銀行のレジ係が約1クローレタカを持ち逃げしたとされる事件を受け、顧客が抗議。金融機関への信頼が揺らいでいる。",
-          "source": "The Daily Star"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "政治的混乱、資源不足、金融アクセス問題、自然災害",
-      "incidents": [
-        {
-          "title": "パキスタン管理下のジャンムー・カシミールで大規模抗議デモ",
-          "location": "パキスタン管理下のジャンムー・カシミール (PaJK)",
-          "severity": 80,
-          "description": "PaJKで大規模な抗議デモが勃発し、パキスタン政府に48時間の最後通牒。深刻な政治的混乱と社会不安が拡大している。",
-          "source": "Business Today"
-        },
-        {
-          "title": "PaJKの選挙に政治危機が影を落とす",
-          "location": "パキスタン管理下のジャンムー・カシミール (PaJK)",
-          "severity": 70,
-          "description": "PaJKでの7月27日選挙に政治的危機が暗い影を落としている。深刻な社会不安と今後の政治情勢への不透明感が広がっている。",
-          "source": "Kashmir Times"
-        },
-        {
-          "title": "インドの村で飲料水不足に対する抗議デモ",
-          "location": "インド、プルワマ",
-          "severity": 65,
-          "description": "プルワマ村で飲料水不足に対する抗議デモが発生。基本的な生活必需品の不足が住民の不満と不安を募らせている。",
-          "source": "Greater Kashmir"
-        },
-        {
-          "title": "インドで地滑り発生、住民がパニックに",
-          "location": "インド、ワヤナド",
-          "severity": 70,
-          "description": "ワヤナドでの地滑り発生時に、人々がパニックに陥り逃げ惑う様子が目撃された。自然災害が直接的な恐怖と混乱を引き起こしている。",
-          "source": "Telangana Today"
-        },
-        {
-          "title": "年金引き出し困難で高齢男性が死亡",
-          "location": "インド、ジャールカンド",
-          "severity": 60,
-          "description": "KYC（顧客確認）のハードルにより年金が引き出せず、適切な治療を受けられなかった高齢男性が死亡。行政サービスへの不満と社会的不公正感が深刻化。",
-          "source": "The New Indian Express"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "エネルギー不足",
-      "incidents": [
-        {
-          "title": "ロシアでガソリン不足、LPG車への改造が急増",
-          "location": "ロシア",
-          "severity": 65,
-          "description": "ロシアでガソリン不足が深刻化し、自動車をLPG対応に改造する動きが急増。エネルギー供給への不安から、市民が代替手段に殺到している。",
-          "source": "The Australian"
-        },
-        {
-          "title": "英国NHS職員が賃金カットに不満表明",
-          "location": "英国、タンブリッジウェルズ、メイドストーン",
-          "severity": 30,
-          "description": "英国の国民保健サービス（NHS）職員が賃金カットに「嫌悪感を覚えている」と表明。直接パニックではないが、労働者の不満が募り社会不安の要因となる可能性。",
-          "source": "BBC"
-        }
-      ]
+      "region": "north_america",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
     },
     {
       "region": "east_asia",
-      "panic_index": 25,
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "south_america",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "oceania",
+      "panic_index": 30,
       "status": "stable",
-      "main_cause": "小規模な政治的抗議",
+      "main_cause": "潜在的な社会不安",
       "incidents": [
         {
-          "title": "大津市膳所で七夕デモ開催",
-          "location": "日本、大津市",
-          "severity": 20,
-          "description": "大津市膳所で七夕デモが開催された。政治的なメッセージを持つ小規模な抗議活動であり、社会全体へのパニックは非常に低い。",
-          "source": "選挙ドットコム"
+          "title": "フィジーのFCSが社会不安の兆候を監視",
+          "location": "フィジー",
+          "severity": 30,
+          "description": "フィジーのFCS（Fiji Corrections Service）が社会不安の兆候を監視していると報じられています。これは、当局が潜在的なリスクを認識していることを示唆しています。",
+          "source": "The Fiji Times"
         }
       ]
     }
