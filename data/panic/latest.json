@@ -1,92 +1,20 @@
 {
   "date": "2026-07-08",
-  "summary": "世界各地で特定の社会不安の兆候が見られますが、広範な「パニック」状態には至っていません。南アジアおよび東南アジアでは生活必需品（水、医薬品）不足や政治・経済的不満による大規模な抗議活動が頻発し、社会秩序の不安定化が懸念されます。アフリカでは経済的要因、ヨーロッパ（ロシア）ではエネルギー不足への適応が見られます。金融システムに関する議論は活発ですが、具体的な取り付け騒ぎの報告はありません。",
-  "global_panic_index": 58,
+  "summary": "世界全体では、局所的な社会不安や物資不足に起因する抗議デモが散見されますが、広範な社会インフラのマヒや無秩序な逃避といった「パニック」状態には至っていません。特に南アジアでは水・医薬品不足、金融不安、政治危機が複合的に発生し、警戒レベルに達しています。スリランカでは刑務所暴動後に政府が強硬策を検討するなど、社会秩序の不安定化が顕著です。北米では治安悪化、欧州ではエネルギー不足が市民生活に影響を与えています。一方で、金融システム全体の広範な取り付け騒ぎは報告されておらず、FRBの研究結果もその背景を示唆しています。",
+  "global_panic_index": 57,
   "regions": [
     {
-      "region": "africa",
+      "region": "north_america",
       "panic_index": 40,
       "status": "unstable",
-      "main_cause": "経済不安（給与未払い）",
+      "main_cause": "治安悪化",
       "incidents": [
         {
-          "title": "南スーダン中央銀行職員、給与未払いへの抗議",
-          "location": "南スーダン",
+          "title": "ジャマイカで銀行関連の強盗事件、高齢者が被害",
+          "location": "Jamaica",
           "severity": 40,
-          "description": "2年間にわたる給与未払いに抗議し、中央銀行職員がデモを実施しました。経済的困窮が背景にあり、政府への不満が表面化していますが、広範な社会秩序の混乱には至っていません。",
-          "source": "Radio Tamazuj"
-        }
-      ]
-    },
-    {
-      "region": "southeast_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "政治的・経済的不満、生活必需品不足",
-      "incidents": [
-        {
-          "title": "バングラデシュで大規模抗議、衝突と道路封鎖が発生",
-          "location": "バングラデシュ",
-          "severity": 80,
-          "description": "全国で数千人規模の抗議デモが発生し、参加者と治安部隊との間で衝突。主要な道路が封鎖され、重装備の警察が配備されるなど、社会秩序が深刻な影響を受けています。",
-          "source": "News On AIR"
-        },
-        {
-          "title": "パキスタン・マラーカンド地方で税金抗議と医薬品不足",
-          "location": "パキスタン、マラーカンド",
-          "severity": 65,
-          "description": "増税に抗議するデモが行われ、地域では医薬品の供給が停止し、深刻な不足が発生。生活必需品の欠如が市民の不安を煽り、抗議活動が激化する可能性を秘めています。",
-          "source": "Aaj News"
-        },
-        {
-          "title": "スリランカ、刑務所暴動後に自宅軟禁法の導入を検討",
-          "location": "スリランカ",
-          "severity": 60,
-          "description": "死者を出した刑務所暴動を受け、政府は自宅軟禁法の導入を検討しています。過去の暴力的な事件が社会秩序に影響を与え、当局が強硬な措置を検討せざるを得ない状況を示しています。",
-          "source": "Latest news from Azerbaijan"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "生活必需品不足（水）、政治的緊張、金融不安",
-      "incidents": [
-        {
-          "title": "カシミール地方プルワマで深刻な飲料水不足への抗議",
-          "location": "インド、プルワマ",
-          "severity": 70,
-          "description": "プルワマ地区の住民が、当局による継続的な飲料水不足への対応の不備に対し抗議デモを実施。生命維持に不可欠な水の不足は市民の深刻な不安と不満を引き起こしています。",
-          "source": "Kashmir Media Service, Greater Kashmir"
-        },
-        {
-          "title": "ムンバイで再開発地区の住民が水不足に抗議",
-          "location": "インド、ムンバイ",
-          "severity": 60,
-          "description": "再開発された建物の住民が慢性的な水不足に対し抗議活動を展開。都市部におけるインフラの不備が生活の質を低下させ、住民の不満が高まっています。",
-          "source": "Mumbai Live"
-        },
-        {
-          "title": "JK-SCARD銀行預金者が抗議デモを実施",
-          "location": "インド、カシミール",
-          "severity": 50,
-          "description": "JK-SCARD銀行の預金者が、金融機関に対する不信感や問題への抗議デモを行いました。金融システムへの不安が高まりつつあり、今後の動向が注視されます。",
-          "source": "Daily Excelsior"
-        },
-        {
-          "title": "大学で飲料水・日用品不足への学生抗議",
-          "location": "インド、テランガーナ州",
-          "severity": 55,
-          "description": "MG大学の学生が深夜、飲料水や日常使用品の不足に抗議デモを実施。学生生活の基本的なニーズが満たされない状況が、若年層の不満と不安を招いています。",
-          "source": "Telangana Today"
-        },
-        {
-          "title": "ジャンムー・カシミール（PaJK）で政治危機が選挙に影を落とす",
-          "location": "パキスタン管理下のジャンムー・カシミール（PaJK）",
-          "severity": 50,
-          "description": "7月27日の選挙を前に政治危機が勃発。地域全体の政治的不安定さが住民の間に不安を広げ、社会秩序に悪影響を及ぼす可能性が高まっています。",
-          "source": "Kashmir Times"
+          "description": "ジャマイカで銀行利用者に対する残忍な強盗事件が発生。これは金融パニックではなく治安悪化による犯罪だが、銀行関連の暴力事件として社会不安を増幅させる可能性があります。",
+          "source": "Hoodline"
         }
       ]
     },
@@ -97,11 +25,91 @@
       "main_cause": "エネルギー不足",
       "incidents": [
         {
-          "title": "ロシアでガソリン不足を受けLPGへの自動車改造が加速",
-          "location": "ロシア",
+          "title": "ロシアでガソリン不足、LPGへの転換が加速",
+          "location": "Russia",
           "severity": 55,
-          "description": "全国的なガソリン不足に対応するため、多くのロシア人が自動車をLPG（液化石油ガス）燃料に改造する動きを加速。直接的なパニックではないが、主要エネルギー不足が市民生活に影響。",
+          "description": "ガソリン不足が続き、多くのロシア市民が自動車燃料をLPGに転換しようと急いでいます。エネルギー供給の不安定さが日常生活に直接的な影響を与え、不安を引き起こしています。",
           "source": "The Australian"
+        }
+      ]
+    },
+    {
+      "region": "africa",
+      "panic_index": 48,
+      "status": "unstable",
+      "main_cause": "経済問題、治安悪化",
+      "incidents": [
+        {
+          "title": "中央銀行職員が未払い給与で抗議デモ",
+          "location": "Central Bank (unspecified, likely South Sudan)",
+          "severity": 50,
+          "description": "中央銀行の職員が2年間の未払い給与に対し抗議デモを実施。政府機関への不満と経済的困窮が背景にあり、金融システムの信頼性への懸念を高めています。",
+          "source": "Radio Tamazuj"
+        },
+        {
+          "title": "ケニアの学校で暴動、学生23人拘束",
+          "location": "Tambach Boys, Kenya",
+          "severity": 45,
+          "description": "ケニアの学校で暴動が発生し、生徒23名が警察に拘束されました。教育現場における秩序の乱れと治安問題が地域の社会不安を引き起こしています。",
+          "source": "Education News"
+        }
+      ]
+    },
+    {
+      "region": "south_asia",
+      "panic_index": 60,
+      "status": "volatile",
+      "main_cause": "物資不足、経済・政治不安、金融不安",
+      "incidents": [
+        {
+          "title": "パキスタンのマラカンドで税金抗議と医薬品不足",
+          "location": "Malakand, Pakistan",
+          "severity": 75,
+          "description": "パキスタンのマラカンド地域で大規模な税金抗議デモが勃発。これに伴い、医薬品の供給が停止し深刻な不足が発生しており、医療インフラの危機が懸念されます。",
+          "source": "Aaj News"
+        },
+        {
+          "title": "カシミール・プルワマで深刻な飲料水不足への抗議",
+          "location": "Pulwama, Kashmir",
+          "severity": 65,
+          "description": "カシミールのプルワマ地域で深刻な飲料水不足が続き、住民が当局に対し抗議デモを実施。生活必需品の不足は地域住民の強い不安と不満を引き起こしています。",
+          "source": "Kashmir Media Service"
+        },
+        {
+          "title": "パキスタン管理下カシミールで政治危機が選挙に影",
+          "location": "PaJK, Kashmir",
+          "severity": 55,
+          "description": "パキスタン管理下のジャンムー・カシミール（PaJK）で政治的危機が深刻化し、7月27日の選挙に暗い影を落としています。政治の不安定化は地域住民の社会不安を増大させる要因となっています。",
+          "source": "Kashmir Times"
+        },
+        {
+          "title": "インド・ムンバイで水不足に対する住民抗議",
+          "location": "Mumbai, India",
+          "severity": 50,
+          "description": "インドのムンバイ市ナイガオン地区の再開発ビルで水不足が発生し、住民が抗議デモを実施。都市インフラの問題が住民生活に影響を与え、不満が顕在化しています。",
+          "source": "Mumbai Live"
+        },
+        {
+          "title": "JK-SCARD銀行の預金者が抗議デモを実施",
+          "location": "JK-SCARD Bank (Jammu & Kashmir, India)",
+          "severity": 60,
+          "description": "ジャンムー・カシミール州のJK-SCARD銀行の預金者が抗議デモを実施。金融機関の信頼性に対する懸念が表明され、潜在的な金融不安につながる可能性があります。",
+          "source": "Daily Excelsior"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "社会秩序の乱れ",
+      "incidents": [
+        {
+          "title": "スリランカ、刑務所暴動後に自宅軟禁法を検討",
+          "location": "Sri Lanka",
+          "severity": 70,
+          "description": "スリランカの刑務所で死者を出す暴動が発生したことを受け、政府が自宅軟禁法の導入を検討。社会秩序の深刻な乱れと政府の強硬な対応は、国内の緊張状態を示しています。",
+          "source": "Latest news from Azerbaijan"
         }
       ]
     }
