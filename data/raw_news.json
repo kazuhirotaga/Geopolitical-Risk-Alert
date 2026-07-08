@@ -1,5 +1,47 @@
 [
   {
+    "id": "b66266c98cfe",
+    "title": "「SDGs目標は依然達成可能」 国連報告書で各国に行動呼びかけ",
+    "summary": "国連は、2030年までの持続可能な開発目標、SDGsについての報告書を発表し、紛争や気候変動などの影響が厳しくなる中でも目標達成は依然可能だとして、各国に行動を呼びかけました。",
+    "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171511000.html",
+    "published": "2026-07-08T11:05:13+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "ecba59267a10",
+    "title": "NATO首脳会議が開幕 米トランプ大統領「がっかり」とけん制",
+    "summary": "NATO＝北大西洋条約機構の首脳会議が7日、トルコで始まりました。会議に先立ち、アメリカのトランプ大統領はイランへの軍事作戦などをめぐり「NATOには非常にがっかりさせられた」と不満をあらわにしていて、ヨーロッパなどの加盟国と一致点を見いだせるかが焦点です。",
+    "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171261000.html",
+    "published": "2026-07-08T07:53:11+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "europe",
+      "north_america"
+    ]
+  },
+  {
+    "id": "93c9417daace",
+    "title": "アメリカ・ドイツ防衛企業 ATACMSをヨーロッパで生産へ",
+    "summary": "ドイツとアメリカの防衛企業がヨーロッパでは初めて地対地ミサイルATACMSの共同生産を進めることで合意しました。ヨーロッパ側がアメリカの要求に応じる形で防衛力を強化する一環とみられます。",
+    "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171381000.html",
+    "published": "2026-07-08T07:41:23+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "europe",
+      "north_america"
+    ]
+  },
+  {
     "id": "9e88fe96f4b1",
     "title": "日米韓外相 中国ミサイルへの懸念共有 3か国結束重要で一致",
     "summary": "日米韓3か国の外相がトルコで会談し、中国の戦略原子力潜水艦が模擬弾頭を搭載したミサイルを発射したことについて懸念を共有したうえで、3か国の結束を強化していくことが重要だという認識で一致しました。",
@@ -14,18 +56,43 @@
     ]
   },
   {
-    "id": "ecba59267a10",
-    "title": "NATO首脳会議が開幕 米トランプ大統領「がっかり」とけん制",
-    "summary": "NATO＝北大西洋条約機構の首脳会議が7日、トルコで始まりました。会議に先立ち、アメリカのトランプ大統領はイランへの軍事作戦などをめぐり「NATOには非常にがっかりさせられた」と不満をあらわにしていて、ヨーロッパなどの加盟国と一致点を見いだせるかが焦点です。",
-    "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171261000.html",
-    "published": "2026-07-08T05:25:17+09:00",
-    "source_name": "NHK World",
+    "id": "c09427bdae26",
+    "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+    "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
+    "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-08T02:19:53+00:00",
+    "source_name": "BBC - World",
     "source_type": "media",
-    "language": "ja",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "64251c73115d",
+    "title": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
+    "summary": "The US-Israel war on Iran is forcing African governments to rethink their security and economic priorities.",
+    "url": "https://www.aljazeera.com/news/2026/7/8/how-the-us-iran-conflict-is-reshaping-africas-geopolitical-opportunities?traffic_source=rss",
+    "published": "2026-07-08T01:04:26+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
     "regions": [
       "middle_east",
-      "europe",
-      "north_america"
+      "africa"
+    ]
+  },
+  {
+    "id": "a2acf11a8309",
+    "title": "Iran war live: US bombs Sirik, Qeshm, Bandar Abbas over Hormuz attacks",
+    "summary": "Explosions in Iran's Sirik, Bandar Abbas and Qeshm as US launches attacks after revoking waiver on Iranian oil exports.",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/8/iran-war-live-us-bombs-sirik-qeshm-bandar-abbas-over-hormuz-attacks?traffic_source=rss",
+    "published": "2026-07-08T00:00:00+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -39,6 +106,19 @@
     "language": "ja",
     "regions": [
       "east_asia"
+    ]
+  },
+  {
+    "id": "0413abcaa2ea",
+    "title": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+    "summary": "The attacks have triggered fires in two districts of Kyiv, according to the city's mayor.",
+    "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
+    "published": "2026-07-07T22:53:35+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
     ]
   },
   {
@@ -169,32 +249,6 @@
     ]
   },
   {
-    "id": "cbd501f78444",
-    "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-    "summary": "The US has imposed sanctions on Rwandan companies it says helped finance armed groups through the illicit minerals trade",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/how-conflict-minerals-fuel-war-in-eastern-dr-congo-amid-us-sanctions?traffic_source=rss",
-    "published": "2026-07-07T17:23:21+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
-    "id": "e583afaf4fba",
-    "title": "US trade deficit surges amid artificial intelligence spending boom",
-    "summary": "Imbalance soars to $77.6bn in May as imports outpaced exports, driven by pharmaceuticals and semiconductors.",
-    "url": "https://www.aljazeera.com/economy/2026/7/7/us-trade-deficit-surges-amid-artificial-intelligence-spending-boom?traffic_source=rss",
-    "published": "2026-07-07T16:38:28+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
     "id": "236532934fb5",
     "title": "Ghana halts visit by South African president amid row over anti-migrant protests",
     "summary": "Many in Ghana feared his presence would lead to mass protests, and officials say it is postponed for now.",
@@ -205,19 +259,6 @@
     "language": "en",
     "regions": [
       "africa"
-    ]
-  },
-  {
-    "id": "30ecf1362ccc",
-    "title": "Trump says will lift sanctions on Turkiye, ‘consider’ selling F-35s",
-    "summary": "Announcement during Ankara meeting suggests pivot in US policy, despite opposition from Israel.",
-    "url": "https://www.aljazeera.com/news/2026/7/7/trump-says-will-lift-sanctions-on-turkiye-consider-selling-f-35s?traffic_source=rss",
-    "published": "2026-07-07T16:11:34+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
@@ -262,6 +303,32 @@
     ]
   },
   {
+    "id": "0edcdbab89ea",
+    "title": "New coalition puts children’s rights at the centre of the AI age",
+    "summary": "A new international coalition launched in Geneva on Tuesday is setting out to make sure children's safety and rights are not an afterthought as artificial intelligence reshapes how they learn, play and grow up.",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167891",
+    "published": "2026-07-07T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "3012132c721e",
+    "title": "‘Shared blueprint for peace’: Development goals deliver for billions, but challenges remain",
+    "summary": "With fewer than five years left to achieve the Sustainable Development Goals (SDGs), a new UN report says sustained investment and international cooperation have improved billions of lives, but warns that governments must urgently accelerate action if the goals are to be met by their 2030 deadline.",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167888",
+    "published": "2026-07-07T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
     "id": "03fa879a2d0f",
     "title": "When AI hurts people, who’s to blame? Global experts grapple with accountability",
     "summary": "Who is legally responsible when Artificial Intelligence causes harm? The issue took centre stage on Tuesday – day two of the first ever UN summit on AI governance, where leading experts warned of mounting evidence of human rights violations linked to the revolutionary technology.",
@@ -277,7 +344,7 @@
   {
     "id": "7a85701122ba",
     "title": "General Assembly LIVE: Debating US sanctions against Cuba",
-    "summary": "The UN General Assembly overwhelming votes to debate United States sanctions against Cuba in a meeting on Tuesday, at Havana’s request, to discuss the decades-long embargo amid warnings of increasing suffering on the Caribbean island. Stay tuned for live updates.",
+    "summary": "The UN General Assembly overwhelming voted to debate United States sanctions against Cuba in a meeting on Tuesday, at Havana’s request, to discuss the decades-long embargo amid warnings of increasing suffering on the Caribbean island.",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167883",
     "published": "2026-07-07T12:00:00+00:00",
     "source_name": "国連ニュース",
@@ -854,32 +921,6 @@
     "title": "‘The science is here’: UN chief welcomes first global AI assessment",
     "summary": "Fresh scientific evidence and options for harnessing artificial intelligence (AI) were unveiled Wednesday following the launch of the first global, independent scientific assessment of opportunities, risks and impacts by a pioneering UN expert panel.",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167853",
-    "published": "2026-07-01T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "4ec8f519fea8",
-    "title": "Expanding areas under Israeli control in Gaza increase risks to civilians, UN warns",
-    "summary": "The continued expansion of areas under Israeli control in Gaza since October’s ceasefire agreement is placing civilians at greater risk and severely constraining humanitarian operations, the UN and humanitarian partners warned on Wednesday.",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167852",
-    "published": "2026-07-01T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "134825e9f877",
-    "title": "AI explained: Why the world needs to act now",
-    "summary": "Artificial intelligence (AI) is moving faster than governments can keep up.",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167848",
     "published": "2026-07-01T12:00:00+00:00",
     "source_name": "国連ニュース",
     "source_type": "international_org",
