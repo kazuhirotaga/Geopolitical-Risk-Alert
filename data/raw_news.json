@@ -4,7 +4,7 @@
     "title": "トランプ大統領 “攻撃は短期的なもの” 米イラン攻撃応酬",
     "summary": "イラン情勢をめぐり、アメリカ中央軍は8日、前日に続き追加の攻撃を開始し、イラン各地で爆発音や被害の情報も伝えられています。トランプ大統領は攻撃は短期的なものになるという考えを示しましたが、イランの革命防衛隊は日本時間の9日午前11時すぎ、湾岸諸国にあるアメリカ軍の基地に対して攻撃を行ったことを明らかにし予断を許さない状況になっています。",
     "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172441000.html",
-    "published": "2026-07-09T11:55:17+09:00",
+    "published": "2026-07-09T17:30:44+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
@@ -19,7 +19,7 @@
     "title": "トランプ大統領 ウクライナに迎撃ミサイル生産容認の考え示す",
     "summary": "アメリカのトランプ大統領は8日、アメリカ製の防空システム「パトリオット」で使う迎撃ミサイルについて、ウクライナによる生産を容認する考えを示しました。これに対し、ゼレンスキー大統領は「世界最高の弾道ミサイルの迎撃システムだ」と述べ、謝意を示しました。",
     "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172341000.html",
-    "published": "2026-07-09T09:22:44+09:00",
+    "published": "2026-07-09T16:40:11+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
@@ -29,11 +29,25 @@
     ]
   },
   {
+    "id": "fb35e661ee6b",
+    "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月9日の動き）",
+    "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる9日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
+    "url": "http://www3.nhk.or.jp/news/html/20260709/k10015140781000.html",
+    "published": "2026-07-09T16:18:05+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "europe"
+    ]
+  },
+  {
     "id": "d60eeb745bd3",
     "title": "NATO首脳会議閉幕 “米以外の加盟国が防衛により大きな役割”",
     "summary": "トルコで開かれていたNATO＝北大西洋条約機構の首脳会議が8日閉幕し、アメリカ以外の加盟国がヨーロッパの防衛に、より大きな役割を担うことを確認しました。アメリカのトランプ大統領はほかの加盟国に対して国防費などを増額させる計画を加速するよう求めました。",
     "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172311000.html",
-    "published": "2026-07-09T08:19:51+09:00",
+    "published": "2026-07-09T13:50:19+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
@@ -41,6 +55,84 @@
       "middle_east",
       "europe",
       "north_america"
+    ]
+  },
+  {
+    "id": "057d892fb412",
+    "title": "US, Iran launch more attacks as mediators urge warring sides to uphold MoU",
+    "summary": "Iran says it attacked sites linked to the US military in Kuwait, Bahrain and Qatar after US bombarded targets in Iran.",
+    "url": "https://www.aljazeera.com/news/2026/7/9/us-iran-launch-more-attacks-as-mediators-urge-warring-sides-to-uphold-mou?traffic_source=rss",
+    "published": "2026-07-09T09:04:50+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "3d587a7eba67",
+    "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
+    "summary": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
+    "url": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-09T08:49:45+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "aec2540f6cfb",
+    "title": "Why is the cryptocurrency market slumping?",
+    "summary": "Bitcoin is falling, yet cryptocurrency is spreading beyond investing into politics, sanctions and global finance.",
+    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/9/why-is-the-cryptocurrency-market-slumping?traffic_source=rss",
+    "published": "2026-07-09T08:48:32+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "fe94faf6a505",
+    "title": "Morocco fans paint Boston red but remain wary of France at FIFA World Cup",
+    "summary": "On the eve of the quarterfinal, Morocco's supporters take over downtown Boston, showing unwavering belief in their team.",
+    "url": "https://www.aljazeera.com/sports/2026/7/9/morocco-fans-paint-boston-red-but-remain-wary-of-france-at-fifa-world-cup?traffic_source=rss",
+    "published": "2026-07-09T08:32:29+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "af8b7aa08d8d",
+    "title": "FIFA World Cup: Refereeing chief denies bias claims in Argentina-Egypt game",
+    "summary": "Pierluigi Collina said that such allegations of bias could provoke threats against referees and their families.",
+    "url": "https://www.aljazeera.com/sports/2026/7/9/argentina-egypt-world-cup-referee-var-bias-collina-salah-zico-hassan?traffic_source=rss",
+    "published": "2026-07-09T08:08:52+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_america"
+    ]
+  },
+  {
+    "id": "236c75d6ad84",
+    "title": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
+    "summary": "Israeli air attacks and gunfire kill nine Palestinians in Gaza despite ceasefire, medics say.",
+    "url": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
+    "published": "2026-07-09T07:08:32+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -54,6 +146,33 @@
     "language": "ja",
     "regions": [
       "south_america"
+    ]
+  },
+  {
+    "id": "a5404b01c248",
+    "title": "‘Double cross, first class’: Why India’s Modi wins so many foreign awards",
+    "summary": "The prime minister was presented with an award during a visit to the Seychelles, adding to his large trophy collection.",
+    "url": "https://www.aljazeera.com/news/2026/7/9/double-cross-first-class-why-indias-modi-wins-so-many-foreign-awards?traffic_source=rss",
+    "published": "2026-07-09T04:30:51+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_asia"
+    ]
+  },
+  {
+    "id": "6d4d3b4833d3",
+    "title": "Trump says he will remove Syria from the state sponsor of terrorism list",
+    "summary": "US President Trump said he will remove Syria from the US state sponsor of terrorism list at the NATO summit.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/trump-says-he-will-remove-syria-from-the-state-sponsor-of-terrorism-list?traffic_source=rss",
+    "published": "2026-07-09T04:28:44+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east",
+      "europe"
     ]
   },
   {
@@ -96,32 +215,6 @@
     ]
   },
   {
-    "id": "39c1ff0bd3cb",
-    "title": "Eight killed as landslide hits Rohingya school in Bangladesh",
-    "summary": "At least seven children and a teacher were killed after a landslide hit a girls’ school at a refugee camp in Bangladesh.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/eight-killed-as-landslide-hits-rohingya-school-in-bangladesh?traffic_source=rss",
-    "published": "2026-07-09T00:51:32+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "south_asia"
-    ]
-  },
-  {
-    "id": "931c301af21d",
-    "title": "South Sudan, 15 years on: Still fighting for peace",
-    "summary": "A stalled peace process, deepening humanitarian needs and economic challenges test the world's youngest nation.",
-    "url": "https://www.aljazeera.com/news/2026/7/9/south-sudan-15-years-on-still-fighting-for-peace?traffic_source=rss",
-    "published": "2026-07-09T00:33:38+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
     "id": "354c7c1f6871",
     "title": "イラン情勢 トランプ大統領「おそらく今夜もまた攻撃する」",
     "summary": "アメリカのトランプ大統領は8日、イラン情勢について「イランは非常に悪いふるまいをしている。昨夜、彼らが無人機やミサイルなどで攻撃したあと、われわれは彼らを激しく攻撃した」と述べました。その上で「われわれはおそらく今夜もまた彼らを激しく攻撃する。少し警告しておく」と述べ、イランに対して、7日に続き、8日も攻撃を行う可能性を示しました。",
@@ -133,58 +226,6 @@
     "regions": [
       "middle_east",
       "north_america"
-    ]
-  },
-  {
-    "id": "450ec43aa1e0",
-    "title": "Iran war live: Sirens in Bahrain, Kuwait after deadly US attacks on Iran",
-    "summary": "US attacks kill at least one person in the city of Iranshahr and cause widespread power outages in Chabahar.",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/9/iran-war-live-one-killed-as-us-bombs-bushehr-chabahar-bandar-abbas-jask?traffic_source=rss",
-    "published": "2026-07-09T00:00:06+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "5548b77559c1",
-    "title": "US expands military strikes on Iran after Trump says he’ll ‘hit them hard’",
-    "summary": "US forces have expanded their military strikes on Iran, after blaming Tehran for breaking the MoU to end the war.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_us-expands-military-strike-on-iran-080726?traffic_source=rss",
-    "published": "2026-07-08T22:52:48+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "1ca634e79927",
-    "title": "Justin Bieber joins Madonna, Shakira, BTS in World Cup final halftime show",
-    "summary": "FIFA expects 'a couple of billion' to tune in to the 11-minute performance, the first at a World Cup.",
-    "url": "https://www.aljazeera.com/sports/2026/7/8/justin-bieber-joins-madonna-shakira-bts-in-world-cup-final-halftime-show?traffic_source=rss",
-    "published": "2026-07-08T22:25:58+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "7ad8ac608523",
-    "title": "US moves to delist Syria as a ‘state sponsor of terrorism’",
-    "summary": "President Trump announces a move to delist Syria, citing efforts by Ahmed al-Sharaa to unify the country.",
-    "url": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss",
-    "published": "2026-07-08T21:36:02+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
@@ -216,16 +257,16 @@
     ]
   },
   {
-    "id": "2138189a9f06",
-    "title": "Former rebel turned government ally proposes a path to peace for Sudan",
-    "summary": "Malik Agar Ayyir has proposed a national dialogue to end the civil war and steer Sudan towards democratic civilian rule.",
-    "url": "https://www.aljazeera.com/news/2026/7/8/former-rebel-turned-government-ally-proposes-a-path-to-peace-for-sudan?traffic_source=rss",
-    "published": "2026-07-08T20:49:15+00:00",
-    "source_name": "Al Jazeera",
+    "id": "7b305ff76b2e",
+    "title": "Nato chief tells BBC that Trump comments are like 'family argument'",
+    "summary": "Mark Rutte says Nato is stronger than ever, and that he is 100% convinced of the US president's commitment to the alliance.",
+    "url": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-08T20:58:10+00:00",
+    "source_name": "BBC - World",
     "source_type": "media",
     "language": "en",
     "regions": [
-      "africa"
+      "europe"
     ]
   },
   {
@@ -266,6 +307,19 @@
     "language": "en",
     "regions": [
       "europe"
+    ]
+  },
+  {
+    "id": "459e7e1d369b",
+    "title": "The Pitt leads Emmy nominations, but Stranger Things snubbed in top categories",
+    "summary": "The Pitt and Hacks lead the race for America's most coveted TV awards - see the full list of nominations.",
+    "url": "https://www.bbc.co.uk/news/articles/ceqde3zr399o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-08T17:29:49+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
     ]
   },
   {
@@ -323,6 +377,19 @@
     ]
   },
   {
+    "id": "fad9e8bd69e2",
+    "title": "Srebrenica survivors warn of genocide denial while safeguarding memory of the dead",
+    "summary": "Three survivors of a genocide which took place in Srebrenica in Bosnia and Herzegovina in July 1995 have told UN News how they are keeping alive the memory of the more than 8,300 men and boys who were killed in the town while combating the rising current of denial about the massacre.",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167892",
+    "published": "2026-07-08T12:00:00+00:00",
+    "source_name": "国連ニュース",
+    "source_type": "international_org",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
     "id": "909d85fc9342",
     "title": "Restoring dignity: Senegalese surgeon and Burundian foundation win reproductive health awards",
     "summary": "A Senegalese surgeon who has dedicated his career to restoring the health and dignity of women living with obstetric fistula, and a Burundian foundation supporting vulnerable women and children, have been named the winners of the 2026 United Nations Population Award.",
@@ -336,8 +403,8 @@
     ]
   },
   {
-    "id": "b6d3625d93e8",
-    "title": "US-Iran war: Renewed attacks in Strait of Hormuz prompts another global energy alert",
+    "id": "060ecf40c782",
+    "title": "US-Iran war: Renewed attacks in Strait of Hormuz prompt another global energy alert",
     "summary": "Renewed attacks on shipping in the Strait of Hormuz unsettled energy markets on Wednesday and prompted calls from the UN maritime agency, IMO, for “maximum restraint and de-escalation”.",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167898",
     "published": "2026-07-08T12:00:00+00:00",
@@ -507,19 +574,6 @@
     "regions": [
       "east_asia",
       "middle_east"
-    ]
-  },
-  {
-    "id": "33633d6e1072",
-    "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-    "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
-    "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-08T05:05:31+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
     ]
   },
   {
