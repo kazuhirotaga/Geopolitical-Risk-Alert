@@ -1,116 +1,108 @@
 {
   "date": "2026-07-11",
-  "summary": "世界全体では、金融不安の余波、自然災害後の混乱、スポーツイベント後の暴動など、局所的に高い社会不安やパニック事象が散見されます。特に北米では過去の金融機関破綻の影響が語られ、欧州では暴動、東アジアでは自然災害後の特殊なパニック、アフリカでは経済活動への抗議の動きが見られます。南アジアや中東では資源不足や政治的緊張による抗議が継続しており、全体としては警戒が必要な状況です。",
-  "global_panic_index": 71,
+  "summary": "世界各地で、自然災害後の混乱、政治的緊張、生活インフラへの不満、および金融不安に起因するパニックや社会不安の兆候が見られます。特に南アジアとアフリカでは大規模な抗議活動が報告され、一部では治安部隊との衝突も発生。中国では予期せぬ自然災害後の事態が住民に直接的なパニックをもたらしています。全体的に社会心理的な不安定さが増しており、一部地域では警戒レベルに達しています。",
+  "global_panic_index": 62,
   "regions": [
     {
-      "region": "north_america",
-      "panic_index": 90,
-      "status": "critical",
-      "main_cause": "金融不安",
-      "incidents": [
-        {
-          "title": "銀行取り付け騒ぎと破綻",
-          "location": "米国 (シリコンバレー銀行関連と推定)",
-          "severity": 90,
-          "description": "1日で420億ドルが失われ、その後銀行が破綻した事象が報じられており、取り付け騒ぎによる金融システムの脆弱性とパニックの深刻さを改めて示唆している。",
-          "source": "MSN, CoinMarketCap"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 73,
+      "region": "east_asia",
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "スポーツイベント後の暴動、祭りでの事故",
+      "main_cause": "自然災害後の緊急事態、政治への不満",
       "incidents": [
         {
-          "title": "ワールドカップ敗戦後の暴動",
-          "location": "オランダ (アムステルダム、ロッテルダム、ハーグ)、イギリス (ロンドン)",
-          "severity": 75,
-          "description": "サッカーワールドカップでモロッコが敗戦した後、ファンが各地で暴動を起こし、警察が出動する騒乱に発展。公共の秩序が一時的に大きく混乱した。",
-          "source": "NL Times, London Evening Standard, Inshorts"
+          "title": "中国、洪水後の毒ヘビ脱走がパニックを引き起こす",
+          "location": "中国",
+          "severity": 90,
+          "description": "大規模な洪水により毒ヘビが農場から脱走し、地域住民の間に広範なパニックと混乱を引き起こしている。生命の安全への直接的な脅威が懸念される。",
+          "source": "صوت الإمارات"
         },
         {
-          "title": "サン・フェルミン祭でのパニック",
-          "location": "スペイン (サン・フェルミン)",
-          "severity": 70,
-          "description": "サン・フェルミン祭の闘牛で、 Álvaro Núñezの牛が暴走し、参加者間で大規模なパニックと混乱を引き起こした。",
-          "source": "russpain.com"
+          "title": "日本、国会前デモに2万7000人",
+          "location": "日本、東京",
+          "severity": 45,
+          "description": "国会前で2万7000人もの人々が「めちゃくちゃな政治」に抗議する大規模なデモを実施。政府への不満が広範囲に示されているが、秩序は保たれている。",
+          "source": "毎日新聞"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "資源不足、教育問題、政治的対立",
+      "panic_index": 75,
+      "status": "volatile",
+      "main_cause": "政治的緊張、治安部隊との衝突、資源・インフラ不足",
       "incidents": [
         {
-          "title": "水不足に対する住民抗議",
-          "location": "インド (プルワマ村)",
+          "title": "パキスタン、POJKデモで治安部隊が2名を殺害",
+          "location": "パキスタン (POJK)",
+          "severity": 85,
+          "description": "治安部隊がJAACの抗議デモ参加者2名を殺害し、さらにウマル・ナジール・カシュマリが7月14日までの要求達成を求める期限を設定。地域は極度の緊張状態にある。",
+          "source": "organiser.org"
+        },
+        {
+          "title": "インド、プルワマ村で水不足に住民が抗議",
+          "location": "インド、プルワマ",
           "severity": 55,
-          "description": "深刻な水不足に苦しむ住民が当局に対し大規模な抗議活動を実施。生活に不可欠な資源の不足が社会不安の主な原因となっている。",
+          "description": "カシミール地方プルワマ村で、深刻な水不足に対し住民が抗議デモを実施。生活必需品の欠如が住民の不満を引き起こしている。",
           "source": "Greater Kashmir"
         },
         {
-          "title": "教師不足・学校閉鎖への抗議",
-          "location": "インド (トリプラ)",
+          "title": "インド、教師不足に学生と保護者が抗議",
+          "location": "インド、ダルマサラ/トリプラ",
           "severity": 50,
-          "description": "学校の閉鎖と教師不足に不満を抱く生徒と保護者が大規模な抗議デモを実施。教育環境への不満が表面化し、社会不安の一因となっている。",
-          "source": "Tripuratimes, newire.in"
+          "description": "ダルマサラとトリプラの高校で教師不足問題に対し、学生と保護者が抗議デモを実施。教育環境への不満が示されている。",
+          "source": "The New Indian Express, Tripuratimes, newire.in"
+        }
+      ]
+    },
+    {
+      "region": "europe",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "群衆心理による秩序の乱れ",
+      "incidents": [
+        {
+          "title": "ロンドンでサッカーファンが暴動",
+          "location": "イギリス、ロンドン",
+          "severity": 65,
+          "description": "ワールドカップでフランスがモロッコに勝利した後、ロンドンでファンが暴動を起こした。スポーツイベントをきっかけとした集団行動の無秩序化が確認されている。",
+          "source": "London Evening Standard"
         },
         {
-          "title": "与党による政治的抗議デモ",
-          "location": "インド",
-          "severity": 45,
-          "description": "与党BJPがAkhilesh氏を批判し、大規模な抗議デモを実施。政治的な緊張が高まり、一部で社会不安の要因となっている。",
-          "source": "The Times of India"
+          "title": "スペイン、サン・フェルミン祭でパニック発生",
+          "location": "スペイン、サン・フェルミン",
+          "severity": 60,
+          "description": "サン・フェルミン祭の「牛追い」イベント中、闘牛が混乱を引き起こし、参加者の間にパニックが発生。群衆の安全が脅かされる事態となった。",
+          "source": "russpain.com"
+        }
+      ]
+    },
+    {
+      "region": "north_america",
+      "panic_index": 45,
+      "status": "unstable",
+      "main_cause": "金融不安",
+      "incidents": [
+        {
+          "title": "シリコンバレー銀行破綻とその余波",
+          "location": "米国",
+          "severity": 50,
+          "description": "シリコンバレー銀行の急速な破綻が広範な金融システムに影響を与え、ステーブルコインUSDCのデペッグなど、市場に一時的な混乱と不安を引き起こした。",
+          "source": "CoinMarketCap, MSN"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 70,
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "経済問題への抗議",
+      "main_cause": "社会インフラへの不満、大規模抗議活動の予告",
       "incidents": [
         {
-          "title": "経済活動停止を予告する学生団体",
+          "title": "ナイジェリアの学生団体が全国規模の抗議活動と銀行閉鎖を予告",
           "location": "ナイジェリア",
           "severity": 70,
-          "description": "学生団体NANSが、全国的な抗議活動の一環として、主要な通信会社やStanbic IBTC銀行の閉鎖を宣言。経済活動への影響と大規模な社会不安が懸念される。",
+          "description": "ナイジェリアの学生団体NANSが、MTN、MultiChoice、Stanbic IBTC銀行の閉鎖を伴う全国規模の抗議活動を予告。社会インフラへの大規模な混乱が懸念される。",
           "source": "Chronicle NG"
-        }
-      ]
-    },
-    {
-      "region": "east_asia",
-      "panic_index": 75,
-      "status": "volatile",
-      "main_cause": "自然災害後の混乱",
-      "incidents": [
-        {
-          "title": "洪水後の毒蛇脱走によるパニック",
-          "location": "中国",
-          "severity": 75,
-          "description": "大規模な洪水後、数百匹の毒蛇が農場から逃げ出し、周辺地域で住民の間に広範なパニックと混乱を引き起こしている。",
-          "source": "صوت الإمارات"
-        }
-      ]
-    },
-    {
-      "region": "middle_east",
-      "panic_index": 60,
-      "status": "unstable",
-      "main_cause": "政治的緊張",
-      "incidents": [
-        {
-          "title": "ヨルダン川西岸の実効的併合",
-          "location": "中東 (ヨルダン川西岸)",
-          "severity": 60,
-          "description": "イスラエル政府によるヨルダン川西岸の実効的併合が報じられ、地域の政治的緊張が一段と高まっている。直接的なパニックではないが、将来的な社会不安の大きな要因となる可能性がある。",
-          "source": "thenationalnews.com"
         }
       ]
     }
