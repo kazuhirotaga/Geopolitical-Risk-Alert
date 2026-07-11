@@ -1,5 +1,19 @@
 [
   {
+    "id": "1f03c4e1c2bd",
+    "title": "ベネズエラ大地震 死者4000人超に 日本の緊急援助隊が活動",
+    "summary": "南米ベネズエラで先月起きた大地震は発生から半月余りで死者が4000人を超え、今も行方が分からない人の捜索が続けられています。被害が特に深刻なラ・グアイラ州では日本の国際緊急援助隊が拠点を設け、医療支援に乗り出しています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174371000.html",
+    "published": "2026-07-11T17:50:08+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "south_america"
+    ]
+  },
+  {
     "id": "4f090998969d",
     "title": "北朝鮮 キム総書記 軍幹部の汚職事件受け綱紀粛正の徹底を指示",
     "summary": "北朝鮮の党や政府、それに軍の高官などを集めた合同会議で軍の幹部らによる汚職が報告され、キム・ジョンウン（金正恩）総書記が、綱紀粛正を徹底するよう指示したと、北朝鮮のメディアが伝えました。",
@@ -10,20 +24,6 @@
     "language": "ja",
     "regions": [
       "east_asia"
-    ]
-  },
-  {
-    "id": "1f03c4e1c2bd",
-    "title": "ベネズエラ大地震 死者4000人超に 日本の緊急援助隊が活動",
-    "summary": "南米ベネズエラで先月起きた大地震は発生から半月余りで死者が4000人を超え、今も行方が分からない人の捜索が続けられています。被害が特に深刻なラ・グアイラ州では日本の国際緊急援助隊が拠点を設け、医療支援に乗り出しています。",
-    "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174371000.html",
-    "published": "2026-07-11T13:38:28+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "east_asia",
-      "south_america"
     ]
   },
   {
@@ -50,6 +50,59 @@
     "language": "ja",
     "regions": [
       "europe"
+    ]
+  },
+  {
+    "id": "67d407f14653",
+    "title": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
+    "summary": "Super Typhoon Bavi has been downgraded but is still dangerous, meteorologists say.",
+    "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss",
+    "published": "2026-07-11T09:32:57+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia",
+      "north_america"
+    ]
+  },
+  {
+    "id": "c72141ff50d8",
+    "title": "Russian missile attacks wound 11 in Kyiv",
+    "summary": "In the latest salvo in one of the war's deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+    "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
+    "published": "2026-07-11T08:53:23+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "df5b550c09c5",
+    "title": "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",
+    "summary": "China and North Korea are celebrating the 65th anniversary of a friendship treaty this week.",
+    "url": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today?traffic_source=rss",
+    "published": "2026-07-11T08:21:20+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia"
+    ]
+  },
+  {
+    "id": "c32871d2cf9e",
+    "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
+    "summary": "US president warns the US will decimate Iran amid alleged assassination plots as regional mediators try to save MoU.",
+    "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
+    "published": "2026-07-11T08:04:57+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -212,6 +265,19 @@
     ]
   },
   {
+    "id": "00e152a4a51a",
+    "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
+    "summary": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
+    "url": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-10T23:02:35+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
     "id": "3c15798e835d",
     "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
     "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
@@ -222,19 +288,6 @@
     "language": "en",
     "regions": [
       "global"
-    ]
-  },
-  {
-    "id": "c3fda18e4da0",
-    "title": "Colombia’s Jaminton Campaz receives death threats after World Cup exit",
-    "summary": "Campaz was threatened after failing to score in the last-16 match against Switzerland, which Colombia lost on penalties.",
-    "url": "https://www.aljazeera.com/sports/2026/7/10/colombias-jaminton-campaz-receives-death-threats-after-world-cup-exit?traffic_source=rss",
-    "published": "2026-07-10T22:39:17+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "south_america"
     ]
   },
   {
