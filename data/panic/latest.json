@@ -1,107 +1,91 @@
 {
   "date": "2026-07-11",
-  "summary": "世界各地で、自然災害後の混乱、政治的緊張、生活インフラへの不満、および金融不安に起因するパニックや社会不安の兆候が見られます。特に南アジアとアフリカでは大規模な抗議活動が報告され、一部では治安部隊との衝突も発生。中国では予期せぬ自然災害後の事態が住民に直接的なパニックをもたらしています。全体的に社会心理的な不安定さが増しており、一部地域では警戒レベルに達しています。",
-  "global_panic_index": 62,
+  "summary": "世界各地では、一部地域で深刻な社会不安の兆候が見られますが、全体として広範なパニック状態には至っていません。南アジアでは治安部隊との衝突を伴うデモが発生し、アフリカでは全国規模での主要インフラ停止の予告があり、緊張が高まっています。東アジアでは自然災害に伴う局所的なパニックが報告されていますが、多くの地域では、日常生活に直結しない政治的抗議やスポーツイベントに関する情報が多く、比較的落ち着いた状況です。",
+  "global_panic_index": 35,
   "regions": [
     {
+      "region": "europe",
+      "panic_index": 10,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
+      "region": "north_america",
+      "panic_index": 5,
+      "status": "normal",
+      "main_cause": "特になし",
+      "incidents": []
+    },
+    {
       "region": "east_asia",
-      "panic_index": 70,
-      "status": "volatile",
-      "main_cause": "自然災害後の緊急事態、政治への不満",
+      "panic_index": 35,
+      "status": "stable",
+      "main_cause": "自然災害、政治的抗議",
       "incidents": [
         {
-          "title": "中国、洪水後の毒ヘビ脱走がパニックを引き起こす",
+          "title": "洪水後の毒ヘビ脱走によるパニック",
           "location": "中国",
-          "severity": 90,
-          "description": "大規模な洪水により毒ヘビが農場から脱走し、地域住民の間に広範なパニックと混乱を引き起こしている。生命の安全への直接的な脅威が懸念される。",
+          "severity": 60,
+          "description": "洪水により農場から数百匹の毒ヘビが脱走し、地域住民に混乱とパニックを引き起こしていると報告されています。生命の危険を伴う局所的なパニックです。",
           "source": "صوت الإمارات"
         },
         {
-          "title": "日本、国会前デモに2万7000人",
-          "location": "日本、東京",
-          "severity": 45,
-          "description": "国会前で2万7000人もの人々が「めちゃくちゃな政治」に抗議する大規模なデモを実施。政府への不満が広範囲に示されているが、秩序は保たれている。",
-          "source": "毎日新聞"
+          "title": "「めちゃくちゃな政治」に抗議する大規模デモ",
+          "location": "日本、東京都（国会前）",
+          "severity": 30,
+          "description": "「めちゃくちゃな政治に抗議します」と国会前で2万7千人がデモを実施。憲法改正や戦争反対を訴える大規模な政治的抗議ですが、秩序は保たれています。",
+          "source": "朝日新聞"
         }
       ]
     },
     {
       "region": "south_asia",
-      "panic_index": 75,
+      "panic_index": 65,
       "status": "volatile",
-      "main_cause": "政治的緊張、治安部隊との衝突、資源・インフラ不足",
+      "main_cause": "政治的・社会的抑圧、資源・公共サービス不足",
       "incidents": [
         {
-          "title": "パキスタン、POJKデモで治安部隊が2名を殺害",
-          "location": "パキスタン (POJK)",
+          "title": "POJKでの騒乱と治安部隊による殺害",
+          "location": "パキスタン占領下のジャンムー・カシミール（POJK）",
           "severity": 85,
-          "description": "治安部隊がJAACの抗議デモ参加者2名を殺害し、さらにウマル・ナジール・カシュマリが7月14日までの要求達成を求める期限を設定。地域は極度の緊張状態にある。",
+          "description": "POJKでJAACの抗議デモ中にパキスタン治安部隊が2名を殺害。指導者が7月14日までの要求達成を求める期限を設定し、デモ隊と治安部隊間の緊張が非常に高まっています。",
           "source": "organiser.org"
         },
         {
-          "title": "インド、プルワマ村で水不足に住民が抗議",
-          "location": "インド、プルワマ",
-          "severity": 55,
-          "description": "カシミール地方プルワマ村で、深刻な水不足に対し住民が抗議デモを実施。生活必需品の欠如が住民の不満を引き起こしている。",
+          "title": "プルワマ村での水不足に対する住民抗議",
+          "location": "インド、プルワマ村",
+          "severity": 65,
+          "description": "プルワマ村の住民が深刻な水不足に対し抗議デモを実施。生活必需品の不足は住民の強い不安を招き、社会不安の要因となっています。",
           "source": "Greater Kashmir"
         },
         {
-          "title": "インド、教師不足に学生と保護者が抗議",
-          "location": "インド、ダルマサラ/トリプラ",
-          "severity": 50,
-          "description": "ダルマサラとトリプラの高校で教師不足問題に対し、学生と保護者が抗議デモを実施。教育環境への不満が示されている。",
-          "source": "The New Indian Express, Tripuratimes, newire.in"
-        }
-      ]
-    },
-    {
-      "region": "europe",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "群衆心理による秩序の乱れ",
-      "incidents": [
-        {
-          "title": "ロンドンでサッカーファンが暴動",
-          "location": "イギリス、ロンドン",
-          "severity": 65,
-          "description": "ワールドカップでフランスがモロッコに勝利した後、ロンドンでファンが暴動を起こした。スポーツイベントをきっかけとした集団行動の無秩序化が確認されている。",
-          "source": "London Evening Standard"
+          "title": "ダルマサラ高校の教員不足に対する学生・保護者デモ",
+          "location": "インド、ダルマサラ",
+          "severity": 45,
+          "description": "ダルマサラ高校で教員不足を訴える生徒や保護者による抗議デモが発生。公共サービスの欠如に対する不満が高まっており、教育環境への不安が広がっています。",
+          "source": "The New Indian Express"
         },
         {
-          "title": "スペイン、サン・フェルミン祭でパニック発生",
-          "location": "スペイン、サン・フェルミン",
-          "severity": 60,
-          "description": "サン・フェルミン祭の「牛追い」イベント中、闘牛が混乱を引き起こし、参加者の間にパニックが発生。群衆の安全が脅かされる事態となった。",
-          "source": "russpain.com"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 45,
-      "status": "unstable",
-      "main_cause": "金融不安",
-      "incidents": [
-        {
-          "title": "シリコンバレー銀行破綻とその余波",
-          "location": "米国",
-          "severity": 50,
-          "description": "シリコンバレー銀行の急速な破綻が広範な金融システムに影響を与え、ステーブルコインUSDCのデペッグなど、市場に一時的な混乱と不安を引き起こした。",
-          "source": "CoinMarketCap, MSN"
+          "title": "トリプラ州ダルマナガール学校での教員不足・閉鎖抗議",
+          "location": "インド、トリプラ州ダルマナガール",
+          "severity": 45,
+          "description": "ダルマナガール学校で、門の閉鎖と教員不足に対して学生や保護者が抗議デモを実施。教育環境への不満が表面化しており、地域的な不安が見られます。",
+          "source": "Tripuratimes"
         }
       ]
     },
     {
       "region": "africa",
-      "panic_index": 65,
+      "panic_index": 70,
       "status": "volatile",
-      "main_cause": "社会インフラへの不満、大規模抗議活動の予告",
+      "main_cause": "広範な不満による大規模抗議の脅威",
       "incidents": [
         {
-          "title": "ナイジェリアの学生団体が全国規模の抗議活動と銀行閉鎖を予告",
+          "title": "学生団体NANSによる全国的なインフラシャットダウンの予告",
           "location": "ナイジェリア",
-          "severity": 70,
-          "description": "ナイジェリアの学生団体NANSが、MTN、MultiChoice、Stanbic IBTC銀行の閉鎖を伴う全国規模の抗議活動を予告。社会インフラへの大規模な混乱が懸念される。",
+          "severity": 75,
+          "description": "ナイジェリアの学生団体NANSが、主要通信会社MTN、テレビ放送会社MultiChoice、Stanbic IBTC銀行を全国的にシャットダウンする抗議行動を誓約。国家の主要インフラ停止の可能性は、広範な社会パニックを引き起こす潜在的な脅威です。",
           "source": "Chronicle NG"
         }
       ]
