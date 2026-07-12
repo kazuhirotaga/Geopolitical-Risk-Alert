@@ -1,86 +1,86 @@
 {
   "date": "2026-07-12",
-  "summary": "世界各地では、経済的な不満、特定の政策への抗議活動、生活必需品の不足、および地政学的緊張に起因する社会不安が散見されます。特に中東地域では、経済不安と政治的緊張が複合的に高まり、警戒状態にあります。北米や南アジア、オセアニアでは特定の物資不足や市民の抗議活動が報告されていますが、広範な社会秩序の崩壊や大規模なパニック状態には至っておらず、引き続き監視が必要な状況です。",
-  "global_panic_index": 55,
+  "summary": "世界各地では、経済不安、生活インフラの不足、政治的緊張に起因する社会不安が散見されます。イランでは経済不安に対し年金受給者が抗議し、ヨルダン川西岸地区では政治的緊張が具体的な拘束事案として現れています。また、インドでは水不足、オーストラリアでは燃料不足といった生活必需品・エネルギーの供給不安が報じられており、一部地域で市民による抗議デモが発生しています。全体的には社会秩序の崩壊には至っていませんが、複数の地域で不満が高まり、状況の悪化が懸念されます。",
+  "global_panic_index": 50,
   "regions": [
     {
       "region": "north_america",
-      "panic_index": 35,
+      "panic_index": 43,
       "status": "unstable",
-      "main_cause": "社会・政治政策への抗議",
+      "main_cause": "社会・政治問題への抗議",
       "incidents": [
         {
-          "title": "Citizens Bankに対する抗議デモ",
-          "location": "米国 ロードアイランド州",
+          "title": "銀行とICEの関係に対する抗議デモ",
+          "location": "米国、ロードアイランド州クランストン",
           "severity": 40,
-          "description": "Citizens Bankが移民・関税執行局（ICE）の請負業者と金融関係にあることに対し、ロードアイランド州の複数の支店で抗議デモが発生。特定の企業活動への不満が示されていますが、広範な社会秩序の混乱には至っていません。",
-          "source": "The Providence Journal, AOL.com"
+          "description": "ロードアイランド州クランストンで、Citizens Bankが米国移民関税執行局（ICE）の請負業者と財務関係を持つことに対する抗議デモが発生。倫理的・政治的な問題に対する市民の不満が顕在化しています。",
+          "source": "The Providence Journal"
+        },
+        {
+          "title": "キューバでの日中の抗議デモ",
+          "location": "キューバ、ベダード",
+          "severity": 45,
+          "description": "キューバのベダード地区で、鍋やフライパンを鳴らす日中の抗議デモが発生。これは生活苦や政府への不満を示すものであり、社会不安の兆候と見られます。",
+          "source": "CubaHeadlines"
         }
       ]
     },
     {
       "region": "middle_east",
-      "panic_index": 70,
+      "panic_index": 60,
       "status": "volatile",
-      "main_cause": "経済不安、地政学的緊張",
+      "main_cause": "経済不安、地域紛争による緊張",
       "incidents": [
         {
-          "title": "イラン経済不安に対する年金受給者の抗議",
-          "location": "イラン テヘラン",
-          "severity": 60,
-          "description": "イランのテヘランで、経済不安を背景に年金受給者が権利を求めて抗議活動を実施。深刻な経済状況が市民の不満を高め、社会不安を引き起こしています。",
-          "source": "Crypto Briefing"
-        },
-        {
-          "title": "米国議員が西岸地区でイスラエル人入植者に拘束",
-          "location": "ヨルダン川西岸地区",
-          "severity": 50,
-          "description": "米国下院議員が西岸地区訪問中に武装したイスラエル人入植者に拘束されたと報じられました。地域紛争の継続的な緊張と、それに伴う治安の不安定さを示しています。",
-          "source": "NBC News, The American Conservative, WFIN"
-        },
-        {
-          "title": "米イラン間の緊張による湾岸市場の動揺",
-          "location": "湾岸地域",
-          "severity": 65,
-          "description": "米イラン間の緊張が高まり、湾岸市場で株価が下落。石油供給への懸念も増大しており、地政学的リスクが経済活動と社会心理に影響を与えています。",
-          "source": "Crypto Briefing"
-        }
-      ]
-    },
-    {
-      "region": "south_asia",
-      "panic_index": 50,
-      "status": "unstable",
-      "main_cause": "生活必需品不足、社会不満",
-      "incidents": [
-        {
-          "title": "水不足に対する女性たちの抗議",
-          "location": "インド バサント・バーグ",
+          "title": "イランの経済不安に対する年金受給者の抗議デモ",
+          "location": "イラン、テヘラン",
           "severity": 55,
-          "description": "バサント・バーグで、1年にもわたる水危機に対し女性たちが抗議デモを行いました。生活に不可欠な資源の不足は住民の深刻な不満と不安を募らせています。",
-          "source": "Daily Excelsior"
+          "description": "イランのテヘランで、経済不安を背景に年金受給者が権利を求めて抗議デモを実施。生活苦に対する社会的な不満が顕在化し、政府への圧力が強まっています。",
+          "source": "Crypto Briefing"
         },
         {
-          "title": "長期行進と座り込みの撤回要求",
-          "location": "パキスタン ラワラコット",
-          "severity": 45,
-          "description": "パキスタンのラワラコットで計画されている長期行進と座り込みに対し、元JAACメンバーが撤回を要請。政治的な抗議活動が計画されており、地域の不安定さを示唆しています。",
-          "source": "The Express Tribune"
+          "title": "米国議員がヨルダン川西岸地区で入植者に拘束",
+          "location": "ヨルダン川西岸地区",
+          "severity": 65,
+          "description": "米国下院議員がヨルダン川西岸地区訪問中にイスラエル人入植者に拘束されたと報告。この地域の長年の紛争と緊張が依然として高く、偶発的な衝突や社会不安のリスクが浮き彫りになっています。",
+          "source": "NBC News"
         }
       ]
     },
     {
-      "region": "oceania",
-      "panic_index": 55,
-      "status": "unstable",
-      "main_cause": "エネルギー不足",
+      "region": "europe",
+      "panic_index": 30,
+      "status": "normal",
+      "main_cause": "イベント中の事故",
       "incidents": [
         {
-          "title": "燃料不足によるガソリンスタンドの閉鎖",
-          "location": "オーストラリア キャンベラ",
-          "severity": 60,
-          "description": "キャンベラのガソリンスタンドで燃料が完全に枯渇し、他のスタンドでもディーゼルが不足しています。エネルギー不足は市民生活に直接的な影響を与え、不安を増大させています。",
-          "source": "The Canberra Times"
+          "title": "サン・フェルミン祭りの牛追い祭りでパニック",
+          "location": "スペイン、パンプローナ",
+          "severity": 30,
+          "description": "スペインのパンプローナで開催されたサン・フェルミン祭りの牛追い祭りで、1名が牛に刺され、12名が負傷。記事ではイベント内での「パニック」と表現されていますが、社会秩序の崩壊には至っていません。",
+          "source": "Euro Weekly News"
+        }
+      ]
+    },
+    {
+      "region": "southeast_asia",
+      "panic_index": 48,
+      "status": "unstable",
+      "main_cause": "生活インフラ不足、社会政治的緊張",
+      "incidents": [
+        {
+          "title": "パキスタンで大規模デモ・座り込み計画の撤回要請",
+          "location": "パキスタン、ラワラコット",
+          "severity": 45,
+          "description": "パキスタンのラワラコットで、ある組織が計画しているロングマーチと座り込みに対し、元メンバーが撤回を要請。これは政治的・社会的な緊張の高まりと、それに伴う混乱への懸念を反映しています。",
+          "source": "The Express Tribune"
+        },
+        {
+          "title": "インドで水不足に対する女性の抗議デモ",
+          "location": "インド、バサント・バーグ",
+          "severity": 50,
+          "description": "インドのバサント・バーグで、1年にもわたる水危機に対し、女性たちが抗議デモを実施。基本的な生活インフラの不足が住民の深刻な不満と社会不安を引き起こしています。",
+          "source": "Daily Excelsior"
         }
       ]
     }
