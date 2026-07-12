@@ -1,71 +1,86 @@
 {
   "date": "2026-07-12",
-  "summary": "世界全体で、中東の地政学的緊張と経済不安、南アジアの深刻な水不足、オーストラリアでの燃料不足といった生活基盤に関わる問題が顕在化しています。これらが広範な社会不安や一部で警戒状態を引き起こしており、状況の推移が注視されます。北米では特定の社会問題に対する抗議デモが発生していますが、大規模なパニックには至っていません。",
-  "global_panic_index": 60,
+  "summary": "世界各地では、経済的な不満、特定の政策への抗議活動、生活必需品の不足、および地政学的緊張に起因する社会不安が散見されます。特に中東地域では、経済不安と政治的緊張が複合的に高まり、警戒状態にあります。北米や南アジア、オセアニアでは特定の物資不足や市民の抗議活動が報告されていますが、広範な社会秩序の崩壊や大規模なパニック状態には至っておらず、引き続き監視が必要な状況です。",
+  "global_panic_index": 55,
   "regions": [
     {
-      "region": "middle_east",
-      "panic_index": 65,
-      "status": "volatile",
-      "main_cause": "地政学的緊張、経済不安",
+      "region": "north_america",
+      "panic_index": 35,
+      "status": "unstable",
+      "main_cause": "社会・政治政策への抗議",
       "incidents": [
         {
-          "title": "米政治家がヨルダン川西岸でイスラエル人入植者に阻止・拘束",
-          "location": "ヨルダン川西岸",
-          "severity": 60,
-          "description": "アメリカ人政治家がヨルダン川西岸を訪問中、武装したイスラエル人入植者によって道路を阻止され、一時的に拘束された。これは、紛争地域における政治的緊張と地域住民間の対立が深刻化していることを示している。",
-          "source": "The New York Times 他"
-        },
+          "title": "Citizens Bankに対する抗議デモ",
+          "location": "米国 ロードアイランド州",
+          "severity": 40,
+          "description": "Citizens Bankが移民・関税執行局（ICE）の請負業者と金融関係にあることに対し、ロードアイランド州の複数の支店で抗議デモが発生。特定の企業活動への不満が示されていますが、広範な社会秩序の混乱には至っていません。",
+          "source": "The Providence Journal, AOL.com"
+        }
+      ]
+    },
+    {
+      "region": "middle_east",
+      "panic_index": 70,
+      "status": "volatile",
+      "main_cause": "経済不安、地政学的緊張",
+      "incidents": [
         {
-          "title": "イランの退職者が経済不安に対し抗議デモ",
-          "location": "テヘラン、イラン",
-          "severity": 70,
-          "description": "イランの首都テヘランで、年金受給者たちが経済不安と生活苦に対し、権利を求めて大規模な抗議デモを実施。政府の経済政策への不満が噴出し、社会的な緊張が高まっている。",
+          "title": "イラン経済不安に対する年金受給者の抗議",
+          "location": "イラン テヘラン",
+          "severity": 60,
+          "description": "イランのテヘランで、経済不安を背景に年金受給者が権利を求めて抗議活動を実施。深刻な経済状況が市民の不満を高め、社会不安を引き起こしています。",
           "source": "Crypto Briefing"
         },
         {
-          "title": "ヨルダン川西岸でCNN取材班が攻撃される",
-          "location": "シンジル、ヨルダン川西岸",
-          "severity": 65,
-          "description": "ヨルダン川西岸のシンジル町でCNN取材班が攻撃を受け、入植者4人が拘束された。これは、地域住民間の対立が深刻化し、暴力行為が発生している不安定な状況を浮き彫りにしている。",
-          "source": "The Times of Israel"
-        }
-      ]
-    },
-    {
-      "region": "north_america",
-      "panic_index": 38,
-      "status": "unstable",
-      "main_cause": "社会問題への抗議、金融システムの潜在的脆弱性",
-      "incidents": [
-        {
-          "title": "Citizens Bankへの反ICE抗議デモ",
-          "location": "クランストン、ロードアイランド州、米国",
-          "severity": 45,
-          "description": "米国のロードアイランド州クランストンにあるCitizens Bankの支店前で、移民税関捜査局(ICE)の請負業者との金融関係に抗議するデモが行われた。これは市民の強い反発を示している。",
-          "source": "The Providence Journal 他"
+          "title": "米国議員が西岸地区でイスラエル人入植者に拘束",
+          "location": "ヨルダン川西岸地区",
+          "severity": 50,
+          "description": "米国下院議員が西岸地区訪問中に武装したイスラエル人入植者に拘束されたと報じられました。地域紛争の継続的な緊張と、それに伴う治安の不安定さを示しています。",
+          "source": "NBC News, The American Conservative, WFIN"
         },
         {
-          "title": "米国の小規模銀行が106年の歴史を経て破綻",
-          "location": "米国",
-          "severity": 30,
-          "description": "106年間家族経営を続けてきた米国で最小規模の銀行が破綻した。これは金融システムの脆弱性を示唆するが、広範な取り付け騒ぎや経済パニックには繋がっていない。",
-          "source": "Barron's"
+          "title": "米イラン間の緊張による湾岸市場の動揺",
+          "location": "湾岸地域",
+          "severity": 65,
+          "description": "米イラン間の緊張が高まり、湾岸市場で株価が下落。石油供給への懸念も増大しており、地政学的リスクが経済活動と社会心理に影響を与えています。",
+          "source": "Crypto Briefing"
         }
       ]
     },
     {
-      "region": "southeast_asia",
-      "panic_index": 75,
-      "status": "critical",
-      "main_cause": "資源不足（水）",
+      "region": "south_asia",
+      "panic_index": 50,
+      "status": "unstable",
+      "main_cause": "生活必需品不足、社会不満",
       "incidents": [
         {
-          "title": "インドで一年続く水危機に対し女性が抗議デモ",
-          "location": "バサント・バーグ、インド",
-          "severity": 75,
-          "description": "インドのバサント・バーグで、一年にもわたる深刻な水不足に対し、多数の女性たちが抗議デモを行った。生活基盤の危機は住民の強い不安と社会的な緊張を引き起こしている。",
+          "title": "水不足に対する女性たちの抗議",
+          "location": "インド バサント・バーグ",
+          "severity": 55,
+          "description": "バサント・バーグで、1年にもわたる水危機に対し女性たちが抗議デモを行いました。生活に不可欠な資源の不足は住民の深刻な不満と不安を募らせています。",
           "source": "Daily Excelsior"
+        },
+        {
+          "title": "長期行進と座り込みの撤回要求",
+          "location": "パキスタン ラワラコット",
+          "severity": 45,
+          "description": "パキスタンのラワラコットで計画されている長期行進と座り込みに対し、元JAACメンバーが撤回を要請。政治的な抗議活動が計画されており、地域の不安定さを示唆しています。",
+          "source": "The Express Tribune"
+        }
+      ]
+    },
+    {
+      "region": "oceania",
+      "panic_index": 55,
+      "status": "unstable",
+      "main_cause": "エネルギー不足",
+      "incidents": [
+        {
+          "title": "燃料不足によるガソリンスタンドの閉鎖",
+          "location": "オーストラリア キャンベラ",
+          "severity": 60,
+          "description": "キャンベラのガソリンスタンドで燃料が完全に枯渇し、他のスタンドでもディーゼルが不足しています。エネルギー不足は市民生活に直接的な影響を与え、不安を増大させています。",
+          "source": "The Canberra Times"
         }
       ]
     }
