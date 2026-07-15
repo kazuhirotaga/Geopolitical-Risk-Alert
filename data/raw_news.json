@@ -4,7 +4,7 @@
     "title": "米がホルムズ海峡を再び封鎖 トランプ大統領 対価要求は撤回",
     "summary": "中東地域を管轄するアメリカ中央軍は14日、ホルムズ海峡をめぐり、イランの港などを出入りする船舶を対象にした海上封鎖を日本時間の15日午前5時から再開したと発表し、双方による攻撃の応酬も続く中、戦闘の終結に向けた協議が一段と後退することが懸念されます。一方、トランプ大統領は、ホルムズ海峡の航行の安全を担う見返りに通過貨物に20％分の対価を課すとしていたことについて事実上、撤回する方針を明らかにしました。",
     "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177001000.html",
-    "published": "2026-07-15T06:12:42+09:00",
+    "published": "2026-07-15T10:22:42+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
@@ -12,6 +12,58 @@
       "east_asia",
       "middle_east",
       "north_america"
+    ]
+  },
+  {
+    "id": "1285a7f559b5",
+    "title": "ウクライナ支援の有志連合 今秋にポーランドで初の軍事演習へ",
+    "summary": "ウクライナを支援する国々の有志連合の軍事演習について、ポーランドのトゥスク首相はことし秋に初めてポーランドで行われると明らかにし、ロシアによる軍事侵攻のさらなる長期化への対応を強化したい考えです。",
+    "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177211000.html",
+    "published": "2026-07-15T08:35:25+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "0496fbc175ed",
+    "title": "6月のウクライナ民間人死傷者2200人超 過去4年で最多 国連",
+    "summary": "国連の人権監視団は14日、ロシアによる軍事侵攻が続くウクライナについて、先月の民間人の死傷者は2200人を超え、侵攻直後の2022年4月以降、月別で最も多くなったと明らかにしました。",
+    "url": "http://www3.nhk.or.jp/news/html/20260715/k10015176991000.html",
+    "published": "2026-07-15T08:33:32+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "4aec9e52dd80",
+    "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+    "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+    "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-14T23:17:27+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "7375f59f94d9",
+    "title": "Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca",
+    "summary": "Activists say Moroccan authorities are intensifying repression of critical voices and the Gen Z protest movement.",
+    "url": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
+    "published": "2026-07-14T22:11:33+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
     ]
   },
   {
@@ -159,38 +211,12 @@
     ]
   },
   {
-    "id": "01f2f85e83fe",
-    "title": "Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP",
-    "summary": "Renewed conflict and tensions in the Strait of Hormuz have slowed fertiliser shipments, worsening hunger in Sudan.",
-    "url": "https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption?traffic_source=rss",
-    "published": "2026-07-14T17:22:58+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
     "id": "c8e82f931892",
     "title": "Israeli strike on police post in north Gaza kills seven, officials say",
     "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
     "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
     "published": "2026-07-14T17:13:27+00:00",
     "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "bb4f70f1edf0",
-    "title": "US consumer prices drop in June as energy costs tumble",
-    "summary": "Inflation eased due to cheaper energy, but experts warn price increases may return after renewed US-Iran tensions.",
-    "url": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble?traffic_source=rss",
-    "published": "2026-07-14T16:57:42+00:00",
-    "source_name": "Al Jazeera",
     "source_type": "media",
     "language": "en",
     "regions": [
@@ -531,20 +557,6 @@
     "language": "en",
     "regions": [
       "south_asia"
-    ]
-  },
-  {
-    "id": "5485a2920969",
-    "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
-    "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
-    "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-13T11:36:18+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "europe"
     ]
   },
   {
