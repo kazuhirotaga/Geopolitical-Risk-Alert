@@ -1,5 +1,32 @@
 [
   {
+    "id": "a04524943936",
+    "title": "バンコク飲食店火災32人死亡 タイ全国で緊急立ち入り検査",
+    "summary": "タイの首都バンコクの飲食店で今月12日に大規模な火災が起きたことを受けて、タイの当局は、全国の娯楽施設などを対象に避難経路などの安全対策を確認する緊急の立ち入り検査を始めました。",
+    "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177641000.html",
+    "published": "2026-07-15T17:17:55+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "southeast_asia"
+    ]
+  },
+  {
+    "id": "d2651cd863b5",
+    "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月15日の動き）",
+    "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる15日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
+    "url": "http://www3.nhk.or.jp/news/html/20260715/k10015140961000.html",
+    "published": "2026-07-15T16:09:50+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "europe"
+    ]
+  },
+  {
     "id": "e788c30c5ce3",
     "title": "米軍 イランへの海上封鎖再開 トランプ大統領「発電所も標的」",
     "summary": "アメリカとイランがホルムズ海峡をめぐり再び激しく対立する中、アメリカ軍はイランに対する海上封鎖を日本時間の15日朝、再開したと発表しました。双方による攻撃も続き、トランプ大統領は「来週は発電所や橋が標的になる」と述べるなど先月交わされた覚書が実態を伴わない状態となっています。",
@@ -41,6 +68,45 @@
     ]
   },
   {
+    "id": "bcf42f1aa750",
+    "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+    "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
+    "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-15T08:17:28+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "c7a07032901a",
+    "title": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
+    "summary": "Oil prices rise as the US renews a blockade on Iranian ports and carries out a wave of air strikes.",
+    "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss",
+    "published": "2026-07-15T07:58:36+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "ee6a374f03a2",
+    "title": "How the failed 2016 coup reshaped Turkiye’s civil-military relations",
+    "summary": "Takeover bid 10 years ago sped up efforts to expand civilian oversight, experts say, reducing chances of another coup.",
+    "url": "https://www.aljazeera.com/news/2026/7/15/how-failed-2016-coup-reshaped-turkiyes-and-civil-military-relations?traffic_source=rss",
+    "published": "2026-07-15T06:29:20+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
     "id": "3ac1272c5875",
     "title": "China economic growth falls sharply, missing target",
     "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
@@ -51,19 +117,6 @@
     "language": "en",
     "regions": [
       "east_asia",
-      "middle_east"
-    ]
-  },
-  {
-    "id": "bcf42f1aa750",
-    "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-    "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
-    "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-15T03:57:17+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
       "middle_east"
     ]
   },
@@ -94,9 +147,9 @@
     ]
   },
   {
-    "id": "097bde5944ec",
-    "title": "Iran war live: US carries out strikes, IRGC claims damage on US Gulf bases",
-    "summary": "Iran's bridges, power plants possible targets, Trump says, adding that strikes on Iran will continue until he says.",
+    "id": "10e5408934ac",
+    "title": "Iran war live: At least 30 civilians killed in recent US air strikes",
+    "summary": "US missile barrage on southern Iran kills 7 Iranian soldiers as Trump vows to intensify attacks.",
     "url": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
     "published": "2026-07-15T00:00:15+00:00",
     "source_name": "Al Jazeera",
@@ -159,58 +212,6 @@
     ]
   },
   {
-    "id": "3ad9d886d08d",
-    "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
-    "summary": "Iranian state media is reporting that Tehran has targeted a US naval support base in Bahrain’s capital.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss",
-    "published": "2026-07-14T21:05:12+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "043473df5d4f",
-    "title": "What is Iran’s Pickaxe Mountain?",
-    "summary": "Donald Trump has threatened to strike Pickaxe Mountain, an underground nuclear-related complex.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
-    "published": "2026-07-14T20:27:40+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "3e2dc9a2a984",
-    "title": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
-    "summary": "Mobilisation of fighters and attacks signal the collapse of Yemen's fragile peace, with regional implications looming.",
-    "url": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss",
-    "published": "2026-07-14T20:17:56+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "cc1c65bf0497",
-    "title": "US Senate Democrats block defence bill over Iran war, Israel integration",
-    "summary": "The Senate votes 50-46 to block debate on the annual defence bill over war funding and defence cooperation with Israel.",
-    "url": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss",
-    "published": "2026-07-14T20:12:06+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
     "id": "d6616b98359d",
     "title": "仏革命記念日軍事パレード 欧州各国の兵も参加し結束演出",
     "summary": "アメリカがヨーロッパの安全保障への負担を減らそうとするなか、フランスは革命記念日にあわせた過去最大規模とされる軍事パレードに、ヨーロッパを中心に30か国以上を招き、結束を演出しました。",
@@ -251,8 +252,8 @@
     ]
   },
   {
-    "id": "26822c73034f",
-    "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月14日の動き）",
+    "id": "391e99c13866",
+    "title": "【詳細】ロシア ウクライナに軍事侵攻（7月14日の動き）",
     "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる14日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
     "url": "http://www3.nhk.or.jp/news/html/20260714/k10015140951000.html",
     "published": "2026-07-14T16:34:03+09:00",
