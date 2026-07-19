@@ -1,5 +1,72 @@
 [
   {
+    "id": "7f557861a925",
+    "title": "米イラン攻撃応酬続く 新たに米兵1人の死亡を発表",
+    "summary": "アメリカとイランによる攻撃の応酬が続く中、アメリカ軍は、イランの無人機の不発弾処理の作業中に兵士1人が死亡したと新たに発表し、情勢のさらなる緊迫化が懸念されます。",
+    "url": "http://www3.nhk.or.jp/news/html/20260720/k10015180931000.html",
+    "published": "2026-07-20T06:19:28+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
+    "id": "6b554daba000",
+    "title": "ロシアがウクライナに弾道ミサイルで攻撃 過去最大規模か",
+    "summary": "ロシア軍は19日にかけて、ウクライナに対して大規模な攻撃を行い、首都キーウでは1人が死亡、15人がけがをしました。ウクライナのゼレンスキー大統領はこれまでに行われたロシアの弾道ミサイルによる攻撃の中で最大規模だったとしています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181001000.html",
+    "published": "2026-07-20T04:56:13+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "3f25d7bf1423",
+    "title": "Israeli ministers join march to Gaza to demand return of settlements",
+    "summary": "Hundreds gather near the border as coalition figures push to rebuild communities evacuated in 2005.",
+    "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
+    "published": "2026-07-19T20:55:11+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "e41038f88bf5",
+    "title": "The UK gets its seventh prime minister in 10 years",
+    "summary": "Incoming PM Andy Burnham will immediately face foreign policy challenges, including the conflicts in Ukraine and Iran.",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss",
+    "published": "2026-07-19T20:05:31+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east",
+      "europe"
+    ]
+  },
+  {
+    "id": "70a687de907f",
+    "title": "US soldier killed and one injured after Iranian attack in Iraq",
+    "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+    "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-19T19:45:12+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
     "id": "e78a8e9b0c6d",
     "title": "米軍8日連続の攻撃完了 イラン「壊滅的な反撃招く」とけん制",
     "summary": "アメリカ中央軍は、イランの攻撃に対応していた兵士2人が死亡したことを受けて8日連続となるイランへの攻撃を行ったと発表しました。一方、イランの中央司令部は声明で「壊滅的な反撃を招くことになる」などとアメリカを強くけん制していて、攻撃の応酬のさらなる激化が懸念されています。",
@@ -24,6 +91,19 @@
     "language": "ja",
     "regions": [
       "east_asia"
+    ]
+  },
+  {
+    "id": "dce29dd0671f",
+    "title": "Trump visit causes logistical delays at World Cup final",
+    "summary": "Al Jazeera reporters faced lengthy queues to enter the stadium due to tighter security checks.",
+    "url": "https://www.aljazeera.com/sports/2026/7/19/trump-visit-causes-logistical-delays-at-world-cup-final?traffic_source=rss",
+    "published": "2026-07-19T19:05:41+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
     ]
   },
   {
@@ -81,19 +161,6 @@
     ]
   },
   {
-    "id": "ecdb253e2a40",
-    "title": "US and Iran trade fire after two US soldiers killed in Jordan",
-    "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
-    "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-19T17:22:23+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
     "id": "1e5cd018ce13",
     "title": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
     "summary": "Government says the shake-up will strengthen security and clear the way for reconstruction.",
@@ -120,33 +187,6 @@
     ]
   },
   {
-    "id": "f33c63d7d1a3",
-    "title": "Iran attacks US Gulf allies, causing a fire at Kuwait power plant",
-    "summary": "Kuwait and Bahrain report several rounds of Iranian missile, drone attacks; sirens reportedly sound in Jordan.",
-    "url": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
-    "published": "2026-07-19T14:27:53+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "6ca510601f7b",
-    "title": "Why is China protesting about the nationalisation of British Steel?",
-    "summary": "The UK move to take over British Steel fuels a brewing dispute with China amid political leadership change in London.",
-    "url": "https://www.aljazeera.com/news/2026/7/19/why-is-a-chinese-company-protesting-over-uk-nationalising-a-steel-plant?traffic_source=rss",
-    "published": "2026-07-19T14:12:10+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia",
-      "europe"
-    ]
-  },
-  {
     "id": "2e8add6528d3",
     "title": "兵士死亡受けて米軍が8日連続でイラン攻撃 対立の先鋭化懸念",
     "summary": "アメリカ中央軍はイランの攻撃に対応していた兵士2人が死亡したことを受けて、日本時間の19日朝から8日連続となるイランへの攻撃を行ったと発表し、対立のさらなる先鋭化が懸念されています。",
@@ -159,19 +199,6 @@
       "east_asia",
       "middle_east",
       "north_america"
-    ]
-  },
-  {
-    "id": "bc027af22f9d",
-    "title": "Why have India’s Gen Z protesters called for a march to parliament?",
-    "summary": "After a prominent activist on hunger strike is forcibly removed, organisers announce a march to parliament.",
-    "url": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament?traffic_source=rss",
-    "published": "2026-07-19T12:45:07+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "south_asia"
     ]
   },
   {
