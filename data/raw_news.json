@@ -1,16 +1,31 @@
 [
   {
-    "id": "7f557861a925",
-    "title": "米イラン攻撃応酬続く 新たに米兵1人の死亡を発表",
-    "summary": "アメリカとイランによる攻撃の応酬が続く中、アメリカ軍は、イランの無人機の不発弾処理の作業中に兵士1人が死亡したと新たに発表し、情勢のさらなる緊迫化が懸念されます。",
+    "id": "cd80eb857b32",
+    "title": "米“イランに9日連続の攻撃” 中東に戦闘機追加配備と報道も",
+    "summary": "中東地域を管轄するアメリカ中央軍は、9日連続となるイランに対する攻撃をアメリカ東部時間の19日午後10時、日本時間の20日午前11時に完了したと発表しました。「ホルムズ海峡を通過する商船や船員に対するイランの攻撃能力をさらに低下させるためだ」としていて、軍の指揮センターや防空施設や沿岸の監視施設、それにミサイルや無人機の発射施設などを目標にしたとしています。",
     "url": "http://www3.nhk.or.jp/news/html/20260720/k10015180931000.html",
-    "published": "2026-07-20T06:19:28+09:00",
+    "published": "2026-07-20T11:55:24+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
     "regions": [
+      "east_asia",
       "middle_east",
       "north_america"
+    ]
+  },
+  {
+    "id": "6383e412653b",
+    "title": "プーチン大統領 北朝鮮外相と会談 ウクライナめぐり議論か",
+    "summary": "ロシアのプーチン大統領は19日、モスクワで北朝鮮のチェ・ソニ外相と会談し、両国の安全保障上の連携を確認するとともに、戦況がこう着しているとされるウクライナ情勢をめぐっても意見を交わしたものとみられます。",
+    "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181061000.html",
+    "published": "2026-07-20T08:03:43+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "europe"
     ]
   },
   {
@@ -27,9 +42,87 @@
     ]
   },
   {
+    "id": "3dbc03509872",
+    "title": "Africa Shield: Why securing development is becoming a new security priority",
+    "summary": "As Africa industrialises, governments are working to keep sensitive materials out of the wrong hands.",
+    "url": "https://www.aljazeera.com/news/2026/7/20/africa-shield-why-securing-development-is-becoming-a-new-security-priority?traffic_source=rss",
+    "published": "2026-07-20T02:39:17+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "f881ab9dd1ec",
+    "title": "Mbappe takes home second Golden Boot, Spain sweeps World Cup awards",
+    "summary": "While Ferran Torres orchestrated Spain's winning the ultimate prize, his teammates walk away with awards of their own.",
+    "url": "https://www.aljazeera.com/sports/2026/7/20/mbappe-takes-home-second-golden-boot-spain-sweeps-world-cup-awards?traffic_source=rss",
+    "published": "2026-07-20T02:09:53+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "f852cb56b1ee",
+    "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
+    "summary": "Iranian media report blasts in cities in the far north and far south, including Tabriz and Chabahar.",
+    "url": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss",
+    "published": "2026-07-20T01:48:59+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "f36145bcf901",
+    "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+    "summary": "Aggression against recruitment officers has become increasingly threatening, police say.",
+    "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-20T00:19:12+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "75e1651fe25e",
+    "title": "Iran war live: US military completes ninth night of strikes on Iran",
+    "summary": "US forces attack Iran for ninth consecutive night as one US soldier killed in northern Iraq.",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss",
+    "published": "2026-07-20T00:00:00+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "1dede95e7333",
+    "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
+    "summary": "The death brings the number of US soldiers killed since the start of the US-Israel war on Iran to 17.",
+    "url": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss",
+    "published": "2026-07-19T23:49:30+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
     "id": "3f25d7bf1423",
     "title": "Israeli ministers join march to Gaza to demand return of settlements",
-    "summary": "Hundreds gather near the border as coalition figures push to rebuild communities evacuated in 2005.",
+    "summary": "Hundreds gather near the border as far-right figures push to rebuild settlements removed in 2005",
     "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
     "published": "2026-07-19T20:55:11+00:00",
     "source_name": "Al Jazeera",
@@ -107,20 +200,6 @@
     ]
   },
   {
-    "id": "10ee59d09ce8",
-    "title": "At least 50 Malian soldiers killed in attack on military convoy",
-    "summary": "At least 50 Malian soldiers were killed after a joint Malian army and Russia's Africa Corps convoy was ambushed.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss",
-    "published": "2026-07-19T18:27:58+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe",
-      "africa"
-    ]
-  },
-  {
     "id": "42500ff9ba80",
     "title": "Russia launches major ballistic missile attack on Ukrainian cities",
     "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
@@ -158,32 +237,6 @@
     "regions": [
       "east_asia",
       "europe"
-    ]
-  },
-  {
-    "id": "1e5cd018ce13",
-    "title": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
-    "summary": "Government says the shake-up will strengthen security and clear the way for reconstruction.",
-    "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss",
-    "published": "2026-07-19T16:43:55+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "2a66feea800b",
-    "title": "Health officials identify source of US explosive diarrhoea outbreak",
-    "summary": "The US Food and Drug Administration says iceberg lettuce supplied by Taylor Farms and sold at Taco Bell and Walmart locations was the source of cyclosporiasis infections.",
-    "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-19T15:17:23+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   },
   {
@@ -969,19 +1022,6 @@
     "title": "Independent expert urges UK leaders to uphold Supreme Court ruling on women’s rights",
     "summary": "A UN independent human rights expert has urged political leaders in the United Kingdom to support implementation of a Supreme Court ruling on the legal definition of sex, warning that opposition to updated equality guidance risks weakening protections for women and girls.",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167937",
-    "published": "2026-07-14T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "98199da25afb",
-    "title": "‘Hunted’ by drones: UN reports worst month for Ukraine’s civilians since 2022",
-    "summary": "Civilian casualties in Ukraine soared during the first half of 2026 amid escalating Russian attacks and intensifying use of deadly weapons, the UN human rights monitoring mission in the country, HRMMU, said on Tuesday.",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167935",
     "published": "2026-07-14T12:00:00+00:00",
     "source_name": "国連ニュース",
     "source_type": "international_org",
