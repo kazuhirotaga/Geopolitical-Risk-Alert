@@ -1,10 +1,10 @@
 [
   {
-    "id": "d9ba7c58b02c",
-    "title": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
-    "summary": "防衛省は、中国海軍の艦艇が19日、小笠原諸島の沖ノ鳥島周辺の日本のEEZ＝排他的経済水域の内側で機関銃の射撃訓練を実施したのを確認したと発表しました。付近にはロシア海軍の艦艇も確認され、防衛省が警戒と監視を続けています。",
-    "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
-    "published": "2026-07-21T12:23:55+09:00",
+    "id": "34f197fa4196",
+    "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月21日の動き）",
+    "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる21日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
+    "url": "http://www3.nhk.or.jp/news/html/20260721/k10015141121000.html",
+    "published": "2026-07-21T17:25:18+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
@@ -18,13 +18,27 @@
     "title": "イランへの攻撃「大統領が判断を下すまで続ける」米政府当局者",
     "summary": "アメリカ軍は20日、10日連続となるイランへの攻撃を行いました。アメリカの政府当局者はNHKの取材に「壊滅的な攻撃は大統領が判断を下すまで続ける」と述べて攻撃は続くという見方を示していて、事態が収束する見通しは立っていません。",
     "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181491000.html",
-    "published": "2026-07-21T12:07:32+09:00",
+    "published": "2026-07-21T17:16:28+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
     "regions": [
       "middle_east",
       "north_america"
+    ]
+  },
+  {
+    "id": "d9ba7c58b02c",
+    "title": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
+    "summary": "防衛省は、中国海軍の艦艇が19日、小笠原諸島の沖ノ鳥島周辺の日本のEEZ＝排他的経済水域の内側で機関銃の射撃訓練を実施したのを確認したと発表しました。付近にはロシア海軍の艦艇も確認され、防衛省が警戒と監視を続けています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
+    "published": "2026-07-21T14:56:00+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "europe"
     ]
   },
   {
@@ -42,6 +56,19 @@
     ]
   },
   {
+    "id": "0d05da1fdae7",
+    "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+    "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+    "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-21T07:56:13+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "north_america"
+    ]
+  },
+  {
     "id": "aed0493fdd8a",
     "title": "米大統領 イランへの攻撃強化の構え 双方による応酬収まらず",
     "summary": "中東でアメリカ軍の兵士が死亡したことについて、アメリカのトランプ大統領は「イランがアメリカ軍の兵士を殺害するたびに、彼らはその何倍もの代償を支払うことになる」としてイランへの攻撃を強化する構えを示しました。一方、イランの革命防衛隊はバーレーンにあるアメリカ軍の無人機の格納庫を破壊したなどとしていて、双方による攻撃の応酬が収まる見通しは立っていません。",
@@ -53,6 +80,19 @@
     "regions": [
       "middle_east",
       "north_america"
+    ]
+  },
+  {
+    "id": "f35a2aa7e671",
+    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+    "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+    "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-21T06:16:06+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -124,19 +164,6 @@
     ]
   },
   {
-    "id": "f35a2aa7e671",
-    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-    "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
-    "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-21T02:41:28+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
     "id": "006b526bd5c8",
     "title": "Why protests are growing in Ukraine over defence leadership and dismissals",
     "summary": "Protests continue as anger grows over President Zelenskyy’s decision to fire the country’s defence minister.",
@@ -147,19 +174,6 @@
     "language": "en",
     "regions": [
       "europe"
-    ]
-  },
-  {
-    "id": "0d05da1fdae7",
-    "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-    "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-    "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-21T00:34:47+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "north_america"
     ]
   },
   {
@@ -189,9 +203,9 @@
     ]
   },
   {
-    "id": "b39da962381b",
-    "title": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
-    "summary": "Explosions reported in Iran's Bandar Abbas, Qeshm Island, Chabahar and Konarak as US launches new wave of attacks.",
+    "id": "0d16d05e26d7",
+    "title": "Iran war live: Tehran attacks Gulf states, Jordan; 2 Hormuz tankers on fire",
+    "summary": "IRGC says it targeted US assets in the Middle East after 10th consecutive night of US attacks with ships in Hormuz hit.",
     "url": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
     "published": "2026-07-21T00:00:00+00:00",
     "source_name": "Al Jazeera",
@@ -267,34 +281,8 @@
     ]
   },
   {
-    "id": "a16e34891743",
-    "title": "Albanian protesters pelt lawmakers’ cars over resort projects",
-    "summary": "Protesters threw eggs at lawmakers' vehicles outside Albania's parliament, demanding changes to laws.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/albanian-protesters-pelt-lawmakers-cars-over-resort-projects?traffic_source=rss",
-    "published": "2026-07-20T21:19:41+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "30b903c25f28",
-    "title": "Trump rejects Mamdani’s threat to arrest Israel’s Netanyahu for war crimes",
-    "summary": "US president insists Netanyahu will not be arrested, despite ICC warrant.",
-    "url": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
-    "published": "2026-07-20T21:06:42+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "5bb8fe57a1d8",
-    "title": "Merger deal between Paramount and Warner Bros paused by judge",
+    "id": "ed40d2363dfc",
+    "title": "Paramount and Warner Bros mega merger paused by judge",
     "summary": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
     "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
     "published": "2026-07-20T19:48:13+00:00",
@@ -506,19 +494,6 @@
     ]
   },
   {
-    "id": "70a687de907f",
-    "title": "US soldier killed and one injured after Iranian attack in Iraq",
-    "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
-    "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-19T19:45:12+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
     "id": "e78a8e9b0c6d",
     "title": "米軍8日連続の攻撃完了 イラン「壊滅的な反撃招く」とけん制",
     "summary": "アメリカ中央軍は、イランの攻撃に対応していた兵士2人が死亡したことを受けて8日連続となるイランへの攻撃を行ったと発表しました。一方、イランの中央司令部は声明で「壊滅的な反撃を招くことになる」などとアメリカを強くけん制していて、攻撃の応酬のさらなる激化が懸念されています。",
@@ -543,19 +518,6 @@
     "language": "ja",
     "regions": [
       "east_asia"
-    ]
-  },
-  {
-    "id": "42500ff9ba80",
-    "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-    "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
-    "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-19T18:25:40+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
     ]
   },
   {
@@ -609,32 +571,6 @@
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "36d71e1481a0",
-    "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-    "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
-    "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-19T07:47:02+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "b144e0d25dce",
-    "title": "New EU border system tripling time at passport control, airport boss says",
-    "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
-    "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-19T01:47:59+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
     "regions": [
       "europe"
     ]
