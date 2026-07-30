@@ -1,5 +1,34 @@
 [
   {
+    "id": "330a48bbcf3d",
+    "title": "アメリカ中央軍 イランへの攻撃を完了したと発表",
+    "summary": "中東地域を管轄するアメリカ中央軍は、アメリカ東部時間の29日午後10時、日本時間の30日午前11時にイランへの攻撃を完了したと発表しました。",
+    "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190431000.html",
+    "published": "2026-07-30T11:31:13+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
+    "id": "efe245df9904",
+    "title": "米大統領「イランを激しく攻撃する」 攻撃の応酬再燃に懸念",
+    "summary": "アメリカのトランプ大統領は、イランが中東に駐留しているアメリカ軍に攻撃を試みたことに触れ「われわれはイランを激しく攻撃する」と述べ、イランに対する報復攻撃に踏み切る考えを示しました。アメリカとイランの間で再び攻撃の応酬がエスカレートする懸念が高まっています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190271000.html",
+    "published": "2026-07-30T08:03:43+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
     "id": "1919fcd4878e",
     "title": "ゼレンスキー大統領「迎撃ミサイル300発必要」支援訴え",
     "summary": "ウクライナのゼレンスキー大統領は、アメリカメディアとのインタビューで、ロシア軍が弾道ミサイルを使用した大規模攻撃を繰り返していると指摘するとともに、防空システム「パトリオット」用の迎撃ミサイル300発が必要だとして、支援を訴えました。",
@@ -11,6 +40,125 @@
     "regions": [
       "europe",
       "north_america"
+    ]
+  },
+  {
+    "id": "9679542874de",
+    "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+    "summary": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
+    "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-30T01:53:25+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "07bf159a41a9",
+    "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+    "summary": "Uncertainty over crude oil supplies via the Strait of Hormuz is pushing Asian states towards Canada's TMX crude oil.",
+    "url": "https://www.aljazeera.com/news/2026/7/30/japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch?traffic_source=rss",
+    "published": "2026-07-30T01:42:30+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia",
+      "north_america"
+    ]
+  },
+  {
+    "id": "1238f57dada5",
+    "title": "Trump cuts WHO off from Gavi vaccine alliance funding",
+    "summary": "Decision follows long-running feud between Trump and UN group.",
+    "url": "https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss",
+    "published": "2026-07-30T00:26:49+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "14d1c2032d39",
+    "title": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
+    "summary": "Returning from the US, Zelenskyy says Ukraine's safety depends on allies’ willingness to provide anti-missile defences.",
+    "url": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
+    "published": "2026-07-30T00:23:13+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "415ea885bd2f",
+    "title": "Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan",
+    "summary": "Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
+    "published": "2026-07-30T00:00:00+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "2a33c20557fd",
+    "title": "Israel slams Canada for statement opposing West Bank settlement expansion",
+    "summary": "Canada says that illegal settlements in occupied Palestinian territory undermine 'peace, security and stability'.",
+    "url": "https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss",
+    "published": "2026-07-29T23:29:24+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
+    "id": "d723bbc412b4",
+    "title": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
+    "summary": "The Department of Justice has issued separate filings in support of Trump's case to toss the defamation award.",
+    "url": "https://www.aljazeera.com/news/2026/7/29/trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court?traffic_source=rss",
+    "published": "2026-07-29T23:25:37+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "abfff0f3c824",
+    "title": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
+    "summary": "Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.",
+    "url": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss",
+    "published": "2026-07-29T23:10:15+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "5f4261f0a483",
+    "title": "India's CJP protests: Why tech alone won't stop exam paper leaks",
+    "summary": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
+    "url": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-29T22:50:14+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_asia"
     ]
   },
   {
@@ -106,8 +254,8 @@
     ]
   },
   {
-    "id": "29713b428b62",
-    "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月29日の動き）",
+    "id": "f0893604744a",
+    "title": "【詳細】ロシア ウクライナに軍事侵攻（7月29日の動き）",
     "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる29日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
     "url": "http://www3.nhk.or.jp/news/html/20260729/k10015141211000.html",
     "published": "2026-07-29T18:58:55+09:00",
@@ -116,19 +264,6 @@
     "language": "ja",
     "regions": [
       "east_asia",
-      "europe"
-    ]
-  },
-  {
-    "id": "4023b3b2ef7a",
-    "title": "Bordeaux wildfire battle continues amid extreme heat",
-    "summary": "Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss",
-    "published": "2026-07-29T18:42:11+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
       "europe"
     ]
   },
@@ -143,58 +278,6 @@
     "language": "en",
     "regions": [
       "middle_east"
-    ]
-  },
-  {
-    "id": "ec36f5ae4477",
-    "title": "Libya electricity blackout protests expose country’s failing grid",
-    "summary": "Libyans protest severe power cuts, demanding an end to corruption and grid decay.",
-    "url": "https://www.aljazeera.com/economy/2026/7/29/libya-electricity-blackout-protests-expose-countrys-failing-grid?traffic_source=rss",
-    "published": "2026-07-29T18:07:19+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
-    "id": "97ac7e86ae27",
-    "title": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
-    "summary": "Construction projects in Yemen are paused as rising fuel prices trigger a domino effect on building material costs.",
-    "url": "https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss",
-    "published": "2026-07-29T17:16:39+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "8bdbcaa08972",
-    "title": "Is the world at risk of another energy shock?",
-    "summary": "Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.",
-    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss",
-    "published": "2026-07-29T16:43:37+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "61815282e130",
-    "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
-    "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
-    "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-29T16:23:41+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
     ]
   },
   {
@@ -330,19 +413,6 @@
     "regions": [
       "africa",
       "north_america"
-    ]
-  },
-  {
-    "id": "51ed6a09b0b6",
-    "title": "Trump administration bans new Chinese humanoid robots",
-    "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
-    "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-29T02:30:50+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia"
     ]
   },
   {
