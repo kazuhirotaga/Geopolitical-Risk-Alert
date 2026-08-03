@@ -1,5 +1,19 @@
 [
   {
+    "id": "466134068e88",
+    "title": "【随時更新】ロシア ウクライナに軍事侵攻（8月3日の動き）",
+    "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる3日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
+    "url": "http://www3.nhk.or.jp/news/html/20260804/k10015192421000.html",
+    "published": "2026-08-04T00:38:42+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "europe"
+    ]
+  },
+  {
     "id": "2716f4a6fbc1",
     "title": "イスラエル軍攻撃で18人死亡の報道 ガザ地区和平へ影響懸念",
     "summary": "パレスチナのガザ地区でイスラエル軍による攻撃が相次ぎ、18人が死亡したと現地メディアが伝えました。イスラム組織ハマスはイスラエルを非難していて、アメリカが主導する和平計画への影響が懸念されます。",
@@ -54,8 +68,101 @@
     ]
   },
   {
-    "id": "2f9ea38d096b",
-    "title": "More than 10 killed as Russia and Ukraine trade heavy attacks",
+    "id": "b2abee590077",
+    "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+    "summary": "Iranians feeling pressure amid US president's on-again, off-again comments on conflict and negotiations.",
+    "url": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
+    "published": "2026-08-03T16:33:08+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "1e165ec873ef",
+    "title": "Inside the Palestine Action protests",
+    "summary": "After the UK proscribed Palestine Action as a terrorist organisation, thousands were arrested or investigated.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss",
+    "published": "2026-08-03T16:30:56+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east",
+      "europe",
+      "north_america"
+    ]
+  },
+  {
+    "id": "2abf448ca1f3",
+    "title": "Romanian navy blasts riverbed to protect nuclear plant",
+    "summary": "Romania's military detonated part of the Danube riverbed to redirect water towards the Cernavoda Nuclear Power Plant.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
+    "published": "2026-08-03T16:01:43+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "41fd8d808f86",
+    "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+    "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+    "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-03T15:57:27+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "2f5a7ab0f3a6",
+    "title": "Russian anti-war politician says he has fled the country",
+    "summary": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
+    "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-03T15:41:08+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "7a816370b7bb",
+    "title": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
+    "summary": "Ethiopian army accused of attacking Tigray forces in Shererina amid escalating tensions at the Sudan-Ethiopia border.",
+    "url": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss",
+    "published": "2026-08-03T15:19:32+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "5d3debb06bf9",
+    "title": "Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain",
+    "summary": "Defence giants Lockheed and Northrop see billion-dollar deals as Pentagon accelerates missile arsenal production",
+    "url": "https://www.aljazeera.com/economy/2026/8/3/pentagon-boosts-patriot-thaad-interceptor-output-amid-stockpile-strain?traffic_source=rss",
+    "published": "2026-08-03T14:47:20+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "474968886633",
+    "title": "More than 17 killed as Russia and Ukraine trade heavy attacks",
     "summary": "Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.",
     "url": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
     "published": "2026-08-03T14:23:07+00:00",
@@ -172,32 +279,6 @@
     ]
   },
   {
-    "id": "debe506b4966",
-    "title": "Ukraine strikes Russia’s biggest retailer again",
-    "summary": "Ukraine has struck another warehouse belonging to Russian e-commerce giant Wildberries in a long-range drone attack.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss",
-    "published": "2026-08-03T11:03:23+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "1d7425f5bbc5",
-    "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
-    "summary": "Israel escalates Gaza attacks and pushes hardline demands, threatening the US-backed peace roadmap.",
-    "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
-    "published": "2026-08-03T10:53:47+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
     "id": "3c5b1352fa98",
     "title": "Sudan army drone strike on court session kills 35, rights group says",
     "summary": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
@@ -208,32 +289,6 @@
     "language": "en",
     "regions": [
       "africa"
-    ]
-  },
-  {
-    "id": "8504dbf2087a",
-    "title": "Wildfires still burning in France and Spain amid fears of more to come",
-    "summary": "Europe's warming climate intensifies fires in France and Spain, scorching forests and threatening more communities.",
-    "url": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss",
-    "published": "2026-08-03T09:32:43+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "cf881cf16182",
-    "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
-    "summary": "Climate change makes Europe's summers hotter, intensifying fires and droughts while threatening lives and economies.",
-    "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
-    "published": "2026-08-03T09:13:59+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
     ]
   },
   {
@@ -289,8 +344,8 @@
     ]
   },
   {
-    "id": "76bd1c0af289",
-    "title": "【随時更新】ロシア ウクライナに軍事侵攻（8月2日の動き）",
+    "id": "c60733ff8039",
+    "title": "【詳細】ロシア ウクライナに軍事侵攻（8月2日の動き）",
     "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる2日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
     "url": "http://www3.nhk.or.jp/news/html/20260802/k10015192411000.html",
     "published": "2026-08-02T09:07:14+09:00",
@@ -846,48 +901,6 @@
     ]
   },
   {
-    "id": "f6721c7214af",
-    "title": "米ウクライナ首脳会談へ 迎撃ミサイルのライセンス生産協議か",
-    "summary": "ウクライナのゼレンスキー大統領は28日、アメリカのトランプ大統領と会談し、アメリカ製の迎撃ミサイルのライセンス生産について協議するものとみられます。",
-    "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188951000.html",
-    "published": "2026-07-28T22:06:16+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "europe",
-      "north_america"
-    ]
-  },
-  {
-    "id": "0df16847c6c8",
-    "title": "【詳細】ロシア ウクライナに軍事侵攻（7月28日の動き）",
-    "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる28日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
-    "url": "http://www3.nhk.or.jp/news/html/20260728/k10015141201000.html",
-    "published": "2026-07-28T19:30:13+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "east_asia",
-      "europe"
-    ]
-  },
-  {
-    "id": "38e3ea185c27",
-    "title": "【詳細】米イラン協議 ホルムズ海峡再開と核開発焦点か 米報道",
-    "summary": "アメリカメディアは、アメリカとイランが仲介国を通じて行っている協議では、ホルムズ海峡の航行再開やイランの核開発をめぐる議論を始めるための取り決めに焦点があてられていると伝えました。一方で、イランの中央司令部はアメリカが海上封鎖を続けていると主張して反発していて、協議の行方は不透明な状況が続いています。",
-    "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187891000.html",
-    "published": "2026-07-28T13:41:55+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "middle_east",
-      "north_america"
-    ]
-  },
-  {
     "id": "8dadb99a1ac0",
     "title": "Climate alarm ‘blaring from every direction’",
     "summary": "Climate-driven disasters are reaching “nightmare proportions” due to humanity’s “addiction” to fossil fuels, a top UN official warned on Tuesday.",
@@ -950,74 +963,6 @@
     "language": "en",
     "regions": [
       "middle_east"
-    ]
-  },
-  {
-    "id": "9720c99ef919",
-    "title": "北朝鮮 朝鮮戦争の休戦協定締結の日“戦勝記念日”で軍が行進",
-    "summary": "北朝鮮のメディアは、朝鮮戦争の休戦協定の締結から73年となった27日、キム・ジョンウン（金正恩）総書記が出席し、軍の行進などの記念行事が行われたと伝えました。",
-    "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187811000.html",
-    "published": "2026-07-28T11:49:02+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "east_asia"
-    ]
-  },
-  {
-    "id": "1672b54b26ff",
-    "title": "フランスによる批判にアメリカが反発 国連安保理で異例の退席",
-    "summary": "国連の安全保障理事会でアメリカの代表が、人権問題をめぐるフランス政府のSNSの投稿などに反発してフランスの代表の発言中に退席する異例の事態が起きました。",
-    "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187761000.html",
-    "published": "2026-07-28T10:56:57+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "europe",
-      "north_america"
-    ]
-  },
-  {
-    "id": "12e95866baf7",
-    "title": "ゼレンスキー大統領 “ロシアは最大で50万人の動員を計画”",
-    "summary": "ウクライナのゼレンスキー大統領は、ロシアのプーチン大統領が軍事侵攻を継続するために、新たに最大50万人を動員する計画があるとの見方を示しました。",
-    "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187691000.html",
-    "published": "2026-07-28T09:06:37+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "ba926b05d1c4",
-    "title": "アフリカ チャド ICCから脱退へ「アメリカから要請受けた」",
-    "summary": "アフリカ中部のチャドは、戦争犯罪などを裁くICC＝国際刑事裁判所から脱退すると発表しました。発表に先立って、アメリカから加盟について考え直すよう要請を受けたとしています。",
-    "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187681000.html",
-    "published": "2026-07-28T08:04:05+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "africa",
-      "north_america"
-    ]
-  },
-  {
-    "id": "0c1f0329856f",
-    "title": "米大統領「合意の可能性ある」 イランは妥協しない姿勢",
-    "summary": "アメリカのトランプ大統領は27日、イランとの協議をめぐり「合意にいたる可能性はある」と述べる一方、協議に進展がなければ再び軍事作戦に踏み切る考えを強調しました。イラン側も妥協しない姿勢を示していて、双方の立場の隔たりが埋まるのか依然、不透明です。",
-    "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187571000.html",
-    "published": "2026-07-28T07:36:55+09:00",
-    "source_name": "NHK World",
-    "source_type": "media",
-    "language": "ja",
-    "regions": [
-      "middle_east",
-      "north_america"
     ]
   }
 ]
