@@ -1,10 +1,37 @@
 [
   {
+    "id": "2716f4a6fbc1",
+    "title": "イスラエル軍攻撃で18人死亡の報道 ガザ地区和平へ影響懸念",
+    "summary": "パレスチナのガザ地区でイスラエル軍による攻撃が相次ぎ、18人が死亡したと現地メディアが伝えました。イスラム組織ハマスはイスラエルを非難していて、アメリカが主導する和平計画への影響が懸念されます。",
+    "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195301000.html",
+    "published": "2026-08-03T22:30:34+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
+    "id": "1426377ba128",
+    "title": "パキスタンで爆発 16人死亡 イスラム過激派組織が犯行声明",
+    "summary": "パキスタン北西部の警察署の前で爆発があり、警察官と市民合わせて16人が死亡しました。この地域を拠点にするイスラム過激派組織が犯行声明を出し、警察が自爆テロとして捜査を進めています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195311000.html",
+    "published": "2026-08-03T21:56:29+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "south_asia"
+    ]
+  },
+  {
     "id": "f59babeafe5d",
     "title": "日米で協調介入 片山財務相 “さらなる実施もちゅうちょせず”",
     "summary": "片山財務大臣は歴史的な円安の是正に向けてアメリカとの協調介入を実施したことを明らかにしたうえで、今後も協調介入の実施をちゅうちょしないという考えを示しました。日本の通貨当局からは「日米通貨同盟の完成形」との受け止めも出ていて、今後、日米が連携して円安に歯止めをかけることができるかが焦点です。",
     "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194421000.html",
-    "published": "2026-08-03T18:20:28+09:00",
+    "published": "2026-08-03T20:40:27+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
@@ -18,12 +45,77 @@
     "title": "ミャンマー民主化指導者スー・チー氏が赤十字関係者と面会発表",
     "summary": "ミャンマーで拘束が続いている民主化運動の指導者、アウン・サン・スー・チー氏が3日、ICRC＝赤十字国際委員会の現地代表と面会したと、軍の影響力が強い政権が発表しました。5年前の軍によるクーデターで拘束されたスー・チー氏の動静が公表されるのは異例で、政権側は早期の解放を求める国際社会に柔軟な姿勢を示すねらいがあるとみられます。",
     "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195111000.html",
-    "published": "2026-08-03T17:41:28+09:00",
+    "published": "2026-08-03T19:44:01+09:00",
     "source_name": "NHK World",
     "source_type": "media",
     "language": "ja",
     "regions": [
       "southeast_asia"
+    ]
+  },
+  {
+    "id": "2f9ea38d096b",
+    "title": "More than 10 killed as Russia and Ukraine trade heavy attacks",
+    "summary": "Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.",
+    "url": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
+    "published": "2026-08-03T14:23:07+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "96c342ab703f",
+    "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+    "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+    "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-03T14:20:56+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "southeast_asia"
+    ]
+  },
+  {
+    "id": "6677bd449554",
+    "title": "Why does Spain have ‘enclaves’ in North Africa?",
+    "summary": "The Spanish enclaves lie on the northern coast of Africa, bordering Morocco.",
+    "url": "https://www.aljazeera.com/news/2026/8/3/why-does-spain-have-enclaves-in-north-africa?traffic_source=rss",
+    "published": "2026-08-03T14:02:43+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "004a8dffff6f",
+    "title": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
+    "summary": "Second round in regional elections held amid deadly clashes and heightened tensions over demands for electoral reforms.",
+    "url": "https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss",
+    "published": "2026-08-03T12:27:27+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_asia"
+    ]
+  },
+  {
+    "id": "a02fe6e9f4e0",
+    "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+    "summary": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
+    "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-03T12:20:11+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
     ]
   },
   {
@@ -38,6 +130,84 @@
     "regions": [
       "middle_east",
       "north_america"
+    ]
+  },
+  {
+    "id": "71f57bf85b1e",
+    "title": "Who will shape post-war Iran?",
+    "summary": "There are competing narratives in Tehran for its post-war recovery.",
+    "url": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss",
+    "published": "2026-08-03T12:11:03+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "aeb17791805a",
+    "title": "Pakistan-administered Kashmir elections and protests – all you need to know",
+    "summary": "Protests over refugee seats turn deadly, forcing staggered elections under internet blackout and calls for a boycott.",
+    "url": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss",
+    "published": "2026-08-03T11:51:30+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_asia"
+    ]
+  },
+  {
+    "id": "8444f55abcb7",
+    "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+    "summary": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
+    "url": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-03T11:49:48+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "debe506b4966",
+    "title": "Ukraine strikes Russia’s biggest retailer again",
+    "summary": "Ukraine has struck another warehouse belonging to Russian e-commerce giant Wildberries in a long-range drone attack.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss",
+    "published": "2026-08-03T11:03:23+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "1d7425f5bbc5",
+    "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
+    "summary": "Israel escalates Gaza attacks and pushes hardline demands, threatening the US-backed peace roadmap.",
+    "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
+    "published": "2026-08-03T10:53:47+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "3c5b1352fa98",
+    "title": "Sudan army drone strike on court session kills 35, rights group says",
+    "summary": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
+    "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-03T10:29:24+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
     ]
   },
   {
@@ -67,58 +237,6 @@
     ]
   },
   {
-    "id": "00c047a5853e",
-    "title": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
-    "summary": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss",
-    "published": "2026-08-03T09:05:04+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "southeast_asia"
-    ]
-  },
-  {
-    "id": "03d91379fa84",
-    "title": "Australia warns H5N1 likely to spread after first mass mortality episode",
-    "summary": "Agriculture minister ​says testing confirmed H5N1 bird flu in a group of 49 dead and 35 sick terns.",
-    "url": "https://www.aljazeera.com/news/2026/8/3/australia-warns-h5n1-likely-to-spread-after-first-mass-mortality-episode?traffic_source=rss",
-    "published": "2026-08-03T09:04:57+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "28e6621ad245",
-    "title": "Trump suggests new talks with Iran to begin on Monday",
-    "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
-    "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-08-03T08:03:15+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "96c342ab703f",
-    "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-    "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
-    "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-08-03T06:53:09+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "southeast_asia"
-    ]
-  },
-  {
     "id": "ef25d9f6e51e",
     "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
     "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
@@ -129,59 +247,6 @@
     "language": "en",
     "regions": [
       "south_asia"
-    ]
-  },
-  {
-    "id": "e1353c93e464",
-    "title": "Iran war live: Iranian foreign ministry says no current talks with US",
-    "summary": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
-    "published": "2026-08-03T00:00:15+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "2943f6515f85",
-    "title": "Brazil’s Lula launches fourth-term bid, focuses on national sovereignty",
-    "summary": "Lula seeks to use Bolsonaro family ties with Trump to cast election as fight against submission to foreign interests.",
-    "url": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss",
-    "published": "2026-08-02T23:37:16+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "south_america"
-    ]
-  },
-  {
-    "id": "d30939d50f9d",
-    "title": "Sudan army drone attack on Darfur kills 35, rights group says",
-    "summary": "Tens of thousands of people have been killed in the ongoing war between army chief al-Burhan and RSF commander Dagalo.",
-    "url": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
-    "published": "2026-08-02T22:51:09+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa",
-      "north_america"
-    ]
-  },
-  {
-    "id": "e3bf616edd45",
-    "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
-    "summary": "Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawtar al-Gharbiyeh.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
-    "published": "2026-08-02T21:18:03+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
@@ -208,32 +273,6 @@
     "language": "en",
     "regions": [
       "middle_east"
-    ]
-  },
-  {
-    "id": "efb505b4634a",
-    "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-    "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-    "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-08-02T10:54:44+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "785228171fbb",
-    "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-    "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-    "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-08-02T10:32:28+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
     ]
   },
   {
@@ -979,71 +1018,6 @@
     "regions": [
       "middle_east",
       "north_america"
-    ]
-  },
-  {
-    "id": "df1b38667ee1",
-    "title": "75 years later, the promise to protect refugees faces its greatest test",
-    "summary": "As the world marks the 75th anniversary of the Refugee Convention, the UN refugee agency (UNHCR) has launched a global campaign urging governments, organizations and individuals to renew their commitment to protecting people forced to flee war, violence and persecution.",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1168036",
-    "published": "2026-07-27T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "8be8b252ce1c",
-    "title": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
-    "summary": "UN Human Rights Chief Volker Türk expressed concern about ongoing displacement and destruction caused by Israeli strikes against Lebanon as he concluded a two-day visit to the country on Monday.",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1168034",
-    "published": "2026-07-27T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "e858da29a157",
-    "title": "Conflict and crisis put six World Heritage sites at risk",
-    "summary": "Armed conflict, insecurity and environmental pressures are threatening ancient cities, historic castles and one of the world's greatest wildlife migrations.",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1168031",
-    "published": "2026-07-27T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "2f6ce3d50227",
-    "title": "Cyberattacks and the digital divide are creating new barriers to HIV services",
-    "summary": "Cyberattacks, data breaches, online harassment and other forms of technology-facilitated violence are becoming significant obstacles to HIV prevention and treatment, according to a UNAIDS specialist who says digital security has become inseparable from the fight against the epidemic itself.",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1168030",
-    "published": "2026-07-27T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "8cceebf6cdac",
-    "title": "Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports",
-    "summary": "The UN Security Council met on Monday at Ukraine’s request, following recent large-scale Russian attacks on Kyiv and elsewhere. At least one civilian was killed and more than a dozen wounded in an overnight strike on the capital on 19 July that also damaged homes and civilian infrastructure. Ukrainian authorities described it as one of the largest and most intense attacks since the invasion began. Follow live updates below.",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1168029",
-    "published": "2026-07-27T12:00:00+00:00",
-    "source_name": "国連ニュース",
-    "source_type": "international_org",
-    "language": "en",
-    "regions": [
-      "europe"
     ]
   }
 ]
