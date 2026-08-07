@@ -1,5 +1,32 @@
 [
   {
+    "id": "e4202ac22708",
+    "title": "“米国防総省高官が中国訪問調整も難航”米メディア",
+    "summary": "アメリカ国防総省の高官が、中国との関係を安定化させようと訪問を数か月にわたって調整しているものの、中国側が慎重な姿勢を示し、調整が難航しているとアメリカメディアが報じました。台湾への武器売却や、中国軍で相次ぐ汚職の摘発などが背景にあるという見方が示されています。",
+    "url": "http://www3.nhk.or.jp/news/html/20260807/k10015198951000.html",
+    "published": "2026-08-07T11:56:46+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "east_asia",
+      "north_america"
+    ]
+  },
+  {
+    "id": "1cc87dad33e0",
+    "title": "原爆で死亡のアメリカ兵追悼 搭乗していた爆撃機の破片も墓に",
+    "summary": "戦時中、広島に墜落したアメリカ軍の爆撃機の機長で、その後原爆によって死亡した兵士の追悼式が東部ペンシルベニア州で行われ、ことし遺族が広島を訪問した際に受け取った爆撃機の機体の一部も墓の横に納められました。",
+    "url": "http://www3.nhk.or.jp/news/html/20260807/k10015198871000.html",
+    "published": "2026-08-07T10:39:33+09:00",
+    "source_name": "NHK World",
+    "source_type": "media",
+    "language": "ja",
+    "regions": [
+      "north_america"
+    ]
+  },
+  {
     "id": "af367f468085",
     "title": "黒海で小麦運搬船がロシア軍に攻撃され1人死亡",
     "summary": "黒海周辺で、ロシアとウクライナの双方による攻撃が激しくなる中、ウクライナの当局者は6日、小麦を運搬していた貨物船がロシアに攻撃され、1人が死亡したと明らかにしたうえで「食料安全保障への脅威だ」と非難しました。",
@@ -10,6 +37,86 @@
     "language": "ja",
     "regions": [
       "europe"
+    ]
+  },
+  {
+    "id": "16e6a33fb285",
+    "title": "Exclusive report with the 308 people rescued by Nigerian forces",
+    "summary": "Nigerian security forces have rescued 308 people abducted in separate attacks in northern Niger and Kwara states.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
+    "published": "2026-08-07T02:30:23+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "83f8403793eb",
+    "title": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
+    "summary": "Israeli forces arrest dozens of Palestinians near Jerusalem amid uptick in military and settler violence in West Bank.",
+    "url": "https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss",
+    "published": "2026-08-07T01:51:50+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east",
+      "north_america"
+    ]
+  },
+  {
+    "id": "87a5aab3b809",
+    "title": "Police in Argentina use tear gas to stop protesters",
+    "summary": "Al Jazeera’s Teresa Bo reports from Buenos Aires, where police fired tear gas as thousands protested.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/police-in-argentina-use-tear-gas-to-stop-protesters?traffic_source=rss",
+    "published": "2026-08-07T01:02:56+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "north_america",
+      "south_america"
+    ]
+  },
+  {
+    "id": "6b029af37f77",
+    "title": "Sudan's invisible children - born in war with no legal identity",
+    "summary": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
+    "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-07T00:26:52+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "b446830dbef8",
+    "title": "After the floods, hunger: Mozambique’s second disaster",
+    "summary": "Lost harvests and disrupted supply routes have pushed many families deeper into food insecurity.",
+    "url": "https://www.aljazeera.com/news/2026/8/7/after-the-floods-hunger-mozambiques-second-disaster?traffic_source=rss",
+    "published": "2026-08-07T00:12:16+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "78b57e27f900",
+    "title": "Iran war live: Trump says war can’t ‘go much longer’; Hormuz deal close",
+    "summary": "The US, Iran, and Oman are close to a temporary deal to reopen the Strait of Hormuz.",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
+    "published": "2026-08-07T00:00:00+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
     ]
   },
   {
@@ -118,32 +225,6 @@
     ]
   },
   {
-    "id": "f43cdb78bbb3",
-    "title": "Sudan war threatens ancient Meroe pyramids",
-    "summary": "Sudan’s ongoing war is endangering the ancient Meroe pyramids, which are a UNESCO World Heritage Site.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids?traffic_source=rss",
-    "published": "2026-08-06T19:14:43+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
-    "id": "6f4bffcbcadd",
-    "title": "The biggest AI bill for parents yet?",
-    "summary": "Congress is pushing a new bill forward that would give parents the power over their kid’s interactions with AI chatbots.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_-final-dnrexp-260805-withrowe-chatbotact-060826?traffic_source=rss",
-    "published": "2026-08-06T19:04:40+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "ebacad1b6062",
     "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
     "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
@@ -157,19 +238,6 @@
     ]
   },
   {
-    "id": "5e367f1ec5e9",
-    "title": "Ceuta’s leader says 100 died in border rush as up to 5,000 still in enclave",
-    "summary": "After migrant surge from Morocco, EU says Spain assured Schengen is safe but warns Europe's borders are 'vulnerable'.",
-    "url": "https://www.aljazeera.com/news/2026/8/6/ceutas-leader-says-100-died-in-border-rush-as-up-to-5000-still-in-enclave?traffic_source=rss",
-    "published": "2026-08-06T18:42:33+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
     "id": "86b865f241a7",
     "title": "韓国軍が竹島周辺で定例訓練 外務省が強く抗議",
     "summary": "韓国軍は、島根県の竹島の周辺海域で定例の訓練を行ったと明らかにしました。これに対し、外務省の金井アジア大洋州局長は強く抗議しました。",
@@ -180,19 +248,6 @@
     "language": "ja",
     "regions": [
       "east_asia"
-    ]
-  },
-  {
-    "id": "cfee643b3f15",
-    "title": "Women expose rape as a weapon of war in Sudan",
-    "summary": "Women displaced by Sudan's war are speaking publicly about surviving rape by Rapid Support Forces fighters.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/women-expose-rape-as-a-weapon-of-war-in-sudan?traffic_source=rss",
-    "published": "2026-08-06T18:05:55+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
     ]
   },
   {
@@ -236,19 +291,6 @@
     ]
   },
   {
-    "id": "2935f917018f",
-    "title": "Houthis launch deadly attacks on Saudi-led coalition forces in Yemen",
-    "summary": "Yemen's Houthis say they launched drones and ballistic missiles in Marib and Hadramout.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/06-08-reported-ansarallah-yemen-yn?traffic_source=rss",
-    "published": "2026-08-06T17:35:07+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
     "id": "000265847dcb",
     "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
     "summary": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
@@ -272,19 +314,6 @@
     "language": "en",
     "regions": [
       "europe"
-    ]
-  },
-  {
-    "id": "1c1c278362b0",
-    "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
-    "summary": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
-    "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-08-06T14:51:47+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
     ]
   },
   {
@@ -434,32 +463,6 @@
     ]
   },
   {
-    "id": "3c0b01c0cedf",
-    "title": "Meta becomes latest firm to say its AI hacked another company",
-    "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
-    "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-    "published": "2026-08-06T05:53:58+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "69886d234317",
-    "title": "Nigerian security forces rescue more than 300 abductees",
-    "summary": "The government says the rescue is the country's largest single-day operation by joint security forces.",
-    "url": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-08-06T04:35:33+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "africa"
-    ]
-  },
-  {
     "id": "a1f633c08b99",
     "title": "【詳細】ロシア ウクライナに軍事侵攻（8月5日の動き）",
     "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる5日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
@@ -470,19 +473,6 @@
     "language": "ja",
     "regions": [
       "east_asia",
-      "europe"
-    ]
-  },
-  {
-    "id": "f93c704861e4",
-    "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-    "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
-    "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-08-05T18:19:51+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
       "europe"
     ]
   },
