@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:10:42.962605",
+  "generated_at": "2026-09-06T22:47:42.735498",
   "indices": [
     {
       "symbol": "^N225",
@@ -64,25 +64,25 @@
     {
       "symbol": "USDJPY=X",
       "label": "ドル円相場",
-      "current_price": 155.90899658203125,
-      "price_formatted": "155.91",
-      "change": 0.248992919921875,
-      "change_formatted": "+0.25",
-      "change_percent": 0.15995947196709764,
-      "change_percent_formatted": "+0.16%",
+      "current_price": 156.22900390625,
+      "price_formatted": "156.23",
+      "change": 0.569000244140625,
+      "change_formatted": "+0.57",
+      "change_percent": 0.3655404283400583,
+      "change_percent_formatted": "+0.37%",
       "trend": "up",
       "date": "2026-09-06"
     },
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 79775.09375,
-      "price_formatted": "79,775",
-      "change": -48.7734375,
-      "change_formatted": "-49",
-      "change_percent": -0.061101321219423035,
-      "change_percent_formatted": "-0.06%",
-      "trend": "down",
+      "current_price": 79939.796875,
+      "price_formatted": "79,940",
+      "change": 115.9296875,
+      "change_formatted": "+116",
+      "change_percent": 0.1452318605758479,
+      "change_percent_formatted": "+0.15%",
+      "trend": "up",
       "date": "2026-09-06"
     },
     {
@@ -90,24 +90,24 @@
       "label": "金 (先物)",
       "current_price": 4476.60009765625,
       "price_formatted": "4,476.60",
-      "change": -15.10009765625,
-      "change_formatted": "-15.10",
-      "change_percent": -0.33617777232791124,
-      "change_percent_formatted": "-0.34%",
-      "trend": "down",
-      "date": "2026-09-04"
+      "change": 46.80029296875,
+      "change_formatted": "+46.80",
+      "change_percent": 1.0564877654115912,
+      "change_percent_formatted": "+1.06%",
+      "trend": "up",
+      "date": "2026-09-06"
     },
     {
       "symbol": "CL=F",
       "label": "原油 (WTI先物)",
       "current_price": 91.4800033569336,
       "price_formatted": "91.48",
-      "change": 0.18000030517578125,
-      "change_formatted": "+0.18",
-      "change_percent": 0.19715257301113057,
-      "change_percent_formatted": "+0.20%",
-      "trend": "up",
-      "date": "2026-09-04"
+      "change": 0.0,
+      "change_formatted": "+0.00",
+      "change_percent": 0.0,
+      "change_percent_formatted": "+0.00%",
+      "trend": "flat",
+      "date": "2026-09-06"
     }
   ]
 }
