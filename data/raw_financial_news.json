@@ -1,10 +1,505 @@
 [
   {
-    "id": "becc2c0db6e2",
-    "title": "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation",
-    "summary": "As Anthropic meets with prospective investors ahead of its potentially historic market debut, CEO Dario Amodei is pushing for a slowdown in AI.",
-    "url": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
-    "published": "2026-09-14T04:01:01+00:00",
+    "id": "67d4e0b7bfa1",
+    "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
+    "summary": "",
+    "url": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
+    "published": "2026-09-14T12:07:19+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "ae51a372c675",
+    "title": "Here are Monday's biggest analyst calls: Nvidia, SpaceX, Apple, GM, Netflix, Affirm, Caterpillar, Broadcom & more",
+    "summary": "Here are Monday's biggest calls on Wall Street.",
+    "url": "https://www.cnbc.com/2026/09/14/monday-wall-street-analyst-calls-like-nvidia.html",
+    "published": "2026-09-14T12:04:24+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "86d98aa1d2db",
+    "title": "Iran says it destroyed U.S. advanced drone over Hormuz as Middle East conflict intensifies",
+    "summary": "Iran said it downed an advanced American drone over the Strait of Hormuz, as Tehran and Washington trade warnings and strikes with no sign of de-escalation.",
+    "url": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
+    "published": "2026-09-14T12:02:21+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "09d32d61927e",
+    "title": "U.S. Treasury yields are steady as 10-year closes in on 5% ahead of Fed rates decision",
+    "summary": "The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Strategists say the drivers behind higher yields are more important.",
+    "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+    "published": "2026-09-14T11:59:26+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "31728f0f6520",
+    "title": "FCA considers exempting tokenized gold from fund rules to defend London market",
+    "summary": "",
+    "url": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market",
+    "published": "2026-09-14T11:58:28+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "c8792959ceae",
+    "title": "CAVA vs. Chewy: Which Consumer Stock Is a Better Buy in 2026?",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cava-vs-chewy-consumer-stock-115131722.html",
+    "published": "2026-09-14T11:51:31+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "e887efc211eb",
+    "title": "Stocks making the biggest moves premarket: Intel, Marvell, CrowdStrike & more",
+    "summary": "These are the stocks posting the largest moves premarket.",
+    "url": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-premarket-intc-mrvl-crwd.html",
+    "published": "2026-09-14T11:51:02+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "5bb9308dab66",
+    "title": "The Stock Market Is Doing Something Incredibly Rare Right Now, and History Has Promising News for Investors",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-doing-something-incredibly-115000643.html",
+    "published": "2026-09-14T11:50:00+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "4257cd694a65",
+    "title": "Nvidia, chip stocks fall as AI CEOs call for slowdown",
+    "summary": "",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-chip-stocks-fall-ai-114634380.html",
+    "published": "2026-09-14T11:46:34+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "70e13c771434",
+    "title": "Live updates: Bitcoin manages small gains as stocks drop on AI concern, oil surges",
+    "summary": "",
+    "url": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
+    "published": "2026-09-14T11:44:21+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "0f99f6a6b8ff",
+    "title": "Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
+    "summary": "",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html",
+    "published": "2026-09-14T11:42:45+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "a08ae8f26728",
+    "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads AI Slowdown Call; Fed Meeting Ahead",
+    "summary": "",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+    "published": "2026-09-14T11:42:40+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "ab4b9b3d1ce3",
+    "title": "The 12% Yield Monthly Income ETF I’d Rather Own in a Taxable Brokerage Account",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/options/articles/12-yield-monthly-income-etf-114208071.html",
+    "published": "2026-09-14T11:42:08+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "1a8ea1dbad7c",
+    "title": "Costco Hiked Its Dividend by 13%. Here Is What a $10,000 Investment Earns Annually.",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/costco-hiked-dividend-13-10-114200655.html",
+    "published": "2026-09-14T11:42:00+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "ee31d0d07ead",
+    "title": "CrowdStrike vs. UiPath: Which Technology Stock Is a Better Buy in 2026?",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-vs-uipath-technology-stock-113410657.html",
+    "published": "2026-09-14T11:34:10+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "cd03c2170f4b",
+    "title": "The S&P 500 Is Trading at a Valuation Not Seen in a Generation. History Has 1 Very Specific Lesson for Investors.",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-trading-valuation-not-113400167.html",
+    "published": "2026-09-14T11:34:00+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "7afdb34633d7",
+    "title": "HPE Stock Is Downgraded After Rising 159% This Year. Why?",
+    "summary": "",
+    "url": "https://www.barrons.com/articles/hpe-hewlett-packard-enterprise-stock-downgrade-4033b0b3?siteid=yhoof2&yptr=yahoo",
+    "published": "2026-09-14T11:32:00+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "27600b9b3023",
+    "title": "Carney, locked in US trade war, pitches Canada to global investment titans",
+    "summary": "",
+    "url": "https://finance.yahoo.com/news/carney-locked-us-trade-war-100319218.html",
+    "published": "2026-09-14T11:31:54+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "north_america"
+    ]
+  },
+  {
+    "id": "b2586186d017",
+    "title": "Tesla Stock Drops as Musk Adds to the Chorus of AI Concern",
+    "summary": "",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-elon-musk-ai-01ebf2d0?siteid=yhoof2&yptr=yahoo",
+    "published": "2026-09-14T11:31:00+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "8a1c52770938",
+    "title": "General Motors has an 'underappreciated' growth driver, UBS says",
+    "summary": "The investment bank has a buy rating on the automotive stock.",
+    "url": "https://www.cnbc.com/2026/09/14/chevrolets-maker-has-an-underappreciated-way-to-grow-ubs-says.html",
+    "published": "2026-09-14T11:29:22+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "ebca2bcaafb5",
+    "title": "Gold prices today, Monday, September 14, 2026: Gold sinks following new attacks on Saudi pipeline and more",
+    "summary": "",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-14-2026-gold-sinks-following-new-attacks-on-saudi-pipeline-and-more-111825907.html",
+    "published": "2026-09-14T11:18:25+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "1a04bf60ff75",
+    "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
+    "summary": "",
+    "url": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
+    "published": "2026-09-14T11:15:00+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "fc97c1e9075b",
+    "title": "India’s retail inflation hits 4.8% in August, rises for 10th straight month",
+    "summary": "India's inflation in August accelerated for the tenth month straight to 4.82% in August amid rising food and fuel prices.",
+    "url": "https://www.cnbc.com/2026/09/14/india-inflation-august-iran-war-energy-el-nino.html",
+    "published": "2026-09-14T11:10:45+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_asia"
+    ]
+  },
+  {
+    "id": "8e55fd254890",
+    "title": "Clarity Act faces make-or-break Senate vote on Tuesday as crypto industry pushes for bill",
+    "summary": "A Senate vote on Tuesday is a put-up-or-shut-up moment for the Clarity Act crypto bill, scheduled by Majority Leader John Thune, R-S.D.",
+    "url": "https://www.cnbc.com/2026/09/14/clarity-act-senate-vote-crypto-regulation.html",
+    "published": "2026-09-14T10:30:01+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "c809da2dae04",
+    "title": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/article/ai-warnings-by-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-could-hammer-this-momentum-stock-101518585.html",
+    "published": "2026-09-14T10:15:18+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "eb6151dfb040",
+    "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+    "summary": "",
+    "url": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
+    "published": "2026-09-14T10:09:41+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "6e2cb2860931",
+    "title": "Analysis-Bitcoin's late summer rally set to face off against the Fed, Congress",
+    "summary": "",
+    "url": "https://finance.yahoo.com/news/analysis-bitcoins-summer-rally-set-100329922.html",
+    "published": "2026-09-14T10:05:05+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "8d2a389631f1",
+    "title": "Why the election could make Washington's looming next fiscal crisis harder",
+    "summary": "Some in the GOP are already disavowing raising the debt ceiling absent deep spending cuts as the national debt balloons past $40 trillion.",
+    "url": "https://www.cnbc.com/2026/09/14/election-debt-limit-fiscal-crisis-congress.html",
+    "published": "2026-09-14T10:00:01+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "c2b61ffdf023",
+    "title": "Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed",
+    "summary": "",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html",
+    "published": "2026-09-14T10:00:00+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "9e14040eae08",
+    "title": "Best high-yield savings interest rates today, Monday, September 14, 2026: Earn up to 4.10% APY",
+    "summary": "",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-14-2026-earn-up-to-410-apy-100000167.html",
+    "published": "2026-09-14T10:00:00+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "fa5602046144",
+    "title": "The market says a Fed rate hike is a done deal. Here's why it might hold steady.",
+    "summary": "",
+    "url": "https://finance.yahoo.com/economy/policy/article/the-market-says-a-fed-rate-hike-is-a-done-deal-heres-why-it-might-hold-steady-100000374.html",
+    "published": "2026-09-14T10:00:00+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "898afb8541c5",
+    "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
+    "published": "2026-09-14T09:36:37+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "ca77e36bf88c",
+    "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
+    "summary": "",
+    "url": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
+    "published": "2026-09-14T09:29:57+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "084d8debb7a5",
+    "title": "Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record",
+    "summary": "U.S. diesel prices have surpassed $6 a gallon for the first time ever as the Ukraine and Iran wars drive broader energy supply concerns.",
+    "url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
+    "published": "2026-09-14T09:11:59+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east",
+      "europe"
+    ]
+  },
+  {
+    "id": "cdb70b0133a1",
+    "title": "Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz",
+    "summary": "Saudi Arabia temporarily shut the roughly 750-mile pipeline as attacks threaten a key alternative to the Strait of Hormuz.",
+    "url": "https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html",
+    "published": "2026-09-14T08:51:57+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east"
+    ]
+  },
+  {
+    "id": "249a90b5e6a2",
+    "title": "Yen appreciation has carry-trade seekers looking at these two currencies",
+    "summary": "",
+    "url": "https://www.cnbc.com/2026/09/14/yen-strength-carry-trade-cad-yuan.html",
+    "published": "2026-09-14T08:22:39+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "59e67603011c",
+    "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+    "summary": "",
+    "url": "https://www.coindesk.com/markets/2026/09/14/bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
+    "published": "2026-09-14T08:07:16+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "ba0c8f020ef6",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
+    "summary": "",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
+    "published": "2026-09-14T08:05:59+00:00",
+    "source_name": "Yahoo Finance",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "243dccc4020d",
+    "title": "Novo Nordisk rebrands to 'Novo,' unveils corporate changes as it fights for obesity market share",
+    "summary": "The Danish drugmaker called the changes the beginning of a new chapter for the company, which faces stiff competition from Eli Lilly.",
+    "url": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
+    "published": "2026-09-14T07:00:01+00:00",
     "source_name": "CNBC - Top News",
     "source_type": "media",
     "language": "en",
@@ -26,59 +521,6 @@
     ]
   },
   {
-    "id": "7602cbeb8ea4",
-    "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates",
-    "summary": "The three major averages are coming off a losing week.",
-    "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
-    "published": "2026-09-14T03:26:57+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "a1565f66cdd6",
-    "title": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months",
-    "summary": "Z.ai shares tumbled after the Chinese AI company announced its second major fundraising in two months.",
-    "url": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
-    "published": "2026-09-14T03:03:58+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "ed9360e9eab9",
-    "title": "Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall",
-    "summary": "Trump said revenue from the Venezuela arrangement has \"paid for the war many times.\"",
-    "url": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
-    "published": "2026-09-14T03:01:13+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
-      "south_america"
-    ]
-  },
-  {
-    "id": "c572f58fac8f",
-    "title": "The 10-year Treasury is closing in on 5%. How it gets there matters more",
-    "summary": "The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Strategists say the drivers behind higher yields are more important.",
-    "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
-    "published": "2026-09-14T01:39:13+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "59864dd794fd",
     "title": "Prediction markets are becoming more professionalized, but also harder to beat",
     "summary": "The institutionalization of prediction markets threatens to erode the edge of skilled traders who earn off mispricing and market inefficiencies, experts say.",
@@ -89,6 +531,19 @@
     "language": "en",
     "regions": [
       "global"
+    ]
+  },
+  {
+    "id": "f6206846548e",
+    "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
+    "summary": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.",
+    "url": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+    "published": "2026-09-14T01:05:56+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia"
     ]
   },
   {
@@ -118,29 +573,16 @@
     ]
   },
   {
-    "id": "4aac4a08c79f",
-    "title": "Here are the 2 big things we're watching in this week's stock market",
-    "summary": "We're looking forward to what promises to be a consequential Federal Reserve meeting and a slew of conferences.",
-    "url": "https://www.cnbc.com/2026/09/13/here-are-the-2-big-things-were-watching-in-this-weeks-stock-market.html",
-    "published": "2026-09-13T16:57:43+00:00",
+    "id": "b51a7efc20e2",
+    "title": "The wages of American workers are under pressure. AI's potential role is drawing more attention",
+    "summary": "Wage growth for workers has slowed and is struggling to keep up with inflation, drawing attention to AI's potential role even as evidence remains incomplete.",
+    "url": "https://www.cnbc.com/2026/09/13/ai-jobs-pay-inflation.html",
+    "published": "2026-09-13T13:52:58+00:00",
     "source_name": "CNBC - Top News",
     "source_type": "media",
     "language": "en",
     "regions": [
       "global"
-    ]
-  },
-  {
-    "id": "1bf0e62df3d1",
-    "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-    "summary": "China will take the lead to help foster artificial-intelligence collaboration and development among developing-economy countries, President Xi Jinping said.",
-    "url": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
-    "published": "2026-09-13T16:38:45+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia"
     ]
   },
   {
@@ -196,38 +638,12 @@
     ]
   },
   {
-    "id": "773a736a0c90",
-    "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+    "id": "392f6179721a",
+    "title": "Crypto’s Clarity Act heads into a make-or-break week with no clear outcome",
     "summary": "",
     "url": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
     "published": "2026-09-13T12:00:00+00:00",
     "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "3fec1aff231b",
-    "title": "Goldman picks China healthcare stocks for a post-AI trade",
-    "summary": "Chinese stocks' earnings tracked by Goldman Sachs grew at their highest quarterly pace in five years.",
-    "url": "https://www.cnbc.com/2026/09/13/goldman-picks-china-healthcare-stocks-for-a-post-ai-trade.html",
-    "published": "2026-09-13T11:54:40+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia"
-    ]
-  },
-  {
-    "id": "6d021d608ec3",
-    "title": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
-    "summary": "The ratings of these experts are backed by in-depth research of a company's financials, and thorough analysis of the factors affecting business performance.",
-    "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
-    "published": "2026-09-13T11:53:35+00:00",
-    "source_name": "CNBC - Top News",
     "source_type": "media",
     "language": "en",
     "regions": [
@@ -261,39 +677,12 @@
     ]
   },
   {
-    "id": "612d87576e6d",
-    "title": "China's Xi urges BRICS nations to work towards peace in the Middle East",
-    "summary": "China, Iran's biggest trading partner and a key customer of Tehran's energy exports, is willing to work with BRICS towards peace in the region, Xi said.",
-    "url": "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html",
-    "published": "2026-09-13T09:41:53+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia",
-      "middle_east"
-    ]
-  },
-  {
     "id": "7165c23aa6f2",
     "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
     "summary": "",
     "url": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
     "published": "2026-09-12T21:09:06+00:00",
     "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "efc6386ffcab",
-    "title": "Dear Nike Stock Fans, Mark Your Calendars for September 21",
-    "summary": "",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/dear-nike-stock-fans-mark-193002692.html",
-    "published": "2026-09-12T19:30:02+00:00",
-    "source_name": "Yahoo Finance",
     "source_type": "media",
     "language": "en",
     "regions": [
@@ -314,71 +703,6 @@
     ]
   },
   {
-    "id": "84fc7d594f3b",
-    "title": "Dear UnitedHealth Stock Fans, Mark Your Calendars for October 1",
-    "summary": "",
-    "url": "https://finance.yahoo.com/healthcare/articles/dear-unitedhealth-stock-fans-mark-183002378.html",
-    "published": "2026-09-12T18:30:02+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "b4aa856ac871",
-    "title": "Is Sysco Stock Underperforming the Dow?",
-    "summary": "",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/sysco-stock-underperforming-dow-174851000.html",
-    "published": "2026-09-12T17:48:51+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "de78bbd10750",
-    "title": "Musk sent governments a message about the robot economy",
-    "summary": "",
-    "url": "https://finance.yahoo.com/economy/articles/musk-sent-governments-message-robot-174700228.html",
-    "published": "2026-09-12T17:47:00+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "274d0fc0f84f",
-    "title": "How Is Exelon’s Stock Performance Compared to Other Regulated Utilities Stocks",
-    "summary": "",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/exelon-stock-performance-compared-other-174300551.html",
-    "published": "2026-09-12T17:43:00+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "e66de6245ccb",
-    "title": "Is Ingersoll Rand Stock Underperforming the S&P 500?",
-    "summary": "",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/ingersoll-rand-stock-underperforming-p-173342076.html",
-    "published": "2026-09-12T17:33:42+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "84566ef214ea",
     "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
     "summary": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company.",
@@ -389,58 +713,6 @@
     "language": "en",
     "regions": [
       "global"
-    ]
-  },
-  {
-    "id": "ec15e763817f",
-    "title": "This 5.8%-Yielding Dividend Stock Has Made 3 Deals -- Including Nearly $3.2 Billion in Acquisitions -- in the Last 2 Weeks. Should Income Investors Be Worried or Excited?",
-    "summary": "",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/5-8-yielding-dividend-stock-165001437.html",
-    "published": "2026-09-12T16:50:01+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "7bfa3d5d3392",
-    "title": "Jim Cramer Explains Why Merck (MRK) Is His Fantasy Defense Stock",
-    "summary": "",
-    "url": "https://finance.yahoo.com/healthcare/articles/jim-cramer-explains-why-merck-164911925.html",
-    "published": "2026-09-12T16:49:11+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "776f412754cf",
-    "title": "Jim Cramer Flips the Script: Why Older Investors Should Ditch Growth Stocks for 30-Year Treasuries",
-    "summary": "",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-flips-script-why-163943096.html",
-    "published": "2026-09-12T16:39:43+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "a3fc6e3a1b63",
-    "title": "Apple, Taiwan Semi Lead Five Stocks Near Buy Points",
-    "summary": "",
-    "url": "https://www.investors.com/news/apple-taiwan-semiconductor-lead-5-top-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-    "published": "2026-09-12T16:22:05+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia"
     ]
   },
   {
@@ -470,20 +742,6 @@
     ]
   },
   {
-    "id": "5cf9ab7c0f8a",
-    "title": "Indian Prime Minister Modi says border peace is key to India-China ties",
-    "summary": "Indian Prime Minister Narendra Modi and Chinese President Xi Jinping addressed concerns around border dispute and the trade imbalance.",
-    "url": "https://www.cnbc.com/2026/09/12/india-china-modi-xi-brics-border.html",
-    "published": "2026-09-12T15:12:56+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia",
-      "south_asia"
-    ]
-  },
-  {
     "id": "e6396c775659",
     "title": "Staked ether should be seen as the benchmark of the decentralized economy",
     "summary": "",
@@ -494,19 +752,6 @@
     "language": "en",
     "regions": [
       "global"
-    ]
-  },
-  {
-    "id": "5e1fd8b06ffd",
-    "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
-    "summary": "The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May.",
-    "url": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
-    "published": "2026-09-12T12:40:05+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia"
     ]
   },
   {
@@ -546,45 +791,6 @@
     "language": "en",
     "regions": [
       "europe"
-    ]
-  },
-  {
-    "id": "57974351700b",
-    "title": "Cramer: This market has eerie parallels with 2018. Here's what investors should do",
-    "summary": "CNBC's Jim Cramer sees parallels between today’s market and the fall of 2018, when rising rates and geopolitical tensions preceded a 20% S&P 500 sell-off.",
-    "url": "https://www.cnbc.com/2026/09/11/cramer-market-eerie-parallels-2018-what-it-means-for-investors.html",
-    "published": "2026-09-11T23:09:35+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "d8d8627fcad3",
-    "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
-    "summary": "On Sept. 11, 2001, hijackers flew planes into the World Trade Center and the Pentagon, killing thousands. Photos capture those marking the 25th anniversary.",
-    "url": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
-    "published": "2026-09-11T22:42:14+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "north_america"
-    ]
-  },
-  {
-    "id": "96a46a121ccb",
-    "title": "A Fed hike next week seems certain after the latest inflation data. Here's what's ahead",
-    "summary": "The latest inflation data failed to soothe fears that pricing pressures will be coming down anytime soon.",
-    "url": "https://www.cnbc.com/2026/09/11/stock-market-next-week-outlook-for-sept-14-18-2026.html",
-    "published": "2026-09-11T20:09:05+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
     ]
   },
   {
@@ -653,129 +859,12 @@
     ]
   },
   {
-    "id": "14bfb017667c",
-    "title": "Core CPI rose a faster-than-forecast 0.3% in August, setting up possible Fed rate hike",
-    "summary": "",
-    "url": "https://www.coindesk.com/markets/2026/09/11/core-cpi-rose-a-faster-than-forecast-0-3-in-august-setting-up-fed-rate-hike",
-    "published": "2026-09-11T12:32:25+00:00",
-    "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "428bfdfa3c54",
     "title": "Debt relief vs. credit counseling: Which is better?",
     "summary": "Debt relief and credit counseling both help consumers climb out of debt. But they have different requirements, costs and drawbacks.",
     "url": "https://www.cnbc.com/select/debt-settlement-vs-debt-management-plan/",
     "published": "2026-09-11T12:01:01+00:00",
     "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "af32411bf057",
-    "title": "Bitcoin and ethereum prices today, Friday, September 11, 2026: Bitcoin falls below $77,000 with key inflation data on deck",
-    "summary": "",
-    "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-11-2026-bitcoin-falls-below-77000-with-key-inflation-data-on-deck-113905130.html",
-    "published": "2026-09-11T11:39:05+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "0610e981eba9",
-    "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
-    "summary": "",
-    "url": "https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report",
-    "published": "2026-09-11T11:20:26+00:00",
-    "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "90cfc66b17ba",
-    "title": "Gold price today, Friday, September 11, 2026: Gold opens at lowest level in over a month ahead of CPI data",
-    "summary": "",
-    "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-11-2026-gold-opens-at-lowest-level-in-over-a-month-ahead-of-cpi-data-111016419.html",
-    "published": "2026-09-11T11:10:16+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "4660dd1ad8c1",
-    "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
-    "summary": "",
-    "url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
-    "published": "2026-09-11T11:04:12+00:00",
-    "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "12560e552fb4",
-    "title": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
-    "summary": "",
-    "url": "https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds",
-    "published": "2026-09-11T10:50:47+00:00",
-    "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "e3b97fcd457e",
-    "title": "Bitcoin pulls back as another golden cross fails to deliver",
-    "summary": "",
-    "url": "https://www.coindesk.com/markets/2026/09/11/bitcoin-pulls-back-as-another-golden-cross-fails-to-deliver",
-    "published": "2026-09-11T10:13:44+00:00",
-    "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "8e745c87e511",
-    "title": "Mortgage and refinance interest rates today, Friday, September 11, 2026: Rates shoot up ahead of CPI data",
-    "summary": "",
-    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-september-11-2026-rates-shoot-up-ahead-of-cpi-data-100000037.html",
-    "published": "2026-09-11T10:00:00+00:00",
-    "source_name": "Yahoo Finance",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "8e74fe5c91a1",
-    "title": "Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them",
-    "summary": "",
-    "url": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them",
-    "published": "2026-09-11T06:17:31+00:00",
-    "source_name": "CoinDesk",
     "source_type": "media",
     "language": "en",
     "regions": [
