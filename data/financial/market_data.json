@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T15:42:33.045019",
+  "generated_at": "2026-09-20T20:31:47.271763",
   "indices": [
     {
       "symbol": "^N225",
@@ -76,12 +76,12 @@
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 80828.9765625,
-      "price_formatted": "80,829",
-      "change": -404.703125,
-      "change_formatted": "-405",
-      "change_percent": -0.4981962242223462,
-      "change_percent_formatted": "-0.50%",
+      "current_price": 81131.71875,
+      "price_formatted": "81,132",
+      "change": -101.9609375,
+      "change_formatted": "-102",
+      "change_percent": -0.12551559635392148,
+      "change_percent_formatted": "-0.13%",
       "trend": "down",
       "date": "2026-09-20"
     },
@@ -100,12 +100,12 @@
     {
       "symbol": "CL=F",
       "label": "原油 (WTI先物)",
-      "current_price": 100.30000305175781,
-      "price_formatted": "100.30",
-      "change": -1.6100006103515625,
-      "change_formatted": "-1.61",
-      "change_percent": -1.57982587822256,
-      "change_percent_formatted": "-1.58%",
+      "current_price": 96.08000183105469,
+      "price_formatted": "96.08",
+      "change": -5.8300018310546875,
+      "change_formatted": "-5.83",
+      "change_percent": -5.720735572127459,
+      "change_percent_formatted": "-5.72%",
       "trend": "down",
       "date": "2026-09-18"
     }
