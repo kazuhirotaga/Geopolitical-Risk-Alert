@@ -1,5 +1,85 @@
 [
   {
+    "id": "e41231273326",
+    "title": "Deadly fire breaks out at Canada military base",
+    "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+    "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-18T03:23:08+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "north_america"
+    ]
+  },
+  {
+    "id": "fd686d7dd4b7",
+    "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
+    "summary": "Kabila’s move raises new questions about the war in eastern Congo and prospects for peace.",
+    "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
+    "published": "2026-10-18T02:21:48+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "africa"
+    ]
+  },
+  {
+    "id": "1a4552e86aa1",
+    "title": "Buildings burn as French protests go into the night",
+    "summary": "Witnesses say masked protesters set fire to Limoges town hall, which officials say is now ‘largely lost’.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
+    "published": "2026-10-18T01:30:46+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "789d037cb4b7",
+    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-18T01:10:25+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "794d347e41f2",
+    "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
+    "summary": "Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+    "published": "2026-10-18T00:00:11+00:00",
+    "source_name": "Al Jazeera",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east",
+      "europe"
+    ]
+  },
+  {
+    "id": "12b64bf19a1b",
+    "title": "European diplomats attacked by Israeli settlers in West Bank",
+    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-17T23:52:38+00:00",
+    "source_name": "BBC - World",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "middle_east",
+      "europe"
+    ]
+  },
+  {
     "id": "cb58dc467c6a",
     "title": "How day of protests unfolded as disorder breaks out across France",
     "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
@@ -15,7 +95,7 @@
   {
     "id": "9e8f5040868c",
     "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-    "summary": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.",
+    "summary": "Hundreds of thousands take to the streets for separate demonstrations, putting pressure on governments across the EU.",
     "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
     "published": "2026-10-17T21:02:26+00:00",
     "source_name": "Al Jazeera",
@@ -92,19 +172,6 @@
     ]
   },
   {
-    "id": "789d037cb4b7",
-    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-    "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-10-17T19:19:19+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
     "id": "38847a326324",
     "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
     "summary": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down.",
@@ -127,20 +194,6 @@
     "source_type": "media",
     "language": "en",
     "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "12b64bf19a1b",
-    "title": "European diplomats attacked by Israeli settlers in West Bank",
-    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-10-17T18:38:57+00:00",
-    "source_name": "BBC - World",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east",
       "europe"
     ]
   },
@@ -168,58 +221,6 @@
     "language": "en",
     "regions": [
       "europe"
-    ]
-  },
-  {
-    "id": "621f0063db54",
-    "title": "Al Jazeera reports from Paris as protests turn violent",
-    "summary": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
-    "published": "2026-10-17T16:56:40+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "north_america"
-    ]
-  },
-  {
-    "id": "92fd3f827413",
-    "title": "Why are Latin American countries building closer ties with Israel?",
-    "summary": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.",
-    "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
-    "published": "2026-10-17T16:54:44+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "middle_east"
-    ]
-  },
-  {
-    "id": "fb5e6c128ff6",
-    "title": "Buildings and cars set on fire as cost of living protests rock France",
-    "summary": "Protesters have set fire to cars and buildings in France as demonstrations escalate.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
-    "published": "2026-10-17T16:00:40+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "europe"
-    ]
-  },
-  {
-    "id": "dd33fbedbeea",
-    "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
-    "summary": "Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms.",
-    "url": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
-    "published": "2026-10-17T14:57:24+00:00",
-    "source_name": "Al Jazeera",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "north_america"
     ]
   },
   {
