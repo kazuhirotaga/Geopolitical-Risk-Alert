@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-22T03:54:13.154285",
+  "generated_at": "2026-10-22T11:24:40.836499",
   "indices": [
     {
       "symbol": "^N225",
       "label": "日経平均株価",
-      "current_price": 63565.33984375,
-      "price_formatted": "63,565.34",
-      "change": -1055.8984375,
-      "change_formatted": "-1,055.90",
-      "change_percent": -1.6339805079321288,
-      "change_percent_formatted": "-1.63%",
+      "current_price": 62907.83984375,
+      "price_formatted": "62,907.84",
+      "change": -1713.3984375,
+      "change_formatted": "-1,713.40",
+      "change_percent": -2.651447856883836,
+      "change_percent_formatted": "-2.65%",
       "trend": "down",
       "date": "2026-10-22"
     },
@@ -40,14 +40,14 @@
     {
       "symbol": "^VIX",
       "label": "VIX指数 (恐怖指数)",
-      "current_price": 16.68000030517578,
-      "price_formatted": "16.68",
-      "change": -0.6299991607666016,
-      "change_formatted": "-0.63",
-      "change_percent": -3.6395099953996644,
-      "change_percent_formatted": "-3.64%",
-      "trend": "down",
-      "date": "2026-10-21"
+      "current_price": 18.219999313354492,
+      "price_formatted": "18.22",
+      "change": 1.539999008178711,
+      "change_formatted": "+1.54",
+      "change_percent": 9.232607793783142,
+      "change_percent_formatted": "+9.23%",
+      "trend": "up",
+      "date": "2026-10-22"
     },
     {
       "symbol": "^TNX",
@@ -64,50 +64,50 @@
     {
       "symbol": "USDJPY=X",
       "label": "ドル円相場",
-      "current_price": 157.6999969482422,
-      "price_formatted": "157.70",
-      "change": -0.5680084228515625,
-      "change_formatted": "-0.57",
-      "change_percent": -0.3588902390724792,
-      "change_percent_formatted": "-0.36%",
+      "current_price": 156.75599670410156,
+      "price_formatted": "156.76",
+      "change": -1.5120086669921875,
+      "change_formatted": "-1.51",
+      "change_percent": -0.9553470162506658,
+      "change_percent_formatted": "-0.96%",
       "trend": "down",
       "date": "2026-10-22"
     },
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 82749.890625,
-      "price_formatted": "82,750",
-      "change": -191.109375,
-      "change_formatted": "-191",
-      "change_percent": -0.23041604875755056,
-      "change_percent_formatted": "-0.23%",
+      "current_price": 81783.921875,
+      "price_formatted": "81,784",
+      "change": -2228.046875,
+      "change_formatted": "-2,228",
+      "change_percent": -2.6520588770275664,
+      "change_percent_formatted": "-2.65%",
       "trend": "down",
       "date": "2026-10-22"
     },
     {
       "symbol": "GC=F",
       "label": "金 (先物)",
-      "current_price": 4109.60009765625,
-      "price_formatted": "4,109.60",
-      "change": -33.0,
-      "change_formatted": "-33.00",
-      "change_percent": -0.7966011495695744,
-      "change_percent_formatted": "-0.80%",
+      "current_price": 4088.300048828125,
+      "price_formatted": "4,088.30",
+      "change": -61.699951171875,
+      "change_formatted": "-61.70",
+      "change_percent": -1.486745811370482,
+      "change_percent_formatted": "-1.49%",
       "trend": "down",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "symbol": "CL=F",
       "label": "原油 (WTI先物)",
-      "current_price": 98.33000183105469,
-      "price_formatted": "98.33",
-      "change": -3.4599990844726562,
-      "change_formatted": "-3.46",
-      "change_percent": -3.399154193292534,
-      "change_percent_formatted": "-3.40%",
-      "trend": "down",
-      "date": "2026-10-21"
+      "current_price": 98.86000061035156,
+      "price_formatted": "98.86",
+      "change": 1.7099990844726562,
+      "change_formatted": "+1.71",
+      "change_percent": 1.7601637237413168,
+      "change_percent_formatted": "+1.76%",
+      "trend": "up",
+      "date": "2026-10-22"
     }
   ]
 }
