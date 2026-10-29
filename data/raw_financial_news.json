@@ -1,10 +1,207 @@
 [
   {
-    "id": "6f34a35cca1e",
-    "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
-    "summary": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.",
-    "url": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
-    "published": "2026-10-29T00:16:39+00:00",
+    "id": "4a5841e19999",
+    "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+    "summary": "The oil major hiked its share buyback program as global volatility in energy markets saw profits soar.",
+    "url": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
+    "published": "2026-10-29T09:35:42+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "3ddca15e5387",
+    "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+    "summary": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+    "url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+    "published": "2026-10-29T09:00:01+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "4ab7c6eb490d",
+    "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
+    "summary": "",
+    "url": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
+    "published": "2026-10-29T09:00:00+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "c3e6e2e2063c",
+    "title": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
+    "summary": "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.",
+    "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+    "published": "2026-10-29T08:54:59+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "cec2f724a4f2",
+    "title": "The chart bitcoin traders should be paying attention to",
+    "summary": "",
+    "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+    "published": "2026-10-29T07:44:44+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "03788ac07e6d",
+    "title": "Tencent, Visa deepen payments push in China after regulatory green light",
+    "summary": "Tencent and Visa are expanding their payments partnership following recent regulatory approvals for foreign financial firms in China.",
+    "url": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
+    "published": "2026-10-29T07:01:50+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "east_asia"
+    ]
+  },
+  {
+    "id": "ac54fdc5718a",
+    "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+    "summary": "Samsung Electronics reported third-quarter earnings on Thursday.",
+    "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+    "published": "2026-10-29T06:53:19+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "031ef8e030b0",
+    "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+    "summary": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
+    "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+    "published": "2026-10-29T06:03:35+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "d248c0aa2be4",
+    "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+    "summary": "",
+    "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+    "published": "2026-10-29T05:54:39+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "a4e712a21796",
+    "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+    "summary": "",
+    "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+    "published": "2026-10-29T05:30:34+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_asia",
+      "europe"
+    ]
+  },
+  {
+    "id": "ac77048166a2",
+    "title": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
+    "summary": "Ahead of Jio's listing, Mukesh Ambani teared up as his three children shared the journey of building Jio and vowed to create value for investors over the next 50 years.",
+    "url": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
+    "published": "2026-10-29T04:55:17+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "south_asia",
+      "europe"
+    ]
+  },
+  {
+    "id": "1fd39c70550b",
+    "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
+    "summary": "CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states.",
+    "url": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
+    "published": "2026-10-29T04:29:32+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "09147e9e891c",
+    "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+    "summary": "The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.",
+    "url": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
+    "published": "2026-10-29T04:00:51+00:00",
+    "source_name": "CNBC - Top News",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "7e20cf036112",
+    "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+    "summary": "",
+    "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+    "published": "2026-10-29T03:32:43+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "41609d08e9ce",
+    "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+    "summary": "",
+    "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+    "published": "2026-10-29T03:21:24+00:00",
+    "source_name": "CoinDesk",
+    "source_type": "media",
+    "language": "en",
+    "regions": [
+      "global"
+    ]
+  },
+  {
+    "id": "9584087f27aa",
+    "title": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
+    "summary": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory.",
+    "url": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
+    "published": "2026-10-29T00:32:02+00:00",
     "source_name": "CNBC - Top News",
     "source_type": "media",
     "language": "en",
@@ -26,11 +223,11 @@
     ]
   },
   {
-    "id": "031ef8e030b0",
-    "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-    "summary": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
-    "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-    "published": "2026-10-28T22:34:56+00:00",
+    "id": "7ef18c55cda0",
+    "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+    "summary": "CNBC’s Jim Cramer said SK Hynix’s blockbuster earnings showed that AI stocks can still rally.",
+    "url": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+    "published": "2026-10-28T23:00:27+00:00",
     "source_name": "CNBC - Top News",
     "source_type": "media",
     "language": "en",
@@ -52,11 +249,11 @@
     ]
   },
   {
-    "id": "9ae87c92316b",
-    "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
-    "summary": "Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.",
-    "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-    "published": "2026-10-28T22:07:17+00:00",
+    "id": "56b2cabc30e1",
+    "title": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
+    "summary": "Weil, Gotshal & Manges, a multinational law firm, has represented major corporations over its nearly century-long history.",
+    "url": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
+    "published": "2026-10-28T22:23:10+00:00",
     "source_name": "CNBC - Top News",
     "source_type": "media",
     "language": "en",
@@ -104,37 +301,11 @@
     ]
   },
   {
-    "id": "fd91d7b964ee",
-    "title": "Stocks making the biggest moves after hours: Alphabet, Microsoft, Chipotle, ServiceNow, Fortinet & more",
-    "summary": "Here are some of the companies making headlines in extended trading.",
-    "url": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-after-hours-googl-msft-cmg-now.html",
-    "published": "2026-10-28T21:09:21+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "464ff851cab3",
     "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
     "summary": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
     "url": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
     "published": "2026-10-28T21:06:37+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "58674aa76e50",
-    "title": "Fed meeting recap: Warsh says central bank will host fewer rate-setting meetings in future years",
-    "summary": "The Federal Reserve held steady on rates at the conclusion of its October meeting, maintaining its target range of 3.75% to 4%.",
-    "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
-    "published": "2026-10-28T21:02:56+00:00",
     "source_name": "CNBC - Top News",
     "source_type": "media",
     "language": "en",
@@ -156,63 +327,11 @@
     ]
   },
   {
-    "id": "911c8a821955",
-    "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
-    "summary": "Treasury yields edged higher as traders await the Federal Reserve's latest monetary policy decision.",
-    "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
-    "published": "2026-10-28T20:17:19+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "a1664a452f1a",
-    "title": "Oracle stock pops 11% as long-term revenue forecast and clarity on financing ease debt concerns",
-    "summary": "Oracle issued a revenue forecast for fiscal year 2030 of $225 billion, and said it will limit additional fundraising over that stretch to $20 billion.",
-    "url": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
-    "published": "2026-10-28T20:00:44+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "30175295ba99",
     "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
     "summary": "The DoubleLine founder spoke with CNBC's \"Closing Bell\" on Wednesday after the Fed held interest rates steady.",
     "url": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
     "published": "2026-10-28T19:53:50+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "74f439e34f0b",
-    "title": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
-    "summary": "The DOJ wants a judge to temporarily block certification of the Alaska Senate election if incumbent Sen. Dan Sullivan loses due to voter confusion.",
-    "url": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
-    "published": "2026-10-28T19:52:06+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "a31c45947f94",
-    "title": "Fed holds rates steady despite concerns over inflation",
-    "summary": "Two of the 12 Federal Open Market Committee voters dissented from the decision. Both wanted to raise rates by a quarter percentage point.",
-    "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-    "published": "2026-10-28T19:43:48+00:00",
     "source_name": "CNBC - Top News",
     "source_type": "media",
     "language": "en",
@@ -234,19 +353,6 @@
     ]
   },
   {
-    "id": "20a9aac3bdf9",
-    "title": "Fed chairman talks tough on inflation — plus, what's behind Micron's big rally",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "url": "https://www.cnbc.com/investingclub/2026/10/28/fed-chairman-talks-tough-on-inflation-plus-whats-behind-microns-big-rally.html",
-    "published": "2026-10-28T19:17:35+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "c7c7bf493fdf",
     "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
     "summary": "",
@@ -260,38 +366,12 @@
     ]
   },
   {
-    "id": "528e763b9363",
-    "title": "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
-    "summary": "With the Club portfolio now down to 31 positions, we are working on new ideas to add to the Bullpen.",
-    "url": "https://www.cnbc.com/investingclub/2026/10/28/were-adding-a-new-high-profile-ai-stock-to-our-bullpen.html",
-    "published": "2026-10-28T18:33:53+00:00",
-    "source_name": "CNBC - Top News",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
     "id": "e3b6a60079f1",
     "title": "Crypto isn’t a partisan fight, proven by data",
     "summary": "",
     "url": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
     "published": "2026-10-28T18:11:31+00:00",
     "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "88dda24b0c6d",
-    "title": "Here is what changed in the new Fed statement",
-    "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in September.",
-    "url": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
-    "published": "2026-10-28T18:06:50+00:00",
-    "source_name": "CNBC - Top News",
     "source_type": "media",
     "language": "en",
     "regions": [
@@ -318,19 +398,6 @@
     "url": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
     "published": "2026-10-28T18:00:42+00:00",
     "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "7b5abc69bea8",
-    "title": "Anthropic is about to go public. Here are the proxies that could benefit",
-    "summary": "Stocks with exposure to the AI company could win as traders buzz over the hot new IPO.",
-    "url": "https://www.cnbc.com/2026/10/28/anthropic-ipo-stocks-funds-etfs-exposure.html",
-    "published": "2026-10-28T17:04:17+00:00",
-    "source_name": "CNBC - Top News",
     "source_type": "media",
     "language": "en",
     "regions": [
@@ -487,71 +554,6 @@
     "summary": "",
     "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
     "published": "2026-10-28T09:00:00+00:00",
-    "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "880a3d52fc90",
-    "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-    "summary": "",
-    "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-    "published": "2026-10-28T05:28:13+00:00",
-    "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "8b08be5c678a",
-    "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-    "summary": "",
-    "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
-    "published": "2026-10-28T05:10:36+00:00",
-    "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "east_asia"
-    ]
-  },
-  {
-    "id": "812cc33cfd0e",
-    "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-    "summary": "",
-    "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
-    "published": "2026-10-28T04:15:20+00:00",
-    "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "31cad8c23ec5",
-    "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-    "summary": "",
-    "url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
-    "published": "2026-10-27T20:41:33+00:00",
-    "source_name": "CoinDesk",
-    "source_type": "media",
-    "language": "en",
-    "regions": [
-      "global"
-    ]
-  },
-  {
-    "id": "79818ac258d8",
-    "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
-    "summary": "",
-    "url": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
-    "published": "2026-10-27T20:32:21+00:00",
     "source_name": "CoinDesk",
     "source_type": "media",
     "language": "en",
