@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:36:18.167974",
+  "generated_at": "2026-11-14T13:11:40.647598",
   "indices": [
     {
       "symbol": "^N225",
@@ -52,11 +52,11 @@
     {
       "symbol": "^TNX",
       "label": "米10年国債利回り",
-      "current_price": 5.154000282287598,
+      "current_price": 5.1539998054504395,
       "price_formatted": "5.15",
-      "change": 0.051000118255615234,
+      "change": 0.05099964141845703,
       "change_formatted": "+0.05",
-      "change_percent": 0.9994143957722122,
+      "change_percent": 0.999405051520931,
       "change_percent_formatted": "+1.00%",
       "trend": "up",
       "date": "2026-11-13"
@@ -76,12 +76,12 @@
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 66993.9296875,
-      "price_formatted": "66,994",
-      "change": -4349.0390625,
-      "change_formatted": "-4,349",
-      "change_percent": -6.095960314939935,
-      "change_percent_formatted": "-6.10%",
+      "current_price": 66783.3984375,
+      "price_formatted": "66,783",
+      "change": -1465.875,
+      "change_formatted": "-1,466",
+      "change_percent": -2.1478250626981263,
+      "change_percent_formatted": "-2.15%",
       "trend": "down",
       "date": "2026-11-14"
     },
