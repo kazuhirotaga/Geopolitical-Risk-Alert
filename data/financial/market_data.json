@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T03:09:38.681201",
+  "generated_at": "2026-11-28T15:15:06.593194",
   "indices": [
     {
       "symbol": "^N225",
@@ -64,36 +64,36 @@
     {
       "symbol": "USDJPY=X",
       "label": "ドル円相場",
-      "current_price": 159.281005859375,
-      "price_formatted": "159.28",
-      "change": 0.066009521484375,
-      "change_formatted": "+0.07",
-      "change_percent": 0.04145936187084268,
-      "change_percent_formatted": "+0.04%",
+      "current_price": 159.51499938964844,
+      "price_formatted": "159.51",
+      "change": 0.2339935302734375,
+      "change_formatted": "+0.23",
+      "change_percent": 0.14690611037453155,
+      "change_percent_formatted": "+0.15%",
       "trend": "up",
-      "date": "2026-11-27"
+      "date": "2026-11-28"
     },
     {
       "symbol": "BTC-USD",
       "label": "ビットコイン (USD)",
-      "current_price": 59897.9296875,
-      "price_formatted": "59,898",
-      "change": -596.78125,
-      "change_formatted": "-597",
-      "change_percent": -0.9865015317067363,
-      "change_percent_formatted": "-0.99%",
+      "current_price": 59314.8203125,
+      "price_formatted": "59,315",
+      "change": -551.55078125,
+      "change_formatted": "-552",
+      "change_percent": -0.9213031810234134,
+      "change_percent_formatted": "-0.92%",
       "trend": "down",
       "date": "2026-11-28"
     },
     {
       "symbol": "GC=F",
       "label": "金 (先物)",
-      "current_price": 3668.5,
-      "price_formatted": "3,668.50",
-      "change": 132.699951171875,
-      "change_formatted": "+132.70",
-      "change_percent": 3.7530388975433135,
-      "change_percent_formatted": "+3.75%",
+      "current_price": 3639.60009765625,
+      "price_formatted": "3,639.60",
+      "change": 103.800048828125,
+      "change_formatted": "+103.80",
+      "change_percent": 2.9356877480254457,
+      "change_percent_formatted": "+2.94%",
       "trend": "up",
       "date": "2026-11-27"
     },
